@@ -278,6 +278,8 @@ open class GenerateBlock {
 
     fun Franchise(id: String, title: String, block: EntryBlock.() -> Unit = {}) = Entry(id, title, block)
 
+    fun Game(id: String, title: String, block: EntryBlock.() -> Unit = {}) = Entry(id, title, block)
+
     fun MAL(id: Int) = "A-MAL-$id"
 
     fun VGMDB_Album(id: Int) = "M-VGMDB-AL-$id"
@@ -448,7 +450,7 @@ open class GenerateBlock {
         return Relation(UnscoredRelation(id, description, num(weight)))
     }
 
-    fun KilledMeme(id: String) = Relation(id, 1e-2, "Killed Meme")
+    fun KilledBy(id: String) = Relation(id, 1e-2, "Killed By")
 
     fun GateOpen(id: String) = Relation(id, 1e-4, "Gate Open")
 
