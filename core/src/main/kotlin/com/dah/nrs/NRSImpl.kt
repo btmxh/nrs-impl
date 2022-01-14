@@ -109,9 +109,9 @@ class Impact(
     val description: String,
     val subscores: Map<Subscore, Map<FactorScore, ScoreNum>>,
     val meta: Map<String, String>,
-    val from: List<String> = listOf()
+    val from: MutableList<String> = arrayListOf()
 ) {
-    fun from(vararg id: String) = Impact(description, subscores, meta, id.toList())
+    fun from(vararg id: String) = this.also { from.addAll(id) }
 }
 
 @Serializable
@@ -133,11 +133,11 @@ class UnscoredRelation(
     val id: String,
     val description: String,
     val weight: ScoreNum,
-    val from: List<String> = listOf()
+    val from: MutableList<String> = arrayListOf()
 ) {
     fun score(score: ScoreNum) = Relation(id, description, weight, from, score)
 
-    fun from(vararg id: String) = UnscoredRelation(this.id, description, weight, id.toList())
+    fun from(vararg id: String) = this.also { from.addAll(id) }
 }
 
 sealed class Subscore(val name: String, val weight: ScoreNum) {
@@ -274,6 +274,11 @@ open class GenerateBlock {
     fun Album(id: String, title: String, block: EntryBlock.() -> Unit = {}) = Entry(id, title) {
         album = true
         block()
+    }
+
+    fun AlbumTrack(albumId: String, trackNum: Int, title: String, vararg artists: String, block: EntryBlock.() -> Unit = {}) {
+        Album(albumId, title)
+        Track("$albumId-$trackNum", title, *artists) { block() }
     }
 
     fun Franchise(id: String, title: String, block: EntryBlock.() -> Unit = {}) = Entry(id, title, block)
@@ -422,12 +427,13 @@ open class GenerateBlock {
     fun SleeplessNight() = Impact("Sleepless Night", Emotion.MU, 4.0)
 
     fun Info(type: FactorScore, newField: Boolean = false) = let {
+        // TODO: nerf info score in the specs
         val impact = when(type) {
-            Information.Politics -> "Political Impact" to 2.0
+            Information.Politics -> "Political Impact" to 0.75
             else -> if(newField) {
-                "New Field Inspiration" to 4.0
+                "New Field Inspiration" to 2.0
             } else {
-                "Known Field Inspiration" to 3.0
+                "Known Field Inspiration" to 1.5
             }
         }
 
