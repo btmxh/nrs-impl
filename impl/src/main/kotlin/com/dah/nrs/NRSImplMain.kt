@@ -237,6 +237,7 @@ fun main() = generate {
 
         Anime("Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV)", MAL = 38256) {
             bestGirl = "Tamaki Iroha"
+            seasonal = true
             // MagiReco-era is one of the most important eras in autism history
             // This is the anime that brought it to life
 
@@ -260,6 +261,7 @@ fun main() = generate {
 
         Anime("Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV) 2nd Season", MAL = 41530) {
             bestGirl = "Tamaki Iroha"
+            seasonal = true
 
             Impact(IrohaWaifu)
             // Community is good
@@ -373,7 +375,6 @@ fun main() = generate {
             Include(MAL(30344))
         }
     }
-
     fun GenerateBlock.SwordArtOnline() {
         AlbumTrack(VGMDB_Album(33537), 1, "crossing field", LiSA) {
             Music(0.3)
@@ -400,7 +401,6 @@ fun main() = generate {
             Include(VGMDB_Track(33537, 1))
         }
     }
-
     fun GenerateBlock.KokoroConnect() {
         Album(VGMDB_Album(35431), """Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song "Kimochi Signal" / Kizu Random Ending Theme Song "Cry out"""")
 
@@ -431,7 +431,6 @@ fun main() = generate {
             Include(VGMDB_Track(35431, 1))
         }
     }
-
     fun GenerateBlock.Sakurasou() {
         AlbumTrack(VGMDB_Album(35015), 1, "Kimi ga Yume wo Tsuretekita") {
             Music(0.7)
@@ -460,7 +459,6 @@ fun main() = generate {
             FeatureMusic(VGMDB_Track(35015, 1))
         }
     }
-
     fun GenerateBlock.Chuunibyou() {
         AlbumTrack(VGMDB_Album(42762), 1, "VOICE", ZAQ) {
             Music(0.1)
@@ -500,7 +498,6 @@ fun main() = generate {
             Include(VGMDB_Track(42762, 1))
         }
     }
-
     fun GenerateBlock.Oregairu() {
         AlbumTrack(VGMDB_Album(37932), 1, "Yukitoki", YanagiNagi) {
             Music(0.6)
@@ -588,6 +585,7 @@ fun main() = generate {
 
         Anime("Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan", MAL = 39547) {
             bestGirl = "Yuigahama Yui"
+            seasonal = true
 
             Meme(0.2, Meme.M1_3Days)
 
@@ -616,7 +614,6 @@ fun main() = generate {
             Include(VGMDB_Track(96290, 1))
         }
     }
-
     fun GenerateBlock.LoveLive() {
         // u's (pls roast me dia)
         AlbumTrack(VGMDB_Album(34051), 1, "Snow halation", Muse) {
@@ -800,6 +797,7 @@ fun main() = generate {
         val NijiMeme = Meme(1.0, Meme.MMoreThan3Months)
         Anime("Love Live! Nijigasaki Gakuen School Idol Doukoukai", MAL = 40879) {
             bestGirl = "Uehara Ayumu"
+            seasonal = true
 
             Impact(NijiMeme)
             Boredom(Boredom.Completed)
@@ -826,6 +824,7 @@ fun main() = generate {
         Anime("Love Live! Superstar!!", MAL = 41169) {
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Arashi Chisato"
+            seasonal = true
             Boredom(Boredom.TempOnHold)
             Meme(0.3, Meme.M4_7Days)
             KilledBy(MAL(41530))
