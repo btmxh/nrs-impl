@@ -29,6 +29,10 @@ fun main() = generate {
     val OnishiAguri = Artist(VGMDB_Artist(29640), "Onishi Aguri")
     val KusunokiTomori = Artist(VGMDB_Artist(27779), "Kusunoki Tomori")
     val TanakaChiemi = Artist(VGMDB_Artist(26954), "Tanaka Chiemi")
+    val Ray = Artist(VGMDB_Artist(13097), "Ray")
+    val KomatsuMikako = Artist(VGMDB_Artist(12665), "Komatsu Mikako")
+    val PetitRabbit = Artist("M-9", "Petit Rabbit's")
+    val MinaseInori = Artist(VGMDB_Artist(15361), "Minase Inori")
 
     fun GenerateBlock.`K-On!`() {
         // OSTs and shit
@@ -869,6 +873,113 @@ fun main() = generate {
             Include(VGMDB_Track(104783, 1))
         }
     }
+    fun GenerateBlock.NagiAsu() {
+        AlbumTrack(VGMDB_Album(41278), 1, "lull ~Soshite Bokura wa~", Ray) {
+            Music(0.2)
+        }
+
+        AlbumTrack(VGMDB_Album(41280), 1, "Aqua Terrarium", YanagiNagi) {
+            Music(0.2)
+        }
+
+        AlbumTrack(VGMDB_Album(42900), 1, "ebb and flow", Ray) {
+            Music(1.0)
+        }
+
+        Track(VGMDB_Track(42900, 3), "nagi", Ray) {
+            Music(0.4)
+        }
+
+        AlbumTrack(VGMDB_Album(43164), 1, "Aqua Terrarium", YanagiNagi) {
+            Music(0.2)
+        }
+
+        Album(VGMDB_Album(45187), "NAGI NO ASUKARA CHARACTER SONG 3")
+        Track(VGMDB_Track(45187, 1), "ripple ~my first love~", KomatsuMikako) {
+            Music(1.5)
+        }
+
+        Anime("Nagi no Asu kara", MAL = 16067) {
+            bestGirl = "Shiodome Miuna"
+            // poor best girl
+            PADS(2, Emotion.CU)
+
+            WaifuUnknownPeriod("Shiodome Miuna", 90)
+
+            Meme(0.7, Meme.M3Weeks_1Month)
+
+            FeatureMusic(VGMDB_Track(41278, 1))
+            FeatureMusic(VGMDB_Track(41280, 1))
+            FeatureMusic(VGMDB_Track(42900, 1))
+            FeatureMusic(VGMDB_Track(42900, 3))
+            FeatureMusic(VGMDB_Track(43164, 1))
+
+            // a character song idk
+            // FeatureMusic(VGMDB_Track(45187, 1))
+        }
+    }
+    fun GenerateBlock.AOT() {
+        Anime("Shingeki no Kyojin", MAL = 16498) {
+            bestGirl = "Ackerman Mikasa"
+        }
+
+        Anime("Shingeki no Kyojin Season 2", MAL = 25777) {
+            bestGirl = "Ackerman Mikasa"
+        }
+
+        Anime("Shingeki no Kyojin Season 3", MAL = 35760) {
+            seasonal = true
+            bestGirl = "Ackerman Mikasa"
+        }
+
+        Anime("Shingeki no Kyojin Season 3 Part 2", MAL = 38524) {
+            seasonal = true
+            bestGirl = "Ackerman Mikasa"
+        }
+
+        Franchise(VGMDB_Franchise(2931), "Shingeki no Kyojin") {
+            Include(MAL(16498))
+            Include(MAL(25777))
+            Include(MAL(35760))
+            Include(MAL(38524))
+        }
+    }
+    fun GenerateBlock.GochiUsa() {
+        AlbumTrack(VGMDB_Album(44890), 1, "Daydream café", PetitRabbit) {
+            // fuwa fuwa
+            // dong do la max do
+            // duy bua ham l
+            // duy bua ngao l
+            Music(1.2)
+        }
+
+        Album(VGMDB_Album(55364), "Is the order a rabbit?? Chino Character Song Album: CUP OF Chino") {
+            // this also includes mahou shoujo chino
+            Include(VGMDB_Track(54418, 1))
+        }
+
+        Track(VGMDB_Track(55364, 3), "Shinsaku no Shiawase wa Kochira!", MinaseInori) {
+            // dan dan kikoeru
+            // lets go i fced the son's insane diff with dt
+            Music(0.9)
+        }
+
+        Album(VGMDB_Album(54418), "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino")
+
+        Track(VGMDB_Track(54418, 1), "Mahou Shoujo Chino", MinaseInori) {
+            Music(0.5)
+        }
+
+        Anime("Gochuumon wa Usagi Desu ka?", MAL = 21273) {
+            Boredom(Boredom.Completed)
+        }
+
+        Franchise(VGMDB_Franchise(3939), "Gochuumon wa Usagi Desu ka?") {
+            Include(MAL(21273))
+            Include(VGMDB_Track(54418, 1))
+            Include(VGMDB_Track(55364, 3))
+        }
+    }
 
     `K-On!`()
     MadokaMagica()
@@ -892,5 +1003,9 @@ fun main() = generate {
     Chuunibyou()
     Oregairu()
     LoveLive()
+    AOT()
+    NagiAsu()
+    GochiUsa()
+
 }.run{}
 
