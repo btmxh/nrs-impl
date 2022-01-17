@@ -550,6 +550,7 @@ fun GenerateBlock.calcImpact(id: String) {
     entry.relations.addAll(entry.contains
         .mapNotNull { entries[it] }
         .flatMap { it.relations }
+        .filter { it.id !in entry.contains } // not allowing self relations
         .toSet())
 
     entry.impactScore = ImpactScore(
