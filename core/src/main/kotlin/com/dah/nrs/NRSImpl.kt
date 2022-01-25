@@ -22,6 +22,8 @@ import kotlin.io.path.Path
 import kotlin.io.path.outputStream
 import kotlin.math.absoluteValue
 import kotlin.math.tanh
+import kotlin.properties.ReadOnlyProperty
+import kotlin.reflect.KProperty
 
 typealias ScoreNum = BigDecimal
 
@@ -152,7 +154,6 @@ class FactorScore constructor(val parent: Subscore, val name: String, val weight
     override fun toString() = name
 }
 
-// TODO: nerf weights in specs
 object Emotion : Subscore("Emotion", 0.6) {
     val ActivatedUnpleasant = factor("ActivatedUnpleasant", 0.3)
     val ActivatedPleasant = factor("ActivatedPleasant", 0.4)
@@ -224,6 +225,16 @@ object Meme {
 val Subscores = listOf(Emotion, Art, Information, Boredom, Fandom, Additional)
 val FactorScores = Subscores.flatMap { it.factors }
 
+fun MAL(id: Int) = "A-MAL-$id"
+
+fun VGMDB_Album(id: Int) = "M-VGMDB-AL-$id"
+
+fun VGMDB_Track(id: Int, trackNum: Int) = "${VGMDB_Album(id)}-$trackNum"
+
+fun VGMDB_Artist(id: Int) = "M-VGMDB-AR-$id"
+
+fun VGMDB_Franchise(id: Int) = "F-VGMDB-$id"
+
 open class GenerateBlock {
     val entries = hashMapOf<String, EntryBlock>()
 
@@ -260,6 +271,10 @@ open class GenerateBlock {
     }
 
     fun Entry(id: String, title: String, block: EntryBlock.() -> Unit = {}): String {
+        if(entries.containsKey(id)) {
+            error("Duplicate entry: $id")
+        }
+
         val entry = EntryBlock(id, title)
         entries[id] = entry
         entry.block()
@@ -284,16 +299,6 @@ open class GenerateBlock {
     fun Franchise(id: String, title: String, block: EntryBlock.() -> Unit = {}) = Entry(id, title, block)
 
     fun Game(id: String, title: String, block: EntryBlock.() -> Unit = {}) = Entry(id, title, block)
-
-    fun MAL(id: Int) = "A-MAL-$id"
-
-    fun VGMDB_Album(id: Int) = "M-VGMDB-AL-$id"
-
-    fun VGMDB_Track(id: Int, trackNum: Int) = "${VGMDB_Album(id)}-$trackNum"
-
-    fun VGMDB_Artist(id: Int) = "M-VGMDB-AR-$id"
-
-    fun VGMDB_Franchise(id: Int) = "F-VGMDB-$id"
 
     open fun Impact(impact: Impact): Impact { return impact }
 
@@ -577,7 +582,7 @@ fun GenerateBlock.calcRelation(id: String) {
         }
 
         if(id in stack) {
-            return relatedEntry.relationScore!!.value
+            return relatedEntry.impactScore!!.value
         }
 
         if(relatedEntry.overallScore == null) {
@@ -621,9 +626,11 @@ data class OutputData(val lastUpdated: String, val entries: List<Entry>)
 
 fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): OutputData {
     val generateBlock = GenerateBlock()
+    Global.generateBlock = generateBlock
     generateBlock.block()
 
     val data = generateBlock.entries.values.map {
+        inspectEntry(it)
         generateBlock.calcOverall(it.id)
         Entry(
             it.id,
@@ -650,4 +657,30 @@ fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): Outpu
     return outputData
 }
 
+fun inspectEntry(entry: EntryBlock) {
+    if(entry.type in arrayOf(EntryType.Anime, EntryType.LightNovel, EntryType.VisualNovel, EntryType.Manga)) {
+        // completable entries
+        // should include a boredom impact
+        val hasBoredomImpact = entry.impacts.any {
+            val boredom = it.subscores[Boredom]?.get(Boredom.BoredomFactor)
+            boredom != null && (boredom.signum() != 0 || it.description.lowercase() == "boredom")
+        }
+        if(!hasBoredomImpact) {
+            println("Entry ${entry.id} (title: '${entry.title}') doesn't have a boredom impact")
+        }
+    }
+}
+
 fun meta(vararg entries: Pair<String, Any>) = mapOf(*entries.map { it.first to it.second.toString() }.toTypedArray())
+
+object Global {
+    lateinit var generateBlock: GenerateBlock
+}
+
+class Artist(id: String, name: String, block: EntryBlock.() -> Unit = {}) : ReadOnlyProperty<Any?, String> {
+    val value by lazy { Global.generateBlock.Artist(id, name, block) }
+
+    override fun getValue(thisRef: Any?, property: KProperty<*>): String {
+        return value
+    }
+}
