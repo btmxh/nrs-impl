@@ -11,9 +11,6 @@ fun GenerateBlock.SB69() {
 
     // Bunnies can fly, and so can cats.
 
-    val AllPlasmagica = arrayOf(InagawaEri, Plasmagica)
-    val AllMashumairesh = arrayOf(TonoHikaru, Mashumairesh)
-
     AlbumTrack(VGMDB_Album(100087), 1, "How To Fly", InagawaEri, TonoHikaru) {
         // rng but the ayumu reference is so fucking good
         // it became a meme lmao
@@ -21,15 +18,15 @@ fun GenerateBlock.SB69() {
         Music(0.2)
     }
 
-    AlbumTrack(VGMDB_Album(51276), 1, "Seishun wa Non-Stop!", *AllPlasmagica) {
+    AlbumTrack(VGMDB_Album(51276), 1, "Seishun wa Non-Stop!", Plasmagica) {
         Music(0.8)
     }
 
-    Track(VGMDB_Track(51276, 2), "Close to you", *AllPlasmagica) {
+    Track(VGMDB_Track(51276, 2), "Close to you", Plasmagica) {
         Music(1.0)
     }
 
-    Track("M-22", "Seishun wa Non-Stop! (Asterisk DnB Remix)", *AllPlasmagica, Asterisk) {
+    Track("M-22", "Seishun wa Non-Stop! (Asterisk DnB Remix)", Plasmagica, Asterisk) {
         Music(1.5)
     }
 
@@ -38,15 +35,15 @@ fun GenerateBlock.SB69() {
     }
 
     Album(VGMDB_Album(51706), "Meikyuu DESTINY/Ryuusei Dreamline")
-    Track(VGMDB_Track(51706, 1), "Meikyuu DESTINY", *AllPlasmagica) {
+    Track(VGMDB_Track(51706, 1), "Meikyuu DESTINY", Plasmagica) {
         Music(1.5)
     }
 
-    Track(VGMDB_Track(51706, 2), "Ryuusei Dreamline", *AllPlasmagica) {
+    Track(VGMDB_Track(51706, 2), "Ryuusei Dreamline", Plasmagica) {
         Music(0.7)
     }
 
-    AlbumTrack(VGMDB_Album(61217), 1, "Heart wo Rock!!", *AllPlasmagica) {
+    AlbumTrack(VGMDB_Album(61217), 1, "Heart wo Rock!!", Plasmagica) {
         Music(2.0)
     }
 
@@ -54,7 +51,7 @@ fun GenerateBlock.SB69() {
         Music(1.25)
     }
 
-    AlbumTrack(VGMDB_Album(61981), 1, "My Resolution ~Mirai e no Kizuna~", *AllPlasmagica) {
+    AlbumTrack(VGMDB_Album(61981), 1, "My Resolution ~Mirai e no Kizuna~", Plasmagica) {
         Music(1.5)
     }
 
@@ -64,31 +61,32 @@ fun GenerateBlock.SB69() {
         Impact("idk", Emotion.MP, 0.5)
     }
 
-    AlbumTrack(VGMDB_Album(59914), 1, "Do Re Mi Fa PARTY", *AllPlasmagica) {
+    AlbumTrack(VGMDB_Album(59914), 1, "Do Re Mi Fa PARTY", Plasmagica) {
         // xd
         Music(0.4)
         Impact("xd", Emotion.AP, 0.2)
     }
 
     Album(VGMDB_Album(93440), "Hiromenes/Kimi no Rhapsody")
-    Track(VGMDB_Track(93440, 1), "Hiromenes", *AllMashumairesh) {
+    Track(VGMDB_Track(93440, 1), "Hiromenes", Mashumairesh) {
         Music(1.5)
         Impact("i like the visual", Emotion.MP, 0.1)
     }
 
-    Track(VGMDB_Track(93440, 3), "Masshiro Start Line", *AllMashumairesh) {
+    Track(VGMDB_Track(93440, 3), "Masshiro Start Line", Mashumairesh) {
         Music(1.5)
         Impact("i like the visual", Emotion.CP, 0.2)
     }
 
-    AlbumTrack(VGMDB_Album(93441), 1, "Yell and Response", *AllMashumairesh) {
+    AlbumTrack(VGMDB_Album(93441), 1, "Yell and Response", Mashumairesh) {
         // angel yell and response
         Music(0.8)
     }
 
     Album(VGMDB_Album(104341), "Do Re Mi Fa STARS!!/Hoshizora Light Story")
-    Track(VGMDB_Track(104341, 1), "Do Re Mi Fa STARS!!", *AllPlasmagica, *AllMashumairesh) {
+    Track(VGMDB_Track(104341, 1), "Do Re Mi Fa STARS!!", Plasmagica, Mashumairesh) {
         // aka ceui - colorful days (mp-based franchise ver.)
+        // or the counting song
         Music(1.5)
     }
 

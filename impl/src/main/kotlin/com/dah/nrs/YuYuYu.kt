@@ -5,7 +5,7 @@ fun GenerateBlock.YuYuYu() {
     // somewhat changed da world
 
     val HeroClub = arrayOf(TeruiHaruka, MimoriSuzuko, UchiyamaYumi, KurosawaTomoyo, NagatsumaJuri)
-    val HeroClub2 = arrayOf(*HeroClub, HanazawaKana)
+    val HeroClubWithSonoko = arrayOf(*HeroClub, HanazawaKana)
     AlbumTrack(VGMDB_Album(47678), 1, "Aurora Days", *HeroClub) {
         Music(0.2)
     }
@@ -18,7 +18,7 @@ fun GenerateBlock.YuYuYu() {
     Album(VGMDB_Album(114186), "Ashita no Hanatachi")
     // the glorious udon stream map
     // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
-    Track(VGMDB_Track(114186, 2), "U・D・N", *HeroClub2) {
+    Track(VGMDB_Track(114186, 2), "U・D・N", *HeroClubWithSonoko) {
         Music(0.8)
     }
 
@@ -26,6 +26,7 @@ fun GenerateBlock.YuYuYu() {
     // koori chikage remained as a meme even after the death
     // of the yuyuyu franchise (blame rst for that)
     // just too based bro, rst and sb69 can't kill her
+    // (but vertexes can sadge)
     val KooriChikageMeme = Meme(0.2, Meme.M1_2Months)
     val KilledByRst = KilledBy(VGMDB_Franchise(7059))
 

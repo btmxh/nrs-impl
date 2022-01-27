@@ -25,15 +25,27 @@ val Nijigaku by Artist(VGMDB_Artist(29922), "Nijigasaki High School Idol Club")
 //    val Liella by Artist(VGMDB_Artist(37385), "Liella!")
 val HayamiSaori by Artist(VGMDB_Artist(6876), "Hayami Saori")
 val ToyamaNao by Artist(VGMDB_Artist(11436), "Toyama Nao")
-val SaitoShuka by Artist(VGMDB_Artist(17551), "Saito Shuka")
-val MaedaKaori by Artist(VGMDB_Artist(29323), "Maeda Kaori")
-val OnishiAguri by Artist(VGMDB_Artist(29640), "Onishi Aguri")
-val KusunokiTomori by Artist(VGMDB_Artist(27779), "Kusunoki Tomori")
-val TanakaChiemi by Artist(VGMDB_Artist(26954), "Tanaka Chiemi")
+val SaitoShuka by Artist(VGMDB_Artist(17551), "Saito Shuka") {
+    Include(Aqours)
+}
+val MaedaKaori by Artist(VGMDB_Artist(29323), "Maeda Kaori") {
+    Include(Nijigaku)
+}
+val OnishiAguri by Artist(VGMDB_Artist(29640), "Onishi Aguri") {
+    Include(Nijigaku)
+}
+val KusunokiTomori by Artist(VGMDB_Artist(27779), "Kusunoki Tomori") {
+    Include(Nijigaku)
+}
+val TanakaChiemi by Artist(VGMDB_Artist(26954), "Tanaka Chiemi") {
+    Include(Nijigaku)
+}
 val Ray by Artist(VGMDB_Artist(13097), "Ray")
 val KomatsuMikako by Artist(VGMDB_Artist(12665), "Komatsu Mikako")
 val PetitRabbit by Artist("M-9", "Petit Rabbit's")
-val MinaseInori by Artist(VGMDB_Artist(15361), "Minase Inori")
+val MinaseInori by Artist(VGMDB_Artist(15361), "Minase Inori") {
+    Include(PetitRabbit)
+}
 val fhana by Artist(VGMDB_Artist(13857), "fhána")
 val YokoyamaMasaru by Artist(VGMDB_Artist(9069), "Yokoyama Masaru")
 val KayanoAi by Artist(VGMDB_Artist(10934), "Kayano Ai")
@@ -41,43 +53,88 @@ val SawaiMiku by Artist(VGMDB_Artist(11958), "Sawai Miku")
 val kamaboko by Artist("M-12", "kamaboko")
 val MAO by Artist(VGMDB_Artist(15350), "M·A·O")
 val TakahashiRie by Artist(VGMDB_Artist(16380), "Takahashi Rie")
-val OzawaAri by Artist(VGMDB_Artist(15998), "Ozawa Ari")
-val MimoriSuzuko by Artist(VGMDB_Artist(10253), "Mimori Suzuko")
+val OzawaAri by Artist(VGMDB_Artist(15998), "Ozawa Ari") {
+    Include(Ortensia)
+}
+val MimoriSuzuko by Artist(VGMDB_Artist(10253), "Mimori Suzuko") {
+    Include(Muse)
+}
 val TeruiHaruka by Artist(VGMDB_Artist(15440), "Terui Haruka")
 val UchiyamaYumi by Artist(VGMDB_Artist(12766), "Uchiyama Yumi")
 val KurosawaTomoyo by Artist(VGMDB_Artist(14180), "Kurosawa Tomoyo")
-val NagatsumaJuri by Artist(VGMDB_Artist(15408), "Nagatsuma Juri")
+val NagatsumaJuri by Artist(VGMDB_Artist(15408), "Nagatsuma Juri") {
+    Include(TROISANGES)
+}
 val HanazawaKana by Artist(VGMDB_Artist(6783), "Hanazawa Kana")
-val MakinoAmane by Artist(VGMDB_Artist(29249), "Makino Amane")
-val KitoAkari by Artist(VGMDB_Artist(26898), "Kito Akari")
-val TazawaMasumi by Artist(VGMDB_Artist(15697), "Tazawa Masumi")
-val TachibanaMeemu by Artist(VGMDB_Artist(29250), "Tachibana Meemu")
-val IwahashiYuka by Artist(VGMDB_Artist(29251), "Iwahashi Yuka")
-val SoramiYuki by Artist(VGMDB_Artist(29252), "Sorami Yuki")
+val MakinoAmane by Artist(VGMDB_Artist(29249), "Makino Amane") {
+    Include(KiRaRe)
+}
+val KitoAkari by Artist(VGMDB_Artist(26898), "Kito Akari") {
+    Include(KiRaRe)
+    Include(Nijigaku)
+}
+val TazawaMasumi by Artist(VGMDB_Artist(15697), "Tazawa Masumi") {
+    Include(KiRaRe)
+}
+val TachibanaMeemu by Artist(VGMDB_Artist(29250), "Tachibana Meemu") {
+    Include(KiRaRe)
+}
+val IwahashiYuka by Artist(VGMDB_Artist(29251), "Iwahashi Yuka") {
+    Include(KiRaRe)
+}
+val SoramiYuki by Artist(VGMDB_Artist(29252), "Sorami Yuki") {
+    Include(KiRaRe)
+}
 val KiRaRe by Artist(VGMDB_Artist(30829), "KiRaRe")
-val HanamoriYumiri by Artist(VGMDB_Artist(15999), "Hanamori Yumiri")
+val HanamoriYumiri by Artist(VGMDB_Artist(15999), "Hanamori Yumiri") {
+    Include(Ortensia)
+}
 // the ortensia (2021) incident
-val MineuchiTomomi by Artist(VGMDB_Artist(27612), "Mineuchi Tomomi")
+val MineuchiTomomi by Artist(VGMDB_Artist(27612), "Mineuchi Tomomi") {
+    Include(Ortensia)
+}
 val Ortensia by Artist("M-13", "ortensia")
-val TakahashiMinami by Artist(VGMDB_Artist(16335), "Takahashi Minami")
-val SuwaAyaka by Artist(VGMDB_Artist(15565), "Suwa Ayaka")
-val TanakaAimi by Artist(VGMDB_Artist(16805), "Tanaka Aimi")
+val TakahashiMinami by Artist(VGMDB_Artist(16335), "Takahashi Minami") {
+    Include(Stellamaris)
+}
+val SuwaAyaka by Artist(VGMDB_Artist(15565), "Suwa Ayaka") {
+    Include(Stellamaris)
+}
+val TanakaAimi by Artist(VGMDB_Artist(16805), "Tanaka Aimi") {
+    Include(Stellamaris)
+}
 val Stellamaris by Artist("M-14", "Stellamaris")
-val HiokaNatsumi by Artist(VGMDB_Artist(17779), "Hioka Natsumi")
-val AbeRika by Artist(VGMDB_Artist(16609), "Abe Rika")
+val HiokaNatsumi by Artist(VGMDB_Artist(17779), "Hioka Natsumi") {
+    Include(TROISANGES)
+}
+val AbeRika by Artist(VGMDB_Artist(16609), "Abe Rika") {
+    Include(TROISANGES)
+}
 val TROISANGES by Artist("M-15", "TROIS ANGES")
-val YamadaNatsumi by Artist(VGMDB_Artist(23810), "Yamada Natsumi")
-val SatouMiki by Artist(VGMDB_Artist(29254), "Satou Miki")
-val TakayanagiTomoyo by Artist(VGMDB_Artist(29231), "Takayanagi Tomoyo")
-val NishidaNozomi by Artist(VGMDB_Artist(17719), "Nishida Nozomi")
+val YamadaNatsumi by Artist(VGMDB_Artist(23810), "Yamada Natsumi") {
+    Include(Tetrarkhia)
+}
+val SatouMiki by Artist(VGMDB_Artist(29254), "Satou Miki") {
+    Include(Tetrarkhia)
+}
+val TakayanagiTomoyo by Artist(VGMDB_Artist(29231), "Takayanagi Tomoyo") {
+    Include(Tetrarkhia)
+}
+val NishidaNozomi by Artist(VGMDB_Artist(17719), "Nishida Nozomi") {
+    Include(Tetrarkhia)
+}
 val Tetrarkhia by Artist("M-16", "Tetrarkhia")
 val keeno by Artist(VGMDB_Artist(15120), "keeno")
 val Deco27 by Artist(VGMDB_Artist(9559), "DECO*27")
 val yuiko by Artist(VGMDB_Artist(4276), "yuiko")
 // cat music is better than kirare
 // nrs is not broken at all amirite
-val InagawaEri by Artist(VGMDB_Artist(16166), "Inagawa Eri")
-val TonoHikaru by Artist(VGMDB_Artist(30564), "Tono Hikaru")
+val InagawaEri by Artist(VGMDB_Artist(16166), "Inagawa Eri") {
+    Include(Plasmagica)
+}
+val TonoHikaru by Artist(VGMDB_Artist(30564), "Tono Hikaru") {
+    Include(Mashumairesh)
+}
 val Plasmagica by Artist("M-18", "Plasmagica")
 val TsureAyaMu by Artist("M-19", "Tsurezurenaru Ayatsuri Mugenan")
 val Mashumairesh by Artist("M-20", "Mashumairesh")
