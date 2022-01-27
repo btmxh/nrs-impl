@@ -65,7 +65,9 @@ data class Entry(
     val type: EntryType,
     val status: EntryStatus,
     val seasonal: Boolean,
-    val score: Score
+    val score: Score,
+    val contains: List<String>,
+    val artists: List<String>
 )
 
 @Serializable
@@ -489,8 +491,8 @@ class EntryBlock(val id: String, val title: String) : GenerateBlock() {
     var status = EntryStatus.Completed
     var seasonal = false
 
-    var artists = arrayListOf<String>()
-    var contains = arrayListOf<String>()
+    var artists = hashSetOf<String>()
+    var contains = hashSetOf<String>()
 
     var impacts = hashSetOf<Impact>()
     var relations = hashSetOf<UnscoredRelation>()
@@ -536,27 +538,6 @@ fun GenerateBlock.calcImpact(id: String) {
     if(entry.impactScore != null) {
         return
     }
-
-    // pre-process
-    if(entry.album) {
-        entries.keys
-            .filter { it.startsWith(id) && it != id }
-            .forEach { entry.contains.add(it) }
-    } else if(entry.artist) {
-        entries.values
-            .filter { it.artists.contains(id) }
-            .forEach { entry.contains.add(it.id) }
-    }
-
-    entry.impacts.addAll(entry.contains
-        .mapNotNull { entries[it] }
-        .flatMap { it.impacts }
-        .toSet())
-    entry.relations.addAll(entry.contains
-        .mapNotNull { entries[it] }
-        .flatMap { it.relations }
-        .filter { it.id !in entry.contains } // not allowing self relations
-        .toSet())
 
     entry.impactScore = ImpactScore(
         entry.impacts.toList(),
@@ -629,6 +610,42 @@ fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): Outpu
     Global.generateBlock = generateBlock
     generateBlock.block()
 
+    fun preprocess(entry: EntryBlock) {
+        val entries = generateBlock.entries
+        val id = entry.id
+        if(entry.album) {
+            entries.keys
+                .filter { it.startsWith(id) && it != id }
+                .forEach { entry.contains.add(it) }
+        } else if(entry.artist) {
+            entries.values
+                .filter { it.artists.contains(id) }
+                .forEach { entry.contains.add(it.id) }
+        }
+
+        entry.contains.mapNotNull { generateBlock.entries[it] }
+            .onEach { preprocess(it) }
+            .map { it.contains }
+            .forEach { entry.contains.addAll(it) }
+
+        entry.impacts.addAll(entry.contains
+            .mapNotNull { entries[it] }
+            .onEach { preprocess(it) }
+            .flatMap { it.impacts }
+            .toSet())
+
+        entry.relations.addAll(entry.contains
+            .mapNotNull { entries[it] }
+            .onEach { preprocess(it) }
+            .flatMap { it.relations }
+            .filter { it.id !in entry.contains } // not allowing self relations
+            .toSet())
+    }
+
+    generateBlock.entries.values.forEach {
+        preprocess(it)
+    }
+
     val data = generateBlock.entries.values.map {
         inspectEntry(it)
         generateBlock.calcOverall(it.id)
@@ -642,7 +659,9 @@ fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): Outpu
                 it.impactScore!!,
                 it.relationScore!!,
                 it.overallScore!!
-            )
+            ),
+            it.contains.toList(),
+            it.artists.toList()
         )
     }
 
