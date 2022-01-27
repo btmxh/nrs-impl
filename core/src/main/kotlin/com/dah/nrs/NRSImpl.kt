@@ -1,4 +1,7 @@
-@file:UseSerializers(ScoreNumSerializer::class, FactorScoreSerializer::class, SubscoreSerializer::class)
+@file:UseSerializers(
+    ScoreNumSerializer::class, FactorScoreSerializer::class,
+    ImpactSubscoreSerializer::class, ImpactScoreSubscoresSerializer::class
+)
 @file:Suppress("unused",         // I'll use them stfu
     "MemberVisibilityCanBePrivate",     // idc
     "FunctionName",                     // It's my DSL, idc about conventions
@@ -48,7 +51,8 @@ object ScoreNumSerializer : OneWayToStringSerializer<ScoreNum>() {
 }
 
 object FactorScoreSerializer : OneWayToStringSerializer<FactorScore>()
-object SubscoreSerializer : OneWayToStringSerializer<Subscore>()
+object ImpactSubscoreSerializer : OneWayToStringSerializer<ImpactSubscore>()
+object ImpactScoreSubscoresSerializer : OneWayToStringSerializer<ImpactScoreSubscores>()
 
 fun num(v: Double): ScoreNum {
     return v.toBigDecimal()
@@ -95,10 +99,19 @@ data class Score(
     val overall: ScoreNum
 )
 
+class ImpactScoreSubscores(base: Map<Subscore, SubscoreValue>) : Map<Subscore, SubscoreValue> by base {
+    override fun toString(): String {
+        return Subscores.joinToString(";") {
+            val values = this[it] ?: SubscoreValue(FactorScores.associateWith { num(0) }, num(0))
+            "${values.value}:" + it.factors.map { values.factorScores[it] ?: num(0) }.joinToString(":")
+        }
+    }
+}
+
 @Serializable
 data class ImpactScore(
     val impacts: List<Impact>,
-    val subscores: Map<Subscore, SubscoreValue>,
+    val subscores: ImpactScoreSubscores,
     val value: ScoreNum = subscores.values.map { it.value }.sum()
 )
 
@@ -108,10 +121,17 @@ data class SubscoreValue(
     val value: ScoreNum = combine(factorScores.values, factorScores.keys.first().parent.weight)
 )
 
+class ImpactSubscore(base: Map<Subscore, Map<FactorScore, ScoreNum>>) : Map<Subscore, Map<FactorScore, ScoreNum>> by base {
+    override fun toString(): String {
+        return FactorScores.map { this[it.parent]?.get(it) }
+            .joinToString(":")
+    }
+}
+
 @Serializable
 class Impact(
     val description: String,
-    val subscores: Map<Subscore, Map<FactorScore, ScoreNum>>,
+    val subscores: ImpactSubscore,
     val meta: Map<String, String>,
     val from: MutableList<String> = arrayListOf()
 ) {
@@ -144,7 +164,7 @@ class UnscoredRelation(
     fun from(vararg id: String) = this.also { from.addAll(id) }
 }
 
-sealed class Subscore(val name: String, val weight: ScoreNum) {
+sealed class Subscore(val name: String, @Transient val weight: ScoreNum = num(0.0)) {
     val factors = arrayListOf<FactorScore>()
     constructor(name: String, weight: Double) : this(name, num(weight))
     fun factor(name: String = this.name, weight: Double = this.weight.toDouble())
@@ -308,9 +328,9 @@ open class GenerateBlock {
 
     fun ImpactEx(description: String = "", meta: Map<String, String> = mapOf(), vararg scores: Pair<FactorScore, ScoreNum>): Impact {
         val scoreMap = mapOf(*scores)
-        val impactScores = Subscores.associateWith { subscore ->
+        val impactScores = ImpactSubscore(Subscores.associateWith { subscore ->
             subscore.factors.associateWith { (scoreMap[it] ?: num(0.0)) }
-        }
+        })
 
         return Impact(Impact(description, impactScores, meta))
     }
@@ -541,7 +561,7 @@ fun GenerateBlock.calcImpact(id: String) {
 
     entry.impactScore = ImpactScore(
         entry.impacts.toList(),
-        Subscores.associateWith { subscore ->
+        ImpactScoreSubscores(Subscores.associateWith { subscore ->
             SubscoreValue(
                 subscore.factors.associateWith { factorScore ->
                     combine(
@@ -550,7 +570,7 @@ fun GenerateBlock.calcImpact(id: String) {
                     )
                 }
             )
-        }
+        })
     )
 }
 
@@ -603,7 +623,12 @@ private val json = Json {
 }
 
 @Serializable
-data class OutputData(val lastUpdated: String, val entries: List<Entry>)
+data class SubscoreMeta(val name: String, val factorScores: List<String>) {
+    constructor(subscore: Subscore): this(subscore.name, subscore.factors.map { it.name })
+}
+
+@Serializable
+data class OutputData(val lastUpdated: String, val subscores: List<SubscoreMeta>, val entries: List<Entry>)
 
 fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): OutputData {
     val generateBlock = GenerateBlock()
@@ -665,7 +690,7 @@ fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): Outpu
         )
     }
 
-    val outputData = OutputData(LocalDateTime.now().toString(), data)
+    val outputData = OutputData(LocalDateTime.now().toString(), Subscores.map { SubscoreMeta(it) }, data)
 
     if(!test) {
         Path("../nrs.json").outputStream(StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING).use {
