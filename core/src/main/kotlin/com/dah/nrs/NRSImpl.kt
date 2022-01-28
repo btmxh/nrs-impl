@@ -365,7 +365,8 @@ open class GenerateBlock {
 
     fun AEI(score: Double, emotion: FactorScore) = let {
         val scale = when(emotion) {
-            Emotion.AU -> 0.3
+            Emotion.AU -> 0.7
+            Emotion.AP, Emotion.MU -> 0.8
             Emotion.MP -> 0.9
             Emotion.CU, Emotion.CP -> 1.0
             else -> error("This emotion/Other factors can't cause AEI")
@@ -381,7 +382,8 @@ open class GenerateBlock {
 
     fun NEI(score: Double, emotion: FactorScore) = let {
         val scale = when(emotion) {
-            Emotion.AU -> 0.2
+            Emotion.AU -> 0.6
+            Emotion.AP, Emotion.MU -> 0.8
             Emotion.MP -> 0.9
             Emotion.CU, Emotion.CP -> 1.0
             else -> error("This emotion/Other factors can't cause NEI")
@@ -433,20 +435,14 @@ open class GenerateBlock {
         )
     }
 
-    fun Humor(score: Double) = let {
-        if(score !in 1.0 .. 4.0) {
-            error("Humor score out of range")
+    fun EHI() = Impact("EHI", Emotion.AP, 3.5)
+
+    fun EPI(score: Double) = let {
+        if(score !in 3.5 .. 4.5) {
+            error("EPI score out of range")
         }
 
-        Impact("Humor", Emotion.AP, score)
-    }
-
-    fun Plot(score: Double) = let {
-        if(score !in 1.0 .. 5.0) {
-            error("Plot score out of range")
-        }
-
-        Impact("Humor", Emotion.AP, score)
+        Impact("EPI", Emotion.AP, score)
     }
 
     fun Jumpscare() = Impact("(Successful) Jumpscare", Emotion.MU, 1.0)
