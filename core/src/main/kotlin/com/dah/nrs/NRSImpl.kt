@@ -388,8 +388,8 @@ open class GenerateBlock {
             Emotion.CU, Emotion.CP -> 1.0
             else -> error("This emotion/Other factors can't cause NEI")
         }
-        if(score !in 1.0 .. 2.0) {
-            error("NEI score not in 2..3 range")
+        if(score !in 0.0 .. 2.0) {
+            error("NEI score not in 0..2 range")
         }
         Impact(
             "NEI (Noticeable Emotion Impact)", emotion,
