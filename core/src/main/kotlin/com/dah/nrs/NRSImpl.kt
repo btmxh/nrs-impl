@@ -630,6 +630,10 @@ fun generate(test: Boolean = false, block: GenerateBlock.() -> Unit = {}): Outpu
     val generateBlock = GenerateBlock()
     Global.generateBlock = generateBlock
     generateBlock.block()
+    // init all artists
+    Artist.artists.filter { !it.property.isInitialized() }
+        .forEach { it.value }
+    Artist.artists.clear()
 
     fun preprocess(entry: EntryBlock) {
         val entries = generateBlock.entries
@@ -718,7 +722,16 @@ object Global {
 }
 
 class Artist(id: String, name: String, block: EntryBlock.() -> Unit = {}) : ReadOnlyProperty<Any?, String> {
-    val value by lazy { Global.generateBlock.Artist(id, name, block) }
+    companion object {
+        val artists = arrayListOf<Artist>()
+    }
+
+    init {
+        artists.add(this)
+    }
+
+    val property = lazy { Global.generateBlock.Artist(id, name, block) }
+    val value by property
 
     override fun getValue(thisRef: Any?, property: KProperty<*>): String {
         return value
