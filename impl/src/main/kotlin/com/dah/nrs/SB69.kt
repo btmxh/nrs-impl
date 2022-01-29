@@ -124,6 +124,8 @@ fun GenerateBlock.SB69() {
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     val SB69Meme = Meme(0.9, Meme.M3Weeks_1Month)
+    // in case of the cat being gen2 ayumu
+    val CyanWaifu = Waifu("Hijirikawa Cyan", "2022-01-15" to today())
 
     Anime("Show by Rock!!", MAL = 27441) {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
@@ -170,6 +172,11 @@ fun GenerateBlock.SB69() {
         // actually the cat appeared in last ep but idc
 
         Impact(SB69Meme)
+
+        // my heart skipped a beat when the cat
+        // appeared in last ep
+        // keking
+        NEI(0.75, Emotion.MP)
 
         FeatureMusic(VGMDB_Track(93440, 1))
         FeatureMusic(VGMDB_Track(93440, 3))
