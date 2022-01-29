@@ -1,8 +1,7 @@
 package com.dah.nrs
 
 fun GenerateBlock.GakkouGurashi() {
-    val GakuenSeikatsubu = arrayOf(MinaseInori, MAO, OzawaAri, TakahashiRie)
-    AlbumTrack(VGMDB_Album(52993), 1, "Friend Shitai", *GakuenSeikatsubu) {
+    AlbumTrack(VGMDB_Album(52993), 1, "Friend Shitai", MinaseInori, MAO, OzawaAri, TakahashiRie) {
         Music(0.8)
     }
 
@@ -19,5 +18,11 @@ fun GenerateBlock.GakkouGurashi() {
         FeatureMusic(VGMDB_Track(53719, 1))
 
         Boredom(Boredom.Completed)
+    }
+
+    Franchise(VGMDB_Franchise(4000), "Gakkougurashi!") {
+        Include(MAL(24765))
+        Include(VGMDB_Track(52993, 1))
+        Include(VGMDB_Track(53719, 1))
     }
 }

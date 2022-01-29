@@ -53,6 +53,7 @@ fun GenerateBlock.Oregairu() {
 
         Impact(HikismYukism)
         Impact(OregairuMeme)
+        NEI(0.7, Emotion.AP)
 
         FeatureMusic(VGMDB_Track(37932, 1))
         FeatureMusic(VGMDB_Track(37999, 2))
@@ -66,6 +67,7 @@ fun GenerateBlock.Oregairu() {
 
         Impact(HikismYukism)
         Impact(OregairuMeme)
+        NEI(0.4, Emotion.AP)
 
         // Oregairu S2 has a lot of drama that I don't even
         // understand. But it's pretty good ngl.
@@ -99,6 +101,7 @@ fun GenerateBlock.Oregairu() {
         // but Oregairu is just dead
         // you can't do much about it
         AEI(2.4, Emotion.CU)
+        NEI(0.2, Emotion.AP)
 
         // killed by lapis re lights lmao xd
         KilledBy(MAL(37587))

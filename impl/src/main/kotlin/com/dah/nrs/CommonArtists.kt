@@ -46,6 +46,7 @@ val PetitRabbit by Artist("M-9", "Petit Rabbit's")
 val MinaseInori by Artist(VGMDB_Artist(15361), "Minase Inori") {
     Include(PetitRabbit)
 }
+val LarvalStagePlanning by Artist(VGMDB_Artist(9455), "Larval Stage Planning")
 val fhana by Artist(VGMDB_Artist(13857), "fhána")
 val YokoyamaMasaru by Artist(VGMDB_Artist(9069), "Yokoyama Masaru")
 val KayanoAi by Artist(VGMDB_Artist(10934), "Kayano Ai")
@@ -145,3 +146,6 @@ val Kano by Artist(VGMDB_Artist(11666), "Kano") {
 }
 val KoyamaHidekazu by Artist(VGMDB_Artist(25289), "Koyama Hidekazu") // aka the god nanou
 val Scop by Artist(VGMDB_Artist(15119), "Scop")
+// harebare fanfaRe:
+val mimimemeMIMI by Artist(VGMDB_Artist(15766), "mimimemeMIMI")
+val WEAVER by Artist(VGMDB_Artist(26886), "WEAVER")

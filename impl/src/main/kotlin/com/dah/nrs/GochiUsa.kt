@@ -27,6 +27,8 @@ fun GenerateBlock.GochiUsa() {
     }
 
     Anime("Gochuumon wa Usagi Desu ka?", MAL = 21273) {
+        // humor not that good tho
+        NEI(0.3, Emotion.AP)
         Boredom(Boredom.Completed)
     }
 

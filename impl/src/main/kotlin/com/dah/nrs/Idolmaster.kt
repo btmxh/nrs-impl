@@ -5,6 +5,9 @@ fun GenerateBlock.Idolmaster() {
     Album(VGMDB_Album(64249), "THE IDOLM@STER CINDERELLA MASTER EVERMORE")
     Album(VGMDB_Album(78253), "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!")
 
+    val Pro765Humor = NEI(1.0, Emotion.AP)
+    val Pro961Humor = NEI(0.5, Emotion.AP)
+
     Track(VGMDB_Track(53945, 1), "Dreaming!") {
         Music(0.6)
         Impact("Legendary osu! beatmap", Emotion.AP, 0.3)
@@ -24,6 +27,8 @@ fun GenerateBlock.Idolmaster() {
         // ending pretty sadge
         NEI(1.2, Emotion.CU)
 
+        Impact(Pro765Humor)
+
         // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
         Music(0.3)
         Boredom(Boredom.Completed)
@@ -31,11 +36,13 @@ fun GenerateBlock.Idolmaster() {
 
     Anime("The iDOLM@STER Cinderella Girls", MAL = 23587) {
         bestGirl = "Ogata Chieri"
+        Impact(Pro961Humor)
         Boredom(Boredom.Completed)
     }
 
     Anime("The iDOLM@STER Cinderella Girls 2nd Season", MAL = 30344) {
         bestGirl = "Ogata Chieri"
+        Impact(Pro961Humor)
         Boredom(Boredom.Completed)
     }
 

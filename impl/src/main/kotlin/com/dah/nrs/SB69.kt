@@ -15,7 +15,7 @@ fun GenerateBlock.SB69() {
         // rng but the ayumu reference is so fucking good
         // it became a meme lmao
         // cats can fly
-        Music(0.2)
+        Music(0.5)
     }
 
     AlbumTrack(VGMDB_Album(51276), 1, "Seishun wa Non-Stop!", Plasmagica) {
@@ -47,7 +47,8 @@ fun GenerateBlock.SB69() {
         Music(2.0)
     }
 
-    AlbumTrack(VGMDB_Album(61940), 1, "Schlehit Melodie/Danzai no Solitude", BUDVIRGINLOGIC) {
+    Album(VGMDB_Album(61940), "Schlehit Melodie/Danzai no Solitude")
+    Track(VGMDB_Track(61940, 1), "Schlehit Melodie", BUDVIRGINLOGIC) {
         Music(1.25)
     }
 
@@ -119,9 +120,12 @@ fun GenerateBlock.SB69() {
         Impact(SB69Meme)
 
         // the lesson thingy was pretty cool ig
+        NEI(1.5, Emotion.MP)
+
         // I almost cried at the ailane thing
-        // but NEI because gigachad animes don't farm tears
-        NEI(1.0, Emotion.MP)
+        // <strikethrough>but NEI because gigachad animes don't farm tears</strikethrough>
+        // didn't care didn't ask
+        AEI(2.0, Emotion.MP)
 
         FeatureMusic(VGMDB_Track(61217, 1))
         FeatureMusic(VGMDB_Track(61940, 1))
@@ -135,7 +139,8 @@ fun GenerateBlock.SB69() {
 
     Anime("Show By Rock!! Mashumairesh!!", MAL = 40763) {
         bestGirl = "Mashima Himeko" // aka himekek
-        // also hoan tinh xdd
+        // main girl is hoan tinh xdddddddddd
+        // chao em co gai howan tinh
         // actually the cat appeared in last ep but idc
 
         Impact(SB69Meme)
@@ -175,16 +180,16 @@ fun GenerateBlock.SB69() {
         Include(MAL(32038))
         Include(MAL(40763))
         Include(MAL(41520))
-        FeatureMusic(VGMDB_Track(51276, 1))
-        FeatureMusic(VGMDB_Track(51278, 1))
-        FeatureMusic(VGMDB_Track(51706, 1))
-        FeatureMusic(VGMDB_Track(51706, 2))
-        FeatureMusic(VGMDB_Track(61217, 1))
-        FeatureMusic(VGMDB_Track(61940, 1))
-        FeatureMusic(VGMDB_Track(61981, 1))
-        FeatureMusic(VGMDB_Track(61981, 3))
-        FeatureMusic(VGMDB_Track(93440, 1))
-        FeatureMusic(VGMDB_Track(93440, 3))
-        FeatureMusic(VGMDB_Track(93441, 1))
+        Include(VGMDB_Track(51276, 1))
+        Include(VGMDB_Track(51278, 1))
+        Include(VGMDB_Track(51706, 1))
+        Include(VGMDB_Track(51706, 2))
+        Include(VGMDB_Track(61217, 1))
+        Include(VGMDB_Track(61940, 1))
+        Include(VGMDB_Track(61981, 1))
+        Include(VGMDB_Track(61981, 3))
+        Include(VGMDB_Track(93440, 1))
+        Include(VGMDB_Track(93440, 3))
+        Include(VGMDB_Track(93441, 1))
     }
 }

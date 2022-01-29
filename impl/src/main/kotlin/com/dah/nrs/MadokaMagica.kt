@@ -77,6 +77,7 @@ fun GenerateBlock.MadokaMagica() {
     val MadoMagiFandom = Impact("MadoMagi fandom is very good (iirc)", Fandom.FandomFactor, 0.25)
     val ReStepGateOpen = GateOpen("GF-VGMDB-7059")
     val KilledByNiji = KilledBy(MAL(40879))
+    val MagiRecoComfy = NEI(1.0, Emotion.MP)
 
     Anime("Mahou Shoujo Madoka★Magica", MAL = 9756){
         bestGirl = "Kaname Madoka"
@@ -124,6 +125,7 @@ fun GenerateBlock.MadokaMagica() {
         // Emotional impacts are all in the game
         // (Madokami's MGS, Sana's backstory)
         Impact(IrohaWaifu)
+        Impact(MagiRecoComfy)
         // Community is good
         Impact(MadoMagiFandom)
         Impact(MagiRecoMeme)
@@ -144,6 +146,7 @@ fun GenerateBlock.MadokaMagica() {
         seasonal = true
 
         Impact(IrohaWaifu)
+        // not that comfy
         // Community is good
         Impact(MadoMagiFandom)
         // Meme was not as good as S1
@@ -173,6 +176,7 @@ fun GenerateBlock.MadokaMagica() {
         Cry(Emotion.CU)
 
         Impact(IrohaWaifu)
+        Impact(MagiRecoComfy)
         // Community is good
         Impact(MadoMagiFandom)
         Impact(MagiRecoMeme)

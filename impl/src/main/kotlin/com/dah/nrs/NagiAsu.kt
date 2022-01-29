@@ -31,6 +31,11 @@ fun GenerateBlock.NagiAsu() {
         // poor best girl
         PADS(2, Emotion.CU)
 
+        // there are other relationships other than the
+        // love triangle of best girl and they did make
+        // an impact
+        NEI(1.5, Emotion.CU)
+
         WaifuUnknownPeriod("Shiodome Miuna", 90)
 
         Meme(0.7, Meme.M3Weeks_1Month)
@@ -42,8 +47,15 @@ fun GenerateBlock.NagiAsu() {
         FeatureMusic(VGMDB_Track(43164, 1))
 
         Boredom(Boredom.Completed)
+    }
 
-        // a character song idk
-        // FeatureMusic(VGMDB_Track(45187, 1))
+    Franchise(VGMDB_Franchise(2662), "Nagi no Asu kara") {
+        Include(MAL(16067))
+        Include(VGMDB_Track(41278, 1))
+        Include(VGMDB_Track(41280, 1))
+        Include(VGMDB_Track(42900, 1))
+        Include(VGMDB_Track(42900, 3))
+        Include(VGMDB_Track(43164, 1))
+        Include(VGMDB_Track(45187, 1))
     }
 }

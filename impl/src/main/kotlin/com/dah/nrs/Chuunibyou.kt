@@ -12,13 +12,17 @@ fun GenerateBlock.Chuunibyou() {
         // idk why
         // this is taken from NRS1
         Meme(0.15, Meme.M1_3Days)
-        Humor(1.5)
+        // this made me laugh my ass off
+        NEI(1.0, Emotion.AP)
         Boredom(Boredom.Completed)
     }
 
     Anime("Chuunibyou demo Koi ga Shitai! Ren", MAL = 18671) {
         bestGirl = "Nibutani Shinka"
-        Humor(1.5)
+        // this made me laugh my ass off
+        // but s2 has less comedy than s1
+        // because le funny dead ppl pink-haired girl
+        NEI(0.75, Emotion.AP)
         // Shichimiya dead people almost made me cry
         // YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI
         AEI(3.0, Emotion.CU)
@@ -30,6 +34,9 @@ fun GenerateBlock.Chuunibyou() {
     Anime("Chuunibyou demo Koi ga Shitai! Movie: Take On Me", MAL = 35608) {
         bestGirl = "Nibutani Shinka"
         Boredom(Boredom.Completed)
+        // movie is funny, but still less content
+        // than s1 and s2
+        NEI(0.5, Emotion.AP)
     }
 
     Franchise(VGMDB_Franchise(2330), "Chuunibyou demo Koi ga Shitai!") {

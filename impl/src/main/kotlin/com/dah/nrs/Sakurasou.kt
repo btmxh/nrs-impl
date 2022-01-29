@@ -10,7 +10,7 @@ fun GenerateBlock.Sakurasou() {
 
         // This is a very good compoly story, meaning
         // there are a lot of truly sad moments in this
-        // anime. But a lot records have been lost and
+        // anime. But a lot of records have been lost and
         // idk why I'm sad. The previous impl gave AEI(5),
         // which is equivalent to AEI(3) in this impl
         // but idc so 2.5
@@ -26,5 +26,10 @@ fun GenerateBlock.Sakurasou() {
         Boredom(Boredom.Completed)
 
         FeatureMusic(VGMDB_Track(35015, 1))
+    }
+
+    Franchise(VGMDB_Franchise(2090), "Sakurasou no Pet na Kanojo") {
+        Include(MAL(13759))
+        Include(VGMDB_Track(35015, 1))
     }
 }

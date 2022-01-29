@@ -1,6 +1,6 @@
 package com.dah.nrs
 
-fun GenerateBlock.`K-On!`() {
+fun GenerateBlock.`K-On`() {
     // OSTs and shit
     Album(VGMDB_Album(20118), "Utauyo!!MIRACLE")
     Album(VGMDB_Album(21146), "HO-KAGO TEA TIME Second")
@@ -37,6 +37,7 @@ fun GenerateBlock.`K-On!`() {
     // Kinda comfy. But not that much.
     val KOnComfy = NEI(1.0, Emotion.MP)
         .from(MAL(5680), MAL(7791), MAL(9617))
+    val KOnHumor = NEI(0.5, Emotion.AP)
     // During my 9th grade, K-On memes basically dominate the meme world
     // (with other anime, hence the low strength)
     val KOnMeme = Meme(0.5, Meme.MMoreThan3Months)
@@ -49,6 +50,7 @@ fun GenerateBlock.`K-On!`() {
         // K-On is pretty boring (4.5 PMMS in NRS1)
         Boredom(Boredom.CompletedWithNoticeableBoredom)
         Impact(KOnMeme)
+        Impact(KOnHumor)
 
         // Kira Kira Days not featured in S1
     }
@@ -60,6 +62,7 @@ fun GenerateBlock.`K-On!`() {
         // K-On is pretty boring (4.5 PMMS in NRS1)
         Boredom(Boredom.CompletedWithNoticeableBoredom)
         Impact(KOnMeme)
+        Impact(KOnHumor)
 
         FeatureMusic(VGMDB_Track(21146, 9))
         FeatureMusic(VGMDB_Track(22848, 2))
@@ -72,6 +75,7 @@ fun GenerateBlock.`K-On!`() {
         // K-On is pretty boring (4.5 PMMS in NRS1)
         Boredom(Boredom.Completed)
         Impact(KOnMeme)
+        Impact(KOnHumor)
 
         FeatureMusic(VGMDB_Track(21146, 9))
     }

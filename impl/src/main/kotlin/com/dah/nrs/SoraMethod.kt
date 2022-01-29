@@ -1,7 +1,7 @@
 package com.dah.nrs
 
 fun GenerateBlock.SoraMethod() {
-    AlbumTrack(VGMDB_Album(47402), 1, "Stargazer") { // by Larvel Stage Planning
+    AlbumTrack(VGMDB_Album(47402), 1, "Stargazer", LarvalStagePlanning) {
         Music(0.8)
     }
 
@@ -27,5 +27,11 @@ fun GenerateBlock.SoraMethod() {
         FeatureMusic(VGMDB_Track(47403, 1))
 
         Boredom(Boredom.Completed)
+    }
+
+    Franchise(VGMDB_Franchise(2894), "Sora no Method") {
+        Include(MAL(23209))
+        Include(VGMDB_Track(47402, 1))
+        Include(VGMDB_Track(47403, 1))
     }
 }

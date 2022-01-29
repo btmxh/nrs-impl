@@ -2,7 +2,7 @@ package com.dah.nrs
 
 fun GenerateBlock.Saekano() {
     val MegumiKato = WaifuUnknownPeriod("Megumi Kato", 90)
-    val SaekanoHumor = Humor(3.0)
+    val SaekanoHumor = NEI(1.75, Emotion.AP)
     val SaekanoMeme = Meme(0.5, Meme.M1_2Months)
 
     AlbumTrack(VGMDB_Album(48199), 1, "M♭", KayanoAi) {
@@ -48,7 +48,8 @@ fun GenerateBlock.Saekano() {
     Anime("Saenai Heroine no Sodatekata Fine", MAL = 36885) {
         bestGirl = "Megumi Kato"
         Impact(MegumiKato)
-        Humor(1.0)
+        // humor
+        NEI(1.25, Emotion.AP)
 
         Boredom(Boredom.Completed)
     }

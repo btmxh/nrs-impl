@@ -8,19 +8,26 @@ fun GenerateBlock.KokoroConnect() {
     }
 
     val KokoroConnectDrama = AEI(3.0, Emotion.CU)
+    val KKCComfyCompoly = NEI(0.2, Emotion.MP)
+    val KKCPlot = NEI(0.5, Emotion.AP)
 
     Anime("Kokoro Connect", MAL = 11887) {
         bestGirl = "Nagase Iori"
 
         Impact(KokoroConnectDrama)
-        FeatureMusic(VGMDB_Track(35431, 1))
+        Impact(KKCComfyCompoly)
+        Impact(KKCPlot)
         Boredom(Boredom.Completed)
+
+        FeatureMusic(VGMDB_Track(35431, 1))
     }
 
     Anime("Kokoro Connect: Michi Random", MAL = 16001) {
         bestGirl = "Nagase Iori"
 
         Impact(KokoroConnectDrama)
+        Impact(KKCComfyCompoly)
+        Impact(KKCPlot)
         Boredom(Boredom.Completed)
     }
 

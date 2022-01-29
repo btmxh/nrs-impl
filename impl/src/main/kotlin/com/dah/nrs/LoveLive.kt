@@ -137,9 +137,11 @@ fun GenerateBlock.LoveLive() {
 
     // Anime
     val SIPMeme = Meme(0.4, Meme.M4_7Days)
+    val SIPHumor = NEI(1.5, Emotion.AP)
     Anime("Love Live! School Idol Project", MAL = 15051) {
         bestGirl = "Nishikino Maki"
         Impact(SIPMeme)
+        Impact(SIPHumor)
         FeatureMusic(VGMDB_Track(36547, 1))
         Boredom(Boredom.Completed)
     }
@@ -147,6 +149,7 @@ fun GenerateBlock.LoveLive() {
     Anime("Love Live! School Idol Project 2nd Season", MAL = 19111) {
         bestGirl = "Nishikino Maki"
         Impact(SIPMeme)
+        Impact(SIPHumor)
         FeatureMusic(VGMDB_Track(34051, 1))
         Boredom(Boredom.Completed)
     }
@@ -154,13 +157,16 @@ fun GenerateBlock.LoveLive() {
     Anime("Love Live! The School Idol Movie", MAL = 24997) {
         bestGirl = "Nishikino Maki"
         Impact(SIPMeme)
+        Impact(SIPHumor)
         Boredom(Boredom.Completed)
     }
 
     val SunshineMeme = Meme(0.6, Meme.M1_2Weeks)
+    val SunshineHumor = NEI(1.0, Emotion.AP)
     Anime("Love Live! Sunshine!!", MAL = 32526) {
         bestGirl = "Sakurauchi Riko"
         Impact(SunshineMeme)
+        Impact(SunshineHumor)
         FeatureMusic(VGMDB_Track(58147, 1))
         FeatureMusic(VGMDB_Track(58750, 1))
         Boredom(Boredom.Completed)
@@ -169,6 +175,7 @@ fun GenerateBlock.LoveLive() {
     Anime("Love Live! Sunshine!! 2nd Season", MAL = 34973) {
         bestGirl = "Sakurauchi Riko"
         Impact(SunshineMeme)
+        Impact(SunshineHumor)
         FeatureMusic(VGMDB_Track(58147, 1))
         FeatureMusic(VGMDB_Track(70622, 1))
         Boredom(Boredom.Completed)
@@ -177,15 +184,18 @@ fun GenerateBlock.LoveLive() {
     Anime("Love Live! Sunshine!! The School Idol Movie: Over the Rainbow", MAL = 37027) {
         bestGirl = "Sakurauchi Riko"
         Impact(SunshineMeme)
+        Impact(SunshineHumor)
         Boredom(Boredom.Completed)
     }
 
     val NijiMeme = Meme(1.0, Meme.MMoreThan3Months)
+    val NijiHumor = NEI(1.0, Emotion.AP)
     Anime("Love Live! Nijigasaki Gakuen School Idol Doukoukai", MAL = 40879) {
         bestGirl = "Uehara Ayumu"
         seasonal = true
 
         Impact(NijiMeme)
+        Impact(NijiHumor)
         Boredom(Boredom.Completed)
 
         // Ayumu dead people arc
@@ -197,7 +207,7 @@ fun GenerateBlock.LoveLive() {
         // toxic stuff with LL and shit
         NEI(2.0, Emotion.AU)
 
-        Waifu("Uehara Ayumu", "2020-11-02" to "2020-11-02")
+        Waifu("Uehara Ayumu", "2020-11-02" to "2021-02-15")
 
         KilledBy(VGMDB_Artist(11666))
 

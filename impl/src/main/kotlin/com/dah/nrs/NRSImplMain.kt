@@ -7,7 +7,7 @@
 package com.dah.nrs
 
 fun main() = generate {
-    `K-On!`()
+    `K-On`()
     MadokaMagica()
     Idolmaster()
     SwordArtOnline()
@@ -15,13 +15,13 @@ fun main() = generate {
 
     Anime("Koi to Senkyo to Chocolate", MAL = 12175) {
         // iirc i liked this anime's plot
-        Plot(1.2)
+        NEI(1.0, Emotion.AP)
         Boredom(Boredom.Completed)
     }
 
     Anime("Hyouka", MAL = 12189) {
         // ig it's kinda good
-        Plot(1.0)
+        NEI(0.75, Emotion.AP)
         Boredom(Boredom.Completed)
     }
 
@@ -51,6 +51,7 @@ fun main() = generate {
     Saekano()
     GakkouGurashi()
     YuYuYu()
+    YamadaKun()
     ReStage()
     OnsenMusume()
     SB69()

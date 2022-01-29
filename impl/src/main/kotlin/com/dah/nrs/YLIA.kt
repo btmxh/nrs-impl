@@ -41,4 +41,10 @@ fun GenerateBlock.YLIA() {
 
         Boredom(Boredom.Completed)
     }
+
+    Franchise(VGMDB_Franchise(3345), "Shigatsu wa Kimi no Uso") {
+        Include(MAL(23273))
+        Include(VGMDB_Track(49046, 1))
+        Include(VGMDB_Track(49046, 18))
+    }
 }

@@ -3,9 +3,7 @@ package com.dah.nrs
 fun GenerateBlock.ReStage() {
     // changed da world
 
-    // A sky, filled with colors.
-    // It was painted by a girl, and her name is Uehara Ayumu.
-
+    // A sky, filled with colors, which was painted by a girl.
     // She changed everything.
     // She gave me power, reason to live, and most importantly,
     // the urge to sing.
@@ -14,18 +12,12 @@ fun GenerateBlock.ReStage() {
 
     // But then.
     // It was all gone.
-    // The stage was then just a liveless world.
+    // The stage was then just a lifeless world.
     // The light went out, and no one was there.
 
     // But,
     // Like a book that was closed opened up
     // rst has changed da world.
-
-    val AllKiRaRe = arrayOf(KiRaRe, MakinoAmane, KitoAkari, TazawaMasumi, TachibanaMeemu, IwahashiYuka, SoramiYuki)
-    val AllOrtensia = arrayOf(Ortensia, OzawaAri, HanamoriYumiri, MineuchiTomomi)
-    val AllStellamaris = arrayOf(Stellamaris, TakahashiMinami, SuwaAyaka, TanakaAimi)
-    val AllTROISANGES = arrayOf(TROISANGES, HiokaNatsumi, AbeRika, NagatsumaJuri)
-    val AllTetrarkhia = arrayOf(Tetrarkhia, YamadaNatsumi, SatouMiki, TakayanagiTomoyo, NishidaNozomi)
 
     val ReStageTracks = arrayListOf<String>()
     fun AddTrack(album: Int, trackNum: Int) {
@@ -33,18 +25,18 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(78536, 1)
-    AlbumTrack(VGMDB_Album(78536), 1, "Startin' My Re:STAGE!!", *AllKiRaRe) {
+    AlbumTrack(VGMDB_Album(78536), 1, "Startin' My Re:STAGE!!", KiRaRe) {
         Music(0.3)
     }
 
     AddTrack(78534, 1)
-    AlbumTrack(VGMDB_Album(78534), 1, "Remembers!", *AllKiRaRe) {
+    AlbumTrack(VGMDB_Album(78534), 1, "Remembers!", KiRaRe) {
         Music(0.3)
         Impact("century man reference", Emotion.AP, 0.1)
     }
 
     AddTrack(78534, 2)
-    Track(VGMDB_Track(78534, 2), "Kimi ni Okuru Angel Yell", *AllKiRaRe) {
+    Track(VGMDB_Track(78534, 2), "Kimi ni Okuru Angel Yell", KiRaRe) {
         // not only is this song a banger, but it also has like literally 1 trillion memes
         // like the incident
         // yell and response
@@ -54,7 +46,7 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(78575, 1)
-    AlbumTrack(VGMDB_Album(78575), 1, "Natsu no Yakusoku", *AllKiRaRe) {
+    AlbumTrack(VGMDB_Album(78575), 1, "Natsu no Yakusoku", KiRaRe) {
         Music(0.6)
     }
 
@@ -64,27 +56,27 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(78532, 1)
-    Track(VGMDB_Track(78532, 1), "Akogare Future Sign", *AllKiRaRe) {
+    Track(VGMDB_Track(78532, 1), "Akogare Future Sign", KiRaRe) {
         Music(0.8)
     }
 
     AddTrack(78525, 1)
-    AlbumTrack(VGMDB_Album(78525), 1, "FlowerS ~Tonari de Saku Hana no you ni~", *AllOrtensia) {
+    AlbumTrack(VGMDB_Album(78525), 1, "FlowerS ~Tonari de Saku Hana no you ni~", Ortensia) {
         Music(0.4)
     }
 
     AddTrack(78525, 1)
-    Track(VGMDB_Track(78525, 2), "Dream a gate", *AllOrtensia) {
+    Track(VGMDB_Track(78525, 2), "Dream a gate", Ortensia) {
         Music(0.4)
     }
 
     AddTrack(78522, 1)
-    AlbumTrack(VGMDB_Album(78522), 1, "Stage of Star", *AllStellamaris) {
+    AlbumTrack(VGMDB_Album(78522), 1, "Stage of Star", Stellamaris) {
         Music(0.5)
     }
 
     AddTrack(78522, 2)
-    Track(VGMDB_Track(78522, 2), "Koi wa Fusion", *AllStellamaris) {
+    Track(VGMDB_Track(78522, 2), "Koi wa Fusion", Stellamaris) {
         Music(0.45)
     }
 
@@ -97,43 +89,43 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(78530, 1)
-    Track(VGMDB_Track(78530, 1), "Do it!! PARTY!!", *AllKiRaRe) {
+    Track(VGMDB_Track(78530, 1), "Do it!! PARTY!!", KiRaRe) {
         Music(1.5)
     }
 
     AddTrack(78520, 1)
-    AlbumTrack(VGMDB_Album(78520), 1, "Purple Rays", *AllOrtensia) {
+    AlbumTrack(VGMDB_Album(78520), 1, "Purple Rays", Ortensia) {
         Music(1.0)
     }
 
     AddTrack(78520, 2)
-    Track(VGMDB_Track(78520, 2), "Dear My Friend", *AllOrtensia) {
+    Track(VGMDB_Track(78520, 2), "Dear My Friend", Ortensia) {
         Music(1.25)
         Impact("dear my friend ld", Emotion.AP, 0.2)
     }
 
     AddTrack(78518, 1)
-    AlbumTrack(VGMDB_Album(78518), 1, "Secret Dream", *AllStellamaris) {
+    AlbumTrack(VGMDB_Album(78518), 1, "Secret Dream", Stellamaris) {
         Music(0.1)
     }
 
     AddTrack(78518, 2)
-    Track(VGMDB_Track(78518, 2), "Realize", *AllStellamaris) {
+    Track(VGMDB_Track(78518, 2), "Realize", Stellamaris) {
         Music(0.1)
     }
 
     AddTrack(78528, 1)
-    AlbumTrack(VGMDB_Album(78528), 1, "Fearless Girl", *AllTetrarkhia) {
+    AlbumTrack(VGMDB_Album(78528), 1, "Fearless Girl", Tetrarkhia) {
         Music(0.5)
     }
 
     AddTrack(78528, 2)
-    Track(VGMDB_Track(78528, 2), "Shine On Me!!", *AllTetrarkhia) {
+    Track(VGMDB_Track(78528, 2), "Shine On Me!!", Tetrarkhia) {
         Music(0.4)
     }
 
     AddTrack(78516, 1)
-    AlbumTrack(VGMDB_Album(78516), 1, "SENSEI Sensation", *AllKiRaRe) {
+    AlbumTrack(VGMDB_Album(78516), 1, "SENSEI Sensation", KiRaRe) {
         Music(0.9)
     }
 
@@ -143,22 +135,22 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(78515, 1)
-    Track(VGMDB_Track(78515, 1), "Canaria", *AllTetrarkhia) {
+    Track(VGMDB_Track(78515, 1), "Canaria", Tetrarkhia) {
         Music(1.6)
     }
 
     AddTrack(78339, 1)
-    AlbumTrack(VGMDB_Album(78339), 1, "*Heart Confusion*", *AllOrtensia) {
+    AlbumTrack(VGMDB_Album(78339), 1, "*Heart Confusion*", Ortensia) {
         Music(0.3)
     }
 
     AddTrack(78339, 2)
-    Track(VGMDB_Track(78339, 2), "crave", *AllOrtensia, keeno) {
+    Track(VGMDB_Track(78339, 2), "crave", Ortensia, keeno) {
         Music(0.6)
     }
 
     AddTrack(78764, 1)
-    AlbumTrack(VGMDB_Album(78764), 1, "367Days", *AllKiRaRe) {
+    AlbumTrack(VGMDB_Album(78764), 1, "367Days", KiRaRe) {
         // the new funny number
         Music(1.5)
     }
@@ -178,23 +170,23 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(84229, 1)
-    AlbumTrack(VGMDB_Album(84229), 1, "HAPPY TYPHOON", *AllKiRaRe) {
+    AlbumTrack(VGMDB_Album(84229), 1, "HAPPY TYPHOON", KiRaRe) {
         Music(0.2)
     }
 
     AddTrack(84229, 1)
-    Track(VGMDB_Track(84229, 2), "Stereo Life", *AllKiRaRe) {
+    Track(VGMDB_Track(84229, 2), "Stereo Life", KiRaRe) {
         Music(0.3)
     }
 
     Album(VGMDB_Album(86622), "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!")
     AddTrack(86622, 1)
-    Track(VGMDB_Track(86622, 1), "Don't think, smile!!", *AllKiRaRe) {
+    Track(VGMDB_Track(86622, 1), "Don't think, smile!!", KiRaRe) {
         Music(0.75)
     }
 
     AddTrack(86622, 2)
-    Track(VGMDB_Track(86622, 2), "Akogare Future Sign (Piano Strings Arrange)", *AllKiRaRe, yuiko) {
+    Track(VGMDB_Track(86622, 2), "Akogare Future Sign (Piano Strings Arrange)", KiRaRe, yuiko) {
         Music(0.6)
     }
 
@@ -204,12 +196,12 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(89363, 1)
-    Track(VGMDB_Track(89363, 1), "Kirameki Future", *AllKiRaRe) {
+    Track(VGMDB_Track(89363, 1), "Kirameki Future", KiRaRe) {
         Music(1.5)
     }
 
     AddTrack(89363, 2)
-    Track(VGMDB_Track(89363, 2), "OvertuRe:", *AllKiRaRe) {
+    Track(VGMDB_Track(89363, 2), "OvertuRe:", KiRaRe) {
         Music(2.0)
     }
 
@@ -220,7 +212,7 @@ fun GenerateBlock.ReStage() {
     }
 
     AddTrack(89364, 3)
-    Track(VGMDB_Track(89364, 3), "Yes, We Are!!!", *AllOrtensia) {
+    Track(VGMDB_Track(89364, 3), "Yes, We Are!!!", Ortensia) {
         // pp 1-2 1-2
         Music(1.0)
     }
@@ -259,7 +251,7 @@ fun GenerateBlock.ReStage() {
     }
 
     Track(VGMDB_Track(109271, 48), "Watashitachi, Shiki o Asobun Desu!!",
-        *AllKiRaRe, *AllOrtensia, *AllStellamaris, *AllTROISANGES, *AllTetrarkhia) {
+        KiRaRe, Ortensia, Stellamaris, TROISANGES, Tetrarkhia) {
         Music(2.0)
     }
 
@@ -311,6 +303,10 @@ fun GenerateBlock.ReStage() {
 
         // the re stage niji incident
         PADS(1, Emotion.MP)
+
+        // this was funny af
+        // expected from a purely mpap-based idol anime
+        NEI(1.25, Emotion.AP)
 
         // rst era
         Impact(ReStageMeme)
