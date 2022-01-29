@@ -23,7 +23,9 @@ val Muse by Artist(VGMDB_Artist(13719), "μ's")
 val Aqours by Artist(VGMDB_Artist(17153), "Aqours")
 val Nijigaku by Artist(VGMDB_Artist(29922), "Nijigasaki High School Idol Club")
 //    val Liella by Artist(VGMDB_Artist(37385), "Liella!")
-val HayamiSaori by Artist(VGMDB_Artist(6876), "Hayami Saori")
+val HayamiSaori by Artist(VGMDB_Artist(6876), "Hayami Saori") {
+    Include(Tsurezure)
+}
 val ToyamaNao by Artist(VGMDB_Artist(11436), "Toyama Nao")
 val SaitoShuka by Artist(VGMDB_Artist(17551), "Saito Shuka") {
     Include(Aqours)
@@ -137,9 +139,10 @@ val TonoHikaru by Artist(VGMDB_Artist(30564), "Tono Hikaru") {
     Include(Mashumairesh)
 }
 val Plasmagica by Artist("M-18", "Plasmagica")
-val TsureAyaMu by Artist("M-19", "Tsurezurenaru Ayatsuri Mugenan")
+val Tsurezure by Artist("M-19", "Tsurezurenaru Ayatsuri Mugenan")
 val Mashumairesh by Artist("M-20", "Mashumairesh")
 val BUDVIRGINLOGIC by Artist("M-21", "BUD VIRGIN LOGIC")
+val Criticrista by Artist("M-23", "Criticrista")
 val Kano by Artist(VGMDB_Artist(11666), "Kano") {
     // kano-era
     Meme(0.9, Meme.MMoreThan3Months)

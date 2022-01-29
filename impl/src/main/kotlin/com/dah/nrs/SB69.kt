@@ -30,7 +30,7 @@ fun GenerateBlock.SB69() {
         Music(1.5)
     }
 
-    AlbumTrack(VGMDB_Album(51278), 1, "Tabiji Yoiyoi Yume Hanabi", TsureAyaMu) {
+    AlbumTrack(VGMDB_Album(51278), 1, "Tabiji Yoiyoi Yume Hanabi", Tsurezure) {
         Music(1.0)
     }
 
@@ -91,13 +91,39 @@ fun GenerateBlock.SB69() {
         Music(1.5)
     }
 
+    Album(VGMDB_Album(104266), "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.1")
+    Album(VGMDB_Album(104267), "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.2")
+
+    Track(VGMDB_Track(104266, 3), "Do! It! Happy Daibouken!", Plasmagica) {
+        // do it party reference lmfao
+        Music(1.75)
+    }
+
+    Track(VGMDB_Track(104266, 6), "Kyukyukyun♡Heart Shaker", Criticrista) {
+        // aaaaa co sao method thong minh the
+        // co le dell ai ngau giong anh chang
+        // ngau loi nhat ca doi tuyen toan
+        // do co le la em toi
+
+        Music(1.5)
+    }
+
+    Track(VGMDB_Track(104267, 5), "EMPIRE DOMINATOR", BUDVIRGINLOGIC) {
+        Music(0.75)
+    }
+
+    // i forgor cricri lmao
+    AlbumTrack(VGMDB_Album(61982), 1, "Hanate! Dododon!", Criticrista) {
+        Music(1.25)
+    }
+
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
-    val SB69Meme = Meme(0.9, Meme.M2_3Weeks)
+    val SB69Meme = Meme(0.9, Meme.M3Weeks_1Month)
 
     Anime("Show by Rock!!", MAL = 27441) {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
