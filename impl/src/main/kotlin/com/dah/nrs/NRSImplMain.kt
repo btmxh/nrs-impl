@@ -52,6 +52,22 @@ fun main() = generate {
     GakkouGurashi()
     YuYuYu()
     YamadaKun()
+
+    Anime("Koe no Katachi", MAL = 28851) {
+        bestGirl = "Nishimiya Shouko"
+        // Koe no Katachi has solid drama
+        // But sadly, it's the first anime so there's no PADS
+        // or tears
+        AEI(3.0, Emotion.CU)
+
+        // the first anime + Giap-Ngoc match = unlimited memes
+        Meme(1.0, Meme.MMoreThan3Months)
+
+        // gate-open literally all NRS entries
+        // but it's too overkill so an impact instead
+        Impact("Gate-open anime", Additional.AdditionalFactor, 1.0)
+    }
+
     ReStage()
     OnsenMusume()
     SB69()

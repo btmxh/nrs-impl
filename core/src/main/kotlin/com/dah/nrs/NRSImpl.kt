@@ -737,3 +737,5 @@ class Artist(id: String, name: String, block: EntryBlock.() -> Unit = {}) : Read
         return value
     }
 }
+
+fun today() = LocalDate.now().toString()
