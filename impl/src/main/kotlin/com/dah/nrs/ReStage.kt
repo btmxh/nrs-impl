@@ -308,6 +308,9 @@ fun GenerateBlock.ReStage() {
         // expected from a purely mpap-based idol anime
         NEI(1.25, Emotion.AP)
 
+        // ed visual slaps
+        NEI(0.75, Emotion.MP)
+
         // rst era
         Impact(ReStageMeme)
 
