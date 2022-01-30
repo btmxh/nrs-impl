@@ -28,6 +28,8 @@ fun GenerateBlock.SB69() {
 
     Track("M-22", "Seishun wa Non-Stop! (Asterisk DnB Remix)", Plasmagica, Asterisk) {
         Music(1.5)
+
+        GateOpen(VGMDB_Franchise(4499))
     }
 
     AlbumTrack(VGMDB_Album(51278), 1, "Tabiji Yoiyoi Yume Hanabi", Tsurezure) {
