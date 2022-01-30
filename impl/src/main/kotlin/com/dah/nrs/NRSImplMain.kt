@@ -90,6 +90,37 @@ fun main() = generate {
     NewGame()
     Bandori()
 
+    Anime("Gabriel DropOut", MAL = 33731) {
+        bestGirl = "Satanichia Kurumizawa McDowell"
+        // iToddlers BTFO
+        Meme(0.4, Meme.M3Weeks_1Month)
+
+        Boredom(Boredom.Completed)
+    }
+
+    Anime("Shelter", MAL = 34240) {
+        bestGirl = "Rin"
+
+        // catJAM
+        Music(1.25)
+
+        Impact("Short anime buff", Additional.AdditionalFactor, 0.75)
+
+        // this is very sad guys
+        // no pads tho
+        Cry(Emotion.CU)
+    }
+
+    Anime("Gamers!", MAL = 34280) {
+        seasonal = true // iirc
+
+        bestGirl = "Tendou Karen"
+
+        Boredom(Boredom.Completed)
+    }
+
+    OneRoom()
+
     ReStage()
     OnsenMusume()
     Kano()
