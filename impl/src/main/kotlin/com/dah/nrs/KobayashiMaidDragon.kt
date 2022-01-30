@@ -15,6 +15,14 @@ fun GenerateBlock.KobayashiMaidDragon() {
         // funny ig idk tbh
         NEI(0.3, Emotion.AP)
 
+        Boredom(Boredom.Completed)
         FeatureMusic(VGMDB_Track(62516, 1))
+    }
+
+    Franchise(VGMDB_Franchise(8954), "Kobayashi-san Chi no Maid Dragon") {
+        Include(MAL(33206))
+
+        Include(VGMDB_Track(62516, 1))
+        Include(VGMDB_Track(110219, 1))
     }
 }
