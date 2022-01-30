@@ -91,6 +91,12 @@ fun GenerateBlock.SB69() {
         Music(1.5)
     }
 
+    Track(VGMDB_Track(104341, 2), "Hoshizora Light Story", Mashumairesh) {
+        // the moment we realize that the cat is not the main character
+        // and ayumu shit are happening again, fuck
+        Music(0.75)
+    }
+
     Album(VGMDB_Album(104266), "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.1")
     Album(VGMDB_Album(104267), "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.2")
 
@@ -198,6 +204,12 @@ fun GenerateBlock.SB69() {
         seasonal = true
 
         bestGirl = "Hijirikawa Cyan" // cats can fly
+
+        // bro the ayumu shit happened again xddddddddddd
+        // basically in ep 1&2, the cat has little screentime,
+        // and considering i have to wait 2 long weeks to watch
+        // this, it's frustrating af.
+        NEI(0.5, Emotion.AU)
 
         Impact(SB69Meme)
 
