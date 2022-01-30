@@ -204,6 +204,7 @@ fun GenerateBlock.SB69() {
         // can pull up a niji moment, this is watched in a "seasonal"
         // way, at every 12pm saturday from 2022/1/22
         seasonal = true
+        status = EntryStatus.Watching
 
         bestGirl = "Hijirikawa Cyan" // cats can fly
 

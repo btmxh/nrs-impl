@@ -17,6 +17,7 @@ fun GenerateBlock.Cue() {
         // for best girl, like airi, yuzuha, etc. idk
         // there is also a girl named kano lmao
         bestGirl = "Mutsuishi Haruna"
+        status = EntryStatus.Watching
 
         // the character interaction was lacking in ep1 and ep2
         // in ep3 iirc there is some

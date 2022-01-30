@@ -72,6 +72,7 @@ fun GenerateBlock.YuYuYu() {
 
         // based best girl
         bestGirl = "Koori Chikage"
+        status = EntryStatus.Watching
 
         Impact(YuYuYuMeme)
         Impact(KooriChikageMeme)

@@ -43,6 +43,7 @@ fun GenerateBlock.Irodori() {
 
     Anime("Irodorimidori", MAL = 50267) {
         bestGirl = "idk"
+        status = EntryStatus.Watching
         Boredom(Boredom.Watching)
     }
 

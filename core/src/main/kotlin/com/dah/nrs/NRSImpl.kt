@@ -705,13 +705,22 @@ fun inspectEntry(entry: EntryBlock) {
     if(entry.type in arrayOf(EntryType.Anime, EntryType.LightNovel, EntryType.VisualNovel, EntryType.Manga)) {
         // completable entries
         // should include a boredom impact
-        val hasBoredomImpact = entry.impacts.any {
+        val boredom = entry.impacts.firstOrNull {
             val boredom = it.subscores[Boredom]?.get(Boredom.BoredomFactor)
             boredom != null && (boredom.signum() != 0 || it.description.lowercase() == "boredom")
         }
-        if(!hasBoredomImpact) {
+        if(boredom == null) {
             println("Entry ${entry.id} (title: '${entry.title}') doesn't have a boredom impact")
+        } else {
+            val boredomValue = boredom.subscores[Boredom]?.get(Boredom.BoredomFactor)!!
+            if(boredomValue == Boredom.Completed.second && entry.status != EntryStatus.Completed) {
+                println("Entry ${entry.id} has conflicting boredom impact and entry status")
+            }
+            if(boredomValue == Boredom.Watching.second && entry.status != EntryStatus.Watching) {
+                println("Entry ${entry.id} has conflicting boredom impact and entry status")
+            }
         }
+
     }
 }
 
