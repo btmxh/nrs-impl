@@ -113,6 +113,11 @@ fun GenerateBlock.Kano() {
         // TODO: gate open chikyuu saigo, the last ayumu theme song
     }
 
+    Track("M-24", "Kimiiro Hanabi -album version-", Kano) {
+        Music(1.5)
+        KanoImpact(1.0, Emotion.CP)
+    }
+
     // after this, almost all of kano's songs suck
     // (if kano sees this pls keep going on the
     // path you've chosen, don't mind me)
