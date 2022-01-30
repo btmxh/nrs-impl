@@ -17,7 +17,7 @@ fun GenerateBlock.NewGame() {
         // mankai step by step
         // this song is legendary af
         Music(1.25)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.75)
+        Impact("Legendary osu! beatmap", Emotion.AP, 0.5)
     }
 
     Anime("New Game!", MAL = 31953) {
