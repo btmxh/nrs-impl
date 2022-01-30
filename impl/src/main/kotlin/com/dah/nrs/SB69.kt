@@ -239,5 +239,9 @@ fun GenerateBlock.SB69() {
         Include(VGMDB_Track(93440, 1))
         Include(VGMDB_Track(93440, 3))
         Include(VGMDB_Track(93441, 1))
+
+        // fes a live has fhana songs lmao
+        FeatureMusic(VGMDB_Track(62516, 1))
+        FeatureMusic(VGMDB_Track(110219, 1))
     }
 }

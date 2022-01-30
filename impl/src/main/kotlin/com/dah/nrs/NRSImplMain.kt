@@ -76,6 +76,18 @@ fun main() = generate {
         Boredom(Boredom.Completed)
     }
 
+    KimiNawa()
+
+    Anime("Orange", MAL = 32729) {
+        bestGirl = "Takamiya Naho"
+
+        // from nrs1
+        AEI(2.5, Emotion.CU)
+        Boredom(Boredom.Completed)
+    }
+
+    KobayashiMaidDragon()
+
     NewGame()
 
     ReStage()
