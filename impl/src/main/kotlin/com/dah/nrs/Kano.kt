@@ -113,6 +113,8 @@ fun GenerateBlock.Kano() {
         // TODO: gate open chikyuu saigo, the last ayumu theme song
     }
 
+    // from the album "Colorful Wonder Note", track number 8
+    // and yes this is from osugame too
     Track("M-24", "Kimiiro Hanabi -album version-", Kano) {
         Music(1.5)
         KanoImpact(1.0, Emotion.CP)
