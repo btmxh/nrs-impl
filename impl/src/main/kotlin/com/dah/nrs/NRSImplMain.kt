@@ -109,6 +109,7 @@ fun main() = generate {
         // this is very sad guys
         // no pads tho
         Cry(Emotion.CU)
+        Boredom(Boredom.Completed)
     }
 
     Anime("Gamers!", MAL = 34280) {
@@ -120,6 +121,7 @@ fun main() = generate {
     }
 
     OneRoom()
+    UchiageHanabi()
 
     ReStage()
     OnsenMusume()
