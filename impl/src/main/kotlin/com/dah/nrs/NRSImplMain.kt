@@ -51,6 +51,7 @@ fun main() = generate {
     Saekano()
     GakkouGurashi()
     YuYuYu()
+    SB69()
     YamadaKun()
 
     Anime("Koe no Katachi", MAL = 28851) {
@@ -78,7 +79,8 @@ fun main() = generate {
 
     ReStage()
     OnsenMusume()
-    SB69()
     Kano()
+
+    Cue()
 }.run{}
 
