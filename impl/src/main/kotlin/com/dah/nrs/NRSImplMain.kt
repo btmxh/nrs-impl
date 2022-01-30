@@ -53,6 +53,7 @@ fun main() = generate {
     YuYuYu()
     SB69()
     YamadaKun()
+    Charlotte()
 
     Anime("Koe no Katachi", MAL = 28851) {
         bestGirl = "Nishimiya Shouko"
