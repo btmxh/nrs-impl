@@ -66,6 +66,12 @@ fun main() = generate {
         // gate-open literally all NRS entries
         // but it's too overkill so an impact instead
         Impact("Gate-open anime", Additional.AdditionalFactor, 1.0)
+        Boredom(Boredom.Completed)
+    }
+
+    Anime("Kono Bijutsubu ni wa Mondai ga Aru!", MAL = 31952) {
+        bestGirl = "Usami Mizuki"
+        Boredom(Boredom.Completed)
     }
 
     ReStage()

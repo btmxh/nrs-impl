@@ -16,6 +16,7 @@ fun GenerateBlock.YamadaKun() {
 
         FeatureMusic(VGMDB_Track(51918, 1))
         FeatureMusic(VGMDB_Track(52045, 1))
+        Boredom(Boredom.Completed)
     }
 
     Franchise(VGMDB_Franchise(3370), "Yamada-kun to 7-nin no Majo") {
