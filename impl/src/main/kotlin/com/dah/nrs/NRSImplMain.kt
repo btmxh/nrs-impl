@@ -87,8 +87,8 @@ fun main() = generate {
     }
 
     KobayashiMaidDragon()
-
     NewGame()
+    Bandori()
 
     ReStage()
     OnsenMusume()

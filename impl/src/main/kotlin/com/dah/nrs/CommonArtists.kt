@@ -158,3 +158,13 @@ val Irodorimidori by Artist("M-26", "Irodorimidori")
 val cosMoBousouP by Artist(VGMDB_Artist(9553), "cosMo@Bousou-P")
 val xi by Artist(VGMDB_Artist(12225), "xi")
 val NOMA by Artist("M-27", "NOMA")
+// you may have more score than kirare
+// but u r still shit cope
+// filthy osugame farmer
+val PoppinParty by Artist(VGMDB_Artist(27992), "Poppin'Party")
+val Roselia by Artist(VGMDB_Artist(27993), "Roselia")
+val PastelPalletes by Artist(VGMDB_Artist(31328), "Pastel*Palletes")
+val Afterglow by Artist(VGMDB_Artist(31326), "Afterglow")
+val SILENTSIREN by Artist(VGMDB_Artist(31509), "SILENT SIREN")
+val Rakakun by Artist("M-34", "Rakakun")
+val KANABOON by Artist(VGMDB_Artist(25291), "KANA-BOON")
