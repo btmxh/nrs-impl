@@ -152,3 +152,4 @@ val Scop by Artist(VGMDB_Artist(15119), "Scop")
 // harebare fanfaRe:
 val mimimemeMIMI by Artist(VGMDB_Artist(15766), "mimimemeMIMI")
 val WEAVER by Artist(VGMDB_Artist(26886), "WEAVER")
+val fourfolium by Artist("M-25", "fourfolium")

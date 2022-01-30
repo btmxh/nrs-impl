@@ -74,6 +74,8 @@ fun main() = generate {
         Boredom(Boredom.Completed)
     }
 
+    NewGame()
+
     ReStage()
     OnsenMusume()
     SB69()
