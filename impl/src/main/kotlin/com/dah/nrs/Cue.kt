@@ -28,6 +28,7 @@ fun GenerateBlock.Cue() {
 
         FeatureMusic(VGMDB_Track(115724, 1))
 
+        // duopoly shithole moment
         KilledBy(VGMDB_Franchise(4499))
         KilledBy(VGMDB_Franchise(7059))
     }

@@ -82,5 +82,6 @@ fun main() = generate {
     Kano()
 
     Cue()
+    Irodori()
 }.run{}
 
