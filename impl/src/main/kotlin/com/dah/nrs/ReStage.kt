@@ -250,6 +250,7 @@ fun GenerateBlock.ReStage() {
         Include(VGMDB_Track(89364, 3))
     }
 
+    AddTrack(109271, 48)
     Track(VGMDB_Track(109271, 48), "Watashitachi, Shiki o Asobun Desu!!",
         KiRaRe, Ortensia, Stellamaris, TROISANGES, Tetrarkhia) {
         Music(2.0)

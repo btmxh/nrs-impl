@@ -123,6 +123,30 @@ fun main() = generate {
     OneRoom()
     UchiageHanabi()
 
+    Anime("Tsuki ga Kirei", MAL = 34822) {
+        bestGirl = "Mizuno Akane"
+        // ending sadge
+        AEI(2.5, Emotion.CU)
+        Boredom(Boredom.Completed)
+    }
+
+    Anime("Konohana Kitan", MAL = 35241) {
+        // definitely not reminding me of mashu mashu from sb69
+
+        // this was pretty boring ngl
+        // and now it's the duopoly era so
+        // they got cucked
+        status = EntryStatus.Watching
+        Boredom(Boredom.TempOnHold)
+    }
+
+    Anime("Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)", MAL = 35507) {
+        bestGirl = "Horikita Suzune"
+        Boredom(Boredom.Completed)
+        // plot pretty good
+        NEI(2.0, Emotion.AP)
+    }
+
     ReStage()
     OnsenMusume()
     Kano()
