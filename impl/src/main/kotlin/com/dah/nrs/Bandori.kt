@@ -17,7 +17,7 @@ fun GenerateBlock.Bandori() {
 
     // cherry bomb stuff
     Album("M-32", "S") {
-        Include("M-33)
+        Include("M-33")
     }
     
     Track("M-33", "Cherry Bomb", SILENTSIREN) {
