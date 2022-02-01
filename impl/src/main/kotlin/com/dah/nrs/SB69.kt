@@ -18,6 +18,12 @@ fun GenerateBlock.SB69() {
         Music(0.5)
     }
 
+    AlbumTrack(VGMDB_Album(94913), 1, "My pace!!", Plasmagica) {
+        // really interesting vocal
+        // (somewhat resemble kano)
+        Music(0.8)
+    }
+
     AlbumTrack(VGMDB_Album(51276), 1, "Seishun wa Non-Stop!", Plasmagica) {
         Music(0.8)
     }
@@ -125,6 +131,30 @@ fun GenerateBlock.SB69() {
         Music(1.25)
     }
 
+    Track("M-39", "Taikakusen o Tsunaide yo", Uwasanopetals) {
+        Music(1.5)
+    }
+
+    AlbumTrack(VGMDB_Album(104418), 1, "Good Day by Day", InagawaEri, HayamiSaori) {
+        // also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno)
+        Music(0.75)
+
+        // if u understand, u understand
+        // RemixOf(VGMDB_Track(97688, 1))
+    }
+
+    AlbumTrack(VGMDB_Album(100082), 1, "Mirai Wanted", Plasmagica) {
+        Music(1.25)
+    }
+
+    AlbumTrack(VGMDB_Album(116297), 1, "Bokura no Neiro", Plasmagica) {
+        Music(0.75)
+    }
+
+    AlbumTrack(VGMDB_Album(105612), 1, "Mot Mot Mot", Criticrista) {
+        Music(1.25)
+    }
+
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
@@ -228,6 +258,7 @@ fun GenerateBlock.SB69() {
         Include(MAL(32038))
         Include(MAL(40763))
         Include(MAL(41520))
+        Include(VGMDB_Track(94913, 1))
         Include(VGMDB_Track(51276, 1))
         Include(VGMDB_Track(51278, 1))
         Include(VGMDB_Track(51706, 1))
@@ -239,6 +270,11 @@ fun GenerateBlock.SB69() {
         Include(VGMDB_Track(93440, 1))
         Include(VGMDB_Track(93440, 3))
         Include(VGMDB_Track(93441, 1))
+        Include("M-39")
+        Include(VGMDB_Track(104418, 1))
+        Include(VGMDB_Track(100082, 1))
+        Include(VGMDB_Track(116297, 1))
+        Include(VGMDB_Track(105612, 1))
 
         // fes a live has fhana songs lmao
         FeatureMusic(VGMDB_Track(62516, 1))
