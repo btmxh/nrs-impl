@@ -140,7 +140,7 @@ fun GenerateBlock.SB69() {
         Music(0.75)
 
         // if u understand, u understand
-        // RemixOf(VGMDB_Track(97688, 1))
+        // RemixOf(VGMDB_Track(97688, 16))
     }
 
     AlbumTrack(VGMDB_Album(100082), 1, "Mirai Wanted", Plasmagica) {
