@@ -17,8 +17,12 @@ fun GenerateBlock.Kano() {
     }
 
     // based
-    Album(VGMDB_Album(37130), "Sukinano.") {
-        Include(VGMDB_Track(95369, 1))
+    Album(VGMDB_Album(37130), "Sukinano.")
+
+    Track(VGMDB_Track(37130, 1), "Hello / How are you (mix)", Kano, KoyamaHidekazu, Scop) {
+        Music(0.7)
+        KanoImpact(0.25)
+        RemixOf(VGMDB_Track(95369, 1))
     }
 
     Track(VGMDB_Track(37130, 2), "Utautai no Uta", Kano, KoyamaHidekazu, Scop) {
