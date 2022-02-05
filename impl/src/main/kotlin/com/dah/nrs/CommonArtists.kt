@@ -140,7 +140,12 @@ val TonoHikaru by Artist(VGMDB_Artist(30564), "Tono Hikaru") {
 }
 val Plasmagica by Artist("M-18", "Plasmagica")
 val Tsurezure by Artist("M-19", "Tsurezurenaru Ayatsuri Mugenan")
-val Mashumairesh by Artist("M-20", "Mashumairesh")
+val Mashumairesh by Artist("M-20", "Mashumairesh") {
+    // the screentime thing
+    // mashu mp farm got fucked by the existence of the cat
+    // and pmgc
+    KilledBy("M-18")
+}
 val BUDVIRGINLOGIC by Artist("M-21", "BUD VIRGIN LOGIC")
 val Criticrista by Artist("M-23", "Criticrista")
 val Kano by Artist(VGMDB_Artist(11666), "Kano") {

@@ -176,13 +176,13 @@ fun GenerateBlock.SB69() {
     // 「あの時もし...」 考えてたって
     // The days that have passed will not come back anymore
     // 過ぎた日々はもう 戻らないけど
-    val CyanNostalgic = { score: Double -> Impact("the good old days of pmgc being the center", Emotion.CalmingUnpleasant, score) }
+    val CyanNostalgic = NEI(1.0, Emotion.CU)
 
     Anime("Show by Rock!!", MAL = 27441) {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
         Impact(SB69Meme)
-        Impact(CyanNostalgic(0.3))
+        Impact(CyanNostalgic)
 
         FeatureMusic(VGMDB_Track(51276, 1))
         FeatureMusic(VGMDB_Track(51278, 1))
@@ -198,7 +198,7 @@ fun GenerateBlock.SB69() {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
         Impact(SB69Meme)
-        Impact(CyanNostalgic(0.5))
+        Impact(CyanNostalgic)
 
         // the lesson thingy was pretty cool ig
         NEI(1.5, Emotion.MP)
@@ -234,6 +234,11 @@ fun GenerateBlock.SB69() {
         FeatureMusic(VGMDB_Track(93440, 1))
         FeatureMusic(VGMDB_Track(93440, 3))
         FeatureMusic(VGMDB_Track(93441, 1))
+        
+        // the screentime thing
+        // mashu mp farm got fucked by the existence of the cat
+        // and pmgc
+        KilledBy("M-18")
 
         KilledBy(VGMDB_Franchise(7059))
 
@@ -259,7 +264,7 @@ fun GenerateBlock.SB69() {
         // and considering i have to wait 2 long weeks to watch
         // this, it's frustrating af.
         NEI(0.25, Emotion.AU)
-        Impact(CyanNostalgic(0.5))
+        Impact(CyanNostalgic)
 
         Impact(SB69Meme)
 
