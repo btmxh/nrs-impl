@@ -5,7 +5,7 @@ fun GenerateBlock.Vocaloid() {
     // but there is a mal one kek
     Album("M-MAL-36631", "Pandora Voxx Complete")
     Track("M-MAL-36631-6", "Chikyuu Saigo no Kokuhaku wo", kemu, GUMI) {
-        // the legendary ending song of Ayumu-era
+        // the legendary fifth ayumu-era theme song
 
         // for some reason, this almost made me cry
         AEI(2.25, Emotion.CU)

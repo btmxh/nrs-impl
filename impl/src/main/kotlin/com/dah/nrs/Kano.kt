@@ -31,6 +31,7 @@ fun GenerateBlock.Kano() {
     }
 
     // the best kano song ever. period.
+    // also the fourth ayumu-era theme song
     Track(VGMDB_Track(37130, 3), "[It's not] World's end", Kano, KoyamaHidekazu, Scop) {
         Music(1.5)
         KanoImpact(1.0)

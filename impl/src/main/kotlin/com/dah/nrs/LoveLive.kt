@@ -120,6 +120,7 @@ fun GenerateBlock.LoveLive() {
             " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]")
     Album(VGMDB_Album(104783), "Awakening Promise/Yume ga Koko kara Hajimaru yo")
 
+    // the first ayumu-era theme song
     Track(VGMDB_Track(102281, 1), "Dream with You") {
         Music(0.2)
 

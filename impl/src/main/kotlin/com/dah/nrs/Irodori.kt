@@ -7,13 +7,6 @@ fun GenerateBlock.Irodori() {
         Music(1.0)
     }
 
-    Album(VGMDB_Album(34269), "Parousia")
-    Track(VGMDB_Track(34269, 12), "FREEDOM DiVE↓", xi) {
-        Music(0.6)
-        Impact("i'm not overstreaming 222 bpm", Emotion.AP, 0.1)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.4)
-    }
-
     Track("M-28", "Brain Power", NOMA) {
         Music(0.8)
         Impact("Legendary osu! beatmap", Emotion.AP, 0.25)
