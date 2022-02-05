@@ -241,6 +241,8 @@ fun GenerateBlock.SB69() {
         KilledBy("M-18")
 
         KilledBy(VGMDB_Franchise(7059))
+
+        Boredom(Boredom.Completed)
     }
 
     Anime("Show by Rock!! Stars!!", MAL = 41520) {
@@ -279,7 +281,7 @@ fun GenerateBlock.SB69() {
 
         KilledBy(VGMDB_Franchise(7059))
 
-        Boredom(Boredom.Watching)
+        Boredom(Boredom.Completed)
     }
 
     Franchise(VGMDB_Franchise(4499), "Show By Rock!!") {
