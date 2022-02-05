@@ -1,2 +1,6 @@
 nrs.csv
 node_modules
+animelist.xml
+animelist.out.xml
+token.txt
+__pycache__

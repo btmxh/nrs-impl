@@ -2,7 +2,8 @@
 const labels = [
     "ID",
     "Title",
-    "Overall"
+    "Overall",
+    "Art-Music"
 ];
 
 const output = entry => {
@@ -10,6 +11,7 @@ const output = entry => {
         entry.id,
         entry.title,
         entry.score.overall,
+        subscore(entry, 1, 2)
     ];
 };
 
@@ -24,4 +26,6 @@ for(const entry of data.entries) {
 csv.stringify(output_data, (_, out) => {
     fs.writeFileSync("nrs.csv", out);
 })
-
+function subscore(entry, sub, factor) {
+    return entry.score.impact.subscores.split(";")[sub].split(":")[factor + 1];
+}
