@@ -165,10 +165,24 @@ fun GenerateBlock.SB69() {
     // in case of the cat being gen2 ayumu
     val CyanWaifu = Waifu("Hijirikawa Cyan", "2022-01-15" to today())
 
+    // in sb69 s1, s2, the cat have so much screentime, but i didn't
+    // value it. and when s4 comes, the cat changed and lose screentime,
+    // thus giving me nostalgia of the prequels, 
+    // when pmgc was the center of the franchise,
+    // when rosia and retoree decided to be friends,
+    // when the cat got taught a good lesson by grateful king.
+    // To quote rst mfs:
+    // "If that time ..." I was thinking
+    // 「あの時もし...」 考えてたって
+    // The days that have passed will not come back anymore
+    // 過ぎた日々はもう 戻らないけど
+    val CyanNostalgic = { score: Double -> Impact("the good old days of pmgc being the center", Emotion.CalmingUnpleasant, score) }
+
     Anime("Show by Rock!!", MAL = 27441) {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
         Impact(SB69Meme)
+        Impact(CyanNostalgic(0.3))
 
         FeatureMusic(VGMDB_Track(51276, 1))
         FeatureMusic(VGMDB_Track(51278, 1))
@@ -184,6 +198,7 @@ fun GenerateBlock.SB69() {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
         Impact(SB69Meme)
+        Impact(CyanNostalgic(0.5))
 
         // the lesson thingy was pretty cool ig
         NEI(1.5, Emotion.MP)
@@ -244,6 +259,7 @@ fun GenerateBlock.SB69() {
         // and considering i have to wait 2 long weeks to watch
         // this, it's frustrating af.
         NEI(0.25, Emotion.AU)
+        Impact(CyanNostalgic(0.5))
 
         Impact(SB69Meme)
 
