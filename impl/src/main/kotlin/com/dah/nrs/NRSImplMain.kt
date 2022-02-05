@@ -7,6 +7,7 @@
 package com.dah.nrs
 
 fun main() = generate {
+    Vocaloid()
     `K-On`()
     MadokaMagica()
     Idolmaster()

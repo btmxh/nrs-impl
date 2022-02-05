@@ -113,8 +113,7 @@ fun GenerateBlock.Kano() {
     Track(VGMDB_Track(89290, 6), "Chikyuu Saigo no Kokuhaku o", Kano) {
         Music(0.5)
         KanoImpact(0.1)
-
-        // TODO: gate open chikyuu saigo, the last ayumu theme song
+        RemixOf("M-MAL-36631-6")
     }
 
     // from the album "Colorful Wonder Note", track number 8
