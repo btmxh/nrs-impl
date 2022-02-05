@@ -234,7 +234,7 @@ fun GenerateBlock.SB69() {
         FeatureMusic(VGMDB_Track(93440, 1))
         FeatureMusic(VGMDB_Track(93440, 3))
         FeatureMusic(VGMDB_Track(93441, 1))
-        
+
         // the screentime thing
         // mashu mp farm got fucked by the existence of the cat
         // and pmgc
@@ -265,6 +265,9 @@ fun GenerateBlock.SB69() {
         // this, it's frustrating af.
         NEI(0.25, Emotion.AU)
         Impact(CyanNostalgic)
+        // oh no no no no
+        // it got to this point lol
+        Cry(Emotion.CU)
 
         Impact(SB69Meme)
 
@@ -274,6 +277,7 @@ fun GenerateBlock.SB69() {
         Impact("the cat va sucks in this season", Additional.AdditionalFactor, -0.2)
 
         FeatureMusic(VGMDB_Track(104341, 1))
+        FeatureMusic(VGMDB_Track(100087, 1))
 
         KilledBy(VGMDB_Franchise(7059))
 
