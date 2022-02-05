@@ -233,7 +233,8 @@ fun GenerateBlock.SB69() {
         // to make sure sb69 not killing rst, and maybe sb69 stars
         // can pull up a niji moment, this is watched in a "seasonal"
         // way, at every 12pm saturday from 2022/1/22
-        seasonal = true
+        // update: shit happened and no more seasonal
+        seasonal = false
         status = EntryStatus.Watching
 
         bestGirl = "Hijirikawa Cyan" // cats can fly
@@ -242,9 +243,14 @@ fun GenerateBlock.SB69() {
         // basically in ep 1&2, the cat has little screentime,
         // and considering i have to wait 2 long weeks to watch
         // this, it's frustrating af.
-        NEI(0.5, Emotion.AU)
+        NEI(0.25, Emotion.AU)
 
         Impact(SB69Meme)
+
+        // basically the cat va in s4 focuses on moe more
+        // than the fact that the cat is kinda reserved and shit
+        // maybe chardev happened but didn't care + didn't ask for that
+        Impact("the cat va sucks in this season", Additional.AdditionalFactor, -0.2)
 
         FeatureMusic(VGMDB_Track(104341, 1))
 
