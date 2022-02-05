@@ -25,6 +25,9 @@ fun GenerateBlock.Cue() {
         // we do a little MP farming
         NEI(0.5, Emotion.MP)
 
+        // in ep5 there is some comedy
+        NEI(0.25, Emotion.AP)
+
         Boredom(Boredom.Watching)
 
         FeatureMusic(VGMDB_Track(115724, 1))
