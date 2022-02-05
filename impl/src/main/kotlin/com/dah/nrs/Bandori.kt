@@ -85,6 +85,9 @@ fun GenerateBlock.Bandori() {
         Music(0.75)
     }
 
+    // bandori has some good comedy shit
+    val BandoriHumor = NEI(1.5, Emotion.AP)
+
     Anime("BanG Dream!", MAL = 33573) {
         bestGirl = "Ichigaya Arisa"
         // Ending pretty sadge
@@ -92,8 +95,11 @@ fun GenerateBlock.Bandori() {
         // nrs1
         Meme(0.2, Meme.M4_7Days)
         Boredom(Boredom.Completed)
+        Impact(BandoriHumor)
 
         FeatureMusic(VGMDB_Track(63624, 1))
+
+        KilledBy(MAL(40879))
     }
 
     Anime("BanG Dream! 2nd Season", MAL = 37869) {
@@ -102,8 +108,11 @@ fun GenerateBlock.Bandori() {
         Meme(0.15, Meme.M1_3Days)
         // rip
         Boredom(Boredom.Dropped)
+        Impact(BandoriHumor)
 
         FeatureMusic(VGMDB_Track(81504, 1))
+
+        KilledBy(MAL(40879))
     }
 
     Franchise(VGMDB_Franchise(5173), "BanG Dream!") {
