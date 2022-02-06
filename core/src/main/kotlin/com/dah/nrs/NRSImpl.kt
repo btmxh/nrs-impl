@@ -530,6 +530,8 @@ class EntryBlock(val id: String, val title: String) : GenerateBlock() {
 
     override fun Impact(impact: Impact) = impact.from(id).also { impacts.add(it) }
 
+    fun Impact(impacts: Array<Impact>) = impacts.forEach { Impact(it) }
+
     fun Include(id: String) {
         contains.add(id)
     }

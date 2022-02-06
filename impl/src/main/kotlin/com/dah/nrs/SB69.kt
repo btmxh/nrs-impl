@@ -24,6 +24,7 @@ fun GenerateBlock.SB69() {
         Music(0.8)
     }
 
+    // the seishun wa nonstop incident
     AlbumTrack(VGMDB_Album(51276), 1, "Seishun wa Non-Stop!", Plasmagica) {
         Music(0.8)
     }
@@ -161,7 +162,7 @@ fun GenerateBlock.SB69() {
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
     // based gigachad rst changed da world and became meta
-    val SB69Meme = Meme(0.9, Meme.M3Weeks_1Month)
+    val SB69Meme = Meme(1.0, Meme.M1_2Months)
     // in case of the cat being gen2 ayumu
     val CyanWaifu = Waifu("Hijirikawa Cyan", "2022-01-15" to today())
 
@@ -176,13 +177,21 @@ fun GenerateBlock.SB69() {
     // 「あの時もし...」 考えてたって
     // The days that have passed will not come back anymore
     // 過ぎた日々はもう 戻らないけど
-    val CyanNostalgic = NEI(1.0, Emotion.CU)
+    val CyanNostalgic = arrayOf(
+        Cry(Emotion.CU),
+        PADS(5, Emotion.CU)
+    )
+
+    val S12Humor = NEI(1.5, Emotion.AP)
+    val S34Humor = NEI(1.25, Emotion.AP)
 
     Anime("Show by Rock!!", MAL = 27441) {
         bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
         Impact(SB69Meme)
         Impact(CyanNostalgic)
+        Impact(CyanWaifu)
+        Impact(S12Humor)
 
         FeatureMusic(VGMDB_Track(51276, 1))
         FeatureMusic(VGMDB_Track(51278, 1))
@@ -199,6 +208,8 @@ fun GenerateBlock.SB69() {
 
         Impact(SB69Meme)
         Impact(CyanNostalgic)
+        Impact(CyanWaifu)
+        Impact(S12Humor)
 
         // the lesson thingy was pretty cool ig
         NEI(1.5, Emotion.MP)
@@ -225,6 +236,7 @@ fun GenerateBlock.SB69() {
         // actually the cat appeared in last ep but idc
 
         Impact(SB69Meme)
+        Impact(S34Humor)
 
         // my heart skipped a beat when the cat
         // appeared in last ep
@@ -255,7 +267,6 @@ fun GenerateBlock.SB69() {
         // way, at every 12pm saturday from 2022/1/22
         // update: shit happened and no more seasonal
         seasonal = false
-        status = EntryStatus.Watching
 
         bestGirl = "Hijirikawa Cyan" // cats can fly
 
@@ -265,18 +276,21 @@ fun GenerateBlock.SB69() {
         // this, it's frustrating af.
         NEI(0.5, Emotion.AU)
         Impact(CyanNostalgic)
-        // oh no no no no
-        // it got to this point lol
-        Cry(Emotion.CU)
+        Impact(CyanWaifu)
 
         Impact(SB69Meme)
+        Impact(S34Humor)
 
         // basically the cat va in s4 focuses on moe more
         // than the fact that the cat is kinda reserved and shit
         // maybe chardev happened but didn't care + didn't ask for that
-        Impact("the cat va sucks in this season", Additional.AdditionalFactor, -0.2)
+        Impact("the cat va sucks in this season", Additional.AdditionalFactor, -0.25)
 
         FeatureMusic(VGMDB_Track(104341, 1))
+        FeatureMusic(VGMDB_Track(104341, 2))
+        FeatureMusic(VGMDB_Track(104266, 3))
+        FeatureMusic(VGMDB_Track(104266, 6))
+        FeatureMusic(VGMDB_Track(104267, 5))
         FeatureMusic(VGMDB_Track(100087, 1))
 
         KilledBy(VGMDB_Franchise(7059))
@@ -301,6 +315,11 @@ fun GenerateBlock.SB69() {
         Include(VGMDB_Track(93440, 1))
         Include(VGMDB_Track(93440, 3))
         Include(VGMDB_Track(93441, 1))
+        Include(VGMDB_Track(104341, 1))
+        Include(VGMDB_Track(104341, 2))
+        Include(VGMDB_Track(104266, 3))
+        Include(VGMDB_Track(104266, 6))
+        Include(VGMDB_Track(104267, 5))
         Include("M-39")
         Include(VGMDB_Track(104418, 1))
         Include(VGMDB_Track(100082, 1))

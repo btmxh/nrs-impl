@@ -140,6 +140,9 @@ val TonoHikaru by Artist(VGMDB_Artist(30564), "Tono Hikaru") {
 }
 val Plasmagica by Artist("M-18", "Plasmagica")
 val Tsurezure by Artist("M-19", "Tsurezurenaru Ayatsuri Mugenan")
+// the gen2 setsuna yuki/yu takasaki lmao
+// i should've known this by the time i thought that
+// their song were catjam kek
 val Mashumairesh by Artist("M-20", "Mashumairesh") {
     // the screentime thing
     // mashu mp farm got fucked by the existence of the cat
