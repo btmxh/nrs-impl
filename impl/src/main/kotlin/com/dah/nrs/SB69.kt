@@ -179,7 +179,7 @@ fun GenerateBlock.SB69() {
     // 過ぎた日々はもう 戻らないけど
     val CyanNostalgic = arrayOf(
         Cry(Emotion.CU),
-        PADS(5, Emotion.CU)
+        PADS(1, Emotion.CU)
     )
 
     val S12Humor = NEI(1.5, Emotion.AP)
