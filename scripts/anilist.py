@@ -75,4 +75,4 @@ for e in map.values():
 
     # rate-limit thingy idk
     if add_anime(e["id"], e["score"]):
-        time.sleep(0.1)
+        time.sleep(1)
