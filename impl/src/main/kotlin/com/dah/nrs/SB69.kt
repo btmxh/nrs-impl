@@ -128,7 +128,7 @@ fun GenerateBlock.SB69() {
 
     // i forgor cricri lmao
     AlbumTrack(VGMDB_Album(61982), 1, "Hanate! Dododon!", Criticrista) {
-        Music(1.25)
+        Music(1.5)
     }
 
     Track("M-39", "Taikakusen o Tsunaide yo", Uwasanopetals) {
@@ -152,7 +152,7 @@ fun GenerateBlock.SB69() {
     }
 
     AlbumTrack(VGMDB_Album(105612), 1, "Mot Mot Mot", Criticrista) {
-        Music(1.25)
+        Music(1.5)
     }
 
     // based gigachad rst changed da world and became meta
