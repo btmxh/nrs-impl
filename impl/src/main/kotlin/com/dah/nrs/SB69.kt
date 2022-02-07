@@ -274,7 +274,7 @@ fun GenerateBlock.SB69() {
         // basically in ep 1&2, the cat has little screentime,
         // and considering i have to wait 2 long weeks to watch
         // this, it's frustrating af.
-        NEI(0.5, Emotion.AU)
+        NEI(1.0, Emotion.AU)
         Impact(CyanNostalgic)
         Impact(CyanWaifu)
 
