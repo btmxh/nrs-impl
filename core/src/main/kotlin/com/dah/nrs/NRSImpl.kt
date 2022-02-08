@@ -1,5 +1,5 @@
 @file:UseSerializers(
-    ScoreNumSerializer::class, FactorScoreSerializer::class,
+    FactorScoreSerializer::class,
     ImpactSubscoreSerializer::class, ImpactScoreSubscoresSerializer::class
 )
 @file:Suppress("unused",         // I'll use them stfu
@@ -17,20 +17,15 @@ import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
 import kotlinx.serialization.encoding.Decoder
 import kotlinx.serialization.encoding.Encoder
 import kotlinx.serialization.json.Json
-import java.math.BigDecimal
 import java.nio.file.StandardOpenOption
 import java.time.LocalDate
 import java.time.LocalDateTime
 import kotlin.io.path.Path
 import kotlin.io.path.outputStream
-import kotlin.math.absoluteValue
+import kotlin.math.abs
 import kotlin.math.tanh
 import kotlin.properties.ReadOnlyProperty
 import kotlin.reflect.KProperty
-
-typealias ScoreNum = BigDecimal
-
-private fun Iterable<ScoreNum>.sum() = reduceOrNull { a, b -> a + b } ?: num(0)
 
 open class OneWayToStringSerializer<T> : KSerializer<T> {
     override val descriptor = PrimitiveSerialDescriptor(javaClass.canonicalName, PrimitiveKind.STRING)
@@ -44,23 +39,9 @@ open class OneWayToStringSerializer<T> : KSerializer<T> {
     }
 }
 
-object ScoreNumSerializer : OneWayToStringSerializer<ScoreNum>() {
-    override fun deserialize(decoder: Decoder): ScoreNum {
-        return decoder.decodeString().toBigDecimal()
-    }
-}
-
 object FactorScoreSerializer : OneWayToStringSerializer<FactorScore>()
 object ImpactSubscoreSerializer : OneWayToStringSerializer<ImpactSubscore>()
 object ImpactScoreSubscoresSerializer : OneWayToStringSerializer<ImpactScoreSubscores>()
-
-fun num(v: Double): ScoreNum {
-    return v.toBigDecimal()
-}
-
-fun num(v: Long): ScoreNum {
-    return v.toBigDecimal()
-}
 
 @Serializable
 data class Entry(
@@ -96,14 +77,14 @@ enum class EntryStatus {
 data class Score(
     val impact: ImpactScore,
     val relation: RelationScore,
-    val overall: ScoreNum
+    val overall: Double
 )
 
 class ImpactScoreSubscores(base: Map<Subscore, SubscoreValue>) : Map<Subscore, SubscoreValue> by base {
     override fun toString(): String {
         return Subscores.joinToString(";") {
-            val values = this[it] ?: SubscoreValue(FactorScores.associateWith { num(0) }, num(0))
-            "${values.value}:" + it.factors.map { values.factorScores[it] ?: num(0) }.joinToString(":")
+            val values = this[it] ?: SubscoreValue(FactorScores.associateWith { 0.0 }, 0.0)
+            "${values.value}:" + it.factors.map { values.factorScores[it] ?: 0.0 }.joinToString(":")
         }
     }
 }
@@ -112,16 +93,16 @@ class ImpactScoreSubscores(base: Map<Subscore, SubscoreValue>) : Map<Subscore, S
 data class ImpactScore(
     val impacts: List<Impact>,
     val subscores: ImpactScoreSubscores,
-    val value: ScoreNum = subscores.values.map { it.value }.sum()
+    val value: Double = subscores.values.sumOf { it.value }
 )
 
 @Serializable
 data class SubscoreValue(
-    val factorScores: Map<FactorScore, ScoreNum>,
-    val value: ScoreNum = combine(factorScores.values, factorScores.keys.first().parent.weight)
+    val factorScores: Map<FactorScore, Double>,
+    val value: Double = combine(factorScores.values, factorScores.keys.first().parent.weight)
 )
 
-class ImpactSubscore(base: Map<Subscore, Map<FactorScore, ScoreNum>>) : Map<Subscore, Map<FactorScore, ScoreNum>> by base {
+class ImpactSubscore(base: Map<Subscore, Map<FactorScore, Double>>) : Map<Subscore, Map<FactorScore, Double>> by base {
     override fun toString(): String {
         return FactorScores.map { this[it.parent]?.get(it) }
             .joinToString(":")
@@ -141,38 +122,37 @@ class Impact(
 @Serializable
 data class RelationScore(
     val relations: List<Relation>,
-    val value: ScoreNum = relations.map { it.value }.sum()
+    val value: Double = relations.sumOf { it.value }
 )
 
 @Serializable
 class Relation(
     val id: String,
     val description: String,
-    val weight: ScoreNum,
+    val weight: Double,
     val from: List<String>,
-    val value: ScoreNum
+    val value: Double
 )
 
 class UnscoredRelation(
     val id: String,
     val description: String,
-    val weight: ScoreNum,
+    val weight: Double,
     val from: MutableList<String> = arrayListOf()
 ) {
-    fun score(score: ScoreNum) = Relation(id, description, weight, from, score)
+    fun score(score: Double) = Relation(id, description, weight, from, score)
 
     fun from(vararg id: String) = this.also { from.addAll(id) }
 }
 
-sealed class Subscore(val name: String, @Transient val weight: ScoreNum = num(0.0)) {
+sealed class Subscore(val name: String, @Transient val weight: Double = 0.0) {
     val factors = arrayListOf<FactorScore>()
-    constructor(name: String, weight: Double) : this(name, num(weight))
-    fun factor(name: String = this.name, weight: Double = this.weight.toDouble())
-        = FactorScore(this, this.name + "-" + name, num(weight)).also { factors.add(it) }
+    fun factor(name: String = this.name, weight: Double = this.weight)
+        = FactorScore(this, this.name + "-" + name, weight).also { factors.add(it) }
     override fun toString() = name
 }
 
-class FactorScore constructor(val parent: Subscore, val name: String, val weight: ScoreNum) {
+class FactorScore constructor(val parent: Subscore, val name: String, val weight: Double) {
     override fun toString() = name
 }
 
@@ -207,12 +187,12 @@ object Information : Subscore("Information", 0.5) {
     val GeneralInfo = factor("GeneralInfo", 0.5)
 }
 
-typealias BoredomLevel = Pair<String, ScoreNum>
+typealias BoredomLevel = Pair<String, Double>
 
 object Boredom : Subscore("Boredom", 0.0) {
     val BoredomFactor = factor()
 
-    fun level(name: String, value: Double): BoredomLevel = name to num(value)
+    fun level(name: String, value: Double): BoredomLevel = name to value
     val Completed = level("Completed", 1.0)
     val CompletedWithNoticeableBoredom = level("Completed with noticeable boredom", 0.5)
     val Dropped = level("Dropped", -1.0)
@@ -230,9 +210,9 @@ object Additional : Subscore("Additional", 1.0) {
     val AdditionalFactor = factor()
 }
 
-typealias MemeLevel = Pair<String, ScoreNum>
+typealias MemeLevel = Pair<String, Double>
 object Meme {
-    fun level(name: String, value: Double): MemeLevel = name to num(value)
+    fun level(name: String, value: Double): MemeLevel = name to value
     val MLessThanADay = level("Less than a day", 0.0)
     val M1_3Days = level("1-3 Days", 0.1)
     val M4_7Days = level("4-7 Days", 0.3)
@@ -326,23 +306,20 @@ open class GenerateBlock {
 
     open fun Relation(relation: UnscoredRelation): UnscoredRelation { return relation }
 
-    fun ImpactEx(description: String = "", meta: Map<String, String> = mapOf(), vararg scores: Pair<FactorScore, ScoreNum>): Impact {
+    fun ImpactEx(description: String = "", meta: Map<String, String> = mapOf(), vararg scores: Pair<FactorScore, Double>): Impact {
         val scoreMap = mapOf(*scores)
         val impactScores = ImpactSubscore(Subscores.associateWith { subscore ->
-            subscore.factors.associateWith { (scoreMap[it] ?: num(0.0)) }
+            subscore.factors.associateWith { scoreMap[it] ?: 0.0 }
         })
 
         return Impact(Impact(description, impactScores, meta))
     }
 
     fun Impact(description: String = "", factorScore: FactorScore, score: Double, meta: Map<String, String> = mapOf())
-            = Impact(description, meta, factorScore to score)
-
-    fun Impact(description: String = "", factorScore: FactorScore, score: ScoreNum, meta: Map<String, String> = mapOf())
             = ImpactEx(description, meta, factorScore to score)
 
     fun Impact(description: String = "", meta: Map<String, String> = mapOf(), vararg scores: Pair<FactorScore, Double>)
-            = ImpactEx(description, meta, *scores.map { it.first to num(it.second) }.toTypedArray())
+            = ImpactEx(description, meta, *scores)
 
     fun PADS(duration: Int, emotion: FactorScore) = let {
         if(duration < 1) {
@@ -355,7 +332,7 @@ open class GenerateBlock {
 
         val meta = meta("padsLength" to duration)
         val clampedDuration = duration.coerceIn(1..5)
-        val score = (clampedDuration.toBigDecimal() - num(1)) / num(2) + num(3)
+        val score = (clampedDuration - 1.0) / 2.0 + 3.0
 
         Impact("PADS", emotion, score, meta)
     }
@@ -406,14 +383,14 @@ open class GenerateBlock {
                 if(days < 0) {
                     error("Found a waifu period with from > to")
                 }
-                days.absoluteValue
+                abs(days)
             } catch (e: Exception) {
                 e.printStackTrace()
                 error("Can't parse waifu periods")
             }
         }
 
-        val score = num(1.5) * num(tanh(days.toDouble()))
+        val score = 1.5 * tanh(days.toDouble())
 
         Impact(
             "Waifu", Emotion.MP, score, meta(
@@ -425,7 +402,7 @@ open class GenerateBlock {
     }
 
     fun WaifuUnknownPeriod(name: String, days: Int) = let {
-        val score = num(1.5) * num(tanh(days.toDouble()))
+        val score = 1.5 * tanh(days.toDouble())
 
         Impact(
             "Waifu", Emotion.MP, score, meta(
@@ -466,7 +443,7 @@ open class GenerateBlock {
     fun Boredom(level: BoredomLevel) = Impact(level.first, Boredom.BoredomFactor, level.second)
 
     fun Meme(strength: Double, level: MemeLevel) = Impact(
-        "Meme", Emotion.AP, num(strength) * level.second * num(3), meta(
+        "Meme", Emotion.AP, strength * level.second * 3, meta(
             "memeStrength" to strength,
             "memeLevel" to level.first,
             "memeLevelValue" to level.second
@@ -476,7 +453,7 @@ open class GenerateBlock {
     fun Music(score: Double) = Impact("Music", Art.Music, score)
 
     fun Relation(id: String, weight: Double, description: String): UnscoredRelation {
-        return Relation(UnscoredRelation(id, description, num(weight)))
+        return Relation(UnscoredRelation(id, description, weight))
     }
 
     fun KilledBy(id: String) = Relation(id, 1e-2, "Killed By")
@@ -518,7 +495,7 @@ class EntryBlock(val id: String, val title: String) : GenerateBlock() {
 
     var impactScore: ImpactScore? = null
     var relationScore: RelationScore? = null
-    var overallScore: ScoreNum? = null
+    var overallScore: Double? = null
 
     lateinit var scoredRelations: List<Relation>
 
@@ -537,11 +514,11 @@ class EntryBlock(val id: String, val title: String) : GenerateBlock() {
     }
 }
 
-fun combine(arr: Collection<ScoreNum>, weight: ScoreNum): ScoreNum {
-    val pos = arr.filter { it > num(0) }
-    val negAbs = arr.filter { it < num(0) }.map { it.abs() }
-    fun combineUnsigned(arr: List<ScoreNum>, weight: ScoreNum): ScoreNum {
-        var result = num(0)
+fun combine(arr: Collection<Double>, weight: Double): Double {
+    val pos = arr.filter { it > 0 }
+    val negAbs = arr.filter { it < 0 }.map { abs(it) }
+    fun combineUnsigned(arr: List<Double>, weight: Double): Double {
+        var result = 0.0
         arr.sorted().forEach {
             result = result * weight + it
         }
@@ -563,7 +540,7 @@ fun GenerateBlock.calcImpact(id: String) {
             SubscoreValue(
                 subscore.factors.associateWith { factorScore ->
                     combine(
-                        entry.impacts.map { it.subscores[subscore]?.get(factorScore) ?: num(0) },
+                        entry.impacts.map { it.subscores[subscore]?.get(factorScore) ?: 0.0 },
                         factorScore.weight
                     )
                 }
@@ -573,8 +550,8 @@ fun GenerateBlock.calcImpact(id: String) {
 }
 
 fun GenerateBlock.calcRelation(id: String) {
-    fun calcRelationInternal(id: String, stack: Set<String>): ScoreNum {
-        val relatedEntry = entries[id] ?: return num(0)
+    fun calcRelationInternal(id: String, stack: Set<String>): Double {
+        val relatedEntry = entries[id] ?: return 0.0
 
         if(relatedEntry.impactScore == null) {
             calcImpact(id)
@@ -709,7 +686,7 @@ fun inspectEntry(entry: EntryBlock) {
         // should include a boredom impact
         val boredom = entry.impacts.firstOrNull {
             val boredom = it.subscores[Boredom]?.get(Boredom.BoredomFactor)
-            boredom != null && (boredom.signum() != 0 || it.description.lowercase() == "boredom")
+            boredom != null && (boredom != 0.0 || it.description.lowercase() == "boredom")
         }
         if(boredom == null) {
             println("Entry ${entry.id} (title: '${entry.title}') doesn't have a boredom impact")
