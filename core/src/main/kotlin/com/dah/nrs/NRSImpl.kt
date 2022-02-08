@@ -23,6 +23,7 @@ import java.time.LocalDateTime
 import kotlin.io.path.Path
 import kotlin.io.path.outputStream
 import kotlin.math.abs
+import kotlin.math.pow
 import kotlin.math.tanh
 import kotlin.properties.ReadOnlyProperty
 import kotlin.reflect.KProperty
@@ -518,11 +519,12 @@ fun combine(arr: Collection<Double>, weight: Double): Double {
     val pos = arr.filter { it > 0 }
     val negAbs = arr.filter { it < 0 }.map { abs(it) }
     fun combineUnsigned(arr: List<Double>, weight: Double): Double {
-        var result = 0.0
-        arr.sorted().forEach {
-            result = result * weight + it
+        if(weight < 1e-3) {
+            return arr.maxOrNull() ?: 0.0
         }
-        return result
+        val theWeight = weight
+        val invWeight = 1.0 / theWeight
+        return arr.sumOf { it.pow(invWeight) }.pow(theWeight)
     }
     return combineUnsigned(pos, weight) - combineUnsigned(negAbs, weight)
 }
