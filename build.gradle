@@ -5,3 +5,17 @@ plugins {
 
 group 'com.dah'
 version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+task runAndMakeCSV {
+    dependsOn ':impl:run'
+    doLast {
+        exec {
+            workingDir 'scripts'
+            commandLine 'node', 'make_csv.js'
+        }
+    }
+}

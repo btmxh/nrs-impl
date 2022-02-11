@@ -1,58 +1,71 @@
 package com.dah.nrs
 
 fun GenerateBlock.Idolmaster() {
-    Album(VGMDB_Album(53945), "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!")
-    Album(VGMDB_Album(64249), "THE IDOLM@STER CINDERELLA MASTER EVERMORE")
-    Album(VGMDB_Album(78253), "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!")
+    Entry {
+        id = "F-VGMDB-3559"
+        title = "THE IDOLM@STER"
 
-    val Pro765Humor = NEI(1.0, Emotion.AP)
-    val Pro961Humor = NEI(0.5, Emotion.AP)
+        Entry {
+            id = "M-VGMDB-AL-53945"
+            title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"
 
-    Track(VGMDB_Track(53945, 1), "Dreaming!") {
-        Music(0.6)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.3)
-    }
+            SubIDEntry("1") {
+                Music(3.5)
+                OsuSong(personal = 8.0)
+            }
+        }
 
-    Track(VGMDB_Track(64249, 1), "EVERMORE (M@STER VERSION)") {
-        Music(1.0)
-    }
+        Entry {
+            id = "M-VGMDB-AL-64249"
+            title = "THE IDOLM@STER CINDERELLA MASTER EVERMORE"
 
-    Track(VGMDB_Track(78253, 1), "UNION!!") {
-        Music(0.8)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.2)
-    }
+            SubIDEntry("1") {
+                Music(4.0)
+            }
+        }
 
-    Anime("The iDOLM@STER", MAL = 10278) {
-        bestGirl = "Minase Iori"
-        // ending pretty sadge
-        NEI(1.2, Emotion.CU)
+        Entry {
+            id = "M-VGMDB-AL-78253"
+            title = "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"
 
-        Impact(Pro765Humor)
+            SubIDEntry("1") {
+                Music(3.5)
+                OsuSong(personal = 5.0, community = 2.0)
+            }
+        }
 
-        // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
-        Music(0.3)
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "A-MAL-10278"
+            title = "The iDOLM@STER"
+            bestGirl = "Minase Iori"
+            // ending pretty sadge
+            NEI(1.2, Emotion.CU)
 
-    Anime("The iDOLM@STER Cinderella Girls", MAL = 23587) {
-        bestGirl = "Ogata Chieri"
-        Impact(Pro961Humor)
-        Boredom(Boredom.Completed)
-    }
+            // funny ig
+            NEI(1.0, Emotion.AP)
 
-    Anime("The iDOLM@STER Cinderella Girls 2nd Season", MAL = 30344) {
-        bestGirl = "Ogata Chieri"
-        Impact(Pro961Humor)
-        Boredom(Boredom.Completed)
-    }
+            // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
+            Music(0.3)
+            Boredom(Boredom.Completed)
+        }
 
-    Franchise(VGMDB_Franchise(3559), "THE IDOLM@STER") {
-        Include(VGMDB_Track(53945, 1))
-        Include(VGMDB_Track(64249, 1))
-        Include(VGMDB_Track(78253, 1))
+        NEI(0.5, Emotion.AP) {
+            contributors["A-MAL-23587"] = 0.5
+            contributors["A-MAL-30344"] = 0.5
+        }
 
-        Include(MAL(10278))
-        Include(MAL(23587))
-        Include(MAL(30344))
+        Entry {
+            id = "A-MAL-23587"
+            title = "The iDOLM@STER Cinderella Girls"
+            bestGirl = "Ogata Chieri"
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-30344"
+            title = "The iDOLM@STER Cinderella Girls 2nd Season"
+            bestGirl = "Ogata Chieri"
+            Boredom(Boredom.Completed)
+        }
     }
 }

@@ -2,50 +2,69 @@ package com.dah.nrs
 
 fun GenerateBlock.Irodori() {
     // original of irodori covers
-    Album(VGMDB_Album(91187), "CHUNITHM ALL JUSTICE COLLECTION ep.I")
-    Track(VGMDB_Track(91187, 35), "Endmark ni kibou to namida o soete", cosMoBousouP) {
-        Music(1.0)
+    Entry {
+        id = "M-VGMDB-AR-9553"
+        title = "cosMo@Bousou-P"
+
+        Contains("M-VGMDB-AL-91187-35")
     }
 
-    Track("M-28", "Brain Power", NOMA) {
-        Music(0.8)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.25)
+    Entry {
+        id = "M-VGMDB-AL-91187"
+        title = "CHUNITHM ALL JUSTICE COLLECTION ep.I"
+
+        SubIDEntry("35", "Endmark ni kibou to namida o soete") {
+            Music(3.5)
+        }
     }
 
-    // the covers themselves
-    Album(VGMDB_Album(93299), "GO!GO! Chunithm♥Endmark")
-    Track(VGMDB_Track(93299, 2), "Endmark ni kibou to namida o soete ~Irodorimidori arrange~", Irodorimidori) {
-        Music(1.0)
-        RemixOf(VGMDB_Track(91187, 35))
+    Entry {
+        id = "F-VGMDB-10978"
+        title = "Irodorimidori"
+
+        Entry {
+            id = "A-MAL-50267"
+            title = "Irodorimidori"
+
+            Boredom(Boredom.Watching)
+        }
+
+        Entry {
+            id = "M-26"
+            title = "Irodorimidori"
+
+            // times 0.6 because they are all covers
+            Contains(ImageVocalContainFactor * 0.6) {
+                Entry {
+                    id = "M-VGMDB-AL-93299"
+                    title = "GO!GO! Chunithm♥Endmark"
+
+                    SubIDEntry("2") {
+                        title = "Endmark ni kibou to namida o soete ~Irodorimidori arrange~"
+
+                        Music(4.0)
+                    }
+                }
+
+                Entry {
+                    id = "M-29"
+                    title = "Maware! GO! GO! CHUNITHM"
+
+                    Entry {
+                        id = "M-30"
+                        title = "Bokura no Freedom DiVE↓"
+
+                        Music(3.0)
+                    }
+
+                    Entry {
+                        id = "M-31"
+                        title = "Zero kara hajimeru Brain Power"
+
+                        Music(2.5)
+                    }
+                }
+            }
+        }
     }
-
-    Album("M-29", "Maware! GO! GO! CHUNITHM") {
-        Include("M-30")
-        Include("M-31")
-    }
-
-    Track("M-30", "Bokura no Freedom DiVE↓", Irodorimidori) {
-        Music(0.8)
-        RemixOf(VGMDB_Track(34269, 12))
-    }
-
-    Track("M-31", "Zero kara hajimeru Brain Power", Irodorimidori) {
-        Music(0.6)
-        RemixOf("M-28")
-    }
-
-    Anime("Irodorimidori", MAL = 50267) {
-        bestGirl = "idk"
-        status = EntryStatus.Watching
-        Boredom(Boredom.Watching)
-    }
-
-    Franchise(VGMDB_Franchise(10978), "Irodorimidori") {
-        Include(MAL(50267))
-
-        Include(VGMDB_Track(93299, 2))
-        Include("M-30")
-        Include("M-31")
-    }
-
 }

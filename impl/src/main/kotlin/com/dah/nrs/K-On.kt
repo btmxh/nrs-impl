@@ -1,93 +1,94 @@
 package com.dah.nrs
 
 fun GenerateBlock.`K-On`() {
-    // OSTs and shit
-    Album(VGMDB_Album(20118), "Utauyo!!MIRACLE")
-    Album(VGMDB_Album(21146), "HO-KAGO TEA TIME Second")
-    Album(VGMDB_Album(22848), "Gohan wa Okazu/U&I")
+    Entry {
+        id = "F-VGMDB-504"
+        title = "K-On!"
 
-    Track(VGMDB_Track(20118, 2), "Kira Kira Days", HTT) {
-        Impact("Binfy's favorite osu! beatmap", Emotion.AP, 0.25)
-        Impact("Sotarks made a map for him XDDDDD", Emotion.AP, 0.5)
-        Music(0.7)
-    }
+        Entry {
+            id = "M-VGMDB-AR-8870"
+            title = "HO-KAGO TEA TIME"
 
-    Track(VGMDB_Track(21146, 9), "Tenshi ni Fureta yo!", HTT)
+            Contains(ImageVocalContainFactor) {
+                Entry {
+                    id = "M-VGMDB-AL-20118"
+                    title = "Utauyo!!MIRACLE"
 
-    Track("M-3", "Tenshi ni Fureta yo! (Asterisk DnB Remix)", HTT, Asterisk) {
-        Music(1.2)
-        Impact("Legendary osu! song", Emotion.AP, 0.3)
+                    SubIDEntry("2") {
+                        title = "Kira Kira Days"
 
-        RemixOf(VGMDB_Track(21146, 9))
-    }
+                        // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
+                        Meme(0.1, Meme.M4_7Days)
+                        Music(2.5)
+                    }
+                }
 
-    Track(VGMDB_Track(22848, 2), "U&I", HTT) {
-        // inst is kinda good
-        Music(0.1)
-    }
+                Entry {
+                    id = "M-VGMDB-AL-21146"
+                    title = "HO-KAGO TEA TIME Second"
 
-    Track("M-4", "U&I (DJ Amaya's Angel at Dawn Remix)", HTT, DJAmaya) {
-        Music(0.6)
+                    SubIDEntry("9") {
+                        title = "Tenshi ni Fureta yo!"
 
-        RemixOf(VGMDB_Track(22848, 2))
-    }
+                        Music(0.5)
+                    }
+                }
 
-    // K-On! animes
+                Entry {
+                    id = "M-VGMDB-AL-22848"
+                    title = "Gohan wa Okazu/U&I"
 
-    // Kinda comfy. But not that much.
-    val KOnComfy = NEI(1.0, Emotion.MP)
-        .from(MAL(5680), MAL(7791), MAL(9617))
-    val KOnHumor = NEI(0.5, Emotion.AP)
-    // During my 9th grade, K-On memes basically dominate the meme world
-    // (with other anime, hence the low strength)
-    val KOnMeme = Meme(0.5, Meme.MMoreThan3Months)
-        .from(MAL(5680), MAL(7791), MAL(9617))
+                    SubIDEntry("2", "U&I") {
+                        Music(1.0)
+                    }
+                }
+            }
+        }
 
-    Anime("K-On!", MAL = 5680) {
-        bestGirl = "Nakano Azusa"
+        // Kinda comfy. But not that much.
+        NEI(1.0, Emotion.MP) {
+            contributors["A-MAL-5680"] = 0.4
+            contributors["A-MAL-7791"] = 0.4
+            contributors["A-MAL-9617"] = 0.2
+        }
 
-        Impact(KOnComfy)
-        // K-On is pretty boring (4.5 PMMS in NRS1)
-        Boredom(Boredom.CompletedWithNoticeableBoredom)
-        Impact(KOnMeme)
-        Impact(KOnHumor)
+        // humor
+        NEI(0.5, Emotion.AP) {
+            contributors["A-MAL-5680"] = 0.4
+            contributors["A-MAL-7791"] = 0.4
+            contributors["A-MAL-9617"] = 0.2
+        }
 
-        // Kira Kira Days not featured in S1
-    }
+        Meme(0.5, Meme.MMoreThan3Months) {
+            contributors["A-MAL-5680"] = 0.4
+            contributors["A-MAL-7791"] = 0.4
+            contributors["A-MAL-9617"] = 0.2
+        }
 
-    Anime("K-On!!", MAL = 7791) {
-        bestGirl = "Nakano Azusa"
+        Entry {
+            id = "A-MAL-5680"
+            title = "K-On!"
+            bestGirl = "Nakano Azusa"
+        
+            Boredom(Boredom.CompletedWithNoticeableBoredom)
+        }
 
-        Impact(KOnComfy)
-        // K-On is pretty boring (4.5 PMMS in NRS1)
-        Boredom(Boredom.CompletedWithNoticeableBoredom)
-        Impact(KOnMeme)
-        Impact(KOnHumor)
+        Entry {
+            id = "A-MAL-7791"
+            title = "K-On!!"
+            bestGirl = "Nakano Azusa"
+        
+            Boredom(Boredom.CompletedWithNoticeableBoredom)
+            FeatureMusic("M-VGMDB-AL-21146-9")
+            FeatureMusic("M-VGMDB-AL-22848-2")
+        }
 
-        FeatureMusic(VGMDB_Track(21146, 9))
-        FeatureMusic(VGMDB_Track(22848, 2))
-    }
-
-    Anime("K-On! Movie", MAL = 9617) {
-        bestGirl = "Nakano Azusa"
-
-        Impact(KOnComfy)
-        // K-On is pretty boring (4.5 PMMS in NRS1)
-        Boredom(Boredom.Completed)
-        Impact(KOnMeme)
-        Impact(KOnHumor)
-
-        FeatureMusic(VGMDB_Track(21146, 9))
-    }
-
-    Franchise(VGMDB_Franchise(504), "K-On!") {
-        bestGirl = "Nakano Azusa"
-
-        Include(MAL(5680))
-        Include(MAL(7791))
-        Include(MAL(9617))
-        Include(VGMDB_Album(20118))
-        Include(VGMDB_Album(21146))
-        Include(VGMDB_Album(22848))
+        Entry {
+            id = "A-MAL-9617"
+            title = "K-On! Movie"
+        
+            Boredom(Boredom.CompletedWithNoticeableBoredom)
+            FeatureMusic("M-VGMDB-AL-21146-9")
+        }
     }
 }

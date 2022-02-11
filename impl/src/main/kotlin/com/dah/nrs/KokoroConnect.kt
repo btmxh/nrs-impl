@@ -1,39 +1,52 @@
 package com.dah.nrs
 
 fun GenerateBlock.KokoroConnect() {
-    Album(VGMDB_Album(35431), """Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song "Kimochi Signal" / Kizu Random Ending Theme Song "Cry out"""")
 
-    Track(VGMDB_Track(35431, 1), "Kimochi Signal") {
-        Music(0.2)
-    }
+    Entry {
+        id = "F-VGMDB-3483"
+        title = "Kokoro Connect"
 
-    val KokoroConnectDrama = AEI(3.0, Emotion.CU)
-    val KKCComfyCompoly = NEI(0.2, Emotion.MP)
-    val KKCPlot = NEI(0.5, Emotion.AP)
+        Entry {
+            id = "M-VGMDB-AL-35431"
+            title = """Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song "Kimochi Signal" / Kizu Random Ending Theme Song "Cry out""""
 
-    Anime("Kokoro Connect", MAL = 11887) {
-        bestGirl = "Nagase Iori"
+            SubIDEntry("1", "Kimochi Signal") {
+                Music(1.5)
+            }
+        }
 
-        Impact(KokoroConnectDrama)
-        Impact(KKCComfyCompoly)
-        Impact(KKCPlot)
-        Boredom(Boredom.Completed)
+        // drama
+        AEI(3.0, Emotion.CU) {
+            contributors["A-MAL-11887"] = 0.5
+            contributors["A-MAL-16001"] = 0.5
+        }
 
-        FeatureMusic(VGMDB_Track(35431, 1))
-    }
+        // comfy compoly
+        NEI(0.2, Emotion.MP) {
+            contributors["A-MAL-11887"] = 0.75
+            contributors["A-MAL-16001"] = 0.25
+        }
 
-    Anime("Kokoro Connect: Michi Random", MAL = 16001) {
-        bestGirl = "Nagase Iori"
+        // plot
+        NEI(0.5, Emotion.AP) {
+            contributors["A-MAL-11887"] = 0.6
+            contributors["A-MAL-16001"] = 0.4
+        }
 
-        Impact(KokoroConnectDrama)
-        Impact(KKCComfyCompoly)
-        Impact(KKCPlot)
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "A-MAL-11887"
+            title = "Kokoro Connect"
 
-    Franchise(VGMDB_Franchise(3483), "Kokoro Connect") {
-        Include(MAL(11887))
-        Include(MAL(16001))
-        Include(VGMDB_Track(35431, 1))
+            Boredom(Boredom.Completed)
+
+            FeatureMusic("M-VGMDB-AL-35431")
+        }
+
+        Entry {
+            id = "A-MAL-16001"
+            title = "Kokoro Connect: Michi Random"
+
+            Boredom(Boredom.Completed)
+        }
     }
 }

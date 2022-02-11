@@ -1,40 +1,59 @@
 package com.dah.nrs
 
 fun GenerateBlock.GochiUsa() {
-    AlbumTrack(VGMDB_Album(44890), 1, "Daydream café", PetitRabbit) {
-        // fuwa fuwa
-        // dong do la max do
-        // duy bua ham l
-        // duy bua ngao l
-        Music(1.2)
-    }
+    Entry {
+        id = "F-VGMDB-3939"
+        title = "Gochuumon wa Usagi Desu ka?"
 
-    Album(VGMDB_Album(55364), "Is the order a rabbit?? Chino Character Song Album: CUP OF Chino") {
-        // this also includes mahou shoujo chino
-        Include(VGMDB_Track(54418, 1))
-    }
+        Entry {
+            id = "M-9"
+            title = "Petit Rabbit's"
 
-    Track(VGMDB_Track(55364, 3), "Shinsaku no Shiawase wa Kochira!", MinaseInori) {
-        // dan dan kikoeru
-        // lets go i fced the son's insane diff with dt
-        Music(0.9)
-    }
+            Contains(ImageVocalContainFactor) {
+                Entry {
+                    id = "M-VGMDB-AL-44890"
+                    title = "Daydream café"
 
-    Album(VGMDB_Album(54418), "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino")
+                    SubIDEntry("1") {
+                        // fuwa fuwa
+                        // dong do la max do
+                        // duy bua ham l
+                        // duy bua ngao l
+                        Music(1.2)
+                    }
+                }
+            }
+        }
 
-    Track(VGMDB_Track(54418, 1), "Mahou Shoujo Chino", MinaseInori) {
-        Music(0.5)
-    }
+        Entry {
+            id = "M-VGMDB-AL-55364"
+            title = "Is the order a rabbit?? Chino Character Song Album: CUP OF Chino"
 
-    Anime("Gochuumon wa Usagi Desu ka?", MAL = 21273) {
-        // humor not that good tho
-        NEI(0.3, Emotion.AP)
-        Boredom(Boredom.Completed)
-    }
+            // this also includes mahou shoujo chino
+            Contains("M-VGMDB-AL-54418-1")
 
-    Franchise(VGMDB_Franchise(3939), "Gochuumon wa Usagi Desu ka?") {
-        Include(MAL(21273))
-        Include(VGMDB_Track(54418, 1))
-        Include(VGMDB_Track(55364, 3))
+            SubIDEntry("3", "Shinsaku no Shiawase wa Kochira!") {
+                // dan dan kikoeru
+                // lets go i fced the son's insane diff with dt
+                Music(3.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-54418"
+            title = "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino"
+
+            SubIDEntry("1", "Mahou Shoujo Chino") {
+                Music(2.0)
+            }
+        }
+
+        Entry {
+            id = "A-MAL-21273"
+            title = "Gochuumon wa Usagi Desu ka?"
+            // humor not that good tho
+            NEI(0.3, Emotion.AP)
+            Boredom(Boredom.Completed)
+        }
     }
 }

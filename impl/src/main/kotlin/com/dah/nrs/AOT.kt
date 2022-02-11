@@ -1,39 +1,47 @@
 package com.dah.nrs
 
+// imagine almost losing a contentless franchise xddddddddddddd
 fun GenerateBlock.AOT() {
-    Anime("Shingeki no Kyojin", MAL = 16498) {
-        bestGirl = "Ackerman Mikasa"
-        Boredom(Boredom.Completed)
-        NEI(0.2, Emotion.AP)
-    }
+    Entry {
+        title = "Shingeki no Kyojin"
+        id = "F-VGMDB-2931"
 
-    Anime("Shingeki no Kyojin Season 2", MAL = 25777) {
-        bestGirl = "Ackerman Mikasa"
-        Boredom(Boredom.Completed)
-        NEI(0.3, Emotion.AP)
-    }
+        Entry {
+            title = "Shingeki no Kyojin"
+            id = "A-MAL-16498"
+            bestGirl = "Ackerman Mikasa"
+            Boredom(Boredom.Completed)
+            NEI(1.0, Emotion.AP)
+        }
 
-    Anime("Shingeki no Kyojin Season 3", MAL = 35760) {
-        seasonal = true
-        bestGirl = "Ackerman Mikasa"
-        Boredom(Boredom.Completed)
-        NEI(0.3, Emotion.AP)
-    }
+        Entry {
+            title = "Shingeki no Kyojin Season 2"
+            id = "A-MAL-25777"
+            bestGirl = "Ackerman Mikasa"
+            Boredom(Boredom.Completed)
+            NEI(1.5, Emotion.AP)
+        }
 
-    // this has more score than almost all love live animes
-    // and almost the same score as sb69 stars wtf.
-    Anime("Shingeki no Kyojin Season 3 Part 2", MAL = 38524) {
-        seasonal = true
-        bestGirl = "Ackerman Mikasa"
-        Boredom(Boredom.Completed)
-        AEI(2.0, Emotion.AP)
-    }
+        Entry {
+            title = "Shingeki no Kyojin Season 3"
+            id = "A-MAL-35760"
+            bestGirl = "Ackerman Mikasa"
+            Boredom(Boredom.Completed)
+            NEI(1.5, Emotion.AP)
+        }
 
-    // imagine almost losing a contentless franchise xddddddddddddd
-    Franchise(VGMDB_Franchise(2931), "Shingeki no Kyojin") {
-        Include(MAL(16498))
-        Include(MAL(25777))
-        Include(MAL(35760))
-        Include(MAL(38524))
+        // this has more score than almost all love live animes
+        // and almost the same score as sb69 stars wtf.
+
+        // aged well lmfao after the seishun wa non-stop incident
+        // xddddddddddddddddddddd
+        Entry {
+            title = "Shingeki no Kyojin Season 3 Part 2"
+            id = "A-MAL-38524"
+            bestGirl = "Ackerman Mikasa"
+            Boredom(Boredom.Completed)
+            NEI(10.0, Emotion.AP)
+        }
     }
 }
+

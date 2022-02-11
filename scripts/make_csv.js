@@ -2,26 +2,25 @@
 const labels = [
     "ID",
     "Title",
-    "Overall",
-    "Art-Music"
+    "Overall"
 ];
 
 const output = entry => {
     return [
         entry.id,
         entry.title,
-        entry.score.overall,
-        subscore(entry, 1, 2)
+        entry.overall
     ];
 };
 
 // Script content
 const fs = require("fs");
 const csv = require("csv");
-const data = JSON.parse(fs.readFileSync("../nrs.json"));
+const data = JSON.parse(fs.readFileSync("../scores.json"));
 let output_data = [labels];
-for(const entry of data.entries) {
-    output_data.push(output(entry));
+for(const id in data) {
+    data[id].id = id
+    output_data.push(output(data[id]));
 }
 csv.stringify(output_data, (_, out) => {
     fs.writeFileSync("nrs.csv", out);
