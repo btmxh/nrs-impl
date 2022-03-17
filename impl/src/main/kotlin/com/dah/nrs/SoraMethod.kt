@@ -1,37 +1,42 @@
 package com.dah.nrs
 
 fun GenerateBlock.SoraMethod() {
-    AlbumTrack(VGMDB_Album(47402), 1, "Stargazer", LarvalStagePlanning) {
-        Music(0.8)
-    }
+    Entry {
+        id = "F-VGMDB-2894"
+        // method!!!!!!! mot con nguoi dc xay dung mot
+        // cach khac biet *insert pasta*
+        title = "Sora no Method"
 
-    AlbumTrack(VGMDB_Album(47403), 1, "Hoshikuzu no Interlude", fhana) {
-        Music(0.8)
-    }
+        Entry {
+            id = "A-MAL-23209"
+            title = "Sora no Method"
+            bestGirl = "Komiya Nonoka"
 
-    Anime("Sora no Method", MAL = 23209) {
-        // Drama in this anime is executed pretty well.
-        AEI(2.5, Emotion.CU)
+            // Drama in this anime is executed pretty well.
+            AEI(7.5, Emotion.CU)
 
-        // beasttrollminecraft
-        Meme(0.3, Meme.M4_7Days)
+            // beasttrollminecraft
+            Meme(0.3, Meme.M4_7Days)
 
+            // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
+            NEI(5.0, Emotion.CU)
 
-        bestGirl = "Komiya Nonoka"
+            // OP/ED very good too.
+            FeatureMusic("M-VGMDB-AL-47402-1")
+            FeatureMusic("M-VGMDB-AL-47403-1")
 
-        // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
-        Impact("OP/ED visual chemistry", Emotion.CU, 1.0)
+            Boredom(Boredom.Completed)
+        }
 
-        // OP/ED very good too.
-        FeatureMusic(VGMDB_Track(47402, 1))
-        FeatureMusic(VGMDB_Track(47403, 1))
+        Entry {
+            id = "M-VGMDB-AL-47402"
+            title = "Stargazer"
 
-        Boredom(Boredom.Completed)
-    }
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
 
-    Franchise(VGMDB_Franchise(2894), "Sora no Method") {
-        Include(MAL(23209))
-        Include(VGMDB_Track(47402, 1))
-        Include(VGMDB_Track(47403, 1))
+        Contains("M-VGMDB-AL-47403-1")
     }
 }

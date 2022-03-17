@@ -107,6 +107,7 @@ class Entry(override val root: GenerateScope?) : AcceptIRE, AcceptEntryContains,
     var id: String = ""
     var title: String = ""
     var bestGirl: String = ""
+    var seasonal: Boolean = false
     val contains = mutableMapOf<String, Double>()
 
     override val globalContainsFactor = 1.0

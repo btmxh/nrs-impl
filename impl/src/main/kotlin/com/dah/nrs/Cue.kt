@@ -26,10 +26,11 @@ fun GenerateBlock.Cue() {
             // in ep3 iirc there is some
             // and based ep4 is nothing but character interactions
             // we do a little MP farming
-            NEI(0.5, Emotion.MP)
+            // ok airi and yuzuha is wholesome af
+            NEI(5.0, Emotion.MP)
 
             // in ep5 there is some comedy
-            NEI(0.25, Emotion.AP)
+            NEI(1.25, Emotion.AP)
 
             Boredom(Boredom.Watching)
 
@@ -46,6 +47,19 @@ fun GenerateBlock.Cue() {
 
             SubIDEntry("1", "Start Line") {
                 Music(7.5)
+            }
+
+            SubIDEntry("2", "Hajimari no Kanenone ga Narihibiku Sora") {
+                Music(3.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AR-33857"
+            title = "AiRBLUE"
+
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-115724")
             }
         }
     }

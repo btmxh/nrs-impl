@@ -1,15 +1,25 @@
 package com.dah.nrs
 
 fun GenerateBlock.OsuGame() {
-    Album(VGMDB_Album(34269), "Parousia")
-    Track(VGMDB_Track(34269, 12), "FREEDOM DiVE↓", xi) {
-        Music(0.6)
-        Impact("i'm not overstreaming 222 bpm", Emotion.AP, 0.1)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.4)
-    }
+    Entry {
+        id = "M-VGMDB-AR-12225"
+        title = "xi"
 
-    // the third ayumu-era theme song
-    Track(VGMDB_Track(34269, 7), "Ascension to Heaven", xi) {
-        Music(0.8)
+        Entry {
+            id = "M-VGMDB-AL-34269"
+            title = "Parousia"
+
+            // the third ayumu-era theme song
+            SubIDEntry("7", "Ascension to Heaven") {
+                Music(4.0)
+            }
+
+            SubIDEntry("12", "FREEDOM DiVE↓") {
+                Music(0.6)
+                // i'm not overstreaming 222 bpm
+                NEI(2.0, Emotion.AP)
+                OsuSong(personal = 2.0, community = 8.0)
+            }
+        }
     }
 }

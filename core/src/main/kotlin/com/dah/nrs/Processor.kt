@@ -72,9 +72,25 @@ fun process(entries: Map<String, Entry>, impacts: List<Impact>, relations: List<
             } else {
                 val buffedWeight = weight.pow(ChemistryBuffFactor)
                 it.references.map { (reference, weightMatrix) ->
-                    val relation = calcRelation(reference)
-                    val overall = (impactScores[reference] ?: ScoreVector.ZERO) + relation
-                    weightMatrix * overall
+                    // check if this entry contains the `reference` entry
+                    fun checkSelfRelation(): Boolean {
+                        // returns `id1` in `id2`
+                        fun contains(id1: String, id2: String): Boolean {
+                            return id1 == id2 ||
+                                    (entries[id2]?.contains ?: emptyMap())
+                                        .any { (id, _) -> contains(id1, id) }
+                        }
+
+                        return contains(reference, id)
+                    }
+
+                    if(checkSelfRelation()) {
+                        ScoreVector.ZERO
+                    } else {
+                        val relation = calcRelation(reference)
+                        val overall = (impactScores[reference] ?: ScoreVector.ZERO) + relation
+                        weightMatrix * overall
+                    }
                 }.reduce { a, b -> a + b } * buffedWeight
             }
         }).also { stack.pop(id) }
@@ -132,7 +148,7 @@ fun maxWeight(from: String, to: String, entries: Map<String, Entry>): Double {
     return maxWeightInternal(from, to, entries, hashMapOf())
 }
 
-fun combineVectors(list: List<ScoreVector>): ScoreVector {
+fun combineVectors(list: Iterable<ScoreVector>): ScoreVector {
     return vector {
         for (factor in FactorScores) {
             set(factor, combine(list.map { it[factor.vectorIndex] }, factor.weight))

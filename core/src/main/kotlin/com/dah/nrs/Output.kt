@@ -59,7 +59,7 @@ class SerializableScore(
         score.overall)
 }
 
-fun init(any: Any?) {}
+fun init(any: Any?) { any.hashCode() }
 
 val json = Json {
     prettyPrint = true

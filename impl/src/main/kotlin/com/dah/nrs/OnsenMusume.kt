@@ -4,23 +4,56 @@ fun GenerateBlock.OnsenMusume() {
     // le funny franchise, lack content therefore low score
     // translate stuff for me if u want score to go up
 
-    val SPRiNGS = Artist("M-17", "SPRiNGS")
-    val OnsenMeme = Meme(0.3, Meme.M1_2Months)
+    Entry {
+        id = "F-VGMDB-6439"
+        title = "Onsen Musume"
 
-    Album(VGMDB_Album(75344), "Tsuioku Kaleidoscope")
-    Track(VGMDB_Track(75344, 1), "Junjou -SAKURA-", SPRiNGS) {
-        Music(1.5)
-    }
+        Entry {
+            id = "M-VGMDB-AL-75349"
+            title = "Hop Step Jump!"
 
-    AlbumTrack(VGMDB_Album(75349), 1, "Hop Step Jump!", SPRiNGS) {
-        Music(1.25)
-    }
+            SubIDEntry("1") {
+                Music(6.0)
+            }
+        }
 
-    Franchise(VGMDB_Franchise(6439), "Onsen Musume") {
-        bestGirl = "Kusatsu Yuina"
-        Impact(OnsenMeme)
+        Entry {
+            id = "M-17"
+            title = "SPRiNGS"
 
-        Include(VGMDB_Track(75344, 1))
-        Include(VGMDB_Track(75349, 1))
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-75344-1")
+                Contains("M-VGMDB-AL-75344-5")
+                Contains("M-VGMDB-AL-75349")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-75344"
+            title = "Tsuioku Kaleidoscope"
+
+            SubIDEntry("1", "Junjou -SAKURA-") {
+                Music(6.0)
+            }
+
+            // 2-4 are subunit songs
+            SubIDEntry("2", "Romance no Ringo") {
+                Music(7.0)
+            }
+
+            SubIDEntry("3", "SILENT VOICES") {
+                Music(5.5)
+            }
+
+            SubIDEntry("4", "Ohayou Japonika") {
+                Music(5.0)
+            }
+
+            SubIDEntry("5", "Sayonara Hanabi") {
+                Music(1.0)
+            }
+        }
+
+        Meme(0.3, Meme.M1_2Months)
     }
 }

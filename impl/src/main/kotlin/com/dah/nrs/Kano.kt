@@ -1,7 +1,5 @@
 package com.dah.nrs
 
-import kotlin.math.E
-
 fun GenerateBlock.Kano() {
     // le meme artist (kano) has a very distinctive voice,
     // making her literally the best singer in j-pop
@@ -28,7 +26,7 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("1", "Hello / How are you") {
                     Music(2.0)
-                    NEI(0.2, Emotion.MP)
+                    NEI(1.0, Emotion.MP)
                     Remix("M-VGMDB-AL-37130-1")
                 }
             }
@@ -39,12 +37,12 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("6", "Interviewer") {
                     Music(4.0)
-                    NEI(0.3, Emotion.CU)
+                    NEI(1.5, Emotion.CU)
                 }
 
                 SubIDEntry("11", "Irony") {
                     Music(1.75)
-                    NEI(0.3, Emotion.CU)
+                    NEI(1.5, Emotion.CU)
                 }
             }
 
@@ -61,12 +59,12 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("6", "Mary Mary (album ver.)") {
                     Music(4.0)
-                    NEI(0.5, Emotion.MP)
+                    NEI(2.5, Emotion.MP)
                 }
 
                 SubIDEntry("9", "World on Color") {
                     Music(6.0)
-                    NEI(0.4, Emotion.MP)
+                    NEI(2.0, Emotion.MP)
                 }
             }
 
@@ -76,12 +74,12 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("1", "Good Night Everyone") {
                     Music(4.0)
-                    NEI(0.4, Emotion.CU)
+                    NEI(2.0, Emotion.CU)
                 }
 
                 SubIDEntry("8", "decide") {
                     Music(2.0)
-                    NEI(0.5, Emotion.CU)
+                    NEI(2.5, Emotion.CU)
                 }
             }
 
@@ -91,7 +89,7 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("1") {
                     Music(5.0)
-                    NEI(0.1, Emotion.MP)
+                    NEI(0.5, Emotion.MP)
                 }
             }
 
@@ -101,7 +99,7 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("1") {
                     Music(5.0)
-                    NEI(0.2, Emotion.CU)
+                    NEI(1.0, Emotion.CU)
                 }
             }
 
@@ -111,7 +109,7 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("1", "Prima Stella") {
                     Music(5.0)
-                    NEI(0.2, Emotion.CU)
+                    NEI(1.0, Emotion.CU)
                 }
 
                 Contains("M-VGMDB-AL-51254-1")
@@ -131,7 +129,9 @@ fun GenerateBlock.Kano() {
 
                 SubIDEntry("6", "Chikyuu Saigo no Kokuhaku o") {
                     Music(3.5)
-                    NEI(0.2, Emotion.CU)
+                    NEI(1.0, Emotion.CU)
+
+                    Remix("M-MAL-36631-6")
                 }
             }
 
@@ -142,7 +142,7 @@ fun GenerateBlock.Kano() {
                 title = "Kimiiro Hanabi -album version-"
 
                 Music(6.0)
-                NEI(1.0, Emotion.CP)
+                NEI(5.0, Emotion.CP)
             }
         }
 
@@ -173,89 +173,49 @@ fun GenerateBlock.Kano() {
 
             SubIDEntry("1", "Hello / How are you (mix)") {
                 Music(2.5)
-                NEI(0.25, Emotion.MP)
+                NEI(1.25, Emotion.MP)
             }
 
             SubIDEntry("2", "Utautai no Uta") {
                 Music(8.0)
-                NEI(0.3, Emotion.MP)
+                NEI(1.5, Emotion.MP)
             }
 
             // the best kano song ever. period.
             // also the fourth ayumu-era theme song
             SubIDEntry("3", "[It's not] World's end") {
                 Music(5.0)
-                NEI(1.0, Emotion.CU)
+                NEI(5.0, Emotion.CU)
             }
 
             SubIDEntry("4", "\"Nee.\"") {
                 Music(2.0)
-                NEI(0.5, Emotion.CU)
+                NEI(2.5, Emotion.CU)
             }
 
             SubIDEntry("5", "Asayake, Kimi no Uta.") {
                 Music(2.0)
-                NEI(0.4, Emotion.MP)
+                NEI(2.0, Emotion.MP)
             }
 
             SubIDEntry("6", "Sakura no Zenya") {
                 Music(7.0)
-                NEI(0.5, Emotion.CU)
+                NEI(2.5, Emotion.CU)
             }
         }
     }
-
-//    Album(VGMDB_Album(49423), "Good Hello")
-//    Track(VGMDB_Track(49423, 1), "Good Night Everyone", Kano, KoyamaHidekazu) {
-//        Music(1.25)
-//        KanoImpact(0.3)
-//    }
-//
-//    Track(VGMDB_Track(49423, 8), "decide", Kano, keeno) {
-//        Music(0.8)
-//        KanoImpact(0.4)
-//    }
-//
-//    AlbumTrack(VGMDB_Album(51254), 1, "Stella-rium", Kano) {
-//        Music(1.5)
-//        KanoImpact(0.1, Emotion.MP)
-//    }
-//
-//    AlbumTrack(VGMDB_Album(54307), 1, "Dear Brave", Kano) {
-//        Music(1.5)
-//        KanoImpact(0.1)
-//    }
-//
-//    Album(VGMDB_Album(57564), "nowhere") {
-//        Include(VGMDB_Track(51254, 1))
-//        Include(VGMDB_Track(54307, 1))
-//    }
-//
-//    Track(VGMDB_Track(57564, 1), "Prima Stella") {
-//        Music(1.5)
-//        KanoImpact(0.1)
-//    }
-//
-//    Album(VGMDB_Album(73516), "one") {
-//        Include(VGMDB_Track(34411, 11))
-//    }
-//
-//    Album(VGMDB_Album(89290), "three")
-//
-//    Track(VGMDB_Track(89290, 6), "Chikyuu Saigo no Kokuhaku o", Kano) {
-//        Music(0.5)
-//        KanoImpact(0.1)
-//        RemixOf("M-MAL-36631-6")
-//    }
-//
-//    // from the album "Colorful Wonder Note", track number 8
-//    // and yes this is from osugame too
-//    Track("M-24", "Kimiiro Hanabi -album version-", Kano) {
-//        Music(1.5)
-//        KanoImpact(1.0, Emotion.CP)
-//    }
-
     // after this, almost all of kano's songs suck
     // (if kano sees this pls keep going on the
     // path you've chosen, don't mind me)
+
+    // oh except for this, i forgor
+    Entry {
+        id = "M-49"
+        title = "Sore wa Kitto Natsudatta"
+
+        // 210 bpm spaced bursts
+        OsuSong(personal = 5.0)
+
+        Music(5.0)
+    }
 }

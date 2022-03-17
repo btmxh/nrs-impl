@@ -18,12 +18,12 @@ fun GenerateBlock.Chuunibyou() {
 
             SubIDEntry("1") {
                 Music(2.0)
-                OsuSong(2.0)
+                OsuSong(personal = 2.0)
             }
         }
 
         // this made me laugh my ass off
-        NEI(1.5, Emotion.AP) {
+        NEI(7.5, Emotion.AP) {
             contributors["A-MAL-14741"] = 0.75
             // s2 has less comedy than s1
             // because le funny dead ppl pink-haired girl
@@ -47,7 +47,7 @@ fun GenerateBlock.Chuunibyou() {
             bestGirl = "Nibutani Shinka"
             // Shichimiya dead people almost made me cry
             // YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI
-            AEI(3.0, Emotion.CU)
+            AEI(10.0, Emotion.CU)
             // Shichimiya memes
             Meme(0.4, Meme.M1_2Weeks)
             Boredom(Boredom.Completed)
@@ -62,7 +62,7 @@ fun GenerateBlock.Chuunibyou() {
             Boredom(Boredom.Completed)
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later
-            NEI(0.5, Emotion.AP)
+            NEI(2.5, Emotion.AP)
         }
     }
 }

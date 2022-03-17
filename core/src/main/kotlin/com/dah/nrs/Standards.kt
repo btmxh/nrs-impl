@@ -66,7 +66,7 @@ fun AcceptImpact.Cry(vararg emotions: Pair<Emotion.Factor, Double>, block: DSLIm
 }
 
 fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
-    val padsScore = mapClampThrow(length.toDouble(), 1.0..5.0, 3.0..5.0) {
+    val padsScore = mapClampThrow(length.toDouble().coerceAtMost(5.0), 1.0..5.0, 3.0..5.0) {
         "PADS too short"
     }
 
@@ -247,6 +247,9 @@ fun AcceptImpact.Boredom(boredomLevel: Level, block: DSLImpact.() -> Unit = {}) 
 }
 
 fun AcceptImpact.Meme(strength: Double, duration: Level, block: DSLImpact.() -> Unit = {}) {
+    if(strength !in 0.0 .. 1.0) {
+        error("$strength not in range 0..1")
+    }
     Impact {
         description = "Meme"
         score = vector {

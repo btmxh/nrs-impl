@@ -6,22 +6,24 @@ fun GenerateBlock.GochiUsa() {
         title = "Gochuumon wa Usagi Desu ka?"
 
         Entry {
+            id = "M-VGMDB-AL-44890"
+            title = "Daydream café"
+
+            SubIDEntry("1") {
+                // fuwa fuwa
+                // dong do la max do
+                // duy bua ham l
+                // duy bua ngao l
+                Music(1.2)
+            }
+        }
+
+        Entry {
             id = "M-9"
             title = "Petit Rabbit's"
 
             Contains(ImageVocalContainFactor) {
-                Entry {
-                    id = "M-VGMDB-AL-44890"
-                    title = "Daydream café"
-
-                    SubIDEntry("1") {
-                        // fuwa fuwa
-                        // dong do la max do
-                        // duy bua ham l
-                        // duy bua ngao l
-                        Music(1.2)
-                    }
-                }
+                Contains("M-VGMDB-AL-44890")
             }
         }
 
@@ -52,7 +54,7 @@ fun GenerateBlock.GochiUsa() {
             id = "A-MAL-21273"
             title = "Gochuumon wa Usagi Desu ka?"
             // humor not that good tho
-            NEI(0.3, Emotion.AP)
+            NEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)
         }
     }

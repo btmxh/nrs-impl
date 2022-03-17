@@ -6,19 +6,21 @@ fun GenerateBlock.GakkouGurashi() {
         title = "Gakkougurashi!"
 
         Entry {
+            id = "M-VGMDB-AL-52993"
+            title = "Friend Shitai"
+
+            SubIDEntry("1") {
+                Music(3.0)
+                OsuSong(personal = 5.0)
+            }
+        }
+
+        Entry {
             id = "M-44"
             title = "Gakuen Seikatsubu"
 
             Contains(ImageVocalContainFactor) {
-                Entry {
-                    id = "M-VGMDB-AL-52993"
-                    title = "Friend Shitai"
-
-                    SubIDEntry("1") {
-                        Music(3.0)
-                        OsuSong(5.0)
-                    }
-                }
+                Contains("M-VGMDB-AL-52993")
             }
         }
 

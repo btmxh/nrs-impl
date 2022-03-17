@@ -2,14 +2,40 @@
 const labels = [
     "ID",
     "Title",
-    "Overall"
+    "Overall",
+    "AU",
+    "AP",
+    "MU",
+    "MP",
+    "CU",
+    "CP",
+    "AL",
+    "AI",
+    "AM",
+    "IP",
+    "IG",
+    "B",
+    "A"
 ];
 
 const output = entry => {
     return [
         entry.id,
         entry.title,
-        entry.overall
+        entry.overall,
+        entry.overallVector[0],
+        entry.overallVector[1],
+        entry.overallVector[2],
+        entry.overallVector[3],
+        entry.overallVector[4],
+        entry.overallVector[5],
+        entry.overallVector[6],
+        entry.overallVector[7],
+        entry.overallVector[8],
+        entry.overallVector[9],
+        entry.overallVector[10],
+        entry.overallVector[11],
+        entry.overallVector[12]
     ];
 };
 

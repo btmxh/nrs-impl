@@ -1,31 +1,35 @@
 package com.dah.nrs
 
 fun GenerateBlock.SwordArtOnline() {
-    AlbumTrack(VGMDB_Album(33537), 1, "crossing field", LiSA) {
-        Music(0.3)
-    }
+    Entry {
+        id = "F-VGMDB-2633"
+        title = "Sword Art Online"
 
-    Anime("Sword Art Online", MAL = 11757) {
-        bestGirl = "Yuuki Asuna"
-        FeatureMusic(VGMDB_Track(33537, 1))
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "A-MAL-11757"
+            title = "Sword Art Online"
 
-    Anime("Sword Art Online II", MAL = 21881) {
-        bestGirl = "Yuuki Asuna"
-        Boredom(Boredom.Completed)
-    }
+            bestGirl = "Yuuki Asuna"
+            FeatureMusic("M-VGMDB-AL-33537-1")
+            Boredom(Boredom.Completed)
+        }
 
-    Anime("Sword Art Online Movie: Ordinal Scale", MAL = 31765) {
-        bestGirl = "Yuuki Asuna"
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "A-MAL-21881"
+            title = "Sword Art Online II"
 
-    Franchise(VGMDB_Franchise(2633), "Sword Art Online") {
-        Include(MAL(11757))
-        Include(MAL(21881))
-        Include(MAL(31765))
+            bestGirl = "Yuuki Asuna"
+            Boredom(Boredom.Completed)
+        }
 
-        Include(VGMDB_Track(33537, 1))
+        Entry {
+            id = "A-MAL-31765"
+            title = "Sword Art Online Movie: Ordinal Scale"
+
+            bestGirl = "Yuuki Asuna"
+            Boredom(Boredom.Completed)
+        }
+
+        Contains("M-VGMDB-AL-33537-1")
     }
 }

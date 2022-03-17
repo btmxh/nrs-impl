@@ -1,67 +1,70 @@
 package com.dah.nrs
 
 fun GenerateBlock.Saekano() {
-    val MegumiKato = WaifuUnknownPeriod("Megumi Kato", 90)
-    val SaekanoHumor = NEI(1.75, Emotion.AP)
-    val SaekanoMeme = Meme(0.5, Meme.M1_2Months)
+    Entry {
+        id = "F-VGMDB-3305"
+        title = "Saenai Heroine no Sodatekata"
 
-    AlbumTrack(VGMDB_Album(48199), 1, "M♭", KayanoAi) {
-        Music(0.5)
-        Impact("Legendary osu! song", Emotion.AP, 0.1)
+        Entry {
+            id = "M-VGMDB-AL-48199"
+            title = "M♭"
+
+            SubIDEntry("1") {
+                Music(2.0)
+                OsuSong(personal = 1.0)
+            }
+        }
+
+        Contains("M-VGMDB-AL-49446-1")
+
+        WaifuUnknownPeriod("Megumi Kato", 90) {
+            contributors["A-MAL-23277"] = 0.5
+            contributors["A-MAL-30727"] = 0.5
+        }
+        NEI(1.75, Emotion.AP) {
+            contributors["A-MAL-23277"] = 0.5
+            contributors["A-MAL-30727"] = 0.5
+        }
+        Meme(0.5, Meme.M1_2Months) {
+            contributors["A-MAL-23277"] = 0.5
+            contributors["A-MAL-30727"] = 0.5
+        }
+
+        Entry {
+            id = "A-MAL-23277"
+            title = "Saenai Heroine no Sodatekata"
+            
+            FeatureMusic("M-VGMDB-AL-48199-1")
+            FeatureMusic("M-VGMDB-AL-49446-1")
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-30727"
+            title = "Saenai Heroine no Sodatekata ♭"
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-36885"
+            title = "Saenai Heroine no Sodatekata Fine"
+            // humor
+            NEI(1.25, Emotion.AP)
+            Boredom(Boredom.Completed)
+        }
     }
 
-    AlbumTrack(VGMDB_Album(49446), 1, "Colorful.", SawaiMiku) {
-        Music(0.8)
+    Entry {
+        id = "M-10"
+        title = "Colorful. (Asterisk DnB Remix)"
+
+        Music(2.75)
     }
 
-    Track("M-10", "Colorful. (Asterisk DnB Remix)", SawaiMiku, Asterisk) {
-        Music(0.9)
-    }
+    Entry {
+        id = "M-11"
+        title = "Colorful. (kamaboko remix)"
 
-    Track("M-11", "Colorful. (kamaboko remix)", SawaiMiku, kamaboko) {
-        Music(1.2)
-        // meta'd in the first days of hiki-yuki autism
-        Impact("Meta'd in the first days of HYA", Emotion.AP, 0.5)
-    }
-
-    Anime("Saenai Heroine no Sodatekata", MAL = 23277) {
-        bestGirl = "Megumi Kato"
-        Impact(MegumiKato)
-        Impact(SaekanoHumor)
-        Impact(SaekanoMeme)
-
-        FeatureMusic(VGMDB_Track(48199, 1))
-        FeatureMusic(VGMDB_Track(49446, 1))
-
-        Boredom(Boredom.Completed)
-    }
-
-    Anime("Saenai Heroine no Sodatekata ♭", MAL = 30727) {
-        bestGirl = "Megumi Kato"
-        Impact(MegumiKato)
-        Impact(SaekanoHumor)
-        Impact(SaekanoMeme)
-
-        Boredom(Boredom.Completed)
-    }
-
-    Anime("Saenai Heroine no Sodatekata Fine", MAL = 36885) {
-        bestGirl = "Megumi Kato"
-        Impact(MegumiKato)
-        // humor
-        NEI(1.25, Emotion.AP)
-
-        Boredom(Boredom.Completed)
-    }
-
-    Franchise(VGMDB_Franchise(3305), "Saenai Heroine no Sodatekata") {
-        Include(MAL(23277))
-        Include(MAL(30727))
-        Include(MAL(36885))
-
-        Include(VGMDB_Track(48199, 1))
-        Include(VGMDB_Track(49446, 1))
-
-        Boredom(Boredom.Completed)
+        Music(3.0)
     }
 }

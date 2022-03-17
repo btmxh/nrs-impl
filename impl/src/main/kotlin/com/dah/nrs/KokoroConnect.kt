@@ -1,7 +1,6 @@
 package com.dah.nrs
 
 fun GenerateBlock.KokoroConnect() {
-
     Entry {
         id = "F-VGMDB-3483"
         title = "Kokoro Connect"
@@ -16,19 +15,19 @@ fun GenerateBlock.KokoroConnect() {
         }
 
         // drama
-        AEI(3.0, Emotion.CU) {
+        AEI(9.0, Emotion.CU) {
             contributors["A-MAL-11887"] = 0.5
             contributors["A-MAL-16001"] = 0.5
         }
 
         // comfy compoly
-        NEI(0.2, Emotion.MP) {
+        NEI(1.0, Emotion.MP) {
             contributors["A-MAL-11887"] = 0.75
             contributors["A-MAL-16001"] = 0.25
         }
 
         // plot
-        NEI(0.5, Emotion.AP) {
+        NEI(2.5, Emotion.AP) {
             contributors["A-MAL-11887"] = 0.6
             contributors["A-MAL-16001"] = 0.4
         }

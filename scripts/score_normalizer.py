@@ -5,10 +5,10 @@ offset = 0.0
 
 
 def get_normalized_entries():
-    data = json.load(open("../nrs.json", encoding="utf-8"))
+    data = json.load(open("../scores.json", encoding="utf-8"))
 
-    important = [{"id": e["id"][6:], "title": e["title"], "nrs_score": float(
-        e["score"]["overall"]), "meta": e} for e in data["entries"] if e["id"].startswith("A-MAL")]
+    important = [{"id": id[6:], "title": data[id]["title"], "nrs_score": float(
+        data[id]["overall"]), "meta": data[id]} for id in data if id.startswith("A-MAL")]
     important = sorted(important, key=lambda student: student["nrs_score"])
     epsilon = 1e-5
     max_score = max(important, key=lambda e: e["nrs_score"])["nrs_score"]

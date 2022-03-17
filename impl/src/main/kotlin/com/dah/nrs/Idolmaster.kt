@@ -14,7 +14,6 @@ fun GenerateBlock.Idolmaster() {
                 OsuSong(personal = 8.0)
             }
         }
-
         Entry {
             id = "M-VGMDB-AL-64249"
             title = "THE IDOLM@STER CINDERELLA MASTER EVERMORE"
@@ -39,17 +38,17 @@ fun GenerateBlock.Idolmaster() {
             title = "The iDOLM@STER"
             bestGirl = "Minase Iori"
             // ending pretty sadge
-            NEI(1.2, Emotion.CU)
+            NEI(6.0, Emotion.CU)
 
             // funny ig
-            NEI(1.0, Emotion.AP)
+            NEI(5.0, Emotion.AP)
 
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)
             Boredom(Boredom.Completed)
         }
 
-        NEI(0.5, Emotion.AP) {
+        NEI(2.5, Emotion.AP) {
             contributors["A-MAL-23587"] = 0.5
             contributors["A-MAL-30344"] = 0.5
         }

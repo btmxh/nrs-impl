@@ -1,268 +1,434 @@
 package com.dah.nrs
 
+// niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12
+// so the contain factor of the 9 original girls will be 1.5x the new girls
+// doing the math, we got these:
+private const val NijiNewOldRate = 1.5
+val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
+val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
+
 fun GenerateBlock.LoveLive() {
-    // u's (pls roast me dia)
-    AlbumTrack(VGMDB_Album(34051), 1, "Snow halation", Muse) {
-        Music(0.8)
-        Impact("this song is memed heavily af + merry christmas you disgusting farmers", Emotion.AP, 0.75)
-        // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
-        // [Reform's Expert] +HDDT FC 417pp
-    }
+    Entry {
+        id = "F-VGMDB-2588"
+        title = "Love Live!"
 
-    AlbumTrack(VGMDB_Album(36547), 1, "Bokura wa Ima no Naka de", Muse) {
-        Music(1.0)
-    }
+        Entry {
+            id = "M-VGMDB-AL-34051"
+            title = "Snow halation"
 
-    Album(VGMDB_Album(75504), "Music S.T.A.R.T!!")
+            SubIDEntry("1") {
+                Music(2.5)
+                Meme(0.1, Meme.M4_7Days)
+                // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
+                // [Reform's Expert] +HDDT FC 417pp
+            }
+        }
 
-    Track(VGMDB_Track(75504, 2), "LOVELESS WORLD", Muse) {
-        Music(1.2)
-    }
+        Entry {
+            id = "M-VGMDB-AL-36547"
+            title = "Bokura wa Ima no Naka de"
 
-    // insert yuyuyu funny joke here
-    AlbumTrack(VGMDB_Album(93532), 1, "A song for You! You? You!!", Muse) {
-        Music(1.5)
-    }
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
 
-    // Aqours
-    AlbumTrack(VGMDB_Album(58147), 1, "Aozora Jumping Heart", Aqours) {
-        Music(0.7)
-    }
+        Entry {
+            id = "M-VGMDB-AL-75504"
+            title = "Music S.T.A.R.T!!"
 
-    Album(VGMDB_Album(58750), "Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu!")
-    Track(VGMDB_Track(58750, 1), "Kimeta yo Hand in Hand", Aqours) {
-        Music(0.5)
-    }
+            SubIDEntry("2", "LOVELESS WORLD") {
+                Music(4.0)
+            }
+        }
 
-    AlbumTrack(VGMDB_Album(70622), 1, "Yuuki wa Doko ni? Kimi no Mune ni!", Aqours) {
-        Music(1.25)
-    }
+        Entry {
+            id = "M-VGMDB-AL-93532"
+            title = "A song for You! You? You!!"
 
-    Album(VGMDB_Album(71404), "MY MAI☆TONIGHT/MIRACLE WAVE")
-    Track(VGMDB_Track(71404, 2), "MIRACLE WAVE", Aqours) {
-        Music(0.6)
-    }
+            SubIDEntry("1") {
+                Music(5.0)
+            }
+        }
 
-    AlbumTrack(VGMDB_Album(78378), 1, "Thank you, FRIENDS!!", Aqours) {
-        Music(1.1)
-    }
+        Entry {
+            id = "M-VGMDB-AR-13719"
+            title = "μ's"
 
-    AlbumTrack(VGMDB_Album(87199), 1, "Mitaiken HORIZON", Aqours) {
-        Music(0.7)
-    }
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-34051")
+                Contains("M-VGMDB-AL-36547")
+                Contains("M-VGMDB-AL-75504")
+                Contains("M-VGMDB-AL-93532")
+            }
+        }
 
-    Album(VGMDB_Album(97692), "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~")
-    Track(VGMDB_Track(97692, 1), "Beginner's Sailing", SaitoShuka) {
-        Music(0.5)
-    }
+        Entry {
+            id = "M-VGMDB-AL-58147"
+            title = "Aozora Jumping Heart"
 
-    // Niji lmfao
-    AlbumTrack(VGMDB_Album(80802), 1, "TOKIMEKI Runners", Nijigaku) {
-        Music(0.8)
-    }
+            SubIDEntry("1") {
+                Music(5.0)
+            }
+        }
 
-    Track(VGMDB_Track(80802, 2), "Yume e no Ippo", OnishiAguri) {
-        Music(0.1)
-    }
+        Entry {
+            id = "M-VGMDB-AL-58750"
+            title = "Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu!"
 
-    Track(VGMDB_Track(80802, 8), "CHASE!", KusunokiTomori) {
-        Music(0.5)
-    }
+            SubIDEntry("1", "Kimeta yo Hand in Hand") {
+                Music(3.5)
+            }
+        }
 
-    Track(VGMDB_Track(80802, 10), "Dokipipo☆Emotion", TanakaChiemi) {
-        Music(0.4)
-    }
+        Entry {
+            id = "M-VGMDB-AL-70622"
+            title = "Yuuki wa Doko ni? Kimi no Mune ni!"
 
-    AlbumTrack(VGMDB_Album(87198), 10, "Love U my friends", Nijigaku) {
-        Music(0.8)
-    }
+            SubIDEntry("1") {
+                Music(6.0)
+            }
+        }
 
-    Track(VGMDB_Track(87198, 1), "Kaika Sengen", OnishiAguri) {
-        Music(0.4)
-    }
+        Entry {
+            id = "M-VGMDB-AL-71404"
+            title = "MY MAI☆TONIGHT/MIRACLE WAVE"
 
-    Track(VGMDB_Track(87198, 7), "MELODY", KusunokiTomori) {
-        Music(1.0)
-    }
+            SubIDEntry("2", "MIRACLE WAVE") {
+                Music(3.0)
+            }
+        }
 
-    AlbumTrack(VGMDB_Album(99272), 12, "Just Believe!!!", Nijigaku) {
-        Music(0.9)
-    }
+        Entry {
+            id = "M-VGMDB-AL-78378"
+            title = "Thank you, FRIENDS!!"
 
-    Track(VGMDB_Track(99272, 1), "Say Good-Bye Namida", OnishiAguri) {
-        Music(0.6)
-    }
+            SubIDEntry("1") {
+                Music(5.5)
+            }
+        }
 
-    Track(VGMDB_Track(99272, 3), "Yagate Hitotsu no Monogatari", MaedaKaori) {
-        Music(0.6)
-    }
+        Entry {
+            id = "M-VGMDB-AL-87199"
+            title = "Mitaiken HORIZON"
 
-    Track(VGMDB_Track(99272, 7), "LIKE IT! LOVE IT!", KusunokiTomori) {
-        Music(1.2)
-        Impact("osu! beatmap", Emotion.AP, 0.3)
-    }
+            SubIDEntry("1") {
+                Music(4.5)
+            }
+        }
 
-    AlbumTrack(VGMDB_Album(112929), 1, "L!L!L! (Love the Life We Live)", Nijigaku)
-    Track(VGMDB_Track(112929, 2), "Break The System", OnishiAguri) {
-        Music(0.5)
-    }
 
-    AlbumTrack(VGMDB_Album(102276), 1, "Nijiiro Passions!", Nijigaku) {
-        Music(0.3)
-    }
+        Entry {
+            id = "M-VGMDB-AR-17153"
+            title = "Aqours"
 
-    AlbumTrack(VGMDB_Album(102277), 1, "NEO SKY, NEO MAP!", Nijigaku) {
-        Music(1.5)
-    }
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-58147")
+                Contains("M-VGMDB-AL-58750")
+                Contains("M-VGMDB-AL-70622")
+                Contains("M-VGMDB-AL-71404")
+                Contains("M-VGMDB-AL-78378")
+                Contains("M-VGMDB-AL-87199")
+            }
+        }
 
-    Album(VGMDB_Album(102281), "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi)," +
-            " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
-            " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]")
-    Album(VGMDB_Album(104783), "Awakening Promise/Yume ga Koko kara Hajimaru yo")
+        Entry {
+            id = "M-VGMDB-AL-97692"
+            title = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"
 
-    // the first ayumu-era theme song
-    Track(VGMDB_Track(102281, 1), "Dream with You") {
-        Music(0.2)
+            SubIDEntry("1", "Beginner's Sailing") {
+                Music(4.0)
+            }
+        }
 
-        // the song is shit
-        // but it started the most colorful era in autism history
-        // the ayumu era
-        Impact("tobitateru dreaming sky", Emotion.AP, 1.0)
-    }
+        Entry {
+            id = "M-VGMDB-AL-102276"
+            title = "Nijiiro Passions!"
 
-    Track(VGMDB_Track(104783, 1), "Awakening Promise") {
-        Music(0.15)
-    }
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
 
-    // Liella hasn't got any notable songs
+        Entry {
+            id = "M-VGMDB-AL-102277"
+            title = "NEO SKY, NEO MAP!"
 
-    // Anime
-    val SIPMeme = Meme(0.4, Meme.M4_7Days)
-    val SIPHumor = NEI(1.5, Emotion.AP)
-    Anime("Love Live! School Idol Project", MAL = 15051) {
-        bestGirl = "Nishikino Maki"
-        Impact(SIPMeme)
-        Impact(SIPHumor)
-        FeatureMusic(VGMDB_Track(36547, 1))
-        Boredom(Boredom.Completed)
-    }
+            SubIDEntry("1") {
+                Music(6.5)
+            }
+        }
 
-    Anime("Love Live! School Idol Project 2nd Season", MAL = 19111) {
-        bestGirl = "Nishikino Maki"
-        Impact(SIPMeme)
-        Impact(SIPHumor)
-        FeatureMusic(VGMDB_Track(34051, 1))
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "M-VGMDB-AR-29922"
+            title = "Nijigasaki High School Idol Club"
 
-    Anime("Love Live! The School Idol Movie", MAL = 24997) {
-        bestGirl = "Nishikino Maki"
-        Impact(SIPMeme)
-        Impact(SIPHumor)
-        Boredom(Boredom.Completed)
-    }
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-102276")
+                Contains("M-VGMDB-AL-102277")
 
-    val SunshineMeme = Meme(0.6, Meme.M1_2Weeks)
-    val SunshineHumor = NEI(1.0, Emotion.AP)
-    Anime("Love Live! Sunshine!!", MAL = 32526) {
-        bestGirl = "Sakurauchi Riko"
-        Impact(SunshineMeme)
-        Impact(SunshineHumor)
-        FeatureMusic(VGMDB_Track(58147, 1))
-        FeatureMusic(VGMDB_Track(58750, 1))
-        Boredom(Boredom.Completed)
-    }
+                Contains("M-VGMDB-AL-80802-1")
+                Contains("M-VGMDB-AL-87198-1")
+                Contains("M-VGMDB-AL-99272-12")
+            }
+        }
 
-    Anime("Love Live! Sunshine!! 2nd Season", MAL = 34973) {
-        bestGirl = "Sakurauchi Riko"
-        Impact(SunshineMeme)
-        Impact(SunshineHumor)
-        FeatureMusic(VGMDB_Track(58147, 1))
-        FeatureMusic(VGMDB_Track(70622, 1))
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "M-VGMDB-AL-80802"
+            title = "TOKIMEKI Runners"
 
-    Anime("Love Live! Sunshine!! The School Idol Movie: Over the Rainbow", MAL = 37027) {
-        bestGirl = "Sakurauchi Riko"
-        Impact(SunshineMeme)
-        Impact(SunshineHumor)
-        Boredom(Boredom.Completed)
-    }
+            SubIDEntry("1") {
+                Music(3.0)
+            }
 
-    val NijiMeme = Meme(1.0, Meme.MMoreThan3Months)
-    val NijiHumor = NEI(1.0, Emotion.AP)
-    Anime("Love Live! Nijigasaki Gakuen School Idol Doukoukai", MAL = 40879) {
-        bestGirl = "Uehara Ayumu"
-        seasonal = true
+            SubIDEntry("2", "Yume e no Ippo") {
+                Music(0.5)
+            }
 
-        Impact(NijiMeme)
-        Impact(NijiHumor)
-        Boredom(Boredom.Completed)
+            SubIDEntry("8", "CHASE!") {
+                Music(1.5)
+            }
 
-        // Ayumu dead people arc
-        PADS(7, Emotion.CU)
+            SubIDEntry("10", "Dokipipo☆Emotion") {
+                Music(3.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-87198"
+            title = "Love U my friends"
+
+            SubIDEntry("10") {
+                Music(3.0)
+            }
+
+            SubIDEntry("1", "Kaika Sengen") {
+                Music(2.0)
+            }
+
+            SubIDEntry("7", "MELODY") {
+                Music(4.5)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-99272"
+            title = "Just Believe!!!"
+
+            SubIDEntry("12") {
+                Music(4.0)
+            }
+
+            SubIDEntry("1", "Say Good-Bye Namida") {
+                Music(2.5)
+            }
+
+            SubIDEntry("3", "Yagate Hitotsu no Monogatari") {
+                Music(2.5)
+            }
+
+            SubIDEntry("7", "LIKE IT! LOVE IT!") {
+                Music(5.5)
+                OsuSong(personal = 3.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-112929"
+            title = "L!L!L! (Love the Life We Live)"
+
+            SubIDEntry("2", "Break The System") {
+                Music(6.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-102281"
+            title = "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi)," +
+                    " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
+                    " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
+
+            // the first ayumu-era theme song
+            SubIDEntry("1", "Dream with You") {
+                Music(1.0)
+                Impact {
+                    // the song is shit
+                    // but it started the most colorful era in autism history
+                    // the ayumu era
+                    description = "tobitateru dreaming sky"
+                    score = vector {
+                        set(Emotion.AP, 0.5)
+                    }
+                }
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-104783"
+            title = "Awakening Promise/Yume ga Koko kara Hajimaru yo"
+
+            SubIDEntry("1", "Awakening Promise") {
+                Music(1.25)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AR-37385"
+            title = "Liella!"
+            // Liella hasn't got any notable songs
+            // also they got fucked in the rst-sb69 duopoly era because
+            // rst is a fucking nazi
+        }
+
+        // shared memes between SIP (school idol project) and Sunshine
+        Meme(0.6, Meme.M2_3Weeks) {
+            contributors["A-MAL-15051"] = 0.2
+            contributors["A-MAL-19111"] = 0.2
+            contributors["A-MAL-24997"] = 0.1
+            contributors["A-MAL-32526"] = 0.2
+            contributors["A-MAL-34973"] = 0.2
+            contributors["A-MAL-37027"] = 0.2
+        }
+
+        // SIP humor
+        NEI(7.0, Emotion.AP) {
+            contributors["A-MAL-15051"] = 0.4
+            contributors["A-MAL-19111"] = 0.4
+            contributors["A-MAL-24997"] = 0.2
+        }
+
+        NEI(5.5, Emotion.AP) {
+            contributors["A-MAL-32526"] = 0.4
+            contributors["A-MAL-34973"] = 0.4
+            contributors["A-MAL-37027"] = 0.2
+        }
+
+        // Anime
+        Entry {
+            id = "A-MAL-15051"
+            title = "Love Live! School Idol Project"
+            bestGirl = "Nishikino Maki"
+
+            FeatureMusic("M-VGMDB-AL-36547-1")
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-19111"
+            title = "Love Live! School Idol Project 2nd Season"
+            bestGirl = "Nishikino Maki"
+
+            FeatureMusic("M-VGMDB-AL-34051-1")
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-24997"
+            title = "Love Live! School Idol Project Movie"
+            bestGirl = "Nishikino Maki"
+
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-32526"
+            title = "Love Live! Sunshine!!"
+            bestGirl = "Sakurauchi Riko"
+            FeatureMusic("M-VGMDB-AL-58147-1")
+            FeatureMusic("M-VGMDB-AL-58750-1")
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-34973"
+            title = "Love Live! Sunshine!! 2nd Season"
+            bestGirl = "Sakurauchi Riko"
+            // aozora was featured in ep13
+            FeatureMusic("M-VGMDB-AL-58147-1")
+            FeatureMusic("M-VGMDB-AL-70622-1")
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-37027"
+            title = "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+            bestGirl = "Sakurauchi Riko"
+            Boredom(Boredom.Completed)
+        }
+
+        // niji arcs
+
+        // arc 1 - the girl who changed the world
+        Waifu("Uehara Ayumu", "2020-11-02" to "2021-02-15") {
+            contributors["A-MAL-40879"] = 0.9
+            contributors["M-VGMDB-AL-102281-1"] = 0.1
+        }
+
+        // arc 2 - the girl without screentime
+        NEI(5.0, Emotion.AU to 0.3, Emotion.CU to 0.6, Emotion.AP to 0.1) {
+            contributors["A-MAL-40879"] = 0.8
+            contributors["M-VGMDB-AL-43320-8"] = 0.1
+            contributors["M-VGMDB-AL-34269-7"] = 0.1
+        }
+
+        // arc 3 - the ayumu dead people arc
+        // niji got carried hard by kano in this arc
+        PADS(7, Emotion.CU) {
+            contributors["A-MAL-40879"] = 0.6
+            contributors["M-VGMDB-AL-37130-3"] = 0.4
+        }
+
+        // arc 4 - and then, the world has ended
         // "Soshite kimi ga shirazu ni"
         // When Ayumu-era ends, I felt depressed
-        PADS(5, Emotion.CU)
+        PADS(5, Emotion.CU) {
+            contributors["A-MAL-40879"] = 0.7
+            contributors["M-MAL-36631-6"] = 0.15
+            contributors["M-41"] = 0.075
+            contributors["M-43"] = 0.05
+            contributors["M-VGMDB-AL-89290-6"] = 0.025
+        }
 
-        // toxic stuff with LL and shit
-        NEI(2.0, Emotion.AU)
+        Entry {
+            id = "A-MAL-40879"
+            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+            bestGirl = "Uehara Ayumu"
+            seasonal = true
 
-        Waifu("Uehara Ayumu", "2020-11-02" to "2021-02-15")
+            Meme(1.0, Meme.MMoreThan3Months)
+            // pretty funny ngl, but overshadowed by the ayumu shit
+            NEI(4.0, Emotion.AP)
+            Boredom(Boredom.Completed)
 
-        KilledBy(VGMDB_Artist(11666))
+            KilledBy("M-VGMDB-AR-11666")
 
-        FeatureMusic(VGMDB_Track(102276, 1))
-        FeatureMusic(VGMDB_Track(102277, 1))
-        FeatureMusic(VGMDB_Track(102281, 1))
-        FeatureMusic(VGMDB_Track(104783, 1))
+            FeatureMusic("M-VGMDB-AL-102276-1")
+            FeatureMusic("M-VGMDB-AL-102277-1")
+            FeatureMusic("M-VGMDB-AL-102281-1")
+            FeatureMusic("M-VGMDB-AL-104783-1")
+        }
+
+        Entry {
+            id = "A-MAL-41169"
+            title = "Love Live! Superstar!!"
+            // insert wakeshima kanon is shibuya kanon joke here
+            bestGirl = "Arashi Chisato"
+            seasonal = true
+            Boredom(Boredom.TempOnHold)
+            Meme(0.3, Meme.M4_7Days)
+            KilledBy("A-MAL-41530")
+        }
     }
 
-    Anime("Love Live! Superstar!!", MAL = 41169) {
-        // insert wakeshima kanon is shibuya kanon joke here
-        bestGirl = "Arashi Chisato"
-        seasonal = true
-        Boredom(Boredom.TempOnHold)
-        Meme(0.3, Meme.M4_7Days)
-        KilledBy(MAL(41530))
-    }
+    Entry {
+        // will change soon
+        id = "M-45"
+        title = "Snow Halation (feat. BeasttrollMC)"
 
-    Franchise(VGMDB_Franchise(2588), "Love Live!") {
-        Include(MAL(15051))
-        Include(MAL(19111))
-        Include(MAL(24997))
-        Include(MAL(32526))
-        Include(MAL(34973))
-        Include(MAL(37027))
-        Include(MAL(40879))
-        Include(MAL(41169))
-
-        Include(VGMDB_Track(34051, 1))
-        Include(VGMDB_Track(36547, 1))
-        Include(VGMDB_Track(75504, 2))
-        Include(VGMDB_Track(93532, 1))
-        Include(VGMDB_Track(58147, 1))
-        Include(VGMDB_Track(58750, 1))
-        Include(VGMDB_Track(70622, 1))
-        Include(VGMDB_Track(71404, 2))
-        Include(VGMDB_Track(78378, 1))
-        Include(VGMDB_Track(87199, 1))
-        Include(VGMDB_Track(97692, 1))
-        Include(VGMDB_Track(80802, 1))
-        Include(VGMDB_Track(80802, 2))
-        Include(VGMDB_Track(80802, 8))
-        Include(VGMDB_Track(80802, 10))
-        Include(VGMDB_Track(87198, 10))
-        Include(VGMDB_Track(87198, 1))
-        Include(VGMDB_Track(87198, 7))
-        Include(VGMDB_Track(99272, 12))
-        Include(VGMDB_Track(99272, 1))
-        Include(VGMDB_Track(99272, 3))
-        Include(VGMDB_Track(99272, 7))
-        Include(VGMDB_Track(112929, 1))
-        Include(VGMDB_Track(102276, 1))
-        Include(VGMDB_Track(102277, 1))
-        Include(VGMDB_Track(102281, 1))
-        Include(VGMDB_Track(104783, 1))
+        Meme(0.03, Meme.M4_7Days)
+        // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
+        // [Reform's Expert] +HDDT FC 417pp
+        Remix("M-VGMDB-AL-34051-1")
     }
 }
+

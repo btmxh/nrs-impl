@@ -7,78 +7,105 @@ fun GenerateBlock.Bandori() {
         title = "BanG Dream!"
 
         Entry {
+            id = "M-VGMDB-AL-60358"
+            title = "STAR BEAT! ~Hoshi no Kodou~"
+
+            SubIDEntry("1") {
+                Music(4.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-63624"
+            title = "Tokimeki Experience!"
+
+            SubIDEntry("1") {
+                Music(1.5)
+            }
+
+            SubIDEntry("2", "1000 kai Urunda Sora") {
+                Music(6.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-81504"
+            title = "KIZUNA MUSIC♪"
+
+            SubIDEntry("1") {
+                Music(5.0)
+                // this song got memed in the rst-sb69 era because of two things
+                // kizuna method ("method" is a name of my junior in my High School) (major reason)
+                // kizunya music (cat music is any song with the cat from sb69) (very minor reason)
+
+                // itsuka...
+                // mot ngay method, se thap sang tuong lai mai sau
+                // mot bai ca, lung linh trong long cua ban voi toi
+                // va roi method mang bao huy chuong vang
+                // va roi method mang lai su huy hoang
+                // tu hao qua em toi nguoi thap len anh cau vong
+                // nguoi mang den trai tim ta
+                // bau... troi... mo... uoc
+
+                // kizuna method
+                Meme(0.5, Meme.M1_2Months)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-111089"
+            title = "Live Beyond!!"
+
+            SubIDEntry("5", "Koko kara Saki wa Uta ni Naranai") {
+                Music(4.5)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-74133"
+            title = "CiRCLiNG"
+
+            SubIDEntry("2", "Light Delight") {
+                // naite naite
+                // daite daite
+                Music(6.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-95118"
+            title = "Initial/Yume wo Uchinuku Shunkan ni!"
+
+            SubIDEntry("2", "Yume wo Uchinuku Shunkan ni!") {
+                Music(3.0)
+                // iykyk
+                Meme(0.05, Meme.M1_2Weeks)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AR-27992"
             title = "Poppin'Party"
 
             Contains(ImageVocalContainFactor) {
-                Entry {
-                    id = "M-VGMDB-AL-60358"
-                    title = "STAR BEAT! ~Hoshi no Kodou~"
-
-                    SubIDEntry("1") {
-                        Music(4.0)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-63624"
-                    title = "Tokimeki Experience!"
-
-                    SubIDEntry("1") {
-                        Music(1.5)
-                    }
-
-                    SubIDEntry("2", "1000 kai Urunda Sora") {
-                        Music(6.0)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-81504"
-                    title = "KIZUNA MUSIC♪"
-
-                    SubIDEntry("1") {
-                        Music(5.0)
-                        // this song got memed in the rst-sb69 era because of two things
-                        // kizuna method ("method" is a name of my junior in my High School) (major reason)
-                        // kizunya music (cat music is any song with the cat from sb69) (very minor reason)
-                        Meme(0.1, Meme.M1_2Weeks)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-111089"
-                    title = "Live Beyond!!"
-
-                    SubIDEntry("5", "Koko kara Saki wa Uta ni Naranai") {
-                        Music(4.5)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-74133"
-                    title = "CiRCLiNG"
-
-                    SubIDEntry("2", "Light Delight") {
-                        // naite naite
-                        // daite daite
-                        Music(6.0)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-95118"
-                    title = "Initial/Yume wo Uchinuku Shunkan ni!"
-
-                    SubIDEntry("2", "Yume wo Uchinuku Shunkan ni!") {
-                        Music(3.0)
-                        // iykyk
-                        Meme(0.05, Meme.M1_2Weeks)
-                    }
-                }
+                Contains("M-VGMDB-AL-60358")
+                Contains("M-VGMDB-AL-63624")
+                Contains("M-VGMDB-AL-81504")
+                Contains("M-VGMDB-AL-111089")
+                Contains("M-VGMDB-AL-74133")
+                Contains("M-VGMDB-AL-95118")
             }
 
             Contains("M-VGMDB-AL-106577-1", 0.6)
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-85172"
+            title = "FIRE BIRD"
+
+            SubIDEntry("1") {
+                Music(3.5)
+            }
         }
 
         Entry {
@@ -86,14 +113,7 @@ fun GenerateBlock.Bandori() {
             title = "Roselia"
 
             Contains(ImageVocalContainFactor) {
-                Entry {
-                    id = "M-VGMDB-AL-85172"
-                    title = "FIRE BIRD"
-
-                    SubIDEntry("1") {
-                        Music(3.5)
-                    }
-                }
+                Contains("M-VGMDB-AL-85172")
             }
         }
 
@@ -117,19 +137,21 @@ fun GenerateBlock.Bandori() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-82743"
+            title = "Y.O.L.O"
+
+            SubIDEntry("1") {
+                Music(3.5)
+                OsuSong(personal = 7.0)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AR-31326"
             title = "Afterglow"
 
             Contains(ImageVocalContainFactor) {
-                Entry {
-                    id = "M-VGMDB-AL-82743"
-                    title = "Y.O.L.O"
-
-                    SubIDEntry("1") {
-                        Music(3.5)
-                        OsuSong(personal = 7.0)
-                    }
-                }
+                Contains("M-VGMDB-AL-82743")
             }
         }
 
@@ -162,10 +184,15 @@ fun GenerateBlock.Bandori() {
         }
 
         // bandori has some good comedy shit
-        NEI(1.5, Emotion.AP) {
+        NEI(7.5, Emotion.AP) {
             // the game also contributes, so the sum of weights is not 1
             contributors["A-MAL-33573"] = 0.5
             contributors["A-MAL-37869"] = 0.3
+        }
+
+        KilledBy("A-MAL-40879") {
+            contributors["A-MAL-33573"] = 0.4
+            contributors["A-MAL-37869"] = 0.6
         }
 
         Entry {
@@ -173,14 +200,13 @@ fun GenerateBlock.Bandori() {
             title = "BanG Dream!"
             bestGirl = "Ichigaya Arisa"
             // Ending pretty sadge
-            NEI(1.25, Emotion.CU)
+            NEI(6.0, Emotion.CU)
             // nrs1
             Meme(0.2, Meme.M4_7Days)
             Boredom(Boredom.Completed)
 
             FeatureMusic("M-VGMDB-AL-63624-1")
 
-            KilledBy("M-MAL-40879")
         }
 
         Entry {
@@ -192,8 +218,6 @@ fun GenerateBlock.Bandori() {
             // rip
             Boredom(Boredom.Dropped)
             FeatureMusic("M-VGMDB-AL-81504-1")
-
-            KilledBy("A-MAL-40879")
         }
     }
 

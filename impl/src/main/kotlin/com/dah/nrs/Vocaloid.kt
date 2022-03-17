@@ -1,29 +1,40 @@
 package com.dah.nrs
 
 fun GenerateBlock.Vocaloid() {
-    // there is no vgmdb entry for this
-    // but there is a mal one kek
-    Album("M-MAL-36631", "Pandora Voxx Complete")
-    Track("M-MAL-36631-6", "Chikyuu Saigo no Kokuhaku wo", kemu, GUMI) {
-        // the legendary fifth ayumu-era theme song
+    Entry {
+        // there is no vgmdb entry for this
+        // but there is a mal one kek
+        id = "M-MAL-36631"
+        title = "Pandora Voxx Complete"
 
-        // for some reason, this almost made me cry
-        AEI(2.25, Emotion.CU)
+        SubIDEntry("6", "Chikyuu Saigo no Kokuhaku wo") {
+            // the legendary fifth ayumu-era theme song
 
-        Music(1.25)
+            // for some reason, this almost made me cry
+            // (somewhat unrelated to ayumu shit)
+            AEI(2.5, Emotion.CU)
+
+            Music(4.25)
+        }
     }
 
-    Track("M-41", "Chikyuu Saigo no Kokuhaku wo", kemu, yuiko) {
-        RemixOf("M-MAL-36631-6")
+    Entry {
+        id = "M-41"
+        title = "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
+
+        Remix("M-MAL-36631-6")
 
         // yuiko version is probably the best, music-wise
-        Music(1.75)
+        Music(6.5)
     }
 
-    Track("M-43", "Chikyuu Saigo no Kokuhaku wo", kemu, HAG) {
-        RemixOf("M-MAL-36631-6")
+    Entry {
+        id = "M-43"
+        title = "Chikyuu Saigo no Kokuhaku wo (HAG)"
+
+        Remix("M-MAL-36631-6")
 
         // quite good, but they didn't keep the orig. inst.
-        Music(1.5)
+        Music(5.0)
     }
 }

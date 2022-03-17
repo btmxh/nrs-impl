@@ -6,14 +6,22 @@
 
 package com.dah.nrs
 
-fun main() = generate {
-    CommonArtists()
-//    Vocaloid()
-    `K-On`()
-//    MadokaMagica()
-    Idolmaster()
-//    SwordArtOnline()
-    KokoroConnect()
+// custom id counters:
+// M-50
+// A-1
+// L-1
+// G-1
+// F-1
+
+fun main() =
+    generate {
+        CommonArtists()
+        Vocaloid()
+        `K-On`()
+        MadokaMagica()
+        Idolmaster()
+        SwordArtOnline()
+        KokoroConnect()
 //
 //    Anime("Koi to Senkyo to Chocolate", MAL = 12175) {
 //        // iirc i liked this anime's plot
@@ -27,13 +35,13 @@ fun main() = generate {
 //        Boredom(Boredom.Completed)
 //    }
 //
-//    Sakurasou()
-    Chuunibyou()
-//    Oregairu()
-//    LoveLive()
-    AOT()
-//    NagiAsu()
-    GochiUsa()
+        Sakurasou()
+        Chuunibyou()
+        Oregairu()
+        LoveLive()
+        AOT()
+        NagiAsu()
+        GochiUsa()
 //
 //    Anime("Ushinawareta Mirai wo Motomete", MAL = 21845) {
 //        // kaomeme
@@ -48,14 +56,14 @@ fun main() = generate {
 //        Boredom(Boredom.Completed)
 //    }
 //
-//    SoraMethod()
-//    YLIA()
-//    Saekano()
-    GakkouGurashi()
-//    YuYuYu()
-//    SB69()
-//    YamadaKun()
-    Charlotte()
+        SoraMethod()
+        YLIA()
+        Saekano()
+        GakkouGurashi()
+        YuYuYu()
+        SB69()
+        YamadaKun()
+        Charlotte()
 //
 //    Anime("Koe no Katachi", MAL = 28851) {
 //        bestGirl = "Nishimiya Shouko"
@@ -78,7 +86,7 @@ fun main() = generate {
 //        Boredom(Boredom.Completed)
 //    }
 //
-    KimiNawa()
+        KimiNawa()
 //
 //    Anime("Orange", MAL = 32729) {
 //        bestGirl = "Takamiya Naho"
@@ -88,9 +96,9 @@ fun main() = generate {
 //        Boredom(Boredom.Completed)
 //    }
 //
-    KobayashiMaidDragon()
-//    NewGame()
-    Bandori()
+        KobayashiMaidDragon()
+        NewGame()
+        Bandori()
 //
 //    Anime("Gabriel DropOut", MAL = 33731) {
 //        bestGirl = "Satanichia Kurumizawa McDowell"
@@ -122,8 +130,8 @@ fun main() = generate {
 //        Boredom(Boredom.Completed)
 //    }
 //
-//    OneRoom()
-//    UchiageHanabi()
+        OneRoom()
+        UchiageHanabi()
 //
 //    Anime("Tsuki ga Kirei", MAL = 34822) {
 //        bestGirl = "Mizuno Akane"
@@ -149,12 +157,14 @@ fun main() = generate {
 //        NEI(2.0, Emotion.AP)
 //    }
 //
-//    ReStage()
-//    OnsenMusume()
-    Kano()
-//
-    Cue()
-    Irodori()
-    JMetal()
-}.run{}
+        ReStage()
+        OnsenMusume()
+        Kano()
+
+        Cue()
+        Irodori()
+        JMetal()
+        OsuGame()
+        TariTari()
+    }.run {}
 

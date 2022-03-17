@@ -6,54 +6,58 @@ fun GenerateBlock.`K-On`() {
         title = "K-On!"
 
         Entry {
+            id = "M-VGMDB-AL-20118"
+            title = "Utauyo!!MIRACLE"
+
+            SubIDEntry("2") {
+                title = "Kira Kira Days"
+
+                // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
+                Meme(0.1, Meme.M4_7Days)
+                Music(2.5)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-21146"
+            title = "HO-KAGO TEA TIME Second"
+
+            SubIDEntry("9") {
+                title = "Tenshi ni Fureta yo!"
+
+                Music(0.5)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-22848"
+            title = "Gohan wa Okazu/U&I"
+
+            SubIDEntry("2", "U&I") {
+                Music(1.0)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AR-8870"
             title = "HO-KAGO TEA TIME"
 
             Contains(ImageVocalContainFactor) {
-                Entry {
-                    id = "M-VGMDB-AL-20118"
-                    title = "Utauyo!!MIRACLE"
-
-                    SubIDEntry("2") {
-                        title = "Kira Kira Days"
-
-                        // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
-                        Meme(0.1, Meme.M4_7Days)
-                        Music(2.5)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-21146"
-                    title = "HO-KAGO TEA TIME Second"
-
-                    SubIDEntry("9") {
-                        title = "Tenshi ni Fureta yo!"
-
-                        Music(0.5)
-                    }
-                }
-
-                Entry {
-                    id = "M-VGMDB-AL-22848"
-                    title = "Gohan wa Okazu/U&I"
-
-                    SubIDEntry("2", "U&I") {
-                        Music(1.0)
-                    }
-                }
+                Contains("M-VGMDB-AL-20118")
+                Contains("M-VGMDB-AL-21146")
+                Contains("M-VGMDB-AL-22848")
             }
         }
 
         // Kinda comfy. But not that much.
-        NEI(1.0, Emotion.MP) {
+        NEI(5.0, Emotion.MP) {
             contributors["A-MAL-5680"] = 0.4
             contributors["A-MAL-7791"] = 0.4
             contributors["A-MAL-9617"] = 0.2
         }
 
         // humor
-        NEI(0.5, Emotion.AP) {
+        NEI(2.5, Emotion.AP) {
             contributors["A-MAL-5680"] = 0.4
             contributors["A-MAL-7791"] = 0.4
             contributors["A-MAL-9617"] = 0.2

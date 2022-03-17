@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'com.dah.nrs.NRSImplMainKt'
+    mainClass = 'com.dah.nrs.NRSImplMainKt'
 }
 
 group 'com.dah'

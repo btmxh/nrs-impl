@@ -1,53 +1,76 @@
 package com.dah.nrs
 
 fun GenerateBlock.NewGame() {
-    // This and Sakura-sou is recorded to be the
-    // inspiration for me to learn programming
-    val InspiredProgramming = Info(Information.GeneralInfo, true)
-    // pretty funny lol
-    val NewGameHumor = NEI(1.0, Emotion.AP)
-    val NewGameMeme = Meme(0.2, Meme.M1_3Days)
+    Entry {
+        id = "F-VGMDB-4168"
+        title = "NEW GAME!"
 
-    AlbumTrack(VGMDB_Album(58627), 1, "Now Loading!!!!", fourfolium) {
-        Music(1.0)
-        Impact("osu! beatmap", Emotion.AP, 0.3)
-    }
+        // humor
+        NEI(5.0, Emotion.AP) {
+            contributors["A-MAL-31953"] = 0.5
+            contributors["A-MAL-34914"] = 0.5
+        }
 
-    AlbumTrack(VGMDB_Album(68225), 1, "STEP by STEP UP↑↑↑↑", fourfolium) {
-        // mankai step by step
-        // this song is legendary af
-        Music(1.25)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.5)
-    }
+        Meme(0.2, Meme.M1_3Days) {
+            contributors["A-MAL-31953"] = 0.5
+            contributors["A-MAL-34914"] = 0.5
+        }
 
-    Anime("New Game!", MAL = 31953) {
-        // idk who is better, aoba or yun, so one girl each season
-        bestGirl = "Iijima Yun"
+        InterestField(true) {
+            contributors["A-MAL-31953"] = 0.25
+            contributors["A-MAL-34914"] = 0.25
+            contributors["A-MAL-13759"] = 0.5
+        }
 
-        Impact(NewGameHumor)
-        Impact(InspiredProgramming)
-        Impact(NewGameMeme)
-        Boredom(Boredom.Completed)
+        Entry {
+            id = "A-MAL-31953"
+            title = "New Game!"
+            // idk who is better, aoba or yun, so one girl each season
+            bestGirl = "Iijima Yun"
 
-        FeatureMusic(VGMDB_Track(58627, 1))
-    }
+            Boredom(Boredom.Completed)
 
-    Anime("New Game!!", MAL = 34914) {
-        // idk who is better, aoba or yun, so one girl each season
-        bestGirl = "Suzukaze Aoba"
+            FeatureMusic("M-VGMDB-AL-58627-1")
+        }
 
-        Impact(NewGameHumor)
-        Impact(InspiredProgramming)
-        Impact(NewGameMeme)
-        Boredom(Boredom.Completed)
+        Entry {
+            id = "A-MAL-34914"
+            title = "New Game!!"
+            // idk who is better, aoba or yun, so one girl each season
+            bestGirl = "Suzukaze Aoba"
 
-        FeatureMusic(VGMDB_Track(68225, 1))
-    }
+            Boredom(Boredom.Completed)
 
-    Franchise(VGMDB_Franchise(4168), "NEW GAME!") {
-        Include(MAL(31953))
-        Include(MAL(34914))
-        Include(VGMDB_Track(58627, 1))
-        Include(VGMDB_Track(68225, 1))
+            FeatureMusic("M-VGMDB-AL-68225-1")
+        }
+
+        Entry {
+            id = "M-46"
+            title = "fourfolium"
+
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-58627")
+                Contains("M-VGMDB-AL-68225")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-58627"
+            title = "Now Loading!!!!"
+
+            SubIDEntry("1") {
+                Music(3.5)
+                OsuSong(personal = 4.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-68225"
+            title = "STEP by STEP UP↑↑↑↑"
+            // mankai step by step
+            // this song is legendary af
+            Music(4.5)
+            OsuSong(personal = 8.0)
+        }
     }
 }
