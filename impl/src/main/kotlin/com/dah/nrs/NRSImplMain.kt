@@ -22,19 +22,25 @@ fun main() =
         Idolmaster()
         SwordArtOnline()
         KokoroConnect()
-//
-//    Anime("Koi to Senkyo to Chocolate", MAL = 12175) {
-//        // iirc i liked this anime's plot
-//        NEI(1.0, Emotion.AP)
-//        Boredom(Boredom.Completed)
-//    }
-//
-//    Anime("Hyouka", MAL = 12189) {
-//        // ig it's kinda good
-//        NEI(0.75, Emotion.AP)
-//        Boredom(Boredom.Completed)
-//    }
-//
+
+        Entry {
+            id = "A-MAL-12175"
+            title = "Koi to Senkyo to Chocolate"
+
+            // iirc i liked this anime's plot
+            NEI(1.0, Emotion.AP)
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-12189"
+            title = "Hyouka"
+
+            // ig it's kinda good
+            NEI(0.75, Emotion.AP)
+            Boredom(Boredom.Completed)
+        }
+
         Sakurasou()
         Chuunibyou()
         Oregairu()
@@ -42,20 +48,23 @@ fun main() =
         AOT()
         NagiAsu()
         GochiUsa()
-//
-//    Anime("Ushinawareta Mirai wo Motomete", MAL = 21845) {
-//        // kaomeme
-//        bestGirl = "Sasaki Kaori"
-//        // Ending did hit me
-//        NEI(1.25, Emotion.CU)
-//        // osuhow memes
-//        // This anime saved me in the Math Qualifiers lmao,
-//        // and VMO2020 too.
-//        Meme(0.3, Meme.M1_2Weeks)
-//
-//        Boredom(Boredom.Completed)
-//    }
-//
+
+        Entry {
+            id = "A-MAL-21845"
+            title = "Ushinawareta Mirai wo Motomete"
+
+            // kaomeme
+            bestGirl = "Sasaki Kaori"
+            // Ending did hit me
+            NEI(1.25, Emotion.CU)
+            // osuhow memes
+            // This anime saved me in the Math Qualifiers lmao,
+            // and VMO2020 too.
+            Meme(0.3, Meme.M1_2Weeks)
+
+            Boredom(Boredom.Completed)
+        }
+
         SoraMethod()
         YLIA()
         Saekano()
@@ -64,99 +73,126 @@ fun main() =
         SB69()
         YamadaKun()
         Charlotte()
-//
-//    Anime("Koe no Katachi", MAL = 28851) {
-//        bestGirl = "Nishimiya Shouko"
-//        // Koe no Katachi has solid drama
-//        // But sadly, it's the first anime so there's no PADS
-//        // or tears
-//        AEI(3.0, Emotion.CU)
-//
-//        // the first anime + Giap-Ngoc match = unlimited memes
-//        Meme(1.0, Meme.MMoreThan3Months)
-//
-//        // gate-open literally all NRS entries
-//        // but it's too overkill so an impact instead
-//        Impact("Gate-open anime", Additional.AdditionalFactor, 1.0)
-//        Boredom(Boredom.Completed)
-//    }
-//
-//    Anime("Kono Bijutsubu ni wa Mondai ga Aru!", MAL = 31952) {
-//        bestGirl = "Usami Mizuki"
-//        Boredom(Boredom.Completed)
-//    }
-//
+
+        Entry {
+            id = "A-MAL-28851"
+            title = "Koe no Katachi"
+
+            bestGirl = "Nishimiya Shouko"
+            // Koe no Katachi has solid drama
+            // But sadly, it's the first anime so there's no PADS
+            // or tears
+            AEI(3.0, Emotion.CU)
+
+            // the first anime + Giap-Ngoc match = unlimited memes
+            Meme(1.0, Meme.MMoreThan3Months)
+
+            // gate-open literally all NRS entries
+            // but it's too overkill so an impact instead
+            AdditionalImpact("Gate-open anime", 1.0)
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-31952"
+            title = "Kono Bijutsubu ni wa Mondai ga Aru!"
+
+            bestGirl = "Usami Mizuki"
+            Boredom(Boredom.Completed)
+        }
+
         KimiNawa()
-//
-//    Anime("Orange", MAL = 32729) {
-//        bestGirl = "Takamiya Naho"
-//
-//        // from nrs1
-//        AEI(2.5, Emotion.CU)
-//        Boredom(Boredom.Completed)
-//    }
-//
+
+        Entry {
+            id = "A-MAL-32729"
+            title = "Orange"
+
+            bestGirl = "Takamiya Naho"
+
+            // from nrs1
+            AEI(2.5, Emotion.CU)
+            Boredom(Boredom.Completed)
+        }
+
         KobayashiMaidDragon()
         NewGame()
         Bandori()
-//
-//    Anime("Gabriel DropOut", MAL = 33731) {
-//        bestGirl = "Satanichia Kurumizawa McDowell"
-//        // iToddlers BTFO
-//        Meme(0.4, Meme.M3Weeks_1Month)
-//
-//        Boredom(Boredom.Completed)
-//    }
-//
-//    Anime("Shelter", MAL = 34240) {
-//        bestGirl = "Rin"
-//
-//        // catJAM
-//        Music(1.25)
-//
-//        Impact("Short anime buff", Additional.AdditionalFactor, 0.75)
-//
-//        // this is very sad guys
-//        // no pads tho
-//        Cry(Emotion.CU)
-//        Boredom(Boredom.Completed)
-//    }
-//
-//    Anime("Gamers!", MAL = 34280) {
-//        seasonal = true // iirc
-//
-//        bestGirl = "Tendou Karen"
-//
-//        Boredom(Boredom.Completed)
-//    }
-//
+
+        Entry {
+            id = "A-MAL-33731"
+            title = "Gabriel DropOut"
+
+            bestGirl = "Satanichia Kurumizawa McDowell"
+            // iToddlers BTFO
+            Meme(0.4, Meme.M3Weeks_1Month)
+
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-34240"
+            title = "Shelter"
+
+            bestGirl = "Rin"
+
+            // catJAM
+            Music(4.5)
+
+            AdditionalImpact("Short anime buff", 0.75)
+
+            // this is very sad guys
+            // no pads tho
+            Cry(Emotion.CU)
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-34280"
+            title = "Gamers!"
+
+            seasonal = true // iirc
+
+            bestGirl = "Tendou Karen"
+
+            Boredom(Boredom.Completed)
+        }
+
         OneRoom()
         UchiageHanabi()
-//
-//    Anime("Tsuki ga Kirei", MAL = 34822) {
-//        bestGirl = "Mizuno Akane"
-//        // ending sadge
-//        AEI(2.5, Emotion.CU)
-//        Boredom(Boredom.Completed)
-//    }
-//
-//    Anime("Konohana Kitan", MAL = 35241) {
-//        // definitely not reminding me of mashu mashu from sb69
-//
-//        // this was pretty boring ngl
-//        // and now it's the duopoly era so
-//        // they got cucked
-//        status = EntryStatus.Watching
-//        Boredom(Boredom.TempOnHold)
-//    }
-//
-//    Anime("Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)", MAL = 35507) {
-//        bestGirl = "Horikita Suzune"
-//        Boredom(Boredom.Completed)
-//        // plot pretty good
-//        NEI(2.0, Emotion.AP)
-//    }
-//
+
+        Entry {
+            id = "A-MAL-34822"
+            title = "Tsuki ga Kirei"
+
+            bestGirl = "Mizuno Akane"
+            // ending sadge
+            AEI(2.5, Emotion.CU)
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-35241"
+            title = "Konohana Kitan"
+
+            // definitely not reminding me of mashu mashu from sb69
+
+            // this was pretty boring ngl
+            // and now it's the duopoly era so
+            // they got cucked
+//            status = EntryStatus.Watching
+            Boredom(Boredom.TempOnHold)
+        }
+
+        Entry {
+            id = "A-MAL-35507"
+            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
+
+            bestGirl = "Horikita Suzune"
+            Boredom(Boredom.Completed)
+            // plot pretty good
+            NEI(2.0, Emotion.AP)
+        }
+
         ReStage()
         OnsenMusume()
         Kano()

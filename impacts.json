@@ -1926,6 +1926,84 @@
         }
     },
     {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-11757": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-21881": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-31765": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
         "description": "Music",
         "contributors": {
             "M-VGMDB-AL-35431-1": 1.0
@@ -2070,6 +2148,116 @@
         "description": "Boredom: Completed",
         "contributors": {
             "A-MAL-16001": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "NEI",
+        "contributors": {
+            "A-MAL-12175": 1.0
+        },
+        "score": [
+            0.0,
+            0.2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "type": "nei",
+            "input_score": 1.0,
+            "clamped_score": 0.2
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-12175": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "NEI",
+        "contributors": {
+            "A-MAL-12189": 1.0
+        },
+        "score": [
+            0.0,
+            0.15,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "type": "nei",
+            "input_score": 0.75,
+            "clamped_score": 0.15
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-12189": 1.0
         },
         "score": [
             0.0,
@@ -4572,6 +4760,89 @@
         "description": "Boredom: Completed",
         "contributors": {
             "A-MAL-21273": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "NEI",
+        "contributors": {
+            "A-MAL-21845": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.25,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "nei",
+            "input_score": 1.25,
+            "clamped_score": 0.25
+        }
+    },
+    {
+        "description": "Meme",
+        "contributors": {
+            "A-MAL-21845": 1.0
+        },
+        "score": [
+            0.0,
+            0.44999999999999996,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "meme",
+            "strength": 0.3,
+            "meme_duration": 3,
+            "meme_duration_name": "1-2 Weeks",
+            "meme_duration_value": 0.5
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-21845": 1.0
         },
         "score": [
             0.0,
@@ -7196,6 +7467,139 @@
         }
     },
     {
+        "description": "AEI",
+        "contributors": {
+            "A-MAL-28851": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.3,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "aei",
+            "input_score": 3.0,
+            "clamped_score": 3.0
+        }
+    },
+    {
+        "description": "Meme",
+        "contributors": {
+            "A-MAL-28851": 1.0
+        },
+        "score": [
+            0.0,
+            3.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "meme",
+            "strength": 1.0,
+            "meme_duration": 8,
+            "meme_duration_name": "More than 3 months",
+            "meme_duration_value": 1.0
+        }
+    },
+    {
+        "description": "Gate-open anime",
+        "contributors": {
+            "A-MAL-28851": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "meta": {
+            "type": "additional"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-28851": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-31952": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
         "description": "Meme",
         "contributors": {
             "A-MAL-32281": 1.0
@@ -7251,6 +7655,61 @@
         "description": "Boredom: Completed",
         "contributors": {
             "A-MAL-32281": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "AEI",
+        "contributors": {
+            "A-MAL-32729": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.25,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "aei",
+            "input_score": 2.5,
+            "clamped_score": 2.5
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-32729": 1.0
         },
         "score": [
             0.0,
@@ -8361,6 +8820,188 @@
         }
     },
     {
+        "description": "Meme",
+        "contributors": {
+            "A-MAL-33731": 1.0
+        },
+        "score": [
+            0.0,
+            0.8399999999999999,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "meme",
+            "strength": 0.4,
+            "meme_duration": 5,
+            "meme_duration_name": "3 Weeks - 1 Month",
+            "meme_duration_value": 0.7
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-33731": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Music",
+        "contributors": {
+            "A-MAL-34240": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.35,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "NONSTD_music",
+            "input_score": 4.5
+        }
+    },
+    {
+        "description": "Short anime buff",
+        "contributors": {
+            "A-MAL-34240": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75
+        ],
+        "meta": {
+            "type": "additional"
+        }
+    },
+    {
+        "description": "Cry",
+        "contributors": {
+            "A-MAL-34240": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            4.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "cry"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-34240": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-34280": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
         "description": "Music",
         "contributors": {
             "M-VGMDB-AL-63666": 1.0
@@ -8545,6 +9186,142 @@
             "type": "boredom",
             "boredom_level": 0,
             "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "AEI",
+        "contributors": {
+            "A-MAL-34822": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.25,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "aei",
+            "input_score": 2.5,
+            "clamped_score": 2.5
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-34822": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Boredom: Temporarily On-Hold",
+        "contributors": {
+            "A-MAL-35241": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.5,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 5,
+            "boredom_level_name": "Temporarily On-Hold"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-35507": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "NEI",
+        "contributors": {
+            "A-MAL-35507": 1.0
+        },
+        "score": [
+            0.0,
+            0.4,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "type": "nei",
+            "input_score": 2.0,
+            "clamped_score": 0.4
         }
     },
     {

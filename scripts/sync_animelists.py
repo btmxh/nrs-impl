@@ -1,2 +1,2 @@
 import mal
-import anilist
+# import anilist
