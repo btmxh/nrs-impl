@@ -4653,6 +4653,144 @@
         }
     },
     {
+        "description": "PADS",
+        "contributors": {
+            "A-MAL-16067": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            3.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "pads",
+            "pads_length": 2,
+            "pads_score": 3.5
+        }
+    },
+    {
+        "description": "NEI",
+        "contributors": {
+            "A-MAL-16067": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "nei",
+            "input_score": 7.5,
+            "clamped_score": 1.5
+        }
+    },
+    {
+        "description": "Waifu",
+        "contributors": {
+            "A-MAL-16067": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.3577223804672995,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "waifu",
+            "name": "Shiodome Miuna",
+            "length_in_days": 90
+        }
+    },
+    {
+        "description": "Meme",
+        "contributors": {
+            "A-MAL-16067": 1.0
+        },
+        "score": [
+            0.0,
+            1.4699999999999998,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "meme",
+            "strength": 0.7,
+            "meme_duration": 5,
+            "meme_duration_name": "3 Weeks - 1 Month",
+            "meme_duration_value": 0.7
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-16067": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
         "description": "Music",
         "contributors": {
             "M-VGMDB-AL-44890-1": 1.0

@@ -24,6 +24,21 @@ fun GenerateBlock.NagiAsu() {
             id = "A-MAL-16067"
             title = "Nagi no Asu kara"
 
+            bestGirl = "Shiodome Miuna"
+            // poor best girl
+            PADS(2, Emotion.CU)
+
+            // there are other relationships other than the
+            // love triangle of best girl and they did make
+            // an impact
+            NEI(7.5, Emotion.CU)
+
+            WaifuUnknownPeriod("Shiodome Miuna", 90)
+
+            Meme(0.7, Meme.M3Weeks_1Month)
+
+            Boredom(Boredom.Completed)
+
             FeatureMusic("M-VGMDB-AL-41278-1")
             FeatureMusic("M-VGMDB-AL-41280-1")
             FeatureMusic("M-VGMDB-AL-42900-1")
