@@ -675,4 +675,15 @@ fun GenerateBlock.CommonArtists() {
             Contains("M-VGMDB-AL-47402")
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AR-29251"
+        title = "Iwahashi Yuka"
+
+        // t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐
+        Contains(ImageVocalContainFactor) {
+            Contains("M-51", 1.0 / 9.0)
+            Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
+        }
+    }
 }

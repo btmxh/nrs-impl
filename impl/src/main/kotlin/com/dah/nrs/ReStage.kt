@@ -12,6 +12,10 @@ fun Entry.TrackMusic(score: Double) {
 
 // the ultimate mapping project, aka the 367000pp project
 // https://osu.ppy.sh/beatmapsets/1716294#osu/3506938
+
+// only 0.15 NRS score from Love Live Niji
+// top 1 anime doable LETSGO
+// this is the first step of our global (oricon) domination plan
 fun GenerateBlock.ReStage() {
     // changed da world
 
@@ -48,8 +52,6 @@ fun GenerateBlock.ReStage() {
         contributors["A-MAL-38009"] = 0.9
         contributors["GF-VGMDB-7059"] = 0.1
     }
-
-    // t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐
 
     Entry {
         id = "F-VGMDB-7059"

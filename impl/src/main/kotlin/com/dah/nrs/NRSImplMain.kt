@@ -202,5 +202,6 @@ fun main() =
         JMetal()
         OsuGame()
         TariTari()
+        SelePro()
     }.run {}
 

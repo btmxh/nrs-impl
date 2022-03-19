@@ -2290,7 +2290,7 @@
             0.0,
             0.0,
             0.0,
-            2.25,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -2305,8 +2305,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "type": "aei",
-            "input_score": 2.5,
-            "clamped_score": 2.5
+            "input_score": 5.0,
+            "clamped_score": 5.0
         }
     },
     {
@@ -2318,7 +2318,7 @@
             0.0,
             0.0,
             0.0,
-            0.3,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -2334,8 +2334,8 @@
                 "ModeratePleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.5,
-            "clamped_score": 0.3
+            "input_score": 7.5,
+            "clamped_score": 1.5
         }
     },
     {
@@ -5307,7 +5307,7 @@
         },
         "score": [
             0.0,
-            0.35,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -5325,8 +5325,8 @@
                 "ActivatedPleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.75,
-            "clamped_score": 0.35
+            "input_score": 7.5,
+            "clamped_score": 1.5
         }
     },
     {
@@ -5987,7 +5987,7 @@
             0.0,
             0.0,
             0.0,
-            0.2,
+            1.0,
             0.0,
             0.0,
             0.0,
@@ -6002,8 +6002,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.0,
-            "clamped_score": 0.2
+            "input_score": 5.0,
+            "clamped_score": 1.0
         }
     },
     {
@@ -6097,7 +6097,7 @@
             0.0,
             0.0,
             0.0,
-            0.3,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -6112,8 +6112,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.5,
-            "clamped_score": 0.3
+            "input_score": 7.5,
+            "clamped_score": 1.5
         }
     },
     {
@@ -7817,7 +7817,7 @@
         },
         "score": [
             0.0,
-            0.3,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -7835,8 +7835,8 @@
                 "ActivatedPleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.5,
-            "clamped_score": 0.3
+            "input_score": 7.5,
+            "clamped_score": 1.5
         }
     },
     {
@@ -9143,7 +9143,7 @@
             0.0,
             0.0,
             0.0,
-            0.3,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -9158,8 +9158,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.5,
-            "clamped_score": 0.3
+            "input_score": 7.5,
+            "clamped_score": 1.5
         }
     },
     {
@@ -11610,7 +11610,7 @@
         }
     },
     {
-        "description": "NEI",
+        "description": "AEI",
         "contributors": {
             "A-MAL-43735": 1.0
         },
@@ -11618,9 +11618,9 @@
             0.0,
             0.0,
             0.0,
-            1.0,
+            2.1667835835086975,
             0.0,
-            0.0,
+            0.2407537315009664,
             0.0,
             0.0,
             0.0,
@@ -11631,11 +11631,12 @@
         ],
         "meta": {
             "emotions": {
-                "ModeratePleasant": 1.0
+                "ModeratePleasant": 0.9,
+                "CalmingPleasant": 0.1
             },
-            "type": "nei",
-            "input_score": 5.0,
-            "clamped_score": 1.0
+            "type": "aei",
+            "input_score": 2.0,
+            "clamped_score": 2.0
         }
     },
     {
@@ -11645,7 +11646,7 @@
         },
         "score": [
             0.0,
-            0.25,
+            1.0,
             0.0,
             0.0,
             0.0,
@@ -11663,8 +11664,8 @@
                 "ActivatedPleasant": 1.0
             },
             "type": "nei",
-            "input_score": 1.25,
-            "clamped_score": 0.25
+            "input_score": 5.0,
+            "clamped_score": 1.0
         }
     },
     {
@@ -12173,6 +12174,84 @@
             "type": "boredom",
             "boredom_level": 0,
             "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Cry",
+        "contributors": {
+            "A-MAL-44275": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            4.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "type": "cry"
+        }
+    },
+    {
+        "description": "Boredom: Completed",
+        "contributors": {
+            "A-MAL-44275": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "meta": {
+            "type": "boredom",
+            "boredom_level": 0,
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "description": "Music",
+        "contributors": {
+            "M-VGMDB-AL-114102-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "type": "NONSTD_music",
+            "input_score": 5.0
         }
     }
 ]
