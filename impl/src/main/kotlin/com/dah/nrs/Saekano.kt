@@ -21,7 +21,7 @@ fun GenerateBlock.Saekano() {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }
-        NEI(1.75, Emotion.AP) {
+        NEI(7.5, Emotion.AP) {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }

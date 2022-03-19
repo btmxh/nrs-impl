@@ -31,7 +31,7 @@ fun GenerateBlock.KobayashiMaidDragon() {
             bestGirl = "Tohru"
 
             // funny ig idk tbh
-            NEI(1.5, Emotion.AP)
+            NEI(7.5, Emotion.AP)
 
             Boredom(Boredom.Completed)
             FeatureMusic("M-VGMDB-AL-62516-1")

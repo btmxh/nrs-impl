@@ -13,13 +13,11 @@ fun GenerateBlock.Sakurasou() {
             // This is a very good compoly story, meaning
             // there are a lot of truly sad moments in this
             // anime. But a lot of records have been lost and
-            // idk why I'm sad. The previous impl gave AEI(5),
-            // which is equivalent to AEI(3) in this impl
-            // but idc so 2.5
-            AEI(2.5, Emotion.CU)
+            // idk why I'm sad. The previous impl gave AEI(5)
+            AEI(5.0, Emotion.CU)
 
             // The group is kinda comfy ig
-            NEI(1.5, Emotion.MP)
+            NEI(7.5, Emotion.MP)
 
             // This and New Game! is recorded to be the
             // inspiration for me to learn programming

@@ -141,7 +141,7 @@ fun GenerateBlock.YuYuYu() {
             // gin's death and sonoko spamming magia are sad
             // but my pepega ass doesn't watch this shit properly
             // ffs
-            NEI(1.0, Emotion.CU)
+            NEI(5.0, Emotion.CU)
 
             Boredom(Boredom.Completed)
         }
@@ -184,7 +184,7 @@ fun GenerateBlock.YuYuYu() {
 
             // E5-20:17
             // YLIA flashbacks
-            NEI(1.5, Emotion.CU)
+            NEI(7.5, Emotion.CU)
 
             FeatureMusic("M-VGMDB-AL-114186-2")
 

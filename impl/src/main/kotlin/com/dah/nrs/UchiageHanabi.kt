@@ -10,7 +10,7 @@ fun GenerateBlock.UchiageHanabi() {
             title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
             // SLN rng
-            NEI(1.5, Emotion.CU)
+            NEI(7.5, Emotion.CU)
 
             bestGirl = "Oikawa Nazuna"
 
