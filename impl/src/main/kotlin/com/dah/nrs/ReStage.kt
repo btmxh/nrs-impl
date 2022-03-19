@@ -381,7 +381,7 @@ fun GenerateBlock.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78339"
-            title = "*Heart Confusion*"
+            title = "＊Heart Confusion＊"
 
             SubIDEntry("1") {
                 TrackMusic(1.0)
