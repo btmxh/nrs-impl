@@ -1814,7 +1814,7 @@
         "contributors": {
             "A-MAL-9756": 0.08,
             "A-MAL-11981": 0.02,
-            "GF-VGMDB-5237": 0.45,
+            "G-VGMDB-5237": 0.45,
             "A-MAL-38256": 0.45
         },
         "references": {
@@ -2901,7 +2901,7 @@
     {
         "description": "",
         "contributors": {
-            "GF-VGMDB-5237": 1.0
+            "G-VGMDB-5237": 1.0
         },
         "references": {
             "M-VGMDB-AL-69147-11": [
@@ -3082,7 +3082,7 @@
     {
         "description": "",
         "contributors": {
-            "GF-VGMDB-5237": 1.0
+            "G-VGMDB-5237": 1.0
         },
         "references": {
             "M-VGMDB-AL-89431-1": [
@@ -3263,7 +3263,7 @@
     {
         "description": "",
         "contributors": {
-            "GF-VGMDB-5237": 1.0
+            "G-VGMDB-5237": 1.0
         },
         "references": {
             "M-VGMDB-AL-91985-1": [

@@ -108,7 +108,7 @@ fun GenerateBlock.MadokaMagica() {
         KilledBy("A-MAL-40879") {
             contributors["A-MAL-9756"] = 0.08
             contributors["A-MAL-11981"] = 0.02
-            contributors["GF-VGMDB-5237"] = 0.45
+            contributors["G-VGMDB-5237"] = 0.45
             contributors["A-MAL-38256"] = 0.45
         }
 
@@ -147,12 +147,12 @@ fun GenerateBlock.MadokaMagica() {
 
         Waifu("Tamaki Iroha", "2020-02-14" to "2020-08-14") {
             contributors["A-MAL-38256"] = 0.5
-            contributors["GF-VGMDB-5237"] = 0.5
+            contributors["G-VGMDB-5237"] = 0.5
         }
 
         Meme(0.9, Meme.MMoreThan3Months) {
             contributors["A-MAL-38256"] = 0.4
-            contributors["GF-VGMDB-5237"] = 0.6
+            contributors["G-VGMDB-5237"] = 0.6
         }
 
         Meme(0.3, Meme.M1_3Days) {
@@ -162,12 +162,12 @@ fun GenerateBlock.MadokaMagica() {
         // magireco is kinda comfy
         NEI(3.5, Emotion.MP) {
             contributors["A-MAL-38256"] = 0.4
-            contributors["GF-VGMDB-5237"] = 0.4
+            contributors["G-VGMDB-5237"] = 0.4
             contributors["A-MAL-41530"] = 0.2
         }
 
         Entry {
-            id = "GF-VGMDB-5237"
+            id = "G-VGMDB-5237"
             title = "Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
 
             bestGirl = "Tamaki Iroha"

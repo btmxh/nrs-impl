@@ -1303,7 +1303,7 @@
         "description": "Waifu",
         "contributors": {
             "A-MAL-38256": 0.5,
-            "GF-VGMDB-5237": 0.5
+            "G-VGMDB-5237": 0.5
         },
         "score": [
             0.0,
@@ -1336,7 +1336,7 @@
         "description": "Meme",
         "contributors": {
             "A-MAL-38256": 0.4,
-            "GF-VGMDB-5237": 0.6
+            "G-VGMDB-5237": 0.6
         },
         "score": [
             0.0,
@@ -1393,7 +1393,7 @@
         "description": "NEI",
         "contributors": {
             "A-MAL-38256": 0.4,
-            "GF-VGMDB-5237": 0.4,
+            "G-VGMDB-5237": 0.4,
             "A-MAL-41530": 0.2
         },
         "score": [
@@ -1423,7 +1423,7 @@
     {
         "description": "Cry",
         "contributors": {
-            "GF-VGMDB-5237": 1.0
+            "G-VGMDB-5237": 1.0
         },
         "score": [
             0.0,
@@ -1450,7 +1450,7 @@
     {
         "description": "PADS",
         "contributors": {
-            "GF-VGMDB-5237": 1.0
+            "G-VGMDB-5237": 1.0
         },
         "score": [
             0.0,
@@ -1479,7 +1479,7 @@
     {
         "description": "Cry",
         "contributors": {
-            "GF-VGMDB-5237": 1.0
+            "G-VGMDB-5237": 1.0
         },
         "score": [
             0.0,
