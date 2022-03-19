@@ -27,7 +27,9 @@ fun GenerateBlock.Cue() {
             // and based ep4 is nothing but character interactions
             // we do a little MP farming
             // ok airi and yuzuha is wholesome af
-            NEI(5.0, Emotion.MP)
+            // ep 11 almost made me cry
+            // and i was somewhat moved by ep 10
+            AEI(2.0, Emotion.MP to 0.9, Emotion.CP to 0.1)
 
             // in ep5 there is some comedy
             NEI(1.25, Emotion.AP)
