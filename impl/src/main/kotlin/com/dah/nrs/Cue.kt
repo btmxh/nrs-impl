@@ -32,7 +32,7 @@ fun GenerateBlock.Cue() {
             AEI(2.0, Emotion.MP to 0.9, Emotion.CP to 0.1)
 
             // in ep5 there is some comedy
-            NEI(1.25, Emotion.AP)
+            NEI(5.0, Emotion.AP)
 
             Boredom(Boredom.Watching)
 
