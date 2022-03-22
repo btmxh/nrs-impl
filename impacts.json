@@ -9526,6 +9526,36 @@
         }
     },
     {
+        "description": "NEI",
+        "contributors": {
+            "M-VGMDB-AL-89363-2": 0.4,
+            "A-MAL-38009": 0.6
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.6,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "meta": {
+            "emotions": {
+                "CalmingPleasant": 1.0
+            },
+            "type": "nei",
+            "input_score": 8.0,
+            "clamped_score": 1.6
+        }
+    },
+    {
         "description": "PADS",
         "contributors": {
             "A-MAL-38009": 1.0

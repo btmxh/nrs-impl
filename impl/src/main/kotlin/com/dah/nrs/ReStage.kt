@@ -53,6 +53,12 @@ fun GenerateBlock.ReStage() {
         contributors["GF-VGMDB-7059"] = 0.1
     }
 
+    // overture: shelter incident
+    NEI(8.0, Emotion.CP) {
+        contributors["M-VGMDB-AL-89363-2"] = 0.4
+        contributors["A-MAL-38009"] = 0.6
+    }
+
     Entry {
         id = "F-VGMDB-7059"
         title = "Re:STAGE!"
