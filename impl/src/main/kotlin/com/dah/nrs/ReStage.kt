@@ -54,6 +54,7 @@ fun GenerateBlock.ReStage() {
     }
 
     // overture: shelter incident
+//    AEI(2.5, Emotion.CP) {
     NEI(8.0, Emotion.CP) {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
@@ -121,7 +122,17 @@ fun GenerateBlock.ReStage() {
             // her seiyuu is the GIGACHAD seiyuu amane makino btw
 
             // the re stage niji incident
+//            PADS(5, Emotion.MP)
             PADS(1, Emotion.MP)
+
+            // 4chan loved rst, which is heartwarming af
+//            AEI(3.0, Emotion.MP)
+
+            // rst lore
+//            NEI(5.0, Emotion.AP)
+
+            // rst underrated -> copium
+//            NEI(2.5, Emotion.AU)
 
             // this was funny af
             // expected from a purely mpap-based idol anime
