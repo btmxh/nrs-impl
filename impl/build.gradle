@@ -4,10 +4,8 @@ plugins {
 }
 
 application {
-    mainClassName = 'com.dah.nrs.NRSImplMainKt'
+    mainClass = 'com.dah.nrs.NRSImplMainKt'
 }
-
-group 'com.dah'
 
 repositories {
     mavenCentral()
@@ -15,5 +13,4 @@ repositories {
 
 dependencies {
     implementation project(':core')
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 }

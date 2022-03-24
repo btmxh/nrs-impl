@@ -1,23 +1,28 @@
 package com.dah.nrs
 
-fun GenerateBlock.UchiageHanabi() {
-    AlbumTrack(VGMDB_Album(69257), 1, "Uchiage Hanabi", DAOKO, YonezuKenshi) {
-        Music(0.5)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.*
 
-    Anime("Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?", MAL = 34498) {
-        // SLN rng
-        NEI(1.5, Emotion.CU)
+fun DSLScope.UchiageHanabi() {
+    Entry {
+        id = "F-VGMDB-5919"
+        title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
-        bestGirl = "Oikawa Nazuna"
+        Entry {
+            id = "A-MAL-34498"
+            title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
-        Boredom(Boredom.Completed)
+            // SLN rng
+            NEI(7.5, Emotion.CU)
 
-        FeatureMusic(VGMDB_Track(69257, 1))
-    }
+            bestGirl = "Oikawa Nazuna"
 
-    Franchise(VGMDB_Franchise(5919), "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?") {
-        Include(MAL(34498))
-        Include(VGMDB_Track(69257, 1))
+            Boredom(Boredom.Completed)
+
+            FeatureMusic("M-VGMDB-AL-69257-1")
+        }
+
+        Contains("M-VGMDB-AL-69257-1")
     }
 }

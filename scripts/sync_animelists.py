@@ -1,2 +1,2 @@
-import mal
-import anilist
+import sync.mal
+import sync.anilist

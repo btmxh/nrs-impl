@@ -1,37 +1,47 @@
 package com.dah.nrs
 
-fun GenerateBlock.SoraMethod() {
-    AlbumTrack(VGMDB_Album(47402), 1, "Stargazer", LarvalStagePlanning) {
-        Music(0.8)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
 
-    AlbumTrack(VGMDB_Album(47403), 1, "Hoshikuzu no Interlude", fhana) {
-        Music(0.8)
-    }
+fun DSLScope.SoraMethod() {
+    Entry {
+        id = "F-VGMDB-2894"
+        // method!!!!!!! mot con nguoi dc xay dung mot
+        // cach khac biet *insert pasta*
+        title = "Sora no Method"
 
-    Anime("Sora no Method", MAL = 23209) {
-        // Drama in this anime is executed pretty well.
-        AEI(2.5, Emotion.CU)
+        Entry {
+            id = "A-MAL-23209"
+            title = "Sora no Method"
+            bestGirl = "Komiya Nonoka"
 
-        // beasttrollminecraft
-        Meme(0.3, Meme.M4_7Days)
+            // Drama in this anime is executed pretty well.
+            AEI(7.5, Emotion.CU)
 
+            // beasttrollminecraft
+            Meme(0.3, Meme.M4_7Days)
 
-        bestGirl = "Komiya Nonoka"
+            // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
+            NEI(5.0, Emotion.CU)
 
-        // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
-        Impact("OP/ED visual chemistry", Emotion.CU, 1.0)
+            // OP/ED very good too.
+            FeatureMusic("M-VGMDB-AL-47402-1")
+            FeatureMusic("M-VGMDB-AL-47403-1")
 
-        // OP/ED very good too.
-        FeatureMusic(VGMDB_Track(47402, 1))
-        FeatureMusic(VGMDB_Track(47403, 1))
+            Boredom(Boredom.Completed)
+        }
 
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "M-VGMDB-AL-47402"
+            title = "Stargazer"
 
-    Franchise(VGMDB_Franchise(2894), "Sora no Method") {
-        Include(MAL(23209))
-        Include(VGMDB_Track(47402, 1))
-        Include(VGMDB_Track(47403, 1))
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
+
+        Contains("M-VGMDB-AL-47403-1")
     }
 }

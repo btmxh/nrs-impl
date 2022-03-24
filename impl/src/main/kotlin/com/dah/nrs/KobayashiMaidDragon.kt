@@ -1,28 +1,45 @@
 package com.dah.nrs
 
-fun GenerateBlock.KobayashiMaidDragon() {
-    AlbumTrack(VGMDB_Album(62516), 1, "Aozora no Rhapsody", fhana) {
-        Music(0.75)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
 
-    AlbumTrack(VGMDB_Album(110219), 1, "Ai no Supreme!", fhana) {
-        Music(1.0)
-        Impact("\"why is the dude singing???\" - some pp mapper", Emotion.AP, 0.5)
-    }
+fun DSLScope.KobayashiMaidDragon() {
+    Entry {
+        id = "F-VGMDB-8954"
+        title = "Kobayashi-san Chi no Maid Dragon"
 
-    Anime("Kobayashi-san Chi no Maid Dragon", MAL = 33206) {
-        bestGirl = "Tohru"
-        // funny ig idk tbh
-        NEI(0.3, Emotion.AP)
+        Entry {
+            id = "M-VGMDB-AL-62516"
+            title = "Aozora no Rhapsody"
 
-        Boredom(Boredom.Completed)
-        FeatureMusic(VGMDB_Track(62516, 1))
-    }
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
 
-    Franchise(VGMDB_Franchise(8954), "Kobayashi-san Chi no Maid Dragon") {
-        Include(MAL(33206))
+        Entry {
+            id = "M-VGMDB-AL-110219"
+            title = "Ai no Supreme!"
 
-        Include(VGMDB_Track(62516, 1))
-        Include(VGMDB_Track(110219, 1))
+            SubIDEntry("1") {
+                Music(4.0)
+                // "why is the dude singing???" - some pp mapper
+                Meme(0.05, Meme.M4_7Days)
+            }
+        }
+
+        Entry {
+            id = "A-MAL-33206"
+            title = "Kobayashi-san Chi no Maid Dragon"
+            bestGirl = "Tohru"
+
+            // funny ig idk tbh
+            NEI(7.5, Emotion.AP)
+
+            Boredom(Boredom.Completed)
+            FeatureMusic("M-VGMDB-AL-62516-1")
+        }
     }
 }

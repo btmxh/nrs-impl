@@ -74,5 +74,6 @@ for e in map.values():
           e["placement_score"], e["nrs_score"])
 
     # rate-limit thingy idk
-    if add_anime(e["id"], e["score"]):
-        time.sleep(1)
+    if int(e["id"]) >= 0:
+        if add_anime(e["id"], e["score"]):
+            time.sleep(1)

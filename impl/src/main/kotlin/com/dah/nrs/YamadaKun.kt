@@ -1,27 +1,27 @@
 package com.dah.nrs
 
-fun GenerateBlock.YamadaKun() {
-    // lemur
-    AlbumTrack(VGMDB_Album(51918), 1, "Kuchizuke Diamond", WEAVER) {
-        Music(1.0)
-        Impact("Legendary osu! beatmap", Emotion.AP, 0.5)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.Boredom
+import com.dah.nrs.exts.Completed
+import com.dah.nrs.exts.FeatureMusic
 
-    AlbumTrack(VGMDB_Album(52045), 1, "CANDY MAGIC", mimimemeMIMI) {
-        Music(0.2)
-    }
+fun DSLScope.YamadaKun() {
+    Entry {
+        id = "F-VGMDB-3370"
+        title = "Yamada-kun to 7-nin no Majo"
 
-    Anime("Yamada-kun to 7-nin no Majo", MAL = 28677) {
-        bestGirl = "Shiraishi Urara"
+        Entry {
+            id = "A-MAL-28677"
+            title = "Yamada-kun to 7-nin no Majo"
+            bestGirl = "Shiraishi Urara"
 
-        FeatureMusic(VGMDB_Track(51918, 1))
-        FeatureMusic(VGMDB_Track(52045, 1))
-        Boredom(Boredom.Completed)
-    }
+            FeatureMusic("M-VGMDB-AL-51918-1")
+            FeatureMusic("M-VGMDB-AL-52045-1")
+            Boredom(Boredom.Completed)
+        }
 
-    Franchise(VGMDB_Franchise(3370), "Yamada-kun to 7-nin no Majo") {
-        Include(MAL(28677))
-        Include(VGMDB_Track(51918, 1))
-        Include(VGMDB_Track(52045, 1))
+        Contains("M-VGMDB-AL-51918-1")
+        Contains("M-VGMDB-AL-52045-1")
     }
 }

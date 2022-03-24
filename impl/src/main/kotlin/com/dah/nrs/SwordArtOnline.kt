@@ -1,31 +1,41 @@
 package com.dah.nrs
 
-fun GenerateBlock.SwordArtOnline() {
-    AlbumTrack(VGMDB_Album(33537), 1, "crossing field", LiSA) {
-        Music(0.3)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.Boredom
+import com.dah.nrs.exts.Completed
+import com.dah.nrs.exts.FeatureMusic
 
-    Anime("Sword Art Online", MAL = 11757) {
-        bestGirl = "Yuuki Asuna"
-        FeatureMusic(VGMDB_Track(33537, 1))
-        Boredom(Boredom.Completed)
-    }
+fun DSLScope.SwordArtOnline() {
+    Entry {
+        id = "F-VGMDB-2633"
+        title = "Sword Art Online"
 
-    Anime("Sword Art Online II", MAL = 21881) {
-        bestGirl = "Yuuki Asuna"
-        Boredom(Boredom.Completed)
-    }
+        Entry {
+            id = "A-MAL-11757"
+            title = "Sword Art Online"
 
-    Anime("Sword Art Online Movie: Ordinal Scale", MAL = 31765) {
-        bestGirl = "Yuuki Asuna"
-        Boredom(Boredom.Completed)
-    }
+            bestGirl = "Yuuki Asuna"
+            FeatureMusic("M-VGMDB-AL-33537-1")
+            Boredom(Boredom.Completed)
+        }
 
-    Franchise(VGMDB_Franchise(2633), "Sword Art Online") {
-        Include(MAL(11757))
-        Include(MAL(21881))
-        Include(MAL(31765))
+        Entry {
+            id = "A-MAL-21881"
+            title = "Sword Art Online II"
 
-        Include(VGMDB_Track(33537, 1))
+            bestGirl = "Yuuki Asuna"
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-31765"
+            title = "Sword Art Online Movie: Ordinal Scale"
+
+            bestGirl = "Yuuki Asuna"
+            Boredom(Boredom.Completed)
+        }
+
+        Contains("M-VGMDB-AL-33537-1")
     }
 }

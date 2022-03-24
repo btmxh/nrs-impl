@@ -1,187 +1,697 @@
-@file:Suppress(
-    "LocalVariableName",
-    "FunctionName",                     // It's my DSL, idc about conventions
-    "SpellCheckingInspection"           // IDEA can't understand nihongo
-)
-
 package com.dah.nrs
 
-val HTT by Artist(VGMDB_Artist(8870), "HO-KAGO TEA TIME")
-val DJAmaya by Artist("M-2", "DJ Amaya")
-val Asterisk by Artist("M-1", "Asterisk")
-val Tamame by Artist("M-6", "tamame")
-val ClariS by Artist(VGMDB_Artist(11829), "ClariS")
-val TrySail by Artist(VGMDB_Artist(16469), "TrySail")
-val YuukiAoi by Artist(VGMDB_Artist(9797), "Yuuki Aoi")
-val NonakaAi by Artist(VGMDB_Artist(3558), "Nonaka Ai")
-val KitamuraEri by Artist(VGMDB_Artist(724), "Kitamura Eri")
-val KajiuraYuki by Artist(VGMDB_Artist(356), "Kajiura Yuki")
-val LiSA by Artist(VGMDB_Artist(11952), "LiSA")
-val ZAQ by Artist(VGMDB_Artist(12516), "ZAQ")
-val YanagiNagi by Artist(VGMDB_Artist(5524), "Yanagi Nagi")
-val Muse by Artist(VGMDB_Artist(13719), "μ's")
-val Aqours by Artist(VGMDB_Artist(17153), "Aqours")
-val Nijigaku by Artist(VGMDB_Artist(29922), "Nijigasaki High School Idol Club")
-//    val Liella by Artist(VGMDB_Artist(37385), "Liella!")
-val HayamiSaori by Artist(VGMDB_Artist(6876), "Hayami Saori") {
-    Include(Tsurezure)
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.ImageVocalContainFactor
+import com.dah.nrs.exts.Music
+import com.dah.nrs.exts.OsuSong
+import com.dah.nrs.exts.Remix
+
+fun DSLScope.CommonArtists() {
+    Entry {
+        id = "M-1"
+        title = "Asterisk"
+
+        Contains("M-35", 1.0 / 3)
+        Contains("M-10", 0.5)
+        Contains("M-22", 0.5)
+    }
+
+    Entry {
+        id = "M-34"
+        title = "Rakakun"
+
+        Contains("M-35", 1.0 / 3)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15361"
+        title = "Minase Inori"
+
+        Contains("M-9", 1.0 / 5)
+        Contains("M-44", 1.0 / 4)
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-54418-1")
+            Contains("M-VGMDB-AL-55364-3")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15350"
+        title = "M·A·O"
+
+        Contains("M-44", 1.0 / 4)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-63666")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15380"
+        title = "Takahashi Rie"
+
+        Contains("M-44", 1.0 / 4)
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-53719-1")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15998"
+        title = "Ozawa Ari"
+
+        Contains("M-13", 1.0 / 2)
+        Contains("M-44", 1.0 / 4)
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-53719-1", 0.5)
+            Contains("M-VGMDB-AL-82983-5")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-12726"
+        title = "Sakura Ayane"
+
+        Contains("M-9", 1.0 / 5)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-13211"
+        title = "Taneda Risa"
+
+        Contains("M-9", 1.0 / 5)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-8874"
+        title = "Sato Satomi"
+
+        Contains("M-9", 1.0 / 5)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-13289"
+        title = "Uchida Maaya"
+
+        Contains("M-9", 1.0 / 5)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-13857"
+        title = "fhána"
+
+        // band, so no Contains(ImageVocalContainFactor) block
+        Contains("M-VGMDB-AL-62516")
+        Contains("M-VGMDB-AL-110219")
+
+        Entry {
+            id = "M-VGMDB-AL-47403"
+            title = "Hoshikuzu no Interlude"
+
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-25289"
+        title = "Koyama Hidekazu"
+        // aka the god nanou
+
+        Contains("M-VGMDB-AL-37130-1", 0.1)
+        Contains("M-VGMDB-AL-37130-2", 0.1)
+        Contains("M-VGMDB-AL-37130-3", 0.05)
+        Contains("M-VGMDB-AL-37130-4", 0.1)
+        Contains("M-VGMDB-AL-37130-5", 0.1)
+        Contains("M-VGMDB-AL-37130-6", 0.1)
+
+        Contains("M-VGMDB-AL-49423-1", 0.2)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15119"
+        title = "Scop"
+
+        Contains("M-VGMDB-AL-37130-1", 0.2)
+        Contains("M-VGMDB-AL-37130-2", 0.1)
+        Contains("M-VGMDB-AL-37130-3", 0.05)
+
+        Contains("M-VGMDB-AL-34411-11", 0.2)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15120"
+        title = "keeno"
+
+        Contains("M-VGMDB-AL-37130-4", 0.1)
+        Contains("M-VGMDB-AL-37130-5", 0.1)
+        Contains("M-VGMDB-AL-37130-6", 0.1)
+
+        Contains("M-VGMDB-AL-49423-8", 0.2)
+
+        Contains("M-VGMDB-AL-78339-2", 0.1)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-17551"
+        title = "Saito Shuka"
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-97692")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-29323"
+        title = "Maeda Kaori"
+
+        Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-99272-3", ImageVocalContainFactor)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-29640"
+        title = "Onishi Aguri"
+
+        Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-80802-2")
+            Contains("M-VGMDB-AL-87198-1")
+            Contains("M-VGMDB-AL-99272-1")
+            Contains("M-VGMDB-AL-112929-2")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-27779"
+        title = "Kusunoki Tomori"
+
+        Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-80802-8")
+            Contains("M-VGMDB-AL-87198-7")
+            Contains("M-VGMDB-AL-99272-7")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-26954"
+        title = "Tanaka Chiemi"
+
+        Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-80802-10")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-16469"
+        title = "TrySail"
+
+        Contains(ImageVocalContainFactor) {
+            Entry {
+                id = "M-VGMDB-AL-69147"
+                title = "TAILWIND"
+
+                SubIDEntry("11", "Kakawari") {
+                    Music(6.0)
+                }
+            }
+
+            Contains("M-VGMDB-AL-89431")
+            Contains("M-VGMDB-AL-95029")
+
+            // 765 MILLION ALLSTARS
+            Contains("M-VGMDB-AR-32295", 3.0 / 51.0)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-11829"
+        title = "ClariS"
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-23391")
+            Contains("M-VGMDB-AL-41292")
+            Contains("M-VGMDB-AL-89431")
+
+            // colorful remixes
+            Contains(0.5) {
+                Contains("M-7")
+                Contains("M-8")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-6"
+        title = "tamame"
+
+        Contains(0.5) {
+            Entry {
+                id = "M-8"
+                title = "Colorful (tamame's apostate remix)"
+
+                Music(6.5)
+            }
+
+            Entry {
+                id = "M-47"
+                title = "Tamame - Ebb and Flow (5 years after remix)"
+
+                Music(3.0)
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-13097"
+        title = "Ray"
+
+        Contains(ImageVocalContainFactor) {
+            Entry {
+                id = "M-VGMDB-AL-41278"
+                title = "lull ~Soshite Bokura wa~"
+
+                SubIDEntry("1") {
+                    Music(0.75)
+                }
+            }
+
+            Entry {
+                id = "M-VGMDB-AL-42900"
+                title = "ebb and flow"
+
+                SubIDEntry("1") {
+                    Music(3.5)
+                    Remix("M-47")
+                }
+
+                SubIDEntry("3", "nagi") {
+                    Music(1.2)
+                }
+            }
+
+            Contains(0.5) {
+                Contains("M-47")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-5524"
+        title = "yanaginagi"
+
+        Contains(ImageVocalContainFactor) {
+            Entry {
+                id = "M-VGMDB-AL-41280"
+                title = "Aqua Terrarium"
+
+                SubIDEntry("1") {
+                    Music(0.75)
+                }
+            }
+
+            Entry {
+                id = "M-VGMDB-AL-43164"
+                title = "Mitsuba no Musubime"
+
+                SubIDEntry("1") {
+                    Music(0.75)
+                }
+            }
+
+            Entry {
+                id = "M-VGMDB-AL-37932"
+                title = "Yukitoki"
+
+                SubIDEntry("1") {
+                    Music(2.0)
+                }
+            }
+
+            Entry {
+                id = "M-VGMDB-AL-51516"
+                title = "Harumodoki"
+
+                SubIDEntry("1") {
+                    Music(2.5)
+                    Remix("M-VGMDB-AL-106577-6")
+                }
+            }
+
+            Entry {
+                id = "M-VGMDB-AL-96288"
+                title = "Megumi no Ame"
+
+                SubIDEntry("1") {
+                    Music(3.0)
+                }
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-12665"
+        title = "Komatsu Mikako"
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-45187-1")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-18208"
+        title = "Takada Yuuki"
+
+        Contains("M-46", 0.25)
+        Contains("M-17", 1.0 / 9.0)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-75344-4", 1.0 / 3.0)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-18231"
+        title = "Yamaguchi Megumi"
+
+        Contains("M-46", 0.25)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-16233"
+        title = "Toda Megumi"
+
+        Contains("M-46", 0.25)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-18205"
+        title = "Takeo Ayumi"
+
+        Contains("M-46", 0.25)
+    }
+
+    Entry {
+        id = "M-36"
+        title = "Will Stetson"
+
+        Contains("M-37", 0.3)
+        Contains("M-45", 0.45)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-6876"
+        title = "Hayami Saori"
+
+        Contains(ImageVocalContainFactor) {
+            // oregairu songs
+            Contains(0.5) {
+                Contains("M-VGMDB-AL-37999-1")
+                Contains("M-VGMDB-AL-51394-1")
+                Contains("M-VGMDB-AL-96290-1")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-11436"
+        title = "Toyama Nao"
+
+        Contains(ImageVocalContainFactor) {
+            // oregairu songs
+            Contains(0.5) {
+                Contains("M-VGMDB-AL-37999-1")
+                Contains("M-VGMDB-AL-51394-1")
+                Contains("M-VGMDB-AL-96290-1")
+            }
+
+            // oregairu solo songs
+            Contains("M-VGMDB-AL-51394-3")
+            Contains("M-VGMDB-AL-37999-2")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-26898"
+        title = "Kito Akari"
+
+        // known as the va of sayu
+        // wtf do you mean by kanata???
+        // *insert high-copium pasta about love live < rst but in reality it's the opposite*
+
+        Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
+        Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-10934"
+        title = "Kayano Ai"
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-48199")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-"
+        title = "Sawai Miku"
+
+        Contains(ImageVocalContainFactor) {
+            Entry {
+                id = "M-VGMDB-AL-49446"
+                title = "Colorful."
+
+                SubIDEntry("1") {
+                    Music(2.5)
+                }
+            }
+
+            Contains("M-10", 0.5)
+            Contains("M-11", 0.5)
+        }
+    }
+
+    Entry {
+        id = "M-12"
+        title = "kamaboko"
+
+        Contains("M-11", 0.5)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-6783"
+        title = "Hanazawa Kana"
+
+        Contains(ImageVocalContainFactor) {
+            // Sanshuu Chuugaku Yuushabu (post-Sonoko)
+            Contains(1.0 / 5.0) {
+                Contains("M-VGMDB-AL-114186")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-10253"
+        title = "Mimori Suzuko"
+
+        Contains(ImageVocalContainFactor) {
+            // Sanshuu Chuugaku Yuushabu (pre-Sonoko)
+            Contains(1.0 / 4.0) {
+                Contains("M-VGMDB-AL-47678")
+            }
+
+            // post-Sonoko
+            Contains(1.0 / 5.0) {
+                Contains("M-VGMDB-AL-114186")
+            }
+
+            // We May Never Meet Again, But I Will Never Forget Your Voice
+            Entry {
+                id = "M-VGMDB-AL-69821"
+                title = "Egao no Kimi e"
+
+                SubIDEntry("1") {
+                    Music(3.5)
+                }
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-16166"
+        title = "Inagawa Eri"
+
+        // le cat va
+        Contains(ImageVocalContainFactor) {
+            Contains("M-18", 1.0 / 4.0)
+            Contains("M-VGMDB-AR-32295", 1.0 / 51.0)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-30564"
+        title = "Tono Hikaru"
+
+        // chao e co gai hoan tinh
+        Contains(ImageVocalContainFactor) {
+            Contains("M-20", 1.0 / 4.0)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-26886"
+        title = "WEAVER"
+
+        Contains(ImageVocalContainFactor) {
+            // lemur
+            Entry {
+                id = "M-VGMDB-AL-51918"
+                title = "Kuchizuke Diamond"
+
+                SubIDEntry("1") {
+                    Music(3.5)
+                    OsuSong(personal = 4.0, community = 5.0)
+                }
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15766"
+        title = "mimimemeMIMI"
+
+        Contains(ImageVocalContainFactor) {
+            Entry {
+                id = "M-VGMDB-AL-52045"
+                title = "CANDY MAGIC"
+
+                SubIDEntry("1") {
+                    Music(1.0)
+                }
+            }
+
+            Entry {
+                id = "M-VGMDB-AL-59371"
+                title = "hare bare fanfare"
+
+                // kek
+                SubIDEntry("1") {
+                    Music(4.0)
+
+                    OsuSong(personal = 6.0, community = 3.0)
+                }
+
+                SubIDEntry("3", "CANDY MAGIC ~Piano Live Version~") {
+                    Remix("M-VGMDB-AL-52045-1")
+                }
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-17342"
+        title = "DAOKO"
+
+        // vocal: ImageVocalContainFactor * 0.8
+        Contains("M-VGMDB-AL-69257", ImageVocalContainFactor * 0.8)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-15121"
+        title = "Yonezu Kenshi"
+
+        // vocal: ImageVocalContainFactor * 0.2
+        // music + lyrics + arrangement: 0.5 * (1.0 - ImageVocalContainFactor)
+        Contains(
+            "M-VGMDB-AL-69257",
+            ImageVocalContainFactor * 0.2 +
+                    0.5 * (1.0 - ImageVocalContainFactor)
+        )
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-69257"
+        title = "Uchiage Hanabi"
+
+        SubIDEntry("1") {
+            Music(2.0)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-11952"
+        title = "LiSA"
+
+        Contains(ImageVocalContainFactor) {
+            Entry {
+                id = "M-VGMDB-AL-33537"
+                title = "crossing field"
+
+                SubIDEntry("1") {
+                    Music(1.0)
+                }
+            }
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-26614"
+        title = "kemu"
+
+        Contains("M-MAL-36631")
+        Contains("M-41", 0.5)
+        Contains("M-43", 0.25)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-4276"
+        title = "yuiko"
+
+        Contains("M-41", 0.5)
+
+        // backing vocal for akogare future sign (tv ver.)
+        Contains("M-VGMDB-AL-86622-2", 0.05)
+    }
+
+    Entry {
+        id = "M-42"
+        title = "H△G"
+
+        Contains("M-43", 0.75)
+    }
+
+    Entry {
+        id = "M-44"
+        title = "Chiho"
+
+        Contains("M-42", 0.5)
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-9455"
+        title = "Larval Stage Planning"
+
+        Contains(ImageVocalContainFactor) {
+            Contains("M-VGMDB-AL-47402")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-29251"
+        title = "Iwahashi Yuka"
+
+        // t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐
+        Contains(ImageVocalContainFactor) {
+            Contains("M-50", 1.0 / 9.0)
+            Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
+        }
+    }
 }
-val ToyamaNao by Artist(VGMDB_Artist(11436), "Toyama Nao")
-val SaitoShuka by Artist(VGMDB_Artist(17551), "Saito Shuka") {
-    Include(Aqours)
-}
-val MaedaKaori by Artist(VGMDB_Artist(29323), "Maeda Kaori") {
-    Include(Nijigaku)
-}
-val OnishiAguri by Artist(VGMDB_Artist(29640), "Onishi Aguri") {
-    Include(Nijigaku)
-}
-val KusunokiTomori by Artist(VGMDB_Artist(27779), "Kusunoki Tomori") {
-    Include(Nijigaku)
-}
-val TanakaChiemi by Artist(VGMDB_Artist(26954), "Tanaka Chiemi") {
-    Include(Nijigaku)
-}
-val Ray by Artist(VGMDB_Artist(13097), "Ray")
-val KomatsuMikako by Artist(VGMDB_Artist(12665), "Komatsu Mikako")
-val PetitRabbit by Artist("M-9", "Petit Rabbit's")
-val MinaseInori by Artist(VGMDB_Artist(15361), "Minase Inori") {
-    Include(PetitRabbit)
-}
-val LarvalStagePlanning by Artist(VGMDB_Artist(9455), "Larval Stage Planning")
-val fhana by Artist(VGMDB_Artist(13857), "fhána")
-val YokoyamaMasaru by Artist(VGMDB_Artist(9069), "Yokoyama Masaru")
-val KayanoAi by Artist(VGMDB_Artist(10934), "Kayano Ai")
-val SawaiMiku by Artist(VGMDB_Artist(11958), "Sawai Miku")
-val kamaboko by Artist("M-12", "kamaboko")
-val MAO by Artist(VGMDB_Artist(15350), "M·A·O")
-val TakahashiRie by Artist(VGMDB_Artist(16380), "Takahashi Rie")
-val OzawaAri by Artist(VGMDB_Artist(15998), "Ozawa Ari") {
-    Include(Ortensia)
-}
-val MimoriSuzuko by Artist(VGMDB_Artist(10253), "Mimori Suzuko") {
-    Include(Muse)
-}
-val TeruiHaruka by Artist(VGMDB_Artist(15440), "Terui Haruka")
-val UchiyamaYumi by Artist(VGMDB_Artist(12766), "Uchiyama Yumi")
-val KurosawaTomoyo by Artist(VGMDB_Artist(14180), "Kurosawa Tomoyo")
-val NagatsumaJuri by Artist(VGMDB_Artist(15408), "Nagatsuma Juri") {
-    Include(TROISANGES)
-}
-val HanazawaKana by Artist(VGMDB_Artist(6783), "Hanazawa Kana")
-val MakinoAmane by Artist(VGMDB_Artist(29249), "Makino Amane") {
-    Include(KiRaRe)
-}
-val KitoAkari by Artist(VGMDB_Artist(26898), "Kito Akari") {
-    Include(KiRaRe)
-    Include(Nijigaku)
-}
-val TazawaMasumi by Artist(VGMDB_Artist(15697), "Tazawa Masumi") {
-    Include(KiRaRe)
-}
-val TachibanaMeemu by Artist(VGMDB_Artist(29250), "Tachibana Meemu") {
-    Include(KiRaRe)
-}
-val IwahashiYuka by Artist(VGMDB_Artist(29251), "Iwahashi Yuka") {
-    Include(KiRaRe)
-}
-val SoramiYuki by Artist(VGMDB_Artist(29252), "Sorami Yuki") {
-    Include(KiRaRe)
-}
-val KiRaRe by Artist(VGMDB_Artist(30829), "KiRaRe")
-val HanamoriYumiri by Artist(VGMDB_Artist(15999), "Hanamori Yumiri") {
-    Include(Ortensia)
-}
-// the ortensia (2021) incident
-val MineuchiTomomi by Artist(VGMDB_Artist(27612), "Mineuchi Tomomi") {
-    Include(Ortensia)
-}
-val Ortensia by Artist("M-13", "ortensia")
-val TakahashiMinami by Artist(VGMDB_Artist(16335), "Takahashi Minami") {
-    Include(Stellamaris)
-}
-val SuwaAyaka by Artist(VGMDB_Artist(15565), "Suwa Ayaka") {
-    Include(Stellamaris)
-}
-val TanakaAimi by Artist(VGMDB_Artist(16805), "Tanaka Aimi") {
-    Include(Stellamaris)
-}
-val Stellamaris by Artist("M-14", "Stellamaris")
-val HiokaNatsumi by Artist(VGMDB_Artist(17779), "Hioka Natsumi") {
-    Include(TROISANGES)
-}
-val AbeRika by Artist(VGMDB_Artist(16609), "Abe Rika") {
-    Include(TROISANGES)
-}
-val TROISANGES by Artist("M-15", "TROIS ANGES")
-val YamadaNatsumi by Artist(VGMDB_Artist(23810), "Yamada Natsumi") {
-    Include(Tetrarkhia)
-}
-val SatouMiki by Artist(VGMDB_Artist(29254), "Satou Miki") {
-    Include(Tetrarkhia)
-}
-val TakayanagiTomoyo by Artist(VGMDB_Artist(29231), "Takayanagi Tomoyo") {
-    Include(Tetrarkhia)
-}
-val NishidaNozomi by Artist(VGMDB_Artist(17719), "Nishida Nozomi") {
-    Include(Tetrarkhia)
-}
-val Tetrarkhia by Artist("M-16", "Tetrarkhia")
-val keeno by Artist(VGMDB_Artist(15120), "keeno")
-val Deco27 by Artist(VGMDB_Artist(9559), "DECO*27")
-val yuiko by Artist(VGMDB_Artist(4276), "yuiko")
-// cat music is better than kirare
-// nrs is not broken at all amirite
-val InagawaEri by Artist(VGMDB_Artist(16166), "Inagawa Eri") {
-    Include(Plasmagica)
-}
-val TonoHikaru by Artist(VGMDB_Artist(30564), "Tono Hikaru") {
-    Include(Mashumairesh)
-}
-val Plasmagica by Artist("M-18", "Plasmagica")
-val Tsurezure by Artist("M-19", "Tsurezurenaru Ayatsuri Mugenan")
-// the gen2 setsuna yuki/yu takasaki lmao
-// i should've known this by the time i thought that
-// their song were catjam kek
-val Mashumairesh by Artist("M-20", "Mashumairesh") {
-    // the screentime thing
-    // mashu mp farm got fucked by the existence of the cat
-    // and pmgc
-    KilledBy("M-18")
-}
-val BUDVIRGINLOGIC by Artist("M-21", "BUD VIRGIN LOGIC")
-val Criticrista by Artist("M-23", "Criticrista")
-val Kano by Artist(VGMDB_Artist(11666), "Kano") {
-    // kano-era
-    Meme(0.9, Meme.MMoreThan3Months)
-}
-val KoyamaHidekazu by Artist(VGMDB_Artist(25289), "Koyama Hidekazu") // aka the god nanou
-val Scop by Artist(VGMDB_Artist(15119), "Scop")
-// harebare fanfaRe:
-val mimimemeMIMI by Artist(VGMDB_Artist(15766), "mimimemeMIMI")
-val WEAVER by Artist(VGMDB_Artist(26886), "WEAVER")
-val fourfolium by Artist("M-25", "fourfolium")
-val AiRBLUE by Artist(VGMDB_Artist(33857), "AiRBLUE")
-val Irodorimidori by Artist("M-26", "Irodorimidori")
-val cosMoBousouP by Artist(VGMDB_Artist(9553), "cosMo@Bousou-P")
-val xi by Artist(VGMDB_Artist(12225), "xi")
-val NOMA by Artist("M-27", "NOMA")
-// you may have more score than kirare
-// but u r still shit cope
-// filthy osugame farmer
-val PoppinParty by Artist(VGMDB_Artist(27992), "Poppin'Party")
-val Roselia by Artist(VGMDB_Artist(27993), "Roselia")
-val PastelPalletes by Artist(VGMDB_Artist(31328), "Pastel*Palletes")
-val Afterglow by Artist(VGMDB_Artist(31326), "Afterglow")
-val SILENTSIREN by Artist(VGMDB_Artist(31509), "SILENT SIREN")
-val Rakakun by Artist("M-34", "Rakakun")
-val KANABOON by Artist(VGMDB_Artist(25291), "KANA-BOON")
-val WillStetson by Artist("M-36", "Will Stetson")
-val DAOKO by Artist(VGMDB_Artist(17342), "DAOKO")
-val YonezuKenshi by Artist(VGMDB_Artist(15121), "Yonezu Kenshi")
-val Uwasanopetals by Artist("M-38", "Uwasanopetals")
-val kemu by Artist("M-40", "kemu")
-val GUMI by Artist(VGMDB_Artist(37346), "GUMI")
-val HatsuneMiku by Artist(VGMDB_Artist(2466), "Hatsune Miku")
-val HAG by Artist("M-42", "H△G")
-val ForegroundEclipse by Artist(VGMDB_Artist(8482), "Foreground Eclipse")

@@ -3,29 +3,40 @@ const labels = [
     "ID",
     "Title",
     "Overall",
-    "Art-Music"
+    "AU",
+    "AP",
+    "MU",
+    "MP",
+    "CU",
+    "CP",
+    "AL",
+    "AI",
+    "AM",
+    "IP",
+    "IG",
+    "B",
+    "A"
 ];
 
-const output = entry => {
+const output = (id, entry, score) => {
     return [
-        entry.id,
-        entry.title,
-        entry.score.overall,
-        subscore(entry, 1, 2)
+        id,
+        entry.DAH_meta_meta.DAH_entry_title_title,
+        score.DAH_overall_score_overallScore,
+        ...score.overallVector
     ];
 };
 
 // Script content
 const fs = require("fs");
 const csv = require("csv");
-const data = JSON.parse(fs.readFileSync("../nrs.json"));
+const entries = JSON.parse(fs.readFileSync("output/entries.json"));
+const scores = JSON.parse(fs.readFileSync("output/scores.json"));
+
 let output_data = [labels];
-for(const entry of data.entries) {
-    output_data.push(output(entry));
+for(const id in entries) {
+    output_data.push(output(id, entries[id], scores[id]));
 }
 csv.stringify(output_data, (_, out) => {
-    fs.writeFileSync("nrs.csv", out);
+    fs.writeFileSync("output/nrs.csv", out);
 })
-function subscore(entry, sub, factor) {
-    return entry.score.impact.subscores.split(";")[sub].split(":")[factor + 1];
-}

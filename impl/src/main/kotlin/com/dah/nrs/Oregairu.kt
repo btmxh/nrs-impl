@@ -1,77 +1,53 @@
 package com.dah.nrs
 
-fun GenerateBlock.Oregairu() {
-    AlbumTrack(VGMDB_Album(37932), 1, "Yukitoki", YanagiNagi) {
-        Music(0.6)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
 
-    AlbumTrack(VGMDB_Album(51516), 1, "Harumodoki", YanagiNagi) {
-        Music(0.8)
-    }
+fun DSLScope.Oregairu() {
+    Entry {
+        id = "F-VGMDB-3274"
+        title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
 
-    AlbumTrack(VGMDB_Album(96288), 1, "Megumi no Ame", YanagiNagi) {
-        Music(0.9)
-    }
+        Contains("M-VGMDB-AL-37932-1")
+        Contains("M-VGMDB-AL-51516-1")
+        Contains("M-VGMDB-AL-96288-1")
 
-    val HelloAloneMusic = Music(0.7)
+        Entry {
+            id = "M-VGMDB-AL-37999"
+            title = "Hello Alone"
 
-    AlbumTrack(VGMDB_Album(37999), 1, "Hello Alone", HayamiSaori, ToyamaNao) {
-        Impact(HelloAloneMusic)
-        Impact("Sadge", Emotion.CU, 0.5)
-    }
+            Music(3.0) {
+                contributors["M-VGMDB-AL-37999-1"] = 0.5
+                contributors["M-VGMDB-AL-37999-2"] = 0.5
+            }
 
-    Track(VGMDB_Track(37999, 2), "Hello Alone -Yui Ballade-", ToyamaNao) {
-        Impact(HelloAloneMusic)
-        Impact("Sadge", Emotion.CU, 0.5)
-    }
+            SubIDEntry("1")
+            SubIDEntry("2", "Hello Alone -Yui Ballade-")
+        }
 
-    val EverydayWorldMusic = Music(0.6)
+        Entry {
+            id = "M-VGMDB-AL-51394"
+            title = "Everyday World"
 
-    AlbumTrack(VGMDB_Album(51394), 1, "Everyday World", HayamiSaori, ToyamaNao) {
-        Impact(EverydayWorldMusic)
-    }
+            Music(3.5) {
+                contributors["M-VGMDB-AL-51394-1"] = 0.5
+                contributors["M-VGMDB-AL-51394-3"] = 0.5
+            }
 
-    Track(VGMDB_Track(51394, 3), "Everyday World -Ballade Arrange- Yui Solo Ver.", ToyamaNao) {
-        Impact(EverydayWorldMusic)
-        Impact("Sadge", Emotion.CU, 0.5)
-    }
+            SubIDEntry("1", "Everyday World")
+            SubIDEntry("3", "Everyday World -Ballade Arrange- Yui Solo Ver.")
+        }
 
-    AlbumTrack(VGMDB_Album(96290), 1, "Diamond no Jundo", HayamiSaori, ToyamaNao) {
-        Music(0.6)
-    }
+        Entry {
+            id = "M-VGMDB-AL-96290"
+            title = "Diamond no Jundo"
 
-    // Oregairu has a pretty long meme reign
-    // but shared with Saekano and K-On!
-    val OregairuMeme = Meme(0.7, Meme.MMoreThan3Months)
-
-    // Inspired Hikism-Yukism
-    val HikismYukism = Info(Information.Politics)
-
-    Anime("Yahari Ore no Seishun Love Comedy wa Machigatteiru.", MAL = 14813) {
-        // Brain's Base drew Yukino better than Yui
-        bestGirl = "Yukinoshita Yukino"
-
-        Impact(HikismYukism)
-        Impact(OregairuMeme)
-        NEI(0.7, Emotion.AP)
-
-        FeatureMusic(VGMDB_Track(37932, 1))
-        FeatureMusic(VGMDB_Track(37999, 2))
-
-        Boredom(Boredom.Completed)
-    }
-
-    Anime("Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku", MAL = 23847) {
-        // feel. drew Yui better
-        bestGirl = "Yuigahama Yui"
-
-        Impact(HikismYukism)
-        Impact(OregairuMeme)
-        NEI(0.4, Emotion.AP)
-
-        // Oregairu S2 has a lot of drama that I don't even
-        // understand. But it's pretty good ngl.
-        AEI(3.0, Emotion.CU)
+            SubIDEntry("1") {
+                Music(3.0)
+            }
+        }
 
         // The Yui Depression, when I realize that the VSCC
         // (Volunteer Service Club Compoly) is not as good as
@@ -79,49 +55,88 @@ fun GenerateBlock.Oregairu() {
         // Read here for more details:
         // http://yaharianalysis.x10host.com/
         // (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php)
-        PADS(999, Emotion.CU)
+        PADS(999, Emotion.CU) {
+            contributors["M-VGMDB-AL-51394-3"] = 0.05
+            contributors["M-VGMDB-AL-37999-2"] = 0.05
+            contributors["A-MAL-14813"] = 0.1
+            contributors["A-MAL-23847"] = 0.8
+        }
+
+        // Hikism-Yukism
+        Politics {
+            contributors["A-MAL-14813"] = 0.6
+            contributors["A-MAL-23847"] = 0.4
+        }
+
+        Meme(0.7, Meme.MMoreThan3Months) {
+            contributors["A-MAL-14813"] = 0.4
+            contributors["A-MAL-23847"] = 0.6
+        }
 
         // VSCC is pretty comfy (before Yui Depression)
-        NEI(1.2, Emotion.MP)
+        NEI(6.0, Emotion.MP) {
+            contributors["A-MAL-14813"] = 0.3
+            contributors["A-MAL-23847"] = 0.7
+        }
 
-        FeatureMusic(VGMDB_Track(51516, 1))
-        FeatureMusic(VGMDB_Track(51394, 1))
-        FeatureMusic(VGMDB_Track(51394, 3))
+        Entry {
+            id = "A-MAL-14813"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
 
-        Boredom(Boredom.Completed)
-    }
+            // Brain's Base drew Yukino better than Yui
+            bestGirl = "Yukinoshita Yukino"
 
-    Anime("Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan", MAL = 39547) {
-        bestGirl = "Yuigahama Yui"
-        seasonal = true
+            NEI(2.5, Emotion.AP)
 
-        Meme(0.2, Meme.M1_3Days)
+            FeatureMusic("M-VGMDB-AL-37932-1")
+            FeatureMusic("M-VGMDB-AL-37999")
 
-        // Yui dead people arc was kinda good
-        // but Oregairu is just dead
-        // you can't do much about it
-        AEI(2.4, Emotion.CU)
-        NEI(0.2, Emotion.AP)
+            Boredom(Boredom.Completed)
+        }
 
-        // killed by lapis re lights lmao xd
-        KilledBy(MAL(37587))
+        Entry {
+            id = "A-MAL-23847"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
 
-        FeatureMusic(VGMDB_Track(96288, 1))
-        FeatureMusic(VGMDB_Track(96290, 1))
+            // feel. drew Yui better
+            bestGirl = "Yuigahama Yui"
 
-        Boredom(Boredom.Completed)
-    }
+            NEI(1.5, Emotion.AP)
 
-    Franchise(VGMDB_Franchise(3274), "Yahari Ore no Seishun Love Comedy wa Machigatteiru.") {
-        Include(MAL(14813))
-        Include(MAL(23847))
-        Include(MAL(39547))
-        Include(VGMDB_Track(37932, 1))
-        Include(VGMDB_Track(37999, 2))
-        Include(VGMDB_Track(51516, 1))
-        Include(VGMDB_Track(51394, 1))
-        Include(VGMDB_Track(51394, 3))
-        Include(VGMDB_Track(96288, 1))
-        Include(VGMDB_Track(96290, 1))
+            // Oregairu S2 has a lot of drama that I don't even
+            // understand. But it's pretty good ngl.
+            // (basically atmospheric-CU farm)
+            AEI(9.0, Emotion.CU)
+
+            FeatureMusic("M-VGMDB-AL-51516-1")
+            FeatureMusic("M-VGMDB-AL-51394-1")
+            FeatureMusic("M-VGMDB-AL-51394-3")
+
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-39547"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+
+            bestGirl = "Yuigahama Yui"
+            seasonal = true
+
+            Meme(0.2, Meme.M1_3Days)
+
+            // Yui dead people arc was kinda good
+            // but Oregairu is just dead
+            // you can't do much about it
+            AEI(4.0, Emotion.CU)
+            NEI(1.0, Emotion.AP)
+
+            // killed by lapis re lights lmao xd
+            KilledBy("A-MAL-37587")
+
+            FeatureMusic("M-VGMDB-AL-96288-1")
+            FeatureMusic("M-VGMDB-AL-96290-1")
+
+            Boredom(Boredom.Completed)
+        }
     }
 }

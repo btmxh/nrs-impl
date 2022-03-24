@@ -1,28 +1,54 @@
 package com.dah.nrs
 
-fun GenerateBlock.GakkouGurashi() {
-    AlbumTrack(VGMDB_Album(52993), 1, "Friend Shitai", MinaseInori, MAO, OzawaAri, TakahashiRie) {
-        Music(0.8)
-    }
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
 
-    Album(VGMDB_Album(53719), "SCHOOL-LIVE! Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)")
-    Track(VGMDB_Track(53719, 1), "Unhappy End World", TakahashiRie, OzawaAri) {
-        Music(1.25)
-    }
+fun DSLScope.GakkouGurashi() {
+    Entry {
+        id = "F-VGMDB-4000"
+        title = "Gakkougurashi!"
 
-    Anime("Gakkougurashi!", MAL = 24765) {
-        bestGirl = "Sakura Megumi"
-        // rip Megu-nee
-        Cry(Emotion.CU)
-        Meme(0.2, Meme.M4_7Days)
-        FeatureMusic(VGMDB_Track(53719, 1))
+        Entry {
+            id = "M-VGMDB-AL-52993"
+            title = "Friend Shitai"
 
-        Boredom(Boredom.Completed)
-    }
+            SubIDEntry("1") {
+                Music(3.0)
+                OsuSong(personal = 5.0)
+            }
+        }
 
-    Franchise(VGMDB_Franchise(4000), "Gakkougurashi!") {
-        Include(MAL(24765))
-        Include(VGMDB_Track(52993, 1))
-        Include(VGMDB_Track(53719, 1))
+        Entry {
+            id = "M-44"
+            title = "Gakuen Seikatsubu"
+
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-52993")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-53719"
+            title = "SCHOOL-LIVE! Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)"
+
+            SubIDEntry("1", "Unhappy End World") {
+                Music(5.0)
+            }
+        }
+
+        Entry {
+            id = "A-MAL-24765"
+            title = "Gakkougurashi!"
+
+            bestGirl = "Sakura Megumi"
+            // rip Megu-nee
+            Cry(Emotion.CU)
+            Meme(0.2, Meme.M4_7Days)
+            FeatureMusic("M-VGMDB-AL-52993-1")
+
+            Boredom(Boredom.Completed)
+        }
     }
 }
