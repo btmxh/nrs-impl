@@ -1,7 +1,12 @@
 package com.dah.nrs
 
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
 // the futuRe: of gen2
-fun GenerateBlock.Cue() {
+fun DSLScope.Cue() {
     Entry {
         id = "F-VGMDB-9540"
         title = "CUE!"
@@ -36,7 +41,7 @@ fun GenerateBlock.Cue() {
 
             Boredom(Boredom.Watching)
 
-            FeatureMusic("M-VGMDB-115724-1")
+            FeatureMusic("M-VGMDB-AL-115724-1")
 
             // duopoly shithole moment
             KilledBy("F-VGMDB-4499")

@@ -1,6 +1,13 @@
 package com.dah.nrs
 
-fun GenerateBlock.Charlotte() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.Boredom
+import com.dah.nrs.exts.Completed
+import com.dah.nrs.exts.Emotion
+import com.dah.nrs.exts.PADS
+
+fun DSLScope.Charlotte() {
     Entry {
         id = "F-VGMDB-3554"
         title = "Charlotte"

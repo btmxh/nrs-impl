@@ -1,9 +1,19 @@
 package com.dah.nrs
 
-fun GenerateBlock.Idolmaster() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Idolmaster() {
     Entry {
         id = "F-VGMDB-3559"
         title = "THE IDOLM@STER"
+
+        Entry {
+            id = "M-VGMDB-AR-32295"
+            title = "765 MILLION ALLSTARS"
+        }
 
         Entry {
             id = "M-VGMDB-AL-53945"

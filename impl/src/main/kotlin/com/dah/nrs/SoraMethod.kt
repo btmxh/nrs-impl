@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.SoraMethod() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.SoraMethod() {
     Entry {
         id = "F-VGMDB-2894"
         // method!!!!!!! mot con nguoi dc xay dung mot

@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.`K-On`() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.`K-On`() {
     Entry {
         id = "F-VGMDB-504"
         title = "K-On!"
@@ -73,7 +78,7 @@ fun GenerateBlock.`K-On`() {
             id = "A-MAL-5680"
             title = "K-On!"
             bestGirl = "Nakano Azusa"
-        
+
             Boredom(Boredom.CompletedWithNoticeableBoredom)
         }
 
@@ -81,7 +86,7 @@ fun GenerateBlock.`K-On`() {
             id = "A-MAL-7791"
             title = "K-On!!"
             bestGirl = "Nakano Azusa"
-        
+
             Boredom(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
@@ -90,7 +95,7 @@ fun GenerateBlock.`K-On`() {
         Entry {
             id = "A-MAL-9617"
             title = "K-On! Movie"
-        
+
             Boredom(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")
         }

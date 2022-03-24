@@ -1,6 +1,13 @@
 package com.dah.nrs
 
-fun GenerateBlock.OnsenMusume() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.ImageVocalContainFactor
+import com.dah.nrs.exts.Meme
+import com.dah.nrs.exts.Music
+
+fun DSLScope.OnsenMusume() {
     // le funny franchise, lack content therefore low score
     // translate stuff for me if u want score to go up
 

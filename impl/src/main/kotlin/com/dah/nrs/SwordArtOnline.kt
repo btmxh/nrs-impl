@@ -1,6 +1,12 @@
 package com.dah.nrs
 
-fun GenerateBlock.SwordArtOnline() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.Boredom
+import com.dah.nrs.exts.Completed
+import com.dah.nrs.exts.FeatureMusic
+
+fun DSLScope.SwordArtOnline() {
     Entry {
         id = "F-VGMDB-2633"
         title = "Sword Art Online"

@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.YuYuYu() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.YuYuYu() {
     // kirare - happy typhoon and u's - a song for yuyuyu reference
     // somewhat changed da world
     // the start line of the "pleasant revolution"

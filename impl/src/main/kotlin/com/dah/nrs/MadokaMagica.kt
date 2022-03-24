@@ -1,6 +1,12 @@
 package com.dah.nrs
 
-fun GenerateBlock.MadokaMagica() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.vector
+import com.dah.nrs.exts.*
+
+fun DSLScope.MadokaMagica() {
     // also include MagiReco
 
     Entry {
@@ -55,7 +61,7 @@ fun GenerateBlock.MadokaMagica() {
             }
         }
 
-        Contains("M-VGMDB-AL-69147-1")
+        Contains("M-VGMDB-AL-69147-11")
 
         Entry {
             id = "M-VGMDB-AL-113295"

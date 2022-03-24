@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.NagiAsu() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.NagiAsu() {
     Entry {
         id = "F-VGMDB-2662"
         title = "Nagi no Asu kara"

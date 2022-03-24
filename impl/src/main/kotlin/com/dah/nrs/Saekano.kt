@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.Saekano() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Saekano() {
     Entry {
         id = "F-VGMDB-3305"
         title = "Saenai Heroine no Sodatekata"
@@ -33,7 +38,7 @@ fun GenerateBlock.Saekano() {
         Entry {
             id = "A-MAL-23277"
             title = "Saenai Heroine no Sodatekata"
-            
+
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
             Boredom(Boredom.Completed)

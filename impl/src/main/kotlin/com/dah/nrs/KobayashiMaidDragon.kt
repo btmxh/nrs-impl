@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.KobayashiMaidDragon() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.KobayashiMaidDragon() {
     Entry {
         id = "F-VGMDB-8954"
         title = "Kobayashi-san Chi no Maid Dragon"

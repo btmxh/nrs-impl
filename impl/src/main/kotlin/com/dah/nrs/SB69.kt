@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.SB69() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.SB69() {
     // Almost every cat seems to enjoy catching birds.
     // But there is a cat, that wants to be a bird.
     // She wants to fly on that blue sky once painted pink.
@@ -147,12 +152,7 @@ fun GenerateBlock.SB69() {
             // basically the cat va in s4 focuses on moe more
             // than the fact that the cat is kinda reserved and shit
             // maybe chardev happened but didn't care + didn't ask for that
-            Impact {
-                description = "the cat va sucks in this season"
-                score = vector {
-                    set(Additional, -0.25)
-                }
-            }
+            AdditionalImpact("the cat va sucks in this season", -0.25)
 
             FeatureMusic("M-VGMDB-AL-104341-1")
             FeatureMusic("M-VGMDB-AL-104341-2")

@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.GakkouGurashi() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.GakkouGurashi() {
     Entry {
         id = "F-VGMDB-4000"
         title = "Gakkougurashi!"

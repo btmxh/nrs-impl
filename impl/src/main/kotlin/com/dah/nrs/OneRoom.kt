@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.OneRoom() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.OneRoom() {
     // (1) - - - - - - - (2)
     // (1)        (1)       (1)
     //    \        |        /
@@ -16,17 +21,19 @@ fun GenerateBlock.OneRoom() {
             id = "M-VGMDB-AL-63666"
             title = "harumachi clover"
 
-            // ME NO MAE NO TOBIRA O AKETARA HARU KAZE
-            // TORI TACHI MO KIGI DE MACHIAWASE
-            // KIMI E MUKAU SHINGOU AOZORA IRO
-            // KAKE DAZEBA II
-            // USOTSUKI KAKURITSU RON TOKA
-            // ICHI PURASU ICHI GA MUGEN TOKA
-            // OSHIETE KURETA KIMI TO SAGASHI NI YUKOU
-            // H A R U M A C H I   K U R O B A A A
-            Music(2.5)
-            OsuSong(personal = 6.0, community = 8.0)
-            Remix("M-37")
+            SubIDEntry("1") {
+                // ME NO MAE NO TOBIRA O AKETARA HARU KAZE
+                // TORI TACHI MO KIGI DE MACHIAWASE
+                // KIMI E MUKAU SHINGOU AOZORA IRO
+                // KAKE DAZEBA II
+                // USOTSUKI KAKURITSU RON TOKA
+                // ICHI PURASU ICHI GA MUGEN TOKA
+                // OSHIETE KURETA KIMI TO SAGASHI NI YUKOU
+                // H A R U M A C H I   K U R O B A A A
+                Music(2.5)
+                OsuSong(personal = 6.0, community = 8.0)
+                Remix("M-37")
+            }
         }
 
         Entry {

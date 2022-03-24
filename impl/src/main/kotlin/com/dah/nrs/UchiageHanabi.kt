@@ -1,10 +1,14 @@
 package com.dah.nrs
 
-fun GenerateBlock.UchiageHanabi() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.*
+
+fun DSLScope.UchiageHanabi() {
     Entry {
         id = "F-VGMDB-5919"
         title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
-        
+
         Entry {
             id = "A-MAL-34498"
             title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"

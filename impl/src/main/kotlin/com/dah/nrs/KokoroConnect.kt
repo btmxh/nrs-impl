@@ -1,13 +1,19 @@
 package com.dah.nrs
 
-fun GenerateBlock.KokoroConnect() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.KokoroConnect() {
     Entry {
         id = "F-VGMDB-3483"
         title = "Kokoro Connect"
 
         Entry {
             id = "M-VGMDB-AL-35431"
-            title = """Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song "Kimochi Signal" / Kizu Random Ending Theme Song "Cry out""""
+            title =
+                """Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song "Kimochi Signal" / Kizu Random Ending Theme Song "Cry out""""
 
             SubIDEntry("1", "Kimochi Signal") {
                 Music(1.5)

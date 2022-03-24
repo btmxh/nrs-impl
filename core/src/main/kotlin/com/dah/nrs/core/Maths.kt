@@ -1,20 +1,12 @@
-package com.dah.nrs
+package com.dah.nrs.core
 
 import kotlin.math.abs
 import kotlin.math.pow
 
 const val EPSILON = 1e-4
 
-@JvmInline
-value class ScoreVector(private val data: DoubleArray) {
-    companion object {
-        val ZERO = vector(0.0)
-        val ONE = vector(1.0)
-    }
-
-    init {
-        assert(data.size == FactorScores.size)
-    }
+class ScoreVector(private val data: DoubleArray) {
+    val dimensions get() = data.size
 
     private fun compWise(other: ScoreVector, callback: (first: Double, second: Double) -> Double) =
         data.zip(other.data).map { (first, second) -> callback(first, second) }.toScoreVector()
@@ -38,25 +30,20 @@ value class ScoreVector(private val data: DoubleArray) {
 fun dot(v1: ScoreVector, v2: ScoreVector) = (v1 * v2).sum()
 
 interface ScoreMatrix {
-    companion object {
-        val ZERO = object : ScoreMatrix {
-            override fun row(index: Int): ScoreVector {
-                return ScoreVector.ZERO
-            }
-        }
-
-        val IDENTITY: ScoreMatrix = DiagonalScoreMatrix(vector(1.0))
-    }
-
+    val dimensions: Int
     fun row(index: Int): ScoreVector
 
-    operator fun times(vector: ScoreVector) = FactorScores.indices.map { dot(vector, row(it)) }.toScoreVector()
+    operator fun times(vector: ScoreVector): ScoreVector {
+        return (0 until dimensions)
+            .map { dot(vector, row(it)) }
+            .toScoreVector()
+    }
 
-    fun toArray() : DoubleArray {
-        val data = Array(FactorScores.size) { row(it) }
-        return DoubleArray(FactorScores.size * FactorScores.size) {
-            val row = it / FactorScores.size
-            val col = it % FactorScores.size
+    fun toArray(): DoubleArray {
+        val data = Array(dimensions) { row(it) }
+        return DoubleArray(dimensions * dimensions) {
+            val row = it / dimensions
+            val col = it % dimensions
             data[row][col]
         }
     }
@@ -64,31 +51,29 @@ interface ScoreMatrix {
 
 private class DiagonalScoreMatrix(private val diagonal: ScoreVector) : ScoreMatrix {
     override fun row(index: Int): ScoreVector {
-        return vector {
-            this[index] = diagonal[index]
-        }
+        return ScoreVector(DoubleArray(diagonal.dimensions) { if (it == index) diagonal[it] else 0.0 })
     }
+
+    override val dimensions: Int
+        get() = diagonal.dimensions
 }
 
 fun ScoreVector.toDiagonalMatrix(): ScoreMatrix = DiagonalScoreMatrix(this)
+fun NRSContext.toScoreMatrix(data: DoubleArray): ScoreMatrix = DefaultScoreMatrix(
+    data.toList().windowed(factorCount, factorCount).map { it.toScoreVector() }.toTypedArray()
+)
 
 private class DefaultScoreMatrix(private val data: Array<ScoreVector>) : ScoreMatrix {
-    init {
-        assert(data.size == FactorScores.size)
-    }
+    override val dimensions: Int = data.size
 
     override fun row(index: Int) = data[index]
 }
 
-class VectorBlock {
-    private val array = DoubleArray(FactorScores.size)
+class VectorBlock(context: NRSContext) {
+    private val array = DoubleArray(context.factorCount)
 
     operator fun set(index: Int, value: Double) {
         array[index] = value
-    }
-
-    operator fun set(factorScore: FactorScore, value: Double) {
-        set(factorScore.vectorIndex, value)
     }
 
     operator fun get(index: Int) = array[index]
@@ -96,8 +81,8 @@ class VectorBlock {
     fun toScoreVector() = array.toScoreVector()
 }
 
-fun vector(block: VectorBlock.() -> Unit) = VectorBlock().also(block).toScoreVector()
-fun vector(scalar: Double) = ScoreVector(DoubleArray(FactorScores.size) { scalar })
+fun NRSContext.vector(block: VectorBlock.() -> Unit) = VectorBlock(this).also(block).toScoreVector()
+fun NRSContext.vector(scalar: Double) = ScoreVector(DoubleArray(factorCount) { scalar })
 
 private fun Collection<Double>.toScoreVector() = ScoreVector(toDoubleArray())
 private fun Array<Double>.toScoreVector() = ScoreVector(toDoubleArray())
@@ -122,17 +107,4 @@ fun combine(arr: Collection<Double>, weight: Double): Double {
 fun map(input: Double, inputRange: ClosedRange<Double>, outputRange: ClosedRange<Double>): Double {
     val lerpFactor = (input.coerceIn(inputRange) - inputRange.start) / (inputRange.endInclusive - inputRange.start)
     return (outputRange.endInclusive - outputRange.start) * lerpFactor + outputRange.start
-}
-
-fun mapClampThrow(
-    input: Double,
-    inputRange: ClosedRange<Double>,
-    outputRange: ClosedRange<Double>,
-    block: () -> String,
-): Double {
-    if(input !in inputRange) {
-        error(block())
-    }
-
-    return map(input, inputRange, outputRange)
 }

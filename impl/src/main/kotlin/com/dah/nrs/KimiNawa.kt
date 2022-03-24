@@ -1,6 +1,13 @@
 package com.dah.nrs
 
-fun GenerateBlock.KimiNawa() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.AdditionalImpact
+import com.dah.nrs.exts.Boredom
+import com.dah.nrs.exts.Completed
+import com.dah.nrs.exts.Meme
+
+fun DSLScope.KimiNawa() {
     Entry {
         id = "F-VGMDB-4615"
         title = "Kimi no Na wa"

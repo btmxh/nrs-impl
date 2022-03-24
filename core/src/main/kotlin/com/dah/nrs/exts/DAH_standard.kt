@@ -1,17 +1,33 @@
-package com.dah.nrs
+@file:Suppress("unused", "FunctionName")
 
-import kotlinx.serialization.json.*
+package com.dah.nrs.exts
+
+import com.dah.nrs.core.*
+import com.dah.nrs.dsl.*
+import kotlinx.serialization.json.addJsonObject
+import kotlinx.serialization.json.buildJsonArray
+import kotlinx.serialization.json.buildJsonObject
+import kotlinx.serialization.json.put
 import java.time.LocalDate
+import kotlin.math.pow
 import kotlin.math.tanh
+
+const val ChemistryBuffFactor = 0.25
 
 data class Level(val index: Int, val name: String, val value: Double)
 
-val Boredom.Completed get() = Level(0, "Completed", 1.0)
-val Boredom.CompletedWithNoticeableBoredom get() = Level(1, "Completed with noticeable boredom", 0.5)
-val Boredom.Dropped get() = Level(2, "Dropped", -1.0)
-val Boredom.Unwatched get() = Level(3, "Unwatched", 0.0)
-val Boredom.Watching get() = Level(4, "Watching", 0.75)
-val Boredom.TempOnHold get() = Level(5, "Temporarily On-Hold", -0.5)
+val Boredom.Completed
+    get() = Level(0, "Completed", 1.0)
+val Boredom.CompletedWithNoticeableBoredom
+    get() = Level(1, "Completed with noticeable boredom", 0.5)
+val Boredom.Dropped
+    get() = Level(2, "Dropped", -1.0)
+val Boredom.Unwatched
+    get() = Level(3, "Unwatched", 0.0)
+val Boredom.Watching
+    get() = Level(4, "Watching", 0.75)
+val Boredom.TempOnHold
+    get() = Level(5, "Temporarily On-Hold", -0.5)
 fun Boredom.PartiallyDropped(value: Double) = Level(6, "Partially dropped", value)
 
 object Meme {
@@ -27,11 +43,11 @@ object Meme {
 }
 
 fun AcceptImpact.Impact(block: DSLImpact.() -> Unit) {
-    acceptImpact(DSLImpact().also(block))
+    acceptImpact(DSLImpact(context).also(block))
 }
 
 fun AcceptRelation.Relation(block: DSLRelation.() -> Unit) {
-    acceptRelation(DSLRelation().also(block))
+    acceptRelation(DSLRelation(context).also(block))
 }
 
 // we calculate the inverse combine of emotion contributing factors
@@ -39,18 +55,18 @@ fun AcceptRelation.Relation(block: DSLRelation.() -> Unit) {
 // the following property:
 // combine(PADSImpactScoreVector, Emotion.weight) = 1.0
 // multiply this vector by `x` to change 1.0 to x in the above property
-private fun emotionVector(vararg emotions: Pair<Emotion.Factor, Double>): ScoreVector {
+private fun emotionVector(context: NRSContext, vararg emotions: Pair<Emotion.Factor, Double>): ScoreVector {
     val contributingFactors = emotions.map { it.second }
     val combinedFactor = combine(contributingFactors, Emotion.weight)
     val baseScore = 1.0 / combinedFactor
 
-    return vector {
+    return context.vector {
         emotions.forEach { (factor, weight) -> set(factor, baseScore * weight) }
     }
 }
 
 private fun DSLImpact.emotion(baseScore: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
-    score = emotionVector(*emotions) * baseScore
+    score = emotionVector(context, *emotions) * baseScore
     meta("emotions", buildJsonObject {
         emotions.forEach { (factor, weight) -> put(factor.name, weight) }
     })
@@ -113,8 +129,10 @@ fun AcceptImpact.NEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double
 fun AcceptImpact.Cry(emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) = Cry(emotion to 1.0) { block() }
 fun AcceptImpact.PADS(length: Int, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) =
     PADS(length, emotion to 1.0) { block() }
+
 fun AcceptImpact.AEI(score: Double, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) =
     AEI(score, emotion to 1.0) { block() }
+
 fun AcceptImpact.NEI(score: Double, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) =
     NEI(score, emotion to 1.0) { block() }
 
@@ -247,7 +265,7 @@ fun AcceptImpact.Boredom(boredomLevel: Level, block: DSLImpact.() -> Unit = {}) 
 }
 
 fun AcceptImpact.Meme(strength: Double, duration: Level, block: DSLImpact.() -> Unit = {}) {
-    if(strength !in 0.0 .. 1.0) {
+    if (strength !in 0.0..1.0) {
         error("$strength not in range 0..1")
     }
     Impact {
@@ -273,4 +291,104 @@ fun AcceptImpact.AdditionalImpact(description: String, value: Double, block: DSL
         meta("type", "additional")
         block()
     }
+}
+
+fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
+    Impact {
+        description = "Music"
+        score = vector {
+            set(Art.Music, mapClampThrow(musicScore, 0.0..10.0, 0.0..3.0) {
+                "$musicScore not in range 0..10"
+            })
+        }
+        meta("type", "NONSTD_music")
+        meta("input_score", musicScore)
+        block()
+    }
+}
+
+fun MusicContainFactor(rate: Double) = rate.pow(1.0 / ChemistryBuffFactor)
+fun MusicContainFactor(numEntries: Int, numContributeEntries: Int) =
+    MusicContainFactor(numEntries.toDouble() / numContributeEntries)
+
+fun AcceptImpact.OsuSong(personal: Double = 0.0, community: Double = 0.0) {
+    val personalFactor = mapClampThrow(personal, 0.0..10.0, 0.0..0.5) {
+        "$personal not in range 0..10"
+    }
+
+    val communityFactor = mapClampThrow(community, 0.0..10.0, 0.0..0.2) {
+        "$community not in range 0..10"
+    }
+
+    Impact {
+        description = "osu! song"
+        score = vector {
+            set(Emotion.AP, personalFactor + communityFactor)
+        }
+        meta("type", "NONSTD_osu_song")
+        meta("personal_input", personal)
+        meta("community_input", community)
+        meta("personal_factor", personalFactor)
+        meta("community_factor", communityFactor)
+    }
+}
+
+fun AcceptRelation.Remix(id: String, block: DSLRelation.() -> Unit = {}) {
+    Relation {
+        references[id] = vector(0.2).toDiagonalMatrix()
+        block()
+    }
+}
+
+fun AcceptRelation.FeatureMusic(id: String, block: DSLRelation.() -> Unit = {}) {
+    Relation {
+        references[id] = vector {
+            set(Art.Music, 0.2)
+        }.toDiagonalMatrix()
+        block()
+    }
+}
+
+fun AcceptRelation.KilledBy(id: String, block: DSLRelation.() -> Unit = {}) {
+    Relation {
+        references[id] = vector {
+            set(Emotion.AP, 0.2)
+            set(Emotion.AU, 0.1)
+            set(Emotion.CP, 0.05)
+            set(Emotion.CU, 0.05)
+            set(Emotion.MP, 0.2)
+            set(Emotion.MU, 0.1)
+
+            set(Art.Illustration, 0.1)
+            set(Art.Language, 0.1)
+            set(Art.Music, 0.05)
+
+            set(Information.Politics, 0.0)
+            set(Information.GeneralInfo, 0.0)
+
+            set(Boredom, 0.1)
+            set(Additional, 0.0)
+        }.toDiagonalMatrix()
+        block()
+    }
+}
+
+@Suppress("unused")
+fun AcceptRelation.GateOpen(id: String, block: DSLRelation.() -> Unit = {}) {
+    // TODO: a good gateopen impl
+}
+
+const val ImageVocalContainFactor = 0.8
+
+fun mapClampThrow(
+    input: Double,
+    inputRange: ClosedRange<Double>,
+    outputRange: ClosedRange<Double>,
+    block: () -> String,
+): Double {
+    if (input !in inputRange) {
+        error(block())
+    }
+
+    return map(input, inputRange, outputRange)
 }

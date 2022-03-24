@@ -1,6 +1,10 @@
 package com.dah.nrs
 
-fun GenerateBlock.TariTari() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.*
+
+fun DSLScope.TariTari() {
     Entry {
         id = "F-VGMDB-4296"
         title = "TARI TARI"

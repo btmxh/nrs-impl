@@ -1,6 +1,14 @@
 package com.dah.nrs
 
-fun GenerateBlock.CommonArtists() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.ImageVocalContainFactor
+import com.dah.nrs.exts.Music
+import com.dah.nrs.exts.OsuSong
+import com.dah.nrs.exts.Remix
+
+fun DSLScope.CommonArtists() {
     Entry {
         id = "M-1"
         title = "Asterisk"
@@ -59,7 +67,7 @@ fun GenerateBlock.CommonArtists() {
         Contains("M-44", 1.0 / 4)
 
         Contains(ImageVocalContainFactor) {
-            Contains("M-VGMDB-AL-53719-2")
+            Contains("M-VGMDB-AL-53719-1", 0.5)
             Contains("M-VGMDB-AL-82983-5")
         }
     }
@@ -212,7 +220,7 @@ fun GenerateBlock.CommonArtists() {
                 id = "M-VGMDB-AL-69147"
                 title = "TAILWIND"
 
-                SubIDEntry("1", "Kakawari") {
+                SubIDEntry("11", "Kakawari") {
                     Music(6.0)
                 }
             }
@@ -221,9 +229,7 @@ fun GenerateBlock.CommonArtists() {
             Contains("M-VGMDB-AL-95029")
 
             // 765 MILLION ALLSTARS
-            Contains(3.0 / 51.0) {
-
-            }
+            Contains("M-VGMDB-AR-32295", 3.0 / 51.0)
         }
     }
 
@@ -428,8 +434,8 @@ fun GenerateBlock.CommonArtists() {
             }
 
             // oregairu solo songs
-            Contains("M-VGMDB-AL-51394-2")
-            Contains("M-VGMDB-AL-96290-3")
+            Contains("M-VGMDB-AL-51394-3")
+            Contains("M-VGMDB-AL-37999-2")
         }
     }
 
@@ -604,9 +610,11 @@ fun GenerateBlock.CommonArtists() {
 
         // vocal: ImageVocalContainFactor * 0.2
         // music + lyrics + arrangement: 0.5 * (1.0 - ImageVocalContainFactor)
-        Contains("M-VGMDB-AL-69257",
+        Contains(
+            "M-VGMDB-AL-69257",
             ImageVocalContainFactor * 0.2 +
-            0.5 * (1.0 - ImageVocalContainFactor))
+                    0.5 * (1.0 - ImageVocalContainFactor)
+        )
     }
 
     Entry {
@@ -682,7 +690,7 @@ fun GenerateBlock.CommonArtists() {
 
         // t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐
         Contains(ImageVocalContainFactor) {
-            Contains("M-51", 1.0 / 9.0)
+            Contains("M-50", 1.0 / 9.0)
             Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
         }
     }

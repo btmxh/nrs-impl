@@ -1,6 +1,15 @@
 package com.dah.nrs
 
-fun GenerateBlock.JMetal() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.vector
+import com.dah.nrs.exts.Art
+import com.dah.nrs.exts.Impact
+import com.dah.nrs.exts.Music
+import com.dah.nrs.exts.set
+
+fun DSLScope.JMetal() {
     Entry {
         id = "M-VGMDB-AR-8482"
         title = "Foreground Eclipse"

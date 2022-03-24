@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.Oregairu() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Oregairu() {
     Entry {
         id = "F-VGMDB-3274"
         title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
@@ -31,6 +36,7 @@ fun GenerateBlock.Oregairu() {
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
             }
 
+            SubIDEntry("1", "Everyday World")
             SubIDEntry("3", "Everyday World -Ballade Arrange- Yui Solo Ver.")
         }
 
@@ -50,8 +56,8 @@ fun GenerateBlock.Oregairu() {
         // http://yaharianalysis.x10host.com/
         // (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php)
         PADS(999, Emotion.CU) {
-            contributors["M-VGMDB-AL-51394-2"] = 0.05
-            contributors["M-VGMDB-AL-96290-3"] = 0.05
+            contributors["M-VGMDB-AL-51394-3"] = 0.05
+            contributors["M-VGMDB-AL-37999-2"] = 0.05
             contributors["A-MAL-14813"] = 0.1
             contributors["A-MAL-23847"] = 0.8
         }

@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.Sakurasou() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Sakurasou() {
     Entry {
         id = "F-VGMDB-2090"
         title = "Sakurasou no Pet na Kanojo"

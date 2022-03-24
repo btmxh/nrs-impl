@@ -1,5 +1,11 @@
 package com.dah.nrs
 
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.vector
+import com.dah.nrs.exts.*
+
 // niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12
 // so the contain factor of the 9 original girls will be 1.5x the new girls
 // doing the math, we got these:
@@ -7,7 +13,7 @@ private const val NijiNewOldRate = 1.5
 val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
 val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
-fun GenerateBlock.LoveLive() {
+fun DSLScope.LoveLive() {
     Entry {
         id = "F-VGMDB-2588"
         title = "Love Live!"
@@ -365,7 +371,7 @@ fun GenerateBlock.LoveLive() {
         }
 
         // arc 2 - the girl without screentime
-        NEI(5.0, Emotion.AU to 0.3, Emotion.CU to 0.6, Emotion.AP to 0.1) {
+        NEI(8.0, Emotion.AU to 0.5, Emotion.CU to 0.4, Emotion.AP to 0.1) {
             contributors["A-MAL-40879"] = 0.8
             contributors["M-VGMDB-AL-43320-8"] = 0.1
             contributors["M-VGMDB-AL-34269-7"] = 0.1

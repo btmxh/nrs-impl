@@ -1,0 +1,5024 @@
+{
+  "M-VGMDB-AL-99272": {
+    "id": "M-VGMDB-AL-99272",
+    "children": {
+      "M-VGMDB-AL-99272-12": 1.0,
+      "M-VGMDB-AL-99272-1": 1.0,
+      "M-VGMDB-AL-99272-3": 1.0,
+      "M-VGMDB-AL-99272-7": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Just Believe!!!"
+    }
+  },
+  "M-VGMDB-AL-78575": {
+    "id": "M-VGMDB-AL-78575",
+    "children": {
+      "M-VGMDB-AL-78575-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Natsu no Yakusoku"
+    }
+  },
+  "M-VGMDB-AL-42900-3": {
+    "id": "M-VGMDB-AL-42900-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "nagi"
+    }
+  },
+  "M-VGMDB-AL-42900-1": {
+    "id": "M-VGMDB-AL-42900-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "ebb and flow"
+    }
+  },
+  "M-VGMDB-AL-95029-1": {
+    "id": "M-VGMDB-AL-95029-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gomakashi"
+    }
+  },
+  "M-VGMDB-AL-114399": {
+    "id": "M-VGMDB-AL-114399",
+    "children": {
+      "M-VGMDB-AL-114399-8": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "BanG Dream! Girls Band Party! Cover collection vol.6"
+    }
+  },
+  "M-VGMDB-AL-78339": {
+    "id": "M-VGMDB-AL-78339",
+    "children": {
+      "M-VGMDB-AL-78339-1": 1.0,
+      "M-VGMDB-AL-78339-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "＊Heart Confusion＊"
+    }
+  },
+  "M-VGMDB-AL-41292": {
+    "id": "M-VGMDB-AL-41292",
+    "children": {
+      "M-VGMDB-AL-41292-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful"
+    }
+  },
+  "M-VGMDB-AL-58147-1": {
+    "id": "M-VGMDB-AL-58147-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aozora Jumping Heart"
+    }
+  },
+  "M-VGMDB-AL-102281": {
+    "id": "M-VGMDB-AL-102281",
+    "children": {
+      "M-VGMDB-AL-102281-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
+    }
+  },
+  "M-VGMDB-AR-30829": {
+    "id": "M-VGMDB-AR-30829",
+    "children": {
+      "M-VGMDB-AL-78536": 0.8,
+      "M-VGMDB-AL-78534": 0.8,
+      "M-VGMDB-AL-78575": 0.8,
+      "M-VGMDB-AL-78532": 0.8,
+      "M-VGMDB-AL-78530-1": 0.8,
+      "M-VGMDB-AL-78516": 0.8,
+      "M-VGMDB-AL-78764": 0.8,
+      "M-VGMDB-AL-84229": 0.8,
+      "M-VGMDB-AL-86622": 0.8,
+      "M-VGMDB-AL-89363": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "KiRaRe"
+    }
+  },
+  "M-VGMDB-AL-104341": {
+    "id": "M-VGMDB-AL-104341",
+    "children": {
+      "M-VGMDB-AL-104341-1": 1.0,
+      "M-VGMDB-AL-104341-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Do Re Mi Fa STARS!!/Hoshizora Light Story"
+    }
+  },
+  "M-VGMDB-AL-104418-1": {
+    "id": "M-VGMDB-AL-104418-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Good Day by Day"
+    }
+  },
+  "M-VGMDB-AL-81504": {
+    "id": "M-VGMDB-AL-81504",
+    "children": {
+      "M-VGMDB-AL-81504-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "KIZUNA MUSIC♪"
+    }
+  },
+  "A-MAL-11887": {
+    "id": "A-MAL-11887",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kokoro Connect"
+    }
+  },
+  "M-47": {
+    "id": "M-47",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tamame - Ebb and Flow (5 years after remix)"
+    }
+  },
+  "M-VGMDB-AL-41280-1": {
+    "id": "M-VGMDB-AL-41280-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aqua Terrarium"
+    }
+  },
+  "M-46": {
+    "id": "M-46",
+    "children": {
+      "M-VGMDB-AL-58627": 0.8,
+      "M-VGMDB-AL-68225": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "fourfolium"
+    }
+  },
+  "M-VGMDB-AR-8870": {
+    "id": "M-VGMDB-AR-8870",
+    "children": {
+      "M-VGMDB-AL-20118": 0.8,
+      "M-VGMDB-AL-21146": 0.8,
+      "M-VGMDB-AL-22848": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "HO-KAGO TEA TIME"
+    }
+  },
+  "M-45": {
+    "id": "M-45",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Snow Halation (feat. BeasttrollMC)"
+    }
+  },
+  "M-VGMDB-AL-51254-1": {
+    "id": "M-VGMDB-AL-51254-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stella-rium"
+    }
+  },
+  "M-44": {
+    "id": "M-44",
+    "children": {
+      "M-VGMDB-AL-52993": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gakuen Seikatsubu"
+    }
+  },
+  "A-MAL-19111": {
+    "id": "A-MAL-19111",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! School Idol Project 2nd Season"
+    }
+  },
+  "M-VGMDB-AR-8874": {
+    "id": "M-VGMDB-AR-8874",
+    "children": {
+      "M-9": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sato Satomi"
+    }
+  },
+  "M-49": {
+    "id": "M-49",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sore wa Kitto Natsudatta"
+    }
+  },
+  "M-48": {
+    "id": "M-48",
+    "children": {
+      "M-VGMDB-AL-109271-48": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:STAGE! ALL IDOL"
+    }
+  },
+  "M-VGMDB-AL-78530-1": {
+    "id": "M-VGMDB-AL-78530-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Do it!! PARTY!!"
+    }
+  },
+  "M-VGMDB-AL-41280": {
+    "id": "M-VGMDB-AL-41280",
+    "children": {
+      "M-VGMDB-AL-41280-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aqua Terrarium"
+    }
+  },
+  "M-VGMDB-AL-33537": {
+    "id": "M-VGMDB-AL-33537",
+    "children": {
+      "M-VGMDB-AL-33537-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "crossing field"
+    }
+  },
+  "A-MAL-11757": {
+    "id": "A-MAL-11757",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sword Art Online"
+    }
+  },
+  "A-MAL-33206": {
+    "id": "A-MAL-33206",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kobayashi-san Chi no Maid Dragon"
+    }
+  },
+  "M-VGMDB-AL-41278": {
+    "id": "M-VGMDB-AL-41278",
+    "children": {
+      "M-VGMDB-AL-41278-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "lull ~Soshite Bokura wa~"
+    }
+  },
+  "F-VGMDB-3483": {
+    "id": "F-VGMDB-3483",
+    "children": {
+      "M-VGMDB-AL-35431": 1.0,
+      "A-MAL-11887": 1.0,
+      "A-MAL-16001": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kokoro Connect"
+    }
+  },
+  "M-50": {
+    "id": "M-50",
+    "children": {
+      "M-VGMDB-AL-114102": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "9-tie"
+    }
+  },
+  "M-VGMDB-AL-102277": {
+    "id": "M-VGMDB-AL-102277",
+    "children": {
+      "M-VGMDB-AL-102277-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "NEO SKY, NEO MAP!"
+    }
+  },
+  "M-VGMDB-AR-6783": {
+    "id": "M-VGMDB-AR-6783",
+    "children": {
+      "M-VGMDB-AL-114186": 0.16000000000000003
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hanazawa Kana"
+    }
+  },
+  "M-VGMDB-AL-102276": {
+    "id": "M-VGMDB-AL-102276",
+    "children": {
+      "M-VGMDB-AL-102276-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Nijiiro Passions!"
+    }
+  },
+  "M-VGMDB-AR-27992": {
+    "id": "M-VGMDB-AR-27992",
+    "children": {
+      "M-VGMDB-AL-60358": 0.8,
+      "M-VGMDB-AL-63624": 0.8,
+      "M-VGMDB-AL-81504": 0.8,
+      "M-VGMDB-AL-111089": 0.8,
+      "M-VGMDB-AL-74133": 0.8,
+      "M-VGMDB-AL-95118": 0.8,
+      "M-VGMDB-AL-106577-1": 0.6
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Poppin'Party"
+    }
+  },
+  "F-VGMDB-3245": {
+    "id": "F-VGMDB-3245",
+    "children": {
+      "M-VGMDB-AL-69821-1": 1.0,
+      "M-VGMDB-AL-47678": 1.0,
+      "M-VGMDB-AL-114186": 1.0,
+      "A-MAL-25519": 1.0,
+      "L-MAL-90810": 1.0,
+      "A-MAL-34284": 1.0,
+      "A-MAL-34445": 1.0,
+      "A-MAL-42587": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuusha de Aru"
+    }
+  },
+  "M-VGMDB-AR-27993": {
+    "id": "M-VGMDB-AR-27993",
+    "children": {
+      "M-VGMDB-AL-85172": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Roselia"
+    }
+  },
+  "M-VGMDB-AL-20118": {
+    "id": "M-VGMDB-AL-20118",
+    "children": {
+      "M-VGMDB-AL-20118-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Utauyo!!MIRACLE"
+    }
+  },
+  "A-MAL-35507": {
+    "id": "A-MAL-35507",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
+    }
+  },
+  "M-51": {
+    "id": "M-51",
+    "children": {
+      "M-VGMDB-AL-104957": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "LiGHTs"
+    }
+  },
+  "M-VGMDB-AL-41292-1": {
+    "id": "M-VGMDB-AL-41292-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful"
+    }
+  },
+  "M-VGMDB-AL-34411": {
+    "id": "M-VGMDB-AL-34411",
+    "children": {
+      "M-VGMDB-AL-34411-6": 1.0,
+      "M-VGMDB-AL-34411-11": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aimai Bambina"
+    }
+  },
+  "M-VGMDB-AL-52045": {
+    "id": "M-VGMDB-AL-52045",
+    "children": {
+      "M-VGMDB-AL-52045-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CANDY MAGIC"
+    }
+  },
+  "M-VGMDB-AR-15766": {
+    "id": "M-VGMDB-AR-15766",
+    "children": {
+      "M-VGMDB-AL-52045": 0.8,
+      "M-VGMDB-AL-59371": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "mimimemeMIMI"
+    }
+  },
+  "M-VGMDB-AL-94913": {
+    "id": "M-VGMDB-AL-94913",
+    "children": {
+      "M-VGMDB-AL-94913-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "My pace!!"
+    }
+  },
+  "M-VGMDB-AL-95369-1": {
+    "id": "M-VGMDB-AL-95369-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hello / How are you"
+    }
+  },
+  "M-VGMDB-AL-59914": {
+    "id": "M-VGMDB-AL-59914",
+    "children": {
+      "M-VGMDB-AL-59914-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Do Re Mi Fa PARTY"
+    }
+  },
+  "F-VGMDB-3370": {
+    "id": "F-VGMDB-3370",
+    "children": {
+      "A-MAL-28677": 1.0,
+      "M-VGMDB-AL-51918-1": 1.0,
+      "M-VGMDB-AL-52045-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yamada-kun to 7-nin no Majo"
+    }
+  },
+  "M-VGMDB-AR-26898": {
+    "id": "M-VGMDB-AR-26898",
+    "children": {
+      "M-VGMDB-AR-30829": 0.16666666666666666,
+      "M-VGMDB-AR-29922": 0.09090909090909091
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kito Akari"
+    }
+  },
+  "M-VGMDB-AR-29922": {
+    "id": "M-VGMDB-AR-29922",
+    "children": {
+      "M-VGMDB-AL-102276": 0.8,
+      "M-VGMDB-AL-102277": 0.8,
+      "M-VGMDB-AL-80802-1": 0.8,
+      "M-VGMDB-AL-87198-1": 0.8,
+      "M-VGMDB-AL-99272-12": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Nijigasaki High School Idol Club"
+    }
+  },
+  "F-VGMDB-7970": {
+    "id": "F-VGMDB-7970",
+    "children": {
+      "A-MAL-37587": 1.0,
+      "M-51": 1.0,
+      "M-VGMDB-AL-104957": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Lapis Re:LiGHTs"
+    }
+  },
+  "M-VGMDB-AR-4276": {
+    "id": "M-VGMDB-AR-4276",
+    "children": {
+      "M-41": 0.5,
+      "M-VGMDB-AL-86622-2": 0.05
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "yuiko"
+    }
+  },
+  "M-VGMDB-AL-97601-1": {
+    "id": "M-VGMDB-AL-97601-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Truths, Ironies, The Secret Lyrics"
+    }
+  },
+  "M-VGMDB-AL-100087": {
+    "id": "M-VGMDB-AL-100087",
+    "children": {
+      "M-VGMDB-AL-100087-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "How To Fly"
+    }
+  },
+  "A-MAL-14813": {
+    "id": "A-MAL-14813",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    }
+  },
+  "M-VGMDB-AL-24725": {
+    "id": "M-VGMDB-AL-24725",
+    "children": {
+      "M-VGMDB-AL-24725-4": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"
+    }
+  },
+  "M-VGMDB-AL-61217-1": {
+    "id": "M-VGMDB-AL-61217-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Heart wo Rock!!"
+    }
+  },
+  "M-VGMDB-AL-100082": {
+    "id": "M-VGMDB-AL-100082",
+    "children": {
+      "M-VGMDB-AL-100082-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mirai Wanted"
+    }
+  },
+  "M-VGMDB-AL-61982-1": {
+    "id": "M-VGMDB-AL-61982-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hanate! Dododon!"
+    }
+  },
+  "M-VGMDB-AR-15998": {
+    "id": "M-VGMDB-AR-15998",
+    "children": {
+      "M-13": 0.5,
+      "M-44": 0.25,
+      "M-VGMDB-AL-53719-1": 0.4,
+      "M-VGMDB-AL-82983-5": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ozawa Ari"
+    }
+  },
+  "A-MAL-41169": {
+    "id": "A-MAL-41169",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! Superstar!!"
+    }
+  },
+  "M-VGMDB-AL-51278-1": {
+    "id": "M-VGMDB-AL-51278-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tabiji Yoiyoi Yume Hanabi"
+    }
+  },
+  "M-VGMDB-AR-13211": {
+    "id": "M-VGMDB-AR-13211",
+    "children": {
+      "M-9": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Taneda Risa"
+    }
+  },
+  "M-VGMDB-AL-89431": {
+    "id": "M-VGMDB-AL-89431",
+    "children": {
+      "M-VGMDB-AL-89431-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Signal"
+    }
+  },
+  "M-VGMDB-AL-114186": {
+    "id": "M-VGMDB-AL-114186",
+    "children": {
+      "M-VGMDB-AL-114186-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ashita no Hanatachi"
+    }
+  },
+  "M-VGMDB-AL-78575-1": {
+    "id": "M-VGMDB-AL-78575-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Natsu no Yakusoku"
+    }
+  },
+  "M-VGMDB-AR-26886": {
+    "id": "M-VGMDB-AR-26886",
+    "children": {
+      "M-VGMDB-AL-51918": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "WEAVER"
+    }
+  },
+  "M-VGMDB-AL-75344-4": {
+    "id": "M-VGMDB-AL-75344-4",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ohayou Japonika"
+    }
+  },
+  "F-VGMDB-8954": {
+    "id": "F-VGMDB-8954",
+    "children": {
+      "M-VGMDB-AL-62516": 1.0,
+      "M-VGMDB-AL-110219": 1.0,
+      "A-MAL-33206": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kobayashi-san Chi no Maid Dragon"
+    }
+  },
+  "M-VGMDB-AL-75344-3": {
+    "id": "M-VGMDB-AL-75344-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SILENT VOICES"
+    }
+  },
+  "M-VGMDB-AL-75344-5": {
+    "id": "M-VGMDB-AL-75344-5",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sayonara Hanabi"
+    }
+  },
+  "A-MAL-35608": {
+    "id": "A-MAL-35608",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+    }
+  },
+  "M-VGMDB-AL-75344-2": {
+    "id": "M-VGMDB-AL-75344-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Romance no Ringo"
+    }
+  },
+  "M-VGMDB-AL-75344-1": {
+    "id": "M-VGMDB-AL-75344-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Junjou -SAKURA-"
+    }
+  },
+  "M-VGMDB-AL-53719-1": {
+    "id": "M-VGMDB-AL-53719-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Unhappy End World"
+    }
+  },
+  "A-MAL-42587": {
+    "id": "A-MAL-42587",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"
+    }
+  },
+  "M-VGMDB-AL-78530": {
+    "id": "M-VGMDB-AL-78530",
+    "children": {
+      "M-VGMDB-AL-78530-1": 1.0,
+      "M-VGMDB-AL-78534-1": 1.0,
+      "M-VGMDB-AL-78534-2": 1.0,
+      "M-VGMDB-AL-78575-1": 1.0,
+      "M-VGMDB-AL-78532-1": 1.0,
+      "M-VGMDB-AL-78536-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "KiRaRhythm"
+    }
+  },
+  "M-VGMDB-AL-78532": {
+    "id": "M-VGMDB-AL-78532",
+    "children": {
+      "M-VGMDB-AL-78532-1": 1.0,
+      "M-VGMDB-AL-78575-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Akogare Future Sign"
+    }
+  },
+  "A-MAL-21881": {
+    "id": "A-MAL-21881",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sword Art Online II"
+    }
+  },
+  "M-VGMDB-AL-78534": {
+    "id": "M-VGMDB-AL-78534",
+    "children": {
+      "M-VGMDB-AL-78534-1": 1.0,
+      "M-VGMDB-AL-78534-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Remembers!"
+    }
+  },
+  "M-VGMDB-AL-78520-2": {
+    "id": "M-VGMDB-AL-78520-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Dear My Friend"
+    }
+  },
+  "M-VGMDB-AL-116297-1": {
+    "id": "M-VGMDB-AL-116297-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Bokura no Neiro"
+    }
+  },
+  "M-VGMDB-AL-78536": {
+    "id": "M-VGMDB-AL-78536",
+    "children": {
+      "M-VGMDB-AL-78536-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Startin' My Re:STAGE!!"
+    }
+  },
+  "M-VGMDB-AL-78520-1": {
+    "id": "M-VGMDB-AL-78520-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Purple Rays"
+    }
+  },
+  "M-VGMDB-AL-111089": {
+    "id": "M-VGMDB-AL-111089",
+    "children": {
+      "M-VGMDB-AL-111089-5": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Live Beyond!!"
+    }
+  },
+  "M-VGMDB-AL-104266": {
+    "id": "M-VGMDB-AL-104266",
+    "children": {
+      "M-VGMDB-AL-104266-3": 1.0,
+      "M-VGMDB-AL-104266-6": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.1"
+    }
+  },
+  "M-VGMDB-AR-6876": {
+    "id": "M-VGMDB-AR-6876",
+    "children": {
+      "M-VGMDB-AL-37999-1": 0.4,
+      "M-VGMDB-AL-51394-1": 0.4,
+      "M-VGMDB-AL-96290-1": 0.4
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hayami Saori"
+    }
+  },
+  "M-VGMDB-AL-104267": {
+    "id": "M-VGMDB-AL-104267",
+    "children": {
+      "M-VGMDB-AL-104267-5": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.2"
+    }
+  },
+  "M-VGMDB-AL-91985": {
+    "id": "M-VGMDB-AL-91985",
+    "children": {
+      "M-VGMDB-AL-91985-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Utsuroi"
+    }
+  },
+  "M-VGMDB-AL-22848": {
+    "id": "M-VGMDB-AL-22848",
+    "children": {
+      "M-VGMDB-AL-22848-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gohan wa Okazu/U&I"
+    }
+  },
+  "M-VGMDB-AL-64249": {
+    "id": "M-VGMDB-AL-64249",
+    "children": {
+      "M-VGMDB-AL-64249-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER CINDERELLA MASTER EVERMORE"
+    }
+  },
+  "F-VGMDB-3554": {
+    "id": "F-VGMDB-3554",
+    "children": {
+      "A-MAL-28999": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Charlotte"
+    }
+  },
+  "F-VGMDB-2588": {
+    "id": "F-VGMDB-2588",
+    "children": {
+      "M-VGMDB-AL-34051": 1.0,
+      "M-VGMDB-AL-36547": 1.0,
+      "M-VGMDB-AL-75504": 1.0,
+      "M-VGMDB-AL-93532": 1.0,
+      "M-VGMDB-AR-13719": 1.0,
+      "M-VGMDB-AL-58147": 1.0,
+      "M-VGMDB-AL-58750": 1.0,
+      "M-VGMDB-AL-70622": 1.0,
+      "M-VGMDB-AL-71404": 1.0,
+      "M-VGMDB-AL-78378": 1.0,
+      "M-VGMDB-AL-87199": 1.0,
+      "M-VGMDB-AR-17153": 1.0,
+      "M-VGMDB-AL-97692": 1.0,
+      "M-VGMDB-AL-102276": 1.0,
+      "M-VGMDB-AL-102277": 1.0,
+      "M-VGMDB-AR-29922": 1.0,
+      "M-VGMDB-AL-80802": 1.0,
+      "M-VGMDB-AL-87198": 1.0,
+      "M-VGMDB-AL-99272": 1.0,
+      "M-VGMDB-AL-112929": 1.0,
+      "M-VGMDB-AL-102281": 1.0,
+      "M-VGMDB-AL-104783": 1.0,
+      "M-VGMDB-AR-37385": 1.0,
+      "A-MAL-15051": 1.0,
+      "A-MAL-19111": 1.0,
+      "A-MAL-24997": 1.0,
+      "A-MAL-32526": 1.0,
+      "A-MAL-34973": 1.0,
+      "A-MAL-37027": 1.0,
+      "A-MAL-40879": 1.0,
+      "A-MAL-41169": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live!"
+    }
+  },
+  "M-VGMDB-AL-61981-3": {
+    "id": "M-VGMDB-AL-61981-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Close to you (Cyan ver.)"
+    }
+  },
+  "M-VGMDB-AL-59371-3": {
+    "id": "M-VGMDB-AL-59371-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CANDY MAGIC ~Piano Live Version~"
+    }
+  },
+  "M-VGMDB-AL-39170": {
+    "id": "M-VGMDB-AL-39170",
+    "children": {
+      "M-VGMDB-AL-39170-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"
+    }
+  },
+  "M-VGMDB-AL-61981-1": {
+    "id": "M-VGMDB-AL-61981-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "My Resolution ~Mirai e no Kizuna~"
+    }
+  },
+  "M-VGMDB-AL-82983-5": {
+    "id": "M-VGMDB-AL-82983-5",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ano ne"
+    }
+  },
+  "F-VGMDB-3559": {
+    "id": "F-VGMDB-3559",
+    "children": {
+      "M-VGMDB-AR-32295": 1.0,
+      "M-VGMDB-AL-53945": 1.0,
+      "M-VGMDB-AL-64249": 1.0,
+      "M-VGMDB-AL-78253": 1.0,
+      "A-MAL-10278": 1.0,
+      "A-MAL-23587": 1.0,
+      "A-MAL-30344": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER"
+    }
+  },
+  "M-VGMDB-AL-93299-2": {
+    "id": "M-VGMDB-AL-93299-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Endmark ni kibou to namida o soete ~Irodorimidori arrange~"
+    }
+  },
+  "M-VGMDB-AL-59371-1": {
+    "id": "M-VGMDB-AL-59371-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "hare bare fanfare"
+    }
+  },
+  "M-VGMDB-AL-78520": {
+    "id": "M-VGMDB-AL-78520",
+    "children": {
+      "M-VGMDB-AL-78520-1": 1.0,
+      "M-VGMDB-AL-78520-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Purple Rays"
+    }
+  },
+  "M-VGMDB-AL-85172-1": {
+    "id": "M-VGMDB-AL-85172-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "FIRE BIRD"
+    }
+  },
+  "M-VGMDB-AL-78764": {
+    "id": "M-VGMDB-AL-78764",
+    "children": {
+      "M-VGMDB-AL-78764-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "367Days"
+    }
+  },
+  "M-VGMDB-AR-12225": {
+    "id": "M-VGMDB-AR-12225",
+    "children": {
+      "M-VGMDB-AL-34269": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "xi"
+    }
+  },
+  "M-VGMDB-AL-78532-1": {
+    "id": "M-VGMDB-AL-78532-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Akogare Future Sign"
+    }
+  },
+  "M-VGMDB-AL-105612-1": {
+    "id": "M-VGMDB-AL-105612-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mot Mot Mot"
+    }
+  },
+  "M-VGMDB-AL-85172": {
+    "id": "M-VGMDB-AL-85172",
+    "children": {
+      "M-VGMDB-AL-85172-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "FIRE BIRD"
+    }
+  },
+  "M-VGMDB-AR-": {
+    "id": "M-VGMDB-AR-",
+    "children": {
+      "M-VGMDB-AL-49446": 0.8,
+      "M-10": 0.4,
+      "M-11": 0.4
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sawai Miku"
+    }
+  },
+  "M-VGMDB-AR-37385": {
+    "id": "M-VGMDB-AR-37385",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Liella!"
+    }
+  },
+  "A-MAL-34973": {
+    "id": "A-MAL-34973",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! Sunshine!! 2nd Season"
+    }
+  },
+  "M-VGMDB-AL-57564-1": {
+    "id": "M-VGMDB-AL-57564-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Prima Stella"
+    }
+  },
+  "M-VGMDB-AL-69821": {
+    "id": "M-VGMDB-AL-69821",
+    "children": {
+      "M-VGMDB-AL-69821-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Egao no Kimi e"
+    }
+  },
+  "M-VGMDB-AL-20118-2": {
+    "id": "M-VGMDB-AL-20118-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kira Kira Days"
+    }
+  },
+  "A-MAL-23847": {
+    "id": "A-MAL-23847",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+    }
+  },
+  "M-VGMDB-AL-51394": {
+    "id": "M-VGMDB-AL-51394",
+    "children": {
+      "M-VGMDB-AL-51394-1": 1.0,
+      "M-VGMDB-AL-51394-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Everyday World"
+    }
+  },
+  "M-VGMDB-AL-51276": {
+    "id": "M-VGMDB-AL-51276",
+    "children": {
+      "M-VGMDB-AL-51276-1": 1.0,
+      "M-VGMDB-AL-51276-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Seishun wa Non-Stop!"
+    }
+  },
+  "M-VGMDB-AL-51278": {
+    "id": "M-VGMDB-AL-51278",
+    "children": {
+      "M-VGMDB-AL-51278-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tabiji Yoiyoi Yume Hanabi"
+    }
+  },
+  "M-VGMDB-AL-113295-1": {
+    "id": "M-VGMDB-AL-113295-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Careless"
+    }
+  },
+  "M-VGMDB-AL-78515": {
+    "id": "M-VGMDB-AL-78515",
+    "children": {
+      "M-VGMDB-AL-78515-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Raise Your Fist"
+    }
+  },
+  "M-VGMDB-AL-78516": {
+    "id": "M-VGMDB-AL-78516",
+    "children": {
+      "M-VGMDB-AL-78516-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SENSEI Sensation"
+    }
+  },
+  "M-VGMDB-AL-54307": {
+    "id": "M-VGMDB-AL-54307",
+    "children": {
+      "M-VGMDB-AL-54307-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Dear Brave"
+    }
+  },
+  "M-VGMDB-AL-82369-1": {
+    "id": "M-VGMDB-AL-82369-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "InFiction"
+    }
+  },
+  "A-MAL-34822": {
+    "id": "A-MAL-34822",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tsuki ga Kirei"
+    }
+  },
+  "M-VGMDB-AL-43320": {
+    "id": "M-VGMDB-AL-43320",
+    "children": {
+      "M-VGMDB-AL-97601-1": 1.0,
+      "M-VGMDB-AL-43320-4": 1.0,
+      "M-VGMDB-AL-43320-7": 1.0,
+      "M-VGMDB-AL-43320-8": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stories That Last Through The Sleepless Nights"
+    }
+  },
+  "A-MAL-30344": {
+    "id": "A-MAL-30344",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "The iDOLM@STER Cinderella Girls 2nd Season"
+    }
+  },
+  "M-VGMDB-AR-26614": {
+    "id": "M-VGMDB-AR-26614",
+    "children": {
+      "M-MAL-36631": 1.0,
+      "M-41": 0.5,
+      "M-43": 0.25
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "kemu"
+    }
+  },
+  "A-MAL-33731": {
+    "id": "A-MAL-33731",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gabriel DropOut"
+    }
+  },
+  "M-VGMDB-AL-44890": {
+    "id": "M-VGMDB-AL-44890",
+    "children": {
+      "M-VGMDB-AL-44890-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Daydream café"
+    }
+  },
+  "M-VGMDB-AL-21146-9": {
+    "id": "M-VGMDB-AL-21146-9",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tenshi ni Fureta yo!"
+    }
+  },
+  "A-MAL-11981": {
+    "id": "A-MAL-11981",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
+    }
+  },
+  "M-VGMDB-AL-106577-1": {
+    "id": "M-VGMDB-AL-106577-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Cherry Bomb"
+    }
+  },
+  "A-MAL-32526": {
+    "id": "A-MAL-32526",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! Sunshine!!"
+    }
+  },
+  "M-VGMDB-AL-106577-6": {
+    "id": "M-VGMDB-AL-106577-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Harumodoki"
+    }
+  },
+  "M-VGMDB-AL-102281-1": {
+    "id": "M-VGMDB-AL-102281-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Dream with You"
+    }
+  },
+  "A-MAL-16067": {
+    "id": "A-MAL-16067",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Nagi no Asu kara"
+    }
+  },
+  "M-VGMDB-AL-55364-3": {
+    "id": "M-VGMDB-AL-55364-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shinsaku no Shiawase wa Kochira!"
+    }
+  },
+  "M-VGMDB-AL-114186-2": {
+    "id": "M-VGMDB-AL-114186-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "U・D・N"
+    }
+  },
+  "M-VGMDB-AL-96290": {
+    "id": "M-VGMDB-AL-96290",
+    "children": {
+      "M-VGMDB-AL-96290-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Diamond no Jundo"
+    }
+  },
+  "M-VGMDB-AL-113295": {
+    "id": "M-VGMDB-AL-113295",
+    "children": {
+      "M-VGMDB-AL-113295-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Magia Record: Puella Magi Madoka☆Magica Side Story 2nd SEASON -Kakusei Zenya- Theme Song Collection"
+    }
+  },
+  "M-VGMDB-AL-47403-1": {
+    "id": "M-VGMDB-AL-47403-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hoshikuzu no Interlude"
+    }
+  },
+  "M-VGMDB-AL-34411-11": {
+    "id": "M-VGMDB-AL-34411-11",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Irony"
+    }
+  },
+  "M-VGMDB-AL-81504-1": {
+    "id": "M-VGMDB-AL-81504-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "KIZUNA MUSIC♪"
+    }
+  },
+  "A-MAL-5680": {
+    "id": "A-MAL-5680",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "K-On!"
+    }
+  },
+  "F-VGMDB-3345": {
+    "id": "F-VGMDB-3345",
+    "children": {
+      "A-MAL-23273": 1.0,
+      "M-VGMDB-AL-49046": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shigatsu wa Kimi no Uso"
+    }
+  },
+  "M-VGMDB-AL-43164-1": {
+    "id": "M-VGMDB-AL-43164-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mitsuba no Musubime"
+    }
+  },
+  "M-VGMDB-AL-96288": {
+    "id": "M-VGMDB-AL-96288",
+    "children": {
+      "M-VGMDB-AL-96288-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Megumi no Ame"
+    }
+  },
+  "M-VGMDB-AR-31509": {
+    "id": "M-VGMDB-AR-31509",
+    "children": {
+      "M-32": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SILENT SIREN"
+    }
+  },
+  "M-VGMDB-AR-9553": {
+    "id": "M-VGMDB-AR-9553",
+    "children": {
+      "M-VGMDB-AL-91187-35": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "cosMo@Bousou-P"
+    }
+  },
+  "A-MAL-18671": {
+    "id": "A-MAL-18671",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chuunibyou demo Koi ga Shitai! Ren"
+    }
+  },
+  "M-VGMDB-AL-48199-1": {
+    "id": "M-VGMDB-AL-48199-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "M♭"
+    }
+  },
+  "A-MAL-16498": {
+    "id": "A-MAL-16498",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shingeki no Kyojin"
+    }
+  },
+  "M-VGMDB-AL-51254": {
+    "id": "M-VGMDB-AL-51254",
+    "children": {
+      "M-VGMDB-AL-51254-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stella-rium"
+    }
+  },
+  "A-MAL-21845": {
+    "id": "A-MAL-21845",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ushinawareta Mirai wo Motomete"
+    }
+  },
+  "M-VGMDB-AL-39170-2": {
+    "id": "M-VGMDB-AL-39170-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "and I'm home"
+    }
+  },
+  "M-VGMDB-AL-104957-1": {
+    "id": "M-VGMDB-AL-104957-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "700,000,000,000,000,000,000,000 no Sora de"
+    }
+  },
+  "M-VGMDB-AL-43320-4": {
+    "id": "M-VGMDB-AL-43320-4",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Wandering, Never Wondering (There Exists A Shade)"
+    }
+  },
+  "M-VGMDB-AR-16233": {
+    "id": "M-VGMDB-AR-16233",
+    "children": {
+      "M-46": 0.25
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Toda Megumi"
+    }
+  },
+  "M-VGMDB-AL-43320-7": {
+    "id": "M-VGMDB-AL-43320-7",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "From Under Cover (Caught Up In A Love Song)"
+    }
+  },
+  "M-VGMDB-AL-43320-8": {
+    "id": "M-VGMDB-AL-43320-8",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Storytellers"
+    }
+  },
+  "M-VGMDB-AL-51706-1": {
+    "id": "M-VGMDB-AL-51706-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Meikyuu DESTINY"
+    }
+  },
+  "F-VGMDB-2662": {
+    "id": "F-VGMDB-2662",
+    "children": {
+      "M-VGMDB-AL-41278-1": 1.0,
+      "M-VGMDB-AL-41280-1": 1.0,
+      "M-VGMDB-AL-42900-1": 1.0,
+      "M-VGMDB-AL-42900-3": 1.0,
+      "M-VGMDB-AL-43164-1": 1.0,
+      "M-VGMDB-AL-45187": 1.0,
+      "A-MAL-16067": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Nagi no Asu kara"
+    }
+  },
+  "M-VGMDB-AL-51706-2": {
+    "id": "M-VGMDB-AL-51706-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ryuusei Dreamline"
+    }
+  },
+  "M-VGMDB-AR-10934": {
+    "id": "M-VGMDB-AR-10934",
+    "children": {
+      "M-VGMDB-AL-48199": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kayano Ai"
+    }
+  },
+  "A-MAL-16001": {
+    "id": "A-MAL-16001",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kokoro Connect: Michi Random"
+    }
+  },
+  "M-VGMDB-AL-70622-1": {
+    "id": "M-VGMDB-AL-70622-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuuki wa Doko ni? Kimi no Mune ni!"
+    }
+  },
+  "L-MAL-90810": {
+    "id": "L-MAL-90810",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Nogi Wakaba wa Yuusha de Aru"
+    }
+  },
+  "M-VGMDB-AL-49046": {
+    "id": "M-VGMDB-AL-49046",
+    "children": {
+      "M-VGMDB-AL-49046-1": 1.0,
+      "M-VGMDB-AL-49046-18": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK"
+    }
+  },
+  "M-VGMDB-AL-52993-1": {
+    "id": "M-VGMDB-AL-52993-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Friend Shitai"
+    }
+  },
+  "M-VGMDB-AL-93440-2": {
+    "id": "M-VGMDB-AL-93440-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi no Rhapsody"
+    }
+  },
+  "M-VGMDB-AL-48199": {
+    "id": "M-VGMDB-AL-48199",
+    "children": {
+      "M-VGMDB-AL-48199-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "M♭"
+    }
+  },
+  "M-VGMDB-AL-93440-3": {
+    "id": "M-VGMDB-AL-93440-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Masshiro Start Line"
+    }
+  },
+  "M-VGMDB-AR-32295": {
+    "id": "M-VGMDB-AR-32295",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "765 MILLION ALLSTARS"
+    }
+  },
+  "M-VGMDB-AL-30302": {
+    "id": "M-VGMDB-AL-30302",
+    "children": {
+      "M-VGMDB-AL-30302-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"
+    }
+  },
+  "M-VGMDB-AL-93440-1": {
+    "id": "M-VGMDB-AL-93440-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hiromenes"
+    }
+  },
+  "M-VGMDB-AL-54418": {
+    "id": "M-VGMDB-AL-54418",
+    "children": {
+      "M-VGMDB-AL-54418-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino"
+    }
+  },
+  "M-VGMDB-AL-47402-1": {
+    "id": "M-VGMDB-AL-47402-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stargazer"
+    }
+  },
+  "M-VGMDB-AR-15380": {
+    "id": "M-VGMDB-AR-15380",
+    "children": {
+      "M-44": 0.25,
+      "M-VGMDB-AL-53719-1": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Takahashi Rie"
+    }
+  },
+  "M-VGMDB-AL-51394-3": {
+    "id": "M-VGMDB-AL-51394-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Everyday World -Ballade Arrange- Yui Solo Ver."
+    }
+  },
+  "M-VGMDB-AR-17551": {
+    "id": "M-VGMDB-AR-17551",
+    "children": {
+      "M-VGMDB-AL-97692": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Saito Shuka"
+    }
+  },
+  "M-VGMDB-AL-118562-1": {
+    "id": "M-VGMDB-AL-118562-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Taikakusen wo Tsunaideyo"
+    }
+  },
+  "M-VGMDB-AL-42762": {
+    "id": "M-VGMDB-AL-42762",
+    "children": {
+      "M-VGMDB-AL-42762-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "VOICE"
+    }
+  },
+  "M-VGMDB-AL-75349": {
+    "id": "M-VGMDB-AL-75349",
+    "children": {
+      "M-VGMDB-AL-75349-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hop Step Jump!"
+    }
+  },
+  "M-VGMDB-AL-75344": {
+    "id": "M-VGMDB-AL-75344",
+    "children": {
+      "M-VGMDB-AL-75344-1": 1.0,
+      "M-VGMDB-AL-75344-2": 1.0,
+      "M-VGMDB-AL-75344-3": 1.0,
+      "M-VGMDB-AL-75344-4": 1.0,
+      "M-VGMDB-AL-75344-5": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tsuioku Kaleidoscope"
+    }
+  },
+  "M-VGMDB-AR-16469": {
+    "id": "M-VGMDB-AR-16469",
+    "children": {
+      "M-VGMDB-AL-69147": 0.8,
+      "M-VGMDB-AL-89431": 0.8,
+      "M-VGMDB-AL-95029": 0.8,
+      "M-VGMDB-AR-32295": 0.047058823529411764
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "TrySail"
+    }
+  },
+  "M-VGMDB-AL-80802": {
+    "id": "M-VGMDB-AL-80802",
+    "children": {
+      "M-VGMDB-AL-80802-1": 1.0,
+      "M-VGMDB-AL-80802-2": 1.0,
+      "M-VGMDB-AL-80802-8": 1.0,
+      "M-VGMDB-AL-80802-10": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "TOKIMEKI Runners"
+    }
+  },
+  "M-VGMDB-AL-74133": {
+    "id": "M-VGMDB-AL-74133",
+    "children": {
+      "M-VGMDB-AL-74133-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CiRCLiNG"
+    }
+  },
+  "M-VGMDB-AL-51394-1": {
+    "id": "M-VGMDB-AL-51394-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Everyday World"
+    }
+  },
+  "M-VGMDB-AR-8482": {
+    "id": "M-VGMDB-AR-8482",
+    "children": {
+      "M-VGMDB-AL-97601": 1.0,
+      "M-VGMDB-AL-43320": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Foreground Eclipse"
+    }
+  },
+  "M-VGMDB-AL-104267-5": {
+    "id": "M-VGMDB-AL-104267-5",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "EMPIRE DOMINATOR"
+    }
+  },
+  "F-VGMDB-4615": {
+    "id": "F-VGMDB-4615",
+    "children": {
+      "A-MAL-32281": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi no Na wa"
+    }
+  },
+  "M-VGMDB-AR-25291": {
+    "id": "M-VGMDB-AR-25291",
+    "children": {
+      "M-VGMDB-AL-50721": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "KANA-BOON"
+    }
+  },
+  "M-VGMDB-AL-36547-1": {
+    "id": "M-VGMDB-AL-36547-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Bokura wa Ima no Naka de"
+    }
+  },
+  "M-VGMDB-AR-15121": {
+    "id": "M-VGMDB-AR-15121",
+    "children": {
+      "M-VGMDB-AL-69257": 0.26
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yonezu Kenshi"
+    }
+  },
+  "M-VGMDB-AR-15120": {
+    "id": "M-VGMDB-AR-15120",
+    "children": {
+      "M-VGMDB-AL-37130-4": 0.1,
+      "M-VGMDB-AL-37130-5": 0.1,
+      "M-VGMDB-AL-37130-6": 0.1,
+      "M-VGMDB-AL-49423-8": 0.2,
+      "M-VGMDB-AL-78339-2": 0.1
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "keeno"
+    }
+  },
+  "A-MAL-43735": {
+    "id": "A-MAL-43735",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Cue!"
+    }
+  },
+  "M-VGMDB-AR-15361": {
+    "id": "M-VGMDB-AR-15361",
+    "children": {
+      "M-9": 0.2,
+      "M-44": 0.25,
+      "M-VGMDB-AL-54418-1": 0.8,
+      "M-VGMDB-AL-55364-3": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Minase Inori"
+    }
+  },
+  "M-VGMDB-AL-54418-1": {
+    "id": "M-VGMDB-AL-54418-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mahou Shoujo Chino"
+    }
+  },
+  "M-VGMDB-AL-95118-2": {
+    "id": "M-VGMDB-AL-95118-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yume wo Uchinuku Shunkan ni!"
+    }
+  },
+  "A-MAL-7791": {
+    "id": "A-MAL-7791",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "K-On!!"
+    }
+  },
+  "M-VGMDB-AR-25289": {
+    "id": "M-VGMDB-AR-25289",
+    "children": {
+      "M-VGMDB-AL-37130-1": 0.1,
+      "M-VGMDB-AL-37130-2": 0.1,
+      "M-VGMDB-AL-37130-3": 0.05,
+      "M-VGMDB-AL-37130-4": 0.1,
+      "M-VGMDB-AL-37130-5": 0.1,
+      "M-VGMDB-AL-37130-6": 0.1,
+      "M-VGMDB-AL-49423-1": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Koyama Hidekazu"
+    }
+  },
+  "A-MAL-32729": {
+    "id": "A-MAL-32729",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Orange"
+    }
+  },
+  "M-VGMDB-AR-29640": {
+    "id": "M-VGMDB-AR-29640",
+    "children": {
+      "M-VGMDB-AR-29922": 0.09090909090909091,
+      "M-VGMDB-AL-80802-2": 0.8,
+      "M-VGMDB-AL-87198-1": 0.8,
+      "M-VGMDB-AL-99272-1": 0.8,
+      "M-VGMDB-AL-112929-2": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Onishi Aguri"
+    }
+  },
+  "M-VGMDB-AL-49446-1": {
+    "id": "M-VGMDB-AL-49446-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful."
+    }
+  },
+  "M-VGMDB-AR-15119": {
+    "id": "M-VGMDB-AR-15119",
+    "children": {
+      "M-VGMDB-AL-37130-1": 0.2,
+      "M-VGMDB-AL-37130-2": 0.1,
+      "M-VGMDB-AL-37130-3": 0.05,
+      "M-VGMDB-AL-34411-11": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Scop"
+    }
+  },
+  "M-VGMDB-AL-49423-1": {
+    "id": "M-VGMDB-AL-49423-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Good Night Everyone"
+    }
+  },
+  "M-VGMDB-AL-114102": {
+    "id": "M-VGMDB-AL-114102",
+    "children": {
+      "M-VGMDB-AL-114102-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SELECTION PROJECT Main Theme Song CD"
+    }
+  },
+  "M-VGMDB-AL-93441-1": {
+    "id": "M-VGMDB-AL-93441-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yell and Response"
+    }
+  },
+  "A-MAL-15051": {
+    "id": "A-MAL-15051",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! School Idol Project"
+    }
+  },
+  "M-VGMDB-AL-104957": {
+    "id": "M-VGMDB-AL-104957",
+    "children": {
+      "M-VGMDB-AL-104957-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "700,000,000,000,000,000,000,000 no Sora de"
+    }
+  },
+  "M-VGMDB-AR-15350": {
+    "id": "M-VGMDB-AR-15350",
+    "children": {
+      "M-44": 0.25,
+      "M-VGMDB-AL-63666": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "M·A·O"
+    }
+  },
+  "M-VGMDB-AL-49423-8": {
+    "id": "M-VGMDB-AL-49423-8",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "decide"
+    }
+  },
+  "M-VGMDB-AL-47678-1": {
+    "id": "M-VGMDB-AL-47678-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aurora Days"
+    }
+  },
+  "A-MAL-31765": {
+    "id": "A-MAL-31765",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sword Art Online Movie: Ordinal Scale"
+    }
+  },
+  "A-MAL-50267": {
+    "id": "A-MAL-50267",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Irodorimidori"
+    }
+  },
+  "M-VGMDB-AL-42762-1": {
+    "id": "M-VGMDB-AL-42762-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "VOICE"
+    }
+  },
+  "F-VGMDB-2330": {
+    "id": "F-VGMDB-2330",
+    "children": {
+      "M-VGMDB-AL-42762": 1.0,
+      "A-MAL-14741": 1.0,
+      "A-MAL-18671": 1.0,
+      "A-MAL-35608": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chuunibyou demo Koi ga Shitai!"
+    }
+  },
+  "M-VGMDB-AL-97692": {
+    "id": "M-VGMDB-AL-97692",
+    "children": {
+      "M-VGMDB-AL-97692-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"
+    }
+  },
+  "A-MAL-34914": {
+    "id": "A-MAL-34914",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "New Game!!"
+    }
+  },
+  "M-VGMDB-AL-91187-35": {
+    "id": "M-VGMDB-AL-91187-35",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Endmark ni kibou to namida o soete"
+    }
+  },
+  "F-VGMDB-3305": {
+    "id": "F-VGMDB-3305",
+    "children": {
+      "M-VGMDB-AL-48199": 1.0,
+      "M-VGMDB-AL-49446-1": 1.0,
+      "A-MAL-23277": 1.0,
+      "A-MAL-30727": 1.0,
+      "A-MAL-36885": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Saenai Heroine no Sodatekata"
+    }
+  },
+  "M-VGMDB-AL-104266-6": {
+    "id": "M-VGMDB-AL-104266-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kyukyukyun♡Heart Shaker"
+    }
+  },
+  "M-VGMDB-AL-51516-1": {
+    "id": "M-VGMDB-AL-51516-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Harumodoki"
+    }
+  },
+  "M-VGMDB-AR-13289": {
+    "id": "M-VGMDB-AR-13289",
+    "children": {
+      "M-9": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Uchida Maaya"
+    }
+  },
+  "M-VGMDB-AL-104266-3": {
+    "id": "M-VGMDB-AL-104266-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Do! It! Happy Daibouken!"
+    }
+  },
+  "A-MAL-41530": {
+    "id": "A-MAL-41530",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV) 2nd Season"
+    }
+  },
+  "M-VGMDB-AL-104783": {
+    "id": "M-VGMDB-AL-104783",
+    "children": {
+      "M-VGMDB-AL-104783-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Awakening Promise/Yume ga Koko kara Hajimaru yo"
+    }
+  },
+  "M-VGMDB-AL-115724": {
+    "id": "M-VGMDB-AL-115724",
+    "children": {
+      "M-VGMDB-AL-115724-1": 1.0,
+      "M-VGMDB-AL-115724-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Start Line/Hajimari no Kanenone ga Narihibiku Sora"
+    }
+  },
+  "A-MAL-28677": {
+    "id": "A-MAL-28677",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yamada-kun to 7-nin no Majo"
+    }
+  },
+  "M-VGMDB-AL-95029": {
+    "id": "M-VGMDB-AL-95029",
+    "children": {
+      "M-VGMDB-AL-95029-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gomakashi"
+    }
+  },
+  "M-VGMDB-AL-35015-1": {
+    "id": "M-VGMDB-AL-35015-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi ga Yume wo Tsuretekita"
+    }
+  },
+  "M-VGMDB-AL-110219-1": {
+    "id": "M-VGMDB-AL-110219-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ai no Supreme!"
+    }
+  },
+  "A-MAL-38009": {
+    "id": "A-MAL-38009",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:Stage! Dream Days♪"
+    }
+  },
+  "M-VGMDB-AL-58627-1": {
+    "id": "M-VGMDB-AL-58627-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Now Loading!!!!"
+    }
+  },
+  "M-VGMDB-AL-78378-1": {
+    "id": "M-VGMDB-AL-78378-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Thank you, FRIENDS!!"
+    }
+  },
+  "A-MAL-9617": {
+    "id": "A-MAL-9617",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "K-On! Movie"
+    }
+  },
+  "A-MAL-38256": {
+    "id": "A-MAL-38256",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV)"
+    }
+  },
+  "M-VGMDB-AL-80802-10": {
+    "id": "M-VGMDB-AL-80802-10",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Dokipipo☆Emotion"
+    }
+  },
+  "M-VGMDB-AL-104418": {
+    "id": "M-VGMDB-AL-104418",
+    "children": {
+      "M-VGMDB-AL-104418-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Good Day by Day"
+    }
+  },
+  "M-VGMDB-AL-49046-18": {
+    "id": "M-VGMDB-AL-49046-18",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu"
+    }
+  },
+  "M-VGMDB-AL-104341-2": {
+    "id": "M-VGMDB-AL-104341-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hoshizora Light Story"
+    }
+  },
+  "M-VGMDB-AL-104341-1": {
+    "id": "M-VGMDB-AL-104341-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Do Re Mi Fa STARS!!"
+    }
+  },
+  "M-VGMDB-AL-114399-8": {
+    "id": "M-VGMDB-AL-114399-8",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Silhouette"
+    }
+  },
+  "M-VGMDB-AL-42961": {
+    "id": "M-VGMDB-AL-42961",
+    "children": {
+      "M-VGMDB-AL-42961-6": 1.0,
+      "M-VGMDB-AL-42961-9": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Arumachi no Hakuchumu"
+    }
+  },
+  "M-VGMDB-AL-100087-1": {
+    "id": "M-VGMDB-AL-100087-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "How To Fly"
+    }
+  },
+  "F-VGMDB-2633": {
+    "id": "F-VGMDB-2633",
+    "children": {
+      "A-MAL-11757": 1.0,
+      "A-MAL-21881": 1.0,
+      "A-MAL-31765": 1.0,
+      "M-VGMDB-AL-33537-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sword Art Online"
+    }
+  },
+  "M-VGMDB-AL-96288-1": {
+    "id": "M-VGMDB-AL-96288-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Megumi no Ame"
+    }
+  },
+  "M-VGMDB-AL-82743-1": {
+    "id": "M-VGMDB-AL-82743-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Y.O.L.O"
+    }
+  },
+  "M-VGMDB-AL-105612": {
+    "id": "M-VGMDB-AL-105612",
+    "children": {
+      "M-VGMDB-AL-105612-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mot Mot Mot"
+    }
+  },
+  "M-VGMDB-AL-95369": {
+    "id": "M-VGMDB-AL-95369",
+    "children": {
+      "M-VGMDB-AL-95369-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Bambino"
+    }
+  },
+  "A-MAL-31952": {
+    "id": "A-MAL-31952",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kono Bijutsubu ni wa Mondai ga Aru!"
+    }
+  },
+  "A-MAL-31953": {
+    "id": "A-MAL-31953",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "New Game!"
+    }
+  },
+  "A-MAL-9756": {
+    "id": "A-MAL-9756",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mahou Shoujo Madoka★Magica"
+    }
+  },
+  "M-VGMDB-AL-51276-2": {
+    "id": "M-VGMDB-AL-51276-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Close to you"
+    }
+  },
+  "M-VGMDB-AL-84229": {
+    "id": "M-VGMDB-AL-84229",
+    "children": {
+      "M-VGMDB-AL-84229-1": 1.0,
+      "M-VGMDB-AL-84229-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "HAPPY TYPHOON"
+    }
+  },
+  "M-VGMDB-AL-51276-1": {
+    "id": "M-VGMDB-AL-51276-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Seishun wa Non-Stop!"
+    }
+  },
+  "F-VGMDB-5919": {
+    "id": "F-VGMDB-5919",
+    "children": {
+      "A-MAL-34498": 1.0,
+      "M-VGMDB-AL-69257-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
+    }
+  },
+  "M-VGMDB-AL-63666": {
+    "id": "M-VGMDB-AL-63666",
+    "children": {
+      "M-VGMDB-AL-63666-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "harumachi clover"
+    }
+  },
+  "A-MAL-41520": {
+    "id": "A-MAL-41520",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Show by Rock!! Stars!!"
+    }
+  },
+  "M-VGMDB-AL-93299": {
+    "id": "M-VGMDB-AL-93299",
+    "children": {
+      "M-VGMDB-AL-93299-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "GO!GO! Chunithm♥Endmark"
+    }
+  },
+  "M-VGMDB-AR-27779": {
+    "id": "M-VGMDB-AR-27779",
+    "children": {
+      "M-VGMDB-AR-29922": 0.09090909090909091,
+      "M-VGMDB-AL-80802-8": 0.8,
+      "M-VGMDB-AL-87198-7": 0.8,
+      "M-VGMDB-AL-99272-7": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kusunoki Tomori"
+    }
+  },
+  "M-VGMDB-AL-95118": {
+    "id": "M-VGMDB-AL-95118",
+    "children": {
+      "M-VGMDB-AL-95118-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Initial/Yume wo Uchinuku Shunkan ni!"
+    }
+  },
+  "A-MAL-37027": {
+    "id": "A-MAL-37027",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+    }
+  },
+  "F-VGMDB-2894": {
+    "id": "F-VGMDB-2894",
+    "children": {
+      "A-MAL-23209": 1.0,
+      "M-VGMDB-AL-47402": 1.0,
+      "M-VGMDB-AL-47403-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sora no Method"
+    }
+  },
+  "M-VGMDB-AL-69147-11": {
+    "id": "M-VGMDB-AL-69147-11",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kakawari"
+    }
+  },
+  "M-VGMDB-AL-109271-48": {
+    "id": "M-VGMDB-AL-109271-48",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Watashitachi, Shiki o Asobun Desu!!"
+    }
+  },
+  "M-VGMDB-AL-34051-1": {
+    "id": "M-VGMDB-AL-34051-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Snow halation"
+    }
+  },
+  "M-VGMDB-AL-61217": {
+    "id": "M-VGMDB-AL-61217",
+    "children": {
+      "M-VGMDB-AL-61217-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Heart wo Rock!!"
+    }
+  },
+  "A-MAL-12175": {
+    "id": "A-MAL-12175",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Koi to Senkyo to Chocolate"
+    }
+  },
+  "A-MAL-40763": {
+    "id": "A-MAL-40763",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Show By Rock!! Mashumairesh!!"
+    }
+  },
+  "A-MAL-28999": {
+    "id": "A-MAL-28999",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Charlotte"
+    }
+  },
+  "M-VGMDB-AL-42961-6": {
+    "id": "M-VGMDB-AL-42961-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mary Mary (album ver.)"
+    }
+  },
+  "M-VGMDB-AL-42961-9": {
+    "id": "M-VGMDB-AL-42961-9",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "World on Color"
+    }
+  },
+  "M-VGMDB-AL-35431-1": {
+    "id": "M-VGMDB-AL-35431-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimochi Signal"
+    }
+  },
+  "M-VGMDB-AL-112929-2": {
+    "id": "M-VGMDB-AL-112929-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Break The System"
+    }
+  },
+  "M-VGMDB-AL-53719": {
+    "id": "M-VGMDB-AL-53719",
+    "children": {
+      "M-VGMDB-AL-53719-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SCHOOL-LIVE! Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)"
+    }
+  },
+  "M-VGMDB-AL-49446": {
+    "id": "M-VGMDB-AL-49446",
+    "children": {
+      "M-VGMDB-AL-49446-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful."
+    }
+  },
+  "M-VGMDB-AL-60358-1": {
+    "id": "M-VGMDB-AL-60358-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "STAR BEAT! ~Hoshi no Kodou~"
+    }
+  },
+  "M-VGMDB-AL-102276-1": {
+    "id": "M-VGMDB-AL-102276-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Nijiiro Passions!"
+    }
+  },
+  "A-MAL-30727": {
+    "id": "A-MAL-30727",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Saenai Heroine no Sodatekata ♭"
+    }
+  },
+  "M-VGMDB-AL-63666-1": {
+    "id": "M-VGMDB-AL-63666-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "harumachi clover"
+    }
+  },
+  "M-VGMDB-AL-33537-1": {
+    "id": "M-VGMDB-AL-33537-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "crossing field"
+    }
+  },
+  "M-VGMDB-AL-99272-7": {
+    "id": "M-VGMDB-AL-99272-7",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "LIKE IT! LOVE IT!"
+    }
+  },
+  "M-VGMDB-AL-59914-1": {
+    "id": "M-VGMDB-AL-59914-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Do Re Mi Fa PARTY"
+    }
+  },
+  "M-VGMDB-AL-78515-1": {
+    "id": "M-VGMDB-AL-78515-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Canaria"
+    }
+  },
+  "M-VGMDB-AL-86622": {
+    "id": "M-VGMDB-AL-86622",
+    "children": {
+      "M-VGMDB-AL-86622-1": 1.0,
+      "M-VGMDB-AL-86622-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"
+    }
+  },
+  "M-VGMDB-AL-52993": {
+    "id": "M-VGMDB-AL-52993",
+    "children": {
+      "M-VGMDB-AL-52993-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Friend Shitai"
+    }
+  },
+  "M-VGMDB-AL-50721-1": {
+    "id": "M-VGMDB-AL-50721-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Silhouette"
+    }
+  },
+  "M-VGMDB-AL-99272-1": {
+    "id": "M-VGMDB-AL-99272-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Say Good-Bye Namida"
+    }
+  },
+  "M-VGMDB-AL-99272-3": {
+    "id": "M-VGMDB-AL-99272-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yagate Hitotsu no Monogatari"
+    }
+  },
+  "M-VGMDB-AR-17153": {
+    "id": "M-VGMDB-AR-17153",
+    "children": {
+      "M-VGMDB-AL-58147": 0.8,
+      "M-VGMDB-AL-58750": 0.8,
+      "M-VGMDB-AL-70622": 0.8,
+      "M-VGMDB-AL-71404": 0.8,
+      "M-VGMDB-AL-78378": 0.8,
+      "M-VGMDB-AL-87199": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aqours"
+    }
+  },
+  "M-VGMDB-AL-75504": {
+    "id": "M-VGMDB-AL-75504",
+    "children": {
+      "M-VGMDB-AL-75504-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Music S.T.A.R.T!!"
+    }
+  },
+  "M-VGMDB-AL-111089-5": {
+    "id": "M-VGMDB-AL-111089-5",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Koko kara Saki wa Uta ni Naranai"
+    }
+  },
+  "A-MAL-39547": {
+    "id": "A-MAL-39547",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+    }
+  },
+  "M-VGMDB-AL-71404-2": {
+    "id": "M-VGMDB-AL-71404-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "MIRACLE WAVE"
+    }
+  },
+  "M-VGMDB-AR-29251": {
+    "id": "M-VGMDB-AR-29251",
+    "children": {
+      "M-50": 0.08888888888888889,
+      "M-VGMDB-AR-30829": 0.13333333333333333
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Iwahashi Yuka"
+    }
+  },
+  "M-VGMDB-AL-58147": {
+    "id": "M-VGMDB-AL-58147",
+    "children": {
+      "M-VGMDB-AL-58147-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aozora Jumping Heart"
+    }
+  },
+  "M-VGMDB-AL-54307-1": {
+    "id": "M-VGMDB-AL-54307-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Dear Brave"
+    }
+  },
+  "GF-VGMDB-7059": {
+    "id": "GF-VGMDB-7059",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:Stage! Prism Step"
+    }
+  },
+  "M-VGMDB-AL-87198-10": {
+    "id": "M-VGMDB-AL-87198-10",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love U my friends"
+    }
+  },
+  "M-VGMDB-AL-24725-4": {
+    "id": "M-VGMDB-AL-24725-4",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Credens justitiam"
+    }
+  },
+  "M-VGMDB-AL-51516": {
+    "id": "M-VGMDB-AL-51516",
+    "children": {
+      "M-VGMDB-AL-51516-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Harumodoki"
+    }
+  },
+  "M-VGMDB-AR-18231": {
+    "id": "M-VGMDB-AR-18231",
+    "children": {
+      "M-46": 0.25
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yamaguchi Megumi"
+    }
+  },
+  "A-MAL-27441": {
+    "id": "A-MAL-27441",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Show by Rock!!"
+    }
+  },
+  "M-VGMDB-AL-44890-1": {
+    "id": "M-VGMDB-AL-44890-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Daydream café"
+    }
+  },
+  "F-VGMDB-7059": {
+    "id": "F-VGMDB-7059",
+    "children": {
+      "A-MAL-38009": 1.0,
+      "M-VGMDB-AL-78536": 1.0,
+      "M-VGMDB-AL-78534": 1.0,
+      "M-VGMDB-AL-78575": 1.0,
+      "M-VGMDB-AL-78532": 1.0,
+      "M-VGMDB-AL-78530": 1.0,
+      "M-VGMDB-AL-78516": 1.0,
+      "M-VGMDB-AL-78764": 1.0,
+      "M-VGMDB-AL-84229": 1.0,
+      "M-VGMDB-AL-86622": 1.0,
+      "M-VGMDB-AL-89363": 1.0,
+      "M-VGMDB-AR-30829": 1.0,
+      "M-VGMDB-AL-89364": 1.0,
+      "M-VGMDB-AL-78520": 1.0,
+      "M-VGMDB-AL-78339": 1.0,
+      "M-VGMDB-AL-82983": 1.0,
+      "M-13": 1.0,
+      "M-VGMDB-AL-82369": 1.0,
+      "M-14": 1.0,
+      "M-15": 1.0,
+      "M-VGMDB-AL-78515": 1.0,
+      "M-16": 1.0,
+      "M-VGMDB-AL-109271-48": 1.0,
+      "M-48": 1.0,
+      "GF-VGMDB-7059": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:STAGE!"
+    }
+  },
+  "M-VGMDB-AL-37130": {
+    "id": "M-VGMDB-AL-37130",
+    "children": {
+      "M-VGMDB-AL-37130-1": 1.0,
+      "M-VGMDB-AL-37130-2": 1.0,
+      "M-VGMDB-AL-37130-3": 1.0,
+      "M-VGMDB-AL-37130-4": 1.0,
+      "M-VGMDB-AL-37130-5": 1.0,
+      "M-VGMDB-AL-37130-6": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sukinano."
+    }
+  },
+  "M-VGMDB-AR-11952": {
+    "id": "M-VGMDB-AR-11952",
+    "children": {
+      "M-VGMDB-AL-33537": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "LiSA"
+    }
+  },
+  "M-VGMDB-AL-69821-1": {
+    "id": "M-VGMDB-AL-69821-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Egao no Kimi e"
+    }
+  },
+  "M-VGMDB-AL-60358": {
+    "id": "M-VGMDB-AL-60358",
+    "children": {
+      "M-VGMDB-AL-60358-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "STAR BEAT! ~Hoshi no Kodou~"
+    }
+  },
+  "M-VGMDB-AL-63624": {
+    "id": "M-VGMDB-AL-63624",
+    "children": {
+      "M-VGMDB-AL-63624-1": 1.0,
+      "M-VGMDB-AL-63624-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tokimeki Experience!"
+    }
+  },
+  "M-VGMDB-AL-82369": {
+    "id": "M-VGMDB-AL-82369",
+    "children": {
+      "M-VGMDB-AL-82369-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Q.E.D."
+    }
+  },
+  "F-VGMDB-3939": {
+    "id": "F-VGMDB-3939",
+    "children": {
+      "M-VGMDB-AL-44890": 1.0,
+      "M-9": 1.0,
+      "M-VGMDB-AL-55364": 1.0,
+      "M-VGMDB-AL-54418": 1.0,
+      "A-MAL-21273": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gochuumon wa Usagi Desu ka?"
+    }
+  },
+  "A-MAL-37587": {
+    "id": "A-MAL-37587",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Lapis Re:LiGHTs"
+    }
+  },
+  "M-VGMDB-AL-53945": {
+    "id": "M-VGMDB-AL-53945",
+    "children": {
+      "M-VGMDB-AL-53945-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"
+    }
+  },
+  "A-MAL-40879": {
+    "id": "A-MAL-40879",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+    }
+  },
+  "M-VGMDB-AR-16166": {
+    "id": "M-VGMDB-AR-16166",
+    "children": {
+      "M-18": 0.2,
+      "M-VGMDB-AR-32295": 0.01568627450980392
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Inagawa Eri"
+    }
+  },
+  "A-MAL-12189": {
+    "id": "A-MAL-12189",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hyouka"
+    }
+  },
+  "M-VGMDB-AL-59371": {
+    "id": "M-VGMDB-AL-59371",
+    "children": {
+      "M-VGMDB-AL-59371-1": 1.0,
+      "M-VGMDB-AL-59371-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "hare bare fanfare"
+    }
+  },
+  "M-VGMDB-AL-78253-1": {
+    "id": "M-VGMDB-AL-78253-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"
+    }
+  },
+  "M-VGMDB-AL-53945-1": {
+    "id": "M-VGMDB-AL-53945-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"
+    }
+  },
+  "M-VGMDB-AL-41278-1": {
+    "id": "M-VGMDB-AL-41278-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "lull ~Soshite Bokura wa~"
+    }
+  },
+  "A-MAL-34284": {
+    "id": "A-MAL-34284",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
+    }
+  },
+  "M-VGMDB-AL-87199-1": {
+    "id": "M-VGMDB-AL-87199-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mitaiken HORIZON"
+    }
+  },
+  "G-VGMDB-5237": {
+    "id": "G-VGMDB-5237",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
+    }
+  },
+  "A-MAL-34280": {
+    "id": "A-MAL-34280",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gamers!"
+    }
+  },
+  "M-VGMDB-AL-69257": {
+    "id": "M-VGMDB-AL-69257",
+    "children": {
+      "M-VGMDB-AL-69257-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Uchiage Hanabi"
+    }
+  },
+  "F-VGMDB-5173": {
+    "id": "F-VGMDB-5173",
+    "children": {
+      "M-VGMDB-AL-60358": 1.0,
+      "M-VGMDB-AL-63624": 1.0,
+      "M-VGMDB-AL-81504": 1.0,
+      "M-VGMDB-AL-111089": 1.0,
+      "M-VGMDB-AL-74133": 1.0,
+      "M-VGMDB-AL-95118": 1.0,
+      "M-VGMDB-AR-27992": 1.0,
+      "M-VGMDB-AL-85172": 1.0,
+      "M-VGMDB-AR-27993": 1.0,
+      "M-VGMDB-AR-31328": 1.0,
+      "M-VGMDB-AR-31329": 1.0,
+      "M-VGMDB-AL-82743": 1.0,
+      "M-VGMDB-AR-31326": 1.0,
+      "M-VGMDB-AL-106577": 1.0,
+      "M-VGMDB-AL-114399": 1.0,
+      "A-MAL-33573": 1.0,
+      "A-MAL-37869": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "BanG Dream!"
+    }
+  },
+  "M-VGMDB-AL-91187": {
+    "id": "M-VGMDB-AL-91187",
+    "children": {
+      "M-VGMDB-AL-91187-35": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CHUNITHM ALL JUSTICE COLLECTION ep.I"
+    }
+  },
+  "M-VGMDB-AL-97601": {
+    "id": "M-VGMDB-AL-97601",
+    "children": {
+      "M-VGMDB-AL-97601-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Truths, Ironies, The Secret Lyrics"
+    }
+  },
+  "M-VGMDB-AL-73516": {
+    "id": "M-VGMDB-AL-73516",
+    "children": {
+      "M-VGMDB-AL-34411-11": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "one"
+    }
+  },
+  "A-MAL-38524": {
+    "id": "A-MAL-38524",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shingeki no Kyojin Season 3 Part 2"
+    }
+  },
+  "M-VGMDB-AR-11829": {
+    "id": "M-VGMDB-AR-11829",
+    "children": {
+      "M-VGMDB-AL-23391": 0.8,
+      "M-VGMDB-AL-41292": 0.8,
+      "M-VGMDB-AL-89431": 0.8,
+      "M-7": 0.4,
+      "M-8": 0.4
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "ClariS"
+    }
+  },
+  "M-VGMDB-AL-93532-1": {
+    "id": "M-VGMDB-AL-93532-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "A song for You! You? You!!"
+    }
+  },
+  "M-VGMDB-AL-62516": {
+    "id": "M-VGMDB-AL-62516",
+    "children": {
+      "M-VGMDB-AL-62516-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aozora no Rhapsody"
+    }
+  },
+  "M-VGMDB-AL-34269": {
+    "id": "M-VGMDB-AL-34269",
+    "children": {
+      "M-VGMDB-AL-34269-7": 1.0,
+      "M-VGMDB-AL-34269-12": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Parousia"
+    }
+  },
+  "M-VGMDB-AL-64249-1": {
+    "id": "M-VGMDB-AL-64249-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER CINDERELLA MASTER EVERMORE"
+    }
+  },
+  "M-VGMDB-AL-84229-1": {
+    "id": "M-VGMDB-AL-84229-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "HAPPY TYPHOON"
+    }
+  },
+  "M-VGMDB-AL-84229-2": {
+    "id": "M-VGMDB-AL-84229-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stereo Life"
+    }
+  },
+  "M-VGMDB-AL-23391": {
+    "id": "M-VGMDB-AL-23391",
+    "children": {
+      "M-VGMDB-AL-23391-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Connect"
+    }
+  },
+  "M-1": {
+    "id": "M-1",
+    "children": {
+      "M-35": 0.3333333333333333,
+      "M-10": 0.5,
+      "M-22": 0.5
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Asterisk"
+    }
+  },
+  "M-VGMDB-AL-69147": {
+    "id": "M-VGMDB-AL-69147",
+    "children": {
+      "M-VGMDB-AL-69147-11": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "TAILWIND"
+    }
+  },
+  "M-5": {
+    "id": "M-5",
+    "children": {
+      "M-7": 0.5
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Magibeat"
+    }
+  },
+  "M-VGMDB-AR-18205": {
+    "id": "M-VGMDB-AR-18205",
+    "children": {
+      "M-46": 0.25
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Takeo Ayumi"
+    }
+  },
+  "M-7": {
+    "id": "M-7",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful - Magibeat Remix"
+    }
+  },
+  "F-VGMDB-9540": {
+    "id": "F-VGMDB-9540",
+    "children": {
+      "A-MAL-43735": 1.0,
+      "M-VGMDB-AL-115724": 1.0,
+      "M-VGMDB-AR-33857": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CUE!"
+    }
+  },
+  "M-6": {
+    "id": "M-6",
+    "children": {
+      "M-8": 0.5,
+      "M-47": 0.5
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "tamame"
+    }
+  },
+  "M-VGMDB-AL-68225-1": {
+    "id": "M-VGMDB-AL-68225-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "STEP by STEP UP↑↑↑↑"
+    }
+  },
+  "M-VGMDB-AL-89364-3": {
+    "id": "M-VGMDB-AL-89364-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yes, We Are!!!"
+    }
+  },
+  "M-9": {
+    "id": "M-9",
+    "children": {
+      "M-VGMDB-AL-44890": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Petit Rabbit's"
+    }
+  },
+  "M-8": {
+    "id": "M-8",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful (tamame's apostate remix)"
+    }
+  },
+  "M-VGMDB-AL-34411-6": {
+    "id": "M-VGMDB-AL-34411-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Interviewer"
+    }
+  },
+  "M-VGMDB-AL-75349-1": {
+    "id": "M-VGMDB-AL-75349-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hop Step Jump!"
+    }
+  },
+  "A-MAL-13333": {
+    "id": "A-MAL-13333",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tari Tari"
+    }
+  },
+  "M-VGMDB-AR-18208": {
+    "id": "M-VGMDB-AR-18208",
+    "children": {
+      "M-46": 0.25,
+      "M-17": 0.1111111111111111,
+      "M-VGMDB-AL-75344-4": 0.26666666666666666
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Takada Yuuki"
+    }
+  },
+  "M-VGMDB-AL-30302-2": {
+    "id": "M-VGMDB-AL-30302-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mata Ashita"
+    }
+  },
+  "A-MAL-37890": {
+    "id": "A-MAL-37890",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Oshi ga Budoukan Ittekuretara Shinu"
+    }
+  },
+  "F-VGMDB-1945": {
+    "id": "F-VGMDB-1945",
+    "children": {
+      "M-VGMDB-AL-23391": 1.0,
+      "M-VGMDB-AL-30302": 1.0,
+      "M-VGMDB-AL-24725": 1.0,
+      "M-VGMDB-AL-39170": 1.0,
+      "M-VGMDB-AL-41292": 1.0,
+      "M-VGMDB-AL-69147-11": 1.0,
+      "M-VGMDB-AL-113295": 1.0,
+      "M-VGMDB-AL-89431": 1.0,
+      "M-VGMDB-AL-95029": 1.0,
+      "M-VGMDB-AL-91985": 1.0,
+      "A-MAL-9756": 1.0,
+      "A-MAL-11981": 1.0,
+      "G-VGMDB-5237": 1.0,
+      "A-MAL-38256": 1.0,
+      "A-MAL-41530": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mahou Shoujo Madoka☆Magica"
+    }
+  },
+  "M-VGMDB-AL-58750-1": {
+    "id": "M-VGMDB-AL-58750-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimeta yo Hand in Hand"
+    }
+  },
+  "M-VGMDB-AR-9455": {
+    "id": "M-VGMDB-AR-9455",
+    "children": {
+      "M-VGMDB-AL-47402": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Larval Stage Planning"
+    }
+  },
+  "M-VGMDB-AL-87198-7": {
+    "id": "M-VGMDB-AL-87198-7",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "MELODY"
+    }
+  },
+  "M-VGMDB-AL-104783-1": {
+    "id": "M-VGMDB-AL-104783-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Awakening Promise"
+    }
+  },
+  "M-VGMDB-AL-87198-1": {
+    "id": "M-VGMDB-AL-87198-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kaika Sengen"
+    }
+  },
+  "M-VGMDB-AR-17342": {
+    "id": "M-VGMDB-AR-17342",
+    "children": {
+      "M-VGMDB-AL-69257": 0.6400000000000001
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "DAOKO"
+    }
+  },
+  "M-VGMDB-AL-45187": {
+    "id": "M-VGMDB-AL-45187",
+    "children": {
+      "M-VGMDB-AL-45187-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "NAGI NO ASUKARA CHARACTER SONG 3"
+    }
+  },
+  "M-VGMDB-AL-34269-12": {
+    "id": "M-VGMDB-AL-34269-12",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "FREEDOM DiVE↓"
+    }
+  },
+  "A-MAL-28851": {
+    "id": "A-MAL-28851",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Koe no Katachi"
+    }
+  },
+  "M-VGMDB-AL-49423": {
+    "id": "M-VGMDB-AL-49423",
+    "children": {
+      "M-VGMDB-AL-49423-1": 1.0,
+      "M-VGMDB-AL-49423-8": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Good Hello"
+    }
+  },
+  "M-VGMDB-AL-62516-1": {
+    "id": "M-VGMDB-AL-62516-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aozora no Rhapsody"
+    }
+  },
+  "M-VGMDB-AL-102277-1": {
+    "id": "M-VGMDB-AL-102277-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "NEO SKY, NEO MAP!"
+    }
+  },
+  "M-VGMDB-AR-29323": {
+    "id": "M-VGMDB-AR-29323",
+    "children": {
+      "M-VGMDB-AR-29922": 0.09090909090909091,
+      "M-VGMDB-AL-99272-3": 0.6400000000000001
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Maeda Kaori"
+    }
+  },
+  "M-VGMDB-AL-110219": {
+    "id": "M-VGMDB-AL-110219",
+    "children": {
+      "M-VGMDB-AL-110219-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ai no Supreme!"
+    }
+  },
+  "M-VGMDB-AL-78516-1": {
+    "id": "M-VGMDB-AL-78516-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SENSEI Sensation"
+    }
+  },
+  "M-VGMDB-AL-35015": {
+    "id": "M-VGMDB-AL-35015",
+    "children": {
+      "M-VGMDB-AL-35015-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi ga Yume wo Tsuretekita"
+    }
+  },
+  "A-MAL-23277": {
+    "id": "A-MAL-23277",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Saenai Heroine no Sodatekata"
+    }
+  },
+  "M-VGMDB-AL-100082-1": {
+    "id": "M-VGMDB-AL-100082-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mirai Wanted"
+    }
+  },
+  "A-MAL-35241": {
+    "id": "A-MAL-35241",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Konohana Kitan"
+    }
+  },
+  "A-MAL-34392": {
+    "id": "A-MAL-34392",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "One Room"
+    }
+  },
+  "M-VGMDB-AR-13097": {
+    "id": "M-VGMDB-AR-13097",
+    "children": {
+      "M-VGMDB-AL-41278": 0.8,
+      "M-VGMDB-AL-42900": 0.8,
+      "M-47": 0.4
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ray"
+    }
+  },
+  "M-VGMDB-AL-74133-2": {
+    "id": "M-VGMDB-AL-74133-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Light Delight"
+    }
+  },
+  "A-MAL-23273": {
+    "id": "A-MAL-23273",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shigatsu wa Kimi no Uso"
+    }
+  },
+  "M-VGMDB-AL-89363-1": {
+    "id": "M-VGMDB-AL-89363-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kirameki Future"
+    }
+  },
+  "M-VGMDB-AL-94913-1": {
+    "id": "M-VGMDB-AL-94913-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "My pace!!"
+    }
+  },
+  "M-VGMDB-AL-89363-2": {
+    "id": "M-VGMDB-AL-89363-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "OvertuRe:"
+    }
+  },
+  "M-VGMDB-AL-114102-1": {
+    "id": "M-VGMDB-AL-114102-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Glorious Days"
+    }
+  },
+  "M-VGMDB-AL-34051": {
+    "id": "M-VGMDB-AL-34051",
+    "children": {
+      "M-VGMDB-AL-34051-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Snow halation"
+    }
+  },
+  "F-VGMDB-2931": {
+    "id": "F-VGMDB-2931",
+    "children": {
+      "A-MAL-16498": 1.0,
+      "A-MAL-25777": 1.0,
+      "A-MAL-35760": 1.0,
+      "A-MAL-38524": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shingeki no Kyojin"
+    }
+  },
+  "M-VGMDB-AL-42900": {
+    "id": "M-VGMDB-AL-42900",
+    "children": {
+      "M-VGMDB-AL-42900-1": 1.0,
+      "M-VGMDB-AL-42900-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "ebb and flow"
+    }
+  },
+  "M-VGMDB-AL-75504-2": {
+    "id": "M-VGMDB-AL-75504-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "LOVELESS WORLD"
+    }
+  },
+  "M-VGMDB-AL-89290-6": {
+    "id": "M-VGMDB-AL-89290-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chikyuu Saigo no Kokuhaku o"
+    }
+  },
+  "M-VGMDB-AL-115724-1": {
+    "id": "M-VGMDB-AL-115724-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Start Line"
+    }
+  },
+  "M-VGMDB-AR-10253": {
+    "id": "M-VGMDB-AR-10253",
+    "children": {
+      "M-VGMDB-AL-47678": 0.2,
+      "M-VGMDB-AL-114186": 0.16000000000000003,
+      "M-VGMDB-AL-69821": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mimori Suzuko"
+    }
+  },
+  "A-MAL-23587": {
+    "id": "A-MAL-23587",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "The iDOLM@STER Cinderella Girls"
+    }
+  },
+  "A-MAL-34240": {
+    "id": "A-MAL-34240",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shelter"
+    }
+  },
+  "M-VGMDB-AL-50721": {
+    "id": "M-VGMDB-AL-50721",
+    "children": {
+      "M-VGMDB-AL-50721-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Silhouette"
+    }
+  },
+  "M-VGMDB-AL-115724-2": {
+    "id": "M-VGMDB-AL-115724-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hajimari no Kanenone ga Narihibiku Sora"
+    }
+  },
+  "M-VGMDB-AL-116297": {
+    "id": "M-VGMDB-AL-116297",
+    "children": {
+      "M-VGMDB-AL-116297-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Bokura no Neiro"
+    }
+  },
+  "M-VGMDB-AL-93441": {
+    "id": "M-VGMDB-AL-93441",
+    "children": {
+      "M-VGMDB-AL-93441-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yell and Response"
+    }
+  },
+  "M-VGMDB-AL-86622-2": {
+    "id": "M-VGMDB-AL-86622-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Akogare Future Sign (Piano Strings Arrange)"
+    }
+  },
+  "M-VGMDB-AR-26954": {
+    "id": "M-VGMDB-AR-26954",
+    "children": {
+      "M-VGMDB-AR-29922": 0.09090909090909091,
+      "M-VGMDB-AL-80802-10": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tanaka Chiemi"
+    }
+  },
+  "M-VGMDB-AL-86622-1": {
+    "id": "M-VGMDB-AL-86622-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Don't think, smile!!"
+    }
+  },
+  "A-MAL-10278": {
+    "id": "A-MAL-10278",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "The iDOLM@STER"
+    }
+  },
+  "F-VGMDB-4168": {
+    "id": "F-VGMDB-4168",
+    "children": {
+      "A-MAL-31953": 1.0,
+      "A-MAL-34914": 1.0,
+      "M-46": 1.0,
+      "M-VGMDB-AL-58627": 1.0,
+      "M-VGMDB-AL-68225": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "NEW GAME!"
+    }
+  },
+  "M-VGMDB-AL-93440": {
+    "id": "M-VGMDB-AL-93440",
+    "children": {
+      "M-VGMDB-AL-93440-1": 1.0,
+      "M-VGMDB-AL-93440-2": 1.0,
+      "M-VGMDB-AL-93440-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hiromenes/Kimi no Rhapsody"
+    }
+  },
+  "M-VGMDB-AL-63624-2": {
+    "id": "M-VGMDB-AL-63624-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "1000 kai Urunda Sora"
+    }
+  },
+  "M-VGMDB-AL-63624-1": {
+    "id": "M-VGMDB-AL-63624-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tokimeki Experience!"
+    }
+  },
+  "A-MAL-25519": {
+    "id": "A-MAL-25519",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuuki Yuuna wa Yuusha de Aru"
+    }
+  },
+  "M-VGMDB-AL-78534-2": {
+    "id": "M-VGMDB-AL-78534-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi ni Okuru Angel Yell"
+    }
+  },
+  "M-VGMDB-AR-12665": {
+    "id": "M-VGMDB-AR-12665",
+    "children": {
+      "M-VGMDB-AL-45187-1": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Komatsu Mikako"
+    }
+  },
+  "M-VGMDB-AL-78534-1": {
+    "id": "M-VGMDB-AL-78534-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Remembers!"
+    }
+  },
+  "M-VGMDB-AL-61982": {
+    "id": "M-VGMDB-AL-61982",
+    "children": {
+      "M-VGMDB-AL-61982-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hanate! Dododon!"
+    }
+  },
+  "M-VGMDB-AL-35431": {
+    "id": "M-VGMDB-AL-35431",
+    "children": {
+      "M-VGMDB-AL-35431-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song \"Kimochi Signal\" / Kizu Random Ending Theme Song \"Cry out\""
+    }
+  },
+  "M-VGMDB-AL-61981": {
+    "id": "M-VGMDB-AL-61981",
+    "children": {
+      "M-VGMDB-AL-61981-1": 1.0,
+      "M-VGMDB-AL-61981-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "My Resolution ~Mirai e no Kizuna~"
+    }
+  },
+  "M-MAL-36631-6": {
+    "id": "M-MAL-36631-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chikyuu Saigo no Kokuhaku wo"
+    }
+  },
+  "M-VGMDB-AL-51706": {
+    "id": "M-VGMDB-AL-51706",
+    "children": {
+      "M-VGMDB-AL-51706-1": 1.0,
+      "M-VGMDB-AL-51706-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Meikyuu DESTINY/Ryuusei Dreamline"
+    }
+  },
+  "M-VGMDB-AL-69257-1": {
+    "id": "M-VGMDB-AL-69257-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Uchiage Hanabi"
+    }
+  },
+  "A-MAL-34498": {
+    "id": "A-MAL-34498",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
+    }
+  },
+  "F-VGMDB-4296": {
+    "id": "F-VGMDB-4296",
+    "children": {
+      "A-MAL-13333": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "TARI TARI"
+    }
+  },
+  "A-MAL-21273": {
+    "id": "A-MAL-21273",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gochuumon wa Usagi Desu ka?"
+    }
+  },
+  "A-MAL-14741": {
+    "id": "A-MAL-14741",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chuunibyou demo Koi ga Shitai!"
+    }
+  },
+  "M-VGMDB-AL-99272-12": {
+    "id": "M-VGMDB-AL-99272-12",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Just Believe!!!"
+    }
+  },
+  "M-VGMDB-AR-30564": {
+    "id": "M-VGMDB-AR-30564",
+    "children": {
+      "M-20": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tono Hikaru"
+    }
+  },
+  "A-MAL-32281": {
+    "id": "A-MAL-32281",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi no Na wa"
+    }
+  },
+  "M-VGMDB-AR-5524": {
+    "id": "M-VGMDB-AR-5524",
+    "children": {
+      "M-VGMDB-AL-41280": 0.8,
+      "M-VGMDB-AL-43164": 0.8,
+      "M-VGMDB-AL-37932": 0.8,
+      "M-VGMDB-AL-51516": 0.8,
+      "M-VGMDB-AL-96288": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "yanaginagi"
+    }
+  },
+  "M-VGMDB-AL-51918": {
+    "id": "M-VGMDB-AL-51918",
+    "children": {
+      "M-VGMDB-AL-51918-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kuchizuke Diamond"
+    }
+  },
+  "A-MAL-36885": {
+    "id": "A-MAL-36885",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Saenai Heroine no Sodatekata Fine"
+    }
+  },
+  "M-VGMDB-AL-68225": {
+    "id": "M-VGMDB-AL-68225",
+    "children": {
+      "M-VGMDB-AL-68225-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "STEP by STEP UP↑↑↑↑"
+    }
+  },
+  "M-VGMDB-AL-89290": {
+    "id": "M-VGMDB-AL-89290",
+    "children": {
+      "M-VGMDB-AL-89290-6": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "three"
+    }
+  },
+  "M-VGMDB-AL-61940-1": {
+    "id": "M-VGMDB-AL-61940-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Schlehit Melodie"
+    }
+  },
+  "M-VGMDB-AL-36547": {
+    "id": "M-VGMDB-AL-36547",
+    "children": {
+      "M-VGMDB-AL-36547-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Bokura wa Ima no Naka de"
+    }
+  },
+  "M-VGMDB-AR-13857": {
+    "id": "M-VGMDB-AR-13857",
+    "children": {
+      "M-VGMDB-AL-62516": 1.0,
+      "M-VGMDB-AL-110219": 1.0,
+      "M-VGMDB-AL-47403": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "fhána"
+    }
+  },
+  "M-VGMDB-AL-37999": {
+    "id": "M-VGMDB-AL-37999",
+    "children": {
+      "M-VGMDB-AL-37999-1": 1.0,
+      "M-VGMDB-AL-37999-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hello Alone"
+    }
+  },
+  "M-VGMDB-AR-11436": {
+    "id": "M-VGMDB-AR-11436",
+    "children": {
+      "M-VGMDB-AL-37999-1": 0.4,
+      "M-VGMDB-AL-51394-1": 0.4,
+      "M-VGMDB-AL-96290-1": 0.4,
+      "M-VGMDB-AL-51394-3": 0.8,
+      "M-VGMDB-AL-37999-2": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Toyama Nao"
+    }
+  },
+  "M-VGMDB-AL-78764-1": {
+    "id": "M-VGMDB-AL-78764-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "367Days"
+    }
+  },
+  "M-VGMDB-AL-96290-1": {
+    "id": "M-VGMDB-AL-96290-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Diamond no Jundo"
+    }
+  },
+  "A-MAL-25777": {
+    "id": "A-MAL-25777",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shingeki no Kyojin Season 2"
+    }
+  },
+  "M-VGMDB-AL-22848-2": {
+    "id": "M-VGMDB-AL-22848-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "U&I"
+    }
+  },
+  "M-VGMDB-AL-47678": {
+    "id": "M-VGMDB-AL-47678",
+    "children": {
+      "M-VGMDB-AL-47678-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Aurora Days"
+    }
+  },
+  "M-VGMDB-AL-93532": {
+    "id": "M-VGMDB-AL-93532",
+    "children": {
+      "M-VGMDB-AL-93532-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "A song for You! You? You!!"
+    }
+  },
+  "M-VGMDB-AL-71404": {
+    "id": "M-VGMDB-AL-71404",
+    "children": {
+      "M-VGMDB-AL-71404-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "MY MAI☆TONIGHT/MIRACLE WAVE"
+    }
+  },
+  "M-VGMDB-AL-106577": {
+    "id": "M-VGMDB-AL-106577",
+    "children": {
+      "M-VGMDB-AL-106577-1": 1.0,
+      "M-VGMDB-AL-106577-6": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "BanG Dream! Girls Band Party! Cover collection vol.5"
+    }
+  },
+  "M-VGMDB-AL-34269-7": {
+    "id": "M-VGMDB-AL-34269-7",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Ascension to Heaven"
+    }
+  },
+  "M-VGMDB-AL-37999-2": {
+    "id": "M-VGMDB-AL-37999-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hello Alone -Yui Ballade-"
+    }
+  },
+  "M-VGMDB-AL-37999-1": {
+    "id": "M-VGMDB-AL-37999-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hello Alone"
+    }
+  },
+  "A-MAL-44275": {
+    "id": "A-MAL-44275",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SELECTION PROJECT"
+    }
+  },
+  "M-VGMDB-AL-97692-1": {
+    "id": "M-VGMDB-AL-97692-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Beginner's Sailing"
+    }
+  },
+  "A-MAL-37869": {
+    "id": "A-MAL-37869",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "BanG Dream! 2nd Season"
+    }
+  },
+  "M-VGMDB-AL-78253": {
+    "id": "M-VGMDB-AL-78253",
+    "children": {
+      "M-VGMDB-AL-78253-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"
+    }
+  },
+  "M-14": {
+    "id": "M-14",
+    "children": {
+      "M-VGMDB-AL-82369": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stellamaris"
+    }
+  },
+  "M-VGMDB-AR-11666": {
+    "id": "M-VGMDB-AR-11666",
+    "children": {
+      "M-VGMDB-AL-37130-1": 0.7,
+      "M-VGMDB-AL-37130-2": 0.8,
+      "M-VGMDB-AL-37130-3": 0.85,
+      "M-VGMDB-AL-37130-4": 0.8,
+      "M-VGMDB-AL-37130-5": 0.8,
+      "M-VGMDB-AL-37130-6": 0.8,
+      "M-VGMDB-AL-95369": 0.8,
+      "M-VGMDB-AL-34411": 0.8,
+      "M-VGMDB-AL-42961": 0.8,
+      "M-VGMDB-AL-49423": 0.8,
+      "M-VGMDB-AL-51254": 0.8,
+      "M-VGMDB-AL-54307": 0.8,
+      "M-VGMDB-AL-57564": 0.8,
+      "M-VGMDB-AL-73516": 0.8,
+      "M-VGMDB-AL-89290": 0.8,
+      "M-24": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kano"
+    }
+  },
+  "M-13": {
+    "id": "M-13",
+    "children": {
+      "M-VGMDB-AL-89364-3": 0.8,
+      "M-VGMDB-AL-78520": 0.8,
+      "M-VGMDB-AL-78339": 0.8,
+      "M-VGMDB-AL-82983": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "ortensia"
+    }
+  },
+  "M-12": {
+    "id": "M-12",
+    "children": {
+      "M-11": 0.5
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "kamaboko"
+    }
+  },
+  "M-11": {
+    "id": "M-11",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful. (kamaboko remix)"
+    }
+  },
+  "M-VGMDB-AL-78378": {
+    "id": "M-VGMDB-AL-78378",
+    "children": {
+      "M-VGMDB-AL-78378-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Thank you, FRIENDS!!"
+    }
+  },
+  "M-18": {
+    "id": "M-18",
+    "children": {
+      "M-VGMDB-AL-94913": 0.8,
+      "M-VGMDB-AL-51276": 0.8,
+      "M-22": 0.4,
+      "M-VGMDB-AL-51706": 0.8,
+      "M-VGMDB-AL-61217": 0.8,
+      "M-VGMDB-AL-61981": 0.8,
+      "M-VGMDB-AL-59914": 0.8,
+      "M-VGMDB-AL-104341-1": 0.4,
+      "M-VGMDB-AL-104266-3": 0.8,
+      "M-VGMDB-AL-100082": 0.8,
+      "M-VGMDB-AL-116297": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Plasmagica"
+    }
+  },
+  "M-17": {
+    "id": "M-17",
+    "children": {
+      "M-VGMDB-AL-75344-1": 0.8,
+      "M-VGMDB-AL-75344-5": 0.8,
+      "M-VGMDB-AL-75349": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SPRiNGS"
+    }
+  },
+  "M-16": {
+    "id": "M-16",
+    "children": {
+      "M-VGMDB-AL-78515": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tetrarkhia"
+    }
+  },
+  "M-15": {
+    "id": "M-15",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "TROIS ANGES"
+    }
+  },
+  "M-VGMDB-AL-52045-1": {
+    "id": "M-VGMDB-AL-52045-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CANDY MAGIC"
+    }
+  },
+  "M-19": {
+    "id": "M-19",
+    "children": {
+      "M-VGMDB-AL-51278": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Tsurezurenaru Ayatsuri Mugenan"
+    }
+  },
+  "A-MAL-24997": {
+    "id": "A-MAL-24997",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love Live! School Idol Project Movie"
+    }
+  },
+  "M-VGMDB-AL-23391-1": {
+    "id": "M-VGMDB-AL-23391-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Connect"
+    }
+  },
+  "F-VGMDB-4000": {
+    "id": "F-VGMDB-4000",
+    "children": {
+      "M-VGMDB-AL-52993": 1.0,
+      "M-44": 1.0,
+      "M-VGMDB-AL-53719": 1.0,
+      "A-MAL-24765": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gakkougurashi!"
+    }
+  },
+  "A-MAL-34445": {
+    "id": "A-MAL-34445",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    }
+  },
+  "F-VGMDB-10978": {
+    "id": "F-VGMDB-10978",
+    "children": {
+      "A-MAL-50267": 1.0,
+      "M-VGMDB-AL-93299": 1.0,
+      "M-29": 1.0,
+      "M-26": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Irodorimidori"
+    }
+  },
+  "M-VGMDB-AL-91985-1": {
+    "id": "M-VGMDB-AL-91985-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Utsuroi"
+    }
+  },
+  "F-VGMDB-3274": {
+    "id": "F-VGMDB-3274",
+    "children": {
+      "M-VGMDB-AL-37932-1": 1.0,
+      "M-VGMDB-AL-51516-1": 1.0,
+      "M-VGMDB-AL-96288-1": 1.0,
+      "M-VGMDB-AL-37999": 1.0,
+      "M-VGMDB-AL-51394": 1.0,
+      "M-VGMDB-AL-96290": 1.0,
+      "A-MAL-14813": 1.0,
+      "A-MAL-23847": 1.0,
+      "A-MAL-39547": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    }
+  },
+  "M-VGMDB-AL-89431-1": {
+    "id": "M-VGMDB-AL-89431-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Signal"
+    }
+  },
+  "M-VGMDB-AR-33857": {
+    "id": "M-VGMDB-AR-33857",
+    "children": {
+      "M-VGMDB-AL-115724": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "AiRBLUE"
+    }
+  },
+  "M-21": {
+    "id": "M-21",
+    "children": {
+      "M-VGMDB-AL-61940": 0.8,
+      "M-VGMDB-AL-104267-5": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "BUD VIRGIN LOGIC"
+    }
+  },
+  "M-20": {
+    "id": "M-20",
+    "children": {
+      "M-VGMDB-AL-93440": 0.8,
+      "M-VGMDB-AL-93441": 0.8,
+      "M-VGMDB-AL-104341-1": 0.4,
+      "M-VGMDB-AL-104341-2": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mashumairesh!!"
+    }
+  },
+  "M-VGMDB-AR-12516": {
+    "id": "M-VGMDB-AR-12516",
+    "children": {
+      "M-VGMDB-AL-42762": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "ZAQ"
+    }
+  },
+  "M-VGMDB-AL-80802-2": {
+    "id": "M-VGMDB-AL-80802-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yume e no Ippo"
+    }
+  },
+  "M-VGMDB-AL-118562": {
+    "id": "M-VGMDB-AL-118562",
+    "children": {
+      "M-VGMDB-AL-118562-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Taikakusen wo Tsunaideyo"
+    }
+  },
+  "M-VGMDB-AL-82983": {
+    "id": "M-VGMDB-AL-82983",
+    "children": {
+      "M-VGMDB-AL-78339-1": 1.0,
+      "M-VGMDB-AL-78339-2": 1.0,
+      "M-VGMDB-AL-78520-1": 1.0,
+      "M-VGMDB-AL-78520-2": 1.0,
+      "M-VGMDB-AL-82983-5": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Pullulate"
+    }
+  },
+  "M-VGMDB-AL-57564": {
+    "id": "M-VGMDB-AL-57564",
+    "children": {
+      "M-VGMDB-AL-57564-1": 1.0,
+      "M-VGMDB-AL-51254-1": 1.0,
+      "M-VGMDB-AL-54307-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "nowhere"
+    }
+  },
+  "M-VGMDB-AL-37932": {
+    "id": "M-VGMDB-AL-37932",
+    "children": {
+      "M-VGMDB-AL-37932-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yukitoki"
+    }
+  },
+  "M-VGMDB-AL-61940": {
+    "id": "M-VGMDB-AL-61940",
+    "children": {
+      "M-VGMDB-AL-61940-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Schlehit Melodie/Danzai no Solitude"
+    }
+  },
+  "M-VGMDB-AL-80802-8": {
+    "id": "M-VGMDB-AL-80802-8",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "CHASE!"
+    }
+  },
+  "M-VGMDB-AL-82743": {
+    "id": "M-VGMDB-AL-82743",
+    "children": {
+      "M-VGMDB-AL-82743-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Y.O.L.O"
+    }
+  },
+  "M-VGMDB-AL-45187-1": {
+    "id": "M-VGMDB-AL-45187-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "ripple ~my first love~"
+    }
+  },
+  "M-VGMDB-AL-87199": {
+    "id": "M-VGMDB-AL-87199",
+    "children": {
+      "M-VGMDB-AL-87199-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mitaiken HORIZON"
+    }
+  },
+  "M-VGMDB-AL-49046-1": {
+    "id": "M-VGMDB-AL-49046-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimi wa Wasurerareru no"
+    }
+  },
+  "M-VGMDB-AL-80802-1": {
+    "id": "M-VGMDB-AL-80802-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "TOKIMEKI Runners"
+    }
+  },
+  "M-VGMDB-AL-87198": {
+    "id": "M-VGMDB-AL-87198",
+    "children": {
+      "M-VGMDB-AL-87198-10": 1.0,
+      "M-VGMDB-AL-87198-1": 1.0,
+      "M-VGMDB-AL-87198-7": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Love U my friends"
+    }
+  },
+  "A-MAL-32038": {
+    "id": "A-MAL-32038",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Show by Rock!! #"
+    }
+  },
+  "F-VGMDB-4499": {
+    "id": "F-VGMDB-4499",
+    "children": {
+      "A-MAL-27441": 1.0,
+      "A-MAL-32038": 1.0,
+      "A-MAL-40763": 1.0,
+      "A-MAL-41520": 1.0,
+      "M-VGMDB-AL-100087": 1.0,
+      "M-VGMDB-AL-94913": 1.0,
+      "M-VGMDB-AL-51276": 1.0,
+      "M-VGMDB-AL-51278": 1.0,
+      "M-VGMDB-AL-51706": 1.0,
+      "M-VGMDB-AL-61217": 1.0,
+      "M-VGMDB-AL-61940": 1.0,
+      "M-VGMDB-AL-61981": 1.0,
+      "M-VGMDB-AL-59914": 1.0,
+      "M-VGMDB-AL-93440": 1.0,
+      "M-VGMDB-AL-93441": 1.0,
+      "M-VGMDB-AL-104341": 1.0,
+      "M-VGMDB-AL-104266": 1.0,
+      "M-VGMDB-AL-104267": 1.0,
+      "M-VGMDB-AL-61982": 1.0,
+      "M-VGMDB-AL-118562": 1.0,
+      "M-VGMDB-AL-104418": 1.0,
+      "M-VGMDB-AL-100082": 1.0,
+      "M-VGMDB-AL-116297": 1.0,
+      "M-VGMDB-AL-105612": 1.0,
+      "M-18": 1.0,
+      "M-19": 1.0,
+      "M-20": 1.0,
+      "M-21": 1.0,
+      "M-23": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Show By Rock!!"
+    }
+  },
+  "M-VGMDB-AR-31328": {
+    "id": "M-VGMDB-AR-31328",
+    "children": {
+      "M-VGMDB-AL-106577-6": 0.8,
+      "M-35": 0.26666666666666666
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Pastel*Palletes"
+    }
+  },
+  "M-VGMDB-AR-31329": {
+    "id": "M-VGMDB-AR-31329",
+    "children": {
+      "M-VGMDB-AL-114399-8": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hello, Happy World!"
+    }
+  },
+  "M-VGMDB-AR-13719": {
+    "id": "M-VGMDB-AR-13719",
+    "children": {
+      "M-VGMDB-AL-34051": 0.8,
+      "M-VGMDB-AL-36547": 0.8,
+      "M-VGMDB-AL-75504": 0.8,
+      "M-VGMDB-AL-93532": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "μ's"
+    }
+  },
+  "M-VGMDB-AR-31326": {
+    "id": "M-VGMDB-AR-31326",
+    "children": {
+      "M-VGMDB-AL-82743": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Afterglow"
+    }
+  },
+  "F-VGMDB-6434": {
+    "id": "F-VGMDB-6434",
+    "children": {
+      "M-VGMDB-AL-63666": 1.0,
+      "A-MAL-34392": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "OneRoom"
+    }
+  },
+  "M-10": {
+    "id": "M-10",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Colorful. (Asterisk DnB Remix)"
+    }
+  },
+  "F-VGMDB-6439": {
+    "id": "F-VGMDB-6439",
+    "children": {
+      "M-VGMDB-AL-75349": 1.0,
+      "M-17": 1.0,
+      "M-VGMDB-AL-75344": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Onsen Musume"
+    }
+  },
+  "M-VGMDB-AL-78536-2": {
+    "id": "M-VGMDB-AL-78536-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Startin' My Re:STAGE!!"
+    }
+  },
+  "F-VGMDB-9703": {
+    "id": "F-VGMDB-9703",
+    "children": {
+      "A-MAL-44275": 1.0,
+      "M-50": 1.0,
+      "M-VGMDB-AL-114102": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "SELECTION PROJECT"
+    }
+  },
+  "M-36": {
+    "id": "M-36",
+    "children": {
+      "M-37": 0.3,
+      "M-45": 0.45
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Will Stetson"
+    }
+  },
+  "A-MAL-23209": {
+    "id": "A-MAL-23209",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sora no Method"
+    }
+  },
+  "M-35": {
+    "id": "M-35",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
+    }
+  },
+  "M-34": {
+    "id": "M-34",
+    "children": {
+      "M-35": 0.3333333333333333
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Rakakun"
+    }
+  },
+  "M-33": {
+    "id": "M-33",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Cherry Bomb"
+    }
+  },
+  "M-37": {
+    "id": "M-37",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
+    }
+  },
+  "M-VGMDB-AL-37130-3": {
+    "id": "M-VGMDB-AL-37130-3",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "[It's not] World's end"
+    }
+  },
+  "M-VGMDB-AL-37130-2": {
+    "id": "M-VGMDB-AL-37130-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Utautai no Uta"
+    }
+  },
+  "M-VGMDB-AL-37130-5": {
+    "id": "M-VGMDB-AL-37130-5",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Asayake, Kimi no Uta."
+    }
+  },
+  "M-VGMDB-AL-37130-4": {
+    "id": "M-VGMDB-AL-37130-4",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "\"Nee.\""
+    }
+  },
+  "M-VGMDB-AL-58627": {
+    "id": "M-VGMDB-AL-58627",
+    "children": {
+      "M-VGMDB-AL-58627-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Now Loading!!!!"
+    }
+  },
+  "M-VGMDB-AL-37130-6": {
+    "id": "M-VGMDB-AL-37130-6",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sakura no Zenya"
+    }
+  },
+  "M-VGMDB-AL-89363": {
+    "id": "M-VGMDB-AL-89363",
+    "children": {
+      "M-VGMDB-AL-78516-1": 1.0,
+      "M-VGMDB-AL-78764-1": 1.0,
+      "M-VGMDB-AL-89363-1": 1.0,
+      "M-VGMDB-AL-89363-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver."
+    }
+  },
+  "M-VGMDB-AL-89364": {
+    "id": "M-VGMDB-AL-89364",
+    "children": {
+      "M-VGMDB-AL-89363-1": 1.0,
+      "M-VGMDB-AL-89363-2": 1.0,
+      "M-VGMDB-AL-78520-1": 1.0,
+      "M-VGMDB-AL-89364-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."
+    }
+  },
+  "M-VGMDB-AL-47403": {
+    "id": "M-VGMDB-AL-47403",
+    "children": {
+      "M-VGMDB-AL-47403-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hoshikuzu no Interlude"
+    }
+  },
+  "M-VGMDB-AL-51918-1": {
+    "id": "M-VGMDB-AL-51918-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kuchizuke Diamond"
+    }
+  },
+  "M-VGMDB-AL-47402": {
+    "id": "M-VGMDB-AL-47402",
+    "children": {
+      "M-VGMDB-AL-47402-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Stargazer"
+    }
+  },
+  "M-VGMDB-AL-43164": {
+    "id": "M-VGMDB-AL-43164",
+    "children": {
+      "M-VGMDB-AL-43164-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Mitsuba no Musubime"
+    }
+  },
+  "M-VGMDB-AL-70622": {
+    "id": "M-VGMDB-AL-70622",
+    "children": {
+      "M-VGMDB-AL-70622-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yuuki wa Doko ni? Kimi no Mune ni!"
+    }
+  },
+  "A-MAL-33573": {
+    "id": "A-MAL-33573",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "BanG Dream!"
+    }
+  },
+  "M-43": {
+    "id": "M-43",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chikyuu Saigo no Kokuhaku wo (HAG)"
+    }
+  },
+  "M-42": {
+    "id": "M-42",
+    "children": {
+      "M-43": 0.75
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "H△G"
+    }
+  },
+  "M-VGMDB-AL-78339-2": {
+    "id": "M-VGMDB-AL-78339-2",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "crave"
+    }
+  },
+  "M-41": {
+    "id": "M-41",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
+    }
+  },
+  "M-VGMDB-AL-78339-1": {
+    "id": "M-VGMDB-AL-78339-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "＊Heart Confusion＊"
+    }
+  },
+  "M-VGMDB-AL-55364": {
+    "id": "M-VGMDB-AL-55364",
+    "children": {
+      "M-VGMDB-AL-54418-1": 1.0,
+      "M-VGMDB-AL-55364-3": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Is the order a rabbit?? Chino Character Song Album: CUP OF Chino"
+    }
+  },
+  "M-24": {
+    "id": "M-24",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimiiro Hanabi -album version-"
+    }
+  },
+  "M-23": {
+    "id": "M-23",
+    "children": {
+      "M-VGMDB-AL-104266-6": 0.8,
+      "M-VGMDB-AL-61982": 0.8,
+      "M-VGMDB-AL-105612": 0.8
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Criticrista"
+    }
+  },
+  "M-VGMDB-AR-9069": {
+    "id": "M-VGMDB-AR-9069",
+    "children": {
+      "M-VGMDB-AL-49046": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yokoyama Masaru"
+    }
+  },
+  "M-22": {
+    "id": "M-22",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Seishun wa Non-Stop! (Asterisk DnB Remix)"
+    }
+  },
+  "M-VGMDB-AL-58750": {
+    "id": "M-VGMDB-AL-58750",
+    "children": {
+      "M-VGMDB-AL-58750-1": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu!"
+    }
+  },
+  "M-29": {
+    "id": "M-29",
+    "children": {
+      "M-30": 1.0,
+      "M-31": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Maware! GO! GO! CHUNITHM"
+    }
+  },
+  "M-26": {
+    "id": "M-26",
+    "children": {
+      "M-VGMDB-AL-93299": 0.48,
+      "M-29": 0.48
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Irodorimidori"
+    }
+  },
+  "A-MAL-35760": {
+    "id": "A-MAL-35760",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Shingeki no Kyojin Season 3"
+    }
+  },
+  "A-MAL-24765": {
+    "id": "A-MAL-24765",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Gakkougurashi!"
+    }
+  },
+  "F-VGMDB-2090": {
+    "id": "F-VGMDB-2090",
+    "children": {
+      "A-MAL-13759": 1.0,
+      "M-VGMDB-AL-35015": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sakurasou no Pet na Kanojo"
+    }
+  },
+  "A-MAL-13759": {
+    "id": "A-MAL-13759",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sakurasou no Pet na Kanojo"
+    }
+  },
+  "M-VGMDB-AL-37932-1": {
+    "id": "M-VGMDB-AL-37932-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Yukitoki"
+    }
+  },
+  "M-VGMDB-AL-21146": {
+    "id": "M-VGMDB-AL-21146",
+    "children": {
+      "M-VGMDB-AL-21146-9": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "HO-KAGO TEA TIME Second"
+    }
+  },
+  "M-VGMDB-AL-37130-1": {
+    "id": "M-VGMDB-AL-37130-1",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Hello / How are you (mix)"
+    }
+  },
+  "M-VGMDB-AL-112929": {
+    "id": "M-VGMDB-AL-112929",
+    "children": {
+      "M-VGMDB-AL-112929-2": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "L!L!L! (Love the Life We Live)"
+    }
+  },
+  "M-MAL-36631": {
+    "id": "M-MAL-36631",
+    "children": {
+      "M-MAL-36631-6": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Pandora Voxx Complete"
+    }
+  },
+  "F-VGMDB-504": {
+    "id": "F-VGMDB-504",
+    "children": {
+      "M-VGMDB-AL-20118": 1.0,
+      "M-VGMDB-AL-21146": 1.0,
+      "M-VGMDB-AL-22848": 1.0,
+      "M-VGMDB-AR-8870": 1.0,
+      "A-MAL-5680": 1.0,
+      "A-MAL-7791": 1.0,
+      "A-MAL-9617": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "K-On!"
+    }
+  },
+  "M-32": {
+    "id": "M-32",
+    "children": {
+      "M-33": 1.0
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "S"
+    }
+  },
+  "M-31": {
+    "id": "M-31",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Zero kara hajimeru Brain Power"
+    }
+  },
+  "M-30": {
+    "id": "M-30",
+    "children": {
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Bokura no Freedom DiVE↓"
+    }
+  },
+  "M-VGMDB-AR-12726": {
+    "id": "M-VGMDB-AR-12726",
+    "children": {
+      "M-9": 0.2
+    },
+    "DAH_meta_meta": {
+      "DAH_entry_title_title": "Sakura Ayane"
+    }
+  }
+}

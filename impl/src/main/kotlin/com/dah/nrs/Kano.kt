@@ -1,6 +1,12 @@
 package com.dah.nrs
 
-fun GenerateBlock.Kano() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.vector
+import com.dah.nrs.exts.*
+
+fun DSLScope.Kano() {
     // le meme artist (kano) has a very distinctive voice,
     // making her literally the best singer in j-pop
     // her voice are soft and loli-like, but it can also

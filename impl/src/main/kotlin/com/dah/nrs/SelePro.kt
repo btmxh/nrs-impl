@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateScope.SelePro() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.SelePro() {
     Entry {
         id = "F-VGMDB-9703"
         title = "SELECTION PROJECT"
@@ -16,7 +21,7 @@ fun GenerateScope.SelePro() {
         }
 
         Entry {
-            id = "M-51"
+            id = "M-50"
             title = "9-tie"
 
             Contains(ImageVocalContainFactor) {

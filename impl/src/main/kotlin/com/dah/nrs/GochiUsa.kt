@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.GochiUsa() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.GochiUsa() {
     Entry {
         id = "F-VGMDB-3939"
         title = "Gochuumon wa Usagi Desu ka?"

@@ -1,7 +1,14 @@
 package com.dah.nrs
 
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.exts.Boredom
+import com.dah.nrs.exts.Completed
+import com.dah.nrs.exts.Emotion
+import com.dah.nrs.exts.NEI
+
 // imagine almost losing a contentless franchise xddddddddddddd
-fun GenerateBlock.AOT() {
+fun DSLScope.AOT() {
     Entry {
         title = "Shingeki no Kyojin"
         id = "F-VGMDB-2931"

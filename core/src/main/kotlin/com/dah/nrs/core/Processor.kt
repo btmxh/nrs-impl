@@ -1,33 +1,30 @@
-package com.dah.nrs.experimental.core
+package com.dah.nrs.core
 
-import com.dah.nrs.EPSILON
-import com.dah.nrs.ScoreVector
-import com.dah.nrs.combineVectors
 import kotlin.math.pow
 
 internal class MutableResult(
     val impacts: HashMap<Int, ScoreVector> = hashMapOf(),
     val relations: HashMap<Int, ScoreVector> = hashMapOf()
 ) {
-    fun toResult(): EntryResult {
-        return EntryResult(impacts, relations)
+    fun toResult(context: NRSContext): EntryResult {
+        return EntryResult(context, impacts, relations)
     }
 }
 
-internal class Processor(val context: NRSContext, val data: NRSData) {
-    val getContainWeightStack = ReoccurrenceStack<Pair<ID, ID>>(1)
-    val processEntryRelationsStack = ReoccurrenceStack<ID>()
+internal class Processor(private val context: NRSContext, private val data: NRSData) {
+    private val getContainWeightStack = ReoccurrenceStack<Pair<ID, ID>>(1)
+    private val processEntryRelationsStack = ReoccurrenceStack<ID>()
 
-    val results = hashMapOf<ID, MutableResult>()
+    private val results = hashMapOf<ID, MutableResult>()
 
     fun process(): Map<ID, EntryResult> {
         processImpacts()
         processRelations()
 
-        return results.mapValues { (_, mutableResult) -> mutableResult.toResult() }
+        return results.mapValues { (_, mutableResult) -> mutableResult.toResult(context) }
     }
 
-    fun getResult(id: ID): MutableResult {
+    private fun getResult(id: ID): MutableResult {
         return results.getOrPut(id, ::MutableResult)
     }
 
@@ -51,9 +48,9 @@ internal class Processor(val context: NRSContext, val data: NRSData) {
 
     private fun processEntryRelations(id: ID, storeRelationScores: Boolean = false): ScoreVector {
         val relationScores = arrayListOf<ScoreVector>()
-        if(processEntryRelationsStack.push(id)) {
+        if (processEntryRelationsStack.push(id)) {
             for ((index, relation) in data.relations.withIndex()) {
-                var relationResult = ScoreVector.ZERO
+                var relationResult = context.zeroVector()
                 val contributingWeight = getContributingWeight(id, relation.contributors)
                 if (contributingWeight <= EPSILON) {
                     continue
@@ -62,17 +59,17 @@ internal class Processor(val context: NRSContext, val data: NRSData) {
                 for ((reference, referenceWeight) in relation.references) {
                     if (getContainWeight(id, reference) > EPSILON) {
                         // self-relation
-                        ScoreVector.ZERO
+                        context.zeroVector()
                     } else {
                         val totalRelationScore = processEntryRelations(reference)
-                        val totalImpactScore = getResult(reference).toResult().totalImpact
+                        val totalImpactScore = getResult(reference).toResult(context).totalImpact
 
                         val referenceOverall = totalImpactScore + totalRelationScore
                         relationResult += referenceWeight * referenceOverall
                     }
                 }
 
-                if(storeRelationScores) {
+                if (storeRelationScores) {
                     getResult(id).relations[index] = relationResult
                 }
 
@@ -80,8 +77,8 @@ internal class Processor(val context: NRSContext, val data: NRSData) {
             }
         }
 
-        processEntryRelationsStack.pop()
-        return combineVectors(relationScores)
+        processEntryRelationsStack.pop(id)
+        return context.combineVectors(relationScores)
     }
 
     private fun buffWeight(weight: Double): Double {
@@ -98,14 +95,15 @@ internal class Processor(val context: NRSContext, val data: NRSData) {
             return 1.0
         }
 
-        if (getContainWeightStack.push(Pair(parent, child))) {
-            result = (data.entries[parent] ?: return warnNullEntry(parent).let { 0.0 })
+        val pair = Pair(parent, child)
+        if (getContainWeightStack.push(pair)) {
+            result = ((data.entries[parent] ?: return warnNullEntry(parent).let { 0.0 })
                 .children
-                .maxOf { (id, weight) -> getContainWeight(id, child) * weight }
+                .maxOfOrNull { (id, weight) -> getContainWeight(id, child) * weight } ?: 0.0)
                 .coerceAtMost(1.0)
         }
 
-        getContainWeightStack.pop()
+        getContainWeightStack.pop(pair)
         return result
     }
 

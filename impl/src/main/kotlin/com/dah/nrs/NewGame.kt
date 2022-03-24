@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.NewGame() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.NewGame() {
     Entry {
         id = "F-VGMDB-4168"
         title = "NEW GAME!"
@@ -67,10 +72,13 @@ fun GenerateBlock.NewGame() {
         Entry {
             id = "M-VGMDB-AL-68225"
             title = "STEP by STEP UP↑↑↑↑"
-            // mankai step by step
-            // this song is legendary af
-            Music(4.5)
-            OsuSong(personal = 8.0)
+
+            SubIDEntry("1") {
+                // mankai step by step
+                // this song is legendary af
+                Music(4.5)
+                OsuSong(personal = 8.0)
+            }
         }
     }
 }

@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.Bandori() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Bandori() {
     // gen1 sb69
     Entry {
         id = "F-VGMDB-5173"

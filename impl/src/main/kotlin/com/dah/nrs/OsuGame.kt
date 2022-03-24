@@ -1,6 +1,14 @@
 package com.dah.nrs
 
-fun GenerateBlock.OsuGame() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.Emotion
+import com.dah.nrs.exts.Music
+import com.dah.nrs.exts.NEI
+import com.dah.nrs.exts.OsuSong
+
+fun DSLScope.OsuGame() {
     Entry {
         id = "M-VGMDB-AR-12225"
         title = "xi"

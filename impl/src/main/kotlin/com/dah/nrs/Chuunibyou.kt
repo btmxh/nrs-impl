@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.Chuunibyou() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Chuunibyou() {
     Entry {
         id = "M-VGMDB-AR-12516"
         title = "ZAQ"

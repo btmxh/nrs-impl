@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.YLIA() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.YLIA() {
     Entry {
         id = "F-VGMDB-3345"
         title = "Shigatsu wa Kimi no Uso"

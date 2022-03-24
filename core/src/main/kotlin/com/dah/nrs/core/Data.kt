@@ -1,10 +1,9 @@
-package com.dah.nrs.experimental.core
+package com.dah.nrs.core
 
-import com.dah.nrs.ScoreMatrix
-import com.dah.nrs.ScoreVector
 import kotlinx.serialization.json.JsonObject
 
 typealias ID = String
+
 data class NRSData(val entries: Map<ID, IEntry>, val impacts: List<IImpact>, val relations: List<IRelation>)
 
 interface IEntry {

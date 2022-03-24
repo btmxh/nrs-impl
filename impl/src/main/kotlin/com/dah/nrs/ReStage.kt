@@ -1,11 +1,17 @@
 package com.dah.nrs
 
+import com.dah.nrs.dsl.DSLEntry
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
 // gee-zay honesty
 // where is the glorious rst
 
 // watch rst and buy the bluray
 private val AllRstTracks = mutableListOf<String>()
-fun Entry.TrackMusic(score: Double) {
+fun DSLEntry.TrackMusic(score: Double) {
     Music(score)
     AllRstTracks.add(id)
 }
@@ -16,7 +22,7 @@ fun Entry.TrackMusic(score: Double) {
 // only 0.15 NRS score from Love Live Niji
 // top 1 anime doable LETSGO
 // this is the first step of our global (oricon) domination plan
-fun GenerateBlock.ReStage() {
+fun DSLScope.ReStage() {
     // changed da world
 
     // A sky, filled with colors, which was painted by a girl.
@@ -54,8 +60,8 @@ fun GenerateBlock.ReStage() {
     }
 
     // overture: shelter incident
-//    AEI(2.5, Emotion.CP) {
-    NEI(8.0, Emotion.CP) {
+    AEI(0.0, Emotion.CP) {
+//    NEI(8.0, Emotion.CP) {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
     }
@@ -232,7 +238,7 @@ fun GenerateBlock.ReStage() {
             Contains("M-VGMDB-AL-78534-2")
             Contains("M-VGMDB-AL-78575-1")
             Contains("M-VGMDB-AL-78532-1")
-            Contains("M-VGMDB-AL-78536-1")
+            Contains("M-VGMDB-AL-78536-2")
         }
 
         Entry {

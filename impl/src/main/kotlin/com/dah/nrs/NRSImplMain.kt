@@ -6,8 +6,12 @@
 
 package com.dah.nrs
 
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.generate
+import com.dah.nrs.exts.*
+
 // custom id counters:
-// M-50
+// M-52
 // A-1
 // L-1
 // G-1
@@ -195,6 +199,7 @@ fun main() =
 
         ReStage()
         OnsenMusume()
+        LapisReLights()
         Kano()
 
         Cue()

@@ -1,6 +1,11 @@
 package com.dah.nrs
 
-fun GenerateBlock.Irodori() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.*
+
+fun DSLScope.Irodori() {
     // original of irodori covers
     Entry {
         id = "M-VGMDB-AR-9553"

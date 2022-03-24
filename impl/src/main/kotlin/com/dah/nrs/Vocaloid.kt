@@ -1,6 +1,14 @@
 package com.dah.nrs
 
-fun GenerateBlock.Vocaloid() {
+import com.dah.nrs.dsl.DSLScope
+import com.dah.nrs.dsl.Entry
+import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.exts.AEI
+import com.dah.nrs.exts.Emotion
+import com.dah.nrs.exts.Music
+import com.dah.nrs.exts.Remix
+
+fun DSLScope.Vocaloid() {
     Entry {
         // there is no vgmdb entry for this
         // but there is a mal one kek
