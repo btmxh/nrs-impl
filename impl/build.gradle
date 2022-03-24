@@ -7,13 +7,10 @@ application {
     mainClass = 'com.dah.nrs.NRSImplMainKt'
 }
 
-group 'com.dah'
-
 repositories {
     mavenCentral()
 }
 
 dependencies {
     implementation project(':core')
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 }

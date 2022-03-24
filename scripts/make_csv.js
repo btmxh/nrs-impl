@@ -30,13 +30,13 @@ const output = (id, entry, score) => {
 // Script content
 const fs = require("fs");
 const csv = require("csv");
-const entries = JSON.parse(fs.readFileSync("../output/entries.json"));
-const scores = JSON.parse(fs.readFileSync("../output/scores.json"));
+const entries = JSON.parse(fs.readFileSync("output/entries.json"));
+const scores = JSON.parse(fs.readFileSync("output/scores.json"));
 
 let output_data = [labels];
 for(const id in entries) {
     output_data.push(output(id, entries[id], scores[id]));
 }
 csv.stringify(output_data, (_, out) => {
-    fs.writeFileSync("nrs.csv", out);
+    fs.writeFileSync("output/nrs.csv", out);
 })

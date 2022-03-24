@@ -14,8 +14,7 @@ task runAndMakeCSV {
     dependsOn ':impl:run'
     doLast {
         exec {
-            workingDir 'scripts'
-            commandLine 'node', 'make_csv.js'
+            commandLine 'node', 'scripts/make_csv.js'
         }
     }
 }
