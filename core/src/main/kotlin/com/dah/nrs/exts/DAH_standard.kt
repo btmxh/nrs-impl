@@ -56,6 +56,9 @@ fun AcceptRelation.Relation(block: DSLRelation.() -> Unit) {
 // combine(PADSImpactScoreVector, Emotion.weight) = 1.0
 // multiply this vector by `x` to change 1.0 to x in the above property
 private fun emotionVector(context: NRSContext, vararg emotions: Pair<Emotion.Factor, Double>): ScoreVector {
+    if(emotions.isEmpty()) {
+        error("Empty list of emotions")
+    }
     val contributingFactors = emotions.map { it.second }
     val combinedFactor = combine(contributingFactors, Emotion.weight)
     val baseScore = 1.0 / combinedFactor
@@ -137,6 +140,9 @@ fun AcceptImpact.NEI(score: Double, emotion: Emotion.Factor, block: DSLImpact.()
     NEI(score, emotion to 1.0) { block() }
 
 fun AcceptImpact.Waifu(name: String, vararg periods: Pair<String, String>, block: DSLImpact.() -> Unit = {}) {
+    if(periods.isEmpty()) {
+        error("Empty list of periods")
+    }
     val days = periods.sumOf {
         try {
             val from = LocalDate.parse(it.first)
