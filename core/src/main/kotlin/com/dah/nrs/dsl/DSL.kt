@@ -178,6 +178,7 @@ fun generate(block: DSLScope.() -> Unit) {
         DAH_json = true
         DAH_meta = true
         DAH_standards = true
+        DAH_anime_normalize = true
     }
 
     val scope = DSLScope(ctx).also(block)

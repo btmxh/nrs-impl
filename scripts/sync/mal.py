@@ -7,14 +7,10 @@ from datetime import datetime
 from xml.dom.minidom import parse
 import xml.dom.minidom
 
-from score_normalizer import get_normalized_entries
+from sync.score_normalizer import get_normalized_entries
 
 
 map = get_normalized_entries()
-for e in map.values():
-    print(e["id"], e["title"], e["score"],
-          e["placement_score"], e["nrs_score"])
-
 tree = xml.dom.minidom.parse("animelist.xml")
 nodes = tree.getElementsByTagName("anime")
 for anime in nodes:
@@ -23,7 +19,7 @@ for anime in nodes:
     try:
         print(id, map[id]["title"])
         anime.getElementsByTagName('my_score')[
-            0].childNodes[0].data = math.ceil(map[id]["score"])
+            0].childNodes[0].data = math.round(map[id]["score"])
     except:
         print(id, "not found")
         anime.getElementsByTagName('my_score')[0].childNodes[0].data = 1

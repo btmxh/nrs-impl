@@ -29,6 +29,12 @@ class NRSContext {
         // dependency
         DAH_factors = true
     }
+    var DAH_anime_normalize by extension("DAH_anime_normalize") {
+        // dependency
+        DAH_factors = true
+        DAH_overall_score = true
+        DAH_standards = true
+    }
 
     val DAH_json_json by lazy {
         if (DAH_json) Json {
@@ -37,6 +43,10 @@ class NRSContext {
                 registerDAHJsonSerializers()
             }
         } else null
+    }
+
+    val DAH_anime_normalize_baseAnimeScores by lazy {
+        if (DAH_anime_normalize) DAH_anime_normalize_getBaseAnimeScores() else null
     }
 
     fun process(data: NRSData) = Processor(this, data).process()
@@ -61,7 +71,7 @@ class ExtensionProperty(private val name: String, private val ifEnabled: () -> U
 
     operator fun setValue(nrsContext: NRSContext, property: KProperty<*>, value: Boolean) {
         if (value) {
-            if(nrsContext.extensions.add(name)) {
+            if (nrsContext.extensions.add(name)) {
                 ifEnabled()
             }
         } else {

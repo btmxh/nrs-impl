@@ -124,7 +124,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.204322722179157
+        "DAH_overall_score_overallScore": 2.204322722179157,
+        "DAH_anime_normalize_score": 6.704322722179157
     },
     "M-VGMDB-AL-78575": {
         "impacts": {
@@ -191,7 +192,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AL-42900-3": {
         "impacts": {
@@ -258,7 +260,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.36
+        "DAH_overall_score_overallScore": 0.36,
+        "DAH_anime_normalize_score": 4.573333333333333
     },
     "M-VGMDB-AL-42900-1": {
         "impacts": {
@@ -340,7 +343,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2299999999999998
+        "DAH_overall_score_overallScore": 1.2299999999999998,
+        "DAH_anime_normalize_score": 5.459999999999999
     },
     "M-VGMDB-AL-95029-1": {
         "impacts": {
@@ -407,7 +411,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9500000000000004
+        "DAH_overall_score_overallScore": 1.9500000000000004,
+        "DAH_anime_normalize_score": 6.45
     },
     "M-VGMDB-AL-114399": {
         "impacts": {
@@ -489,7 +494,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.775
+        "DAH_overall_score_overallScore": 1.775,
+        "DAH_anime_normalize_score": 6.275
     },
     "M-VGMDB-AL-78339": {
         "impacts": {
@@ -571,7 +577,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7794829535588478
+        "DAH_overall_score_overallScore": 0.7794829535588478,
+        "DAH_anime_normalize_score": 4.8529886357058984
     },
     "M-VGMDB-AL-41292": {
         "impacts": {
@@ -668,7 +675,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9212833777400151
+        "DAH_overall_score_overallScore": 1.9212833777400151,
+        "DAH_anime_normalize_score": 6.421283377740015
     },
     "M-VGMDB-AL-58147-1": {
         "impacts": {
@@ -735,7 +743,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-102281": {
         "impacts": {
@@ -832,7 +841,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2975326617984144
+        "DAH_overall_score_overallScore": 1.2975326617984144,
+        "DAH_anime_normalize_score": 5.595065323596829
     },
     "M-VGMDB-AR-30829": {
         "impacts": {
@@ -1199,7 +1209,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.181223081334359
+        "DAH_overall_score_overallScore": 5.181223081334359,
+        "DAH_anime_normalize_score": 7.840998943874576
     },
     "M-VGMDB-AL-104341": {
         "impacts": {
@@ -1281,7 +1292,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6009172444572908
+        "DAH_overall_score_overallScore": 1.6009172444572908,
+        "DAH_anime_normalize_score": 6.100917244457291
     },
     "M-VGMDB-AL-104418-1": {
         "impacts": {
@@ -1348,7 +1360,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-81504": {
         "impacts": {
@@ -1430,7 +1443,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.7
+        "DAH_overall_score_overallScore": 2.7,
+        "DAH_anime_normalize_score": 7.062732485762135
     },
     "A-MAL-11887": {
         "impacts": {
@@ -1557,7 +1571,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.6315651852307895
+        "DAH_overall_score_overallScore": 3.6315651852307895,
+        "DAH_anime_normalize_score": 7.354929484357091
     },
     "M-47": {
         "impacts": {
@@ -1624,7 +1639,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-41280-1": {
         "impacts": {
@@ -1691,7 +1707,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "M-46": {
         "impacts": {
@@ -1803,7 +1820,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9186352747217246
+        "DAH_overall_score_overallScore": 1.9186352747217246,
+        "DAH_anime_normalize_score": 6.418635274721725
     },
     "M-VGMDB-AR-8870": {
         "impacts": {
@@ -1915,7 +1933,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8270732307265043
+        "DAH_overall_score_overallScore": 0.8270732307265043,
+        "DAH_anime_normalize_score": 4.884715487151003
     },
     "M-45": {
         "impacts": {
@@ -1997,7 +2016,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.19499999999999995
+        "DAH_overall_score_overallScore": 0.19499999999999995,
+        "DAH_anime_normalize_score": 4.463333333333333
     },
     "M-VGMDB-AL-51254-1": {
         "impacts": {
@@ -2079,7 +2099,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6
+        "DAH_overall_score_overallScore": 1.6,
+        "DAH_anime_normalize_score": 6.1
     },
     "M-44": {
         "impacts": {
@@ -2161,7 +2182,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0876028503536521
+        "DAH_overall_score_overallScore": 1.0876028503536521,
+        "DAH_anime_normalize_score": 5.175205700707304
     },
     "A-MAL-19111": {
         "impacts": {
@@ -2273,7 +2295,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.401251809196266
+        "DAH_overall_score_overallScore": 2.401251809196266,
+        "DAH_anime_normalize_score": 6.901251809196266
     },
     "M-VGMDB-AR-8874": {
         "impacts": {
@@ -2340,7 +2363,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22768399153212326
+        "DAH_overall_score_overallScore": 0.22768399153212326,
+        "DAH_anime_normalize_score": 4.485122661021416
     },
     "M-49": {
         "impacts": {
@@ -2422,7 +2446,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.75
+        "DAH_overall_score_overallScore": 1.75,
+        "DAH_anime_normalize_score": 6.25
     },
     "M-48": {
         "impacts": {
@@ -2489,7 +2514,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.2697798616076224
+        "DAH_overall_score_overallScore": 2.2697798616076224,
+        "DAH_anime_normalize_score": 6.769779861607622
     },
     "M-VGMDB-AL-78530-1": {
         "impacts": {
@@ -2556,7 +2582,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-41280": {
         "impacts": {
@@ -2623,7 +2650,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "M-VGMDB-AL-33537": {
         "impacts": {
@@ -2690,7 +2718,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "A-MAL-11757": {
         "impacts": {
@@ -2772,7 +2801,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.06
+        "DAH_overall_score_overallScore": 1.06,
+        "DAH_anime_normalize_score": 5.12
     },
     "A-MAL-33206": {
         "impacts": {
@@ -2869,7 +2899,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.6799999999999997
+        "DAH_overall_score_overallScore": 2.6799999999999997,
+        "DAH_anime_normalize_score": 7.056459237185921
     },
     "M-VGMDB-AL-41278": {
         "impacts": {
@@ -2936,7 +2967,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "F-VGMDB-3483": {
         "impacts": {
@@ -3093,7 +3125,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.461685832395204
+        "DAH_overall_score_overallScore": 4.461685832395204,
+        "DAH_anime_normalize_score": 7.61530714275257
     },
     "M-50": {
         "impacts": {
@@ -3160,7 +3193,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4186124135047637
+        "DAH_overall_score_overallScore": 1.4186124135047637,
+        "DAH_anime_normalize_score": 5.8372248270095275
     },
     "M-VGMDB-AL-102277": {
         "impacts": {
@@ -3227,7 +3261,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9500000000000004
+        "DAH_overall_score_overallScore": 1.9500000000000004,
+        "DAH_anime_normalize_score": 6.45
     },
     "M-VGMDB-AR-6783": {
         "impacts": {
@@ -3309,7 +3344,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6640783086353595
+        "DAH_overall_score_overallScore": 0.6640783086353595,
+        "DAH_anime_normalize_score": 4.776052205756907
     },
     "M-VGMDB-AL-102276": {
         "impacts": {
@@ -3376,7 +3412,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-27992": {
         "impacts": {
@@ -3593,7 +3630,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.062920971651627
+        "DAH_overall_score_overallScore": 4.062920971651627,
+        "DAH_anime_normalize_score": 7.490229588007389
     },
     "F-VGMDB-3245": {
         "impacts": {
@@ -3975,7 +4013,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 10.64209687687784
+        "DAH_overall_score_overallScore": 10.64209687687784,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AR-27993": {
         "impacts": {
@@ -4042,7 +4081,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9930286894533344
+        "DAH_overall_score_overallScore": 0.9930286894533344,
+        "DAH_anime_normalize_score": 4.995352459635557
     },
     "M-VGMDB-AL-20118": {
         "impacts": {
@@ -4124,7 +4164,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.84
+        "DAH_overall_score_overallScore": 0.84,
+        "DAH_anime_normalize_score": 4.893333333333333
     },
     "A-MAL-35507": {
         "impacts": {
@@ -4206,7 +4247,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4
+        "DAH_overall_score_overallScore": 1.4,
+        "DAH_anime_normalize_score": 5.8
     },
     "M-51": {
         "impacts": {
@@ -4273,7 +4315,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1348899308038112
+        "DAH_overall_score_overallScore": 1.1348899308038112,
+        "DAH_anime_normalize_score": 5.269779861607622
     },
     "M-VGMDB-AL-41292-1": {
         "impacts": {
@@ -4370,7 +4413,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9212833777400151
+        "DAH_overall_score_overallScore": 1.9212833777400151,
+        "DAH_anime_normalize_score": 6.421283377740015
     },
     "M-VGMDB-AL-34411": {
         "impacts": {
@@ -4482,7 +4526,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6544579708552276
+        "DAH_overall_score_overallScore": 1.6544579708552276,
+        "DAH_anime_normalize_score": 6.154457970855228
     },
     "M-VGMDB-AL-52045": {
         "impacts": {
@@ -4549,7 +4594,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AR-15766": {
         "impacts": {
@@ -4661,7 +4707,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.48941221181318
+        "DAH_overall_score_overallScore": 1.48941221181318,
+        "DAH_anime_normalize_score": 5.97882442362636
     },
     "M-VGMDB-AL-94913": {
         "impacts": {
@@ -4728,7 +4775,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-95369-1": {
         "impacts": {
@@ -4825,7 +4873,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "M-VGMDB-AL-59914": {
         "impacts": {
@@ -4907,7 +4956,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.40499999999999997
+        "DAH_overall_score_overallScore": 0.40499999999999997,
+        "DAH_anime_normalize_score": 4.6033333333333335
     },
     "F-VGMDB-3370": {
         "impacts": {
@@ -5049,7 +5099,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.3680920144760345
+        "DAH_overall_score_overallScore": 2.3680920144760345,
+        "DAH_anime_normalize_score": 6.8680920144760345
     },
     "M-VGMDB-AR-26898": {
         "impacts": {
@@ -5491,7 +5542,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.4955018267259597
+        "DAH_overall_score_overallScore": 3.4955018267259597,
+        "DAH_anime_normalize_score": 7.312251520856328
     },
     "M-VGMDB-AR-29922": {
         "impacts": {
@@ -5618,7 +5670,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.247198246530093
+        "DAH_overall_score_overallScore": 2.247198246530093,
+        "DAH_anime_normalize_score": 6.747198246530093
     },
     "F-VGMDB-7970": {
         "impacts": {
@@ -5730,7 +5783,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.8000000000000003
+        "DAH_overall_score_overallScore": 3.8000000000000003,
+        "DAH_anime_normalize_score": 7.407761157453877
     },
     "M-VGMDB-AR-4276": {
         "impacts": {
@@ -5842,7 +5896,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.824144003171355
+        "DAH_overall_score_overallScore": 4.824144003171355,
+        "DAH_anime_normalize_score": 7.728996652940491
     },
     "M-VGMDB-AL-97601-1": {
         "impacts": {
@@ -5924,7 +5979,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.33955117791898715
+        "DAH_overall_score_overallScore": 0.33955117791898715,
+        "DAH_anime_normalize_score": 4.5597007852793245
     },
     "M-VGMDB-AL-100087": {
         "impacts": {
@@ -5991,7 +6047,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "A-MAL-14813": {
         "impacts": {
@@ -6163,7 +6220,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.563225755429512
+        "DAH_overall_score_overallScore": 5.563225755429512,
+        "DAH_anime_normalize_score": 7.960818830443435
     },
     "M-VGMDB-AL-24725": {
         "impacts": {
@@ -6230,7 +6288,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-61217-1": {
         "impacts": {
@@ -6297,7 +6356,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0999999999999996
+        "DAH_overall_score_overallScore": 2.0999999999999996,
+        "DAH_anime_normalize_score": 6.6
     },
     "M-VGMDB-AL-100082": {
         "impacts": {
@@ -6364,7 +6424,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "M-VGMDB-AL-61982-1": {
         "impacts": {
@@ -6431,7 +6492,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AR-15998": {
         "impacts": {
@@ -6618,7 +6680,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9380244892070002
+        "DAH_overall_score_overallScore": 1.9380244892070002,
+        "DAH_anime_normalize_score": 6.438024489207001
     },
     "A-MAL-41169": {
         "impacts": {
@@ -6715,7 +6778,8 @@
             -0.4,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.025080177233822554
+        "DAH_overall_score_overallScore": 0.025080177233822554,
+        "DAH_anime_normalize_score": 4.350053451489215
     },
     "M-VGMDB-AL-51278-1": {
         "impacts": {
@@ -6782,7 +6846,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-13211": {
         "impacts": {
@@ -6849,7 +6914,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22768399153212326
+        "DAH_overall_score_overallScore": 0.22768399153212326,
+        "DAH_anime_normalize_score": 4.485122661021416
     },
     "M-VGMDB-AL-89431": {
         "impacts": {
@@ -6916,7 +6982,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0999999999999996
+        "DAH_overall_score_overallScore": 2.0999999999999996,
+        "DAH_anime_normalize_score": 6.6
     },
     "M-VGMDB-AL-114186": {
         "impacts": {
@@ -6998,7 +7065,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AL-78575-1": {
         "impacts": {
@@ -7065,7 +7133,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AR-26886": {
         "impacts": {
@@ -7147,7 +7216,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2767511721542872
+        "DAH_overall_score_overallScore": 1.2767511721542872,
+        "DAH_anime_normalize_score": 5.5535023443085745
     },
     "M-VGMDB-AL-75344-4": {
         "impacts": {
@@ -7214,7 +7284,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "F-VGMDB-8954": {
         "impacts": {
@@ -7356,7 +7427,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.9065357790730486
+        "DAH_overall_score_overallScore": 3.9065357790730486,
+        "DAH_anime_normalize_score": 7.441177428673167
     },
     "M-VGMDB-AL-75344-3": {
         "impacts": {
@@ -7423,7 +7495,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6500000000000001
+        "DAH_overall_score_overallScore": 1.6500000000000001,
+        "DAH_anime_normalize_score": 6.15
     },
     "M-VGMDB-AL-75344-5": {
         "impacts": {
@@ -7490,7 +7563,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "A-MAL-35608": {
         "impacts": {
@@ -7572,7 +7646,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-75344-2": {
         "impacts": {
@@ -7639,7 +7714,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0999999999999996
+        "DAH_overall_score_overallScore": 2.0999999999999996,
+        "DAH_anime_normalize_score": 6.6
     },
     "M-VGMDB-AL-75344-1": {
         "impacts": {
@@ -7706,7 +7782,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-53719-1": {
         "impacts": {
@@ -7773,7 +7850,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "A-MAL-42587": {
         "impacts": {
@@ -7915,7 +7993,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.976881535971121
+        "DAH_overall_score_overallScore": 3.976881535971121,
+        "DAH_anime_normalize_score": 7.463242249638341
     },
     "M-VGMDB-AL-78530": {
         "impacts": {
@@ -8087,7 +8166,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.943654969123029
+        "DAH_overall_score_overallScore": 2.943654969123029,
+        "DAH_anime_normalize_score": 7.139157895169054
     },
     "M-VGMDB-AL-78532": {
         "impacts": {
@@ -8169,7 +8249,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9605503466743743
+        "DAH_overall_score_overallScore": 0.9605503466743743,
+        "DAH_anime_normalize_score": 4.97370023111625
     },
     "A-MAL-21881": {
         "impacts": {
@@ -8236,7 +8317,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "M-VGMDB-AL-78534": {
         "impacts": {
@@ -8348,7 +8430,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.55687401978233
+        "DAH_overall_score_overallScore": 2.55687401978233,
+        "DAH_anime_normalize_score": 7.017839243181152
     },
     "M-VGMDB-AL-78520-2": {
         "impacts": {
@@ -8415,7 +8498,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-116297-1": {
         "impacts": {
@@ -8482,7 +8566,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-78536": {
         "impacts": {
@@ -8549,7 +8634,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-78520-1": {
         "impacts": {
@@ -8616,7 +8702,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-111089": {
         "impacts": {
@@ -8683,7 +8770,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "M-VGMDB-AL-104266": {
         "impacts": {
@@ -8765,7 +8853,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.3049112269447716
+        "DAH_overall_score_overallScore": 2.3049112269447716,
+        "DAH_anime_normalize_score": 6.804911226944771
     },
     "M-VGMDB-AR-6876": {
         "impacts": {
@@ -8862,7 +8951,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0492060387768116
+        "DAH_overall_score_overallScore": 1.0492060387768116,
+        "DAH_anime_normalize_score": 5.098412077553624
     },
     "M-VGMDB-AL-104267": {
         "impacts": {
@@ -8929,7 +9019,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-91985": {
         "impacts": {
@@ -9011,7 +9102,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.2950000000000004
+        "DAH_overall_score_overallScore": 2.2950000000000004,
+        "DAH_anime_normalize_score": 6.795
     },
     "M-VGMDB-AL-22848": {
         "impacts": {
@@ -9078,7 +9170,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-64249": {
         "impacts": {
@@ -9145,7 +9238,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "F-VGMDB-3554": {
         "impacts": {
@@ -9227,7 +9321,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.0
+        "DAH_overall_score_overallScore": 5.0,
+        "DAH_anime_normalize_score": 7.784156072026686
     },
     "F-VGMDB-2588": {
         "impacts": {
@@ -10179,7 +10274,8 @@
             0.6,
             0.0
         ],
-        "DAH_overall_score_overallScore": 13.615992302305882
+        "DAH_overall_score_overallScore": 13.615992302305882,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AL-61981-3": {
         "impacts": {
@@ -10261,7 +10357,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4
+        "DAH_overall_score_overallScore": 1.4,
+        "DAH_anime_normalize_score": 5.8
     },
     "M-VGMDB-AL-59371-3": {
         "impacts": {
@@ -10328,7 +10425,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.05999999999999999
+        "DAH_overall_score_overallScore": 0.05999999999999999,
+        "DAH_anime_normalize_score": 4.373333333333333
     },
     "M-VGMDB-AL-39170": {
         "impacts": {
@@ -10395,7 +10493,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AL-61981-1": {
         "impacts": {
@@ -10462,7 +10561,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-82983-5": {
         "impacts": {
@@ -10529,7 +10629,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.375
+        "DAH_overall_score_overallScore": 0.375,
+        "DAH_anime_normalize_score": 4.583333333333334
     },
     "F-VGMDB-3559": {
         "impacts": {
@@ -10761,7 +10862,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.470641076866563
+        "DAH_overall_score_overallScore": 4.470641076866563,
+        "DAH_anime_normalize_score": 7.61811606648405
     },
     "M-VGMDB-AL-93299-2": {
         "impacts": {
@@ -10828,7 +10930,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-59371-1": {
         "impacts": {
@@ -10910,7 +11013,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.56
+        "DAH_overall_score_overallScore": 1.56,
+        "DAH_anime_normalize_score": 6.0600000000000005
     },
     "M-VGMDB-AL-78520": {
         "impacts": {
@@ -10992,7 +11096,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4064422527030764
+        "DAH_overall_score_overallScore": 1.4064422527030764,
+        "DAH_anime_normalize_score": 5.812884505406153
     },
     "M-VGMDB-AL-85172-1": {
         "impacts": {
@@ -11059,7 +11164,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AL-78764": {
         "impacts": {
@@ -11156,7 +11262,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7652571851767216
+        "DAH_overall_score_overallScore": 1.7652571851767216,
+        "DAH_anime_normalize_score": 6.265257185176722
     },
     "M-VGMDB-AR-12225": {
         "impacts": {
@@ -11283,7 +11390,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.25000136601834
+        "DAH_overall_score_overallScore": 2.25000136601834,
+        "DAH_anime_normalize_score": 6.75000136601834
     },
     "M-VGMDB-AL-78532-1": {
         "impacts": {
@@ -11350,7 +11458,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-105612-1": {
         "impacts": {
@@ -11417,7 +11526,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-85172": {
         "impacts": {
@@ -11484,7 +11594,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AR-": {
         "impacts": {
@@ -11581,7 +11692,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0777326364658162
+        "DAH_overall_score_overallScore": 1.0777326364658162,
+        "DAH_anime_normalize_score": 5.155465272931632
     },
     "M-VGMDB-AR-37385": {
         "impacts": {
@@ -11633,7 +11745,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.0
+        "DAH_overall_score_overallScore": 0.0,
+        "DAH_anime_normalize_score": 4.333333333333334
     },
     "A-MAL-34973": {
         "impacts": {
@@ -11760,7 +11873,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.4989484266873356
+        "DAH_overall_score_overallScore": 2.4989484266873356,
+        "DAH_anime_normalize_score": 6.998948426687336
     },
     "M-VGMDB-AL-57564-1": {
         "impacts": {
@@ -11842,7 +11956,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7
+        "DAH_overall_score_overallScore": 1.7,
+        "DAH_anime_normalize_score": 6.2
     },
     "M-VGMDB-AL-69821": {
         "impacts": {
@@ -11909,7 +12024,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AL-20118-2": {
         "impacts": {
@@ -11991,7 +12107,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.84
+        "DAH_overall_score_overallScore": 0.84,
+        "DAH_anime_normalize_score": 4.893333333333333
     },
     "A-MAL-23847": {
         "impacts": {
@@ -12193,7 +12310,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 7.872485478113037
+        "DAH_overall_score_overallScore": 7.872485478113037,
+        "DAH_anime_normalize_score": 9.330756303596532
     },
     "M-VGMDB-AL-51394": {
         "impacts": {
@@ -12275,7 +12393,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.4143540225079394
+        "DAH_overall_score_overallScore": 3.4143540225079394,
+        "DAH_anime_normalize_score": 7.28679850349265
     },
     "M-VGMDB-AL-51276": {
         "impacts": {
@@ -12402,7 +12521,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.7410641829321114
+        "DAH_overall_score_overallScore": 3.7410641829321114,
+        "DAH_anime_normalize_score": 7.3892752059284215
     },
     "M-VGMDB-AL-51278": {
         "impacts": {
@@ -12469,7 +12589,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-113295-1": {
         "impacts": {
@@ -12536,7 +12657,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-78515": {
         "impacts": {
@@ -12603,7 +12725,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6500000000000001
+        "DAH_overall_score_overallScore": 1.6500000000000001,
+        "DAH_anime_normalize_score": 6.15
     },
     "M-VGMDB-AL-78516": {
         "impacts": {
@@ -12685,7 +12808,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9099999999999999
+        "DAH_overall_score_overallScore": 0.9099999999999999,
+        "DAH_anime_normalize_score": 4.9399999999999995
     },
     "M-VGMDB-AL-54307": {
         "impacts": {
@@ -12767,7 +12891,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7
+        "DAH_overall_score_overallScore": 1.7,
+        "DAH_anime_normalize_score": 6.2
     },
     "M-VGMDB-AL-82369-1": {
         "impacts": {
@@ -12834,7 +12959,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "A-MAL-34822": {
         "impacts": {
@@ -12916,7 +13042,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.25
+        "DAH_overall_score_overallScore": 3.25,
+        "DAH_anime_normalize_score": 7.235246821608006
     },
     "M-VGMDB-AL-43320": {
         "impacts": {
@@ -13073,7 +13200,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.654529738275322
+        "DAH_overall_score_overallScore": 2.654529738275322,
+        "DAH_anime_normalize_score": 7.048470173030915
     },
     "A-MAL-30344": {
         "impacts": {
@@ -13155,7 +13283,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4204482076268572
+        "DAH_overall_score_overallScore": 1.4204482076268572,
+        "DAH_anime_normalize_score": 5.840896415253715
     },
     "M-VGMDB-AR-26614": {
         "impacts": {
@@ -13312,7 +13441,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.900112928316561
+        "DAH_overall_score_overallScore": 5.900112928316561,
+        "DAH_anime_normalize_score": 8.16252622477933
     },
     "A-MAL-33731": {
         "impacts": {
@@ -13394,7 +13524,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.8399999999999999
+        "DAH_overall_score_overallScore": 1.8399999999999999,
+        "DAH_anime_normalize_score": 6.34
     },
     "M-VGMDB-AL-44890": {
         "impacts": {
@@ -13461,7 +13592,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.36
+        "DAH_overall_score_overallScore": 0.36,
+        "DAH_anime_normalize_score": 4.573333333333333
     },
     "M-VGMDB-AL-21146-9": {
         "impacts": {
@@ -13528,7 +13660,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.14999999999999997
+        "DAH_overall_score_overallScore": 0.14999999999999997,
+        "DAH_anime_normalize_score": 4.433333333333334
     },
     "A-MAL-11981": {
         "impacts": {
@@ -13640,7 +13773,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.5198402504494424
+        "DAH_overall_score_overallScore": 3.5198402504494424,
+        "DAH_anime_normalize_score": 7.319885569954859
     },
     "M-VGMDB-AL-106577-1": {
         "impacts": {
@@ -13722,7 +13856,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2
+        "DAH_overall_score_overallScore": 1.2,
+        "DAH_anime_normalize_score": 5.4
     },
     "A-MAL-32526": {
         "impacts": {
@@ -13849,7 +13984,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.4050195970242454
+        "DAH_overall_score_overallScore": 2.4050195970242454,
+        "DAH_anime_normalize_score": 6.905019597024245
     },
     "M-VGMDB-AL-106577-6": {
         "impacts": {
@@ -13946,7 +14082,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.15
+        "DAH_overall_score_overallScore": 1.15,
+        "DAH_anime_normalize_score": 5.3
     },
     "M-VGMDB-AL-102281-1": {
         "impacts": {
@@ -14043,7 +14180,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2975326617984144
+        "DAH_overall_score_overallScore": 1.2975326617984144,
+        "DAH_anime_normalize_score": 5.595065323596829
     },
     "A-MAL-16067": {
         "impacts": {
@@ -14260,7 +14398,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.868233868657932
+        "DAH_overall_score_overallScore": 5.868233868657932,
+        "DAH_anime_normalize_score": 8.13808346293147
     },
     "M-VGMDB-AL-55364-3": {
         "impacts": {
@@ -14327,7 +14466,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-114186-2": {
         "impacts": {
@@ -14409,7 +14549,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AL-96290": {
         "impacts": {
@@ -14476,7 +14617,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-113295": {
         "impacts": {
@@ -14543,7 +14685,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-47403-1": {
         "impacts": {
@@ -14610,7 +14753,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-34411-11": {
         "impacts": {
@@ -14692,7 +14836,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.825
+        "DAH_overall_score_overallScore": 0.825,
+        "DAH_anime_normalize_score": 4.883333333333333
     },
     "M-VGMDB-AL-81504-1": {
         "impacts": {
@@ -14774,7 +14919,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.7
+        "DAH_overall_score_overallScore": 2.7,
+        "DAH_anime_normalize_score": 7.062732485762135
     },
     "A-MAL-5680": {
         "impacts": {
@@ -14886,7 +15032,8 @@
             0.5,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0523420783215194
+        "DAH_overall_score_overallScore": 2.0523420783215194,
+        "DAH_anime_normalize_score": 6.552342078321519
     },
     "F-VGMDB-3345": {
         "impacts": {
@@ -15088,7 +15235,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 9.906410238604238
+        "DAH_overall_score_overallScore": 9.906410238604238,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AL-43164-1": {
         "impacts": {
@@ -15155,7 +15303,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "M-VGMDB-AL-96288": {
         "impacts": {
@@ -15222,7 +15371,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-31509": {
         "impacts": {
@@ -15304,7 +15454,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9899999999999999
+        "DAH_overall_score_overallScore": 0.9899999999999999,
+        "DAH_anime_normalize_score": 4.993333333333333
     },
     "M-VGMDB-AR-9553": {
         "impacts": {
@@ -15386,7 +15537,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2899999999999998
+        "DAH_overall_score_overallScore": 1.2899999999999998,
+        "DAH_anime_normalize_score": 5.58
     },
     "A-MAL-18671": {
         "impacts": {
@@ -15513,7 +15665,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.473675039754889
+        "DAH_overall_score_overallScore": 4.473675039754889,
+        "DAH_anime_normalize_score": 7.619067706652523
     },
     "M-VGMDB-AL-48199-1": {
         "impacts": {
@@ -15595,7 +15748,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6500000000000001
+        "DAH_overall_score_overallScore": 0.6500000000000001,
+        "DAH_anime_normalize_score": 4.766666666666667
     },
     "A-MAL-16498": {
         "impacts": {
@@ -15677,7 +15831,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2
+        "DAH_overall_score_overallScore": 1.2,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-51254": {
         "impacts": {
@@ -15759,7 +15914,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6
+        "DAH_overall_score_overallScore": 1.6,
+        "DAH_anime_normalize_score": 6.1
     },
     "A-MAL-21845": {
         "impacts": {
@@ -15856,7 +16012,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5448517739282366
+        "DAH_overall_score_overallScore": 1.5448517739282366,
+        "DAH_anime_normalize_score": 6.044851773928237
     },
     "M-VGMDB-AL-39170-2": {
         "impacts": {
@@ -15923,7 +16080,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AL-104957-1": {
         "impacts": {
@@ -15990,7 +16148,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-43320-4": {
         "impacts": {
@@ -16057,7 +16216,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AR-16233": {
         "impacts": {
@@ -16169,7 +16329,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3566800133794459
+        "DAH_overall_score_overallScore": 1.3566800133794459,
+        "DAH_anime_normalize_score": 5.713360026758892
     },
     "M-VGMDB-AL-43320-7": {
         "impacts": {
@@ -16236,7 +16397,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-43320-8": {
         "impacts": {
@@ -16318,7 +16480,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.3997461203045587
+        "DAH_overall_score_overallScore": 2.3997461203045587,
+        "DAH_anime_normalize_score": 6.899746120304559
     },
     "M-VGMDB-AL-51706-1": {
         "impacts": {
@@ -16385,7 +16548,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "F-VGMDB-2662": {
         "impacts": {
@@ -16707,7 +16871,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 7.427739521095311
+        "DAH_overall_score_overallScore": 7.427739521095311,
+        "DAH_anime_normalize_score": 9.163615518689863
     },
     "M-VGMDB-AL-51706-2": {
         "impacts": {
@@ -16774,7 +16939,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.675
+        "DAH_overall_score_overallScore": 0.675,
+        "DAH_anime_normalize_score": 4.783333333333333
     },
     "M-VGMDB-AR-10934": {
         "impacts": {
@@ -16856,7 +17022,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6147320458520644
+        "DAH_overall_score_overallScore": 0.6147320458520644,
+        "DAH_anime_normalize_score": 4.74315469723471
     },
     "A-MAL-16001": {
         "impacts": {
@@ -16968,7 +17135,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.52158348677266
+        "DAH_overall_score_overallScore": 3.52158348677266,
+        "DAH_anime_normalize_score": 7.32043235769399
     },
     "M-VGMDB-AL-70622-1": {
         "impacts": {
@@ -17035,7 +17203,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "L-MAL-90810": {
         "impacts": {
@@ -17162,7 +17331,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.794769232463619
+        "DAH_overall_score_overallScore": 4.794769232463619,
+        "DAH_anime_normalize_score": 7.719782891014546
     },
     "M-VGMDB-AL-49046": {
         "impacts": {
@@ -17274,7 +17444,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.5070650304684987
+        "DAH_overall_score_overallScore": 2.5070650304684987,
+        "DAH_anime_normalize_score": 7.002216034616371
     },
     "M-VGMDB-AL-52993-1": {
         "impacts": {
@@ -17356,7 +17527,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.15
+        "DAH_overall_score_overallScore": 1.15,
+        "DAH_anime_normalize_score": 5.3
     },
     "M-VGMDB-AL-93440-2": {
         "impacts": {
@@ -17423,7 +17595,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-48199": {
         "impacts": {
@@ -17505,7 +17678,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6500000000000001
+        "DAH_overall_score_overallScore": 0.6500000000000001,
+        "DAH_anime_normalize_score": 4.766666666666667
     },
     "M-VGMDB-AL-93440-3": {
         "impacts": {
@@ -17587,7 +17761,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6
+        "DAH_overall_score_overallScore": 1.6,
+        "DAH_anime_normalize_score": 6.1
     },
     "M-VGMDB-AR-32295": {
         "impacts": {
@@ -17639,7 +17814,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.0
+        "DAH_overall_score_overallScore": 0.0,
+        "DAH_anime_normalize_score": 4.333333333333334
     },
     "M-VGMDB-AL-30302": {
         "impacts": {
@@ -17706,7 +17882,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AL-93440-1": {
         "impacts": {
@@ -17788,7 +17965,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6
+        "DAH_overall_score_overallScore": 1.6,
+        "DAH_anime_normalize_score": 6.1
     },
     "M-VGMDB-AL-54418": {
         "impacts": {
@@ -17855,7 +18033,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AL-47402-1": {
         "impacts": {
@@ -17922,7 +18101,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-15380": {
         "impacts": {
@@ -18019,7 +18199,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.650122988726817
+        "DAH_overall_score_overallScore": 1.650122988726817,
+        "DAH_anime_normalize_score": 6.150122988726817
     },
     "M-VGMDB-AL-51394-3": {
         "impacts": {
@@ -18101,7 +18282,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.2472952585243395
+        "DAH_overall_score_overallScore": 3.2472952585243395,
+        "DAH_anime_normalize_score": 7.234398445827446
     },
     "M-VGMDB-AR-17551": {
         "impacts": {
@@ -18168,7 +18350,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1348899308038112
+        "DAH_overall_score_overallScore": 1.1348899308038112,
+        "DAH_anime_normalize_score": 5.269779861607622
     },
     "M-VGMDB-AL-118562-1": {
         "impacts": {
@@ -18235,7 +18418,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-42762": {
         "impacts": {
@@ -18317,7 +18501,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7000000000000001
+        "DAH_overall_score_overallScore": 0.7000000000000001,
+        "DAH_anime_normalize_score": 4.800000000000001
     },
     "M-VGMDB-AL-75349": {
         "impacts": {
@@ -18384,7 +18569,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-75344": {
         "impacts": {
@@ -18511,7 +18697,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.1087426111318357
+        "DAH_overall_score_overallScore": 3.1087426111318357,
+        "DAH_anime_normalize_score": 7.190939685928163
     },
     "M-VGMDB-AR-16469": {
         "impacts": {
@@ -18608,7 +18795,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.8703550414708774
+        "DAH_overall_score_overallScore": 2.8703550414708774,
+        "DAH_anime_normalize_score": 7.1161664618300335
     },
     "M-VGMDB-AL-80802": {
         "impacts": {
@@ -18720,7 +18908,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.231035904097991
+        "DAH_overall_score_overallScore": 1.231035904097991,
+        "DAH_anime_normalize_score": 5.462071808195982
     },
     "M-VGMDB-AL-74133": {
         "impacts": {
@@ -18787,7 +18976,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-51394-1": {
         "impacts": {
@@ -18854,7 +19044,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8829412360164001
+        "DAH_overall_score_overallScore": 0.8829412360164001,
+        "DAH_anime_normalize_score": 4.921960824010933
     },
     "M-VGMDB-AR-8482": {
         "impacts": {
@@ -19011,7 +19202,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.654529738275322
+        "DAH_overall_score_overallScore": 2.654529738275322,
+        "DAH_anime_normalize_score": 7.048470173030915
     },
     "M-VGMDB-AL-104267-5": {
         "impacts": {
@@ -19078,7 +19270,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "F-VGMDB-4615": {
         "impacts": {
@@ -19175,7 +19368,8 @@
             1.0,
             0.75
         ],
-        "DAH_overall_score_overallScore": 2.35
+        "DAH_overall_score_overallScore": 2.35,
+        "DAH_anime_normalize_score": 6.85
     },
     "M-VGMDB-AR-25291": {
         "impacts": {
@@ -19257,7 +19451,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5550000000000002
+        "DAH_overall_score_overallScore": 1.5550000000000002,
+        "DAH_anime_normalize_score": 6.055
     },
     "M-VGMDB-AL-36547-1": {
         "impacts": {
@@ -19324,7 +19519,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-15121": {
         "impacts": {
@@ -19391,7 +19587,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.42844451506506687
+        "DAH_overall_score_overallScore": 0.42844451506506687,
+        "DAH_anime_normalize_score": 4.6189630100433785
     },
     "M-VGMDB-AR-15120": {
         "impacts": {
@@ -19578,7 +19775,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.828175870139293
+        "DAH_overall_score_overallScore": 1.828175870139293,
+        "DAH_anime_normalize_score": 6.328175870139293
     },
     "A-MAL-43735": {
         "impacts": {
@@ -19720,7 +19918,8 @@
             0.8611111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.383437979472767
+        "DAH_overall_score_overallScore": 5.383437979472767,
+        "DAH_anime_normalize_score": 7.904426159966372
     },
     "M-VGMDB-AR-15361": {
         "impacts": {
@@ -19847,7 +20046,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.248809130800547
+        "DAH_overall_score_overallScore": 1.248809130800547,
+        "DAH_anime_normalize_score": 5.497618261601094
     },
     "M-VGMDB-AL-54418-1": {
         "impacts": {
@@ -19914,7 +20114,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AL-95118-2": {
         "impacts": {
@@ -19996,7 +20197,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9749999999999999
+        "DAH_overall_score_overallScore": 0.9749999999999999,
+        "DAH_anime_normalize_score": 4.983333333333333
     },
     "A-MAL-7791": {
         "impacts": {
@@ -20138,7 +20340,8 @@
             0.5,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.116378768099811
+        "DAH_overall_score_overallScore": 2.116378768099811,
+        "DAH_anime_normalize_score": 6.6163787680998105
     },
     "M-VGMDB-AR-25289": {
         "impacts": {
@@ -20415,7 +20618,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.8511187966351357
+        "DAH_overall_score_overallScore": 3.8511187966351357,
+        "DAH_anime_normalize_score": 7.423795203364333
     },
     "A-MAL-32729": {
         "impacts": {
@@ -20497,7 +20701,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.25
+        "DAH_overall_score_overallScore": 3.25,
+        "DAH_anime_normalize_score": 7.235246821608006
     },
     "M-VGMDB-AR-29640": {
         "impacts": {
@@ -20669,7 +20874,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0601832162307914
+        "DAH_overall_score_overallScore": 2.0601832162307914,
+        "DAH_anime_normalize_score": 6.560183216230792
     },
     "M-VGMDB-AL-49446-1": {
         "impacts": {
@@ -20736,7 +20942,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AR-15119": {
         "impacts": {
@@ -20923,7 +21130,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.4440673041288288
+        "DAH_overall_score_overallScore": 3.4440673041288288,
+        "DAH_anime_normalize_score": 7.2961184435737945
     },
     "M-VGMDB-AL-49423-1": {
         "impacts": {
@@ -21005,7 +21213,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6
+        "DAH_overall_score_overallScore": 1.6,
+        "DAH_anime_normalize_score": 6.1
     },
     "M-VGMDB-AL-114102": {
         "impacts": {
@@ -21072,7 +21281,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-93441-1": {
         "impacts": {
@@ -21139,7 +21349,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "A-MAL-15051": {
         "impacts": {
@@ -21251,7 +21462,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.4312518091962656
+        "DAH_overall_score_overallScore": 2.4312518091962656,
+        "DAH_anime_normalize_score": 6.931251809196265
     },
     "M-VGMDB-AL-104957": {
         "impacts": {
@@ -21318,7 +21530,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AR-15350": {
         "impacts": {
@@ -21445,7 +21658,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.471945854149309
+        "DAH_overall_score_overallScore": 1.471945854149309,
+        "DAH_anime_normalize_score": 5.943891708298618
     },
     "M-VGMDB-AL-49423-8": {
         "impacts": {
@@ -21527,7 +21741,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1
+        "DAH_overall_score_overallScore": 1.1,
+        "DAH_anime_normalize_score": 5.2
     },
     "M-VGMDB-AL-47678-1": {
         "impacts": {
@@ -21594,7 +21809,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "A-MAL-31765": {
         "impacts": {
@@ -21661,7 +21877,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "A-MAL-50267": {
         "impacts": {
@@ -21728,7 +21945,8 @@
             0.75,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-42762-1": {
         "impacts": {
@@ -21810,7 +22028,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7000000000000001
+        "DAH_overall_score_overallScore": 0.7000000000000001,
+        "DAH_anime_normalize_score": 4.800000000000001
     },
     "F-VGMDB-2330": {
         "impacts": {
@@ -22027,7 +22246,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.190388750518425
+        "DAH_overall_score_overallScore": 5.190388750518425,
+        "DAH_anime_normalize_score": 7.8438738699325254
     },
     "M-VGMDB-AL-97692": {
         "impacts": {
@@ -22094,7 +22314,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "A-MAL-34914": {
         "impacts": {
@@ -22221,7 +22442,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.5254065056666875
+        "DAH_overall_score_overallScore": 3.5254065056666875,
+        "DAH_anime_normalize_score": 7.32163149508568
     },
     "M-VGMDB-AL-91187-35": {
         "impacts": {
@@ -22303,7 +22525,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2899999999999998
+        "DAH_overall_score_overallScore": 1.2899999999999998,
+        "DAH_anime_normalize_score": 5.58
     },
     "F-VGMDB-3305": {
         "impacts": {
@@ -22535,7 +22758,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.310042428417498
+        "DAH_overall_score_overallScore": 4.310042428417498,
+        "DAH_anime_normalize_score": 7.567742304347804
     },
     "M-VGMDB-AL-104266-6": {
         "impacts": {
@@ -22602,7 +22826,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-51516-1": {
         "impacts": {
@@ -22684,7 +22909,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.98
+        "DAH_overall_score_overallScore": 0.98,
+        "DAH_anime_normalize_score": 4.986666666666666
     },
     "M-VGMDB-AR-13289": {
         "impacts": {
@@ -22751,7 +22977,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22768399153212326
+        "DAH_overall_score_overallScore": 0.22768399153212326,
+        "DAH_anime_normalize_score": 4.485122661021416
     },
     "M-VGMDB-AL-104266-3": {
         "impacts": {
@@ -22818,7 +23045,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9500000000000004
+        "DAH_overall_score_overallScore": 1.9500000000000004,
+        "DAH_anime_normalize_score": 6.45
     },
     "A-MAL-41530": {
         "impacts": {
@@ -22945,7 +23173,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.2404949214947294
+        "DAH_overall_score_overallScore": 2.2404949214947294,
+        "DAH_anime_normalize_score": 6.740494921494729
     },
     "M-VGMDB-AL-104783": {
         "impacts": {
@@ -23012,7 +23241,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.375
+        "DAH_overall_score_overallScore": 0.375,
+        "DAH_anime_normalize_score": 4.583333333333334
     },
     "M-VGMDB-AL-115724": {
         "impacts": {
@@ -23094,7 +23324,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.3384488606765435
+        "DAH_overall_score_overallScore": 2.3384488606765435,
+        "DAH_anime_normalize_score": 6.838448860676543
     },
     "A-MAL-28677": {
         "impacts": {
@@ -23191,7 +23422,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2136184028952068
+        "DAH_overall_score_overallScore": 1.2136184028952068,
+        "DAH_anime_normalize_score": 5.427236805790414
     },
     "M-VGMDB-AL-95029": {
         "impacts": {
@@ -23258,7 +23490,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9500000000000004
+        "DAH_overall_score_overallScore": 1.9500000000000004,
+        "DAH_anime_normalize_score": 6.45
     },
     "M-VGMDB-AL-35015-1": {
         "impacts": {
@@ -23325,7 +23558,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.675
+        "DAH_overall_score_overallScore": 0.675,
+        "DAH_anime_normalize_score": 4.783333333333333
     },
     "M-VGMDB-AL-110219-1": {
         "impacts": {
@@ -23407,7 +23641,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.245
+        "DAH_overall_score_overallScore": 1.245,
+        "DAH_anime_normalize_score": 5.49
     },
     "A-MAL-38009": {
         "impacts": {
@@ -23714,7 +23949,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 9.513678075424954
+        "DAH_overall_score_overallScore": 9.513678075424954,
+        "DAH_anime_normalize_score": 9.94753587082888
     },
     "M-VGMDB-AL-58627-1": {
         "impacts": {
@@ -23796,7 +24032,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2499999999999998
+        "DAH_overall_score_overallScore": 1.2499999999999998,
+        "DAH_anime_normalize_score": 5.5
     },
     "M-VGMDB-AL-78378-1": {
         "impacts": {
@@ -23863,7 +24100,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6500000000000001
+        "DAH_overall_score_overallScore": 1.6500000000000001,
+        "DAH_anime_normalize_score": 6.15
     },
     "A-MAL-9617": {
         "impacts": {
@@ -23990,7 +24228,8 @@
             0.5,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.8353588889080668
+        "DAH_overall_score_overallScore": 1.8353588889080668,
+        "DAH_anime_normalize_score": 6.3353588889080665
     },
     "A-MAL-38256": {
         "impacts": {
@@ -24132,7 +24371,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.00559304659323
+        "DAH_overall_score_overallScore": 5.00559304659323,
+        "DAH_anime_normalize_score": 7.78591040060557
     },
     "M-VGMDB-AL-80802-10": {
         "impacts": {
@@ -24199,7 +24439,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-104418": {
         "impacts": {
@@ -24266,7 +24507,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-49046-18": {
         "impacts": {
@@ -24348,7 +24590,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9
+        "DAH_overall_score_overallScore": 1.9,
+        "DAH_anime_normalize_score": 6.4
     },
     "M-VGMDB-AL-104341-2": {
         "impacts": {
@@ -24415,7 +24658,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-104341-1": {
         "impacts": {
@@ -24482,7 +24726,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-114399-8": {
         "impacts": {
@@ -24564,7 +24809,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.775
+        "DAH_overall_score_overallScore": 1.775,
+        "DAH_anime_normalize_score": 6.275
     },
     "M-VGMDB-AL-42961": {
         "impacts": {
@@ -24691,7 +24937,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.6177998106094087
+        "DAH_overall_score_overallScore": 2.6177998106094087,
+        "DAH_anime_normalize_score": 7.0369493747091845
     },
     "M-VGMDB-AL-100087-1": {
         "impacts": {
@@ -24758,7 +25005,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "F-VGMDB-2633": {
         "impacts": {
@@ -24885,7 +25133,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3
+        "DAH_overall_score_overallScore": 1.3,
+        "DAH_anime_normalize_score": 5.6
     },
     "M-VGMDB-AL-96288-1": {
         "impacts": {
@@ -24952,7 +25201,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-82743-1": {
         "impacts": {
@@ -25034,7 +25284,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4
+        "DAH_overall_score_overallScore": 1.4,
+        "DAH_anime_normalize_score": 5.8
     },
     "M-VGMDB-AL-105612": {
         "impacts": {
@@ -25101,7 +25352,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-95369": {
         "impacts": {
@@ -25198,7 +25450,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "A-MAL-31952": {
         "impacts": {
@@ -25265,7 +25518,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "A-MAL-31953": {
         "impacts": {
@@ -25392,7 +25646,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.4654065056666874
+        "DAH_overall_score_overallScore": 3.4654065056666874,
+        "DAH_anime_normalize_score": 7.30281174935704
     },
     "A-MAL-9756": {
         "impacts": {
@@ -25579,7 +25834,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 6.5171356693696225
+        "DAH_overall_score_overallScore": 6.5171356693696225,
+        "DAH_anime_normalize_score": 8.635618595626383
     },
     "M-VGMDB-AL-51276-2": {
         "impacts": {
@@ -25661,7 +25917,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.18
+        "DAH_overall_score_overallScore": 1.18,
+        "DAH_anime_normalize_score": 5.359999999999999
     },
     "M-VGMDB-AL-84229": {
         "impacts": {
@@ -25743,7 +26000,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.3595424380164616
+        "DAH_overall_score_overallScore": 0.3595424380164616,
+        "DAH_anime_normalize_score": 4.573028292010974
     },
     "M-VGMDB-AL-51276-1": {
         "impacts": {
@@ -25825,7 +26083,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1849999999999998
+        "DAH_overall_score_overallScore": 1.1849999999999998,
+        "DAH_anime_normalize_score": 5.369999999999999
     },
     "F-VGMDB-5919": {
         "impacts": {
@@ -25937,7 +26196,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.1
+        "DAH_overall_score_overallScore": 3.1,
+        "DAH_anime_normalize_score": 7.188197457286405
     },
     "M-VGMDB-AL-63666": {
         "impacts": {
@@ -26034,7 +26294,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.362
+        "DAH_overall_score_overallScore": 1.362,
+        "DAH_anime_normalize_score": 5.724
     },
     "A-MAL-41520": {
         "impacts": {
@@ -26326,7 +26587,8 @@
             1.1111111111111112,
             -0.25
         ],
-        "DAH_overall_score_overallScore": 7.692270335402576
+        "DAH_overall_score_overallScore": 7.692270335402576,
+        "DAH_anime_normalize_score": 9.263029323891816
     },
     "M-VGMDB-AL-93299": {
         "impacts": {
@@ -26393,7 +26655,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AR-27779": {
         "impacts": {
@@ -26580,7 +26843,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.281081662757945
+        "DAH_overall_score_overallScore": 2.281081662757945,
+        "DAH_anime_normalize_score": 6.781081662757945
     },
     "M-VGMDB-AL-95118": {
         "impacts": {
@@ -26662,7 +26926,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9749999999999999
+        "DAH_overall_score_overallScore": 0.9749999999999999,
+        "DAH_anime_normalize_score": 4.983333333333333
     },
     "A-MAL-37027": {
         "impacts": {
@@ -26759,7 +27024,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9618855668837214
+        "DAH_overall_score_overallScore": 1.9618855668837214,
+        "DAH_anime_normalize_score": 6.461885566883721
     },
     "F-VGMDB-2894": {
         "impacts": {
@@ -26931,7 +27197,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.056902559620089
+        "DAH_overall_score_overallScore": 5.056902559620089,
+        "DAH_anime_normalize_score": 7.802004267082668
     },
     "M-VGMDB-AL-69147-11": {
         "impacts": {
@@ -26998,7 +27265,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-109271-48": {
         "impacts": {
@@ -27065,7 +27333,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.4000000000000004
+        "DAH_overall_score_overallScore": 2.4000000000000004,
+        "DAH_anime_normalize_score": 6.9
     },
     "M-VGMDB-AL-34051-1": {
         "impacts": {
@@ -27147,7 +27416,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.84
+        "DAH_overall_score_overallScore": 0.84,
+        "DAH_anime_normalize_score": 4.893333333333333
     },
     "M-VGMDB-AL-61217": {
         "impacts": {
@@ -27214,7 +27484,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0999999999999996
+        "DAH_overall_score_overallScore": 2.0999999999999996,
+        "DAH_anime_normalize_score": 6.6
     },
     "A-MAL-12175": {
         "impacts": {
@@ -27296,7 +27567,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2
+        "DAH_overall_score_overallScore": 1.2,
+        "DAH_anime_normalize_score": 5.4
     },
     "A-MAL-40763": {
         "impacts": {
@@ -27498,7 +27770,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.254726595383685
+        "DAH_overall_score_overallScore": 4.254726595383685,
+        "DAH_anime_normalize_score": 7.550391805806733
     },
     "A-MAL-28999": {
         "impacts": {
@@ -27580,7 +27853,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.0
+        "DAH_overall_score_overallScore": 5.0,
+        "DAH_anime_normalize_score": 7.784156072026686
     },
     "M-VGMDB-AL-42961-6": {
         "impacts": {
@@ -27662,7 +27936,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7000000000000002
+        "DAH_overall_score_overallScore": 1.7000000000000002,
+        "DAH_anime_normalize_score": 6.2
     },
     "M-VGMDB-AL-42961-9": {
         "impacts": {
@@ -27744,7 +28019,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.1999999999999997
+        "DAH_overall_score_overallScore": 2.1999999999999997,
+        "DAH_anime_normalize_score": 6.699999999999999
     },
     "M-VGMDB-AL-35431-1": {
         "impacts": {
@@ -27811,7 +28087,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AL-112929-2": {
         "impacts": {
@@ -27878,7 +28155,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-53719": {
         "impacts": {
@@ -27945,7 +28223,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-49446": {
         "impacts": {
@@ -28012,7 +28291,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-60358-1": {
         "impacts": {
@@ -28079,7 +28359,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-102276-1": {
         "impacts": {
@@ -28146,7 +28427,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "A-MAL-30727": {
         "impacts": {
@@ -28258,7 +28540,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.0239104381219146
+        "DAH_overall_score_overallScore": 3.0239104381219146,
+        "DAH_anime_normalize_score": 7.164331020500584
     },
     "M-VGMDB-AL-63666-1": {
         "impacts": {
@@ -28355,7 +28638,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.362
+        "DAH_overall_score_overallScore": 1.362,
+        "DAH_anime_normalize_score": 5.724
     },
     "M-VGMDB-AL-33537-1": {
         "impacts": {
@@ -28422,7 +28706,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-99272-7": {
         "impacts": {
@@ -28504,7 +28789,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.8
+        "DAH_overall_score_overallScore": 1.8,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-59914-1": {
         "impacts": {
@@ -28586,7 +28872,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.40499999999999997
+        "DAH_overall_score_overallScore": 0.40499999999999997,
+        "DAH_anime_normalize_score": 4.6033333333333335
     },
     "M-VGMDB-AL-78515-1": {
         "impacts": {
@@ -28653,7 +28940,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6500000000000001
+        "DAH_overall_score_overallScore": 1.6500000000000001,
+        "DAH_anime_normalize_score": 6.15
     },
     "M-VGMDB-AL-86622": {
         "impacts": {
@@ -28735,7 +29023,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0186535337569613
+        "DAH_overall_score_overallScore": 1.0186535337569613,
+        "DAH_anime_normalize_score": 5.037307067513923
     },
     "M-VGMDB-AL-52993": {
         "impacts": {
@@ -28817,7 +29106,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.15
+        "DAH_overall_score_overallScore": 1.15,
+        "DAH_anime_normalize_score": 5.3
     },
     "M-VGMDB-AL-50721-1": {
         "impacts": {
@@ -28899,7 +29189,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5550000000000002
+        "DAH_overall_score_overallScore": 1.5550000000000002,
+        "DAH_anime_normalize_score": 6.055
     },
     "M-VGMDB-AL-99272-1": {
         "impacts": {
@@ -28966,7 +29257,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-99272-3": {
         "impacts": {
@@ -29033,7 +29325,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AR-17153": {
         "impacts": {
@@ -29175,7 +29468,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.7650119854178903
+        "DAH_overall_score_overallScore": 2.7650119854178903,
+        "DAH_anime_normalize_score": 7.0831243030101145
     },
     "M-VGMDB-AL-75504": {
         "impacts": {
@@ -29242,7 +29536,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-111089-5": {
         "impacts": {
@@ -29309,7 +29604,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "A-MAL-39547": {
         "impacts": {
@@ -29466,7 +29762,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.8497825038287314
+        "DAH_overall_score_overallScore": 3.8497825038287314,
+        "DAH_anime_normalize_score": 7.423376058517073
     },
     "M-VGMDB-AL-71404-2": {
         "impacts": {
@@ -29533,7 +29830,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-29251": {
         "impacts": {
@@ -29915,7 +30213,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.1960701032756056
+        "DAH_overall_score_overallScore": 3.1960701032756056,
+        "DAH_anime_normalize_score": 7.218331039215924
     },
     "M-VGMDB-AL-58147": {
         "impacts": {
@@ -29982,7 +30281,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-54307-1": {
         "impacts": {
@@ -30064,7 +30364,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7
+        "DAH_overall_score_overallScore": 1.7,
+        "DAH_anime_normalize_score": 6.2
     },
     "GF-VGMDB-7059": {
         "impacts": {
@@ -30506,7 +30807,8 @@
             0.11111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.212774964363781
+        "DAH_overall_score_overallScore": 4.212774964363781,
+        "DAH_anime_normalize_score": 7.53723315532846
     },
     "M-VGMDB-AL-87198-10": {
         "impacts": {
@@ -30573,7 +30875,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-24725-4": {
         "impacts": {
@@ -30640,7 +30943,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-51516": {
         "impacts": {
@@ -30722,7 +31026,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.98
+        "DAH_overall_score_overallScore": 0.98,
+        "DAH_anime_normalize_score": 4.986666666666666
     },
     "M-VGMDB-AR-18231": {
         "impacts": {
@@ -30834,7 +31139,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3566800133794459
+        "DAH_overall_score_overallScore": 1.3566800133794459,
+        "DAH_anime_normalize_score": 5.713360026758892
     },
     "A-MAL-27441": {
         "impacts": {
@@ -31051,7 +31357,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 6.724913806926688
+        "DAH_overall_score_overallScore": 6.724913806926688,
+        "DAH_anime_normalize_score": 8.7949291771769
     },
     "M-VGMDB-AL-44890-1": {
         "impacts": {
@@ -31118,7 +31425,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.36
+        "DAH_overall_score_overallScore": 0.36,
+        "DAH_anime_normalize_score": 4.573333333333333
     },
     "F-VGMDB-7059": {
         "impacts": {
@@ -32190,7 +32498,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 13.891119800000679
+        "DAH_overall_score_overallScore": 13.891119800000679,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AL-37130": {
         "impacts": {
@@ -32452,7 +32761,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 7.371900734379371
+        "DAH_overall_score_overallScore": 7.371900734379371,
+        "DAH_anime_normalize_score": 9.142630642958734
     },
     "M-VGMDB-AR-11952": {
         "impacts": {
@@ -32519,7 +32829,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.2837224827009528
+        "DAH_overall_score_overallScore": 0.2837224827009528,
+        "DAH_anime_normalize_score": 4.522481655133968
     },
     "M-VGMDB-AL-69821-1": {
         "impacts": {
@@ -32586,7 +32897,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AL-60358": {
         "impacts": {
@@ -32653,7 +32965,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-63624": {
         "impacts": {
@@ -32735,7 +33048,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.8222925082830606
+        "DAH_overall_score_overallScore": 1.8222925082830606,
+        "DAH_anime_normalize_score": 6.322292508283061
     },
     "M-VGMDB-AL-82369": {
         "impacts": {
@@ -32802,7 +33116,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "F-VGMDB-3939": {
         "impacts": {
@@ -32929,7 +33244,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.648258669406184
+        "DAH_overall_score_overallScore": 2.648258669406184,
+        "DAH_anime_normalize_score": 7.0465031743381825
     },
     "A-MAL-37587": {
         "impacts": {
@@ -33026,7 +33342,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.84
+        "DAH_overall_score_overallScore": 2.84,
+        "DAH_anime_normalize_score": 7.10664522579563
     },
     "M-VGMDB-AL-53945": {
         "impacts": {
@@ -33108,7 +33425,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4499999999999997
+        "DAH_overall_score_overallScore": 1.4499999999999997,
+        "DAH_anime_normalize_score": 5.8999999999999995
     },
     "A-MAL-40879": {
         "impacts": {
@@ -33340,7 +33658,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 9.50228329559163
+        "DAH_overall_score_overallScore": 9.50228329559163,
+        "DAH_anime_normalize_score": 9.943253577948802
     },
     "M-VGMDB-AR-16166": {
         "impacts": {
@@ -33692,7 +34011,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.8996242500409277
+        "DAH_overall_score_overallScore": 3.8996242500409277,
+        "DAH_anime_normalize_score": 7.439009541690156
     },
     "A-MAL-12189": {
         "impacts": {
@@ -33774,7 +34094,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.15
+        "DAH_overall_score_overallScore": 1.15,
+        "DAH_anime_normalize_score": 5.3
     },
     "M-VGMDB-AL-59371": {
         "impacts": {
@@ -33871,7 +34192,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.62
+        "DAH_overall_score_overallScore": 1.62,
+        "DAH_anime_normalize_score": 6.12
     },
     "M-VGMDB-AL-78253-1": {
         "impacts": {
@@ -33953,7 +34275,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3399999999999999
+        "DAH_overall_score_overallScore": 1.3399999999999999,
+        "DAH_anime_normalize_score": 5.68
     },
     "M-VGMDB-AL-53945-1": {
         "impacts": {
@@ -34035,7 +34358,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4499999999999997
+        "DAH_overall_score_overallScore": 1.4499999999999997,
+        "DAH_anime_normalize_score": 5.8999999999999995
     },
     "M-VGMDB-AL-41278-1": {
         "impacts": {
@@ -34102,7 +34426,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "A-MAL-34284": {
         "impacts": {
@@ -34229,7 +34554,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.623132372065961
+        "DAH_overall_score_overallScore": 3.623132372065961,
+        "DAH_anime_normalize_score": 7.352284427698104
     },
     "M-VGMDB-AL-87199-1": {
         "impacts": {
@@ -34296,7 +34622,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "G-VGMDB-5237": {
         "impacts": {
@@ -34498,7 +34825,8 @@
             0.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 9.1442411512675
+        "DAH_overall_score_overallScore": 9.1442411512675,
+        "DAH_anime_normalize_score": 9.808697110177208
     },
     "A-MAL-34280": {
         "impacts": {
@@ -34565,7 +34893,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "M-VGMDB-AL-69257": {
         "impacts": {
@@ -34632,7 +34961,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "F-VGMDB-5173": {
         "impacts": {
@@ -35119,7 +35449,8 @@
             0.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 6.734735646125641
+        "DAH_overall_score_overallScore": 6.734735646125641,
+        "DAH_anime_normalize_score": 8.80245991613278
     },
     "M-VGMDB-AL-91187": {
         "impacts": {
@@ -35201,7 +35532,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2899999999999998
+        "DAH_overall_score_overallScore": 1.2899999999999998,
+        "DAH_anime_normalize_score": 5.58
     },
     "M-VGMDB-AL-97601": {
         "impacts": {
@@ -35283,7 +35615,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.33955117791898715
+        "DAH_overall_score_overallScore": 0.33955117791898715,
+        "DAH_anime_normalize_score": 4.5597007852793245
     },
     "M-VGMDB-AL-73516": {
         "impacts": {
@@ -35365,7 +35698,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.825
+        "DAH_overall_score_overallScore": 0.825,
+        "DAH_anime_normalize_score": 4.883333333333333
     },
     "A-MAL-38524": {
         "impacts": {
@@ -35447,7 +35781,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.0
+        "DAH_overall_score_overallScore": 3.0,
+        "DAH_anime_normalize_score": 7.156831214405337
     },
     "M-VGMDB-AR-11829": {
         "impacts": {
@@ -35604,7 +35939,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.724844300514066
+        "DAH_overall_score_overallScore": 2.724844300514066,
+        "DAH_anime_normalize_score": 7.070525209403479
     },
     "M-VGMDB-AL-93532-1": {
         "impacts": {
@@ -35671,7 +36007,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-62516": {
         "impacts": {
@@ -35738,7 +36075,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-34269": {
         "impacts": {
@@ -35865,7 +36203,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.25000136601834
+        "DAH_overall_score_overallScore": 2.25000136601834,
+        "DAH_anime_normalize_score": 6.75000136601834
     },
     "M-VGMDB-AL-64249-1": {
         "impacts": {
@@ -35932,7 +36271,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-84229-1": {
         "impacts": {
@@ -35999,7 +36339,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.23999999999999994
+        "DAH_overall_score_overallScore": 0.23999999999999994,
+        "DAH_anime_normalize_score": 4.493333333333333
     },
     "M-VGMDB-AL-84229-2": {
         "impacts": {
@@ -36066,7 +36407,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-23391": {
         "impacts": {
@@ -36133,7 +36475,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-1": {
         "impacts": {
@@ -36245,7 +36588,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9591913988635672
+        "DAH_overall_score_overallScore": 1.9591913988635672,
+        "DAH_anime_normalize_score": 6.459191398863567
     },
     "M-VGMDB-AL-69147": {
         "impacts": {
@@ -36312,7 +36656,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-5": {
         "impacts": {
@@ -36379,7 +36724,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8829412360164001
+        "DAH_overall_score_overallScore": 0.8829412360164001,
+        "DAH_anime_normalize_score": 4.921960824010933
     },
     "M-VGMDB-AR-18205": {
         "impacts": {
@@ -36491,7 +36837,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3566800133794459
+        "DAH_overall_score_overallScore": 1.3566800133794459,
+        "DAH_anime_normalize_score": 5.713360026758892
     },
     "M-7": {
         "impacts": {
@@ -36558,7 +36905,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "F-VGMDB-9540": {
         "impacts": {
@@ -36730,7 +37078,8 @@
             0.8611111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 7.529437001629001
+        "DAH_overall_score_overallScore": 7.529437001629001,
+        "DAH_anime_normalize_score": 9.201834633335471
     },
     "M-6": {
         "impacts": {
@@ -36812,7 +37161,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7308378160320013
+        "DAH_overall_score_overallScore": 1.7308378160320013,
+        "DAH_anime_normalize_score": 6.230837816032001
     },
     "M-VGMDB-AL-68225-1": {
         "impacts": {
@@ -36894,7 +37244,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.75
+        "DAH_overall_score_overallScore": 1.75,
+        "DAH_anime_normalize_score": 6.25
     },
     "M-VGMDB-AL-89364-3": {
         "impacts": {
@@ -36961,7 +37312,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-9": {
         "impacts": {
@@ -37028,7 +37380,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.3404669792411433
+        "DAH_overall_score_overallScore": 0.3404669792411433,
+        "DAH_anime_normalize_score": 4.560311319494096
     },
     "M-8": {
         "impacts": {
@@ -37095,7 +37448,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9500000000000004
+        "DAH_overall_score_overallScore": 1.9500000000000004,
+        "DAH_anime_normalize_score": 6.45
     },
     "M-VGMDB-AL-34411-6": {
         "impacts": {
@@ -37177,7 +37531,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5000000000000002
+        "DAH_overall_score_overallScore": 1.5000000000000002,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-75349-1": {
         "impacts": {
@@ -37244,7 +37599,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "A-MAL-13333": {
         "impacts": {
@@ -37341,7 +37697,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.765668991004622
+        "DAH_overall_score_overallScore": 5.765668991004622,
+        "DAH_anime_normalize_score": 8.059443474635689
     },
     "M-VGMDB-AR-18208": {
         "impacts": {
@@ -37513,7 +37870,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0810376877770533
+        "DAH_overall_score_overallScore": 2.0810376877770533,
+        "DAH_anime_normalize_score": 6.581037687777053
     },
     "M-VGMDB-AL-30302-2": {
         "impacts": {
@@ -37580,7 +37938,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "A-MAL-37890": {
         "impacts": {
@@ -37662,7 +38021,8 @@
             0.75,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.2726892457611436
+        "DAH_overall_score_overallScore": 3.2726892457611436,
+        "DAH_anime_normalize_score": 7.242363585541328
     },
     "F-VGMDB-1945": {
         "impacts": {
@@ -38299,7 +38659,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 14.87994912391649
+        "DAH_overall_score_overallScore": 14.87994912391649,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AL-58750-1": {
         "impacts": {
@@ -38366,7 +38727,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-VGMDB-AR-9455": {
         "impacts": {
@@ -38433,7 +38795,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8511674481028582
+        "DAH_overall_score_overallScore": 0.8511674481028582,
+        "DAH_anime_normalize_score": 4.900778298735238
     },
     "M-VGMDB-AL-87198-7": {
         "impacts": {
@@ -38500,7 +38863,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "M-VGMDB-AL-104783-1": {
         "impacts": {
@@ -38567,7 +38931,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.375
+        "DAH_overall_score_overallScore": 0.375,
+        "DAH_anime_normalize_score": 4.583333333333334
     },
     "M-VGMDB-AL-87198-1": {
         "impacts": {
@@ -38634,7 +38999,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AR-17342": {
         "impacts": {
@@ -38701,7 +39067,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.5366563145999497
+        "DAH_overall_score_overallScore": 0.5366563145999497,
+        "DAH_anime_normalize_score": 4.6911042097333
     },
     "M-VGMDB-AL-45187": {
         "impacts": {
@@ -38768,7 +39135,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-34269-12": {
         "impacts": {
@@ -38865,7 +39233,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6297628862834591
+        "DAH_overall_score_overallScore": 0.6297628862834591,
+        "DAH_anime_normalize_score": 4.753175257522306
     },
     "A-MAL-28851": {
         "impacts": {
@@ -38977,7 +39346,8 @@
             1.0,
             1.0
         ],
-        "DAH_overall_score_overallScore": 6.039974317712686
+        "DAH_overall_score_overallScore": 6.039974317712686,
+        "DAH_anime_normalize_score": 8.269762720125433
     },
     "M-VGMDB-AL-49423": {
         "impacts": {
@@ -39089,7 +39459,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.8799711922599354
+        "DAH_overall_score_overallScore": 1.8799711922599354,
+        "DAH_anime_normalize_score": 6.379971192259935
     },
     "M-VGMDB-AL-62516-1": {
         "impacts": {
@@ -39156,7 +39527,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-102277-1": {
         "impacts": {
@@ -39223,7 +39595,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9500000000000004
+        "DAH_overall_score_overallScore": 1.9500000000000004,
+        "DAH_anime_normalize_score": 6.45
     },
     "M-VGMDB-AR-29323": {
         "impacts": {
@@ -39365,7 +39738,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3351795871377476
+        "DAH_overall_score_overallScore": 1.3351795871377476,
+        "DAH_anime_normalize_score": 5.670359174275495
     },
     "M-VGMDB-AL-110219": {
         "impacts": {
@@ -39447,7 +39821,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.245
+        "DAH_overall_score_overallScore": 1.245,
+        "DAH_anime_normalize_score": 5.49
     },
     "M-VGMDB-AL-78516-1": {
         "impacts": {
@@ -39529,7 +39904,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9099999999999999
+        "DAH_overall_score_overallScore": 0.9099999999999999,
+        "DAH_anime_normalize_score": 4.9399999999999995
     },
     "M-VGMDB-AL-35015": {
         "impacts": {
@@ -39596,7 +39972,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.675
+        "DAH_overall_score_overallScore": 0.675,
+        "DAH_anime_normalize_score": 4.783333333333333
     },
     "A-MAL-23277": {
         "impacts": {
@@ -39738,7 +40115,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.2036816571301454
+        "DAH_overall_score_overallScore": 3.2036816571301454,
+        "DAH_anime_normalize_score": 7.220718497684961
     },
     "M-VGMDB-AL-100082-1": {
         "impacts": {
@@ -39805,7 +40183,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "A-MAL-35241": {
         "impacts": {
@@ -39872,7 +40251,8 @@
             -0.5,
             0.0
         ],
-        "DAH_overall_score_overallScore": -0.5
+        "DAH_overall_score_overallScore": -0.5,
+        "DAH_anime_normalize_score": 4.0
     },
     "A-MAL-34392": {
         "impacts": {
@@ -39954,7 +40334,8 @@
             -1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": -0.8380000000000001
+        "DAH_overall_score_overallScore": -0.8380000000000001,
+        "DAH_anime_normalize_score": 3.324
     },
     "M-VGMDB-AR-13097": {
         "impacts": {
@@ -40081,7 +40462,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1775180490199868
+        "DAH_overall_score_overallScore": 1.1775180490199868,
+        "DAH_anime_normalize_score": 5.355036098039974
     },
     "M-VGMDB-AL-74133-2": {
         "impacts": {
@@ -40148,7 +40530,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "A-MAL-23273": {
         "impacts": {
@@ -40290,7 +40673,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 8.91037920401999
+        "DAH_overall_score_overallScore": 8.91037920401999,
+        "DAH_anime_normalize_score": 9.72080902754042
     },
     "M-VGMDB-AL-89363-1": {
         "impacts": {
@@ -40357,7 +40741,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-94913-1": {
         "impacts": {
@@ -40424,7 +40809,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-89363-2": {
         "impacts": {
@@ -40521,7 +40907,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.049027703224741
+        "DAH_overall_score_overallScore": 4.049027703224741,
+        "DAH_anime_normalize_score": 7.485871791688493
     },
     "M-VGMDB-AL-114102-1": {
         "impacts": {
@@ -40588,7 +40975,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-34051": {
         "impacts": {
@@ -40670,7 +41058,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.84
+        "DAH_overall_score_overallScore": 0.84,
+        "DAH_anime_normalize_score": 4.893333333333333
     },
     "F-VGMDB-2931": {
         "impacts": {
@@ -40842,7 +41231,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.0163719103858964
+        "DAH_overall_score_overallScore": 3.0163719103858964,
+        "DAH_anime_normalize_score": 7.161966467581248
     },
     "M-VGMDB-AL-42900": {
         "impacts": {
@@ -40939,7 +41329,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.258332979937014
+        "DAH_overall_score_overallScore": 1.258332979937014,
+        "DAH_anime_normalize_score": 5.516665959874028
     },
     "M-VGMDB-AL-75504-2": {
         "impacts": {
@@ -41006,7 +41397,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-89290-6": {
         "impacts": {
@@ -41118,7 +41510,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.016705513845602
+        "DAH_overall_score_overallScore": 4.016705513845602,
+        "DAH_anime_normalize_score": 7.475733535263354
     },
     "M-VGMDB-AL-115724-1": {
         "impacts": {
@@ -41185,7 +41578,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.25
+        "DAH_overall_score_overallScore": 2.25,
+        "DAH_anime_normalize_score": 6.75
     },
     "M-VGMDB-AR-10253": {
         "impacts": {
@@ -41297,7 +41691,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1832768126916562
+        "DAH_overall_score_overallScore": 1.1832768126916562,
+        "DAH_anime_normalize_score": 5.366553625383313
     },
     "A-MAL-23587": {
         "impacts": {
@@ -41379,7 +41774,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4204482076268572
+        "DAH_overall_score_overallScore": 1.4204482076268572,
+        "DAH_anime_normalize_score": 5.840896415253715
     },
     "A-MAL-34240": {
         "impacts": {
@@ -41491,7 +41887,8 @@
             1.0,
             0.75
         ],
-        "DAH_overall_score_overallScore": 7.1
+        "DAH_overall_score_overallScore": 7.1,
+        "DAH_anime_normalize_score": 9.040447134724939
     },
     "M-VGMDB-AL-50721": {
         "impacts": {
@@ -41573,7 +41970,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5550000000000002
+        "DAH_overall_score_overallScore": 1.5550000000000002,
+        "DAH_anime_normalize_score": 6.055
     },
     "M-VGMDB-AL-115724-2": {
         "impacts": {
@@ -41640,7 +42038,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-116297": {
         "impacts": {
@@ -41707,7 +42106,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-VGMDB-AL-93441": {
         "impacts": {
@@ -41774,7 +42174,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AL-86622-2": {
         "impacts": {
@@ -41841,7 +42242,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AR-26954": {
         "impacts": {
@@ -41983,7 +42385,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4097639192349476
+        "DAH_overall_score_overallScore": 1.4097639192349476,
+        "DAH_anime_normalize_score": 5.819527838469895
     },
     "M-VGMDB-AL-86622-1": {
         "impacts": {
@@ -42050,7 +42453,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "A-MAL-10278": {
         "impacts": {
@@ -42162,7 +42566,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.7618785013180203
+        "DAH_overall_score_overallScore": 2.7618785013180203,
+        "DAH_anime_normalize_score": 7.08214144677671
     },
     "F-VGMDB-4168": {
         "impacts": {
@@ -42379,7 +42784,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.329952282804975
+        "DAH_overall_score_overallScore": 5.329952282804975,
+        "DAH_anime_normalize_score": 7.887649706442922
     },
     "M-VGMDB-AL-93440": {
         "impacts": {
@@ -42506,7 +42912,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.1378958345373347
+        "DAH_overall_score_overallScore": 2.1378958345373347,
+        "DAH_anime_normalize_score": 6.637895834537335
     },
     "M-VGMDB-AL-63624-2": {
         "impacts": {
@@ -42573,7 +42980,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-VGMDB-AL-63624-1": {
         "impacts": {
@@ -42640,7 +43048,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "A-MAL-25519": {
         "impacts": {
@@ -42797,7 +43206,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 8.63637470099835
+        "DAH_overall_score_overallScore": 8.63637470099835,
+        "DAH_anime_normalize_score": 9.617834898196794
     },
     "M-VGMDB-AL-78534-2": {
         "impacts": {
@@ -42879,7 +43289,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.55
+        "DAH_overall_score_overallScore": 2.55,
+        "DAH_anime_normalize_score": 7.015683121440533
     },
     "M-VGMDB-AR-12665": {
         "impacts": {
@@ -42946,7 +43357,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4186124135047637
+        "DAH_overall_score_overallScore": 1.4186124135047637,
+        "DAH_anime_normalize_score": 5.8372248270095275
     },
     "M-VGMDB-AL-78534-1": {
         "impacts": {
@@ -43028,7 +43440,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.34500000000000003
+        "DAH_overall_score_overallScore": 0.34500000000000003,
+        "DAH_anime_normalize_score": 4.5633333333333335
     },
     "M-VGMDB-AL-61982": {
         "impacts": {
@@ -43095,7 +43508,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-35431": {
         "impacts": {
@@ -43162,7 +43576,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AL-61981": {
         "impacts": {
@@ -43259,7 +43674,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.1550829102168763
+        "DAH_overall_score_overallScore": 2.1550829102168763,
+        "DAH_anime_normalize_score": 6.655082910216876
     },
     "M-MAL-36631-6": {
         "impacts": {
@@ -43356,7 +43772,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.879893616900637
+        "DAH_overall_score_overallScore": 4.879893616900637,
+        "DAH_anime_normalize_score": 7.746483212188075
     },
     "M-VGMDB-AL-51706": {
         "impacts": {
@@ -43438,7 +43855,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5784044452848667
+        "DAH_overall_score_overallScore": 1.5784044452848667,
+        "DAH_anime_normalize_score": 6.078404445284867
     },
     "M-VGMDB-AL-69257-1": {
         "impacts": {
@@ -43505,7 +43923,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "A-MAL-34498": {
         "impacts": {
@@ -43602,7 +44021,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.62
+        "DAH_overall_score_overallScore": 2.62,
+        "DAH_anime_normalize_score": 7.037639491457281
     },
     "F-VGMDB-4296": {
         "impacts": {
@@ -43699,7 +44119,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.765668991004622
+        "DAH_overall_score_overallScore": 5.765668991004622,
+        "DAH_anime_normalize_score": 8.059443474635689
     },
     "A-MAL-21273": {
         "impacts": {
@@ -43781,7 +44202,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6
+        "DAH_overall_score_overallScore": 1.6,
+        "DAH_anime_normalize_score": 6.1
     },
     "A-MAL-14741": {
         "impacts": {
@@ -43878,7 +44300,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.396011468113765
+        "DAH_overall_score_overallScore": 2.396011468113765,
+        "DAH_anime_normalize_score": 6.896011468113765
     },
     "M-VGMDB-AL-99272-12": {
         "impacts": {
@@ -43945,7 +44368,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AR-30564": {
         "impacts": {
@@ -44117,7 +44541,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5570727995981097
+        "DAH_overall_score_overallScore": 1.5570727995981097,
+        "DAH_anime_normalize_score": 6.05707279959811
     },
     "A-MAL-32281": {
         "impacts": {
@@ -44214,7 +44639,8 @@
             1.0,
             0.75
         ],
-        "DAH_overall_score_overallScore": 2.35
+        "DAH_overall_score_overallScore": 2.35,
+        "DAH_anime_normalize_score": 6.85
     },
     "M-VGMDB-AR-5524": {
         "impacts": {
@@ -44356,7 +44782,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3663313966307722
+        "DAH_overall_score_overallScore": 1.3663313966307722,
+        "DAH_anime_normalize_score": 5.732662793261545
     },
     "M-VGMDB-AL-51918": {
         "impacts": {
@@ -44438,7 +44865,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3499999999999999
+        "DAH_overall_score_overallScore": 1.3499999999999999,
+        "DAH_anime_normalize_score": 5.699999999999999
     },
     "A-MAL-36885": {
         "impacts": {
@@ -44520,7 +44948,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.25
+        "DAH_overall_score_overallScore": 1.25,
+        "DAH_anime_normalize_score": 5.5
     },
     "M-VGMDB-AL-68225": {
         "impacts": {
@@ -44602,7 +45031,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.75
+        "DAH_overall_score_overallScore": 1.75,
+        "DAH_anime_normalize_score": 6.25
     },
     "M-VGMDB-AL-89290": {
         "impacts": {
@@ -44714,7 +45144,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.016705513845602
+        "DAH_overall_score_overallScore": 4.016705513845602,
+        "DAH_anime_normalize_score": 7.475733535263354
     },
     "M-VGMDB-AL-61940-1": {
         "impacts": {
@@ -44781,7 +45212,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-36547": {
         "impacts": {
@@ -44848,7 +45280,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-13857": {
         "impacts": {
@@ -44960,7 +45393,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6202323400865097
+        "DAH_overall_score_overallScore": 1.6202323400865097,
+        "DAH_anime_normalize_score": 6.12023234008651
     },
     "M-VGMDB-AL-37999": {
         "impacts": {
@@ -45042,7 +45476,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.2643540225079395
+        "DAH_overall_score_overallScore": 3.2643540225079395,
+        "DAH_anime_normalize_score": 7.23974913917105
     },
     "M-VGMDB-AR-11436": {
         "impacts": {
@@ -45154,7 +45589,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.9277823658852324
+        "DAH_overall_score_overallScore": 3.9277823658852324,
+        "DAH_anime_normalize_score": 7.447841684696614
     },
     "M-VGMDB-AL-78764-1": {
         "impacts": {
@@ -45251,7 +45687,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7652571851767216
+        "DAH_overall_score_overallScore": 1.7652571851767216,
+        "DAH_anime_normalize_score": 6.265257185176722
     },
     "M-VGMDB-AL-96290-1": {
         "impacts": {
@@ -45318,7 +45755,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "A-MAL-25777": {
         "impacts": {
@@ -45400,7 +45838,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3
+        "DAH_overall_score_overallScore": 1.3,
+        "DAH_anime_normalize_score": 5.6
     },
     "M-VGMDB-AL-22848-2": {
         "impacts": {
@@ -45467,7 +45906,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-47678": {
         "impacts": {
@@ -45534,7 +45974,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "M-VGMDB-AL-93532": {
         "impacts": {
@@ -45601,7 +46042,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-71404": {
         "impacts": {
@@ -45668,7 +46110,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-106577": {
         "impacts": {
@@ -45795,7 +46238,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6104123292805206
+        "DAH_overall_score_overallScore": 1.6104123292805206,
+        "DAH_anime_normalize_score": 6.11041232928052
     },
     "M-VGMDB-AL-34269-7": {
         "impacts": {
@@ -45877,7 +46321,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.099746120304559
+        "DAH_overall_score_overallScore": 2.099746120304559,
+        "DAH_anime_normalize_score": 6.599746120304559
     },
     "M-VGMDB-AL-37999-2": {
         "impacts": {
@@ -45959,7 +46404,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.1211607962362824
+        "DAH_overall_score_overallScore": 3.1211607962362824,
+        "DAH_anime_normalize_score": 7.194834804029445
     },
     "M-VGMDB-AL-37999-1": {
         "impacts": {
@@ -46026,7 +46472,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7568067737283429
+        "DAH_overall_score_overallScore": 0.7568067737283429,
+        "DAH_anime_normalize_score": 4.8378711824855625
     },
     "A-MAL-44275": {
         "impacts": {
@@ -46123,7 +46570,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.765668991004622
+        "DAH_overall_score_overallScore": 5.765668991004622,
+        "DAH_anime_normalize_score": 8.059443474635689
     },
     "M-VGMDB-AL-97692-1": {
         "impacts": {
@@ -46190,7 +46638,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "A-MAL-37869": {
         "impacts": {
@@ -46317,7 +46766,8 @@
             -0.9,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3458634037539574
+        "DAH_overall_score_overallScore": 1.3458634037539574,
+        "DAH_anime_normalize_score": 5.691726807507915
     },
     "M-VGMDB-AL-78253": {
         "impacts": {
@@ -46399,7 +46849,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3399999999999999
+        "DAH_overall_score_overallScore": 1.3399999999999999,
+        "DAH_anime_normalize_score": 5.68
     },
     "M-14": {
         "impacts": {
@@ -46466,7 +46917,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4186124135047637
+        "DAH_overall_score_overallScore": 1.4186124135047637,
+        "DAH_anime_normalize_score": 5.8372248270095275
     },
     "M-VGMDB-AR-11666": {
         "impacts": {
@@ -47148,7 +47600,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 10.644451263064507
+        "DAH_overall_score_overallScore": 10.644451263064507,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-13": {
         "impacts": {
@@ -47290,7 +47743,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6626760264060487
+        "DAH_overall_score_overallScore": 1.6626760264060487,
+        "DAH_anime_normalize_score": 6.162676026406048
     },
     "M-12": {
         "impacts": {
@@ -47357,7 +47811,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7568067737283429
+        "DAH_overall_score_overallScore": 0.7568067737283429,
+        "DAH_anime_normalize_score": 4.8378711824855625
     },
     "M-11": {
         "impacts": {
@@ -47424,7 +47879,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-78378": {
         "impacts": {
@@ -47491,7 +47947,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6500000000000001
+        "DAH_overall_score_overallScore": 1.6500000000000001,
+        "DAH_anime_normalize_score": 6.15
     },
     "M-18": {
         "impacts": {
@@ -47843,7 +48300,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.831298369519418
+        "DAH_overall_score_overallScore": 5.831298369519418,
+        "DAH_anime_normalize_score": 8.109763756552354
     },
     "M-17": {
         "impacts": {
@@ -47940,7 +48398,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.251330308044087
+        "DAH_overall_score_overallScore": 2.251330308044087,
+        "DAH_anime_normalize_score": 6.751330308044087
     },
     "M-16": {
         "impacts": {
@@ -48007,7 +48466,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5604736548552403
+        "DAH_overall_score_overallScore": 1.5604736548552403,
+        "DAH_anime_normalize_score": 6.06047365485524
     },
     "M-15": {
         "impacts": {
@@ -48059,7 +48519,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.0
+        "DAH_overall_score_overallScore": 0.0,
+        "DAH_anime_normalize_score": 4.333333333333334
     },
     "M-VGMDB-AL-52045-1": {
         "impacts": {
@@ -48126,7 +48587,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-19": {
         "impacts": {
@@ -48193,7 +48655,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8511674481028582
+        "DAH_overall_score_overallScore": 0.8511674481028582,
+        "DAH_anime_normalize_score": 4.900778298735238
     },
     "A-MAL-24997": {
         "impacts": {
@@ -48290,7 +48753,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0521731609328646
+        "DAH_overall_score_overallScore": 2.0521731609328646,
+        "DAH_anime_normalize_score": 6.552173160932865
     },
     "M-VGMDB-AL-23391-1": {
         "impacts": {
@@ -48357,7 +48821,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "F-VGMDB-4000": {
         "impacts": {
@@ -48514,7 +48979,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 6.685130501829519
+        "DAH_overall_score_overallScore": 6.685130501829519,
+        "DAH_anime_normalize_score": 8.764425960883074
     },
     "A-MAL-34445": {
         "impacts": {
@@ -48626,7 +49092,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.573730623123653
+        "DAH_overall_score_overallScore": 4.573730623123653,
+        "DAH_anime_normalize_score": 7.650451383948039
     },
     "F-VGMDB-10978": {
         "impacts": {
@@ -48738,7 +49205,8 @@
             0.75,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.266699248277419
+        "DAH_overall_score_overallScore": 2.266699248277419,
+        "DAH_anime_normalize_score": 6.766699248277419
     },
     "M-VGMDB-AL-91985-1": {
         "impacts": {
@@ -48820,7 +49288,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.2950000000000004
+        "DAH_overall_score_overallScore": 2.2950000000000004,
+        "DAH_anime_normalize_score": 6.795
     },
     "F-VGMDB-3274": {
         "impacts": {
@@ -49292,7 +49761,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 10.57955571876839
+        "DAH_overall_score_overallScore": 10.57955571876839,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AL-89431-1": {
         "impacts": {
@@ -49359,7 +49829,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.0999999999999996
+        "DAH_overall_score_overallScore": 2.0999999999999996,
+        "DAH_anime_normalize_score": 6.6
     },
     "M-VGMDB-AR-33857": {
         "impacts": {
@@ -49441,7 +49912,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.211568388067877
+        "DAH_overall_score_overallScore": 2.211568388067877,
+        "DAH_anime_normalize_score": 6.711568388067877
     },
     "M-21": {
         "impacts": {
@@ -49523,7 +49995,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2638781464868671
+        "DAH_overall_score_overallScore": 1.2638781464868671,
+        "DAH_anime_normalize_score": 5.527756292973734
     },
     "M-20": {
         "impacts": {
@@ -49695,7 +50168,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.328366913151747
+        "DAH_overall_score_overallScore": 2.328366913151747,
+        "DAH_anime_normalize_score": 6.828366913151747
     },
     "M-VGMDB-AR-12516": {
         "impacts": {
@@ -49777,7 +50251,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7000000000000001
+        "DAH_overall_score_overallScore": 0.7000000000000001,
+        "DAH_anime_normalize_score": 4.800000000000001
     },
     "M-VGMDB-AL-80802-2": {
         "impacts": {
@@ -49844,7 +50319,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.14999999999999997
+        "DAH_overall_score_overallScore": 0.14999999999999997,
+        "DAH_anime_normalize_score": 4.433333333333334
     },
     "M-VGMDB-AL-118562": {
         "impacts": {
@@ -49911,7 +50387,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-82983": {
         "impacts": {
@@ -50038,7 +50515,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5452912735061402
+        "DAH_overall_score_overallScore": 1.5452912735061402,
+        "DAH_anime_normalize_score": 6.04529127350614
     },
     "M-VGMDB-AL-57564": {
         "impacts": {
@@ -50180,7 +50658,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.621945241564329
+        "DAH_overall_score_overallScore": 2.621945241564329,
+        "DAH_anime_normalize_score": 7.038249640650972
     },
     "M-VGMDB-AL-37932": {
         "impacts": {
@@ -50247,7 +50726,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AL-61940": {
         "impacts": {
@@ -50314,7 +50794,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2000000000000002
+        "DAH_overall_score_overallScore": 1.2000000000000002,
+        "DAH_anime_normalize_score": 5.4
     },
     "M-VGMDB-AL-80802-8": {
         "impacts": {
@@ -50381,7 +50862,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.4499999999999999
+        "DAH_overall_score_overallScore": 0.4499999999999999,
+        "DAH_anime_normalize_score": 4.633333333333333
     },
     "M-VGMDB-AL-82743": {
         "impacts": {
@@ -50463,7 +50945,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.4
+        "DAH_overall_score_overallScore": 1.4,
+        "DAH_anime_normalize_score": 5.8
     },
     "M-VGMDB-AL-45187-1": {
         "impacts": {
@@ -50530,7 +51013,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5
+        "DAH_overall_score_overallScore": 1.5,
+        "DAH_anime_normalize_score": 6.0
     },
     "M-VGMDB-AL-87199": {
         "impacts": {
@@ -50597,7 +51081,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.35
+        "DAH_overall_score_overallScore": 1.35,
+        "DAH_anime_normalize_score": 5.7
     },
     "M-VGMDB-AL-49046-1": {
         "impacts": {
@@ -50679,7 +51164,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9
+        "DAH_overall_score_overallScore": 1.9,
+        "DAH_anime_normalize_score": 6.4
     },
     "M-VGMDB-AL-80802-1": {
         "impacts": {
@@ -50746,7 +51232,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-87198": {
         "impacts": {
@@ -50843,7 +51330,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.5854071365516473
+        "DAH_overall_score_overallScore": 1.5854071365516473,
+        "DAH_anime_normalize_score": 6.085407136551647
     },
     "A-MAL-32038": {
         "impacts": {
@@ -51090,7 +51578,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 8.03103487207012
+        "DAH_overall_score_overallScore": 8.03103487207012,
+        "DAH_anime_normalize_score": 9.390341038959077
     },
     "F-VGMDB-4499": {
         "impacts": {
@@ -52222,7 +52711,8 @@
             1.1111111111111112,
             -0.25
         ],
-        "DAH_overall_score_overallScore": 14.367682421903313
+        "DAH_overall_score_overallScore": 14.367682421903313,
+        "DAH_anime_normalize_score": 10.0
     },
     "M-VGMDB-AR-31328": {
         "impacts": {
@@ -52334,7 +52824,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0713620295500865
+        "DAH_overall_score_overallScore": 1.0713620295500865,
+        "DAH_anime_normalize_score": 5.142724059100173
     },
     "M-VGMDB-AR-31329": {
         "impacts": {
@@ -52416,7 +52907,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.6786913559806371
+        "DAH_overall_score_overallScore": 1.6786913559806371,
+        "DAH_anime_normalize_score": 6.178691355980638
     },
     "M-VGMDB-AR-13719": {
         "impacts": {
@@ -52543,7 +53035,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.9674499140600392
+        "DAH_overall_score_overallScore": 1.9674499140600392,
+        "DAH_anime_normalize_score": 6.467449914060039
     },
     "M-VGMDB-AR-31326": {
         "impacts": {
@@ -52625,7 +53118,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3240382526044459
+        "DAH_overall_score_overallScore": 1.3240382526044459,
+        "DAH_anime_normalize_score": 5.648076505208891
     },
     "F-VGMDB-6434": {
         "impacts": {
@@ -52752,7 +53246,8 @@
             -1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.3620000000000001
+        "DAH_overall_score_overallScore": 0.3620000000000001,
+        "DAH_anime_normalize_score": 4.574666666666667
     },
     "M-10": {
         "impacts": {
@@ -52819,7 +53314,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8250000000000001
+        "DAH_overall_score_overallScore": 0.8250000000000001,
+        "DAH_anime_normalize_score": 4.883333333333333
     },
     "F-VGMDB-6439": {
         "impacts": {
@@ -52976,7 +53472,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.124527296423785
+        "DAH_overall_score_overallScore": 4.124527296423785,
+        "DAH_anime_normalize_score": 7.5095531774655235
     },
     "M-VGMDB-AL-78536-2": {
         "impacts": {
@@ -53043,7 +53540,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "F-VGMDB-9703": {
         "impacts": {
@@ -53155,7 +53653,8 @@
             1.1111111111111112,
             0.0
         ],
-        "DAH_overall_score_overallScore": 7.265668991004622
+        "DAH_overall_score_overallScore": 7.265668991004622,
+        "DAH_anime_normalize_score": 9.10270749876936
     },
     "M-36": {
         "impacts": {
@@ -53267,7 +53766,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.7306093276633296
+        "DAH_overall_score_overallScore": 0.7306093276633296,
+        "DAH_anime_normalize_score": 4.820406218442219
     },
     "A-MAL-23209": {
         "impacts": {
@@ -53409,7 +53909,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.106856863863605
+        "DAH_overall_score_overallScore": 4.106856863863605,
+        "DAH_anime_normalize_score": 7.504010626670562
     },
     "M-35": {
         "impacts": {
@@ -53476,7 +53977,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-34": {
         "impacts": {
@@ -53543,7 +54045,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.5698767642386944
+        "DAH_overall_score_overallScore": 0.5698767642386944,
+        "DAH_anime_normalize_score": 4.71325117615913
     },
     "M-33": {
         "impacts": {
@@ -53625,7 +54128,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9899999999999999
+        "DAH_overall_score_overallScore": 0.9899999999999999,
+        "DAH_anime_normalize_score": 4.993333333333333
     },
     "M-37": {
         "impacts": {
@@ -53707,7 +54211,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.76
+        "DAH_overall_score_overallScore": 0.76,
+        "DAH_anime_normalize_score": 4.84
     },
     "M-VGMDB-AL-37130-3": {
         "impacts": {
@@ -53804,7 +54309,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.526328267839204
+        "DAH_overall_score_overallScore": 5.526328267839204,
+        "DAH_anime_normalize_score": 7.949245474868847
     },
     "M-VGMDB-AL-37130-2": {
         "impacts": {
@@ -53886,7 +54392,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.7
+        "DAH_overall_score_overallScore": 2.7,
+        "DAH_anime_normalize_score": 7.062732485762135
     },
     "M-VGMDB-AL-37130-5": {
         "impacts": {
@@ -53968,7 +54475,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "M-VGMDB-AL-37130-4": {
         "impacts": {
@@ -54050,7 +54558,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.1
+        "DAH_overall_score_overallScore": 1.1,
+        "DAH_anime_normalize_score": 5.2
     },
     "M-VGMDB-AL-58627": {
         "impacts": {
@@ -54132,7 +54641,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2499999999999998
+        "DAH_overall_score_overallScore": 1.2499999999999998,
+        "DAH_anime_normalize_score": 5.5
     },
     "M-VGMDB-AL-37130-6": {
         "impacts": {
@@ -54214,7 +54724,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.5999999999999996
+        "DAH_overall_score_overallScore": 2.5999999999999996,
+        "DAH_anime_normalize_score": 7.0313662428810675
     },
     "M-VGMDB-AL-89363": {
         "impacts": {
@@ -54401,7 +54912,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.6446752389119155
+        "DAH_overall_score_overallScore": 4.6446752389119155,
+        "DAH_anime_normalize_score": 7.672704044447225
     },
     "M-VGMDB-AL-89364": {
         "impacts": {
@@ -54543,7 +55055,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.487756807019847
+        "DAH_overall_score_overallScore": 4.487756807019847,
+        "DAH_anime_normalize_score": 7.623484627974797
     },
     "M-VGMDB-AL-47403": {
         "impacts": {
@@ -54610,7 +55123,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-51918-1": {
         "impacts": {
@@ -54692,7 +55206,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3499999999999999
+        "DAH_overall_score_overallScore": 1.3499999999999999,
+        "DAH_anime_normalize_score": 5.699999999999999
     },
     "M-VGMDB-AL-47402": {
         "impacts": {
@@ -54759,7 +55274,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AL-43164": {
         "impacts": {
@@ -54826,7 +55342,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22499999999999992
+        "DAH_overall_score_overallScore": 0.22499999999999992,
+        "DAH_anime_normalize_score": 4.483333333333333
     },
     "M-VGMDB-AL-70622": {
         "impacts": {
@@ -54893,7 +55410,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "A-MAL-33573": {
         "impacts": {
@@ -55035,7 +55553,8 @@
             1.1,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.902932027112791
+        "DAH_overall_score_overallScore": 3.902932027112791,
+        "DAH_anime_normalize_score": 7.4400470670804815
     },
     "M-43": {
         "impacts": {
@@ -55132,7 +55651,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.840332745888067
+        "DAH_overall_score_overallScore": 4.840332745888067,
+        "DAH_anime_normalize_score": 7.734074453300407
     },
     "M-42": {
         "impacts": {
@@ -55229,7 +55749,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.572165354016761
+        "DAH_overall_score_overallScore": 4.572165354016761,
+        "DAH_anime_normalize_score": 7.649960417838228
     },
     "M-VGMDB-AL-78339-2": {
         "impacts": {
@@ -55296,7 +55817,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-41": {
         "impacts": {
@@ -55393,7 +55915,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.542566571860392
+        "DAH_overall_score_overallScore": 5.542566571860392,
+        "DAH_anime_normalize_score": 7.954338820747898
     },
     "M-VGMDB-AL-78339-1": {
         "impacts": {
@@ -55460,7 +55983,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.30000000000000004
+        "DAH_overall_score_overallScore": 0.30000000000000004,
+        "DAH_anime_normalize_score": 4.533333333333333
     },
     "M-VGMDB-AL-55364": {
         "impacts": {
@@ -55542,7 +56066,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0186535337569613
+        "DAH_overall_score_overallScore": 1.0186535337569613,
+        "DAH_anime_normalize_score": 5.037307067513923
     },
     "M-24": {
         "impacts": {
@@ -55624,7 +56149,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.8
+        "DAH_overall_score_overallScore": 2.8,
+        "DAH_anime_normalize_score": 7.0940987286432025
     },
     "M-23": {
         "impacts": {
@@ -55721,7 +56247,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.2014673949987538
+        "DAH_overall_score_overallScore": 2.2014673949987538,
+        "DAH_anime_normalize_score": 6.701467394998754
     },
     "M-VGMDB-AR-9069": {
         "impacts": {
@@ -55833,7 +56360,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.5070650304684987
+        "DAH_overall_score_overallScore": 2.5070650304684987,
+        "DAH_anime_normalize_score": 7.002216034616371
     },
     "M-22": {
         "impacts": {
@@ -55915,7 +56443,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 2.175
+        "DAH_overall_score_overallScore": 2.175,
+        "DAH_anime_normalize_score": 6.675
     },
     "M-VGMDB-AL-58750": {
         "impacts": {
@@ -55982,7 +56511,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0499999999999998
+        "DAH_overall_score_overallScore": 1.0499999999999998,
+        "DAH_anime_normalize_score": 5.1
     },
     "M-29": {
         "impacts": {
@@ -56064,7 +56594,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0953092469603904
+        "DAH_overall_score_overallScore": 1.0953092469603904,
+        "DAH_anime_normalize_score": 5.1906184939207805
     },
     "M-26": {
         "impacts": {
@@ -56161,7 +56692,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.2624371928277847
+        "DAH_overall_score_overallScore": 1.2624371928277847,
+        "DAH_anime_normalize_score": 5.524874385655569
     },
     "A-MAL-35760": {
         "impacts": {
@@ -56243,7 +56775,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.3
+        "DAH_overall_score_overallScore": 1.3,
+        "DAH_anime_normalize_score": 5.6
     },
     "A-MAL-24765": {
         "impacts": {
@@ -56355,7 +56888,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.193648092520225
+        "DAH_overall_score_overallScore": 5.193648092520225,
+        "DAH_anime_normalize_score": 7.844896203061134
     },
     "F-VGMDB-2090": {
         "impacts": {
@@ -56497,7 +57031,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 6.45109581305053
+        "DAH_overall_score_overallScore": 6.45109581305053,
+        "DAH_anime_normalize_score": 8.584983586383327
     },
     "A-MAL-13759": {
         "impacts": {
@@ -56624,7 +57159,8 @@
             1.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 5.91109581305053
+        "DAH_overall_score_overallScore": 5.91109581305053,
+        "DAH_anime_normalize_score": 8.170947176928784
     },
     "M-VGMDB-AL-37932-1": {
         "impacts": {
@@ -56691,7 +57227,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.6000000000000001
+        "DAH_overall_score_overallScore": 0.6000000000000001,
+        "DAH_anime_normalize_score": 4.733333333333333
     },
     "M-VGMDB-AL-21146": {
         "impacts": {
@@ -56758,7 +57295,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.14999999999999997
+        "DAH_overall_score_overallScore": 0.14999999999999997,
+        "DAH_anime_normalize_score": 4.433333333333334
     },
     "M-VGMDB-AL-37130-1": {
         "impacts": {
@@ -56840,7 +57378,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.0
+        "DAH_overall_score_overallScore": 1.0,
+        "DAH_anime_normalize_score": 5.0
     },
     "M-VGMDB-AL-112929": {
         "impacts": {
@@ -56907,7 +57446,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 1.7999999999999998
+        "DAH_overall_score_overallScore": 1.7999999999999998,
+        "DAH_anime_normalize_score": 6.3
     },
     "M-MAL-36631": {
         "impacts": {
@@ -57004,7 +57544,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 4.879893616900637
+        "DAH_overall_score_overallScore": 4.879893616900637,
+        "DAH_anime_normalize_score": 7.746483212188075
     },
     "F-VGMDB-504": {
         "impacts": {
@@ -57251,7 +57792,8 @@
             0.5,
             0.0
         ],
-        "DAH_overall_score_overallScore": 3.2369249829775133
+        "DAH_overall_score_overallScore": 3.2369249829775133,
+        "DAH_anime_normalize_score": 7.231145680011992
     },
     "M-32": {
         "impacts": {
@@ -57333,7 +57875,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.9899999999999999
+        "DAH_overall_score_overallScore": 0.9899999999999999,
+        "DAH_anime_normalize_score": 4.993333333333333
     },
     "M-31": {
         "impacts": {
@@ -57400,7 +57943,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.75
+        "DAH_overall_score_overallScore": 0.75,
+        "DAH_anime_normalize_score": 4.833333333333334
     },
     "M-30": {
         "impacts": {
@@ -57467,7 +58011,8 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.8999999999999999
+        "DAH_overall_score_overallScore": 0.8999999999999999,
+        "DAH_anime_normalize_score": 4.933333333333334
     },
     "M-VGMDB-AR-12726": {
         "impacts": {
@@ -57534,6 +58079,7 @@
             0.0,
             0.0
         ],
-        "DAH_overall_score_overallScore": 0.22768399153212326
+        "DAH_overall_score_overallScore": 0.22768399153212326,
+        "DAH_anime_normalize_score": 4.485122661021416
     }
 }

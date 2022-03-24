@@ -5,3 +5,10 @@ build
 
 # libreoffice csv lock file
 .~lock.*#
+
+# script stuff
+node_modules
+animelist.xml
+animelist.out.xml
+token.txt
+__pycache__
