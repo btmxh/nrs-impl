@@ -115,6 +115,10 @@ class DSLScope(override val context: NRSContext) : AcceptIRE {
     override fun acceptEntry(entry: DSLEntry) {
         entries[entry.id] = entry
     }
+
+    fun getData(): NRSData {
+        return NRSData(entries, impacts, relations)
+    }
 }
 
 class DSLEntry(override val root: DSLScope) : AcceptIRE, AcceptEntryContains, DSLMeta, IEntry {
@@ -178,7 +182,7 @@ fun generate(block: DSLScope.() -> Unit) {
 
     val scope = DSLScope(ctx).also(block)
 
-    val result = ctx.process(NRSData(scope.entries, scope.impacts, scope.relations))
+    val result = ctx.process(scope.getData())
 
     val json = ctx.DAH_json_json!!
     json.output("impacts.json", scope.impacts.map { ctx.DAH_json_serialize(it) })
