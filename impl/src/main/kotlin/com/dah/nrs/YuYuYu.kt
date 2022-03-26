@@ -44,6 +44,15 @@ fun DSLScope.YuYuYu() {
             contributors["A-MAL-42587"] = 0.06
         }
 
+        // yuyuyu's world building is somewhat scary ngl
+        NEI(7.5, Emotion.MU) {
+            contributors["A-MAL-25519"] = 0.5
+            contributors["L-MAL-90810"] = 0.4
+            contributors["A-MAL-34284"] = 0.05
+            contributors["A-MAL-34445"] = 0.025
+            contributors["A-MAL-42587"] = 0.025
+        }
+
         // koori chikage remained as a meme even after the death
         // of the yuyuyu franchise (blame rst for that)
         // just too based bro, rst and sb69 can't kill her

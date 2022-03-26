@@ -5,3 +5,8 @@ build
 
 # libreoffice csv lock file
 .~lock.*#
+
+# script stuff
+token.txt
+animelist.xml
+animelist.out.xml
