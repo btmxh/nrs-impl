@@ -14,4 +14,25 @@ class EntryResult(context: NRSContext, val impacts: Map<Int, ScoreVector>, val r
                 .sumOf { combine(it.factors.map { factor -> overallVector[factor.vectorIndex] }, it.weight) }
         } else null
     }
+
+    val DAH_anime_normalize_score by lazy {
+        if (context.DAH_anime_normalize) {
+            val baseAnimeScores = context.DAH_anime_normalize_baseAnimeScores!!
+            val overallScore = DAH_overall_score_overallScore!!
+            val scoreLevels = baseAnimeScores.size
+
+            if (overallScore < baseAnimeScores.first()) {
+                0.0
+            } else if (overallScore > baseAnimeScores.last()) {
+                (scoreLevels - 1).toDouble()
+            } else {
+                val index = baseAnimeScores.indexOfFirst { it > overallScore }
+                require(index in 0 until scoreLevels)
+                val prev = baseAnimeScores[index - 1]
+                val next = baseAnimeScores[index]
+                mapClampThrow(overallScore, prev..next, (index - 1).toDouble()..index.toDouble())
+                    { "should not reach here" }
+            } + 1.0
+        } else null
+    }
 }

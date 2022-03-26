@@ -100,5 +100,12 @@ fun NRSContext.DAH_json_serialize(result: EntryResult): JsonObject {
                 DAH_json_json!!.encodeToJsonElement(result.DAH_overall_score_overallScore)
             )
         }
+
+        if(DAH_anime_normalize) {
+            put(
+                "DAH_anime_normalize_score",
+                DAH_json_json!!.encodeToJsonElement(result.DAH_anime_normalize_score!!)
+            )
+        }
     }
 }

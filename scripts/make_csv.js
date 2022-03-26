@@ -2,6 +2,7 @@
 const labels = [
     "ID",
     "Title",
+    "MAL normalized score",
     "Overall",
     "AU",
     "AP",
@@ -22,6 +23,7 @@ const output = (id, entry, score) => {
     return [
         id,
         entry.DAH_meta_meta.DAH_entry_title_title,
+        score.DAH_anime_normalize_score,
         score.DAH_overall_score_overallScore,
         ...score.overallVector
     ];
