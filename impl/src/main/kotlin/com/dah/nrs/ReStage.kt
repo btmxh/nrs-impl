@@ -132,13 +132,17 @@ fun DSLScope.ReStage() {
             PADS(1, Emotion.MP)
 
             // 4chan loved rst, which is heartwarming af
-//            AEI(3.0, Emotion.MP)
+            AEI(3.0, Emotion.MP)
 
             // rst lore
 //            NEI(5.0, Emotion.AP)
 
-            // rst underrated -> copium
-//            NEI(2.5, Emotion.AU)
+            // inverse heisenberg and its consequences
+            // (MU is from rst dark lore, the "maybe the ortensia incident is not just about
+            // broken legs" bs, look at the iceberg for more shit like that)
+            // (AU is from the anime's "Heisenberg Uncertainty Principle", which states that
+            // the more popular an anime is, the more hated it is by me)
+            NEI(7.5, Emotion.MU to 0.5, Emotion.AU to 0.5)
 
             // this was funny af
             // expected from a purely mpap-based idol anime

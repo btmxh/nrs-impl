@@ -101,7 +101,8 @@
             "M-VGMDB-AL-78764": 0.8,
             "M-VGMDB-AL-84229": 0.8,
             "M-VGMDB-AL-86622": 0.8,
-            "M-VGMDB-AL-89363": 0.8
+            "M-VGMDB-AL-89363": 0.8,
+            "M-VGMDB-AL-104673-5": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "KiRaRe"
@@ -632,6 +633,19 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Ashita no Hanatachi"
+        }
+    },
+    "M-VGMDB-AL-104673": {
+        "id": "M-VGMDB-AL-104673",
+        "children": {
+            "M-VGMDB-AL-104673-1": 1.0,
+            "M-VGMDB-AL-104673-2": 1.0,
+            "M-VGMDB-AL-104673-3": 1.0,
+            "M-VGMDB-AL-104673-4": 1.0,
+            "M-VGMDB-AL-104673-5": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"
         }
     },
     "M-VGMDB-AL-78575-1": {
@@ -2801,6 +2815,7 @@
             "M-VGMDB-AL-78515": 1.0,
             "M-16": 1.0,
             "M-VGMDB-AL-109271-48": 1.0,
+            "M-VGMDB-AL-104673": 1.0,
             "M-48": 1.0,
             "GF-VGMDB-7059": 1.0
         },
@@ -3542,6 +3557,30 @@
             "DAH_entry_title_title": "Snow halation"
         }
     },
+    "M-VGMDB-AL-104673-5": {
+        "id": "M-VGMDB-AL-104673-5",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "We Remember"
+        }
+    },
+    "M-VGMDB-AL-104673-2": {
+        "id": "M-VGMDB-AL-104673-2",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Re:Rays"
+        }
+    },
+    "M-VGMDB-AL-104673-1": {
+        "id": "M-VGMDB-AL-104673-1",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Bridge to Dream"
+        }
+    },
     "F-VGMDB-2931": {
         "id": "F-VGMDB-2931",
         "children": {
@@ -3554,6 +3593,14 @@
             "DAH_entry_title_title": "Shingeki no Kyojin"
         }
     },
+    "M-VGMDB-AL-104673-4": {
+        "id": "M-VGMDB-AL-104673-4",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Pins&Needles"
+        }
+    },
     "M-VGMDB-AL-42900": {
         "id": "M-VGMDB-AL-42900",
         "children": {
@@ -3562,6 +3609,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "ebb and flow"
+        }
+    },
+    "M-VGMDB-AL-104673-3": {
+        "id": "M-VGMDB-AL-104673-3",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Tomorrow Melodies"
         }
     },
     "M-VGMDB-AL-75504-2": {
@@ -4097,7 +4152,8 @@
     "M-14": {
         "id": "M-14",
         "children": {
-            "M-VGMDB-AL-82369": 0.8
+            "M-VGMDB-AL-82369": 0.8,
+            "M-VGMDB-AL-104673-1": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Stellamaris"
@@ -4133,7 +4189,8 @@
             "M-VGMDB-AL-89364-3": 0.8,
             "M-VGMDB-AL-78520": 0.8,
             "M-VGMDB-AL-78339": 0.8,
-            "M-VGMDB-AL-82983": 0.8
+            "M-VGMDB-AL-82983": 0.8,
+            "M-VGMDB-AL-104673-2": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "ortensia"
@@ -4198,7 +4255,8 @@
     "M-16": {
         "id": "M-16",
         "children": {
-            "M-VGMDB-AL-78515": 0.8
+            "M-VGMDB-AL-78515": 0.8,
+            "M-VGMDB-AL-104673-4": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Tetrarkhia"
@@ -4207,6 +4265,7 @@
     "M-15": {
         "id": "M-15",
         "children": {
+            "M-VGMDB-AL-104673-3": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "TROIS ANGES"
