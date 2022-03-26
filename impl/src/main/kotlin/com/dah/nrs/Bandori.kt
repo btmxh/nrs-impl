@@ -37,9 +37,17 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AL-81504"
             title = "KIZUNA MUSIC♪"
 
+            // based method got first prize
+            // truly a gigachad
+            Meme(0.75, Meme.M2_3Months) {
+                contributors["M-VGMDB-AL-81504-1"] = 0.4
+                contributors["M-VGMDB-AL-104673-1"] = 0.1
+            }
+
             SubIDEntry("1") {
-                Music(5.0)
                 // this song got memed in the rst-sb69 era because of two things
+                // (update: it's still somewhat huge in arc 3 because method, but
+                // bridge to dream is better cope bandofags)
                 // kizuna method ("method" is a name of my junior in my High School) (major reason)
                 // kizunya music (cat music is any song with the cat from sb69) (very minor reason)
 
@@ -51,9 +59,7 @@ fun DSLScope.Bandori() {
                 // tu hao qua em toi nguoi thap len anh cau vong
                 // nguoi mang den trai tim ta
                 // bau... troi... mo... uoc
-
-                // kizuna method
-                Meme(0.5, Meme.M1_2Months)
+                Music(5.0)
             }
         }
 

@@ -53,8 +53,8 @@ fun DSLScope.ReStage() {
         contributors["GF-VGMDB-4499-2"] = 0.05
     }
 
-    // rst-only eras (Late Nov 2021 - Jan 10, 2022 and Mar 10, 2022 onwards)
-    Meme(0.9, Meme.M1_2Months) {
+    // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 onwards)
+    Meme(0.95, Meme.M2_3Months) {
         contributors["A-MAL-38009"] = 0.9
         contributors["GF-VGMDB-7059"] = 0.1
     }
@@ -373,6 +373,7 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-84229")
                 Contains("M-VGMDB-AL-86622")
                 Contains("M-VGMDB-AL-89363")
+                Contains("M-VGMDB-AL-104673-5")
             }
         }
 
@@ -444,6 +445,7 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-78520")
                 Contains("M-VGMDB-AL-78339")
                 Contains("M-VGMDB-AL-82983")
+                Contains("M-VGMDB-AL-104673-2")
             }
         }
 
@@ -462,12 +464,17 @@ fun DSLScope.ReStage() {
 
             Contains(ImageVocalContainFactor) {
                 Contains("M-VGMDB-AL-82369")
+                Contains("M-VGMDB-AL-104673-1")
             }
         }
 
         Entry {
             id = "M-15"
             title = "TROIS ANGES"
+
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-104673-3")
+            }
         }
 
         Entry {
@@ -485,6 +492,7 @@ fun DSLScope.ReStage() {
 
             Contains(ImageVocalContainFactor) {
                 Contains("M-VGMDB-AL-78515")
+                Contains("M-VGMDB-AL-104673-4")
             }
         }
 
@@ -500,6 +508,39 @@ fun DSLScope.ReStage() {
 
             // hige driver composed and arranged this btw
             // (ye the dude who make dadadadadada)
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-104673"
+            title = "Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"
+
+            SubIDEntry("1", "Bridge to Dream") {
+                // method, la method
+                // nguoi ma mang lai nhung dieu ma ta tin
+                // method
+                // toa sang len nhu anh sao, dep biet bao
+                // method, la method
+                // la nguoi mang niem tin hi vong cho toi
+                // se mang lai biet bao su huy hoang
+
+                Music(7.0)
+            }
+
+            SubIDEntry("2", "Re:Rays") {
+                Music(5.0)
+            }
+
+            SubIDEntry("3", "Tomorrow Melodies") {
+                Music(5.0)
+            }
+
+            SubIDEntry("4", "Pins&Needles") {
+                Music(4.5)
+            }
+
+            SubIDEntry("5", "We Remember") {
+                Music(3.5)
+            }
         }
 
         Entry {
