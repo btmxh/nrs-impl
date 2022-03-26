@@ -26,12 +26,13 @@ class EntryResult(context: NRSContext, val impacts: Map<Int, ScoreVector>, val r
             } else if (overallScore > baseAnimeScores.last()) {
                 (scoreLevels - 1).toDouble()
             } else {
+                fun interpolate(x: Double) = x
                 val index = baseAnimeScores.indexOfFirst { it > overallScore }
                 require(index in 0 until scoreLevels)
                 val prev = baseAnimeScores[index - 1]
                 val next = baseAnimeScores[index]
-                mapClampThrow(overallScore, prev..next, (index - 1).toDouble()..index.toDouble())
-                    { "should not reach here" }
+                val interpolateFactor = (overallScore - prev) / (next - prev)
+                index + interpolate(interpolateFactor) - 1.0
             } + 1.0
         } else null
     }

@@ -85,6 +85,7 @@ fun NRSContext.DAH_anime_normalize_getBaseAnimeScores(): List<Double> {
             Cry(Emotion.CU)
             PADS(5, Emotion.CU)
             PADS(5, Emotion.CP)
+            AEI(7.5, Emotion.MP)
             FeatureMusic("M-1")
         }
 
