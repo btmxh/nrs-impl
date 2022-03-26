@@ -10,8 +10,8 @@ import com.dah.nrs.exts.*
 // so the contain factor of the 9 original girls will be 1.5x the new girls
 // doing the math, we got these:
 private const val NijiNewOldRate = 1.5
-val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
-val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
+const val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
+const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
 fun DSLScope.LoveLive() {
     Entry {
@@ -393,6 +393,17 @@ fun DSLScope.LoveLive() {
             contributors["M-41"] = 0.075
             contributors["M-43"] = 0.05
             contributors["M-VGMDB-AL-89290-6"] = 0.025
+        }
+
+        // rst heisenberg bs
+        KilledBy("F-VGMDB-7059") {
+            contributors["A-MAL-40879"] = 0.9
+            contributors["A-MAL-15051"] = 0.1 / 6
+            contributors["A-MAL-19111"] = 0.1 / 6
+            contributors["A-MAL-24997"] = 0.1 / 6
+            contributors["A-MAL-32526"] = 0.1 / 6
+            contributors["A-MAL-34973"] = 0.1 / 6
+            contributors["A-MAL-37027"] = 0.1 / 6
         }
 
         Entry {
