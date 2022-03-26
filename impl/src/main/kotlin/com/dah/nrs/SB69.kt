@@ -161,8 +161,6 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-104267-5")
             FeatureMusic("M-VGMDB-AL-100087-1")
 
-            KilledBy("F-VGMDB-7059")
-
             Boredom(Boredom.Completed)
         }
 
