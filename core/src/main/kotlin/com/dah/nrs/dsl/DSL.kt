@@ -3,7 +3,7 @@
 package com.dah.nrs.dsl
 
 import com.dah.nrs.core.*
-import com.dah.nrs.exts.DAH_json_serialize
+import com.dah.nrs.exts.*
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.*
 import kotlin.io.path.Path
@@ -172,20 +172,19 @@ inline fun <reified T> Json.output(filename: String, value: T) {
 }
 
 fun generate(block: DSLScope.() -> Unit) {
-    val ctx = NRSContext().apply {
-        DAH_factors = true
-        DAH_overall_score = true
-        DAH_json = true
-        DAH_meta = true
-        DAH_standards = true
-        DAH_anime_normalize = true
+    val ctx = context {
+        DAH_factors = DAH_factors(this)
+        DAH_overall_score = DAH_overall_score(this)
+        DAH_serialize = DAH_serialize(this)
+        DAH_serialize_json = DAH_serialize_json(this)
+        DAH_meta = DAH_meta(this)
+        DAH_standards = DAH_standards(this)
+        DAH_anime_normalize = DAH_anime_normalize(this)
     }
 
     val scope = DSLScope(ctx).also(block)
-
     val result = ctx.process(scope.getData())
-
-    val json = ctx.DAH_json_json!!
+    val json = ctx.DAH_serialize_json!!.json
     json.output("impacts.json", scope.impacts.map { ctx.DAH_json_serialize(it) })
     json.output("relations.json", scope.relations.map { ctx.DAH_json_serialize(it) })
     json.output("entries.json", scope.entries.mapValues { (_, it) -> ctx.DAH_json_serialize(it) })

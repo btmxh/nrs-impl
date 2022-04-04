@@ -9,15 +9,15 @@ class EntryResult(context: NRSContext, val impacts: Map<Int, ScoreVector>, val r
     val overallVector = totalImpact + totalRelation
 
     val DAH_overall_score_overallScore by lazy {
-        if (context.DAH_overall_score) {
+        context.DAH_overall_score.ifEnabled {
             listOf(Emotion, Art, Information, Boredom, Additional)
                 .sumOf { combine(it.factors.map { factor -> overallVector[factor.vectorIndex] }, it.weight) }
-        } else null
+        }
     }
 
     val DAH_anime_normalize_score by lazy {
-        if (context.DAH_anime_normalize) {
-            val baseAnimeScores = context.DAH_anime_normalize_baseAnimeScores!!
+        context.DAH_anime_normalize.ifEnabled {
+            val baseAnimeScores = it.baseAnimeScores
             val overallScore = DAH_overall_score_overallScore!!
             val scoreLevels = baseAnimeScores.size
 
@@ -34,6 +34,6 @@ class EntryResult(context: NRSContext, val impacts: Map<Int, ScoreVector>, val r
                 val interpolateFactor = (overallScore - prev) / (next - prev)
                 index + interpolate(interpolateFactor) - 1.0
             } + 1.0
-        } else null
+        }
     }
 }

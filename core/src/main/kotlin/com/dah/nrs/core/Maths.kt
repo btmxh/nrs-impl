@@ -69,8 +69,8 @@ private class DefaultScoreMatrix(private val data: Array<ScoreVector>) : ScoreMa
     override fun row(index: Int) = data[index]
 }
 
-class VectorBlock(context: NRSContext) {
-    private val array = DoubleArray(context.factorCount)
+class VectorBlock(dimension: Int) {
+    private val array = DoubleArray(dimension)
 
     operator fun set(index: Int, value: Double) {
         array[index] = value
@@ -81,8 +81,10 @@ class VectorBlock(context: NRSContext) {
     fun toScoreVector() = array.toScoreVector()
 }
 
-fun NRSContext.vector(block: VectorBlock.() -> Unit) = VectorBlock(this).also(block).toScoreVector()
+fun NRSContext.vector(block: VectorBlock.() -> Unit) = VectorBlock(factorCount).also(block).toScoreVector()
+fun NRSContextBuilder.vector(block: VectorBlock.() -> Unit) = VectorBlock(factorCount).also(block).toScoreVector()
 fun NRSContext.vector(scalar: Double) = ScoreVector(DoubleArray(factorCount) { scalar })
+fun NRSContextBuilder.vector(scalar: Double) = ScoreVector(DoubleArray(factorCount) { scalar })
 
 private fun Collection<Double>.toScoreVector() = ScoreVector(toDoubleArray())
 private fun Array<Double>.toScoreVector() = ScoreVector(toDoubleArray())

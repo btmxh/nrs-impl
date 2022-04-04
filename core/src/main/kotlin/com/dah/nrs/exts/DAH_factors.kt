@@ -1,6 +1,17 @@
 package com.dah.nrs.exts
 
-import com.dah.nrs.core.VectorBlock
+import com.dah.nrs.core.*
+
+class DAH_factors(builder: NRSContextBuilder) : Extension(builder) {
+    init {
+        builder.factorCount = 13
+        builder.combineVector = builder.vector {
+            listOf(Emotion, Art, Information, Boredom, Additional)
+                .flatMap { it.factors }
+                .forEach { set(it, it.weight) }
+        }
+    }
+}
 
 interface Subscore {
     val name: String get() = javaClass.simpleName

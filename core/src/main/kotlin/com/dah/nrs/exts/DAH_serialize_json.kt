@@ -1,16 +1,31 @@
+@file:JvmName("DAH_serializeKt")
+
 package com.dah.nrs.exts
 
 import com.dah.nrs.core.*
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.encoding.Decoder
 import kotlinx.serialization.encoding.Encoder
-import kotlinx.serialization.json.JsonObject
-import kotlinx.serialization.json.buildJsonObject
-import kotlinx.serialization.json.encodeToJsonElement
-import kotlinx.serialization.json.put
+import kotlinx.serialization.json.*
+import kotlinx.serialization.modules.SerializersModule
 import kotlinx.serialization.modules.SerializersModuleBuilder
 import kotlinx.serialization.modules.contextual
 import kotlinx.serialization.serializer
+
+class DAH_serialize_json(builder: NRSContextBuilder) : Extension(builder) {
+    init {
+        dependencies.addAll(listOf(
+            DAH_serialize::class.simpleName!!
+        ))
+    }
+
+    val json = Json {
+        prettyPrint = true
+        serializersModule = SerializersModule {
+            registerDAHJsonSerializers()
+        }
+    }
+}
 
 class ScoreVectorSerializer : TransformSerializer<DoubleArray, ScoreVector>(serializer()) {
     override fun convertFrom(from: DoubleArray): ScoreVector {
@@ -44,12 +59,11 @@ fun SerializersModuleBuilder.registerDAHJsonSerializers() {
 
 @Suppress("FunctionName")
 fun NRSContext.DAH_json_serialize(entry: IEntry): JsonObject {
-    require(DAH_json)
     return buildJsonObject {
         put("id", entry.id)
-        put("children", DAH_json_json!!.encodeToJsonElement(entry.children))
+        put("children", DAH_serialize_json!!.json.encodeToJsonElement(entry.children))
 
-        if (DAH_meta) {
+        DAH_meta.ifEnabled {
             put("DAH_meta_meta", entry.meta)
         }
     }
@@ -57,12 +71,11 @@ fun NRSContext.DAH_json_serialize(entry: IEntry): JsonObject {
 
 @Suppress("FunctionName")
 fun NRSContext.DAH_json_serialize(impact: IImpact): JsonObject {
-    require(DAH_json)
     return buildJsonObject {
-        put("contributors", DAH_json_json!!.encodeToJsonElement(impact.contributors))
-        put("score", DAH_json_json!!.encodeToJsonElement(impact.score))
+        put("contributors", DAH_serialize_json!!.json.encodeToJsonElement(impact.contributors))
+        put("score", DAH_serialize_json.json.encodeToJsonElement(impact.score))
 
-        if (DAH_meta) {
+        DAH_meta.ifEnabled {
             put("DAH_meta_meta", impact.meta)
         }
     }
@@ -70,15 +83,14 @@ fun NRSContext.DAH_json_serialize(impact: IImpact): JsonObject {
 
 @Suppress("FunctionName")
 fun NRSContext.DAH_json_serialize(relation: IRelation): JsonObject {
-    require(DAH_json)
     return buildJsonObject {
-        put("contributors", DAH_json_json!!.encodeToJsonElement(relation.contributors))
+        put("contributors", DAH_serialize_json!!.json.encodeToJsonElement(relation.contributors))
         put(
             "references",
-            DAH_json_json!!.encodeToJsonElement(relation.references.mapValues { (_, it) -> it.toArray() })
+            DAH_serialize_json.json.encodeToJsonElement(relation.references.mapValues { (_, it) -> it.toArray() })
         )
 
-        if (DAH_meta) {
+        DAH_meta.ifEnabled {
             put("DAH_meta_meta", relation.meta)
         }
     }
@@ -86,25 +98,24 @@ fun NRSContext.DAH_json_serialize(relation: IRelation): JsonObject {
 
 @Suppress("FunctionName")
 fun NRSContext.DAH_json_serialize(result: EntryResult): JsonObject {
-    require(DAH_json)
     return buildJsonObject {
-        put("impacts", DAH_json_json!!.encodeToJsonElement(result.impacts))
-        put("relations", DAH_json_json!!.encodeToJsonElement(result.relations))
-        put("totalImpact", DAH_json_json!!.encodeToJsonElement(result.totalImpact))
-        put("totalRelation", DAH_json_json!!.encodeToJsonElement(result.totalRelation))
-        put("overallVector", DAH_json_json!!.encodeToJsonElement(result.overallVector))
+        put("impacts", DAH_serialize_json!!.json.encodeToJsonElement(result.impacts))
+        put("relations", DAH_serialize_json.json.encodeToJsonElement(result.relations))
+        put("totalImpact", DAH_serialize_json.json.encodeToJsonElement(result.totalImpact))
+        put("totalRelation", DAH_serialize_json.json.encodeToJsonElement(result.totalRelation))
+        put("overallVector", DAH_serialize_json.json.encodeToJsonElement(result.overallVector))
 
-        if (DAH_overall_score) {
+        DAH_overall_score.ifEnabled {
             put(
                 "DAH_overall_score_overallScore",
-                DAH_json_json!!.encodeToJsonElement(result.DAH_overall_score_overallScore)
+                DAH_serialize_json.json.encodeToJsonElement(result.DAH_overall_score_overallScore)
             )
         }
 
-        if(DAH_anime_normalize) {
+        DAH_anime_normalize.ifEnabled {
             put(
                 "DAH_anime_normalize_score",
-                DAH_json_json!!.encodeToJsonElement(result.DAH_anime_normalize_score!!)
+                DAH_serialize_json.json.encodeToJsonElement(result.DAH_anime_normalize_score!!)
             )
         }
     }

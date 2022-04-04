@@ -12,6 +12,14 @@ import java.time.LocalDate
 import kotlin.math.pow
 import kotlin.math.tanh
 
+class DAH_standards(builder: NRSContextBuilder): Extension(builder) {
+    init {
+        dependencies.addAll(listOf(
+            DAH_factors::class.simpleName!!
+        ))
+    }
+}
+
 const val ChemistryBuffFactor = 0.25
 
 data class Level(val index: Int, val name: String, val value: Double)
