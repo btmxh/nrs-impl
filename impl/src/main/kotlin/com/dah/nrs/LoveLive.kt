@@ -397,7 +397,8 @@ fun DSLScope.LoveLive() {
 
         // rst heisenberg bs
         KilledBy("F-VGMDB-7059") {
-            contributors["A-MAL-40879"] = 0.9
+            contributors["A-MAL-40879"] = 0.7
+            contributors["A-MAL-48916"] = 0.2
             contributors["A-MAL-15051"] = 0.1 / 6
             contributors["A-MAL-19111"] = 0.1 / 6
             contributors["A-MAL-24997"] = 0.1 / 6
@@ -434,6 +435,26 @@ fun DSLScope.LoveLive() {
             Boredom(Boredom.TempOnHold)
             Meme(0.3, Meme.M4_7Days)
             KilledBy("A-MAL-41530")
+        }
+
+        Entry {
+            id = "A-MAL-48916"
+            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season"
+
+            bestGirl = "Kanata Konoe"
+            // guys did you see that, it's her, my favorite school idol of all time,
+            // tsukisaka sayu! wdym by kanata konoe, who tf is that? i only know sayu!
+            // sayu is my love, she saved me from my one-year-old depression and showed
+            // me how beautiful this world is. and her unit, kirare, is such a beautiful
+            // unit with perfect chemistry. imagine watching love live and getting fucked
+            // in the ass by lantis cocksuckers xdddddddddddddddd
+
+            // jk
+            bestGirl = "Uehara Ayumu"
+
+            // sayu reference ahhahaahha, watch rst
+            NEI(3.0, Emotion.AP)
+            Boredom(Boredom.Watching)
         }
     }
 

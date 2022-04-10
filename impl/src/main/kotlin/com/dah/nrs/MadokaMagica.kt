@@ -238,6 +238,24 @@ fun DSLScope.MadokaMagica() {
             // OP
             FeatureMusic("M-VGMDB-AL-113295-1")
         }
+
+        Entry {
+            id = "A-MAL-49291"
+            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"
+
+            bestGirl = "Tamaki Iroha"
+            seasonal = true
+
+            Boredom(Boredom.Completed)
+
+            // :troll-despair:
+            AEI(5.0, Emotion.CU to 0.9, Emotion.MP to 0.1)
+
+            // OP
+            FeatureMusic("M-VGMDB-AL-113295-1")
+            // first madomagi thing to be cucked by rst
+            KilledBy("F-VGMDB-7059")
+        }
     }
 
     Entry {

@@ -394,6 +394,14 @@
             "DAH_entry_title_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
         }
     },
+    "M-52": {
+        "id": "M-52",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "United (L.A.O.S Remix)"
+        }
+    },
     "M-51": {
         "id": "M-51",
         "children": {
@@ -633,6 +641,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Ashita no Hanatachi"
+        }
+    },
+    "A-MAL-48916": {
+        "id": "A-MAL-48916",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season"
         }
     },
     "M-VGMDB-AL-104673": {
@@ -923,7 +939,8 @@
             "A-MAL-34973": 1.0,
             "A-MAL-37027": 1.0,
             "A-MAL-40879": 1.0,
-            "A-MAL-41169": 1.0
+            "A-MAL-41169": 1.0,
+            "A-MAL-48916": 1.0
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Love Live!"
@@ -1140,6 +1157,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Seishun wa Non-Stop!"
+        }
+    },
+    "M-VGMDB-AL-82369-8": {
+        "id": "M-VGMDB-AL-82369-8",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "DESERT BLACK FLOWER"
         }
     },
     "M-VGMDB-AL-51278": {
@@ -1480,6 +1505,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Wandering, Never Wondering (There Exists A Shade)"
+        }
+    },
+    "A-MAL-49291": {
+        "id": "A-MAL-49291",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"
         }
     },
     "M-VGMDB-AR-16233": {
@@ -2876,7 +2909,8 @@
     "M-VGMDB-AL-82369": {
         "id": "M-VGMDB-AL-82369",
         "children": {
-            "M-VGMDB-AL-82369-1": 1.0
+            "M-VGMDB-AL-82369-1": 1.0,
+            "M-VGMDB-AL-82369-8": 1.0
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Q.E.D."
@@ -3314,7 +3348,8 @@
             "A-MAL-11981": 1.0,
             "G-VGMDB-5237": 1.0,
             "A-MAL-38256": 1.0,
-            "A-MAL-41530": 1.0
+            "A-MAL-41530": 1.0,
+            "A-MAL-49291": 1.0
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Mahou Shoujo Madoka☆Magica"
@@ -4152,7 +4187,7 @@
     "M-14": {
         "id": "M-14",
         "children": {
-            "M-VGMDB-AL-82369": 0.8,
+            "M-VGMDB-AL-82369-1": 0.8,
             "M-VGMDB-AL-104673-1": 0.8
         },
         "DAH_meta_meta": {

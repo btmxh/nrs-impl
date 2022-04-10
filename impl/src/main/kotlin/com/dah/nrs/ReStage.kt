@@ -348,7 +348,7 @@ fun DSLScope.ReStage() {
                 // Our Re: Stage!
                 // 私たちの Re:ステージ！
 
-                // ty based _kotachi and [Karcher] (and other mapsets too, but i haven't played them)
+                // ty based _kotachi_ and [Karcher] (and other mapsets too, but i haven't played them)
                 // for [It's KiRaRe!!!!], [G11K's Insane] and [Cute Mana]
                 // also my cut ver. sucks KEKW
                 OsuSong(personal = 6.0)
@@ -460,6 +460,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("1", "InFiction") {
                 TrackMusic(5.0)
             }
+
+            SubIDEntry("8", "DESERT BLACK FLOWER") {
+                TrackMusic(7.5)
+            }
         }
 
         Entry {
@@ -467,7 +471,7 @@ fun DSLScope.ReStage() {
             title = "Stellamaris"
 
             Contains(ImageVocalContainFactor) {
-                Contains("M-VGMDB-AL-82369")
+                Contains("M-VGMDB-AL-82369-1")
                 Contains("M-VGMDB-AL-104673-1")
             }
         }
@@ -570,6 +574,9 @@ fun DSLScope.ReStage() {
             contributors["A-MAL-38009"] = 0.9
             contributors["GF-VGMDB-7059"] = 0.1
         }
+
+        // r/osuplace stuff
+        KilledBy("M-52")
     }
 
     // the "watch rst" anime

@@ -32,7 +32,7 @@ fun DSLScope.Irodori() {
             id = "A-MAL-50267"
             title = "Irodorimidori"
 
-            Boredom(Boredom.Watching)
+            Boredom(Boredom.Completed)
         }
 
         Entry {

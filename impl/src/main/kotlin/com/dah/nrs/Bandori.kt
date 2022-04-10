@@ -39,9 +39,10 @@ fun DSLScope.Bandori() {
 
             // based method got first prize
             // truly a gigachad
-            Meme(0.75, Meme.M2_3Months) {
-                contributors["M-VGMDB-AL-81504-1"] = 0.4
-                contributors["M-VGMDB-AL-104673-1"] = 0.1
+            Meme(0.8, Meme.MMoreThan3Months) {
+                contributors["M-VGMDB-AL-81504-1"] = 0.35
+                contributors["M-VGMDB-AL-104673-1"] = 0.075
+                contributors["M-VGMDB-AL-82369-8"] = 0.075
             }
 
             SubIDEntry("1") {

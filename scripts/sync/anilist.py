@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-from sync.score_normalizer import get_normalized_entries
+from sync.score_normalizer import normalized_entries
 
 # to get access token go here: https://anilist.co/api/v2/oauth/authorize?client_id=2222&response_type=token
 # save the key part in file token.txt (in nrs-impl-kt/scripts/token.txt)
@@ -67,7 +67,7 @@ def add_anime(id, score):
 
 
 access_token = open("token.txt", "r").readlines()[0]
-map = get_normalized_entries()
+map = normalized_entries
 
 for e in map.values():
     # rate-limit thingy idk

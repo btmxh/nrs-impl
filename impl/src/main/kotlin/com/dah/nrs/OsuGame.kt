@@ -3,10 +3,7 @@ package com.dah.nrs
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
-import com.dah.nrs.exts.Emotion
-import com.dah.nrs.exts.Music
-import com.dah.nrs.exts.NEI
-import com.dah.nrs.exts.OsuSong
+import com.dah.nrs.exts.*
 
 fun DSLScope.OsuGame() {
     Entry {
@@ -29,5 +26,16 @@ fun DSLScope.OsuGame() {
                 OsuSong(personal = 2.0, community = 8.0)
             }
         }
+    }
+
+    Entry {
+        id = "M-52"
+        title = "United (L.A.O.S Remix)"
+
+        // we kicked a kid, united
+        // r/osuplace stuff
+        Meme(0.5, Meme.M4_7Days)
+        OsuSong(personal = 2.0, community = 8.0)
+        Music(4.5)
     }
 }

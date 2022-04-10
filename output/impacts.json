@@ -1520,6 +1520,60 @@
     },
     {
         "contributors": {
+            "A-MAL-49291": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-49291": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.27358378579655274,
+            2.462254072168974,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 0.9,
+                "ModeratePleasant": 0.1
+            },
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
+        }
+    },
+    {
+        "contributors": {
             "M-7": 1.0
         },
         "score": [
@@ -4213,6 +4267,59 @@
             "meme_duration_value": 0.3,
             "type": "meme",
             "meme_duration_name": "4-7 Days"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-48916": 1.0
+        },
+        "score": [
+            0.0,
+            0.6,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 3.0,
+            "type": "nei",
+            "clamped_score": 0.6
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-48916": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
         }
     },
     {
@@ -8046,12 +8153,13 @@
     },
     {
         "contributors": {
-            "M-VGMDB-AL-81504-1": 0.4,
-            "M-VGMDB-AL-104673-1": 0.1
+            "M-VGMDB-AL-81504-1": 0.35,
+            "M-VGMDB-AL-104673-1": 0.075,
+            "M-VGMDB-AL-82369-8": 0.075
         },
         "score": [
             0.0,
-            2.0250000000000004,
+            2.4000000000000004,
             0.0,
             0.0,
             0.0,
@@ -8065,11 +8173,11 @@
             0.0
         ],
         "DAH_meta_meta": {
-            "meme_duration": 7,
-            "strength": 0.75,
-            "meme_duration_value": 0.9,
+            "meme_duration": 8,
+            "strength": 0.8,
+            "meme_duration_value": 1.0,
             "type": "meme",
-            "meme_duration_name": "2-3 Months"
+            "meme_duration_name": "More than 3 months"
         }
     },
     {
@@ -10095,6 +10203,30 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-82369-8": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.25,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 7.5,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-78515-1": 1.0
         },
         "score": [
@@ -11794,13 +11926,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            1.0,
             0.0
         ],
         "DAH_meta_meta": {
-            "boredom_level": 4,
+            "boredom_level": 0,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Completed"
         }
     },
     {
@@ -12116,6 +12248,84 @@
             "community_factor": 0.16000000000000003,
             "type": "NONSTD_osu_song",
             "community_input": 8.0
+        }
+    },
+    {
+        "contributors": {
+            "M-52": 1.0
+        },
+        "score": [
+            0.0,
+            0.44999999999999996,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "meme_duration": 2,
+            "strength": 0.5,
+            "meme_duration_value": 0.3,
+            "type": "meme",
+            "meme_duration_name": "4-7 Days"
+        }
+    },
+    {
+        "contributors": {
+            "M-52": 1.0
+        },
+        "score": [
+            0.0,
+            0.26,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "personal_factor": 0.1,
+            "personal_input": 2.0,
+            "community_factor": 0.16000000000000003,
+            "type": "NONSTD_osu_song",
+            "community_input": 8.0
+        }
+    },
+    {
+        "contributors": {
+            "M-52": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.35,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 4.5,
+            "type": "NONSTD_music"
         }
     },
     {
