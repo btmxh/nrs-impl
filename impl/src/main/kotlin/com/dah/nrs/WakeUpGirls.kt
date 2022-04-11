@@ -1,0 +1,58 @@
+package com.dah.nrs
+
+import com.dah.nrs.dsl.*
+import com.dah.nrs.exts.*
+
+fun DSLScope.WakeUpGirls() {
+    // A wise man once said:
+    // Every EI (emotional impact) post rst arc 1,
+    // is a direct consequence of the era
+
+    Entry {
+        id = "F-VGMDB-2645"
+        title = "Wake Up, Girls!"
+
+        AEI(0.0, Emotion.CU to 0.5, Emotion.CP to 0.5) {
+            contributors["A-MAL-21189"] = 0.75
+            contributors["A-MAL-19023"] = 0.2
+            contributors["A-MAL-38009"] = 0.04
+            contributors["GF-VGMDB-7059"] = 0.01
+        }
+
+        Entry {
+            id = "M-VGMDB-AR-15137"
+            title = "Wake Up, Girls!"
+
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-42945")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-42945"
+            title = "7 Girls War"
+
+            SubIDEntry("1") {
+                Music(3.5)
+            }
+        }
+
+        Entry {
+            id = "A-MAL-21189"
+            title = "Wake Up, Girls! Shichinin no Idol"
+
+            // this is what happen when you combine
+            // atmospheric farming with idolshit
+            // also watch rst
+
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-19023"
+            title = "Wake Up, Girls!"
+
+            Boredom(Boredom.Completed)
+        }
+    }
+}

@@ -12453,5 +12453,261 @@
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
+    },
+    {
+        "contributors": {
+            "A-MAL-43470": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-48363": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-48415": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-50265": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-40356": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-50273": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-21189": 0.75,
+            "A-MAL-19023": 0.2,
+            "A-MAL-38009": 0.04,
+            "GF-VGMDB-7059": 0.01
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.3195079107728942,
+            1.3195079107728942,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 0.5,
+                "CalmingPleasant": 0.5
+            },
+            "input_score": 0.0,
+            "type": "aei",
+            "clamped_score": 0.0
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-42945-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0499999999999998,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 3.5,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-21189": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-19023": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
     }
 ]

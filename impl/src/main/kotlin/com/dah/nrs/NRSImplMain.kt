@@ -9,6 +9,7 @@ package com.dah.nrs
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.generate
 import com.dah.nrs.exts.*
+import com.dah.nrs.seasonal.Spring2022
 
 // custom id counters:
 // M-53
@@ -208,5 +209,8 @@ fun main() =
         OsuGame()
         TariTari()
         SelePro()
+
+        Spring2022()
+        WakeUpGirls()
     }.run {}
 

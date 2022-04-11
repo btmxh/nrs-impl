@@ -126,6 +126,14 @@
             "DAH_entry_title_title": "Good Day by Day"
         }
     },
+    "A-MAL-43470": {
+        "id": "A-MAL-43470",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
+        }
+    },
     "M-VGMDB-AL-81504": {
         "id": "M-VGMDB-AL-81504",
         "children": {
@@ -436,6 +444,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "CANDY MAGIC"
+        }
+    },
+    "A-MAL-19023": {
+        "id": "A-MAL-19023",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls!"
         }
     },
     "M-VGMDB-AR-15766": {
@@ -1604,6 +1620,15 @@
             "DAH_entry_title_title": "Nogi Wakaba wa Yuusha de Aru"
         }
     },
+    "M-VGMDB-AR-15137": {
+        "id": "M-VGMDB-AR-15137",
+        "children": {
+            "M-VGMDB-AL-42945": 0.8
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls!"
+        }
+    },
     "M-VGMDB-AL-49046": {
         "id": "M-VGMDB-AL-49046",
         "children": {
@@ -1890,6 +1915,14 @@
             "DAH_entry_title_title": "Mahou Shoujo Chino"
         }
     },
+    "A-MAL-50273": {
+        "id": "A-MAL-50273",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Tomodachi Game"
+        }
+    },
     "M-VGMDB-AL-95118-2": {
         "id": "M-VGMDB-AL-95118-2",
         "children": {
@@ -1960,6 +1993,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Scop"
+        }
+    },
+    "A-MAL-40356": {
+        "id": "A-MAL-40356",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Tate no Yuusha no Nariagari Season 2"
         }
     },
     "M-VGMDB-AL-49423-1": {
@@ -2036,6 +2077,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Sword Art Online Movie: Ordinal Scale"
+        }
+    },
+    "A-MAL-50265": {
+        "id": "A-MAL-50265",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Spy x Family"
         }
     },
     "A-MAL-50267": {
@@ -2366,6 +2415,18 @@
             "DAH_entry_title_title": "New Game!"
         }
     },
+    "F-VGMDB-2645": {
+        "id": "F-VGMDB-2645",
+        "children": {
+            "M-VGMDB-AR-15137": 1.0,
+            "M-VGMDB-AL-42945": 1.0,
+            "A-MAL-21189": 1.0,
+            "A-MAL-19023": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls!"
+        }
+    },
     "A-MAL-9756": {
         "id": "A-MAL-9756",
         "children": {
@@ -2605,6 +2666,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Saenai Heroine no Sodatekata ♭"
+        }
+    },
+    "A-MAL-48363": {
+        "id": "A-MAL-48363",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "RPG Fudousan"
         }
     },
     "M-VGMDB-AL-63666-1": {
@@ -2980,6 +3049,15 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "hare bare fanfare"
+        }
+    },
+    "M-VGMDB-AL-42945": {
+        "id": "M-VGMDB-AL-42945",
+        "children": {
+            "M-VGMDB-AL-42945-1": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "7 Girls War"
         }
     },
     "M-VGMDB-AL-78253-1": {
@@ -3847,6 +3925,14 @@
             "DAH_entry_title_title": "Remembers!"
         }
     },
+    "A-MAL-48415": {
+        "id": "A-MAL-48415",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
+        }
+    },
     "M-VGMDB-AL-61982": {
         "id": "M-VGMDB-AL-61982",
         "children": {
@@ -3949,6 +4035,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Tono Hikaru"
+        }
+    },
+    "A-MAL-21189": {
+        "id": "A-MAL-21189",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls! Shichinin no Idol"
         }
     },
     "A-MAL-32281": {
@@ -4754,6 +4848,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "[It's not] World's end"
+        }
+    },
+    "M-VGMDB-AL-42945-1": {
+        "id": "M-VGMDB-AL-42945-1",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "7 Girls War"
         }
     },
     "M-VGMDB-AL-37130-2": {

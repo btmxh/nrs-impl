@@ -14,7 +14,7 @@ def get_new_normalized_entries():
         return {
              "id": id[6:],
              "title": entries[id]["DAH_meta_meta"]["DAH_entry_title_title"],
-             "score": scores[id]["DAH_anime_normalize_score"]
+             "score": round(scores[id]["DAH_anime_normalize_score"], 1)
         }
     def was_updated(id):
         try:
