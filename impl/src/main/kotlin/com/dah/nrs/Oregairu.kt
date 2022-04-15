@@ -131,7 +131,7 @@ fun DSLScope.Oregairu() {
             NEI(1.0, Emotion.AP)
 
             // killed by lapis re lights lmao xd
-            KilledBy("A-MAL-37587")
+            KilledBy("A-MAL-37587", potential = 0.75, effect = 0.5)
 
             FeatureMusic("M-VGMDB-AL-96288-1")
             FeatureMusic("M-VGMDB-AL-96290-1")

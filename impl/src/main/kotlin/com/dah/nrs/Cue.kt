@@ -44,8 +44,8 @@ fun DSLScope.Cue() {
             FeatureMusic("M-VGMDB-AL-115724-1")
 
             // duopoly shithole moment
-            KilledBy("F-VGMDB-4499")
-            KilledBy("F-VGMDB-7059")
+            KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.25)
+            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
         }
 
         Entry {

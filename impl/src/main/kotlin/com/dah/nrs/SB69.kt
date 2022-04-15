@@ -60,7 +60,7 @@ fun DSLScope.SB69() {
             contributors["GF-VGMDB-4499-2"] = 0.05
         }
 
-        KilledBy("F-VGMDB-7059") {
+        KilledBy("F-VGMDB-7059", potential = 0.4, effect = 0.75) {
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2
             contributors["A-MAL-40763"] = 0.2
@@ -122,7 +122,7 @@ fun DSLScope.SB69() {
             // the screentime thing
             // mashu mp farm got fucked by the existence of the cat
             // and pmgc
-            KilledBy("M-18")
+            KilledBy("M-18", potential = 0.75, effect = 0.75)
 
             Boredom(Boredom.Completed)
         }

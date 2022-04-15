@@ -118,6 +118,14 @@
             "DAH_entry_title_title": "Do Re Mi Fa STARS!!/Hoshizora Light Story"
         }
     },
+    "A-MAL-34522": {
+        "id": "A-MAL-34522",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls! Shin Shou"
+        }
+    },
     "M-VGMDB-AL-104418-1": {
         "id": "M-VGMDB-AL-104418-1",
         "children": {
@@ -2353,6 +2361,14 @@
             "DAH_entry_title_title": "How To Fly"
         }
     },
+    "A-MAL-30419": {
+        "id": "A-MAL-30419",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls! Beyond the Bottom"
+        }
+    },
     "F-VGMDB-2633": {
         "id": "F-VGMDB-2633",
         "children": {
@@ -2421,7 +2437,10 @@
             "M-VGMDB-AR-15137": 1.0,
             "M-VGMDB-AL-42945": 1.0,
             "A-MAL-21189": 1.0,
-            "A-MAL-19023": 1.0
+            "A-MAL-19023": 1.0,
+            "A-MAL-28841": 1.0,
+            "A-MAL-30419": 1.0,
+            "A-MAL-34522": 1.0
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Wake Up, Girls!"
@@ -3635,6 +3654,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Kirameki Future"
+        }
+    },
+    "A-MAL-28841": {
+        "id": "A-MAL-28841",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Wake Up, Girls! Seishun no Kage"
         }
     },
     "M-VGMDB-AL-94913-1": {

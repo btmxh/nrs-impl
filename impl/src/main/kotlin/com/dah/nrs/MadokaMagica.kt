@@ -111,13 +111,6 @@ fun DSLScope.MadokaMagica() {
             contributors["A-MAL-11981"] = 0.2
         }
 
-        KilledBy("A-MAL-40879") {
-            contributors["A-MAL-9756"] = 0.08
-            contributors["A-MAL-11981"] = 0.02
-            contributors["G-VGMDB-5237"] = 0.45
-            contributors["A-MAL-38256"] = 0.45
-        }
-
         Entry {
             id = "A-MAL-9756"
             title = "Mahou Shoujo Madoka★Magica"
@@ -254,7 +247,7 @@ fun DSLScope.MadokaMagica() {
             // OP
             FeatureMusic("M-VGMDB-AL-113295-1")
             // first madomagi thing to be cucked by rst
-            KilledBy("F-VGMDB-7059")
+            KilledBy("F-VGMDB-7059", potential = 0.75, effect = 0.75)
         }
     }
 

@@ -570,13 +570,16 @@ fun DSLScope.ReStage() {
             AllRstTracks.forEach { FeatureMusic(it) }
         }
 
-        KilledBy("F-VGMDB-4499") {
-            contributors["A-MAL-38009"] = 0.9
-            contributors["GF-VGMDB-7059"] = 0.1
+        KilledBy("F-VGMDB-4499", potential = 0.4, effect = 0.9) {
+            contributors["A-MAL-38009"] = 0.8
+            contributors["GF-VGMDB-7059"] = 0.2
         }
 
         // r/osuplace stuff
-        KilledBy("M-52")
+        KilledBy("M-52", potential = 0.4, effect = 0.9) {
+            contributors["A-MAL-38009"] = 0.8
+            contributors["GF-VGMDB-7059"] = 0.2
+        }
     }
 
     // the "watch rst" anime
@@ -599,6 +602,10 @@ fun DSLScope.ReStage() {
         bestGirl = "Ichii Maina"
 
         Boredom(Boredom.Watching)
+
+        // as always (low potential because rst actually helped oshibudo tho,
+        // but it's still a kill)
+        KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
     }
 
     AEI(10.0, Emotion.CP to 0.9, Emotion.MP to 0.1) {

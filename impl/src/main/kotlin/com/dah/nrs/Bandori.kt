@@ -202,7 +202,7 @@ fun DSLScope.Bandori() {
             contributors["A-MAL-37869"] = 0.3
         }
 
-        KilledBy("A-MAL-40879") {
+        KilledBy("A-MAL-40879", potential = 0.5, effect = 0.8) {
             contributors["A-MAL-33573"] = 0.4
             contributors["A-MAL-37869"] = 0.6
         }

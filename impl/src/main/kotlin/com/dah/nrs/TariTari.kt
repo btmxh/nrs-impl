@@ -19,7 +19,7 @@ fun DSLScope.TariTari() {
             Cry(Emotion.CU)
             Boredom(Boredom.Completed)
 
-            KilledBy("F-VGMDB-7059")
+            KilledBy("F-VGMDB-7059", potential = 0.6, effect = 0.5)
         }
     }
 }

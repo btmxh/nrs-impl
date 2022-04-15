@@ -12,6 +12,9 @@ fun DSLScope.WakeUpGirls() {
         id = "F-VGMDB-2645"
         title = "Wake Up, Girls!"
 
+        // this is what happen when you combine
+        // atmospheric farming with idolshit
+        // also watch rst
         AEI(0.0, Emotion.CU to 0.5, Emotion.CP to 0.5) {
             contributors["A-MAL-21189"] = 0.75
             contributors["A-MAL-19023"] = 0.2
@@ -41,11 +44,9 @@ fun DSLScope.WakeUpGirls() {
             id = "A-MAL-21189"
             title = "Wake Up, Girls! Shichinin no Idol"
 
-            // this is what happen when you combine
-            // atmospheric farming with idolshit
-            // also watch rst
-
             Boredom(Boredom.Completed)
+            // partially benefitted from rst
+            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
         }
 
         Entry {
@@ -53,6 +54,32 @@ fun DSLScope.WakeUpGirls() {
             title = "Wake Up, Girls!"
 
             Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            FeatureMusic("M-VGMDB-AL-42945-1")
+        }
+
+        Entry {
+            id = "A-MAL-28841"
+            title = "Wake Up, Girls! Seishun no Kage"
+
+            Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+        }
+
+        Entry {
+            id = "A-MAL-30419"
+            title = "Wake Up, Girls! Beyond the Bottom"
+
+            Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+        }
+
+        Entry {
+            id = "A-MAL-34522"
+            title = "Wake Up, Girls! Shin Shou"
+
+            Boredom(Boredom.Watching)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
         }
     }
 }

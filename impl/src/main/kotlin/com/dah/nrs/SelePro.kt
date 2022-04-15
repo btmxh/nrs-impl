@@ -17,7 +17,8 @@ fun DSLScope.SelePro() {
             Cry(Emotion.CU)
             Boredom(Boredom.Completed)
 
-            KilledBy("F-VGMDB-7059")
+            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
+            KilledBy("F-VGMDB-3245", potential = 0.25, effect = 0.8)
         }
 
         Entry {

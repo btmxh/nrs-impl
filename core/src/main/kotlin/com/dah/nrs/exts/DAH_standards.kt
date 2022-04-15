@@ -363,9 +363,9 @@ fun AcceptRelation.FeatureMusic(id: String, block: DSLRelation.() -> Unit = {}) 
     }
 }
 
-fun AcceptRelation.KilledBy(id: String, block: DSLRelation.() -> Unit = {}) {
+fun AcceptRelation.KilledBy(id: String, potential: Double, effect: Double, block: DSLRelation.() -> Unit = {}) {
     Relation {
-        references[id] = vector {
+        references[id] = (vector {
             set(Emotion.AP, 0.2)
             set(Emotion.AU, 0.1)
             set(Emotion.CP, 0.05)
@@ -382,7 +382,7 @@ fun AcceptRelation.KilledBy(id: String, block: DSLRelation.() -> Unit = {}) {
 
             set(Boredom, 0.1)
             set(Additional, 0.0)
-        }.toDiagonalMatrix()
+        } * potential * effect * 2.0).toDiagonalMatrix()
         block()
     }
 }

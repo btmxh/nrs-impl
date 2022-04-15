@@ -65,7 +65,7 @@ fun DSLScope.YuYuYu() {
         }
 
         // killed by rst
-        KilledBy("F-VGMDB-7059") {
+        KilledBy("F-VGMDB-7059", potential = 0.6, effect = 0.2) {
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.3
             contributors["A-MAL-34284"] = 0.06

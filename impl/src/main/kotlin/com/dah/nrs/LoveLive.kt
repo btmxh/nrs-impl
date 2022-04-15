@@ -317,6 +317,8 @@ fun DSLScope.LoveLive() {
 
             FeatureMusic("M-VGMDB-AL-36547-1")
             Boredom(Boredom.Completed)
+
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
         }
 
         Entry {
@@ -326,6 +328,7 @@ fun DSLScope.LoveLive() {
 
             FeatureMusic("M-VGMDB-AL-34051-1")
             Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
         }
 
         Entry {
@@ -334,6 +337,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
         }
 
         Entry {
@@ -343,6 +347,7 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
             Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
         }
 
         Entry {
@@ -353,6 +358,7 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
             Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
         }
 
         Entry {
@@ -360,6 +366,7 @@ fun DSLScope.LoveLive() {
             title = "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
             bestGirl = "Sakurauchi Riko"
             Boredom(Boredom.Completed)
+            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
         }
 
         // niji arcs
@@ -395,18 +402,6 @@ fun DSLScope.LoveLive() {
             contributors["M-VGMDB-AL-89290-6"] = 0.025
         }
 
-        // rst heisenberg bs
-        KilledBy("F-VGMDB-7059") {
-            contributors["A-MAL-40879"] = 0.7
-            contributors["A-MAL-48916"] = 0.2
-            contributors["A-MAL-15051"] = 0.1 / 6
-            contributors["A-MAL-19111"] = 0.1 / 6
-            contributors["A-MAL-24997"] = 0.1 / 6
-            contributors["A-MAL-32526"] = 0.1 / 6
-            contributors["A-MAL-34973"] = 0.1 / 6
-            contributors["A-MAL-37027"] = 0.1 / 6
-        }
-
         Entry {
             id = "A-MAL-40879"
             title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
@@ -418,7 +413,8 @@ fun DSLScope.LoveLive() {
             NEI(4.0, Emotion.AP)
             Boredom(Boredom.Completed)
 
-            KilledBy("M-VGMDB-AR-11666")
+            KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
+            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
 
             FeatureMusic("M-VGMDB-AL-102276-1")
             FeatureMusic("M-VGMDB-AL-102277-1")
@@ -434,7 +430,8 @@ fun DSLScope.LoveLive() {
             seasonal = true
             Boredom(Boredom.TempOnHold)
             Meme(0.3, Meme.M4_7Days)
-            KilledBy("A-MAL-41530")
+            KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
+            KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
         }
 
         Entry {
@@ -455,11 +452,11 @@ fun DSLScope.LoveLive() {
             // sayu reference ahhahaahha, watch rst
             NEI(3.0, Emotion.AP)
             Boredom(Boredom.Watching)
+            KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         }
     }
 
     Entry {
-        // will change soon
         id = "M-45"
         title = "Snow Halation (feat. BeasttrollMC)"
 
