@@ -37,14 +37,6 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AL-81504"
             title = "KIZUNA MUSIC♪"
 
-            // based method got first prize
-            // truly a gigachad
-            Meme(0.8, Meme.MMoreThan3Months) {
-                contributors["M-VGMDB-AL-81504-1"] = 0.35
-                contributors["M-VGMDB-AL-104673-1"] = 0.075
-                contributors["M-VGMDB-AL-82369-8"] = 0.075
-            }
-
             SubIDEntry("1") {
                 // this song got memed in the rst-sb69 era because of two things
                 // (update: it's still somewhat huge in arc 3 because method, but

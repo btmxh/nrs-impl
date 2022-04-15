@@ -1631,7 +1631,9 @@
     "M-VGMDB-AR-15137": {
         "id": "M-VGMDB-AR-15137",
         "children": {
-            "M-VGMDB-AL-42945": 0.8
+            "M-VGMDB-AL-42945": 0.8,
+            "M-VGMDB-AL-46042": 0.8,
+            "M-VGMDB-AL-68276": 0.4
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Wake Up, Girls!"
@@ -2011,6 +2013,14 @@
             "DAH_entry_title_title": "Tate no Yuusha no Nariagari Season 2"
         }
     },
+    "M-VGMDB-AL-68276-1": {
+        "id": "M-VGMDB-AL-68276-1",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "One In A Billion"
+        }
+    },
     "M-VGMDB-AL-49423-1": {
         "id": "M-VGMDB-AL-49423-1",
         "children": {
@@ -2302,6 +2312,14 @@
             "DAH_entry_title_title": "Dokipipo☆Emotion"
         }
     },
+    "M-VGMDB-AL-46042-1": {
+        "id": "M-VGMDB-AL-46042-1",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Tachiagare!"
+        }
+    },
     "M-VGMDB-AL-104418": {
         "id": "M-VGMDB-AL-104418",
         "children": {
@@ -2435,6 +2453,7 @@
         "id": "F-VGMDB-2645",
         "children": {
             "M-VGMDB-AR-15137": 1.0,
+            "M-VGMDB-AL-46042": 1.0,
             "M-VGMDB-AL-42945": 1.0,
             "A-MAL-21189": 1.0,
             "A-MAL-19023": 1.0,
@@ -2799,6 +2818,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Music S.T.A.R.T!!"
+        }
+    },
+    "O-1": {
+        "id": "O-1",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "VMO 2022 Era"
         }
     },
     "M-VGMDB-AL-111089-5": {
@@ -3477,6 +3504,15 @@
             "DAH_entry_title_title": "MELODY"
         }
     },
+    "M-VGMDB-AL-46042": {
+        "id": "M-VGMDB-AL-46042",
+        "children": {
+            "M-VGMDB-AL-46042-1": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Tachiagare!"
+        }
+    },
     "M-VGMDB-AL-104783-1": {
         "id": "M-VGMDB-AL-104783-1",
         "children": {
@@ -3638,6 +3674,15 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Light Delight"
+        }
+    },
+    "M-VGMDB-AL-68276": {
+        "id": "M-VGMDB-AL-68276",
+        "children": {
+            "M-VGMDB-AL-68276-1": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "One In A Billion"
         }
     },
     "A-MAL-23273": {

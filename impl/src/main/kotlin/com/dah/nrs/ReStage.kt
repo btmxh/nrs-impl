@@ -521,6 +521,7 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-104673"
             title = "Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"
+            // aka method appreciation album
 
             SubIDEntry("1", "Bridge to Dream") {
                 // method, la method
@@ -539,7 +540,11 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("3", "Tomorrow Melodies") {
-                Music(5.0)
+                // do chinh la method
+                // nguoi dan ong da khien ca truong,
+                // ca truong chuyen da luon lo so
+
+                Music(7.0)
             }
 
             SubIDEntry("4", "Pins&Needles") {
@@ -547,6 +552,11 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("5", "We Remember") {
+                // ngau loi vai ra
+                // nay nhat minh oi nay nhat minh oi
+                // tai vi sao a qua ngau
+                // (the gian d ai sanh bang)
+
                 Music(3.5)
             }
         }
@@ -577,6 +587,11 @@ fun DSLScope.ReStage() {
 
         // r/osuplace stuff
         KilledBy("M-52", potential = 0.4, effect = 0.9) {
+            contributors["A-MAL-38009"] = 0.8
+            contributors["GF-VGMDB-7059"] = 0.2
+        }
+
+        KilledBy("O-1", potential = 0.2, effect = 0.75) {
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
         }

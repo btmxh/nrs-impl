@@ -68,6 +68,14 @@ fun DSLScope.SB69() {
             contributors["GF-VGMDB-4499-2"] = 0.2
         }
 
+        KilledBy("O-1", potential = 0.2, effect = 0.75) {
+            contributors["A-MAL-27441"] = 0.2
+            contributors["A-MAL-32038"] = 0.2
+            contributors["A-MAL-40763"] = 0.2
+            contributors["A-MAL-41520"] = 0.2
+            contributors["GF-VGMDB-4499-2"] = 0.2
+        }
+
         Entry {
             id = "A-MAL-27441"
             title = "Show by Rock!!"

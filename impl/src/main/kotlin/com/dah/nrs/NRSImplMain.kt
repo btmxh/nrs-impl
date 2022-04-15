@@ -9,6 +9,7 @@ package com.dah.nrs
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.generate
 import com.dah.nrs.exts.*
+import com.dah.nrs.meme.Method
 import com.dah.nrs.seasonal.Spring2022
 
 // custom id counters:
@@ -212,5 +213,6 @@ fun main() =
 
         Spring2022()
         WakeUpGirls()
+        Method()
     }.run {}
 

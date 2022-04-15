@@ -28,6 +28,17 @@ fun DSLScope.WakeUpGirls() {
 
             Contains(ImageVocalContainFactor) {
                 Contains("M-VGMDB-AL-42945")
+                Contains("M-VGMDB-AL-46042")
+                Contains("M-VGMDB-AL-68276", 0.5)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-46042"
+            title = "Tachiagare!"
+
+            SubIDEntry("1") {
+                Music(6.0)
             }
         }
 
@@ -47,6 +58,8 @@ fun DSLScope.WakeUpGirls() {
             Boredom(Boredom.Completed)
             // partially benefitted from rst
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
+
+            FeatureMusic("M-VGMDB-AL-46042-1")
         }
 
         Entry {
@@ -80,6 +93,18 @@ fun DSLScope.WakeUpGirls() {
 
             Boredom(Boredom.Watching)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-68276"
+
+        // dream luck be like lmfao
+        title = "One In A Billion" // [Fantasy]
+
+        SubIDEntry("1") {
+            OsuSong(personal = 0.5, community = 0.1)
+            Music(6.0)
         }
     }
 }
