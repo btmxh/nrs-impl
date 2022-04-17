@@ -9261,7 +9261,7 @@
         },
         "score": [
             0.0,
-            2.565,
+            2.8499999999999996,
             0.0,
             0.0,
             0.0,
@@ -9275,11 +9275,11 @@
             0.0
         ],
         "DAH_meta_meta": {
-            "meme_duration": 7,
+            "meme_duration": 8,
             "strength": 0.95,
-            "meme_duration_value": 0.9,
+            "meme_duration_value": 1.0,
             "type": "meme",
-            "meme_duration_name": "2-3 Months"
+            "meme_duration_name": "More than 3 months"
         }
     },
     {

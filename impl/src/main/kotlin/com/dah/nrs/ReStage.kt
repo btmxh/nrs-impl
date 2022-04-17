@@ -54,7 +54,7 @@ fun DSLScope.ReStage() {
     }
 
     // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 onwards)
-    Meme(0.95, Meme.M2_3Months) {
+    Meme(0.95, Meme.MMoreThan3Months) {
         contributors["A-MAL-38009"] = 0.9
         contributors["GF-VGMDB-7059"] = 0.1
     }
@@ -187,7 +187,7 @@ fun DSLScope.ReStage() {
             title = "Startin' My Re:STAGE!!"
 
             SubIDEntry("2") {
-                Music(1.0)
+                TrackMusic(1.0)
             }
         }
 
@@ -532,11 +532,11 @@ fun DSLScope.ReStage() {
                 // la nguoi mang niem tin hi vong cho toi
                 // se mang lai biet bao su huy hoang
 
-                Music(7.0)
+                TrackMusic(7.0)
             }
 
             SubIDEntry("2", "Re:Rays") {
-                Music(5.0)
+                TrackMusic(5.0)
             }
 
             SubIDEntry("3", "Tomorrow Melodies") {
@@ -544,11 +544,11 @@ fun DSLScope.ReStage() {
                 // nguoi dan ong da khien ca truong,
                 // ca truong chuyen da luon lo so
 
-                Music(7.0)
+                TrackMusic(7.0)
             }
 
             SubIDEntry("4", "Pins&Needles") {
-                Music(4.5)
+                TrackMusic(4.5)
             }
 
             SubIDEntry("5", "We Remember") {
@@ -557,7 +557,7 @@ fun DSLScope.ReStage() {
                 // tai vi sao a qua ngau
                 // (the gian d ai sanh bang)
 
-                Music(3.5)
+                TrackMusic(3.5)
             }
         }
 
