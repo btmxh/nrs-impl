@@ -91,7 +91,7 @@ fun DSLScope.WakeUpGirls() {
             id = "A-MAL-34522"
             title = "Wake Up, Girls! Shin Shou"
 
-            Boredom(Boredom.Watching)
+            Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
         }
     }

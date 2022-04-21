@@ -12771,13 +12771,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            1.0,
             0.0
         ],
         "DAH_meta_meta": {
-            "boredom_level": 4,
+            "boredom_level": 0,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Completed"
         }
     },
     {
