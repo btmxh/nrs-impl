@@ -4271,11 +4271,13 @@
     },
     {
         "contributors": {
-            "A-MAL-48916": 1.0
+            "A-MAL-48916": 0.5,
+            "A-MAL-38009": 0.4,
+            "GF-VGMDB-7059": 0.1
         },
         "score": [
             0.0,
-            0.6,
+            1.0,
             0.0,
             0.0,
             0.0,
@@ -4292,9 +4294,42 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 3.0,
+            "input_score": 5.0,
             "type": "nei",
-            "clamped_score": 0.6
+            "clamped_score": 1.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-40879": 0.3,
+            "A-MAL-48916": 0.6,
+            "A-MAL-15051": 0.016666666666666666,
+            "A-MAL-19111": 0.016666666666666666,
+            "A-MAL-24997": 0.016666666666666666
+        },
+        "score": [
+            -1.3195079107728942,
+            -0.0,
+            -1.3195079107728942,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0
+        ],
+        "DAH_meta_meta": {
+            "emotions": {
+                "ModerateUnpleasant": 0.5,
+                "ActivatedUnpleasant": 0.5
+            },
+            "input_score": -0.0,
+            "type": "aei",
+            "clamped_score": -0.0
         }
     },
     {
