@@ -9,8 +9,10 @@ import kotlinx.serialization.json.buildJsonArray
 import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.put
 import java.time.LocalDate
+import kotlin.math.abs
 import kotlin.math.pow
 import kotlin.math.tanh
+import kotlin.math.withSign
 
 class DAH_standards(builder: NRSContextBuilder): Extension(builder) {
     init {
@@ -108,9 +110,9 @@ fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>
 }
 
 fun AcceptImpact.AEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
-    val mappedScore = mapClampThrow(score, 0.0..10.0, 2.0..3.0) {
+    val mappedScore = mapClampThrow(abs(score), 0.0..10.0, 2.0..3.0) {
         "$score not in range 0..10"
-    }
+    }.withSign(score)
 
     Impact {
         description = "AEI"
@@ -123,9 +125,9 @@ fun AcceptImpact.AEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double
 }
 
 fun AcceptImpact.NEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
-    val mappedScore = mapClampThrow(score, 0.0..10.0, 0.0..2.0) {
+    val mappedScore = mapClampThrow(abs(score), 0.0..10.0, 0.0..2.0) {
         "$score not in range 0..10"
-    }
+    }.withSign(score)
 
     Impact {
         description = "NEI"
