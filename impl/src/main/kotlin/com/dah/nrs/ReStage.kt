@@ -16,9 +16,6 @@ fun DSLEntry.TrackMusic(score: Double) {
     AllRstTracks.add(id)
 }
 
-// the ultimate mapping project, aka the 367000pp project
-// https://osu.ppy.sh/beatmapsets/1716294#osu/3506938
-
 // only 0.15 NRS score from Love Live Niji
 // top 1 anime doable LETSGO
 // this is the first step of our global (oricon) domination plan
@@ -124,6 +121,7 @@ fun DSLScope.ReStage() {
             // buy the new bluray guys, i'm sure that buying this will stop the russia-ukraine war
             // https://www.amazon.co.jp/Re-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8-%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96%E3%80%8CChain-Dream%E3%80%8D-Blu-ray/dp/B09MZ8L66Q
 
+            // for rst shills <3: https://www.google.com/search?q=grass&tbm=isch
             bestGirl = "Shikimiya Mana" // aka the kano destroyer
             // her seiyuu is the GIGACHAD seiyuu amane makino btw
 
@@ -157,6 +155,7 @@ fun DSLScope.ReStage() {
             // before rst, idol anime is just music + cgdct
             // but after this glorious franchise, it's also MP-farm, and more importantly
             // it's what all idol fans feel, the feeling of wanting the girls to success
+            // tl;dr: the father analogy
             AEI(10.0, Emotion.CU to 0.5, Emotion.CP to 0.5)
 
             // also rst abused heisenberg and cucked love live and princess connect, as well as
@@ -627,5 +626,15 @@ fun DSLScope.ReStage() {
         contributors["A-MAL-37890"] = 0.5
         contributors["A-MAL-38009"] = 0.45
         contributors["GF-VGMDB-7059"] = 0.05
+    }
+
+    Entry {
+        id = "M-53"
+        title = "Re:STAGE! Songs Compilation"
+        // kek 69 min song comp
+        // TODO: add the 48 songs here
+
+        // the ultimate mapping project, aka the 367000pp project
+        // https://osu.ppy.sh/beatmapsets/1716294#osu/3506938
     }
 }

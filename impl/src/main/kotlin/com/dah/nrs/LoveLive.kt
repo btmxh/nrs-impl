@@ -451,7 +451,8 @@ fun DSLScope.LoveLive() {
         // sorry love live fans, rst got them
         // i tried to watch niji in peace, but i failed
         // the leftover hate from s1 and the heisenberg bs from s2 is just too much
-        AEI(-0.0, Emotion.MU to 0.5, Emotion.AU to 0.5) {
+        // update: the azuna episode kinda did its thing
+        NEI(-5.0, Emotion.MU to 0.5, Emotion.AU to 0.5) {
             contributors["A-MAL-40879"] = 0.3
             contributors["A-MAL-48916"] = 0.6
             contributors["A-MAL-15051"] = 0.1 / 6

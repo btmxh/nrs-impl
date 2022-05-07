@@ -4308,9 +4308,9 @@
             "A-MAL-24997": 0.016666666666666666
         },
         "score": [
-            -1.3195079107728942,
+            -0.6597539553864471,
             -0.0,
-            -1.3195079107728942,
+            -0.6597539553864471,
             -0.0,
             -0.0,
             -0.0,
@@ -4327,9 +4327,9 @@
                 "ModerateUnpleasant": 0.5,
                 "ActivatedUnpleasant": 0.5
             },
-            "input_score": -0.0,
-            "type": "aei",
-            "clamped_score": -0.0
+            "input_score": -5.0,
+            "type": "nei",
+            "clamped_score": -1.0
         }
     },
     {
@@ -12476,13 +12476,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            -0.5,
             0.0
         ],
         "DAH_meta_meta": {
-            "boredom_level": 4,
+            "boredom_level": 5,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Temporarily On-Hold"
         }
     },
     {
@@ -12501,13 +12501,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            -0.5,
             0.0
         ],
         "DAH_meta_meta": {
-            "boredom_level": 4,
+            "boredom_level": 5,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Temporarily On-Hold"
         }
     },
     {
@@ -12526,13 +12526,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            -0.5,
             0.0
         ],
         "DAH_meta_meta": {
-            "boredom_level": 4,
+            "boredom_level": 5,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Temporarily On-Hold"
         }
     },
     {
@@ -12576,13 +12576,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            -0.5,
             0.0
         ],
         "DAH_meta_meta": {
-            "boredom_level": 4,
+            "boredom_level": 5,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Temporarily On-Hold"
         }
     },
     {
