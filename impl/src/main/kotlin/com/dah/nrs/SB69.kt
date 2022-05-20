@@ -351,6 +351,12 @@ fun DSLScope.SB69() {
             SubIDEntry("5", "EMPIRE DOMINATOR") {
                 Music(2.5)
             }
+
+            SubIDEntry("8", "Anokanatarium") {
+                // this was unranked all this time?????
+                // lmfao
+                Music(6.5)
+            }
         }
 
         Entry {
@@ -412,6 +418,15 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-86315-3"
+            title = "P SHOW BY ROCK!!"
+
+            SubIDEntry("3", "Nyumber One! Zettai Saikyou!") {
+                Music(7.0)
+            }
+        }
+
+        Entry {
             id = "M-18"
             title = "Plasmagica"
 
@@ -448,6 +463,7 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-93441")
                 Contains("M-VGMDB-AL-104341-1", 0.5)
                 Contains("M-VGMDB-AL-104341-2", 1.0)
+                Contains("M-VGMDB-AL-104267-8", 1.0)
             }
         }
 
@@ -469,6 +485,7 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-104266-6")
                 Contains("M-VGMDB-AL-61982")
                 Contains("M-VGMDB-AL-105612")
+                Contains("M-VGMDB-AL-86315-3")
             }
         }
     }

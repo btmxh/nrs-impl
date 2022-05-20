@@ -896,7 +896,8 @@
     "M-VGMDB-AL-104267": {
         "id": "M-VGMDB-AL-104267",
         "children": {
-            "M-VGMDB-AL-104267-5": 1.0
+            "M-VGMDB-AL-104267-5": 1.0,
+            "M-VGMDB-AL-104267-8": 1.0
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.2"
@@ -1241,6 +1242,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Dear Brave"
+        }
+    },
+    "M-VGMDB-AL-86315-3-3": {
+        "id": "M-VGMDB-AL-86315-3-3",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Nyumber One! Zettai Saikyou!"
         }
     },
     "M-VGMDB-AL-82369-1": {
@@ -1890,6 +1899,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Yonezu Kenshi"
+        }
+    },
+    "M-VGMDB-AL-104267-8": {
+        "id": "M-VGMDB-AL-104267-8",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Anokanatarium"
         }
     },
     "M-VGMDB-AR-15120": {
@@ -4603,7 +4620,8 @@
             "M-VGMDB-AL-93440": 0.8,
             "M-VGMDB-AL-93441": 0.8,
             "M-VGMDB-AL-104341-1": 0.4,
-            "M-VGMDB-AL-104341-2": 0.8
+            "M-VGMDB-AL-104341-2": 0.8,
+            "M-VGMDB-AL-104267-8": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Mashumairesh!!"
@@ -4616,6 +4634,15 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "ZAQ"
+        }
+    },
+    "M-VGMDB-AL-86315-3": {
+        "id": "M-VGMDB-AL-86315-3",
+        "children": {
+            "M-VGMDB-AL-86315-3-3": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "P SHOW BY ROCK!!"
         }
     },
     "M-VGMDB-AL-80802-2": {
@@ -4773,6 +4800,7 @@
             "M-VGMDB-AL-100082": 1.0,
             "M-VGMDB-AL-116297": 1.0,
             "M-VGMDB-AL-105612": 1.0,
+            "M-VGMDB-AL-86315-3": 1.0,
             "M-18": 1.0,
             "M-19": 1.0,
             "M-20": 1.0,
@@ -5119,7 +5147,8 @@
         "children": {
             "M-VGMDB-AL-104266-6": 0.8,
             "M-VGMDB-AL-61982": 0.8,
-            "M-VGMDB-AL-105612": 0.8
+            "M-VGMDB-AL-105612": 0.8,
+            "M-VGMDB-AL-86315-3": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Criticrista"

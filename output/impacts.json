@@ -7224,6 +7224,30 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-104267-8": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.9500000000000002,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 6.5,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-61982-1": 1.0
         },
         "score": [
@@ -7363,6 +7387,30 @@
         ],
         "DAH_meta_meta": {
             "input_score": 5.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-86315-3-3": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.0999999999999996,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 7.0,
             "type": "NONSTD_music"
         }
     },
