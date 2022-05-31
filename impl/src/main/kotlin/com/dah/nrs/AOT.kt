@@ -2,16 +2,22 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
-import com.dah.nrs.exts.Boredom
-import com.dah.nrs.exts.Completed
-import com.dah.nrs.exts.Emotion
-import com.dah.nrs.exts.NEI
+import com.dah.nrs.exts.*
 
 // imagine almost losing a contentless franchise xddddddddddddd
 fun DSLScope.AOT() {
     Entry {
         title = "Shingeki no Kyojin"
         id = "F-VGMDB-2931"
+
+        // please fuck off (look at the comment section)
+        // https://www.youtube.com/watch?v=kbYoJNLQEiU
+        NEI(-2.0, Emotion.AP) {
+            contributors["A-MAL-16498"] = 0.1
+            contributors["A-MAL-25777"] = 0.1
+            contributors["A-MAL-35760"] = 0.1
+            contributors["A-MAL-38524"] = 0.1
+        }
 
         Entry {
             title = "Shingeki no Kyojin"

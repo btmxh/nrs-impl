@@ -427,6 +427,25 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-76155"
+            title = "Loop Shiteru/Asuiro Koi Moyou"
+
+            SubIDEntry("2", "Asuiro Koi Moyou"){
+                // absolute catjammer
+                // cricri is just too fking based
+
+                // Even if the world was to end in the morning
+                // I wouldn’t have any regrets, because I was able to meet you
+                // That’s the most of my feelings I can express
+                // But it’s fine if you’re too thick to understand
+
+                // btw kaguyashit pls fuck off from this beautiful lyrics
+
+                Music(8.0)
+            }
+        }
+
+        Entry {
             id = "M-18"
             title = "Plasmagica"
 
@@ -486,6 +505,7 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-61982")
                 Contains("M-VGMDB-AL-105612")
                 Contains("M-VGMDB-AL-86315-3")
+                Contains("M-VGMDB-AL-76155")
             }
         }
     }

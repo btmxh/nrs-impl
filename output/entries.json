@@ -1,4 +1,12 @@
 {
+    "M-57": {
+        "id": "M-57",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Clematis"
+        }
+    },
     "M-VGMDB-AL-99272": {
         "id": "M-VGMDB-AL-99272",
         "children": {
@@ -11,6 +19,14 @@
             "DAH_entry_title_title": "Just Believe!!!"
         }
     },
+    "M-56": {
+        "id": "M-56",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Unison Monologue"
+        }
+    },
     "M-VGMDB-AL-78575": {
         "id": "M-VGMDB-AL-78575",
         "children": {
@@ -18,6 +34,14 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Natsu no Yakusoku"
+        }
+    },
+    "M-55": {
+        "id": "M-55",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Chiguhagu Melody"
         }
     },
     "M-VGMDB-AL-42900-3": {
@@ -391,6 +415,23 @@
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Roselia"
+        }
+    },
+    "M-VGMDB-AL-76155": {
+        "id": "M-VGMDB-AL-76155",
+        "children": {
+            "M-VGMDB-AL-76155-2": 1.0
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Loop Shiteru/Asuiro Koi Moyou"
+        }
+    },
+    "M-54": {
+        "id": "M-54",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Sin City"
         }
     },
     "M-VGMDB-AL-20118": {
@@ -2440,6 +2481,14 @@
             "DAH_entry_title_title": "Y.O.L.O"
         }
     },
+    "M-VGMDB-AL-76155-2": {
+        "id": "M-VGMDB-AL-76155-2",
+        "children": {
+        },
+        "DAH_meta_meta": {
+            "DAH_entry_title_title": "Asuiro Koi Moyou"
+        }
+    },
     "M-VGMDB-AL-105612": {
         "id": "M-VGMDB-AL-105612",
         "children": {
@@ -2989,6 +3038,10 @@
             "M-16": 1.0,
             "M-VGMDB-AL-109271-48": 1.0,
             "M-VGMDB-AL-104673": 1.0,
+            "M-54": 1.0,
+            "M-55": 1.0,
+            "M-56": 1.0,
+            "M-57": 1.0,
             "M-48": 1.0,
             "GF-VGMDB-7059": 1.0
         },
@@ -4801,6 +4854,7 @@
             "M-VGMDB-AL-116297": 1.0,
             "M-VGMDB-AL-105612": 1.0,
             "M-VGMDB-AL-86315-3": 1.0,
+            "M-VGMDB-AL-76155": 1.0,
             "M-18": 1.0,
             "M-19": 1.0,
             "M-20": 1.0,
@@ -5148,7 +5202,8 @@
             "M-VGMDB-AL-104266-6": 0.8,
             "M-VGMDB-AL-61982": 0.8,
             "M-VGMDB-AL-105612": 0.8,
-            "M-VGMDB-AL-86315-3": 0.8
+            "M-VGMDB-AL-86315-3": 0.8,
+            "M-VGMDB-AL-76155": 0.8
         },
         "DAH_meta_meta": {
             "DAH_entry_title_title": "Criticrista"

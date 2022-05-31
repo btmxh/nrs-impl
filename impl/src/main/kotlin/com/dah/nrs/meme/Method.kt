@@ -12,10 +12,6 @@ fun DSLScope.Method() {
         Meme(0.8, Meme.MMoreThan3Months) {
             contributors["O-1"] = 1.0
             contributors["M-VGMDB-AL-81504-1"] = 0.3
-            contributors["M-VGMDB-AL-104673-1"] = 0.05
-            contributors["M-VGMDB-AL-104673-3"] = 0.05
-            contributors["M-VGMDB-AL-104673-5"] = 0.05
-            contributors["M-VGMDB-AL-82369-8"] = 0.05
         }
     }
 }

@@ -4386,6 +4386,37 @@
     },
     {
         "contributors": {
+            "A-MAL-16498": 0.1,
+            "A-MAL-25777": 0.1,
+            "A-MAL-35760": 0.1,
+            "A-MAL-38524": 0.1
+        },
+        "score": [
+            -0.0,
+            -0.4,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0,
+            -0.0
+        ],
+        "DAH_meta_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": -2.0,
+            "type": "nei",
+            "clamped_score": -0.4
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-16498": 1.0
         },
         "score": [
@@ -7411,6 +7442,30 @@
         ],
         "DAH_meta_meta": {
             "input_score": 7.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-76155-2": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.4000000000000004,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 8.0,
             "type": "NONSTD_music"
         }
     },
@@ -10449,6 +10504,102 @@
     },
     {
         "contributors": {
+            "M-54": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.30000000000000004,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 1.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-55": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.15000000000000002,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 0.5,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-56": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.30000000000000004,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 1.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-57": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.6000000000000001,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta_meta": {
+            "input_score": 2.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-37890": 1.0
         },
         "score": [
@@ -12917,11 +13068,7 @@
     {
         "contributors": {
             "O-1": 1.0,
-            "M-VGMDB-AL-81504-1": 0.3,
-            "M-VGMDB-AL-104673-1": 0.05,
-            "M-VGMDB-AL-104673-3": 0.05,
-            "M-VGMDB-AL-104673-5": 0.05,
-            "M-VGMDB-AL-82369-8": 0.05
+            "M-VGMDB-AL-81504-1": 0.3
         },
         "score": [
             0.0,

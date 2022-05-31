@@ -560,6 +560,46 @@ fun DSLScope.ReStage() {
             }
         }
 
+        // 4th anniversary songs
+        // these new songs are "saved" for future use, therefore their
+        // scores are not that high rn
+        Entry {
+            id = "M-54"
+            // https://linkco.re/5XDmDcHp
+            title = "Sin City"
+            // aka sussin city
+
+            TrackMusic(1.0)
+        }
+
+        Entry {
+            id = "M-55"
+            // https://linkco.re/AM0HVHA5
+            title = "Chiguhagu Melody"
+            // aka mismatched melody
+
+            // ty for going back based akari kito
+            TrackMusic(0.5)
+        }
+
+        Entry {
+            id = "M-56"
+            // https://linkco.re/YShsnTEb
+            title = "Unison Monologue"
+            // aka the 330 bpm song but actually an alt-165 bpm one
+
+            TrackMusic(1.0)
+        }
+
+        Entry {
+            id = "M-57"
+            // not released yet
+            title = "Clematis"
+            // catjam tho
+
+            TrackMusic(2.0)
+        }
+
         Entry {
             id = "M-48"
             title = "Re:STAGE! ALL IDOL"
