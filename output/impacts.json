@@ -18,7 +18,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -42,7 +42,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -66,7 +66,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -90,7 +90,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -114,7 +114,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.75,
             "type": "NONSTD_music"
         }
@@ -138,7 +138,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -162,7 +162,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.2,
             "type": "NONSTD_music"
         }
@@ -186,7 +186,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.75,
             "type": "NONSTD_music"
         }
@@ -210,7 +210,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.75,
             "type": "NONSTD_music"
         }
@@ -234,7 +234,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -258,7 +258,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -282,7 +282,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -306,7 +306,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -330,7 +330,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -354,7 +354,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -378,7 +378,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.2,
             "personal_input": 4.0,
             "community_factor": 0.1,
@@ -405,7 +405,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -429,7 +429,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -453,7 +453,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.3,
             "personal_input": 6.0,
             "community_factor": 0.06,
@@ -480,7 +480,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -504,7 +504,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -528,7 +528,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -556,7 +556,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.25,
             "type": "NONSTD_music"
         }
@@ -580,7 +580,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -604,7 +604,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -628,7 +628,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.1,
             "meme_duration_value": 0.3,
@@ -655,7 +655,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -679,7 +679,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.5,
             "type": "NONSTD_music"
         }
@@ -703,7 +703,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -729,7 +729,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -759,7 +759,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -789,7 +789,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.5,
             "meme_duration_value": 1.0,
@@ -816,7 +816,7 @@
             0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 1,
             "type": "boredom",
             "boredom_level_name": "Completed with noticeable boredom"
@@ -841,7 +841,7 @@
             0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 1,
             "type": "boredom",
             "boredom_level_name": "Completed with noticeable boredom"
@@ -866,7 +866,7 @@
             0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 1,
             "type": "boredom",
             "boredom_level_name": "Completed with noticeable boredom"
@@ -891,7 +891,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -915,7 +915,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -939,7 +939,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -963,7 +963,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.5,
             "type": "NONSTD_music"
         }
@@ -987,7 +987,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -1011,7 +1011,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -1035,7 +1035,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -1059,7 +1059,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -1083,7 +1083,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.325,
             "personal_input": 6.5,
             "community_factor": 0.020000000000000004,
@@ -1110,7 +1110,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -1135,7 +1135,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.6,
             "meme_duration_value": 1.0,
@@ -1162,7 +1162,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 3.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -1190,7 +1190,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -1218,7 +1218,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1243,7 +1243,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1269,7 +1269,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "length_in_days": 182,
             "name": "Tamaki Iroha",
             "periods": [
@@ -1301,7 +1301,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.9,
             "meme_duration_value": 1.0,
@@ -1328,7 +1328,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 1,
             "strength": 0.3,
             "meme_duration_value": 0.1,
@@ -1357,7 +1357,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -1385,7 +1385,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -1411,7 +1411,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 5.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -1439,7 +1439,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -1465,7 +1465,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1490,7 +1490,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1515,7 +1515,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
         }
     },
     {
@@ -1537,7 +1537,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1562,7 +1562,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 0.9,
                 "ModeratePleasant": 0.1
@@ -1591,7 +1591,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -1615,7 +1615,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -1639,7 +1639,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.4,
             "personal_input": 8.0,
             "community_factor": 0.0,
@@ -1666,7 +1666,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -1690,7 +1690,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -1714,7 +1714,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.25,
             "personal_input": 5.0,
             "community_factor": 0.04000000000000001,
@@ -1741,7 +1741,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -1769,7 +1769,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -1797,7 +1797,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.3,
             "type": "NONSTD_music"
         }
@@ -1821,7 +1821,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1847,7 +1847,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -1875,7 +1875,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1900,7 +1900,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1925,7 +1925,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1950,7 +1950,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -1975,7 +1975,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2000,7 +2000,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.5,
             "type": "NONSTD_music"
         }
@@ -2025,7 +2025,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -2054,7 +2054,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -2083,7 +2083,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2111,7 +2111,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2136,7 +2136,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2161,7 +2161,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2189,7 +2189,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2214,7 +2214,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2242,7 +2242,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2267,7 +2267,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -2295,7 +2295,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -2323,7 +2323,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2348,7 +2348,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.25,
             "type": "NONSTD_music"
         }
@@ -2372,7 +2372,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -2396,7 +2396,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.1,
             "personal_input": 2.0,
             "community_factor": 0.0,
@@ -2424,7 +2424,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2452,7 +2452,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 1,
             "strength": 0.15,
             "meme_duration_value": 0.1,
@@ -2479,7 +2479,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2504,7 +2504,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -2532,7 +2532,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 3,
             "strength": 0.4,
             "meme_duration_value": 0.5,
@@ -2559,7 +2559,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2584,7 +2584,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2609,7 +2609,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2638,7 +2638,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -2663,7 +2663,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -2687,7 +2687,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -2714,7 +2714,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 5.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -2743,7 +2743,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "type": "politics_inspiration"
         }
     },
@@ -2767,7 +2767,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.7,
             "meme_duration_value": 1.0,
@@ -2795,7 +2795,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -2823,7 +2823,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2851,7 +2851,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2876,7 +2876,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -2904,7 +2904,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -2932,7 +2932,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -2957,7 +2957,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 1,
             "strength": 0.2,
             "meme_duration_value": 0.1,
@@ -2984,7 +2984,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -3012,7 +3012,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -3040,7 +3040,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -3065,7 +3065,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -3089,7 +3089,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.1,
             "meme_duration_value": 0.3,
@@ -3116,7 +3116,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -3140,7 +3140,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -3164,7 +3164,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -3188,7 +3188,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -3212,7 +3212,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -3236,7 +3236,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -3260,7 +3260,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -3284,7 +3284,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.5,
             "type": "NONSTD_music"
         }
@@ -3308,7 +3308,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -3332,7 +3332,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -3356,7 +3356,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -3380,7 +3380,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -3404,7 +3404,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -3428,7 +3428,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.5,
             "type": "NONSTD_music"
         }
@@ -3452,7 +3452,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.5,
             "type": "NONSTD_music"
         }
@@ -3476,7 +3476,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -3500,7 +3500,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -3524,7 +3524,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -3548,7 +3548,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -3572,7 +3572,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -3596,7 +3596,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -3620,7 +3620,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -3644,7 +3644,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.5,
             "type": "NONSTD_music"
         }
@@ -3668,7 +3668,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.15,
             "personal_input": 3.0,
             "community_factor": 0.0,
@@ -3695,7 +3695,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -3719,7 +3719,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -3743,7 +3743,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
         }
     },
     {
@@ -3765,7 +3765,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.25,
             "type": "NONSTD_music"
         }
@@ -3794,7 +3794,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 4,
             "strength": 0.6,
             "meme_duration_value": 0.6,
@@ -3823,7 +3823,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -3853,7 +3853,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -3881,7 +3881,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -3906,7 +3906,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -3931,7 +3931,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -3956,7 +3956,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -3981,7 +3981,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4006,7 +4006,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4032,7 +4032,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "length_in_days": 105,
             "name": "Uehara Ayumu",
             "periods": [
@@ -4065,7 +4065,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedUnpleasant": 0.5,
                 "CalmingUnpleasant": 0.4,
@@ -4096,7 +4096,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 5.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -4128,7 +4128,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 5.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -4156,7 +4156,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 1.0,
             "meme_duration_value": 1.0,
@@ -4183,7 +4183,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4211,7 +4211,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4236,7 +4236,7 @@
             -0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 5,
             "type": "boredom",
             "boredom_level_name": "Temporarily On-Hold"
@@ -4261,7 +4261,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.3,
             "meme_duration_value": 0.3,
@@ -4290,7 +4290,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4322,7 +4322,7 @@
             -0.0,
             -0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModerateUnpleasant": 0.5,
                 "ActivatedUnpleasant": 0.5
@@ -4351,7 +4351,7 @@
             0.75,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 4,
             "type": "boredom",
             "boredom_level_name": "Watching"
@@ -4376,7 +4376,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.03,
             "meme_duration_value": 0.3,
@@ -4406,7 +4406,7 @@
             -0.0,
             -0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4434,7 +4434,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4459,7 +4459,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4487,7 +4487,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4512,7 +4512,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4540,7 +4540,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4565,7 +4565,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4593,7 +4593,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4618,7 +4618,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4646,7 +4646,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -4670,7 +4670,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 3.5,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -4698,7 +4698,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -4726,7 +4726,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "length_in_days": 90,
             "name": "Shiodome Miuna",
             "type": "waifu"
@@ -4751,7 +4751,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 5,
             "strength": 0.7,
             "meme_duration_value": 0.7,
@@ -4778,7 +4778,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4803,7 +4803,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.2,
             "type": "NONSTD_music"
         }
@@ -4827,7 +4827,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -4851,7 +4851,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -4875,7 +4875,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -4903,7 +4903,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -4928,7 +4928,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -4956,7 +4956,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 3,
             "strength": 0.3,
             "meme_duration_value": 0.5,
@@ -4983,7 +4983,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5008,7 +5008,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5036,7 +5036,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.3,
             "meme_duration_value": 0.3,
@@ -5063,7 +5063,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5091,7 +5091,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5116,7 +5116,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -5140,7 +5140,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 5.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -5168,7 +5168,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5194,7 +5194,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingPleasant": 1.0
             },
@@ -5220,7 +5220,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5245,7 +5245,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -5269,7 +5269,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5297,7 +5297,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -5321,7 +5321,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5349,7 +5349,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -5373,7 +5373,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.05,
             "personal_input": 1.0,
             "community_factor": 0.0,
@@ -5401,7 +5401,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "length_in_days": 90,
             "name": "Megumi Kato",
             "type": "waifu"
@@ -5427,7 +5427,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -5456,7 +5456,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 6,
             "strength": 0.5,
             "meme_duration_value": 0.8,
@@ -5483,7 +5483,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5508,7 +5508,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5533,7 +5533,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -5561,7 +5561,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5586,7 +5586,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.75,
             "type": "NONSTD_music"
         }
@@ -5610,7 +5610,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -5634,7 +5634,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -5658,7 +5658,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.25,
             "personal_input": 5.0,
             "community_factor": 0.0,
@@ -5685,7 +5685,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -5709,7 +5709,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5735,7 +5735,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.2,
             "meme_duration_value": 0.3,
@@ -5762,7 +5762,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -5787,7 +5787,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.75,
             "type": "NONSTD_music"
         }
@@ -5811,7 +5811,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -5835,7 +5835,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.15,
             "personal_input": 3.0,
             "community_factor": 0.0,
@@ -5866,7 +5866,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 4,
             "strength": 0.8,
             "meme_duration_value": 0.6,
@@ -5897,7 +5897,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModerateUnpleasant": 1.0
             },
@@ -5926,7 +5926,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 6,
             "strength": 0.2,
             "meme_duration_value": 0.8,
@@ -5953,7 +5953,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -5979,7 +5979,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -6005,7 +6005,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -6033,7 +6033,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6058,7 +6058,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -6086,7 +6086,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6111,7 +6111,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -6139,7 +6139,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6164,7 +6164,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -6192,7 +6192,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6217,7 +6217,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -6245,7 +6245,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6273,7 +6273,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -6301,7 +6301,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 4.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -6330,7 +6330,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -6359,7 +6359,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -6391,7 +6391,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "length_in_days": 54,
             "name": "Hijirikawa Cyan",
             "periods": [
@@ -6422,7 +6422,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6447,7 +6447,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -6475,7 +6475,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -6503,7 +6503,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6528,7 +6528,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -6556,7 +6556,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6581,7 +6581,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedUnpleasant": 1.0
             },
@@ -6609,7 +6609,7 @@
             0.0,
             -0.25
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "type": "additional"
         }
     },
@@ -6632,7 +6632,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -6657,7 +6657,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -6681,7 +6681,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -6705,7 +6705,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -6729,7 +6729,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -6753,7 +6753,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -6777,7 +6777,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -6801,7 +6801,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.25,
             "type": "NONSTD_music"
         }
@@ -6825,7 +6825,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -6849,7 +6849,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -6873,7 +6873,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -6897,7 +6897,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -6921,7 +6921,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -6949,7 +6949,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.25,
             "type": "NONSTD_music"
         }
@@ -6973,7 +6973,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 1,
             "strength": 0.1,
             "meme_duration_value": 0.1,
@@ -7000,7 +7000,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7024,7 +7024,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -7052,7 +7052,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -7076,7 +7076,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7100,7 +7100,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingPleasant": 1.0
             },
@@ -7128,7 +7128,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -7152,7 +7152,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7176,7 +7176,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -7200,7 +7200,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -7224,7 +7224,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7248,7 +7248,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -7272,7 +7272,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.5,
             "type": "NONSTD_music"
         }
@@ -7296,7 +7296,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7320,7 +7320,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7344,7 +7344,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -7368,7 +7368,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -7392,7 +7392,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -7416,7 +7416,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -7440,7 +7440,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -7464,7 +7464,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 8.0,
             "type": "NONSTD_music"
         }
@@ -7488,7 +7488,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -7512,7 +7512,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.375,
             "personal_input": 7.5,
             "community_factor": 0.0,
@@ -7539,7 +7539,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -7564,7 +7564,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 4.0,
             "emotions": {
                 "CalmingUnpleasant": 1.0
@@ -7592,7 +7592,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -7617,7 +7617,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -7645,7 +7645,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 1.0,
             "meme_duration_value": 1.0,
@@ -7672,7 +7672,7 @@
             0.0,
             1.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "type": "additional"
         }
     },
@@ -7695,7 +7695,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -7720,7 +7720,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -7745,7 +7745,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.2,
             "meme_duration_value": 1.0,
@@ -7772,7 +7772,7 @@
             0.0,
             0.75
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "type": "additional"
         }
     },
@@ -7795,7 +7795,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -7820,7 +7820,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -7848,7 +7848,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -7873,7 +7873,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -7897,7 +7897,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -7921,7 +7921,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.05,
             "meme_duration_value": 0.3,
@@ -7948,7 +7948,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -7976,7 +7976,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -8002,7 +8002,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -8031,7 +8031,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 1,
             "strength": 0.2,
             "meme_duration_value": 0.1,
@@ -8060,7 +8060,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "new_field": true,
             "type": "field_interest_gateopen"
         }
@@ -8084,7 +8084,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -8109,7 +8109,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -8134,7 +8134,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -8158,7 +8158,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.2,
             "personal_input": 4.0,
             "community_factor": 0.0,
@@ -8185,7 +8185,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -8209,7 +8209,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.4,
             "personal_input": 8.0,
             "community_factor": 0.0,
@@ -8236,7 +8236,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -8260,7 +8260,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.5,
             "type": "NONSTD_music"
         }
@@ -8284,7 +8284,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -8308,7 +8308,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -8332,7 +8332,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -8356,7 +8356,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -8380,7 +8380,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -8404,7 +8404,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 3,
             "strength": 0.05,
             "meme_duration_value": 0.5,
@@ -8431,7 +8431,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -8455,7 +8455,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -8479,7 +8479,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.35,
             "personal_input": 7.0,
             "community_factor": 0.0,
@@ -8506,7 +8506,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -8530,7 +8530,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.3,
             "personal_input": 6.0,
             "community_factor": 0.0,
@@ -8557,7 +8557,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -8581,7 +8581,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.25,
             "personal_input": 5.0,
             "community_factor": 0.0,
@@ -8608,7 +8608,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -8632,7 +8632,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.275,
             "personal_input": 5.5,
             "community_factor": 0.0,
@@ -8660,7 +8660,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -8688,7 +8688,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -8716,7 +8716,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.2,
             "meme_duration_value": 0.3,
@@ -8743,7 +8743,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -8768,7 +8768,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 1,
             "strength": 0.15,
             "meme_duration_value": 0.1,
@@ -8795,7 +8795,7 @@
             -1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 2,
             "type": "boredom",
             "boredom_level_name": "Dropped"
@@ -8820,7 +8820,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -8844,7 +8844,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -8868,7 +8868,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -8892,7 +8892,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 5,
             "strength": 0.4,
             "meme_duration_value": 0.7,
@@ -8919,7 +8919,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -8944,7 +8944,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -8968,7 +8968,7 @@
             0.0,
             0.75
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "type": "additional"
         }
     },
@@ -8991,7 +8991,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -9017,7 +9017,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -9042,7 +9042,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -9067,7 +9067,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -9091,7 +9091,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.3,
             "personal_input": 6.0,
             "community_factor": 0.16000000000000003,
@@ -9118,7 +9118,7 @@
             -1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 2,
             "type": "boredom",
             "boredom_level_name": "Dropped"
@@ -9143,7 +9143,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -9167,7 +9167,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.3,
             "personal_input": 6.0,
             "community_factor": 0.16000000000000003,
@@ -9194,7 +9194,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -9222,7 +9222,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -9247,7 +9247,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -9275,7 +9275,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -9300,7 +9300,7 @@
             -0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 5,
             "type": "boredom",
             "boredom_level_name": "Temporarily On-Hold"
@@ -9325,7 +9325,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -9350,7 +9350,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -9384,7 +9384,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 7,
             "strength": 1.0,
             "meme_duration_value": 0.9,
@@ -9412,7 +9412,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.95,
             "meme_duration_value": 1.0,
@@ -9440,7 +9440,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingPleasant": 1.0
             },
@@ -9468,7 +9468,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "pads_score": 3.0,
             "emotions": {
                 "ModeratePleasant": 1.0
@@ -9496,7 +9496,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -9524,7 +9524,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModerateUnpleasant": 0.5,
                 "ActivatedUnpleasant": 0.5
@@ -9553,7 +9553,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -9581,7 +9581,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -9609,7 +9609,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 0.5,
                 "CalmingPleasant": 0.5
@@ -9638,7 +9638,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -9663,7 +9663,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -9687,7 +9687,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -9711,7 +9711,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.05,
             "meme_duration_value": 0.3,
@@ -9738,7 +9738,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.5,
             "type": "NONSTD_music"
         }
@@ -9762,7 +9762,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 3,
             "strength": 0.2,
             "meme_duration_value": 0.5,
@@ -9789,7 +9789,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.5,
             "type": "NONSTD_music"
         }
@@ -9813,7 +9813,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -9837,7 +9837,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -9861,7 +9861,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -9885,7 +9885,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.01,
             "personal_input": 0.2,
             "community_factor": 0.0,
@@ -9912,7 +9912,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 6,
             "strength": 0.05,
             "meme_duration_value": 0.8,
@@ -9939,7 +9939,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.25,
             "personal_input": 5.0,
             "community_factor": 0.0,
@@ -9966,7 +9966,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -9990,7 +9990,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.8,
             "type": "NONSTD_music"
         }
@@ -10014,7 +10014,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -10038,7 +10038,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -10062,7 +10062,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -10086,7 +10086,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -10110,7 +10110,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.3,
             "personal_input": 6.0,
             "community_factor": 0.0,
@@ -10137,7 +10137,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 8.0,
             "type": "NONSTD_music"
         }
@@ -10161,7 +10161,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -10185,7 +10185,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -10209,7 +10209,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -10233,7 +10233,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -10257,7 +10257,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -10281,7 +10281,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.25,
             "type": "NONSTD_music"
         }
@@ -10305,7 +10305,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -10329,7 +10329,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.5,
             "type": "NONSTD_music"
         }
@@ -10353,7 +10353,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.5,
             "type": "NONSTD_music"
         }
@@ -10377,7 +10377,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 8.0,
             "type": "NONSTD_music"
         }
@@ -10401,7 +10401,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -10425,7 +10425,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -10449,7 +10449,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -10473,7 +10473,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -10497,7 +10497,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -10521,7 +10521,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -10545,7 +10545,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.5,
             "type": "NONSTD_music"
         }
@@ -10569,7 +10569,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -10593,7 +10593,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -10617,7 +10617,7 @@
             0.75,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 4,
             "type": "boredom",
             "boredom_level_name": "Watching"
@@ -10644,7 +10644,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingPleasant": 0.9,
                 "ModeratePleasant": 0.1
@@ -10673,7 +10673,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -10697,7 +10697,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -10721,7 +10721,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -10745,7 +10745,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.5,
             "type": "NONSTD_music"
         }
@@ -10769,7 +10769,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -10793,7 +10793,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -10817,7 +10817,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 6,
             "strength": 0.3,
             "meme_duration_value": 0.8,
@@ -10844,7 +10844,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -10872,7 +10872,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -10897,7 +10897,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -10921,7 +10921,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -10945,7 +10945,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -10973,7 +10973,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -10997,7 +10997,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11025,7 +11025,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.75,
             "type": "NONSTD_music"
         }
@@ -11049,7 +11049,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11077,7 +11077,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
         }
     },
     {
@@ -11099,7 +11099,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -11123,7 +11123,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -11151,7 +11151,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -11175,7 +11175,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -11203,7 +11203,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -11227,7 +11227,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11255,7 +11255,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -11279,7 +11279,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11307,7 +11307,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -11331,7 +11331,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -11359,7 +11359,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -11383,7 +11383,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11411,7 +11411,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -11435,7 +11435,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11463,7 +11463,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -11487,7 +11487,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11515,7 +11515,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -11539,7 +11539,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingPleasant": 1.0
             },
@@ -11567,7 +11567,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.9,
             "meme_duration_value": 1.0,
@@ -11594,7 +11594,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -11618,7 +11618,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -11646,7 +11646,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 8.0,
             "type": "NONSTD_music"
         }
@@ -11670,7 +11670,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -11698,7 +11698,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -11722,7 +11722,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11750,7 +11750,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -11774,7 +11774,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11802,7 +11802,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.0,
             "type": "NONSTD_music"
         }
@@ -11826,7 +11826,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 1.0
             },
@@ -11854,7 +11854,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.0,
             "type": "NONSTD_music"
         }
@@ -11878,7 +11878,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -11906,7 +11906,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "type": "NONSTD_album_art"
         }
     },
@@ -11929,7 +11929,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.25,
             "personal_input": 5.0,
             "community_factor": 0.0,
@@ -11956,7 +11956,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -11980,7 +11980,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ModeratePleasant": 0.9,
                 "CalmingPleasant": 0.1
@@ -12009,7 +12009,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -12037,7 +12037,7 @@
             0.75,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 4,
             "type": "boredom",
             "boredom_level_name": "Watching"
@@ -12062,7 +12062,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 7.5,
             "type": "NONSTD_music"
         }
@@ -12086,7 +12086,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -12110,7 +12110,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -12134,7 +12134,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -12159,7 +12159,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -12183,7 +12183,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -12207,7 +12207,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -12231,7 +12231,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 1.0,
             "type": "NONSTD_music"
         }
@@ -12255,7 +12255,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
         }
     },
     {
@@ -12277,7 +12277,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
         }
     },
     {
@@ -12299,7 +12299,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 2.5,
             "type": "NONSTD_music"
         }
@@ -12323,7 +12323,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.0,
             "type": "NONSTD_music"
         }
@@ -12347,7 +12347,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -12371,7 +12371,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.0,
             "type": "NONSTD_music"
         }
@@ -12395,7 +12395,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 0.6,
             "type": "NONSTD_music"
         }
@@ -12419,7 +12419,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
@@ -12447,7 +12447,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.1,
             "personal_input": 2.0,
             "community_factor": 0.16000000000000003,
@@ -12474,7 +12474,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 2,
             "strength": 0.5,
             "meme_duration_value": 0.3,
@@ -12501,7 +12501,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.1,
             "personal_input": 2.0,
             "community_factor": 0.16000000000000003,
@@ -12528,7 +12528,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 4.5,
             "type": "NONSTD_music"
         }
@@ -12552,7 +12552,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -12578,7 +12578,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -12603,7 +12603,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
@@ -12629,7 +12629,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -12654,7 +12654,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
         }
@@ -12678,7 +12678,7 @@
             -0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 5,
             "type": "boredom",
             "boredom_level_name": "Temporarily On-Hold"
@@ -12703,7 +12703,7 @@
             -0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 5,
             "type": "boredom",
             "boredom_level_name": "Temporarily On-Hold"
@@ -12728,7 +12728,7 @@
             -0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 5,
             "type": "boredom",
             "boredom_level_name": "Temporarily On-Hold"
@@ -12753,7 +12753,7 @@
             0.75,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 4,
             "type": "boredom",
             "boredom_level_name": "Watching"
@@ -12778,7 +12778,7 @@
             -0.5,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 5,
             "type": "boredom",
             "boredom_level_name": "Temporarily On-Hold"
@@ -12803,7 +12803,7 @@
             0.75,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 4,
             "type": "boredom",
             "boredom_level_name": "Watching"
@@ -12831,7 +12831,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "emotions": {
                 "CalmingUnpleasant": 0.5,
                 "CalmingPleasant": 0.5
@@ -12860,7 +12860,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -12884,7 +12884,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 3.5,
             "type": "NONSTD_music"
         }
@@ -12908,7 +12908,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -12933,7 +12933,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -12958,7 +12958,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -12983,7 +12983,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -13008,7 +13008,7 @@
             1.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
@@ -13033,7 +13033,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "personal_factor": 0.025,
             "personal_input": 0.5,
             "community_factor": 0.002,
@@ -13060,7 +13060,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
         }
@@ -13085,7 +13085,7 @@
             0.0,
             0.0
         ],
-        "DAH_meta_meta": {
+        "DAH_meta": {
             "meme_duration": 8,
             "strength": 0.8,
             "meme_duration_value": 1.0,

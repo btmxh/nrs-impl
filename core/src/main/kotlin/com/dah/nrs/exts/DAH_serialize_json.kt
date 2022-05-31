@@ -14,9 +14,11 @@ import kotlinx.serialization.serializer
 
 class DAH_serialize_json(builder: NRSContextBuilder) : Extension(builder) {
     init {
-        dependencies.addAll(listOf(
-            DAH_serialize::class.simpleName!!
-        ))
+        dependencies.addAll(
+            listOf(
+                DAH_serialize::class.simpleName!!
+            )
+        )
     }
 
     val json = Json {
@@ -64,7 +66,7 @@ fun NRSContext.DAH_json_serialize(entry: IEntry): JsonObject {
         put("children", DAH_serialize_json!!.json.encodeToJsonElement(entry.children))
 
         DAH_meta.ifEnabled {
-            put("DAH_meta_meta", entry.meta)
+            put("DAH_meta", entry.meta)
         }
     }
 }
@@ -76,7 +78,7 @@ fun NRSContext.DAH_json_serialize(impact: IImpact): JsonObject {
         put("score", DAH_serialize_json.json.encodeToJsonElement(impact.score))
 
         DAH_meta.ifEnabled {
-            put("DAH_meta_meta", impact.meta)
+            put("DAH_meta", impact.meta)
         }
     }
 }
@@ -91,7 +93,7 @@ fun NRSContext.DAH_json_serialize(relation: IRelation): JsonObject {
         )
 
         DAH_meta.ifEnabled {
-            put("DAH_meta_meta", relation.meta)
+            put("DAH_meta", relation.meta)
         }
     }
 }
@@ -105,18 +107,19 @@ fun NRSContext.DAH_json_serialize(result: EntryResult): JsonObject {
         put("totalRelation", DAH_serialize_json.json.encodeToJsonElement(result.totalRelation))
         put("overallVector", DAH_serialize_json.json.encodeToJsonElement(result.overallVector))
 
-        DAH_overall_score.ifEnabled {
-            put(
-                "DAH_overall_score_overallScore",
-                DAH_serialize_json.json.encodeToJsonElement(result.DAH_overall_score_overallScore)
-            )
-        }
+        put("DAH_meta", buildJsonObject {
+            DAH_overall_score.ifEnabled {
+                put("DAH_overall_score", result.DAH_overall_score_overallScore)
+            }
 
-        DAH_anime_normalize.ifEnabled {
-            put(
-                "DAH_anime_normalize_score",
-                DAH_serialize_json.json.encodeToJsonElement(result.DAH_anime_normalize_score!!)
-            )
-        }
+            DAH_anime_normalize.ifEnabled {
+                put(
+                    "DAH_anime_normalize",
+                    buildJsonObject {
+                        put("score", result.DAH_anime_normalize_score!!)
+                    }
+                )
+            }
+        })
     }
 }

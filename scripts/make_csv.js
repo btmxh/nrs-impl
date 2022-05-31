@@ -22,9 +22,9 @@ const labels = [
 const output = (id, entry, score) => {
     return [
         id,
-        entry.DAH_meta_meta.DAH_entry_title_title,
-        score.DAH_anime_normalize_score,
-        score.DAH_overall_score_overallScore,
+        entry.DAH_meta.DAH_entry_title,
+        score.DAH_meta.DAH_anime_normalize.score,
+        score.DAH_meta.DAH_overall_score,
         ...score.overallVector
     ];
 };
