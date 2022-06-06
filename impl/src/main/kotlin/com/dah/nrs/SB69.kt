@@ -430,7 +430,7 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-76155"
             title = "Loop Shiteru/Asuiro Koi Moyou"
 
-            SubIDEntry("2", "Asuiro Koi Moyou"){
+            SubIDEntry("2", "Asuiro Koi Moyou") {
                 // absolute catjammer
                 // cricri is just too fking based
 
@@ -440,8 +440,32 @@ fun DSLScope.SB69() {
                 // But it’s fine if you’re too thick to understand
 
                 // btw kaguyashit pls fuck off from this beautiful lyrics
+                // this is also known as "A-Sử-iro Koi Moyou"
+                // ("vợ chồng a phủ" reference lmfao)
+
+                // the "ai kotoba iii" of rst-sb69
+                // which marks the continuation of the duopoly era
 
                 Music(8.0)
+
+                // (the love song parody lyrics shit of me to rst, translated to english)
+
+                // Bởi vì khi con tim ngừng đập
+                // Because when our hearts stop beating
+
+                // chẳng phải khi ta đã chết đi trong lòng người khác
+                // is not when they are no longer living in any other hearts
+
+                // Em luôn ở đây, kề bên anh soi sáng con đường
+                // You are always here, lighting the path for me.
+
+                // Giờ đây là khi, mình tay cầm tay
+                // Now it's time, we hand in hand
+
+                // Và cùng nhau ta sẽ thắp sáng ước mơ
+                // And together we will [shine our dreams] (lmfao rst song comp diff name)
+
+
             }
         }
 
