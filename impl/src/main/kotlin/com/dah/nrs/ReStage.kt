@@ -38,11 +38,32 @@ fun DSLScope.ReStage() {
     // Like a book that was closed opened up
     // rst has changed da world.
 
-    // rst-sb69 dse (Jan 10 - Mar 10, 2022 and from June 3rd, 2022)
+    // rst-sb69 dse (Jan 10 - Mar 10, 2022)
     Meme(1.0, Meme.M2_3Months) {
         val rstContribution = 0.45
-        val sb69Contribution = 0.5
-        val collabContribution = 0.05
+        val sb69Contribution = 0.55
+
+        contributors["A-MAL-38009"] = rstContribution * 0.9
+        contributors["GF-VGMDB-7059"] = rstContribution * 0.1
+
+        contributors["A-MAL-27441"] = sb69Contribution * 0.25
+        contributors["A-MAL-32038"] = sb69Contribution * 0.3
+        contributors["A-MAL-40763"] = sb69Contribution * 0.1
+        contributors["A-MAL-41520"] = sb69Contribution * 0.25
+        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+    }
+
+    // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
+    Meme(0.95, Meme.MMoreThan3Months) {
+        contributors["A-MAL-38009"] = 0.9
+        contributors["GF-VGMDB-7059"] = 0.1
+    }
+
+    // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
+    Meme(1.0, Meme.M4_7Days) {
+        val rstContribution = 0.7
+        val sb69Contribution = 0.25
+        val asuiroContribution = 0.05
 
         contributors["A-MAL-38009"] = rstContribution * 0.9
         contributors["GF-VGMDB-7059"] = rstContribution * 0.1
@@ -53,13 +74,7 @@ fun DSLScope.ReStage() {
         contributors["A-MAL-41520"] = sb69Contribution * 0.25
         contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
 
-        contributors["M-VGMDB-AL-76155-2"] = collabContribution * 1
-    }
-
-    // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
-    Meme(0.95, Meme.MMoreThan3Months) {
-        contributors["A-MAL-38009"] = 0.9
-        contributors["GF-VGMDB-7059"] = 0.1
+        contributors["M-VGMDB-AL-76155-2"] = asuiroContribution
     }
 
     // overture: shelter incident
