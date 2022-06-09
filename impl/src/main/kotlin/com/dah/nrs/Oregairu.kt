@@ -3,6 +3,7 @@ package com.dah.nrs
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.numDays
 import com.dah.nrs.exts.*
 
 fun DSLScope.Oregairu() {
@@ -68,7 +69,7 @@ fun DSLScope.Oregairu() {
             contributors["A-MAL-23847"] = 0.4
         }
 
-        Meme(0.7, Meme.MMoreThan3Months) {
+        Meme(0.7, numDays("2019-07-14" /*the July 14th incident*/, "2020-01-01")) {
             contributors["A-MAL-14813"] = 0.4
             contributors["A-MAL-23847"] = 0.6
         }
@@ -122,7 +123,7 @@ fun DSLScope.Oregairu() {
             bestGirl = "Yuigahama Yui"
             seasonal = true
 
-            Meme(0.2, Meme.M1_3Days)
+            Meme(0.2, 2)
 
             // Yui dead people arc was kinda good
             // but Oregairu is just dead

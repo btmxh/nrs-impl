@@ -16,7 +16,7 @@ fun DSLScope.NewGame() {
             contributors["A-MAL-34914"] = 0.5
         }
 
-        Meme(0.2, Meme.M1_3Days) {
+        Meme(0.2, 2) {
             contributors["A-MAL-31953"] = 0.5
             contributors["A-MAL-34914"] = 0.5
         }

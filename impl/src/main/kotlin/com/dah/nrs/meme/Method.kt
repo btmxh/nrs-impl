@@ -9,7 +9,8 @@ fun DSLScope.Method() {
         title = "VMO 2022 Era"
         bestGirl = "method"
 
-        Meme(0.8, Meme.MMoreThan3Months) {
+        // From mid Jan 2022 onwards
+        Meme(0.8, numDays("2022-01-15")) {
             contributors["O-1"] = 1.0
             contributors["M-VGMDB-AL-81504-1"] = 0.3
         }

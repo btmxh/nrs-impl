@@ -21,7 +21,7 @@ fun DSLScope.SoraMethod() {
             AEI(7.5, Emotion.CU)
 
             // beasttrollminecraft
-            Meme(0.3, Meme.M4_7Days)
+            Meme(0.3, 6)
 
             // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
             NEI(5.0, Emotion.CU)

@@ -45,7 +45,7 @@ fun DSLScope.GakkouGurashi() {
             bestGirl = "Sakura Megumi"
             // rip Megu-nee
             Cry(Emotion.CU)
-            Meme(0.2, Meme.M4_7Days)
+            Meme(0.2, 6)
             FeatureMusic("M-VGMDB-AL-52993-1")
 
             Boredom(Boredom.Completed)

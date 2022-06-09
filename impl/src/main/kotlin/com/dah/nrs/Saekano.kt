@@ -30,7 +30,7 @@ fun DSLScope.Saekano() {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }
-        Meme(0.5, Meme.M1_2Months) {
+        Meme(0.5, 45) {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }

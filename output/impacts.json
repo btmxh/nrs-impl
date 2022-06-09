@@ -615,7 +615,7 @@
         },
         "score": [
             0.0,
-            0.09,
+            0.1418612413504764,
             0.0,
             0.0,
             0.0,
@@ -629,11 +629,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.1,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -770,9 +769,10 @@
     },
     {
         "contributors": {
-            "A-MAL-5680": 0.4,
-            "A-MAL-7791": 0.4,
-            "A-MAL-9617": 0.2
+            "A-MAL-5680": 0.35,
+            "A-MAL-7791": 0.35,
+            "A-MAL-9617": 0.15,
+            "A-MAL-32281": 0.15
         },
         "score": [
             0.0,
@@ -790,11 +790,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 120,
             "strength": 0.5,
             "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "type": "meme"
         }
     },
     {
@@ -1122,7 +1121,7 @@
         },
         "score": [
             0.0,
-            1.7999999999999998,
+            1.7450330629682302,
             0.0,
             0.0,
             0.0,
@@ -1136,11 +1135,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 106,
             "strength": 0.6,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 0.969462812760128,
+            "type": "meme"
         }
     },
     {
@@ -1284,11 +1282,13 @@
     {
         "contributors": {
             "A-MAL-38256": 0.4,
-            "G-VGMDB-5237": 0.6
+            "G-VGMDB-5237": 0.5,
+            "A-MAL-9756": 0.08,
+            "A-MAL-11981": 0.02
         },
         "score": [
             0.0,
-            2.7,
+            2.996306936234809,
             0.0,
             0.0,
             0.0,
@@ -1302,11 +1302,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 182,
             "strength": 0.9,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 1.1097433097165958,
+            "type": "meme"
         }
     },
     {
@@ -1315,7 +1314,7 @@
         },
         "score": [
             0.0,
-            0.09,
+            0.32337370076677574,
             0.0,
             0.0,
             0.0,
@@ -1329,11 +1328,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 1,
+            "meme_duration": 2,
             "strength": 0.3,
-            "meme_duration_value": 0.1,
-            "type": "meme",
-            "meme_duration_name": "1-3 Days"
+            "meme_duration_value": 0.3593041119630842,
+            "type": "meme"
         }
     },
     {
@@ -2439,7 +2437,7 @@
         },
         "score": [
             0.0,
-            0.045,
+            0.16168685038338787,
             0.0,
             0.0,
             0.0,
@@ -2453,11 +2451,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 1,
+            "meme_duration": 2,
             "strength": 0.15,
-            "meme_duration_value": 0.1,
-            "type": "meme",
-            "meme_duration_name": "1-3 Days"
+            "meme_duration_value": 0.3593041119630842,
+            "type": "meme"
         }
     },
     {
@@ -2519,7 +2516,7 @@
         },
         "score": [
             0.0,
-            0.6000000000000001,
+            0.6447419590941252,
             0.0,
             0.0,
             0.0,
@@ -2533,11 +2530,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 3,
+            "meme_duration": 10,
             "strength": 0.4,
-            "meme_duration_value": 0.5,
-            "type": "meme",
-            "meme_duration_name": "1-2 Weeks"
+            "meme_duration_value": 0.537284965911771,
+            "type": "meme"
         }
     },
     {
@@ -2754,7 +2750,7 @@
         },
         "score": [
             0.0,
-            2.0999999999999996,
+            2.294420481595336,
             0.0,
             0.0,
             0.0,
@@ -2768,11 +2764,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 171,
             "strength": 0.7,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 1.092581181712065,
+            "type": "meme"
         }
     },
     {
@@ -2944,7 +2939,7 @@
         },
         "score": [
             0.0,
-            0.06000000000000001,
+            0.21558246717785054,
             0.0,
             0.0,
             0.0,
@@ -2958,11 +2953,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 1,
+            "meme_duration": 2,
             "strength": 0.2,
-            "meme_duration_value": 0.1,
-            "type": "meme",
-            "meme_duration_name": "1-3 Days"
+            "meme_duration_value": 0.3593041119630842,
+            "type": "meme"
         }
     },
     {
@@ -3076,7 +3070,7 @@
         },
         "score": [
             0.0,
-            0.09,
+            0.1418612413504764,
             0.0,
             0.0,
             0.0,
@@ -3090,11 +3084,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.1,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -3781,7 +3774,7 @@
         },
         "score": [
             0.0,
-            1.08,
+            1.120199359119261,
             0.0,
             0.0,
             0.0,
@@ -3795,11 +3788,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 18,
             "strength": 0.6,
-            "meme_duration_value": 0.6,
-            "type": "meme",
-            "meme_duration_name": "2-3 Weeks"
+            "meme_duration_value": 0.6223329772884784,
+            "type": "meme"
         }
     },
     {
@@ -4139,11 +4131,12 @@
     },
     {
         "contributors": {
-            "A-MAL-40879": 1.0
+            "A-MAL-40879": 0.8,
+            "M-VGMDB-AR-11666": 0.2
         },
         "score": [
             0.0,
-            3.0,
+            2.9152237108889563,
             0.0,
             0.0,
             0.0,
@@ -4157,11 +4150,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 107,
             "strength": 1.0,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 0.9717412369629854,
+            "type": "meme"
         }
     },
     {
@@ -4248,7 +4240,7 @@
         },
         "score": [
             0.0,
-            0.27,
+            0.4255837240514291,
             0.0,
             0.0,
             0.0,
@@ -4262,11 +4254,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.3,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -4363,7 +4354,7 @@
         },
         "score": [
             0.0,
-            0.026999999999999996,
+            0.042558372405142916,
             0.0,
             0.0,
             0.0,
@@ -4377,11 +4368,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.03,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -4738,7 +4728,7 @@
         },
         "score": [
             0.0,
-            1.4699999999999998,
+            1.418760162547386,
             0.0,
             0.0,
             0.0,
@@ -4752,11 +4742,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 5,
+            "meme_duration": 25,
             "strength": 0.7,
-            "meme_duration_value": 0.7,
-            "type": "meme",
-            "meme_duration_name": "3 Weeks - 1 Month"
+            "meme_duration_value": 0.6756000774035172,
+            "type": "meme"
         }
     },
     {
@@ -4943,7 +4932,7 @@
         },
         "score": [
             0.0,
-            0.44999999999999996,
+            0.4835564693205938,
             0.0,
             0.0,
             0.0,
@@ -4957,11 +4946,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 3,
+            "meme_duration": 10,
             "strength": 0.3,
-            "meme_duration_value": 0.5,
-            "type": "meme",
-            "meme_duration_name": "1-2 Weeks"
+            "meme_duration_value": 0.537284965911771,
+            "type": "meme"
         }
     },
     {
@@ -5023,7 +5011,7 @@
         },
         "score": [
             0.0,
-            0.27,
+            0.4255837240514291,
             0.0,
             0.0,
             0.0,
@@ -5037,11 +5025,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.3,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -5443,7 +5430,7 @@
         },
         "score": [
             0.0,
-            1.2000000000000002,
+            1.1738134350549654,
             0.0,
             0.0,
             0.0,
@@ -5457,11 +5444,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 6,
+            "meme_duration": 45,
             "strength": 0.5,
-            "meme_duration_value": 0.8,
-            "type": "meme",
-            "meme_duration_name": "1-2 Months"
+            "meme_duration_value": 0.7825422900366437,
+            "type": "meme"
         }
     },
     {
@@ -5722,7 +5708,7 @@
         },
         "score": [
             0.0,
-            0.18,
+            0.2837224827009528,
             0.0,
             0.0,
             0.0,
@@ -5736,11 +5722,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.2,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -5853,7 +5838,7 @@
         },
         "score": [
             0.0,
-            1.44,
+            1.513924894495152,
             0.0,
             0.0,
             0.0,
@@ -5867,11 +5852,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 19,
             "strength": 0.8,
-            "meme_duration_value": 0.6,
-            "type": "meme",
-            "meme_duration_name": "2-3 Weeks"
+            "meme_duration_value": 0.6308020393729801,
+            "type": "meme"
         }
     },
     {
@@ -5913,7 +5897,7 @@
         },
         "score": [
             0.0,
-            0.4800000000000001,
+            0.46952537402198624,
             0.0,
             0.0,
             0.0,
@@ -5927,11 +5911,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 6,
+            "meme_duration": 45,
             "strength": 0.2,
-            "meme_duration_value": 0.8,
-            "type": "meme",
-            "meme_duration_name": "1-2 Months"
+            "meme_duration_value": 0.7825422900366437,
+            "type": "meme"
         }
     },
     {
@@ -6960,7 +6943,7 @@
         },
         "score": [
             0.0,
-            0.030000000000000006,
+            0.10779123358892527,
             0.0,
             0.0,
             0.0,
@@ -6974,11 +6957,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 1,
+            "meme_duration": 2,
             "strength": 0.1,
-            "meme_duration_value": 0.1,
-            "type": "meme",
-            "meme_duration_name": "1-3 Days"
+            "meme_duration_value": 0.3593041119630842,
+            "type": "meme"
         }
     },
     {
@@ -7632,7 +7614,7 @@
         },
         "score": [
             0.0,
-            3.0,
+            3.0368167032871183,
             0.0,
             0.0,
             0.0,
@@ -7646,11 +7628,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 126,
             "strength": 1.0,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 1.0122722344290394,
+            "type": "meme"
         }
     },
     {
@@ -7724,33 +7705,6 @@
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-32281": 1.0
-        },
-        "score": [
-            0.0,
-            0.6000000000000001,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "meme_duration": 8,
-            "strength": 0.2,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
         }
     },
     {
@@ -7908,7 +7862,7 @@
         },
         "score": [
             0.0,
-            0.045,
+            0.0709306206752382,
             0.0,
             0.0,
             0.0,
@@ -7922,11 +7876,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.05,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -8018,7 +7971,7 @@
         },
         "score": [
             0.0,
-            0.06000000000000001,
+            0.21558246717785054,
             0.0,
             0.0,
             0.0,
@@ -8032,11 +7985,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 1,
+            "meme_duration": 2,
             "strength": 0.2,
-            "meme_duration_value": 0.1,
-            "type": "meme",
-            "meme_duration_name": "1-3 Days"
+            "meme_duration_value": 0.3593041119630842,
+            "type": "meme"
         }
     },
     {
@@ -8391,7 +8343,7 @@
         },
         "score": [
             0.0,
-            0.07500000000000001,
+            0.08059274488676565,
             0.0,
             0.0,
             0.0,
@@ -8405,11 +8357,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 3,
+            "meme_duration": 10,
             "strength": 0.05,
-            "meme_duration_value": 0.5,
-            "type": "meme",
-            "meme_duration_name": "1-2 Weeks"
+            "meme_duration_value": 0.537284965911771,
+            "type": "meme"
         }
     },
     {
@@ -8703,7 +8654,7 @@
         },
         "score": [
             0.0,
-            0.18,
+            0.2837224827009528,
             0.0,
             0.0,
             0.0,
@@ -8717,11 +8668,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.2,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -8755,7 +8705,7 @@
         },
         "score": [
             0.0,
-            0.045,
+            0.16168685038338787,
             0.0,
             0.0,
             0.0,
@@ -8769,11 +8719,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 1,
+            "meme_duration": 2,
             "strength": 0.15,
-            "meme_duration_value": 0.1,
-            "type": "meme",
-            "meme_duration_name": "1-3 Days"
+            "meme_duration_value": 0.3593041119630842,
+            "type": "meme"
         }
     },
     {
@@ -8879,7 +8828,7 @@
         },
         "score": [
             0.0,
-            0.8399999999999999,
+            0.8107200928842208,
             0.0,
             0.0,
             0.0,
@@ -8893,11 +8842,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 5,
+            "meme_duration": 25,
             "strength": 0.4,
-            "meme_duration_value": 0.7,
-            "type": "meme",
-            "meme_duration_name": "3 Weeks - 1 Month"
+            "meme_duration_value": 0.6756000774035172,
+            "type": "meme"
         }
     },
     {
@@ -9371,7 +9319,7 @@
         },
         "score": [
             0.0,
-            2.7,
+            2.512111699425165,
             0.0,
             0.0,
             0.0,
@@ -9385,11 +9333,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 7,
+            "meme_duration": 59,
             "strength": 1.0,
-            "meme_duration_value": 0.9,
-            "type": "meme",
-            "meme_duration_name": "2-3 Months"
+            "meme_duration_value": 0.8373705664750549,
+            "type": "meme"
         }
     },
     {
@@ -9399,7 +9346,7 @@
         },
         "score": [
             0.0,
-            2.8499999999999996,
+            2.9405886430061097,
             0.0,
             0.0,
             0.0,
@@ -9413,11 +9360,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 136,
             "strength": 0.95,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 1.0317854887740736,
+            "type": "meme"
         }
     },
     {
@@ -9433,7 +9379,7 @@
         },
         "score": [
             0.0,
-            0.8999999999999999,
+            1.4186124135047637,
             0.0,
             0.0,
             0.0,
@@ -9447,11 +9393,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 1.0,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -9732,7 +9677,7 @@
         },
         "score": [
             0.0,
-            0.045,
+            0.0709306206752382,
             0.0,
             0.0,
             0.0,
@@ -9746,11 +9691,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.05,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -9783,7 +9727,7 @@
         },
         "score": [
             0.0,
-            0.30000000000000004,
+            0.3223709795470626,
             0.0,
             0.0,
             0.0,
@@ -9797,11 +9741,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 3,
+            "meme_duration": 10,
             "strength": 0.2,
-            "meme_duration_value": 0.5,
-            "type": "meme",
-            "meme_duration_name": "1-2 Weeks"
+            "meme_duration_value": 0.537284965911771,
+            "type": "meme"
         }
     },
     {
@@ -9933,7 +9876,7 @@
         },
         "score": [
             0.0,
-            0.12000000000000002,
+            0.11738134350549656,
             0.0,
             0.0,
             0.0,
@@ -9947,11 +9890,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 6,
+            "meme_duration": 45,
             "strength": 0.05,
-            "meme_duration_value": 0.8,
-            "type": "meme",
-            "meme_duration_name": "1-2 Months"
+            "meme_duration_value": 0.7825422900366437,
+            "type": "meme"
         }
     },
     {
@@ -10838,7 +10780,7 @@
         },
         "score": [
             0.0,
-            0.72,
+            0.7042880610329793,
             0.0,
             0.0,
             0.0,
@@ -10852,11 +10794,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 6,
+            "meme_duration": 45,
             "strength": 0.3,
-            "meme_duration_value": 0.8,
-            "type": "meme",
-            "meme_duration_name": "1-2 Months"
+            "meme_duration_value": 0.7825422900366437,
+            "type": "meme"
         }
     },
     {
@@ -11588,7 +11529,7 @@
         },
         "score": [
             0.0,
-            2.7,
+            2.5126331195756686,
             0.0,
             0.0,
             0.0,
@@ -11602,11 +11543,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 90,
             "strength": 0.9,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 0.9306048591020996,
+            "type": "meme"
         }
     },
     {
@@ -12495,7 +12435,7 @@
         },
         "score": [
             0.0,
-            0.44999999999999996,
+            0.7093062067523819,
             0.0,
             0.0,
             0.0,
@@ -12509,11 +12449,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 2,
+            "meme_duration": 6,
             "strength": 0.5,
-            "meme_duration_value": 0.3,
-            "type": "meme",
-            "meme_duration_name": "4-7 Days"
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
         }
     },
     {
@@ -12709,13 +12648,13 @@
             0.0,
             0.0,
             0.0,
-            -0.5,
+            -1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 5,
+            "boredom_level": 2,
             "type": "boredom",
-            "boredom_level_name": "Temporarily On-Hold"
+            "boredom_level_name": "Dropped"
         }
     },
     {
@@ -12734,13 +12673,13 @@
             0.0,
             0.0,
             0.0,
-            -0.5,
+            -1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 5,
+            "boredom_level": 2,
             "type": "boredom",
-            "boredom_level_name": "Temporarily On-Hold"
+            "boredom_level_name": "Dropped"
         }
     },
     {
@@ -12759,13 +12698,13 @@
             0.0,
             0.0,
             0.0,
-            -0.5,
+            -1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 5,
+            "boredom_level": 2,
             "type": "boredom",
-            "boredom_level_name": "Temporarily On-Hold"
+            "boredom_level_name": "Dropped"
         }
     },
     {
@@ -12784,13 +12723,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            -1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 4,
+            "boredom_level": 2,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Dropped"
         }
     },
     {
@@ -12809,13 +12748,13 @@
             0.0,
             0.0,
             0.0,
-            -0.5,
+            -1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 5,
+            "boredom_level": 2,
             "type": "boredom",
-            "boredom_level_name": "Temporarily On-Hold"
+            "boredom_level_name": "Dropped"
         }
     },
     {
@@ -12841,6 +12780,34 @@
             "boredom_level": 4,
             "type": "boredom",
             "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-50273": 1.0
+        },
+        "score": [
+            0.0,
+            2.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -13106,7 +13073,7 @@
         },
         "score": [
             0.0,
-            2.4000000000000004,
+            2.5162740033571467,
             0.0,
             0.0,
             0.0,
@@ -13120,11 +13087,10 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 8,
+            "meme_duration": 145,
             "strength": 0.8,
-            "meme_duration_value": 1.0,
-            "type": "meme",
-            "meme_duration_name": "More than 3 months"
+            "meme_duration_value": 1.048447501398811,
+            "type": "meme"
         }
     }
 ]

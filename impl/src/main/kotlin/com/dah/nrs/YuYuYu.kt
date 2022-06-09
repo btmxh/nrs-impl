@@ -1,8 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 fun DSLScope.YuYuYu() {
@@ -36,7 +34,7 @@ fun DSLScope.YuYuYu() {
             }
         }
 
-        Meme(0.8, Meme.M2_3Weeks) {
+        Meme(0.8, numDays("2021-11-01", "2021-11-20")) {
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.3
             contributors["A-MAL-34284"] = 0.06
@@ -55,11 +53,11 @@ fun DSLScope.YuYuYu() {
 
         // koori chikage remained as a meme even after the death
         // of the yuyuyu franchise (blame rst for that)
-        // just too based bro, rst and sb69 can't kill her
+        // just too based bro, rst and sb69 can't kill her (Clueless)
         // (but vertexes can sadge)
         // update: what do you expect from the second best idol franchise ever,
         // (future number 1 btw) they cucked her sadge
-        Meme(0.2, Meme.M1_2Months) {
+        Meme(0.2, 45) {
             contributors["L-MAL-90810"] = 0.8
             contributors["A-MAL-42587"] = 0.2
         }

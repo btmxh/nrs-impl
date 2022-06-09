@@ -1,9 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
-import com.dah.nrs.dsl.vector
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 // niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12
@@ -24,7 +21,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 Music(2.5)
-                Meme(0.1, Meme.M4_7Days)
+                Meme(0.1, 6)
                 // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
                 // [Reform's Expert] +HDDT FC 417pp
             }
@@ -287,7 +284,7 @@ fun DSLScope.LoveLive() {
         }
 
         // shared memes between SIP (school idol project) and Sunshine
-        Meme(0.6, Meme.M2_3Weeks) {
+        Meme(0.6, 18) {
             contributors["A-MAL-15051"] = 0.2
             contributors["A-MAL-19111"] = 0.2
             contributors["A-MAL-24997"] = 0.1
@@ -402,13 +399,18 @@ fun DSLScope.LoveLive() {
             contributors["M-VGMDB-AL-89290-6"] = 0.025
         }
 
+        // Ayumu-era
+        Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01")) {
+            contributors["A-MAL-40879"] = 0.8
+            contributors["M-VGMDB-AR-11666"] = 0.2
+        }
+
         Entry {
             id = "A-MAL-40879"
             title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
             bestGirl = "Uehara Ayumu"
             seasonal = true
 
-            Meme(1.0, Meme.MMoreThan3Months)
             // pretty funny ngl, but overshadowed by the ayumu shit
             NEI(4.0, Emotion.AP)
             Boredom(Boredom.Completed)
@@ -429,7 +431,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Arashi Chisato"
             seasonal = true
             Boredom(Boredom.TempOnHold)
-            Meme(0.3, Meme.M4_7Days)
+            Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
         }
@@ -478,7 +480,7 @@ fun DSLScope.LoveLive() {
         id = "M-45"
         title = "Snow Halation (feat. BeasttrollMC)"
 
-        Meme(0.03, Meme.M4_7Days)
+        Meme(0.03, 6)
         // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
         // [Reform's Expert] +HDDT FC 417pp
         Remix("M-VGMDB-AL-34051-1")

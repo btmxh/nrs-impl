@@ -1,9 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLEntry
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 // gee-zay honesty
@@ -39,7 +36,7 @@ fun DSLScope.ReStage() {
     // rst has changed da world.
 
     // rst-sb69 dse (Jan 10 - Mar 10, 2022)
-    Meme(1.0, Meme.M2_3Months) {
+    Meme(1.0, numDays("2022-01-10", "2022-03-10")) {
         val rstContribution = 0.45
         val sb69Contribution = 0.55
 
@@ -54,13 +51,13 @@ fun DSLScope.ReStage() {
     }
 
     // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
-    Meme(0.95, Meme.MMoreThan3Months) {
+    Meme(0.95, numDays("2021-11-20", "2022-01-10") + numDays("2022-03-10", "2022-06-03")) {
         contributors["A-MAL-38009"] = 0.9
         contributors["GF-VGMDB-7059"] = 0.1
     }
 
     // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
-    Meme(1.0, Meme.M4_7Days) {
+    Meme(1.0, numDays("2022-06-03")) {
         val rstContribution = 0.7
         val sb69Contribution = 0.25
         val asuiroContribution = 0.05
@@ -218,13 +215,13 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 TrackMusic(1.0)
                 // haha funny centuRe: reference
-                Meme(0.05, Meme.M4_7Days)
+                Meme(0.05, 6)
             }
 
             SubIDEntry("2", "Kimi ni Okuru Angel Yell") {
                 // the angel yell incident
                 TrackMusic(7.5)
-                Meme(0.2, Meme.M1_2Weeks)
+                Meme(0.2, 10)
             }
         }
 
@@ -283,7 +280,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 // THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT
                 // (definitely not a cheap copy of osu's 727)
-                Meme(0.05, Meme.M1_2Months)
+                Meme(0.05, 45)
 
                 // the song that started it all
                 // https://www.youtube.com/watch?v=9nbo5smhj8M

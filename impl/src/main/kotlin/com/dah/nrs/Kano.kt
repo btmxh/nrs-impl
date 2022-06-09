@@ -153,7 +153,7 @@ fun DSLScope.Kano() {
         }
 
         // kano-era
-        Meme(0.9, Meme.MMoreThan3Months)
+        Meme(0.9, 90)
     }
 
     Entry {

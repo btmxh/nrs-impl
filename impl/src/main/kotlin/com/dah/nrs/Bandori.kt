@@ -83,7 +83,7 @@ fun DSLScope.Bandori() {
             SubIDEntry("2", "Yume wo Uchinuku Shunkan ni!") {
                 Music(3.0)
                 // iykyk
-                Meme(0.05, Meme.M1_2Weeks)
+                Meme(0.05, 10)
             }
         }
 
@@ -206,7 +206,7 @@ fun DSLScope.Bandori() {
             // Ending pretty sadge
             NEI(6.0, Emotion.CU)
             // nrs1
-            Meme(0.2, Meme.M4_7Days)
+            Meme(0.2, 6)
             Boredom(Boredom.Completed)
 
             FeatureMusic("M-VGMDB-AL-63624-1")
@@ -218,7 +218,7 @@ fun DSLScope.Bandori() {
             title = "BanG Dream! 2nd Season"
             bestGirl = "Ichigaya Arisa"
             // nrs1
-            Meme(0.15, Meme.M1_3Days)
+            Meme(0.15, 2)
             // rip
             Boredom(Boredom.Dropped)
             FeatureMusic("M-VGMDB-AL-81504-1")

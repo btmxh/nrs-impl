@@ -40,7 +40,7 @@ fun DSLScope.NagiAsu() {
 
             WaifuUnknownPeriod("Shiodome Miuna", 90)
 
-            Meme(0.7, Meme.M3Weeks_1Month)
+            Meme(0.7, 25)
 
             Boredom(Boredom.Completed)
 

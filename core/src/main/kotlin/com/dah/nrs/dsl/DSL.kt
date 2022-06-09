@@ -6,6 +6,7 @@ import com.dah.nrs.core.*
 import com.dah.nrs.exts.*
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.*
+import java.time.LocalDate
 import kotlin.io.path.Path
 import kotlin.io.path.writeText
 import kotlin.reflect.KProperty
@@ -205,4 +206,10 @@ class StringMetaProperty(private val key: String) {
     operator fun getValue(owner: DSLMeta, property: KProperty<*>): String? {
         return (owner.mutableMeta[key] as? JsonPrimitive?)?.contentOrNull
     }
+}
+
+fun numDays(from: String, to: String? = null): Int {
+    val fromDate = LocalDate.parse(from)
+    val toDate = to?.let { LocalDate.parse(it) } ?: LocalDate.now()
+    return (toDate.toEpochDay() - fromDate.toEpochDay()).toInt()
 }

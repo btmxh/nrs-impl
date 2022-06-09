@@ -6,8 +6,7 @@
 
 package com.dah.nrs
 
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.generate
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 import com.dah.nrs.meme.Method
 import com.dah.nrs.seasonal.Spring2022
@@ -66,7 +65,7 @@ fun main() =
             // osuhow memes
             // This anime saved me in the Math Qualifiers lmao,
             // and VMO2020 too.
-            Meme(0.3, Meme.M1_2Weeks)
+            Meme(0.3, 10)
 
             Boredom(Boredom.Completed)
         }
@@ -91,7 +90,7 @@ fun main() =
             AEI(3.0, Emotion.CU)
 
             // the first anime + Giap-Ngoc match = unlimited memes
-            Meme(1.0, Meme.MMoreThan3Months)
+            Meme(1.0, numDays("2017-05-12" /*vietnamese priemier date*/, "2017-09-15" /*sln*/))
 
             // gate-open literally all NRS entries
             // but it's too overkill so an impact instead
@@ -130,7 +129,7 @@ fun main() =
 
             bestGirl = "Satanichia Kurumizawa McDowell"
             // iToddlers BTFO
-            Meme(0.4, Meme.M3Weeks_1Month)
+            Meme(0.4, 25)
 
             Boredom(Boredom.Completed)
         }

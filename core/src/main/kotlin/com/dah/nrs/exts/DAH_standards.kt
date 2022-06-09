@@ -40,18 +40,6 @@ val Boredom.TempOnHold
     get() = Level(5, "Temporarily On-Hold", -0.5)
 fun Boredom.PartiallyDropped(value: Double) = Level(6, "Partially dropped", value)
 
-object Meme {
-    val MLessThanADay = Level(0, "Less than a day", 0.0)
-    val M1_3Days = Level(1, "1-3 Days", 0.1)
-    val M4_7Days = Level(2, "4-7 Days", 0.3)
-    val M1_2Weeks = Level(3, "1-2 Weeks", 0.5)
-    val M2_3Weeks = Level(4, "2-3 Weeks", 0.6)
-    val M3Weeks_1Month = Level(5, "3 Weeks - 1 Month", 0.7)
-    val M1_2Months = Level(6, "1-2 Months", 0.8)
-    val M2_3Months = Level(7, "2-3 Months", 0.9)
-    val MMoreThan3Months = Level(8, "More than 3 months", 1.0)
-}
-
 fun AcceptImpact.Impact(block: DSLImpact.() -> Unit) {
     acceptImpact(DSLImpact(context).also(block))
 }
@@ -280,20 +268,22 @@ fun AcceptImpact.Boredom(boredomLevel: Level, block: DSLImpact.() -> Unit = {}) 
     }
 }
 
-fun AcceptImpact.Meme(strength: Double, duration: Level, block: DSLImpact.() -> Unit = {}) {
+fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Unit = {}) {
     if (strength !in 0.0..1.0) {
         error("$strength not in range 0..1")
     }
+
+    val durationValue = (duration.toDouble() / 120).pow(0.25)
+
     Impact {
         description = "Meme"
         score = vector {
-            set(Emotion.AP, strength * duration.value * 3.0)
+            set(Emotion.AP, strength * durationValue * 3.0)
         }
         meta("type", "meme")
         meta("strength", strength)
-        meta("meme_duration", duration.index)
-        meta("meme_duration_name", duration.name)
-        meta("meme_duration_value", duration.value)
+        meta("meme_duration", duration)
+        meta("meme_duration_value", durationValue)
         block()
     }
 }

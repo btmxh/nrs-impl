@@ -276,7 +276,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 // xd
                 Music(1.25)
-                Meme(0.1, Meme.M1_3Days)
+                Meme(0.1, 2)
             }
         }
 

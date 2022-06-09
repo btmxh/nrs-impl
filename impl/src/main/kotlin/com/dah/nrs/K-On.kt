@@ -18,7 +18,7 @@ fun DSLScope.`K-On`() {
                 title = "Kira Kira Days"
 
                 // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
-                Meme(0.1, Meme.M4_7Days)
+                Meme(0.1, 6)
                 Music(2.5)
             }
         }
@@ -68,10 +68,11 @@ fun DSLScope.`K-On`() {
             contributors["A-MAL-9617"] = 0.2
         }
 
-        Meme(0.5, Meme.MMoreThan3Months) {
-            contributors["A-MAL-5680"] = 0.4
-            contributors["A-MAL-7791"] = 0.4
-            contributors["A-MAL-9617"] = 0.2
+        Meme(0.5, 120) {
+            contributors["A-MAL-5680"] = 0.35
+            contributors["A-MAL-7791"] = 0.35
+            contributors["A-MAL-9617"] = 0.15
+            contributors["A-MAL-32281"] = 0.15
         }
 
         Entry {

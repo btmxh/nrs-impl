@@ -1,11 +1,7 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.exts.AdditionalImpact
-import com.dah.nrs.exts.Boredom
-import com.dah.nrs.exts.Completed
-import com.dah.nrs.exts.Meme
+import com.dah.nrs.dsl.*
+import com.dah.nrs.exts.*
 
 fun DSLScope.KimiNawa() {
     Entry {
@@ -18,9 +14,6 @@ fun DSLScope.KimiNawa() {
             title = "Kimi no Na wa"
 
             bestGirl = "Miki Okudera"
-
-            // Lam-ki - Azu-nyan memes start from here
-            Meme(0.2, Meme.MMoreThan3Months)
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
             Boredom(Boredom.Completed)
         }

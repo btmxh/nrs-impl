@@ -42,7 +42,7 @@ fun DSLScope.Chuunibyou() {
             bestGirl = "Nibutani Shinka"
             // idk why
             // this is taken from NRS1
-            Meme(0.15, Meme.M1_3Days)
+            Meme(0.15, 2)
             Boredom(Boredom.Completed)
         }
 
@@ -54,7 +54,7 @@ fun DSLScope.Chuunibyou() {
             // YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI
             AEI(10.0, Emotion.CU)
             // Shichimiya memes
-            Meme(0.4, Meme.M1_2Weeks)
+            Meme(0.4, 10)
             Boredom(Boredom.Completed)
 
             FeatureMusic("M-VGMDB-AL-42762-1")

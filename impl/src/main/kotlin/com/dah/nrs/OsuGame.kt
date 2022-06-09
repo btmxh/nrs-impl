@@ -34,7 +34,7 @@ fun DSLScope.OsuGame() {
 
         // we kicked a kid, united
         // r/osuplace stuff
-        Meme(0.5, Meme.M4_7Days)
+        Meme(0.5, 6)
         OsuSong(personal = 2.0, community = 8.0)
         Music(4.5)
     }

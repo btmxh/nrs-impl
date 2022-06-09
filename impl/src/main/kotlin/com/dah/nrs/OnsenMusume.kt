@@ -61,6 +61,6 @@ fun DSLScope.OnsenMusume() {
             }
         }
 
-        Meme(0.3, Meme.M1_2Months)
+        Meme(0.3, 45)
     }
 }

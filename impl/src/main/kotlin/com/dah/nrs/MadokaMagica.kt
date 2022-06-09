@@ -1,9 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
-import com.dah.nrs.dsl.vector
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 fun DSLScope.MadokaMagica() {
@@ -106,7 +103,7 @@ fun DSLScope.MadokaMagica() {
             }
         }
 
-        Meme(0.6, Meme.MMoreThan3Months) {
+        Meme(0.6, numDays("2019-11-01", "2020-02-15")) {
             contributors["A-MAL-9756"] = 0.8
             contributors["A-MAL-11981"] = 0.2
         }
@@ -149,12 +146,14 @@ fun DSLScope.MadokaMagica() {
             contributors["G-VGMDB-5237"] = 0.5
         }
 
-        Meme(0.9, Meme.MMoreThan3Months) {
+        Meme(0.9, numDays("2020-02-15", "2020-08-15")) {
             contributors["A-MAL-38256"] = 0.4
-            contributors["G-VGMDB-5237"] = 0.6
+            contributors["G-VGMDB-5237"] = 0.5
+            contributors["A-MAL-9756"] = 0.08
+            contributors["A-MAL-11981"] = 0.02
         }
 
-        Meme(0.3, Meme.M1_3Days) {
+        Meme(0.3, 2) {
             contributors["A-MAL-41530"] = 1.0
         }
 

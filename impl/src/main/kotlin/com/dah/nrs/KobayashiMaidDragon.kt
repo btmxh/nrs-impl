@@ -26,7 +26,7 @@ fun DSLScope.KobayashiMaidDragon() {
             SubIDEntry("1") {
                 Music(4.0)
                 // "why is the dude singing???" - some pp mapper
-                Meme(0.05, Meme.M4_7Days)
+                Meme(0.05, 6)
             }
         }
 
