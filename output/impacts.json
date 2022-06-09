@@ -12547,6 +12547,244 @@
     },
     {
         "contributors": {
+            "V-VNDB-12849": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "V-VNDB-12849": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            3.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "pads_score": 3.0,
+            "emotions": {
+                "ModeratePleasant": 1.0
+            },
+            "pads_length": 1,
+            "type": "pads"
+        }
+    },
+    {
+        "contributors": {
+            "V-VNDB-12849": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.34378349480264847,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "length_in_days": 14,
+            "name": "Kurashina Asuka",
+            "periods": [
+                {
+                    "from": "2021-06-02",
+                    "to": "2021-06-16"
+                }
+            ],
+            "type": "waifu"
+        }
+    },
+    {
+        "contributors": {
+            "V-VNDB-12849": 1.0
+        },
+        "score": [
+            0.0,
+            1.6214401857684415,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 25,
+            "strength": 0.8,
+            "meme_duration_value": 0.6756000774035172,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-52834": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.4000000000000004,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 8.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "V-VNDB-27448": 1.0
+        },
+        "score": [
+            0.0,
+            0.6613769109360265,
+            0.0,
+            0.0,
+            2.645507643744106,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 0.8,
+                "ActivatedPleasant": 0.2
+            },
+            "input_score": 8.0,
+            "type": "aei",
+            "clamped_score": 8.0
+        }
+    },
+    {
+        "contributors": {
+            "V-VNDB-27448": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.5,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 5,
+            "type": "boredom",
+            "boredom_level_name": "Temporarily On-Hold"
+        }
+    },
+    {
+        "contributors": {
+            "V-VNDB-27448": 1.0
+        },
+        "score": [
+            0.0,
+            0.8059274488676564,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 10,
+            "strength": 0.5,
+            "meme_duration_value": 0.537284965911771,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-100754": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.7999999999999998,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 6.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-43735": 1.0
         },
         "score": [

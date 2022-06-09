@@ -528,6 +528,16 @@
             "DAH_entry_title": "Aimai Bambina"
         }
     },
+    "F-VGMDB-8817": {
+        "id": "F-VGMDB-8817",
+        "children": {
+            "V-VNDB-27448": 1.0,
+            "M-VGMDB-AL-100754": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "ATRI -My Dear Moments-"
+        }
+    },
     "M-VGMDB-AL-52045": {
         "id": "M-VGMDB-AL-52045",
         "children": {
@@ -2700,6 +2710,14 @@
             "DAH_entry_title": "harumachi clover"
         }
     },
+    "V-VNDB-27448": {
+        "id": "V-VNDB-27448",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "ATRI -My Dear Moments-"
+        }
+    },
     "A-MAL-41520": {
         "id": "A-MAL-41520",
         "children": {
@@ -3226,6 +3244,14 @@
             "DAH_entry_title": "Egao no Kimi e"
         }
     },
+    "M-VGMDB-AL-100754": {
+        "id": "M-VGMDB-AL-100754",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "ATRI -My Dear Moments- Original Soundtrack"
+        }
+    },
     "M-VGMDB-AL-60358": {
         "id": "M-VGMDB-AL-60358",
         "children": {
@@ -3536,6 +3562,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Connect"
+        }
+    },
+    "M-VGMDB-AL-52834": {
+        "id": "M-VGMDB-AL-52834",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "FOUR RHYTHM ACROSS THE BLUE VOCAL & SOUND COLLECTION"
         }
     },
     "M-1": {
@@ -4150,6 +4184,16 @@
             "DAH_entry_title": "Don't think, smile!!"
         }
     },
+    "F-VGMDB-4043": {
+        "id": "F-VGMDB-4043",
+        "children": {
+            "V-VNDB-12849": 1.0,
+            "M-VGMDB-AL-52834": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ao no Kanata no Four Rhythm"
+        }
+    },
     "A-MAL-10278": {
         "id": "A-MAL-10278",
         "children": {
@@ -4422,6 +4466,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "three"
+        }
+    },
+    "V-VNDB-12849": {
+        "id": "V-VNDB-12849",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ao no Kanata no Four Rhythm"
         }
     },
     "M-VGMDB-AL-61940-1": {

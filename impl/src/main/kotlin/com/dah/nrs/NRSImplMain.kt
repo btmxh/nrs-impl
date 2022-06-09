@@ -210,7 +210,7 @@ fun main() =
 
         TateYuusha()
         SoraYori()
-        
+
         Entry {
             id = "A-MAL-35860"
             title = "Karakai Jouzu no Takagi-san"
@@ -261,6 +261,9 @@ fun main() =
         OnsenMusume()
         LapisReLights()
         Kano()
+
+        Aokana()
+        ATRI()
 
         Cue()
         Irodori()
