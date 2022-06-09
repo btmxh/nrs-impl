@@ -13,6 +13,7 @@ fun DSLScope.JustBecause() {
             id = "A-MAL-35639"
             title = "Just Because!"
 
+            Boredom(Boredom.Completed)
             // Pretty decent drama
             AEI(5.0, Emotion.CU)
             FeatureMusic("M-VGMDB-AL-70716-1")
