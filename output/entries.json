@@ -670,6 +670,16 @@
             "DAH_entry_title": "Mirai Wanted"
         }
     },
+    "F-VGMDB-5678": {
+        "id": "F-VGMDB-5678",
+        "children": {
+            "A-MAL-35639": 1.0,
+            "M-VGMDB-AL-70716-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Just Because!"
+        }
+    },
     "M-VGMDB-AL-61982-1": {
         "id": "M-VGMDB-AL-61982-1",
         "children": {
@@ -704,6 +714,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tabiji Yoiyoi Yume Hanabi"
+        }
+    },
+    "M-VGMDB-AL-70716": {
+        "id": "M-VGMDB-AL-70716",
+        "children": {
+            "M-VGMDB-AL-70716-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "over and over"
         }
     },
     "M-VGMDB-AR-13211": {
@@ -4230,7 +4249,8 @@
             "M-VGMDB-AL-43164": 0.8,
             "M-VGMDB-AL-37932": 0.8,
             "M-VGMDB-AL-51516": 0.8,
-            "M-VGMDB-AL-96288": 0.8
+            "M-VGMDB-AL-96288": 0.8,
+            "M-VGMDB-AL-70716": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "yanaginagi"
@@ -4421,6 +4441,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "SELECTION PROJECT"
+        }
+    },
+    "M-VGMDB-AL-70716-1": {
+        "id": "M-VGMDB-AL-70716-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "over and over"
         }
     },
     "M-VGMDB-AL-97692-1": {
@@ -5189,6 +5217,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
+        }
+    },
+    "A-MAL-35639": {
+        "id": "A-MAL-35639",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Just Because!"
         }
     },
     "M-VGMDB-AL-78339-1": {

@@ -289,6 +289,30 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-70716-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 5.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-49446-1": 1.0
         },
         "score": [
@@ -9214,6 +9238,34 @@
         "DAH_meta": {
             "emotions": {
                 "ActivatedPleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35639": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
             },
             "input_score": 5.0,
             "type": "aei",

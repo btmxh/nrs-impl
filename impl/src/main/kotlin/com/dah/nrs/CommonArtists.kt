@@ -355,6 +355,15 @@ fun DSLScope.CommonArtists() {
                     Music(3.0)
                 }
             }
+
+            Entry {
+                id = "M-VGMDB-AL-70716"
+                title = "over and over"
+
+                SubIDEntry("1") {
+                    Music(5.0)
+                }
+            }
         }
     }
 

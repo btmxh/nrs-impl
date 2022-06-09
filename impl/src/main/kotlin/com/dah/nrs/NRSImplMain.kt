@@ -198,6 +198,8 @@ fun main() =
             AEI(5.0, Emotion.AP)
         }
 
+        JustBecause()
+
         ReStage()
         OnsenMusume()
         LapisReLights()
