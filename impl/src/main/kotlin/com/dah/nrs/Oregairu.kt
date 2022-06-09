@@ -87,7 +87,7 @@ fun DSLScope.Oregairu() {
             // Brain's Base drew Yukino better than Yui
             bestGirl = "Yukinoshita Yukino"
 
-            NEI(2.5, Emotion.AP)
+            NEI(7.5, Emotion.AP)
 
             FeatureMusic("M-VGMDB-AL-37932-1")
             FeatureMusic("M-VGMDB-AL-37999")
@@ -102,7 +102,7 @@ fun DSLScope.Oregairu() {
             // feel. drew Yui better
             bestGirl = "Yuigahama Yui"
 
-            NEI(1.5, Emotion.AP)
+            NEI(2.5, Emotion.AP)
 
             // Oregairu S2 has a lot of drama that I don't even
             // understand. But it's pretty good ngl.

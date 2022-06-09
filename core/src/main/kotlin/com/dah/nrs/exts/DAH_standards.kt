@@ -184,7 +184,7 @@ fun AcceptImpact.WaifuUnknownPeriod(name: String, days: Int, block: DSLImpact.()
     }
 }
 
-fun AcceptImpact.EHI(block: DSLImpact.() -> Unit) {
+fun AcceptImpact.EHI(block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "EHI"
         score = vector {

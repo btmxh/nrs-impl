@@ -22,7 +22,7 @@ fun DSLScope.OsuGame() {
             SubIDEntry("12", "FREEDOM DiVE↓") {
                 Music(0.6)
                 // i'm not overstreaming 222 bpm
-                NEI(2.0, Emotion.AP)
+                NEI(5.0, Emotion.AP)
                 OsuSong(personal = 2.0, community = 8.0)
             }
         }

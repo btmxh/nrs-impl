@@ -20,7 +20,7 @@ fun DSLScope.LapisReLights() {
             title = "Lapis Re:LiGHTs"
 
             // funny af, love live stands no chance
-            NEI(8.0, Emotion.AP)
+            EHI()
             FeatureMusic("M-VGMDB-AL-104957")
             Boredom(Boredom.Completed)
         }

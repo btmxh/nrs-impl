@@ -26,7 +26,7 @@ fun DSLScope.Saekano() {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }
-        NEI(7.5, Emotion.AP) {
+        EHI {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }
@@ -54,7 +54,7 @@ fun DSLScope.Saekano() {
             id = "A-MAL-36885"
             title = "Saenai Heroine no Sodatekata Fine"
             // humor
-            NEI(1.25, Emotion.AP)
+            NEI(2.5, Emotion.AP)
             Boredom(Boredom.Completed)
         }
     }

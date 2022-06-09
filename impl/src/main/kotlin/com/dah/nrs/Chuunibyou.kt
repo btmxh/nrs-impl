@@ -28,7 +28,7 @@ fun DSLScope.Chuunibyou() {
         }
 
         // this made me laugh my ass off
-        NEI(7.5, Emotion.AP) {
+        AEI(7.5, Emotion.AP) {
             contributors["A-MAL-14741"] = 0.75
             // s2 has less comedy than s1
             // because le funny dead ppl pink-haired girl
@@ -67,7 +67,7 @@ fun DSLScope.Chuunibyou() {
             Boredom(Boredom.Completed)
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later
-            NEI(2.5, Emotion.AP)
+            NEI(7.5, Emotion.AP)
         }
     }
 }

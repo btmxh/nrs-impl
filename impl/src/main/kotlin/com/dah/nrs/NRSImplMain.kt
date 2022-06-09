@@ -33,7 +33,7 @@ fun main() =
             title = "Koi to Senkyo to Chocolate"
 
             // iirc i liked this anime's plot
-            NEI(1.0, Emotion.AP)
+            AEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)
         }
 
@@ -42,7 +42,7 @@ fun main() =
             title = "Hyouka"
 
             // ig it's kinda good
-            NEI(0.75, Emotion.AP)
+            NEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)
         }
 
@@ -61,7 +61,7 @@ fun main() =
             // kaomeme
             bestGirl = "Sasaki Kaori"
             // Ending did hit me
-            NEI(1.25, Emotion.CU)
+            NEI(5.0, Emotion.CU)
             // osuhow memes
             // This anime saved me in the Math Qualifiers lmao,
             // and VMO2020 too.
@@ -195,7 +195,7 @@ fun main() =
             bestGirl = "Horikita Suzune"
             Boredom(Boredom.Completed)
             // plot pretty good
-            NEI(2.0, Emotion.AP)
+            AEI(5.0, Emotion.AP)
         }
 
         ReStage()

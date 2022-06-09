@@ -158,7 +158,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         // magireco is kinda comfy
-        NEI(3.5, Emotion.MP) {
+        NEI(7.5, Emotion.MP) {
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.4
             contributors["A-MAL-41530"] = 0.2

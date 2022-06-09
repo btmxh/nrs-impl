@@ -294,13 +294,13 @@ fun DSLScope.LoveLive() {
         }
 
         // SIP humor
-        NEI(7.0, Emotion.AP) {
+        AEI(8.0, Emotion.AP) {
             contributors["A-MAL-15051"] = 0.4
             contributors["A-MAL-19111"] = 0.4
             contributors["A-MAL-24997"] = 0.2
         }
 
-        NEI(5.5, Emotion.AP) {
+        AEI(2.5, Emotion.AP) {
             contributors["A-MAL-32526"] = 0.4
             contributors["A-MAL-34973"] = 0.4
             contributors["A-MAL-37027"] = 0.2
@@ -412,7 +412,7 @@ fun DSLScope.LoveLive() {
             seasonal = true
 
             // pretty funny ngl, but overshadowed by the ayumu shit
-            NEI(4.0, Emotion.AP)
+            AEI(4.0, Emotion.AP)
             Boredom(Boredom.Completed)
 
             KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
@@ -436,7 +436,7 @@ fun DSLScope.LoveLive() {
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
         }
 
-        NEI(5.0, Emotion.AP) {
+        NEI(7.5, Emotion.AP) {
             // guys did you see that, it's her, my favorite school idol of all time,
             // tsukisaka sayu! wdym by kanata konoe, who tf is that? i only know sayu!
             // sayu is my love, she saved me from my one-year-old depression and showed

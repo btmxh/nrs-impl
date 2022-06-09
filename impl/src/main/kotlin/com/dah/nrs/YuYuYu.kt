@@ -43,7 +43,7 @@ fun DSLScope.YuYuYu() {
         }
 
         // yuyuyu's world building is somewhat scary ngl
-        NEI(7.5, Emotion.MU) {
+        AEI(2.5, Emotion.MU) {
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.4
             contributors["A-MAL-34284"] = 0.05
@@ -91,7 +91,7 @@ fun DSLScope.YuYuYu() {
             // Second anime (after Sora no Method) to (be able to)
             // use OP/ED visual + music to strengthen the sadness.
             // (only the ending tho)
-            NEI(5.0, Emotion.CU)
+            AEI(2.5, Emotion.CU)
 
             Boredom(Boredom.Completed)
         }
@@ -150,9 +150,9 @@ fun DSLScope.YuYuYu() {
             bestGirl = "Tougou Mimori" // or Sumi Washio
 
             FeatureMusic("M-VGMDB-AL-69821-1")
-            // gin's death and sonoko spamming magia are sad
-            // but my pepega ass doesn't watch this shit properly
-            // ffs
+            // gin's death (the consequences of the ortensia incident)
+            // and sonoko spamming magia are sad
+            // but my pepega ass doesn't watch this shit properly ffs
             NEI(5.0, Emotion.CU)
 
             Boredom(Boredom.Completed)

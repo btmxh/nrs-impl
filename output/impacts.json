@@ -518,7 +518,7 @@
             0.0,
             0.0,
             0.0,
-            2.25,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -532,9 +532,9 @@
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
-            "input_score": 2.5,
+            "input_score": 5.0,
             "type": "aei",
-            "clamped_score": 2.5
+            "clamped_score": 5.0
         }
     },
     {
@@ -1344,7 +1344,7 @@
             0.0,
             0.0,
             0.0,
-            0.7,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -1359,9 +1359,9 @@
             "emotions": {
                 "ModeratePleasant": 1.0
             },
-            "input_score": 3.5,
+            "input_score": 7.5,
             "type": "nei",
-            "clamped_score": 0.7
+            "clamped_score": 1.5
         }
     },
     {
@@ -1754,7 +1754,7 @@
         },
         "score": [
             0.0,
-            1.0,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -1771,9 +1771,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 5.0,
+            "input_score": 7.5,
             "type": "nei",
-            "clamped_score": 1.0
+            "clamped_score": 1.5
         }
     },
     {
@@ -2068,7 +2068,7 @@
         },
         "score": [
             0.0,
-            0.5,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -2085,9 +2085,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 2.5,
-            "type": "nei",
-            "clamped_score": 0.5
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -2146,7 +2146,7 @@
         },
         "score": [
             0.0,
-            0.2,
+            2.3,
             0.0,
             0.0,
             0.0,
@@ -2163,9 +2163,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 1.0,
-            "type": "nei",
-            "clamped_score": 0.2
+            "input_score": 3.0,
+            "type": "aei",
+            "clamped_score": 3.0
         }
     },
     {
@@ -2199,7 +2199,7 @@
         },
         "score": [
             0.0,
-            0.15,
+            0.6,
             0.0,
             0.0,
             0.0,
@@ -2216,9 +2216,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 0.75,
+            "input_score": 3.0,
             "type": "nei",
-            "clamped_score": 0.15
+            "clamped_score": 0.6
         }
     },
     {
@@ -2255,7 +2255,7 @@
             0.0,
             0.0,
             0.0,
-            2.5,
+            2.75,
             0.0,
             0.0,
             0.0,
@@ -2269,9 +2269,9 @@
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
-            "input_score": 5.0,
+            "input_score": 7.5,
             "type": "aei",
-            "clamped_score": 5.0
+            "clamped_score": 7.5
         }
     },
     {
@@ -2282,7 +2282,7 @@
             0.0,
             0.0,
             0.0,
-            1.5,
+            1.0,
             0.0,
             0.0,
             0.0,
@@ -2297,9 +2297,9 @@
             "emotions": {
                 "ModeratePleasant": 1.0
             },
-            "input_score": 7.5,
+            "input_score": 5.0,
             "type": "nei",
-            "clamped_score": 1.5
+            "clamped_score": 1.0
         }
     },
     {
@@ -2409,7 +2409,7 @@
         },
         "score": [
             0.0,
-            1.5,
+            2.75,
             0.0,
             0.0,
             0.0,
@@ -2427,8 +2427,8 @@
                 "ActivatedPleasant": 1.0
             },
             "input_score": 7.5,
-            "type": "nei",
-            "clamped_score": 1.5
+            "type": "aei",
+            "clamped_score": 7.5
         }
     },
     {
@@ -2592,7 +2592,7 @@
         },
         "score": [
             0.0,
-            0.5,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -2609,9 +2609,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 2.5,
+            "input_score": 7.5,
             "type": "nei",
-            "clamped_score": 0.5
+            "clamped_score": 1.5
         }
     },
     {
@@ -2805,7 +2805,7 @@
         },
         "score": [
             0.0,
-            0.5,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -2822,9 +2822,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 2.5,
+            "input_score": 7.5,
             "type": "nei",
-            "clamped_score": 0.5
+            "clamped_score": 1.5
         }
     },
     {
@@ -2858,7 +2858,7 @@
         },
         "score": [
             0.0,
-            0.3,
+            0.5,
             0.0,
             0.0,
             0.0,
@@ -2875,9 +2875,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 1.5,
+            "input_score": 2.5,
             "type": "nei",
-            "clamped_score": 0.3
+            "clamped_score": 0.5
         }
     },
     {
@@ -3802,7 +3802,7 @@
         },
         "score": [
             0.0,
-            1.4,
+            2.8,
             0.0,
             0.0,
             0.0,
@@ -3819,9 +3819,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 7.0,
-            "type": "nei",
-            "clamped_score": 1.4
+            "input_score": 8.0,
+            "type": "aei",
+            "clamped_score": 8.0
         }
     },
     {
@@ -3832,7 +3832,7 @@
         },
         "score": [
             0.0,
-            1.1,
+            2.25,
             0.0,
             0.0,
             0.0,
@@ -3849,9 +3849,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 5.5,
-            "type": "nei",
-            "clamped_score": 1.1
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
         }
     },
     {
@@ -4162,7 +4162,7 @@
         },
         "score": [
             0.0,
-            0.8,
+            2.4,
             0.0,
             0.0,
             0.0,
@@ -4180,8 +4180,8 @@
                 "ActivatedPleasant": 1.0
             },
             "input_score": 4.0,
-            "type": "nei",
-            "clamped_score": 0.8
+            "type": "aei",
+            "clamped_score": 4.0
         }
     },
     {
@@ -4268,7 +4268,7 @@
         },
         "score": [
             0.0,
-            1.0,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -4285,9 +4285,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 5.0,
+            "input_score": 7.5,
             "type": "nei",
-            "clamped_score": 1.0
+            "clamped_score": 1.5
         }
     },
     {
@@ -4432,88 +4432,7 @@
     },
     {
         "contributors": {
-            "A-MAL-16498": 1.0
-        },
-        "score": [
-            0.0,
-            0.2,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "emotions": {
-                "ActivatedPleasant": 1.0
-            },
-            "input_score": 1.0,
-            "type": "nei",
-            "clamped_score": 0.2
-        }
-    },
-    {
-        "contributors": {
             "A-MAL-25777": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            1.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "boredom_level": 0,
-            "type": "boredom",
-            "boredom_level_name": "Completed"
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-25777": 1.0
-        },
-        "score": [
-            0.0,
-            0.3,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "emotions": {
-                "ActivatedPleasant": 1.0
-            },
-            "input_score": 1.5,
-            "type": "nei",
-            "clamped_score": 0.3
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-35760": 1.0
         },
         "score": [
             0.0,
@@ -4542,7 +4461,6 @@
         },
         "score": [
             0.0,
-            0.3,
             0.0,
             0.0,
             0.0,
@@ -4553,15 +4471,13 @@
             0.0,
             0.0,
             0.0,
+            1.0,
             0.0
         ],
         "DAH_meta": {
-            "emotions": {
-                "ActivatedPleasant": 1.0
-            },
-            "input_score": 1.5,
-            "type": "nei",
-            "clamped_score": 0.3
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
         }
     },
     {
@@ -4595,7 +4511,7 @@
         },
         "score": [
             0.0,
-            2.0,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -4612,9 +4528,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 10.0,
-            "type": "nei",
-            "clamped_score": 2.0
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -4907,7 +4823,7 @@
             0.0,
             0.0,
             0.0,
-            0.25,
+            1.0,
             0.0,
             0.0,
             0.0,
@@ -4921,9 +4837,9 @@
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
-            "input_score": 1.25,
+            "input_score": 5.0,
             "type": "nei",
-            "clamped_score": 0.25
+            "clamped_score": 1.0
         }
     },
     {
@@ -5040,7 +4956,7 @@
             0.0,
             0.0,
             0.0,
-            1.0,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -5055,8 +4971,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -5246,7 +5162,7 @@
             0.0,
             0.0,
             0.0,
-            1.0,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -5261,8 +5177,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -5298,7 +5214,7 @@
             0.0,
             0.0,
             0.0,
-            1.0,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -5313,8 +5229,8 @@
                 "CalmingUnpleasant": 1.0
             },
             "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -5401,7 +5317,7 @@
         },
         "score": [
             0.0,
-            1.5,
+            3.5,
             0.0,
             0.0,
             0.0,
@@ -5415,12 +5331,7 @@
             0.0
         ],
         "DAH_meta": {
-            "emotions": {
-                "ActivatedPleasant": 1.0
-            },
-            "input_score": 7.5,
-            "type": "nei",
-            "clamped_score": 1.5
+            "type": "ehi"
         }
     },
     {
@@ -5506,7 +5417,7 @@
         },
         "score": [
             0.0,
-            0.25,
+            0.5,
             0.0,
             0.0,
             0.0,
@@ -5523,9 +5434,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 1.25,
+            "input_score": 2.5,
             "type": "nei",
-            "clamped_score": 0.25
+            "clamped_score": 0.5
         }
     },
     {
@@ -5869,7 +5780,7 @@
         "score": [
             0.0,
             0.0,
-            1.5,
+            2.25,
             0.0,
             0.0,
             0.0,
@@ -5885,9 +5796,9 @@
             "emotions": {
                 "ModerateUnpleasant": 1.0
             },
-            "input_score": 7.5,
-            "type": "nei",
-            "clamped_score": 1.5
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
         }
     },
     {
@@ -5978,7 +5889,7 @@
             0.0,
             0.0,
             0.0,
-            1.0,
+            2.25,
             0.0,
             0.0,
             0.0,
@@ -5992,9 +5903,9 @@
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
-            "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
         }
     },
     {
@@ -6300,7 +6211,7 @@
         },
         "score": [
             0.0,
-            1.0,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -6318,8 +6229,8 @@
                 "ActivatedPleasant": 1.0
             },
             "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -6329,7 +6240,7 @@
         },
         "score": [
             0.0,
-            0.5,
+            2.2,
             0.0,
             0.0,
             0.0,
@@ -6346,9 +6257,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 2.5,
-            "type": "nei",
-            "clamped_score": 0.5
+            "input_score": 2.0,
+            "type": "aei",
+            "clamped_score": 2.0
         }
     },
     {
@@ -6419,7 +6330,7 @@
             0.0,
             0.0,
             0.0,
-            1.0,
+            2.2,
             0.0,
             0.0,
             0.0,
@@ -6434,9 +6345,9 @@
             "emotions": {
                 "ModeratePleasant": 1.0
             },
-            "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "input_score": 2.0,
+            "type": "aei",
+            "clamped_score": 2.0
         }
     },
     {
@@ -6500,7 +6411,7 @@
             0.0,
             0.0,
             0.0,
-            0.5,
+            1.5,
             0.0,
             0.0,
             0.0,
@@ -6515,9 +6426,9 @@
             "emotions": {
                 "ModeratePleasant": 1.0
             },
-            "input_score": 2.5,
+            "input_score": 7.5,
             "type": "nei",
-            "clamped_score": 0.5
+            "clamped_score": 1.5
         }
     },
     {
@@ -6965,6 +6876,64 @@
     },
     {
         "contributors": {
+            "A-MAL-40763": 0.75,
+            "M-VGMDB-AL-93440-1": 0.25
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ModeratePleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "nei",
+            "clamped_score": 1.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-40763": 0.75,
+            "M-VGMDB-AL-93440-3": 0.25
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingPleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-93440-1": 1.0
         },
         "score": [
@@ -6985,34 +6954,6 @@
         "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
-        }
-    },
-    {
-        "contributors": {
-            "M-VGMDB-AL-93440-1": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.1,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "emotions": {
-                "ModeratePleasant": 1.0
-            },
-            "input_score": 0.5,
-            "type": "nei",
-            "clamped_score": 0.1
         }
     },
     {
@@ -7061,34 +7002,6 @@
         "DAH_meta": {
             "input_score": 5.0,
             "type": "NONSTD_music"
-        }
-    },
-    {
-        "contributors": {
-            "M-VGMDB-AL-93440-3": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.1,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "emotions": {
-                "CalmingPleasant": 1.0
-            },
-            "input_score": 0.5,
-            "type": "nei",
-            "clamped_score": 0.1
         }
     },
     {
@@ -7942,7 +7855,7 @@
         },
         "score": [
             0.0,
-            1.0,
+            2.25,
             0.0,
             0.0,
             0.0,
@@ -7959,9 +7872,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 5.0,
-            "type": "nei",
-            "clamped_score": 1.0
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
         }
     },
     {
@@ -8598,7 +8511,7 @@
         },
         "score": [
             0.0,
-            1.5,
+            2.2,
             0.0,
             0.0,
             0.0,
@@ -8615,9 +8528,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 7.5,
-            "type": "nei",
-            "clamped_score": 1.5
+            "input_score": 2.0,
+            "type": "aei",
+            "clamped_score": 2.0
         }
     },
     {
@@ -8629,7 +8542,7 @@
             0.0,
             0.0,
             0.0,
-            1.2,
+            2.2,
             0.0,
             0.0,
             0.0,
@@ -8643,9 +8556,9 @@
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
-            "input_score": 6.0,
-            "type": "nei",
-            "clamped_score": 1.2
+            "input_score": 2.0,
+            "type": "aei",
+            "clamped_score": 2.0
         }
     },
     {
@@ -9132,7 +9045,7 @@
             0.0,
             0.0,
             0.0,
-            1.5,
+            2.1,
             0.0,
             0.0,
             0.0,
@@ -9146,9 +9059,9 @@
             "emotions": {
                 "CalmingUnpleasant": 1.0
             },
-            "input_score": 7.5,
-            "type": "nei",
-            "clamped_score": 1.5
+            "input_score": 1.0,
+            "type": "aei",
+            "clamped_score": 1.0
         }
     },
     {
@@ -9285,7 +9198,7 @@
         },
         "score": [
             0.0,
-            0.4,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -9302,9 +9215,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 2.0,
-            "type": "nei",
-            "clamped_score": 0.4
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
         }
     },
     {
@@ -9410,7 +9323,7 @@
             0.0,
             0.0,
             0.0,
-            2.0,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -9423,9 +9336,38 @@
             "emotions": {
                 "CalmingPleasant": 1.0
             },
-            "input_score": 0.0,
+            "input_score": 5.0,
             "type": "aei",
-            "clamped_score": 0.0
+            "clamped_score": 5.0
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-78532-1": 0.25,
+            "A-MAL-38009": 0.75
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.25,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingPleasant": 1.0
+            },
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
         }
     },
     {
@@ -9489,9 +9431,9 @@
             "A-MAL-38009": 1.0
         },
         "score": [
-            0.9896309330796706,
+            1.484446399619506,
             0.0,
-            0.9896309330796706,
+            1.484446399619506,
             0.0,
             0.0,
             0.0,
@@ -9508,9 +9450,9 @@
                 "ModerateUnpleasant": 0.5,
                 "ActivatedUnpleasant": 0.5
             },
-            "input_score": 7.5,
-            "type": "nei",
-            "clamped_score": 1.5
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
         }
     },
     {
@@ -9519,7 +9461,7 @@
         },
         "score": [
             0.0,
-            1.3,
+            2.6,
             0.0,
             0.0,
             0.0,
@@ -9536,37 +9478,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 6.5,
-            "type": "nei",
-            "clamped_score": 1.3
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-38009": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.8,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "emotions": {
-                "ModeratePleasant": 1.0
-            },
-            "input_score": 4.0,
-            "type": "nei",
-            "clamped_score": 0.8
+            "input_score": 6.0,
+            "type": "aei",
+            "clamped_score": 6.0
         }
     },
     {
@@ -10854,7 +10768,7 @@
         },
         "score": [
             0.0,
-            1.6,
+            3.5,
             0.0,
             0.0,
             0.0,
@@ -10868,12 +10782,7 @@
             0.0
         ],
         "DAH_meta": {
-            "emotions": {
-                "ActivatedPleasant": 1.0
-            },
-            "input_score": 8.0,
-            "type": "nei",
-            "clamped_score": 1.6
+            "type": "ehi"
         }
     },
     {
@@ -12428,7 +12337,7 @@
         },
         "score": [
             0.0,
-            0.4,
+            1.0,
             0.0,
             0.0,
             0.0,
@@ -12445,9 +12354,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 2.0,
+            "input_score": 5.0,
             "type": "nei",
-            "clamped_score": 0.4
+            "clamped_score": 1.0
         }
     },
     {

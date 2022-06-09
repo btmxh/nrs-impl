@@ -36,7 +36,7 @@ fun DSLScope.Cue() {
             // and i was somewhat moved by ep 10
             AEI(2.0, Emotion.MP to 0.9, Emotion.CP to 0.1)
 
-            // in ep5 there is some comedy
+            // comedy was weak ngl
             NEI(5.0, Emotion.AP)
 
             Boredom(Boredom.Watching)

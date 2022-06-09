@@ -14,7 +14,7 @@ fun DSLScope.UchiageHanabi() {
             title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
             // SLN rng
-            NEI(7.5, Emotion.CU)
+            AEI(1.0, Emotion.CU)
 
             bestGirl = "Oikawa Nazuna"
 

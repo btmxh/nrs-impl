@@ -48,12 +48,12 @@ fun DSLScope.YLIA() {
 
             SubIDEntry("1", "Kimi wa Wasurerareru no") {
                 Music(3.0)
-                NEI(5.0, Emotion.CU)
+                AEI(5.0, Emotion.CU)
             }
 
             SubIDEntry("18", "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu") {
                 Music(3.0)
-                NEI(5.0, Emotion.CU)
+                AEI(5.0, Emotion.CU)
             }
         }
     }

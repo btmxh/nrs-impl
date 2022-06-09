@@ -75,10 +75,15 @@ fun DSLScope.ReStage() {
     }
 
     // overture: shelter incident
-    AEI(0.0, Emotion.CP) {
-//    NEI(8.0, Emotion.CP) {
+    AEI(5.0, Emotion.CP) {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
+    }
+
+    // ed visual slaps
+    AEI(2.5, Emotion.CP) {
+        contributors["M-VGMDB-AL-78532-1"] = 0.25
+        contributors["A-MAL-38009"] = 0.75
     }
 
     Entry {
@@ -138,10 +143,19 @@ fun DSLScope.ReStage() {
 
             // buy the new bluray guys, i'm sure that buying this will stop the russia-ukraine war
             // https://www.amazon.co.jp/Re-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8-%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96%E3%80%8CChain-Dream%E3%80%8D-Blu-ray/dp/B09MZ8L66Q
+            // also pls go to the rst live stage thing:
+            // https://rst-project.com/event/event-1/
+            // https://rst-project.com/event/event-1/
+            // https://rst-project.com/event/event-1/
 
             // for rst shills <3: https://www.google.com/search?q=grass&tbm=isch
             bestGirl = "Shikimiya Mana" // aka the kano destroyer
-            // her seiyuu is the GIGACHAD seiyuu amane makino btw
+            // her seiyuu is the GINGACHAD seiyuu amane makino btw
+            // follow her pls: https://twitter.com/makinoamane
+            // follow her pls: https://twitter.com/makinoamane
+            // follow her pls: https://twitter.com/makinoamane
+            // follow her pls: https://twitter.com/makinoamane
+            // follow her pls: https://twitter.com/makinoamane
 
             // the re stage niji incident
 //            PADS(5, Emotion.MP)
@@ -151,21 +165,18 @@ fun DSLScope.ReStage() {
             AEI(3.0, Emotion.MP)
 
             // rst lore
-//            NEI(5.0, Emotion.AP)
+//            NEI(9.0, Emotion.AP)
 
             // inverse heisenberg and its consequences
             // (MU is from rst dark lore, the "maybe the ortensia incident is not just about
             // broken legs" bs, look at the iceberg for more shit like that)
             // (AU is from the anime's "Heisenberg Uncertainty Principle", which states that
             // the more popular an anime is, the more hated it is by me)
-            NEI(7.5, Emotion.MU to 0.5, Emotion.AU to 0.5)
+            AEI(2.5, Emotion.MU to 0.5, Emotion.AU to 0.5)
 
             // this was funny af
             // expected from a purely mpap-based idol anime
-            NEI(6.5, Emotion.AP)
-
-            // ed visual slaps
-            NEI(4.0, Emotion.MP)
+            AEI(6.0, Emotion.AP)
 
             // for the first time, i felt like i'm actually holding a glowstick,
             // waving it, and wish the best for the girls performing

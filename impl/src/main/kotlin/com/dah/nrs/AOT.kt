@@ -24,7 +24,6 @@ fun DSLScope.AOT() {
             id = "A-MAL-16498"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
-            NEI(1.0, Emotion.AP)
         }
 
         Entry {
@@ -32,7 +31,6 @@ fun DSLScope.AOT() {
             id = "A-MAL-25777"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
-            NEI(1.5, Emotion.AP)
         }
 
         Entry {
@@ -40,7 +38,6 @@ fun DSLScope.AOT() {
             id = "A-MAL-35760"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
-            NEI(1.5, Emotion.AP)
         }
 
         // this has more score than almost all love live animes
@@ -53,7 +50,7 @@ fun DSLScope.AOT() {
             id = "A-MAL-38524"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
-            NEI(10.0, Emotion.AP)
+            AEI(5.0, Emotion.AP)
         }
     }
 }

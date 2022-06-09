@@ -20,7 +20,7 @@ fun DSLScope.Vocaloid() {
 
             // for some reason, this almost made me cry
             // (somewhat unrelated to ayumu shit)
-            AEI(2.5, Emotion.CU)
+            AEI(5.0, Emotion.CU)
 
             Music(4.25)
         }

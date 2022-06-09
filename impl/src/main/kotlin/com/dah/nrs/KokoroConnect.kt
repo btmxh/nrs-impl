@@ -33,7 +33,7 @@ fun DSLScope.KokoroConnect() {
         }
 
         // plot
-        NEI(2.5, Emotion.AP) {
+        AEI(5.0, Emotion.AP) {
             contributors["A-MAL-11887"] = 0.6
             contributors["A-MAL-16001"] = 0.4
         }

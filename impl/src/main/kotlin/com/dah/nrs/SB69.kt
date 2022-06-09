@@ -42,12 +42,12 @@ fun DSLScope.SB69() {
             contributors["A-MAL-32038"] = 0.25
         }
 
-        NEI(5.0, Emotion.AP) {
+        AEI(5.0, Emotion.AP) {
             contributors["A-MAL-27441"] = 0.5
             contributors["A-MAL-32038"] = 0.5
         }
 
-        NEI(2.5, Emotion.AP) {
+        AEI(2.0, Emotion.AP) {
             contributors["A-MAL-40763"] = 0.6
             contributors["A-MAL-41520"] = 0.4
         }
@@ -95,11 +95,11 @@ fun DSLScope.SB69() {
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
             // the lesson thingy was pretty cool ig
-            NEI(5.0, Emotion.MP)
+            AEI(2.0, Emotion.MP)
 
             // I almost cried at the ailane thing
             // <strikethrough>but NEI because gigachad animes don't farm tears</strikethrough>
-            // didn't care didn't ask
+            // didn't care didn't ask, and the NEI/AEI rework is here either way
             AEI(7.0, Emotion.MP)
 
             FeatureMusic("M-VGMDB-AL-61217-1")
@@ -121,7 +121,7 @@ fun DSLScope.SB69() {
             // my heart skipped a beat when the cat
             // appeared in last ep
             // keking
-            NEI(2.5, Emotion.MP)
+            NEI(7.5, Emotion.MP)
 
             FeatureMusic("M-VGMDB-AL-93440-1")
             FeatureMusic("M-VGMDB-AL-93440-3")
@@ -280,14 +280,23 @@ fun DSLScope.SB69() {
             }
         }
 
+        // visuals of hiromemes and mashiro start line are good
+        NEI(5.0, Emotion.MP) {
+            contributors["A-MAL-40763"] = 0.75
+            contributors["M-VGMDB-AL-93440-1"] = 0.25
+        }
+
+        AEI(5.0, Emotion.CP) {
+            contributors["A-MAL-40763"] = 0.75
+            contributors["M-VGMDB-AL-93440-3"] = 0.25
+        }
+
         Entry {
             id = "M-VGMDB-AL-93440"
             title = "Hiromenes/Kimi no Rhapsody"
 
             SubIDEntry("1", "Hiromenes") {
                 Music(5.0)
-                // i like the visual
-                NEI(0.5, Emotion.MP)
             }
 
             SubIDEntry("2", "Kimi no Rhapsody") {
@@ -296,8 +305,6 @@ fun DSLScope.SB69() {
 
             SubIDEntry("3", "Masshiro Start Line") {
                 Music(5.0)
-                // i like the visual
-                NEI(0.5, Emotion.CP)
             }
         }
 

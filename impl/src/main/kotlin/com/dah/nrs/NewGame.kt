@@ -11,7 +11,7 @@ fun DSLScope.NewGame() {
         title = "NEW GAME!"
 
         // humor
-        NEI(5.0, Emotion.AP) {
+        AEI(2.5, Emotion.AP) {
             contributors["A-MAL-31953"] = 0.5
             contributors["A-MAL-34914"] = 0.5
         }

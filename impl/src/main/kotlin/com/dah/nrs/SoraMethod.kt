@@ -9,7 +9,7 @@ fun DSLScope.SoraMethod() {
     Entry {
         id = "F-VGMDB-2894"
         // method!!!!!!! mot con nguoi dc xay dung mot
-        // cach khac biet *insert pasta*
+        // cach khac biet: kizuna method daisuki no uta yakusoku no uta eien no uta todokeyou
         title = "Sora no Method"
 
         Entry {
@@ -24,7 +24,7 @@ fun DSLScope.SoraMethod() {
             Meme(0.3, 6)
 
             // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
-            NEI(5.0, Emotion.CU)
+            AEI(5.0, Emotion.CU)
 
             // OP/ED very good too.
             FeatureMusic("M-VGMDB-AL-47402-1")

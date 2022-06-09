@@ -55,7 +55,7 @@ fun DSLScope.Idolmaster() {
             NEI(6.0, Emotion.CU)
 
             // funny ig
-            NEI(5.0, Emotion.AP)
+            NEI(7.5, Emotion.AP)
 
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)

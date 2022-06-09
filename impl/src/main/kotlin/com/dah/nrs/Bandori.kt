@@ -188,7 +188,7 @@ fun DSLScope.Bandori() {
         }
 
         // bandori has some good comedy shit
-        NEI(7.5, Emotion.AP) {
+        AEI(2.0, Emotion.AP) {
             // the game also contributes, so the sum of weights is not 1
             contributors["A-MAL-33573"] = 0.5
             contributors["A-MAL-37869"] = 0.3
@@ -204,7 +204,7 @@ fun DSLScope.Bandori() {
             title = "BanG Dream!"
             bestGirl = "Ichigaya Arisa"
             // Ending pretty sadge
-            NEI(6.0, Emotion.CU)
+            AEI(2.0, Emotion.CU)
             // nrs1
             Meme(0.2, 6)
             Boredom(Boredom.Completed)
