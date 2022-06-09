@@ -1,7 +1,6 @@
 package com.dah.nrs.exts
 
 import com.dah.nrs.core.Extension
-import com.dah.nrs.core.NRSContext
 import com.dah.nrs.core.NRSContextBuilder
 import com.dah.nrs.core.context
 import com.dah.nrs.dsl.DSLScope
@@ -66,7 +65,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-6 base anime (Fine)"
 
                 Boredom(Boredom.Completed)
-                NEI(2.5, Emotion.AP)
+                AEI(1.0, Emotion.AP)
             }
 
             Entry {
@@ -74,7 +73,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-7 base anime (Good)"
 
                 Boredom(Boredom.Completed)
-                NEI(7.5, Emotion.AP)
+                EHI()
             }
 
             Entry {
@@ -84,6 +83,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 Boredom(Boredom.Completed)
                 Cry(Emotion.CU)
                 PADS(1, Emotion.CU)
+                EPI(5.0)
             }
 
             Entry {
@@ -93,6 +93,8 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 Boredom(Boredom.Completed)
                 Cry(Emotion.CU)
                 PADS(5, Emotion.CU)
+                EHI()
+                EPI(10.0)
             }
 
             Entry {
@@ -104,7 +106,12 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 PADS(5, Emotion.CU)
                 PADS(5, Emotion.CP)
                 AEI(7.5, Emotion.MP)
+                EHI()
+                EPI(10.0)
                 FeatureMusic("M-1")
+                FeatureMusic("M-2")
+                FeatureMusic("M-3")
+                FeatureMusic("M-4")
             }
 
             Entry {
@@ -112,6 +119,27 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-10 base anime sample music"
 
                 Music(5.0)
+            }
+
+            Entry {
+                id = "M-2"
+                title = "MAL-10 base anime sample music"
+
+                Music(8.0)
+            }
+
+            Entry {
+                id = "M-3"
+                title = "MAL-10 base anime sample music"
+
+                Music(9.0)
+            }
+
+            Entry {
+                id = "M-4"
+                title = "MAL-10 base anime sample music"
+
+                Music(10.0)
             }
         }
 
