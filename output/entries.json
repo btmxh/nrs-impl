@@ -1596,6 +1596,16 @@
             "DAH_entry_title": "Shigatsu wa Kimi no Uso"
         }
     },
+    "F-VGMDB-6852": {
+        "id": "F-VGMDB-6852",
+        "children": {
+            "A-MAL-37450": 1.0,
+            "M-VGMDB-AL-80253-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Seishun Buta Yarou Series"
+        }
+    },
     "M-VGMDB-AL-43164-1": {
         "id": "M-VGMDB-AL-43164-1",
         "children": {
@@ -3133,6 +3143,14 @@
             "DAH_entry_title": "Aozora Jumping Heart"
         }
     },
+    "A-MAL-37450": {
+        "id": "A-MAL-37450",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+        }
+    },
     "M-VGMDB-AL-54307-1": {
         "id": "M-VGMDB-AL-54307-1",
         "children": {
@@ -4133,6 +4151,15 @@
             "DAH_entry_title": "Chikyuu Saigo no Kokuhaku o"
         }
     },
+    "M-VGMDB-AL-80253": {
+        "id": "M-VGMDB-AL-80253",
+        "children": {
+            "M-VGMDB-AL-80253-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kimi no Sei"
+        }
+    },
     "M-VGMDB-AL-115724-1": {
         "id": "M-VGMDB-AL-115724-1",
         "children": {
@@ -4870,6 +4897,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tsurezurenaru Ayatsuri Mugenan"
+        }
+    },
+    "M-VGMDB-AL-80253-1": {
+        "id": "M-VGMDB-AL-80253-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kimi no Sei"
         }
     },
     "A-MAL-24997": {

@@ -258,6 +258,7 @@ fun main() =
         ShichiseiSubaru()
         Arifureta()
         CellAtWork()
+        BunnyGirlSenpai()
 
         ReStage()
         OnsenMusume()

@@ -10055,6 +10055,58 @@
     },
     {
         "contributors": {
+            "A-MAL-37450": 1.0
+        },
+        "score": [
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "nei",
+            "clamped_score": 1.0
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-80253-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.30000000000000004,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 1.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,
