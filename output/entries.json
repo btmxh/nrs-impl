@@ -379,7 +379,8 @@
     "M-VGMDB-AR-6783": {
         "id": "M-VGMDB-AR-6783",
         "children": {
-            "M-VGMDB-AL-114186": 0.16000000000000003
+            "M-VGMDB-AL-114186": 0.16000000000000003,
+            "M-VGMDB-AL-73544": 0.2
         },
         "DAH_meta": {
             "DAH_entry_title": "Hanazawa Kana"
@@ -642,6 +643,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+        }
+    },
+    "A-MAL-35839": {
+        "id": "A-MAL-35839",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sora yori mo Tooi Basho"
         }
     },
     "M-VGMDB-AL-24725": {
@@ -964,7 +973,8 @@
         "children": {
             "M-VGMDB-AL-37999-1": 0.4,
             "M-VGMDB-AL-51394-1": 0.4,
-            "M-VGMDB-AL-96290-1": 0.4
+            "M-VGMDB-AL-96290-1": 0.4,
+            "M-VGMDB-AL-73544": 0.2
         },
         "DAH_meta": {
             "DAH_entry_title": "Hayami Saori"
@@ -1472,6 +1482,22 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Diamond no Jundo"
+        }
+    },
+    "M-VGMDB-AL-73544-1": {
+        "id": "M-VGMDB-AL-73544-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koko kara, Koko kara"
+        }
+    },
+    "M-VGMDB-AL-73544-2": {
+        "id": "M-VGMDB-AL-73544-2",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "One Step"
         }
     },
     "M-VGMDB-AL-113295": {
@@ -2014,7 +2040,8 @@
             "M-9": 0.2,
             "M-44": 0.25,
             "M-VGMDB-AL-54418-1": 0.8,
-            "M-VGMDB-AL-55364-3": 0.8
+            "M-VGMDB-AL-55364-3": 0.8,
+            "M-VGMDB-AL-73544": 0.2
         },
         "DAH_meta": {
             "DAH_entry_title": "Minase Inori"
@@ -2908,6 +2935,16 @@
             "DAH_entry_title": "Yagate Hitotsu no Monogatari"
         }
     },
+    "F-VGMDB-7040": {
+        "id": "F-VGMDB-7040",
+        "children": {
+            "A-MAL-35839": 1.0,
+            "M-VGMDB-AL-73544": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sora yori mo Tooi Basho"
+        }
+    },
     "M-VGMDB-AR-17153": {
         "id": "M-VGMDB-AR-17153",
         "children": {
@@ -3204,6 +3241,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Inagawa Eri"
+        }
+    },
+    "M-VGMDB-AL-73544": {
+        "id": "M-VGMDB-AL-73544",
+        "children": {
+            "M-VGMDB-AL-73544-1": 1.0,
+            "M-VGMDB-AL-73544-2": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koko kara, Koko kara"
         }
     },
     "A-MAL-12189": {

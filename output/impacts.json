@@ -9456,6 +9456,162 @@
     },
     {
         "contributors": {
+            "A-MAL-35839": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35839": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.8,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingPleasant": 1.0
+            },
+            "input_score": 8.0,
+            "type": "aei",
+            "clamped_score": 8.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35839": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ModeratePleasant": 1.0
+            },
+            "input_score": 7.5,
+            "type": "nei",
+            "clamped_score": 1.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-73544-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 5.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-73544-2": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.8999999999999999,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 3.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-73544-2": 1.0
+        },
+        "score": [
+            0.0,
+            0.2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "personal_factor": 0.2,
+            "personal_input": 4.0,
+            "community_factor": 0.0,
+            "type": "NONSTD_osu_song",
+            "community_input": 0.0
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,

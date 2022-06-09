@@ -35,6 +35,11 @@ fun DSLScope.CommonArtists() {
         Contains(ImageVocalContainFactor) {
             Contains("M-VGMDB-AL-54418-1")
             Contains("M-VGMDB-AL-55364-3")
+
+            //sora yori group
+            Contains(1.0 / 4.0) {
+                Contains("M-VGMDB-AL-73544")
+            }
         }
     }
 
@@ -427,6 +432,11 @@ fun DSLScope.CommonArtists() {
                 Contains("M-VGMDB-AL-51394-1")
                 Contains("M-VGMDB-AL-96290-1")
             }
+            
+            //sora yori group
+            Contains(1.0 / 4.0) {
+                Contains("M-VGMDB-AL-73544")
+            }
         }
     }
 
@@ -503,6 +513,13 @@ fun DSLScope.CommonArtists() {
             // Sanshuu Chuugaku Yuushabu (post-Sonoko)
             Contains(1.0 / 5.0) {
                 Contains("M-VGMDB-AL-114186")
+            }
+        }
+
+        Contains(ImageVocalContainFactor) {
+            //sora yori group
+            Contains(1.0 / 4.0) {
+                Contains("M-VGMDB-AL-73544")
             }
         }
     }

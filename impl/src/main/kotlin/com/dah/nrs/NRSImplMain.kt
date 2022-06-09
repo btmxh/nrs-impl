@@ -209,6 +209,11 @@ fun main() =
         }
 
         TateYuusha()
+        SoraYori()
+        
+        Entry {
+            id = "A-MAL-"
+        }
 
         ReStage()
         OnsenMusume()
