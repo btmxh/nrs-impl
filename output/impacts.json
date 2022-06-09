@@ -9299,6 +9299,59 @@
     },
     {
         "contributors": {
+            "A-MAL-35756": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35756": 1.0
+        },
+        "score": [
+            0.0,
+            0.4,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 2.0,
+            "type": "nei",
+            "clamped_score": 0.4
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,

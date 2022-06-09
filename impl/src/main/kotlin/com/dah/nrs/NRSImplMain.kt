@@ -200,6 +200,14 @@ fun main() =
 
         JustBecause()
 
+        Entry {
+            id = "A-MAL-35756"
+            title = "Comic Girls"
+
+            Boredom(Boredom.Completed)
+            NEI(2.0, Emotion.AP)
+        }
+
         ReStage()
         OnsenMusume()
         LapisReLights()
