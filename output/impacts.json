@@ -10059,6 +10059,31 @@
         },
         "score": [
             0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-37450": 1.0
+        },
+        "score": [
+            0.0,
             1.0,
             0.0,
             0.0,

@@ -13,6 +13,7 @@ fun DSLScope.BunnyGirlSenpai() {
             title = "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
             bestGirl = "Makinohara Shouko"
 
+            Boredom(Boredom.Dropped)
             // plot kinda ok
             NEI(5.0, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-80253-1")
