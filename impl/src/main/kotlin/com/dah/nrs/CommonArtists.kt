@@ -432,7 +432,7 @@ fun DSLScope.CommonArtists() {
                 Contains("M-VGMDB-AL-51394-1")
                 Contains("M-VGMDB-AL-96290-1")
             }
-            
+
             //sora yori group
             Contains(1.0 / 4.0) {
                 Contains("M-VGMDB-AL-73544")
@@ -718,6 +718,36 @@ fun DSLScope.CommonArtists() {
         Contains(ImageVocalContainFactor) {
             Contains("M-50", 1.0 / 9.0)
             Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-9797"
+        title = "Aoi Yuki"
+
+        Contains(ImageVocalContainFactor) {
+            // petit milady
+            Contains(1.0 / 2.0) {
+                Entry {
+                    id = "M-VGMDB-AL-78478"
+                    title = "360° Hoshi no Orchestra"
+
+                    SubIDEntry("1") {
+                        // coco's Insane
+                        // Akito's Insane
+                        // ailv's Insane
+                        // Seto's Insane
+                        // Trynna's Insane
+                        // Doj's Insane
+                        // Insane
+                        // osugame
+                        Music(2.5)
+                        OsuSong(personal = 6.0, community = 0.0)
+                    }
+                }
+            }
+
+            Contains("M-VGMDB-AL-30302-2")
         }
     }
 }

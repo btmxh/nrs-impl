@@ -296,12 +296,28 @@
             "DAH_entry_title": "Re:STAGE! ALL IDOL"
         }
     },
+    "A-MAL-35860": {
+        "id": "A-MAL-35860",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Karakai Jouzu no Takagi-san"
+        }
+    },
     "M-VGMDB-AL-78530-1": {
         "id": "M-VGMDB-AL-78530-1",
         "children": {
         },
         "DAH_meta": {
             "DAH_entry_title": "Do it!! PARTY!!"
+        }
+    },
+    "M-VGMDB-AL-78478-1": {
+        "id": "M-VGMDB-AL-78478-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "360° Hoshi no Orchestra"
         }
     },
     "M-VGMDB-AL-41280": {
@@ -840,6 +856,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+        }
+    },
+    "F-VGMDB-6418": {
+        "id": "F-VGMDB-6418",
+        "children": {
+            "A-MAL-36316": 1.0,
+            "M-VGMDB-AL-78478-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shichisei no Subaru"
         }
     },
     "M-VGMDB-AL-75344-2": {
@@ -1586,6 +1612,16 @@
             "DAH_entry_title": "cosMo@Bousou-P"
         }
     },
+    "M-VGMDB-AR-9797": {
+        "id": "M-VGMDB-AR-9797",
+        "children": {
+            "M-VGMDB-AL-78478": 0.4,
+            "M-VGMDB-AL-30302-2": 0.8
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Aoi Yuki"
+        }
+    },
     "A-MAL-18671": {
         "id": "A-MAL-18671",
         "children": {
@@ -2184,6 +2220,14 @@
             "DAH_entry_title": "Love Live! School Idol Project"
         }
     },
+    "A-MAL-36098": {
+        "id": "A-MAL-36098",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kimi no Suizou wo Tabetai"
+        }
+    },
     "M-VGMDB-AL-104957": {
         "id": "M-VGMDB-AL-104957",
         "children": {
@@ -2770,6 +2814,14 @@
             "DAH_entry_title": "Charlotte"
         }
     },
+    "A-MAL-36266": {
+        "id": "A-MAL-36266",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Mahou Shoujo Site"
+        }
+    },
     "M-VGMDB-AL-42961-6": {
         "id": "M-VGMDB-AL-42961-6",
         "children": {
@@ -2982,6 +3034,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Koko kara Saki wa Uta ni Naranai"
+        }
+    },
+    "A-MAL-36038": {
+        "id": "A-MAL-36038",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Net-juu no Susume"
         }
     },
     "F-VGMDB-7166": {
@@ -4233,6 +4293,14 @@
             "DAH_entry_title": "Uchiage Hanabi"
         }
     },
+    "A-MAL-36316": {
+        "id": "A-MAL-36316",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shichisei no Subaru"
+        }
+    },
     "A-MAL-34498": {
         "id": "A-MAL-34498",
         "children": {
@@ -5108,6 +5176,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Cherry Bomb"
+        }
+    },
+    "M-VGMDB-AL-78478": {
+        "id": "M-VGMDB-AL-78478",
+        "children": {
+            "M-VGMDB-AL-78478-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "360° Hoshi no Orchestra"
         }
     },
     "M-37": {

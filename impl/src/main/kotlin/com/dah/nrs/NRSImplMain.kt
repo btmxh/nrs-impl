@@ -212,8 +212,50 @@ fun main() =
         SoraYori()
         
         Entry {
-            id = "A-MAL-"
+            id = "A-MAL-35860"
+            title = "Karakai Jouzu no Takagi-san"
+
+            bestGirl = "Takagi"
+
+            // episodic ngl
+            Boredom(Boredom.Dropped)
         }
+
+        Entry {
+            id = "A-MAL-36038"
+            title = "Net-juu no Susume"
+
+            // lmfao
+            bestGirl = "Washing Machine"
+
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "A-MAL-36098"
+            title = "Kimi no Suizou wo Tabetai"
+
+            // facebook anime lmfao
+            bestGirl = "Yamauchi Sakura"
+
+            Boredom(Boredom.Completed)
+            AEI(1.0, Emotion.CU)
+        }
+
+        Entry {
+            id = "A-MAL-36266"
+            title = "Mahou Shoujo Site"
+
+            bestGirl = "Asagiri Aya"
+
+            // poor best girl
+            AEI(2.0, Emotion.CU)
+
+            // sad ending (i don't remember now lmfao)
+            AEI(5.0, Emotion.CU)
+        }
+
+        ShichiseiSubaru()
 
         ReStage()
         OnsenMusume()

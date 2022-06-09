@@ -535,6 +535,57 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-78478-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 2.5,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-78478-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.3,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "personal_factor": 0.3,
+            "personal_input": 6.0,
+            "community_factor": 0.0,
+            "type": "NONSTD_osu_song",
+            "community_input": 0.0
+        }
+    },
+    {
+        "contributors": {
             "M-MAL-36631-6": 1.0
         },
         "score": [
@@ -9608,6 +9659,218 @@
             "community_factor": 0.0,
             "type": "NONSTD_osu_song",
             "community_input": 0.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35860": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36038": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36098": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36098": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "input_score": 1.0,
+            "type": "aei",
+            "clamped_score": 1.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36266": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "input_score": 2.0,
+            "type": "aei",
+            "clamped_score": 2.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36266": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36316": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36316": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            2.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 1.0
+            },
+            "input_score": 1.0,
+            "type": "aei",
+            "clamped_score": 1.0
         }
     },
     {
