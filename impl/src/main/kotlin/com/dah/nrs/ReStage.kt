@@ -395,6 +395,7 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-86622")
                 Contains("M-VGMDB-AL-89363")
                 Contains("M-VGMDB-AL-104673-5")
+                Contains("M-58")
             }
         }
 
@@ -467,6 +468,7 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-78339")
                 Contains("M-VGMDB-AL-82983")
                 Contains("M-VGMDB-AL-104673-2")
+                Contains("M-59")
             }
         }
 
@@ -616,6 +618,23 @@ fun DSLScope.ReStage() {
             // catjam tho
 
             TrackMusic(2.0)
+        }
+
+        Entry {
+            id = "M-58"
+            title = "Ideal/Idol"
+            // inb4 the "i'd like to interject for a moment,
+            // what ur refering to as idol, is in fact ideal/idol..." pasta
+
+            TrackMusic(0.5)
+        }
+
+        Entry {
+            id = "M-59"
+            title = "Amaoto Fanfare"
+            // inb4 ortensia banger
+
+            TrackMusic(1.5)
         }
 
         Entry {
