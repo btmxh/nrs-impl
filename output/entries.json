@@ -2947,6 +2947,15 @@
             "DAH_entry_title": "Koko kara Saki wa Uta ni Naranai"
         }
     },
+    "F-VGMDB-7166": {
+        "id": "F-VGMDB-7166",
+        "children": {
+            "A-MAL-35790": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tate no Yuusha no Nariagari"
+        }
+    },
     "A-MAL-39547": {
         "id": "A-MAL-39547",
         "children": {
@@ -4232,6 +4241,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol"
+        }
+    },
+    "A-MAL-35790": {
+        "id": "A-MAL-35790",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tate no Yuusha no Nariagari"
         }
     },
     "A-MAL-32281": {

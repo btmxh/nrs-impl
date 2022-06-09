@@ -9352,6 +9352,85 @@
     },
     {
         "contributors": {
+            "A-MAL-35790": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35790": 1.0
+        },
+        "score": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedUnpleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "nei",
+            "clamped_score": 1.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-35790": 1.0
+        },
+        "score": [
+            0.0,
+            0.7093062067523819,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 6,
+            "strength": 0.5,
+            "meme_duration_value": 0.4728708045015879,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,

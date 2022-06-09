@@ -208,6 +208,8 @@ fun main() =
             NEI(2.0, Emotion.AP)
         }
 
+        TateYuusha()
+
         ReStage()
         OnsenMusume()
         LapisReLights()
