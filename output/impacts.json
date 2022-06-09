@@ -9431,6 +9431,31 @@
     },
     {
         "contributors": {
+            "A-MAL-40356": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,
@@ -12876,31 +12901,6 @@
     {
         "contributors": {
             "A-MAL-50265": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            -1.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "boredom_level": 2,
-            "type": "boredom",
-            "boredom_level_name": "Dropped"
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-40356": 1.0
         },
         "score": [
             0.0,

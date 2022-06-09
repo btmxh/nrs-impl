@@ -33,13 +33,6 @@ fun DSLScope.Spring2022() {
         KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.75)
     }
     Entry {
-        id = "A-MAL-40356"
-        title = "Tate no Yuusha no Nariagari Season 2"
-
-        Boredom(Boredom.Dropped)
-        KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
-    }
-    Entry {
         id = "A-MAL-50273"
         title = "Tomodachi Game"
 

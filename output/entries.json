@@ -2950,7 +2950,8 @@
     "F-VGMDB-7166": {
         "id": "F-VGMDB-7166",
         "children": {
-            "A-MAL-35790": 1.0
+            "A-MAL-35790": 1.0,
+            "A-MAL-40356": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "Tate no Yuusha no Nariagari"
