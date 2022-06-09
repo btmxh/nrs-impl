@@ -252,6 +252,16 @@ fun DSLScope.CommonArtists() {
                 Contains("M-7")
                 Contains("M-8")
             }
+
+            Entry {
+                id = "M-VGMDB-AL-77471"
+                title = "CheerS"
+
+                SubIDEntry("1") {
+                    Music(4.0)
+                    OsuSong(personal = 0.4, community = 0.0)
+                }
+            }
         }
     }
 

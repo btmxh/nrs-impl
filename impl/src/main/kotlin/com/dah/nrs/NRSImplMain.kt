@@ -257,6 +257,7 @@ fun main() =
 
         ShichiseiSubaru()
         Arifureta()
+        CellAtWork()
 
         ReStage()
         OnsenMusume()

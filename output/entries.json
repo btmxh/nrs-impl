@@ -723,6 +723,15 @@
             "DAH_entry_title": "Hanate! Dododon!"
         }
     },
+    "M-VGMDB-AL-77471": {
+        "id": "M-VGMDB-AL-77471",
+        "children": {
+            "M-VGMDB-AL-77471-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "CheerS"
+        }
+    },
     "M-VGMDB-AR-15998": {
         "id": "M-VGMDB-AR-15998",
         "children": {
@@ -2674,6 +2683,14 @@
             "DAH_entry_title": "Mahou Shoujo Madoka★Magica"
         }
     },
+    "A-MAL-37141": {
+        "id": "A-MAL-37141",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Hataraku Saibou"
+        }
+    },
     "M-VGMDB-AL-51276-2": {
         "id": "M-VGMDB-AL-51276-2",
         "children": {
@@ -3525,7 +3542,8 @@
             "M-VGMDB-AL-41292": 0.8,
             "M-VGMDB-AL-89431": 0.8,
             "M-7": 0.4,
-            "M-8": 0.4
+            "M-8": 0.4,
+            "M-VGMDB-AL-77471": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "ClariS"
@@ -4446,6 +4464,14 @@
             "DAH_entry_title": "Tate no Yuusha no Nariagari"
         }
     },
+    "M-VGMDB-AL-77471-1": {
+        "id": "M-VGMDB-AL-77471-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "CheerS"
+        }
+    },
     "A-MAL-32281": {
         "id": "A-MAL-32281",
         "children": {
@@ -4653,6 +4679,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Hello Alone"
+        }
+    },
+    "F-VGMDB-8677": {
+        "id": "F-VGMDB-8677",
+        "children": {
+            "A-MAL-37141": 1.0,
+            "M-VGMDB-AL-77471-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Hataraku Saibou"
         }
     },
     "A-MAL-44275": {

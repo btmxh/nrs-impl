@@ -49,6 +49,57 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-77471-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.2000000000000002,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 4.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-77471-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.02,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "personal_factor": 0.02,
+            "personal_input": 0.4,
+            "community_factor": 0.0,
+            "type": "NONSTD_osu_song",
+            "community_input": 0.0
+        }
+    },
+    {
+        "contributors": {
             "M-8": 1.0
         },
         "score": [
@@ -9975,6 +10026,31 @@
             "community_factor": 0.001,
             "type": "NONSTD_osu_song",
             "community_input": 0.05
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-37141": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
         }
     },
     {
