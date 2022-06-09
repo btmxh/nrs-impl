@@ -9875,6 +9875,110 @@
     },
     {
         "contributors": {
+            "A-MAL-36882": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-36882": 1.0
+        },
+        "score": [
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedUnpleasant": 1.0
+            },
+            "input_score": 2.5,
+            "type": "nei",
+            "clamped_score": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-86592-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.30000000000000004,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 1.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-86592-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.006,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "personal_factor": 0.005,
+            "personal_input": 0.1,
+            "community_factor": 0.001,
+            "type": "NONSTD_osu_song",
+            "community_input": 0.05
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,

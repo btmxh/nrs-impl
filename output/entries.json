@@ -1665,6 +1665,15 @@
             "DAH_entry_title": "Stella-rium"
         }
     },
+    "M-VGMDB-AL-86592": {
+        "id": "M-VGMDB-AL-86592",
+        "children": {
+            "M-VGMDB-AL-86592-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "FLARE"
+        }
+    },
     "A-MAL-21845": {
         "id": "A-MAL-21845",
         "children": {
@@ -3139,6 +3148,16 @@
             "DAH_entry_title": "Credens justitiam"
         }
     },
+    "F-VGMDB-6083": {
+        "id": "F-VGMDB-6083",
+        "children": {
+            "A-MAL-36882": 1.0,
+            "M-VGMDB-AL-86592-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Arifureta Shokugyou de Sekaisaikyou"
+        }
+    },
     "M-VGMDB-AL-51516": {
         "id": "M-VGMDB-AL-51516",
         "children": {
@@ -3300,6 +3319,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Lapis Re:LiGHTs"
+        }
+    },
+    "M-VGMDB-AL-86592-1": {
+        "id": "M-VGMDB-AL-86592-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "FLARE"
         }
     },
     "M-VGMDB-AL-53945": {
@@ -4401,6 +4428,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol"
+        }
+    },
+    "A-MAL-36882": {
+        "id": "A-MAL-36882",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Arifureta Shokugyou de Sekai Saikyou"
         }
     },
     "A-MAL-35790": {
