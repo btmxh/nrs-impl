@@ -259,6 +259,7 @@ fun main() =
         Arifureta()
         CellAtWork()
         BunnyGirlSenpai()
+        SthKara()
 
         ReStage()
         OnsenMusume()

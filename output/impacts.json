@@ -10132,6 +10132,84 @@
     },
     {
         "contributors": {
+            "A-MAL-37497": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-37497": 1.0
+        },
+        "score": [
+            0.0,
+            0.24622540721689745,
+            0.0,
+            0.0,
+            2.2160286649520766,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 0.9,
+                "ActivatedPleasant": 0.1
+            },
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-80341-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 5.0,
+            "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.405,
             "GF-VGMDB-7059": 0.045000000000000005,
             "A-MAL-27441": 0.1375,

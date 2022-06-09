@@ -192,6 +192,16 @@
             "DAH_entry_title": "KIZUNA MUSIC♪"
         }
     },
+    "F-VGMDB-6626": {
+        "id": "F-VGMDB-6626",
+        "children": {
+            "A-MAL-37497": 1.0,
+            "M-VGMDB-AL-80341-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Iroduku Sekai no Ashita kara"
+        }
+    },
     "A-MAL-11887": {
         "id": "A-MAL-11887",
         "children": {
@@ -491,6 +501,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
+        }
+    },
+    "M-VGMDB-AL-80341-1": {
+        "id": "M-VGMDB-AL-80341-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "17 Sai"
         }
     },
     "M-52": {
@@ -2627,6 +2645,14 @@
             "DAH_entry_title": "Y.O.L.O"
         }
     },
+    "A-MAL-37497": {
+        "id": "A-MAL-37497",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Iroduku Sekai no Ashita kara"
+        }
+    },
     "M-VGMDB-AL-76155-2": {
         "id": "M-VGMDB-AL-76155-2",
         "children": {
@@ -4613,6 +4639,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Toyama Nao"
+        }
+    },
+    "M-VGMDB-AL-80341": {
+        "id": "M-VGMDB-AL-80341",
+        "children": {
+            "M-VGMDB-AL-80341-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Seventeen"
         }
     },
     "M-VGMDB-AL-78764-1": {
