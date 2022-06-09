@@ -1760,6 +1760,7 @@
     "M-VGMDB-AR-32295": {
         "id": "M-VGMDB-AR-32295",
         "children": {
+            "M-VGMDB-AL-78253-1": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "765 MILLION ALLSTARS"

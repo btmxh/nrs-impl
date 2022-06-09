@@ -13,6 +13,10 @@ fun DSLScope.Idolmaster() {
         Entry {
             id = "M-VGMDB-AR-32295"
             title = "765 MILLION ALLSTARS"
+
+            Contains(ImageVocalContainFactor) {
+                Contains("M-VGMDB-AL-78253-1")
+            }
         }
 
         Entry {
