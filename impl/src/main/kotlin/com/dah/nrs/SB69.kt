@@ -363,6 +363,11 @@ fun DSLScope.SB69() {
                 // this was unranked all this time?????
                 // lmfao
                 Music(6.5)
+                
+                // there's no one who is cooler
+                // there's no one who's like him
+                // the one who shines like the sun
+                // forever shining is the method
             }
         }
 
