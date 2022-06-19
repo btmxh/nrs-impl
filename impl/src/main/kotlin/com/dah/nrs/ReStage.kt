@@ -147,6 +147,8 @@ fun DSLScope.ReStage() {
             // https://rst-project.com/event/event-1/
             // https://rst-project.com/event/event-1/
             // https://rst-project.com/event/event-1/
+            // rip "new unit" hypothesis is dead rip sadge
+            // but surely they'll debut in the second live stage thing right (clueless)
 
             // for rst shills <3: https://www.google.com/search?q=grass&tbm=isch
             bestGirl = "Shikimiya Mana" // aka the kano destroyer
@@ -595,31 +597,47 @@ fun DSLScope.ReStage() {
         // these new songs are "saved" for future use, therefore their
         // scores are not that high rn
         Entry {
-            id = "M-54"
+            id = "M-VGMDB-AL-120845"
             // https://linkco.re/5XDmDcHp
             title = "Sin City"
             // aka sussin city
 
-            TrackMusic(1.0)
+            SubIDEntry("1") {
+                TrackMusic(3.5)
+            }
         }
 
         Entry {
-            id = "M-55"
+            id = "M-VGMDB-AL-120844"
             // https://linkco.re/AM0HVHA5
             title = "Chiguhagu Melody"
             // aka mismatched melody
 
             // ty for going back based akari kito
-            TrackMusic(0.5)
+            SubIDEntry("1") {
+                TrackMusic(2.0)
+            }
         }
 
         Entry {
-            id = "M-56"
+            id = "M-VGMDB-AL-120842"
             // https://linkco.re/YShsnTEb
             title = "Unison Monologue"
             // aka the 330 bpm song but actually an alt-165 bpm one
 
-            TrackMusic(1.0)
+            SubIDEntry("1") {
+                TrackMusic(3.0)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-120836"
+            title = "Ginga no Shizuku"
+            // le gingachad seiyuu
+
+            SubIDEntry("1") {
+                TrackMusic(1.5)
+            }
         }
 
         Entry {
@@ -627,8 +645,14 @@ fun DSLScope.ReStage() {
             // not released yet
             title = "Clematis"
             // catjam tho
+            // no one's like the sun, as bright as the dawn (clap x2)
+            // brighter than the moon, brighter than the stars (clap x2)
+            // singing the hope, of tomorrow, of the future
+            // the legend will shine and we'll all rise
 
-            TrackMusic(2.0)
+//            SubIDEntry("1") {
+                TrackMusic(6.0)
+//            }
         }
 
         Entry {

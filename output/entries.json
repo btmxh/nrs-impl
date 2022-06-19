@@ -27,14 +27,6 @@
             "DAH_entry_title": "Just Believe!!!"
         }
     },
-    "M-56": {
-        "id": "M-56",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Unison Monologue"
-        }
-    },
     "M-VGMDB-AL-78575": {
         "id": "M-VGMDB-AL-78575",
         "children": {
@@ -42,14 +34,6 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Natsu no Yakusoku"
-        }
-    },
-    "M-55": {
-        "id": "M-55",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Chiguhagu Melody"
         }
     },
     "M-VGMDB-AL-42900-3": {
@@ -101,6 +85,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "＊Heart Confusion＊"
+        }
+    },
+    "M-VGMDB-AL-120836": {
+        "id": "M-VGMDB-AL-120836",
+        "children": {
+            "M-VGMDB-AL-120836-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ginga no Shizuku"
         }
     },
     "M-VGMDB-AL-41292": {
@@ -210,6 +203,14 @@
             "DAH_entry_title": "Kokoro Connect"
         }
     },
+    "M-VGMDB-AL-120836-1": {
+        "id": "M-VGMDB-AL-120836-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ginga no Shizuku"
+        }
+    },
     "M-47": {
         "id": "M-47",
         "children": {
@@ -280,6 +281,15 @@
             "DAH_entry_title": "Love Live! School Idol Project 2nd Season"
         }
     },
+    "M-VGMDB-AL-120842": {
+        "id": "M-VGMDB-AL-120842",
+        "children": {
+            "M-VGMDB-AL-120842-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Unison Monologue"
+        }
+    },
     "M-VGMDB-AR-8874": {
         "id": "M-VGMDB-AR-8874",
         "children": {
@@ -328,6 +338,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "360° Hoshi no Orchestra"
+        }
+    },
+    "M-VGMDB-AL-120844": {
+        "id": "M-VGMDB-AL-120844",
+        "children": {
+            "M-VGMDB-AL-120844-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Chiguhagu Melody"
+        }
+    },
+    "M-VGMDB-AL-120845": {
+        "id": "M-VGMDB-AL-120845",
+        "children": {
+            "M-VGMDB-AL-120845-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sin City"
         }
     },
     "M-VGMDB-AL-41280": {
@@ -468,14 +496,6 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Loop Shiteru/Asuiro Koi Moyou"
-        }
-    },
-    "M-54": {
-        "id": "M-54",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Sin City"
         }
     },
     "M-VGMDB-AL-20118": {
@@ -2036,6 +2056,14 @@
             "DAH_entry_title": "CiRCLiNG"
         }
     },
+    "M-VGMDB-AL-120844-1": {
+        "id": "M-VGMDB-AL-120844-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Chiguhagu Melody"
+        }
+    },
     "M-VGMDB-AL-51394-1": {
         "id": "M-VGMDB-AL-51394-1",
         "children": {
@@ -2380,6 +2408,14 @@
             "DAH_entry_title": "New Game!!"
         }
     },
+    "M-VGMDB-AL-120845-1": {
+        "id": "M-VGMDB-AL-120845-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sin City"
+        }
+    },
     "M-VGMDB-AL-91187-35": {
         "id": "M-VGMDB-AL-91187-35",
         "children": {
@@ -2607,6 +2643,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "How To Fly"
+        }
+    },
+    "M-VGMDB-AL-120842-1": {
+        "id": "M-VGMDB-AL-120842-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Unison Monologue"
         }
     },
     "A-MAL-30419": {
@@ -3280,9 +3324,10 @@
             "M-16": 1.0,
             "M-VGMDB-AL-109271-48": 1.0,
             "M-VGMDB-AL-104673": 1.0,
-            "M-54": 1.0,
-            "M-55": 1.0,
-            "M-56": 1.0,
+            "M-VGMDB-AL-120845": 1.0,
+            "M-VGMDB-AL-120844": 1.0,
+            "M-VGMDB-AL-120842": 1.0,
+            "M-VGMDB-AL-120836": 1.0,
             "M-57": 1.0,
             "M-58": 1.0,
             "M-59": 1.0,
