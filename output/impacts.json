@@ -10280,7 +10280,7 @@
         },
         "score": [
             0.0,
-            1.7533069411223692,
+            1.8128252384140608,
             0.0,
             0.0,
             0.0,
@@ -10294,9 +10294,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 14,
+            "meme_duration": 16,
             "strength": 1.0,
-            "meme_duration_value": 0.5844356470407898,
+            "meme_duration_value": 0.6042750794713536,
             "type": "meme"
         }
     },
@@ -11478,7 +11478,7 @@
     },
     {
         "contributors": {
-            "M-57": 1.0
+            "M-VGMDB-AL-121168-1": 1.0
         },
         "score": [
             0.0,
@@ -14255,7 +14255,7 @@
         },
         "score": [
             0.0,
-            2.5502854192043802,
+            2.558579139787005,
             0.0,
             0.0,
             0.0,
@@ -14269,9 +14269,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 153,
+            "meme_duration": 155,
             "strength": 0.8,
-            "meme_duration_value": 1.0626189246684916,
+            "meme_duration_value": 1.0660746415779188,
             "type": "meme"
         }
     }

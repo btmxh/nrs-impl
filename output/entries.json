@@ -7,14 +7,6 @@
             "DAH_entry_title": "Ideal/Idol"
         }
     },
-    "M-57": {
-        "id": "M-57",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Clematis"
-        }
-    },
     "M-VGMDB-AL-99272": {
         "id": "M-VGMDB-AL-99272",
         "children": {
@@ -969,6 +961,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "KiRaRhythm"
+        }
+    },
+    "M-VGMDB-AL-121168-1": {
+        "id": "M-VGMDB-AL-121168-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Clematis"
         }
     },
     "M-VGMDB-AL-78532": {
@@ -2445,6 +2445,15 @@
             "DAH_entry_title": "Kyukyukyun♡Heart Shaker"
         }
     },
+    "M-VGMDB-AL-121168": {
+        "id": "M-VGMDB-AL-121168",
+        "children": {
+            "M-VGMDB-AL-121168-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Clematis"
+        }
+    },
     "M-VGMDB-AL-51516-1": {
         "id": "M-VGMDB-AL-51516-1",
         "children": {
@@ -3328,7 +3337,7 @@
             "M-VGMDB-AL-120844": 1.0,
             "M-VGMDB-AL-120842": 1.0,
             "M-VGMDB-AL-120836": 1.0,
-            "M-57": 1.0,
+            "M-VGMDB-AL-121168": 1.0,
             "M-58": 1.0,
             "M-59": 1.0,
             "M-48": 1.0,

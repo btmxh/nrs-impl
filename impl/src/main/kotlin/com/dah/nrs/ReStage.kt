@@ -641,7 +641,7 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
-            id = "M-57"
+            id = "M-VGMDB-AL-121168"
             // not released yet
             title = "Clematis"
             // catjam tho
@@ -650,9 +650,9 @@ fun DSLScope.ReStage() {
             // singing the hope, of tomorrow, of the future
             // the legend will shine and we'll all rise
 
-//            SubIDEntry("1") {
+            SubIDEntry("1") {
                 TrackMusic(6.0)
-//            }
+            }
         }
 
         Entry {
