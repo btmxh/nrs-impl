@@ -490,7 +490,7 @@ fun DSLScope.CommonArtists() {
     }
 
     Entry {
-        id = "M-VGMDB-AR-"
+        id = "M-VGMDB-AR-11958"
         title = "Sawai Miku"
 
         Contains(ImageVocalContainFactor) {
@@ -733,7 +733,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-9797"
-        title = "Aoi Yuki"
+        title = "Yuki Aoi"
 
         Contains(ImageVocalContainFactor) {
             // petit milady
@@ -758,6 +758,37 @@ fun DSLScope.CommonArtists() {
             }
 
             Contains("M-VGMDB-AL-30302-2")
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-29249"
+        title = "Makino Amane"
+
+        // le gigachad seiyuu herself
+        // such a true sigma chad
+
+        // rst shit
+        Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
+
+        // we live in a society
+        // we live in a society
+        // we live in a society
+        // we live in a society
+        // we live in a society
+        // rst shills are truly on another level of stupidity
+        Contains(0.5) {
+            Entry {
+                id = "M-60"
+                title = "Cobalt Memories (Amane Makino ver.)"
+                // https://www.youtube.com/watch?v=_IWGubxbp1k
+
+                // rst shills when their dumb lore goes deeper than their gf's pussy
+
+                // her voice kinda fits with the song ngl
+                // new kano inc (jk)
+                Music(2.5)
+            }
         }
     }
 }

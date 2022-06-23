@@ -52,8 +52,10 @@ fun DSLScope.ReStage() {
 
     // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
     Meme(0.95, numDays("2021-11-20", "2022-01-10") + numDays("2022-03-10", "2022-06-03")) {
-        contributors["A-MAL-38009"] = 0.9
+        // time to nerf (fragment) rst boys
+        contributors["A-MAL-38009"] = 0.8
         contributors["GF-VGMDB-7059"] = 0.1
+        contributors["M-VGMDB-AR-29249"] = 0.01
     }
 
     // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
@@ -62,8 +64,9 @@ fun DSLScope.ReStage() {
         val sb69Contribution = 0.25
         val asuiroContribution = 0.05
 
-        contributors["A-MAL-38009"] = rstContribution * 0.9
+        contributors["A-MAL-38009"] = rstContribution * 0.8
         contributors["GF-VGMDB-7059"] = rstContribution * 0.1
+        contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
 
         contributors["A-MAL-27441"] = sb69Contribution * 0.25
         contributors["A-MAL-32038"] = sb69Contribution * 0.3
@@ -596,6 +599,7 @@ fun DSLScope.ReStage() {
         // 4th anniversary songs
         // these new songs are "saved" for future use, therefore their
         // scores are not that high rn
+        // (except for the absolute banger clematis)
         Entry {
             id = "M-VGMDB-AL-120845"
             // https://linkco.re/5XDmDcHp
@@ -642,13 +646,15 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-121168"
-            // not released yet
             title = "Clematis"
             // catjam tho
-            // no one's like the sun, as bright as the dawn (clap x2)
-            // brighter than the moon, brighter than the stars (clap x2)
+            // no one's like the "intelligent update", no one's like the king (clap x2)
+            // shining like the dawn, scared the whole high school (clap x2)
             // singing the hope, of tomorrow, of the future
             // the legend will shine and we'll all rise
+
+            // the numbers wtf
+            // https://www.youtube.com/watch?v=hj_4YAVmmuI
 
             SubIDEntry("1") {
                 TrackMusic(6.0)
