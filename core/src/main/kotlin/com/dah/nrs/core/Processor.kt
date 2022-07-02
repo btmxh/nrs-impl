@@ -2,6 +2,8 @@ package com.dah.nrs.core
 
 import kotlin.math.pow
 
+const val ChemistryBuffFactor = 0.8
+
 internal class MutableResult(
     val impacts: HashMap<Int, ScoreVector> = hashMapOf(),
     val relations: HashMap<Int, ScoreVector> = hashMapOf()
@@ -82,7 +84,7 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
     }
 
     private fun buffWeight(weight: Double): Double {
-        return weight.pow(0.25)
+        return weight.pow(ChemistryBuffFactor)
     }
 
     private fun warnNullEntry(id: ID) {

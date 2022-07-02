@@ -300,12 +300,21 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("2", "Kimi no Rhapsody") {
-                Music(1.0)
+                Music(2.0)
+                Remix("M-62")
             }
 
             SubIDEntry("3", "Masshiro Start Line") {
                 Music(5.0)
             }
+        }
+
+        Entry {
+            id = "M-62"
+            title = "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
+            // aka hoantinh theme song
+
+            Music(4.0)
         }
 
         Entry {
@@ -519,6 +528,7 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-104341-1", 0.5)
                 Contains("M-VGMDB-AL-104341-2", 1.0)
                 Contains("M-VGMDB-AL-104267-8", 1.0)
+                Contains("M-62", 0.5)
             }
         }
 

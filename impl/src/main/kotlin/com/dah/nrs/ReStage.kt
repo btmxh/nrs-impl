@@ -37,8 +37,8 @@ fun DSLScope.ReStage() {
 
     // rst-sb69 dse (Jan 10 - Mar 10, 2022)
     Meme(1.0, numDays("2022-01-10", "2022-03-10")) {
-        val rstContribution = 0.45
-        val sb69Contribution = 0.55
+        val rstContribution = 0.35
+        val sb69Contribution = 0.45
 
         contributors["A-MAL-38009"] = rstContribution * 0.9
         contributors["GF-VGMDB-7059"] = rstContribution * 0.1
@@ -48,25 +48,58 @@ fun DSLScope.ReStage() {
         contributors["A-MAL-40763"] = sb69Contribution * 0.1
         contributors["A-MAL-41520"] = sb69Contribution * 0.25
         contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+
+        // method
+        contributors["O-1"] = 0.2
     }
 
     // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
     Meme(0.95, numDays("2021-11-20", "2022-01-10") + numDays("2022-03-10", "2022-06-03")) {
         // time to nerf (fragment) rst boys
-        contributors["A-MAL-38009"] = 0.8
+        contributors["A-MAL-38009"] = 0.65
         contributors["GF-VGMDB-7059"] = 0.1
         contributors["M-VGMDB-AR-29249"] = 0.01
+
+        // method
+        contributors["O-1"] = 0.15
     }
 
     // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
+    // featuring modern vietnamese literature, esters, tien duc and more...
     Meme(1.0, numDays("2022-06-03")) {
         val rstContribution = 0.7
-        val sb69Contribution = 0.25
-        val asuiroContribution = 0.05
+        val sb69Contribution = 0.1
+        val mvlContribution = 0.2
+
+        val asuiroContribution = mvlContribution * 0.5
+        val vcapAnalogyContribution = mvlContribution * 0.2
+        val ctnxAnalogyContribution = mvlContribution * 0.2
+        val nldsdAnalogyContribution = mvlContribution * 0.1
+
+        val loveLiveContribution = nldsdAnalogyContribution * 0.5
+        contributors["O-2"] = nldsdAnalogyContribution * 0.5
+        contributors["A-MAL-40879"] = loveLiveContribution * 0.25
+        contributors["A-MAL-48916"] = loveLiveContribution * 0.35
+        contributors["A-MAL-15051"] = loveLiveContribution * 0.05
+        contributors["A-MAL-19111"] = loveLiveContribution * 0.05
+        contributors["A-MAL-32526"] = loveLiveContribution * 0.05
+        contributors["A-MAL-34973"] = loveLiveContribution * 0.05
+        contributors["A-MAL-41169"] = loveLiveContribution * 0.05
+        contributors["A-MAL-50203"] = loveLiveContribution * 0.05
+        contributors["A-MAL-24997"] = loveLiveContribution * 0.05
+        contributors["A-MAL-37027"] = loveLiveContribution * 0.05
+
+        val spyXFamilyContribution = ctnxAnalogyContribution * 0.25
+        contributors["O-4"] = ctnxAnalogyContribution * 0.5
+        contributors["A-MAL-50265"] = spyXFamilyContribution
+
+        contributors["O-3"] = vcapAnalogyContribution * 0.6
+//        contributors["_kotachi_"] = vcapAnalogyContribution * 0.2
 
         contributors["A-MAL-38009"] = rstContribution * 0.8
         contributors["GF-VGMDB-7059"] = rstContribution * 0.1
         contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
+        contributors["M-VGMDB-AR-26898"] = rstContribution * 0.005 + vcapAnalogyContribution * 0.2
 
         contributors["A-MAL-27441"] = sb69Contribution * 0.25
         contributors["A-MAL-32038"] = sb69Contribution * 0.3
@@ -92,7 +125,6 @@ fun DSLScope.ReStage() {
     Entry {
         id = "F-VGMDB-7059"
         title = "Re:STAGE!"
-
 
         Entry {
             id = "A-MAL-38009"
@@ -152,6 +184,9 @@ fun DSLScope.ReStage() {
             // https://rst-project.com/event/event-1/
             // rip "new unit" hypothesis is dead rip sadge
             // but surely they'll debut in the second live stage thing right (clueless)
+
+            // go to pop up shop now
+            // https://srgym.official.ec/p/00001
 
             // for rst shills <3: https://www.google.com/search?q=grass&tbm=isch
             bestGirl = "Shikimiya Mana" // aka the kano destroyer

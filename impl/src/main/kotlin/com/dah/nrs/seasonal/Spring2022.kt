@@ -36,7 +36,7 @@ fun DSLScope.Spring2022() {
         id = "A-MAL-50273"
         title = "Tomodachi Game"
 
-        Boredom(Boredom.Watching)
+        Boredom(Boredom.Completed)
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)
 
         // nice plot desu

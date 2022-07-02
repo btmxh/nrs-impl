@@ -8,15 +8,17 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import com.dah.nrs.meme.MVLiterature
 import com.dah.nrs.meme.Method
 import com.dah.nrs.seasonal.Spring2022
 
 // custom id counters:
-// M-61
+// M-62
 // A-1
 // L-1
 // G-1
 // F-1
+// O-5
 
 fun main() =
     generate {
@@ -279,5 +281,6 @@ fun main() =
         Spring2022()
         WakeUpGirls()
         Method()
+        MVLiterature()
     }.run {}
 

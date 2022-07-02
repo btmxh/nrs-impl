@@ -203,6 +203,14 @@
             "DAH_entry_title": "Kokoro Connect"
         }
     },
+    "M-62": {
+        "id": "M-62",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
+        }
+    },
     "M-VGMDB-AL-120836-1": {
         "id": "M-VGMDB-AL-120836-1",
         "children": {
@@ -3155,7 +3163,23 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "VMO 2022 Era"
+            "DAH_entry_title": "Kizuna Method"
+        }
+    },
+    "O-3": {
+        "id": "O-3",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Vợ chồng A Phủ"
+        }
+    },
+    "O-2": {
+        "id": "O-2",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Người lái đò Sông Đà"
         }
     },
     "M-VGMDB-AL-111089-5": {
@@ -3182,6 +3206,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tate no Yuusha no Nariagari"
+        }
+    },
+    "O-4": {
+        "id": "O-4",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Chiếc thuyền ngoài xa"
         }
     },
     "A-MAL-39547": {
@@ -5121,7 +5153,8 @@
             "M-VGMDB-AL-93441": 0.8,
             "M-VGMDB-AL-104341-1": 0.4,
             "M-VGMDB-AL-104341-2": 0.8,
-            "M-VGMDB-AL-104267-8": 0.8
+            "M-VGMDB-AL-104267-8": 0.8,
+            "M-62": 0.4
         },
         "DAH_meta": {
             "DAH_entry_title": "Mashumairesh!!"
@@ -5290,6 +5323,7 @@
             "M-VGMDB-AL-61981": 1.0,
             "M-VGMDB-AL-59914": 1.0,
             "M-VGMDB-AL-93440": 1.0,
+            "M-62": 1.0,
             "M-VGMDB-AL-93441": 1.0,
             "M-VGMDB-AL-104341": 1.0,
             "M-VGMDB-AL-104266": 1.0,

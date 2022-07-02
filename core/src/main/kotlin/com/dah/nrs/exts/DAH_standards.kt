@@ -22,8 +22,6 @@ class DAH_standards(builder: NRSContextBuilder): Extension(builder) {
     }
 }
 
-const val ChemistryBuffFactor = 0.25
-
 data class Level(val index: Int, val name: String, val value: Double)
 
 val Boredom.Completed
