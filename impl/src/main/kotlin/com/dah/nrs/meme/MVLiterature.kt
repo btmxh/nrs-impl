@@ -49,5 +49,13 @@ fun DSLScope.MVLiterature() {
         // And then "Asuiro Clear Sky" (i found this while searching for Asuiro Koi Moyou)
         // became the "theme song" of this.
         // FYI: Asuiro Clear Sky is a song from Hololive IDOL PROJECT
+
+        // le boat analogy is canon poggers
+        // A certified "Mũi thuyền in một nét mơ hồ lòe nhòe vào bầu sương mù trắng như
+        // sữa có pha đôi chút màu hồng hồng do ánh mặt trời chiếu vào" moment
+
+        // 今日、2021年7月7日、ベトナムでは卒業試験です。昨日、この人、キッドのような名前は
+        // 「国語はChiếc thuyền ngoài xaと思います」ってフェスブックで言ったことがあります。
+        // 2年前、この人も2回正しい卒業試験の国語の答えを行った、
     }
 }
