@@ -9396,6 +9396,31 @@
     },
     {
         "contributors": {
+            "A-MAL-51096": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-35639": 1.0
         },
         "score": [
@@ -10347,7 +10372,7 @@
         },
         "score": [
             0.0,
-            2.103417305511626,
+            2.2355087507516727,
             0.0,
             0.0,
             0.0,
@@ -10361,9 +10386,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 29,
+            "meme_duration": 37,
             "strength": 1.0,
-            "meme_duration_value": 0.7011391018372086,
+            "meme_duration_value": 0.745169583583891,
             "type": "meme"
         }
     },
@@ -14313,6 +14338,156 @@
         "DAH_meta": {
             "input_score": 6.0,
             "type": "NONSTD_music"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-50760": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-41589": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-50917": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-49470": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38006": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-50999": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
         }
     }
 ]

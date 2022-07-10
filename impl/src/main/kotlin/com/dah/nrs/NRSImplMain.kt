@@ -11,6 +11,7 @@ import com.dah.nrs.exts.*
 import com.dah.nrs.meme.MVLiterature
 import com.dah.nrs.meme.Method
 import com.dah.nrs.seasonal.Spring2022
+import com.dah.nrs.seasonal.Summer2022
 
 // custom id counters:
 // M-62
@@ -190,16 +191,7 @@ fun main() =
             Boredom(Boredom.TempOnHold)
         }
 
-        Entry {
-            id = "A-MAL-35507"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
-
-            bestGirl = "Horikita Suzune"
-            Boredom(Boredom.Completed)
-            // plot pretty good
-            AEI(5.0, Emotion.AP)
-        }
-
+        COTE()
         JustBecause()
 
         Entry {
@@ -282,5 +274,7 @@ fun main() =
         WakeUpGirls()
         Method()
         MVLiterature()
+
+        Summer2022()
     }.run {}
 
