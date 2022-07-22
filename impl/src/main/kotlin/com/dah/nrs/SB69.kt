@@ -486,8 +486,26 @@ fun DSLScope.SB69() {
 
                 // Và cùng nhau ta sẽ thắp sáng ước mơ
                 // And together we will [shine our dreams] (lmfao rst song comp diff name)
+            }
+        }
+        
+        // adding these songs to increase Murakawa Rie and Hidaka Rina's score lol
+        // (i can't accept ayumu va to be higher than rina hidaka lol)
+        Entry {
+            id = "M-VGMDB-AL-95313"
+            title = "How Are You?"
 
+            SubIDEntry("1") {
+                Music(6.0)
+            }
+        }
 
+        Entry {
+            id = "M-VGMDB-AL-95314"
+            title = "Happy Happy Jump"
+
+            SubIDEntry("1") {
+                Music(5.0)
             }
         }
 
@@ -552,7 +570,6 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-61982")
                 Contains("M-VGMDB-AL-105612")
                 Contains("M-VGMDB-AL-86315-3")
-                Contains("M-VGMDB-AL-76155")
             }
         }
     }

@@ -1293,6 +1293,7 @@
         "id": "M-VGMDB-AR-14761",
         "children": {
             "M-VGMDB-AL-76155-2": 0.25,
+            "M-VGMDB-AL-95313": 0.8,
             "M-23": 0.2,
             "M-VGMDB-AL-45361-1": 0.8
         },
@@ -1991,6 +1992,14 @@
             "DAH_entry_title": "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino"
         }
     },
+    "M-VGMDB-AL-95314-1": {
+        "id": "M-VGMDB-AL-95314-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Happy Happy Jump"
+        }
+    },
     "M-VGMDB-AL-47402-1": {
         "id": "M-VGMDB-AL-47402-1",
         "children": {
@@ -2102,6 +2111,7 @@
         "id": "M-VGMDB-AR-8480",
         "children": {
             "M-VGMDB-AL-76155-2": 0.25,
+            "M-VGMDB-AL-95314": 0.8,
             "M-23": 0.2
         },
         "DAH_meta": {
@@ -2918,6 +2928,14 @@
             "DAH_entry_title": "Show by Rock!! Stars!!"
         }
     },
+    "M-VGMDB-AL-95313-1": {
+        "id": "M-VGMDB-AL-95313-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "How Are You?"
+        }
+    },
     "M-VGMDB-AL-93299": {
         "id": "M-VGMDB-AL-93299",
         "children": {
@@ -3586,6 +3604,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+        }
+    },
+    "M-VGMDB-AL-95314": {
+        "id": "M-VGMDB-AL-95314",
+        "children": {
+            "M-VGMDB-AL-95314-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Happy Happy Jump"
+        }
+    },
+    "M-VGMDB-AL-95313": {
+        "id": "M-VGMDB-AL-95313",
+        "children": {
+            "M-VGMDB-AL-95313-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "How Are You?"
         }
     },
     "M-VGMDB-AR-16166": {
@@ -5492,6 +5528,8 @@
             "M-VGMDB-AL-105612": 1.0,
             "M-VGMDB-AL-86315-3": 1.0,
             "M-VGMDB-AL-76155": 1.0,
+            "M-VGMDB-AL-95313": 1.0,
+            "M-VGMDB-AL-95314": 1.0,
             "M-18": 1.0,
             "M-19": 1.0,
             "M-20": 1.0,
@@ -5864,8 +5902,7 @@
             "M-VGMDB-AL-104266-6": 0.8,
             "M-VGMDB-AL-61982": 0.8,
             "M-VGMDB-AL-105612": 0.8,
-            "M-VGMDB-AL-86315-3": 0.8,
-            "M-VGMDB-AL-76155": 0.8
+            "M-VGMDB-AL-86315-3": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "Criticrista"
