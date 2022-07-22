@@ -791,4 +791,33 @@ fun DSLScope.CommonArtists() {
             }
         }
     }
+    
+    // if you think amanero being ranked is bad already
+    // lol clueless
+
+    // say goodbye to your sanity
+    Entry {
+        id = "M-VGMDB-AR-8480"
+        title = "Hidaka Rina"
+
+        Contains("M-VGMDB-AL-76155-2", 0.25)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-23", 0.25)
+            // additional 0.25 because this is sung by 2 member only
+            // (not the whole cricri unit)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-14761"
+        title = "Murakawa Rie"
+
+        Contains("M-VGMDB-AL-76155-2", 0.25)
+        Contains(ImageVocalContainFactor) {
+            Contains("M-23", 0.25)
+            // additional 0.25 because this is sung by 2 member only
+            // (not the whole cricri unit)
+            Contains("M-VGMDB-AL-45361-1")
+        }
+    }
 }

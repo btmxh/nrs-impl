@@ -466,6 +466,7 @@ fun DSLScope.SB69() {
 
                 // the "ai kotoba iii" of rst-sb69
                 // which marks the continuation of the duopoly era
+                // ^ clueless mfs
 
                 Music(8.0)
 

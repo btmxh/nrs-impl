@@ -1289,6 +1289,17 @@
             "DAH_entry_title": "Akogare Future Sign"
         }
     },
+    "M-VGMDB-AR-14761": {
+        "id": "M-VGMDB-AR-14761",
+        "children": {
+            "M-VGMDB-AL-76155-2": 0.25,
+            "M-23": 0.2,
+            "M-VGMDB-AL-45361-1": 0.8
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Murakawa Rie"
+        }
+    },
     "M-VGMDB-AL-105612-1": {
         "id": "M-VGMDB-AL-105612-1",
         "children": {
@@ -2085,6 +2096,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "CiRCLiNG"
+        }
+    },
+    "M-VGMDB-AR-8480": {
+        "id": "M-VGMDB-AR-8480",
+        "children": {
+            "M-VGMDB-AL-76155-2": 0.25,
+            "M-23": 0.2
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Hidaka Rina"
         }
     },
     "M-VGMDB-AL-120844-1": {
