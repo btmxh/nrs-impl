@@ -274,6 +274,20 @@ fun main() =
         WakeUpGirls()
         Method()
         MVLiterature()
+        Atelier()
+
+        Entry {
+            id = "A-MAL-35589"
+            title = "Toji no Miko"
+
+            bestGirl = "Tagitsuhime"
+            // i hate my life
+
+            Boredom(Boredom.Completed)
+
+            // decent plot ngl
+            NEI(8.0, Emotion.AP)
+        }
 
         Summer2022()
     }.run {}

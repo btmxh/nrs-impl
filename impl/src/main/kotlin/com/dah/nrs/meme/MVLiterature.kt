@@ -58,4 +58,14 @@ fun DSLScope.MVLiterature() {
         // 「国語はChiếc thuyền ngoài xaと思います」ってフェスブックで言ったことがあります。
         // 2年前、この人も2回正しい卒業試験の国語の答えを行った、
     }
+
+    Entry {
+        id = "M-VGMDB-AL-111027"
+        title = "Bouquet"
+
+        SubIDEntry("10", "Asuiro ClearSky") {
+            // asuiro koi moyou and its consequences
+            Music(6.5)
+        }
+    }
 }

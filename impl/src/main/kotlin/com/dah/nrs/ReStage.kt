@@ -67,14 +67,14 @@ fun DSLScope.ReStage() {
     // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
     // featuring modern vietnamese literature, esters, tien duc and more...
     Meme(1.0, numDays("2022-06-03")) {
-        val rstContribution = 0.7
-        val sb69Contribution = 0.1
-        val mvlContribution = 0.2
+        val rstContribution = 0.4
+        val sb69Contribution = 0.2
+        val asuiroContribution = 0.3
+        val mvlContribution = 0.1
 
-        val asuiroContribution = mvlContribution * 0.5
-        val vcapAnalogyContribution = mvlContribution * 0.2
-        val ctnxAnalogyContribution = mvlContribution * 0.2
-        val nldsdAnalogyContribution = mvlContribution * 0.1
+        val vcapAnalogyContribution = mvlContribution * 0.4
+        val ctnxAnalogyContribution = mvlContribution * 0.4
+        val nldsdAnalogyContribution = mvlContribution * 0.2
 
         val loveLiveContribution = nldsdAnalogyContribution * 0.5
         contributors["O-2"] = nldsdAnalogyContribution * 0.5
@@ -89,9 +89,9 @@ fun DSLScope.ReStage() {
         contributors["A-MAL-24997"] = loveLiveContribution * 0.05
         contributors["A-MAL-37027"] = loveLiveContribution * 0.05
 
-        val spyXFamilyContribution = ctnxAnalogyContribution * 0.25
         contributors["O-4"] = ctnxAnalogyContribution * 0.5
-        contributors["A-MAL-50265"] = spyXFamilyContribution
+        contributors["A-MAL-50265"] = ctnxAnalogyContribution * 0.25
+        contributors["M-VGMDB-AL-111027-10"] = ctnxAnalogyContribution * 0.25
 
         contributors["O-3"] = vcapAnalogyContribution * 0.6
 //        contributors["_kotachi_"] = vcapAnalogyContribution * 0.2

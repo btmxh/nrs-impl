@@ -2787,6 +2787,15 @@
             "DAH_entry_title": "Kono Bijutsubu ni wa Mondai ga Aru!"
         }
     },
+    "M-VGMDB-AL-111027": {
+        "id": "M-VGMDB-AL-111027",
+        "children": {
+            "M-VGMDB-AL-111027-10": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Bouquet"
+        }
+    },
     "A-MAL-31953": {
         "id": "A-MAL-31953",
         "children": {
@@ -2970,6 +2979,14 @@
             "DAH_entry_title": "Heart wo Rock!!"
         }
     },
+    "M-VGMDB-AL-45361-1": {
+        "id": "M-VGMDB-AL-45361-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Asuiro"
+        }
+    },
     "A-MAL-12175": {
         "id": "A-MAL-12175",
         "children": {
@@ -3008,6 +3025,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mary Mary (album ver.)"
+        }
+    },
+    "G-VGMDB-3499": {
+        "id": "G-VGMDB-3499",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Atelier Sophie ~The Alchemist of the Mysterious Book~"
         }
     },
     "M-VGMDB-AL-42961-9": {
@@ -4058,6 +4083,14 @@
             "DAH_entry_title": "NAGI NO ASUKARA CHARACTER SONG 3"
         }
     },
+    "M-VGMDB-AL-111027-10": {
+        "id": "M-VGMDB-AL-111027-10",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Asuiro ClearSky"
+        }
+    },
     "M-VGMDB-AL-34269-12": {
         "id": "M-VGMDB-AL-34269-12",
         "children": {
@@ -4367,6 +4400,14 @@
             "DAH_entry_title": "Mimori Suzuko"
         }
     },
+    "A-MAL-21167": {
+        "id": "A-MAL-21167",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"
+        }
+    },
     "A-MAL-23587": {
         "id": "A-MAL-23587",
         "children": {
@@ -4424,6 +4465,17 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Akogare Future Sign (Piano Strings Arrange)"
+        }
+    },
+    "F-VGMDB-694": {
+        "id": "F-VGMDB-694",
+        "children": {
+            "A-MAL-21167": 1.0,
+            "M-VGMDB-AL-45361": 1.0,
+            "G-VGMDB-3499": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Atelier"
         }
     },
     "M-VGMDB-AR-26954": {
@@ -4579,6 +4631,15 @@
             "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo"
         }
     },
+    "M-VGMDB-AL-45361": {
+        "id": "M-VGMDB-AL-45361",
+        "children": {
+            "M-VGMDB-AL-45361-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Atelier Escha & Logy ~Alchemist of Dusk Sky~ Original Soundtrack the Animation"
+        }
+    },
     "M-VGMDB-AL-51706": {
         "id": "M-VGMDB-AL-51706",
         "children": {
@@ -4603,6 +4664,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shichisei no Subaru"
+        }
+    },
+    "A-MAL-35589": {
+        "id": "A-MAL-35589",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Toji no Miko"
         }
     },
     "A-MAL-34498": {
