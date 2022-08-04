@@ -4,9 +4,9 @@ import com.dah.nrs.core.*
 
 class DAH_factors(builder: NRSContextBuilder) : Extension(builder) {
     init {
-        builder.factorCount = 13
+        builder.factorCount = 11
         builder.combineVector = builder.vector {
-            listOf(Emotion, Art, Information, Boredom, Additional)
+            listOf(Emotion, Art, Boredom, Additional)
                 .flatMap { it.factors }
                 .forEach { set(it, it.weight) }
         }
@@ -68,15 +68,7 @@ object Art : SubscoreImpl(0.4) {
     override val factors = listOf(L, I, M)
 }
 
-object Information : SubscoreImpl(0.5) {
-    open class Factor(weight: Double, vectorIndex: Int) : FactorScoreImpl(weight, vectorIndex)
-    object Politics : Factor(0.7, 9)
-    object GeneralInfo : Factor(0.5, 10)
-
-    override val factors = listOf(Politics, GeneralInfo)
-}
-
-object Boredom : OneFactorSubscore(11, 0.0)
-object Additional : OneFactorSubscore(12)
+object Boredom : OneFactorSubscore(9, 0.0)
+object Additional : OneFactorSubscore(10)
 
 fun VectorBlock.set(factorScore: FactorScore, score: Double) = set(factorScore.vectorIndex, score)

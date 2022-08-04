@@ -64,88 +64,6 @@ fun DSLScope.ReStage() {
         contributors["O-1"] = 0.15
     }
 
-    // "
-    // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
-    // featuring modern vietnamese literature, esters, tien duc and more...
-    // " - clueless mf doesn't know about the song
-
-    // Asuiro Koi Moyou era
-    // AKM is basically the "child" of rst and sb69,
-    // inheritting rst's love and sb69's catjam af music
-    Meme(1.0, numDays("2022-06-03")) {
-        val rstContribution = 0.2
-        val sb69Contribution = 0.2
-        val asuiroContribution = 0.6
-
-        // before the graduation exam, this somewhat was meta
-        // after the exam ends and i (probably) won't have to
-        // touch this subject ever again, it died
-        val mvlContribution = asuiroContribution * 0.2
-        val vcapAnalogyContribution = mvlContribution * 0.4
-        val ctnxAnalogyContribution = mvlContribution * 0.4
-        val nldsdAnalogyContribution = mvlContribution * 0.2
-
-        val loveLiveContribution = nldsdAnalogyContribution * 0.5
-        contributors["O-2"] = nldsdAnalogyContribution * 0.5
-        contributors["A-MAL-40879"] = loveLiveContribution * 0.25
-        contributors["A-MAL-48916"] = loveLiveContribution * 0.35
-        contributors["A-MAL-15051"] = loveLiveContribution * 0.05
-        contributors["A-MAL-19111"] = loveLiveContribution * 0.05
-        contributors["A-MAL-32526"] = loveLiveContribution * 0.05
-        contributors["A-MAL-34973"] = loveLiveContribution * 0.05
-        contributors["A-MAL-41169"] = loveLiveContribution * 0.05
-        contributors["A-MAL-50203"] = loveLiveContribution * 0.05
-        contributors["A-MAL-24997"] = loveLiveContribution * 0.05
-        contributors["A-MAL-37027"] = loveLiveContribution * 0.05
-
-        contributors["O-4"] = ctnxAnalogyContribution * 0.5
-        contributors["A-MAL-50265"] = ctnxAnalogyContribution * 0.25
-        contributors["M-VGMDB-AL-111027-10"] = ctnxAnalogyContribution * 0.25
-
-        contributors["O-3"] = vcapAnalogyContribution * 0.6
-//        contributors["_kotachi_"] = vcapAnalogyContribution * 0.2
-
-        // july then comes with a bunch of new seasonal anime,
-        // and some of them were infused with akm shit such as:
-        // - classroom of the elite: a girl with same VA as rosia
-        // was declared "potential waifu"
-        // - something motokano something: another girl with same
-        // VA as rosia
-        // - atelier (not seasonal): have OP named "asuiro" and
-        // sang by the VA of jacklyn, who also was the VA for the
-        // main girl
-        // (and then i downloaded the game lol XDDDDDDDDDDDDD)
-        // - toji no miko (not seasonal): main antagonist has the
-        // same VA as rosia
-        // etc. (btw for somewhateverreason, all of these girls
-        // VA'd by these two seiyuus have great waifu material
-        // ngl)
-        // all of them didn't contribute much meme shit tho
-        // p/s: i wanna kms
-
-        contributors["A-MAL-38009"] = rstContribution * 0.8
-        contributors["GF-VGMDB-7059"] = rstContribution * 0.1
-        // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
-        contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
-        // the akari kito analogy lol
-        contributors["M-VGMDB-AR-26898"] = rstContribution * 0.005 + vcapAnalogyContribution * 0.2
-
-        contributors["A-MAL-27441"] = sb69Contribution * 0.25
-        contributors["A-MAL-32038"] = sb69Contribution * 0.3
-        contributors["A-MAL-40763"] = sb69Contribution * 0.1
-        contributors["A-MAL-41520"] = sb69Contribution * 0.25
-        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
-
-        contributors["M-VGMDB-AR-8480"] = asuiroContribution * 0.12
-        contributors["M-VGMDB-AR-14761"] = asuiroContribution * 0.08
-        contributors["M-VGMDB-AL-76155-2"] = asuiroContribution * 0.6
-
-        // all of this shit basically spits on all other anime
-        // that was unable to be meta'd for longer than a month
-        // while literally a song not even 5 minutes was able
-        // to turn modern culture into the shittiest hellhole ever.
-    }
-
     // overture: shelter incident
     AEI(5.0, Emotion.CP) {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
@@ -546,6 +464,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             // cri-cri of rst
+            // not even close tho
             id = "M-13"
             title = "ortensia"
 
@@ -763,7 +682,7 @@ fun DSLScope.ReStage() {
 
         // Entry {
         //     id = ""
-        //     title = "Reboot"
+        //     title = "Re:Stage! Prism Step Concept Album: Reboot"
         //     // pre-register the new album now
         //     // https://twitter.com/rst_project/status/1550075801852588032
         // }

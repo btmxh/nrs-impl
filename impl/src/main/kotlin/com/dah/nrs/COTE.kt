@@ -29,7 +29,9 @@ fun DSLScope.COTE() {
             Boredom(Boredom.Watching)
 
             // plot will be good
-//            AEI(5.0, Emotion.AP)
+            AEI(1.0, Emotion.AP)
+            KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
+            KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
         }
     }
 }

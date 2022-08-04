@@ -10,7 +10,7 @@ class EntryResult(context: NRSContext, val impacts: Map<Int, ScoreVector>, val r
 
     val DAH_overall_score_overallScore by lazy {
         context.DAH_overall_score.ifEnabled {
-            listOf(Emotion, Art, Information, Boredom, Additional)
+            listOf(Emotion, Art, Boredom, Additional)
                 .sumOf { combine(it.factors.map { factor -> overallVector[factor.vectorIndex] }, it.weight) }
         }
     }

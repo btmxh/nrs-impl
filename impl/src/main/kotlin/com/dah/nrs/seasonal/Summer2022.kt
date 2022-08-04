@@ -4,7 +4,7 @@ import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 fun DSLScope.Summer2022() {
-    // welcome to summer 2022, where everything is either a rst-sb69 reference or a
+    // welcome to summer 2022, where everything is either an AKM reference or a
     // disguised idol anime.
     // at least the "dropped" rate will be lower than spring i think. (because idol)
 
@@ -16,7 +16,8 @@ fun DSLScope.Summer2022() {
 
         // art has some flaws, but whatever
         Boredom(Boredom.Watching)
-        KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.25)
+        KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
     }
 
     Entry {
@@ -29,7 +30,8 @@ fun DSLScope.Summer2022() {
         // art is "interesting" ngl
         // (basically it was somewhat decent while having 2002 character designs)
         Boredom(Boredom.Watching)
-        KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.25)
+        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
 
     Entry {
@@ -37,11 +39,18 @@ fun DSLScope.Summer2022() {
         title = "Prima Doll"
         // the "fuck u setsuna yuki" and "akari kito pls come back" anime
         // yep, ep 1 was ruined because of that bullcrap
+        // yep, the whole anime was ruined because of that girl
 
         bestGirl = "Okumiya Otome"
         // ichijou ruka my beloved
         Boredom(Boredom.Watching)
-        KilledBy("F-VGMDB-7059", potential = 0.75, effect = 0.8)
+
+        // well this is not killed by AKM and SB69, it's more like
+        // kusunoki tomori ruined the anime
+        NEI(-1.0, Emotion.AU)
+
+        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
 
     Entry {
@@ -59,9 +68,10 @@ fun DSLScope.Summer2022() {
         bestGirl = "Irido Yume"
         // self-explanatory
 
-        // still shit anime anyway
+        // still shit anime anyways
         Boredom(Boredom.Watching)
-        KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.1)
+        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
 
     Entry {
@@ -70,10 +80,13 @@ fun DSLScope.Summer2022() {
 
         // mc is cute
         // ngl this is a treat for our eyes
-        bestGirl = "Robertson Virginia"
+//        bestGirl = "Robertson Virginia"
+        bestGirl = "Shibuya Inori"
+        // inori is cuter fuck u
 
         Boredom(Boredom.Watching)
-        KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.25)
+        KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
     }
 
     Entry {
@@ -87,8 +100,12 @@ fun DSLScope.Summer2022() {
         // is this an ortensia incident reference????????????????????????
         // (more '?' than teppen let's go)
 
+        // > love live VA's
+        // https://www.google.com/search?q=trolldespair
+
         Boredom(Boredom.Watching)
-        KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.25)
+        KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
     }
 
 }

@@ -6,13 +6,18 @@ import com.dah.nrs.exts.*
 fun DSLScope.Atelier() {
     // Asuiro Koi Moyou and its consequences have been a disaster for our modern culture
     Entry {
+        // fuck this shit
+        // https://atelier.fandom.com/wiki/Miruca_Crotze
+        // https://atelier.fandom.com/wiki/Escha_Malier
+        // https://atelier.fandom.com/wiki/Luis_Bester
+
         id = "F-VGMDB-694"
         title = "Atelier"
 
         Entry {
             id = "A-MAL-21167"
             title = "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"
-            
+
             bestGirl = "Malier Escha"
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
@@ -51,10 +56,19 @@ fun DSLScope.Atelier() {
         Entry {
             // i started the game oops
             id = "G-VGMDB-3499"
-            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~"
+            title = "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~"
 
-            // or Romaji name idk
-            // title = "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~"
+            // Romaji name is canon
+//            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~"
+
+            bestGirl = "Wise Spirit"
+            // "sach cho" my beloved
+        }
+
+        Entry {
+            id = "G-VGMDB-1090"
+            title = "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi"
+            // "not even at the start line"
         }
     }
 }

@@ -3071,7 +3071,7 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Atelier Sophie ~The Alchemist of the Mysterious Book~"
+            "DAH_entry_title": "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~"
         }
     },
     "M-VGMDB-AL-42961-9": {
@@ -3504,6 +3504,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sukinano."
+        }
+    },
+    "G-VGMDB-1090": {
+        "id": "G-VGMDB-1090",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi"
         }
     },
     "M-VGMDB-AR-11952": {
@@ -4529,7 +4537,8 @@
         "children": {
             "A-MAL-21167": 1.0,
             "M-VGMDB-AL-45361": 1.0,
-            "G-VGMDB-3499": 1.0
+            "G-VGMDB-3499": 1.0,
+            "G-VGMDB-1090": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "Atelier"

@@ -3,6 +3,7 @@ package com.dah.nrs
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.numDays
 import com.dah.nrs.exts.*
 
 fun DSLScope.SB69() {
@@ -372,7 +373,7 @@ fun DSLScope.SB69() {
                 // this was unranked all this time?????
                 // lmfao
                 Music(6.5)
-                
+
                 // there's no one who is cooler
                 // there's no one who's like him
                 // the one who shines like the sun
@@ -488,7 +489,7 @@ fun DSLScope.SB69() {
                 // And together we will [shine our dreams] (lmfao rst song comp diff name)
             }
         }
-        
+
         // adding these songs to increase Murakawa Rie and Hidaka Rina's score lol
         // (i can't accept ayumu va to be higher than rina hidaka lol)
         Entry {
@@ -581,5 +582,144 @@ fun DSLScope.SB69() {
 
         Music(6.0)
         OsuSong(personal = 7.5)
+    }
+
+    // "
+    // rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards)
+    // featuring modern vietnamese literature, esters, tien duc and more...
+    // " - clueless mf doesn't know about the song
+
+    // Asuiro Koi Moyou era (arc 1)
+    // AKM is basically the "child" of rst and sb69,
+    // inheriting rst's love and sb69's catjam af music
+    // This arc features dumb shit like MVL (modern vietnamese literature)
+    Meme(1.0, numDays("2022-06-03", "2022-07-17")) {
+        val rstContribution = 0.3
+        val sb69Contribution = 0.1
+        val asuiroContribution = 0.6
+
+        // before the graduation exam, this somewhat was meta
+        // after the exam ends and i (probably) won't have to
+        // touch this subject ever again, it died
+        val mvlContribution = asuiroContribution * 0.2
+        val vcapAnalogyContribution = mvlContribution * 0.4
+        val ctnxAnalogyContribution = mvlContribution * 0.4
+        val nldsdAnalogyContribution = mvlContribution * 0.2
+
+        val loveLiveContribution = nldsdAnalogyContribution * 0.5
+        contributors["O-2"] = nldsdAnalogyContribution * 0.5
+        contributors["A-MAL-40879"] = loveLiveContribution * 0.25
+        contributors["A-MAL-48916"] = loveLiveContribution * 0.35
+        contributors["A-MAL-15051"] = loveLiveContribution * 0.05
+        contributors["A-MAL-19111"] = loveLiveContribution * 0.05
+        contributors["A-MAL-32526"] = loveLiveContribution * 0.05
+        contributors["A-MAL-34973"] = loveLiveContribution * 0.05
+        contributors["A-MAL-41169"] = loveLiveContribution * 0.05
+        contributors["A-MAL-50203"] = loveLiveContribution * 0.05
+        contributors["A-MAL-24997"] = loveLiveContribution * 0.05
+        contributors["A-MAL-37027"] = loveLiveContribution * 0.05
+
+        contributors["O-4"] = ctnxAnalogyContribution * 0.5
+        contributors["A-MAL-50265"] = ctnxAnalogyContribution * 0.25
+        contributors["M-VGMDB-AL-111027-10"] = ctnxAnalogyContribution * 0.25
+
+        contributors["O-3"] = vcapAnalogyContribution * 0.6
+//        contributors["_kotachi_"] = vcapAnalogyContribution * 0.2
+
+        contributors["A-MAL-38009"] = rstContribution * 0.8
+        contributors["GF-VGMDB-7059"] = rstContribution * 0.1
+        // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
+        contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
+        // the akari kito analogy lol
+        contributors["M-VGMDB-AR-26898"] = rstContribution * 0.005 + vcapAnalogyContribution * 0.2
+
+        contributors["A-MAL-27441"] = sb69Contribution * 0.25
+        contributors["A-MAL-32038"] = sb69Contribution * 0.3
+        contributors["A-MAL-40763"] = sb69Contribution * 0.1
+        contributors["A-MAL-41520"] = sb69Contribution * 0.25
+        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+
+        contributors["M-VGMDB-AR-8480"] = asuiroContribution * 0.12
+        contributors["M-VGMDB-AR-14761"] = asuiroContribution * 0.08
+        contributors["M-VGMDB-AL-76155-2"] = asuiroContribution * 0.8
+
+        // all of this shit basically spits on all other anime
+        // that was unable to be meta'd for longer than a month
+        // while literally a song not even 5 minutes was able
+        // to turn modern culture into the shittiest hellhole ever.
+    }
+
+    // AKM era arc 2
+    // seasonal anime now exists, le boat analogy is dying, etc.
+    // sb69 top 1 franchise now xd
+    Meme(1.0, numDays("2022-07-21")) {
+        // july then comes with a bunch of new seasonal anime,
+        // and some of them were infused with akm shit such as:
+        // - classroom of the elite: a girl with same VA as rosia
+        // was declared "potential waifu"
+        // - something motokano something: another girl with same
+        // VA as rosia
+        // - atelier (not seasonal): have OP named "asuiro" and
+        // sang by the VA of jacklyn, who also was the VA for the
+        // main girl aka "botaental guaifu"
+        // (and then i downloaded the game lol XDDDDDDDDDDDDD)
+        // - toji no miko (not seasonal): main antagonist has the
+        // same VA as rosia
+        // - the idol pride unit: iiix, comsisting of:
+        //   + the zenryoku i love you reijing signal girl
+        //   + the glory star rst misaki sango girl
+        //   + the asuiro koi moyou jacklyn girl
+        // (now i finally understood why le gigachad mapper like
+        // aipuru so much lol)
+        // etc. (btw for somewhateverreason, all of these girls
+        // VA'd by these two seiyuus have great waifu material
+        // ngl, except for the iiix girls tho, oh wait, and that toji
+        // no miko girl, whatever)
+        // p/s: i wanna kms
+        val rstContribution = 0.05
+        val sb69Contribution = 0.2
+        val asuiroContribution = 0.5
+        val atelierContribution = 0.15
+        val coteContribution = 0.1
+
+        contributors["M-VGMDB-AL-111027-10"] = 0.01
+
+        contributors["A-MAL-38009"] = rstContribution * 0.8
+        contributors["GF-VGMDB-7059"] = rstContribution * 0.1
+        // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
+        contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
+
+        contributors["A-MAL-27441"] = sb69Contribution * 0.25
+        contributors["A-MAL-32038"] = sb69Contribution * 0.3
+        contributors["A-MAL-40763"] = sb69Contribution * 0.1
+        contributors["A-MAL-41520"] = sb69Contribution * 0.25
+        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+
+        contributors["M-VGMDB-AR-8480"] = asuiroContribution * 0.12
+        contributors["M-VGMDB-AR-14761"] = asuiroContribution * 0.08
+        contributors["M-VGMDB-AL-76155-2"] = asuiroContribution * 0.8
+
+        // rosia-chan realized that le cat has so much waifu potential that
+        // rosia-chan can not be her rival, even though she sang "asuiwanttodie
+        // pleasesavemefromthismadness moyou", but she has learned a skill from
+        // her senpai's, which is stealing content from other franchises.
+
+        // rosia-chan had an idea, she called jacklyn-chan to discuss the matter
+        // and jacklyn-chan accepted. rosia-chan and jacklyn-chan are going to
+        // use the seiyuu-no-jutsu to yoink waifus.
+
+        // jacklyn-chan, decided to give her blessings to the atelier franchise,
+        // while rosia-chan, jumping on the seasonal hype train and going for
+        // the COTE route.
+
+        // both of them haven't succeeded yet, but their plan has resulted in
+        // the unfunniest meme of all time: "potential waifu". this also means
+        // that those franchises will have a little bit of contribution to this
+        // shitty era.
+        contributors["A-MAL-21167"] = atelierContribution * 0.8
+        contributors["G-VGMDB-3499"] = atelierContribution * 0.1
+        contributors["G-VGMDB-1090"] = atelierContribution * 0.1
+        contributors["A-MAL-51096"] = coteContribution * 0.8
+        contributors["A-MAL-35507"] = coteContribution * 0.2
     }
 }

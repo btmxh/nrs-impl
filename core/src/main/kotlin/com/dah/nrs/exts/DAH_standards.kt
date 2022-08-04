@@ -234,7 +234,7 @@ fun AcceptImpact.Politics(block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "Inspired political discovery"
         score = vector {
-            set(Information.Politics, 0.75)
+            set(Additional, 0.75)
         }
         meta("type", "politics_inspiration")
         block()
@@ -245,7 +245,7 @@ fun AcceptImpact.InterestField(newField: Boolean, block: DSLImpact.() -> Unit = 
     Impact {
         description = "Made me interested in a field"
         score = vector {
-            set(Information.GeneralInfo, if (newField) 2.0 else 1.0)
+            set(Additional, if (newField) 2.0 else 1.0)
         }
         meta("type", "field_interest_gateopen")
         meta("new_field", newField)
@@ -366,9 +366,6 @@ fun AcceptRelation.KilledBy(id: String, potential: Double, effect: Double, block
             set(Art.Illustration, 0.1)
             set(Art.Language, 0.1)
             set(Art.Music, 0.05)
-
-            set(Information.Politics, 0.0)
-            set(Information.GeneralInfo, 0.0)
 
             set(Boredom, 0.1)
             set(Additional, 0.0)

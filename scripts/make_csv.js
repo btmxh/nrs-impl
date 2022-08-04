@@ -13,8 +13,6 @@ const labels = [
     "AL",
     "AI",
     "AM",
-    "IP",
-    "IG",
     "B",
     "A"
 ];
