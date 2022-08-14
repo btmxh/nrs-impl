@@ -4,6 +4,8 @@ import java.util.*
 import kotlin.collections.ArrayList
 import kotlin.math.min
 import kotlin.math.pow
+import kotlin.time.ExperimentalTime
+import kotlin.time.measureTime
 
 const val ChemistryBuffFactor = 0.6
 
@@ -21,11 +23,12 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
     private val processEntryRelationsStack = ReoccurrenceStack<ID>()
     private val entries = data.entries.mapValues { (_, it) -> CalculationEntry(it) }
 
+    @OptIn(ExperimentalTime::class)
     fun process(): Map<ID, EntryResult> {
-        solveContainWeight()
-        calculateImpactScore()
-        fillRelationReferences()
-        calculateRelationScore()
+        println(measureTime { solveContainWeight() })
+        println(measureTime { calculateImpactScore() })
+        println(measureTime { fillRelationReferences() })
+        println(measureTime { calculateRelationScore() })
 
         return entries.mapValues { (_, id) -> EntryResult(context, id.impactScore!!, id.relationScore!!) }
     }
@@ -47,7 +50,7 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
             calcEntry.containMap[childId] = childWeight
             for ((grandchildId, grandchildWeight) in child.containMap) {
                 calcEntry.containMap[grandchildId] =
-                    min(1.0, (calcEntry.containMap[grandchildId] ?: 0.0) * grandchildWeight * childWeight)
+                    min(1.0, (calcEntry.containMap[grandchildId] ?: 0.0) + grandchildWeight * childWeight)
             }
         }
         stack.removeLast()
@@ -117,10 +120,6 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
                 }.reduceOrNull { v1, v2 -> v1 + v2 }
                 relationScore?.let { relationScores.add(it * contributeWeight) }
             }
-        }
-
-        if(entry.entry.id == "F-VGMDB-7059") {
-            val x = 10
         }
 
         stack.pop(entry.entry.id)

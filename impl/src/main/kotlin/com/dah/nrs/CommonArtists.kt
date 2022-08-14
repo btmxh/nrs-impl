@@ -800,9 +800,11 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-8480"
         title = "Hidaka Rina"
 
-        Contains("M-VGMDB-AL-76155-2", 0.25)
-        // additional 0.25 because this is sung by 2 member only
+        Contains("M-VGMDB-AL-76155", 0.25)
+        // additional 0.25 because every song in this album
+        // is sung by rosia and another girl
         // (not the whole cricri unit)
+        Contains("M-23", 0.25)
 
         Contains(ImageVocalContainFactor) {
             Contains("M-VGMDB-AL-95314")
@@ -816,12 +818,12 @@ fun DSLScope.CommonArtists() {
         title = "Murakawa Rie"
 
         Contains("M-VGMDB-AL-76155-2", 0.25)
-        // additional 0.25 because this is sung by 2 member only
+        // additional 0.25 because akm is sung by rosia and jacklyn
         // (not the whole cricri unit)
+        Contains("M-23", 0.25)
 
         Contains(ImageVocalContainFactor) {
             Contains("M-VGMDB-AL-95313")
-            Contains("M-23", 0.25)
             Contains("M-VGMDB-AL-45361-1")
         }
     }

@@ -1286,8 +1286,8 @@
         "id": "M-VGMDB-AR-14761",
         "children": {
             "M-VGMDB-AL-76155-2": 0.25,
+            "M-23": 0.25,
             "M-VGMDB-AL-95313": 0.8,
-            "M-23": 0.2,
             "M-VGMDB-AL-45361-1": 0.8
         },
         "DAH_meta": {
@@ -2103,9 +2103,9 @@
     "M-VGMDB-AR-8480": {
         "id": "M-VGMDB-AR-8480",
         "children": {
-            "M-VGMDB-AL-76155-2": 0.25,
-            "M-VGMDB-AL-95314": 0.8,
+            "M-VGMDB-AL-76155": 0.25,
             "M-23": 0.2,
+            "M-VGMDB-AL-95314": 0.8,
             "M-VGMDB-AL-116977-11": 0.8
         },
         "DAH_meta": {
