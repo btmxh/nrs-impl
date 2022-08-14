@@ -801,7 +801,7 @@ fun DSLScope.CommonArtists() {
         title = "Hidaka Rina"
 
         Contains("M-VGMDB-AL-76155", 0.25)
-        // additional 0.25 because every song in this album
+        // additional 0.25 because every song on this album
         // is sung by rosia and another girl
         // (not the whole cricri unit)
         Contains("M-23", 0.25)
