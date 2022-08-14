@@ -1,85 +1,129 @@
 package com.dah.nrs.core
 
+import java.util.*
+import kotlin.collections.ArrayList
+import kotlin.math.min
 import kotlin.math.pow
 
-const val ChemistryBuffFactor = 0.8
+const val ChemistryBuffFactor = 0.6
 
-internal class MutableResult(
-    val impacts: HashMap<Int, ScoreVector> = hashMapOf(),
-    val relations: HashMap<Int, ScoreVector> = hashMapOf()
-) {
-    fun toResult(context: NRSContext): EntryResult {
-        return EntryResult(context, impacts, relations)
-    }
+class CalculationEntry(val entry: IEntry) {
+    val containMap = hashMapOf<ID, Double>()
+    var containMapInit = false
+    var impactScore = null as ScoreVector?
+
+    val relations = ArrayList<Pair<IRelation, Double>>()
+    var relationScore = null as ScoreVector?
 }
 
 internal class Processor(private val context: NRSContext, private val data: NRSData) {
     private val getContainWeightStack = ReoccurrenceStack<Pair<ID, ID>>(1)
     private val processEntryRelationsStack = ReoccurrenceStack<ID>()
-
-    private val results = hashMapOf<ID, MutableResult>()
+    private val entries = data.entries.mapValues { (_, it) -> CalculationEntry(it) }
 
     fun process(): Map<ID, EntryResult> {
-        processImpacts()
-        processRelations()
+        solveContainWeight()
+        calculateImpactScore()
+        fillRelationReferences()
+        calculateRelationScore()
 
-        return results.mapValues { (_, mutableResult) -> mutableResult.toResult(context) }
+        return entries.mapValues { (_, id) -> EntryResult(context, id.impactScore!!, id.relationScore!!) }
     }
 
-    private fun getResult(id: ID): MutableResult {
-        return results.getOrPut(id, ::MutableResult)
-    }
+    private fun solveContainWeightSingle(calcEntry: CalculationEntry, stack: MutableList<ID>) {
+        if (calcEntry.containMapInit) {
+            return
+        }
 
-    private fun processImpacts() {
-        for ((id, _) in data.entries) {
-            val result = getResult(id)
-            for ((index, impact) in data.impacts.withIndex()) {
-                val weight = getContributingWeight(id, impact.contributors)
-                if (weight > EPSILON) {
-                    result.impacts[index] = impact.score * buffWeight(weight)
-                }
+        if (calcEntry.entry.id in stack) {
+            error("Circular entry containment: $stack")
+        }
+
+        stack.add(calcEntry.entry.id)
+        for ((childId, childWeight) in calcEntry.entry.children) {
+            val child = entries[childId]!!
+            solveContainWeightSingle(child, stack)
+            assert(child.containMapInit)
+            calcEntry.containMap[childId] = childWeight
+            for ((grandchildId, grandchildWeight) in child.containMap) {
+                calcEntry.containMap[grandchildId] =
+                    min(1.0, (calcEntry.containMap[grandchildId] ?: 0.0) * grandchildWeight * childWeight)
             }
         }
+        stack.removeLast()
+        calcEntry.containMapInit = true
     }
 
-    private fun processRelations() {
-        for ((id, _) in data.entries) {
-            processEntryRelations(id, true)
+    private fun solveContainWeight() {
+        for ((_, entry) in entries) {
+            solveContainWeightSingle(entry, LinkedList())
         }
     }
 
-    private fun processEntryRelations(id: ID, storeRelationScores: Boolean = false): ScoreVector {
-        val relationScores = arrayListOf<ScoreVector>()
-        if (processEntryRelationsStack.push(id)) {
-            for ((index, relation) in data.relations.withIndex()) {
-                var relationResult = context.zeroVector()
-                val contributingWeight = getContributingWeight(id, relation.contributors)
-                if (contributingWeight <= EPSILON) {
-                    continue
-                }
-
-                for ((reference, referenceWeight) in relation.references) {
-                    if (getContainWeight(id, reference) > EPSILON) {
-                        // self-relation
-                        context.zeroVector()
+    private fun calculateImpactScore() {
+        for ((id, entry) in entries) {
+            val impactScores = data.impacts.flatMap {
+                val weight = it.contributors.entries.sumOf { (contribId, contribWeight) ->
+                    contribWeight * if (contribId == id) {
+                        1.0
                     } else {
-                        val totalRelationScore = processEntryRelations(reference)
-                        val totalImpactScore = getResult(reference).toResult(context).totalImpact
-
-                        val referenceOverall = totalImpactScore + totalRelationScore
-                        relationResult += referenceWeight * referenceOverall
+                        entry.containMap[contribId] ?: 0.0
                     }
+                }.coerceAtMost(1.0)
+                if (weight > 0.0) {
+                    listOf(it.score * buffWeight(weight))
+                } else {
+                    emptyList()
                 }
+            }
 
-                if (storeRelationScores) {
-                    getResult(id).relations[index] = relationResult
-                }
+            entry.impactScore = context.combineVectors(impactScores)
+        }
+    }
 
-                relationScores.add(relationResult)
+    private fun fillRelationReferences() {
+        for ((id, entry) in entries) {
+            data.relations.map {
+                val weight = it.contributors.entries.sumOf { (contribId, contribWeight) ->
+                    contribWeight * if (id == contribId) {
+                        1.0
+                    } else {
+                        entry.containMap[contribId] ?: 0.0
+                    }
+                }.coerceAtMost(1.0)
+
+                Pair(it, buffWeight(weight))
+            }
+                .filter { (_, weight) -> weight > 0.0 }
+                .toCollection(entry.relations)
+        }
+    }
+
+    private fun calculateRelationScore() {
+        for (entry in entries.values) {
+            entry.relationScore = calculateRelationScoreSingle(entry, ReoccurrenceStack())
+        }
+    }
+
+    private fun calculateRelationScoreSingle(entry: CalculationEntry, stack: ReoccurrenceStack<ID>): ScoreVector {
+        val relationScores = arrayListOf<ScoreVector>()
+        if (stack.push(entry.entry.id)) {
+            for ((relation, contributeWeight) in entry.relations) {
+                val relationScore = relation.references.map { (referencedId, referenceWeight) ->
+                    val referenced = entries[referencedId]!!
+                    val referencedRelationScore = calculateRelationScoreSingle(referenced, stack)
+                    val referencedOverallScore = referenced.impactScore!! + referencedRelationScore
+                    referenceWeight * referencedOverallScore
+                }.reduceOrNull { v1, v2 -> v1 + v2 }
+                relationScore?.let { relationScores.add(it * contributeWeight) }
             }
         }
 
-        processEntryRelationsStack.pop(id)
+        if(entry.entry.id == "F-VGMDB-7059") {
+            val x = 10
+        }
+
+        stack.pop(entry.entry.id)
         return context.combineVectors(relationScores)
     }
 

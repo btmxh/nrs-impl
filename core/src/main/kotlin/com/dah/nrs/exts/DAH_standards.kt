@@ -267,8 +267,8 @@ fun AcceptImpact.Boredom(boredomLevel: Level, block: DSLImpact.() -> Unit = {}) 
 }
 
 fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Unit = {}) {
-    if (strength !in 0.0..1.0) {
-        error("$strength not in range 0..1")
+    if (strength !in 0.0..2.0) {
+        error("$strength not in range 0..2")
     }
 
     val durationValue = (duration.toDouble() / 120).pow(0.25)
@@ -276,7 +276,7 @@ fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Un
     Impact {
         description = "Meme"
         score = vector {
-            set(Emotion.AP, strength * durationValue * 3.0)
+            set(Emotion.AP, strength * durationValue * 4.0)
         }
         meta("type", "meme")
         meta("strength", strength)
@@ -308,6 +308,32 @@ fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
         meta("type", "NONSTD_music")
         meta("input_score", musicScore)
         block()
+    }
+}
+
+fun AcceptImpact.GenericVisual(visualScore: Double, block: DSLImpact.() -> Unit = {}) {
+    Impact {
+        description = "Generic visual"
+        score = vector {
+            set(Art.Visual, mapClampThrow(visualScore, 0.0 .. 10.0, 0.0 .. 1.5) {
+                "$visualScore not in range 0..10"
+            })
+        }
+        meta("type", "NONSTD_generic_visual")
+        meta("input_score", visualScore)
+    }
+}
+
+fun AcceptImpact.UniqueVisual(visualScore: Double, block: DSLImpact.() -> Unit = {}) {
+    Impact {
+        description = "Unique visual"
+        score = vector {
+            set(Art.Visual, mapClampThrow(visualScore, 0.0 .. 10.0, 0.0 .. 2.5) {
+                "$visualScore not in range 0..10"
+            })
+        }
+        meta("type", "NONSTD_unique_visual")
+        meta("input_score", visualScore)
     }
 }
 
@@ -363,7 +389,7 @@ fun AcceptRelation.KilledBy(id: String, potential: Double, effect: Double, block
             set(Emotion.MP, 0.2)
             set(Emotion.MU, 0.1)
 
-            set(Art.Illustration, 0.1)
+            set(Art.Visual, 0.1)
             set(Art.Language, 0.1)
             set(Art.Music, 0.05)
 

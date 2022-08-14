@@ -64,7 +64,7 @@ fun DSLScope.NewGame() {
             title = "Now Loading!!!!"
 
             SubIDEntry("1") {
-                Music(3.5)
+                Music(4.0)
                 OsuSong(personal = 4.0)
             }
         }
@@ -76,7 +76,7 @@ fun DSLScope.NewGame() {
             SubIDEntry("1") {
                 // mankai step by step
                 // this song is legendary af
-                Music(4.5)
+                Music(5.0)
                 OsuSong(personal = 8.0)
             }
         }

@@ -801,11 +801,13 @@ fun DSLScope.CommonArtists() {
         title = "Hidaka Rina"
 
         Contains("M-VGMDB-AL-76155-2", 0.25)
+        // additional 0.25 because this is sung by 2 member only
+        // (not the whole cricri unit)
+
         Contains(ImageVocalContainFactor) {
             Contains("M-VGMDB-AL-95314")
             Contains("M-23", 0.25)
-            // additional 0.25 because this is sung by 2 member only
-            // (not the whole cricri unit)
+            Contains("M-VGMDB-AL-116977-11")
         }
     }
 
@@ -814,11 +816,12 @@ fun DSLScope.CommonArtists() {
         title = "Murakawa Rie"
 
         Contains("M-VGMDB-AL-76155-2", 0.25)
+        // additional 0.25 because this is sung by 2 member only
+        // (not the whole cricri unit)
+
         Contains(ImageVocalContainFactor) {
             Contains("M-VGMDB-AL-95313")
             Contains("M-23", 0.25)
-            // additional 0.25 because this is sung by 2 member only
-            // (not the whole cricri unit)
             Contains("M-VGMDB-AL-45361-1")
         }
     }

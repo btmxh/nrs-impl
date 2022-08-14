@@ -73,6 +73,11 @@ fun DSLScope.MVLiterature() {
             // hololiveshit stole rst & sb69 composer
             // hololiveshit stole rst & sb69 composer
             // hololiveshit stole rst & sb69 composer
+
+            // >【Works】Re:ステージ!/ホロライブ(全体曲,1期生,3期生)/SHOW BY ROCK!!/La prière/...
+            // how dare hololiveshit sit between two glorious franchises
+            // these mfs need to touch grass and realize how shitty they are
+            // compared to rst and sb69, the franchises of all time
             Music(6.5)
         }
     }

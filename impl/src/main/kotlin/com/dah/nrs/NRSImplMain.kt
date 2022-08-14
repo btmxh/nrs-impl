@@ -144,7 +144,7 @@ fun main() =
             bestGirl = "Rin"
 
             // catJAM
-            Music(4.5)
+            Music(6.0)
 
             AdditionalImpact("Short anime buff", 0.75)
 
@@ -252,6 +252,7 @@ fun main() =
         ShichiseiSubaru()
         Arifureta()
         CellAtWork()
+        Kaguya()
         BunnyGirlSenpai()
         SthKara()
 

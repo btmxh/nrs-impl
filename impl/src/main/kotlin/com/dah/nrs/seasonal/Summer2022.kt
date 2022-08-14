@@ -15,7 +15,8 @@ fun DSLScope.Summer2022() {
         bestGirl = "Hosono Yuzu"
 
         // art has some flaws, but whatever
-        Boredom(Boredom.Watching)
+        // bye lol
+        Boredom(Boredom.Dropped)
         KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
     }
@@ -43,12 +44,14 @@ fun DSLScope.Summer2022() {
 
         bestGirl = "Okumiya Otome"
         // ichijou ruka my beloved
-        Boredom(Boredom.Watching)
+
+        // the prima doll incident
+        Boredom(Boredom.Dropped)
+
+        NEI(-1.0, Emotion.AU)
 
         // well this is not killed by AKM and SB69, it's more like
         // kusunoki tomori ruined the anime
-        NEI(-1.0, Emotion.AU)
-
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
@@ -69,6 +72,7 @@ fun DSLScope.Summer2022() {
         // self-explanatory
 
         // still shit anime anyways
+        // lmfao they used "inverse-killedby" method to not be dropped
         Boredom(Boredom.Watching)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)

@@ -16,11 +16,11 @@ fun DSLScope.OsuGame() {
 
             // the third ayumu-era theme song
             SubIDEntry("7", "Ascension to Heaven") {
-                Music(4.0)
+                Music(3.0)
             }
 
             SubIDEntry("12", "FREEDOM DiVE↓") {
-                Music(0.6)
+                Music(1.5)
                 // i'm not overstreaming 222 bpm
                 NEI(5.0, Emotion.AP)
                 OsuSong(personal = 2.0, community = 8.0)
@@ -36,6 +36,6 @@ fun DSLScope.OsuGame() {
         // r/osuplace stuff
         Meme(0.5, 6)
         OsuSong(personal = 2.0, community = 8.0)
-        Music(4.5)
+        Music(4.0)
     }
 }

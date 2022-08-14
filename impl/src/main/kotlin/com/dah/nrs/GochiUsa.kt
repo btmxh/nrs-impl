@@ -19,7 +19,7 @@ fun DSLScope.GochiUsa() {
                 // dong do la max do
                 // duy bua ham l
                 // duy bua ngao l
-                Music(1.2)
+                Music(2.0)
             }
         }
 
@@ -42,6 +42,7 @@ fun DSLScope.GochiUsa() {
             SubIDEntry("3", "Shinsaku no Shiawase wa Kochira!") {
                 // dan dan kikoeru
                 // lets go i fced the son's insane diff with dt
+                // fuck sekai's insane tho
                 Music(3.0)
             }
         }

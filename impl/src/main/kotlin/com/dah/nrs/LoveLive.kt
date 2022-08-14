@@ -71,7 +71,7 @@ fun DSLScope.LoveLive() {
             title = "Aozora Jumping Heart"
 
             SubIDEntry("1") {
-                Music(5.0)
+                Music(4.0)
             }
         }
 
@@ -107,7 +107,7 @@ fun DSLScope.LoveLive() {
             title = "Thank you, FRIENDS!!"
 
             SubIDEntry("1") {
-                Music(5.5)
+                Music(3.5)
             }
         }
 
@@ -241,7 +241,7 @@ fun DSLScope.LoveLive() {
             title = "L!L!L! (Love the Life We Live)"
 
             SubIDEntry("2", "Break The System") {
-                Music(6.0)
+                Music(4.0)
             }
         }
 

@@ -18,7 +18,7 @@ fun DSLScope.YuYuYu() {
             title = "Aurora Days"
 
             SubIDEntry("1") {
-                Music(0.75)
+                Music(1.5)
             }
         }
 
@@ -29,7 +29,7 @@ fun DSLScope.YuYuYu() {
             // the glorious udon stream map
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
             SubIDEntry("2", "U・D・N") {
-                Music(3.0)
+                Music(4.0)
                 OsuSong(personal = 3.0)
             }
         }

@@ -134,7 +134,7 @@ fun DSLScope.Kano() {
                 title = "three"
 
                 SubIDEntry("6", "Chikyuu Saigo no Kokuhaku o") {
-                    Music(3.5)
+                    Music(3.0)
                     NEI(1.0, Emotion.CU)
 
                     Remix("M-MAL-36631-6")
@@ -168,7 +168,7 @@ fun DSLScope.Kano() {
             meta("type", "NONSTD_album_art")
 
             score = vector {
-                set(Art.Illustration, 0.1)
+                set(Art.Visual, 0.1)
                 // the album art is kano sitting with some animals
                 // which is MP-based, and it's a pretty good contrast to
                 // some songs from the album (like it's not world's end

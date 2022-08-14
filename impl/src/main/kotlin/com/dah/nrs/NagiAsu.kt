@@ -21,7 +21,7 @@ fun DSLScope.NagiAsu() {
             title = "NAGI NO ASUKARA CHARACTER SONG 3"
 
             SubIDEntry("1", "ripple ~my first love~") {
-                Music(5.0)
+                Music(6.0)
             }
         }
 

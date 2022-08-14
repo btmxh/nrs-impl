@@ -182,7 +182,7 @@ fun DSLScope.SB69() {
             title = "How To Fly"
 
             SubIDEntry("1") {
-                Music(2.5)
+                Music(3.5)
             }
         }
 
@@ -208,7 +208,7 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("2", "Close to you") {
-                Music(3.0)
+                Music(4.0)
 
                 Remix("M-VGMDB-AL-61981-3")
             }
@@ -264,7 +264,7 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("3", "Close to you (Cyan ver.)") {
-                Music(3.0)
+                Music(3.5)
 
                 NEI(2.5, Emotion.MP)
             }
@@ -276,7 +276,7 @@ fun DSLScope.SB69() {
 
             SubIDEntry("1") {
                 // xd
-                Music(1.25)
+                Music(2.0)
                 Meme(0.1, 2)
             }
         }
@@ -297,16 +297,17 @@ fun DSLScope.SB69() {
             title = "Hiromenes/Kimi no Rhapsody"
 
             SubIDEntry("1", "Hiromenes") {
-                Music(5.0)
+                Music(6.0)
             }
 
             SubIDEntry("2", "Kimi no Rhapsody") {
-                Music(2.0)
+                Music(2.5)
+                Meme(0.01, numDays("2022-04-01"))
                 Remix("M-62")
             }
 
             SubIDEntry("3", "Masshiro Start Line") {
-                Music(5.0)
+                Music(6.0)
             }
         }
 
@@ -338,7 +339,7 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("2", "Hoshizora Light Story") {
-                Music(2.5)
+                Music(3.5)
             }
         }
 
@@ -395,7 +396,7 @@ fun DSLScope.SB69() {
             title = "Taikakusen wo Tsunaideyo"
 
             SubIDEntry("1") {
-                Music(5.0)
+                Music(6.0)
             }
         }
 
@@ -417,7 +418,7 @@ fun DSLScope.SB69() {
             title = "Mirai Wanted"
 
             SubIDEntry("1") {
-                Music(4.5)
+                Music(5.0)
             }
         }
 
@@ -426,7 +427,7 @@ fun DSLScope.SB69() {
             title = "Bokura no Neiro"
 
             SubIDEntry("1") {
-                Music(2.5)
+                Music(3.5)
             }
         }
 
@@ -435,7 +436,7 @@ fun DSLScope.SB69() {
             title = "Mot Mot Mot"
 
             SubIDEntry("1") {
-                Music(5.0)
+                Music(6.5)
             }
         }
 
@@ -451,6 +452,11 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-76155"
             title = "Loop Shiteru/Asuiro Koi Moyou"
+
+            SubIDEntry("1", "Loop Shiteru") {
+                // :tf:
+                Music(2.5)
+            }
 
             SubIDEntry("2", "Asuiro Koi Moyou") {
                 // absolute catjammer
@@ -470,6 +476,7 @@ fun DSLScope.SB69() {
                 // ^ clueless mfs
 
                 Music(8.0)
+                NEI(5.0, Emotion.MP)
 
                 // (the love song parody lyrics shit of me to rst, translated to english)
 
@@ -487,6 +494,8 @@ fun DSLScope.SB69() {
 
                 // Và cùng nhau ta sẽ thắp sáng ước mơ
                 // And together we will [shine our dreams] (lmfao rst song comp diff name)
+
+                // "morbius is the movie of all time"
             }
         }
 
@@ -571,6 +580,8 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-61982")
                 Contains("M-VGMDB-AL-105612")
                 Contains("M-VGMDB-AL-86315-3")
+                // when you realized that something is missing
+                Contains("M-VGMDB-AL-76155")
             }
         }
     }
@@ -652,7 +663,7 @@ fun DSLScope.SB69() {
     // AKM era arc 2
     // seasonal anime now exists, le boat analogy is dying, etc.
     // sb69 top 1 franchise now xd
-    Meme(1.0, numDays("2022-07-21")) {
+    Meme(1.25, numDays("2022-07-21")) {
         // july then comes with a bunch of new seasonal anime,
         // and some of them were infused with akm shit such as:
         // - classroom of the elite: a girl with same VA as rosia
@@ -699,7 +710,7 @@ fun DSLScope.SB69() {
         contributors["M-VGMDB-AR-14761"] = asuiroContribution * 0.08
         contributors["M-VGMDB-AL-76155-2"] = asuiroContribution * 0.8
 
-        // rosia-chan realized that le cat has so much waifu potential that
+        // rosia-chan realized that le cat has so much waifu material that
         // rosia-chan can not be her rival, even though she sang "asuiwanttodie
         // pleasesavemefromthismadness moyou", but she has learned a skill from
         // her senpai's, which is stealing content from other franchises.
@@ -721,5 +732,8 @@ fun DSLScope.SB69() {
         contributors["G-VGMDB-1090"] = atelierContribution * 0.1
         contributors["A-MAL-51096"] = coteContribution * 0.8
         contributors["A-MAL-35507"] = coteContribution * 0.2
+
+        // no fucking way mii hasegawa covered akm:
+        // https://www.youtube.com/watch?v=aDh26KX6X0s
     }
 }

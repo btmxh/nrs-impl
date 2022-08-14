@@ -53,11 +53,11 @@ fun DSLScope.Cue() {
             title = "Start Line/Hajimari no Kanenone ga Narihibiku Sora"
 
             SubIDEntry("1", "Start Line") {
-                Music(7.5)
+                Music(7.0)
             }
 
             SubIDEntry("2", "Hajimari no Kanenone ga Narihibiku Sora") {
-                Music(3.0)
+                Music(4.0)
             }
         }
 

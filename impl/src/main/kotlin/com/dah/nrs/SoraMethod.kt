@@ -9,7 +9,8 @@ fun DSLScope.SoraMethod() {
     Entry {
         id = "F-VGMDB-2894"
         // method!!!!!!! mot con nguoi dc xay dung mot
-        // cach khac biet: kizuna method daisuki no uta yakusoku no uta eien no uta todokeyou
+        // cach khac biet: kizuna method daisuki no uta
+        // yakusoku no uta eien no uta todokeyou
         title = "Sora no Method"
 
         Entry {

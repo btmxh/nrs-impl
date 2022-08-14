@@ -40,6 +40,8 @@ fun DSLScope.SoraYori() {
             SubIDEntry("1") {
                 Music(5.0)
                 // make v-tuber a thing (hanayori dorm bs)
+                // and when hanayori bs dead, vtuber dead lmfao
+                // and then hololive becomes le boat xd
             }
 
             SubIDEntry("2", "One Step") {

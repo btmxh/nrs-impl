@@ -30,7 +30,7 @@ fun DSLScope.OneRoom() {
                 // ICHI PURASU ICHI GA MUGEN TOKA
                 // OSHIETE KURETA KIMI TO SAGASHI NI YUKOU
                 // H A R U M A C H I   K U R O B A A A
-                Music(2.5)
+                Music(3.5)
                 OsuSong(personal = 6.0, community = 8.0)
                 Remix("M-37")
             }
@@ -51,7 +51,7 @@ fun DSLScope.OneRoom() {
         id = "M-37"
         title = "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
 
-        Music(1.0)
+        Music(3.0)
         OsuSong(personal = 6.0, community = 8.0)
     }
 }

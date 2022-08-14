@@ -1,12 +1,4 @@
 {
-    "M-58": {
-        "id": "M-58",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Ideal/Idol"
-        }
-    },
     "M-VGMDB-AL-99272": {
         "id": "M-VGMDB-AL-99272",
         "children": {
@@ -128,7 +120,7 @@
             "M-VGMDB-AL-86622": 0.8,
             "M-VGMDB-AL-89363": 0.8,
             "M-VGMDB-AL-104673-5": 0.8,
-            "M-58": 0.8
+            "M-VGMDB-AL-122232": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "KiRaRe"
@@ -508,6 +500,7 @@
     "M-VGMDB-AL-76155": {
         "id": "M-VGMDB-AL-76155",
         "children": {
+            "M-VGMDB-AL-76155-1": 1.0,
             "M-VGMDB-AL-76155-2": 1.0
         },
         "DAH_meta": {
@@ -2112,7 +2105,8 @@
         "children": {
             "M-VGMDB-AL-76155-2": 0.25,
             "M-VGMDB-AL-95314": 0.8,
-            "M-23": 0.2
+            "M-23": 0.2,
+            "M-VGMDB-AL-116977-11": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "Hidaka Rina"
@@ -2793,6 +2787,14 @@
             "DAH_entry_title": "Mot Mot Mot"
         }
     },
+    "M-VGMDB-AL-76155-1": {
+        "id": "M-VGMDB-AL-76155-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Loop Shiteru"
+        }
+    },
     "M-VGMDB-AL-95369": {
         "id": "M-VGMDB-AL-95369",
         "children": {
@@ -3114,6 +3116,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Colorful."
+        }
+    },
+    "M-VGMDB-AL-116977-11": {
+        "id": "M-VGMDB-AL-116977-11",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Arigatou."
         }
     },
     "M-VGMDB-AL-60358-1": {
@@ -3473,7 +3483,7 @@
             "M-VGMDB-AL-120842": 1.0,
             "M-VGMDB-AL-120836": 1.0,
             "M-VGMDB-AL-121168": 1.0,
-            "M-58": 1.0,
+            "M-VGMDB-AL-122232": 1.0,
             "M-59": 1.0,
             "M-48": 1.0,
             "GF-VGMDB-7059": 1.0
@@ -3490,6 +3500,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Makino Amane"
+        }
+    },
+    "M-VGMDB-AL-122232": {
+        "id": "M-VGMDB-AL-122232",
+        "children": {
+            "M-VGMDB-AL-122232-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ideal/Idol"
         }
     },
     "M-VGMDB-AL-37130": {
@@ -4095,6 +4114,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Larval Stage Planning"
+        }
+    },
+    "M-VGMDB-AL-122232-1": {
+        "id": "M-VGMDB-AL-122232-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Ideal/Idol"
         }
     },
     "M-VGMDB-AL-87198-7": {
@@ -5911,7 +5938,8 @@
             "M-VGMDB-AL-104266-6": 0.8,
             "M-VGMDB-AL-61982": 0.8,
             "M-VGMDB-AL-105612": 0.8,
-            "M-VGMDB-AL-86315-3": 0.8
+            "M-VGMDB-AL-86315-3": 0.8,
+            "M-VGMDB-AL-76155": 0.8
         },
         "DAH_meta": {
             "DAH_entry_title": "Criticrista"

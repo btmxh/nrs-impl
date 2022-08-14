@@ -1,5 +1,6 @@
 package com.dah.nrs.core
 
+import kotlinx.serialization.json.*
 import kotlin.math.abs
 import kotlin.math.pow
 
@@ -47,6 +48,13 @@ interface ScoreMatrix {
             data[row][col]
         }
     }
+
+    fun toJSON(json: Json): JsonElement {
+        return buildJsonObject {
+            put("kind", "regular")
+            put("data", json.encodeToJsonElement(toArray()))
+        }
+    }
 }
 
 private class DiagonalScoreMatrix(private val diagonal: ScoreVector) : ScoreMatrix {
@@ -56,6 +64,15 @@ private class DiagonalScoreMatrix(private val diagonal: ScoreVector) : ScoreMatr
 
     override val dimensions: Int
         get() = diagonal.dimensions
+
+    override fun times(vector: ScoreVector): ScoreVector = diagonal * vector
+
+    override fun toJSON(json: Json): JsonElement {
+        return buildJsonObject {
+            put("kind", "diagonal")
+            put("data", json.encodeToJsonElement(diagonal.toDoubleArray()))
+        }
+    }
 }
 
 fun ScoreVector.toDiagonalMatrix(): ScoreMatrix = DiagonalScoreMatrix(this)

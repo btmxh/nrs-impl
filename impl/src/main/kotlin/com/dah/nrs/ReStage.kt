@@ -36,7 +36,7 @@ fun DSLScope.ReStage() {
     // rst has changed da world.
 
     // rst-sb69 dse (Jan 10 - Mar 10, 2022)
-    Meme(1.0, numDays("2022-01-10", "2022-03-10")) {
+    Meme(1.2, numDays("2022-01-10", "2022-03-10")) {
         val rstContribution = 0.35
         val sb69Contribution = 0.45
 
@@ -218,7 +218,7 @@ fun DSLScope.ReStage() {
             title = "Remembers!"
 
             SubIDEntry("1") {
-                TrackMusic(1.0)
+                TrackMusic(3.0)
                 // haha funny centuRe: reference
                 Meme(0.05, 6)
             }
@@ -316,7 +316,7 @@ fun DSLScope.ReStage() {
             title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"
 
             SubIDEntry("1", "Don't think, smile!!") {
-                TrackMusic(3.0)
+                TrackMusic(2.5)
             }
 
             SubIDEntry("2", "Akogare Future Sign (Piano Strings Arrange)") {
@@ -336,7 +336,7 @@ fun DSLScope.ReStage() {
                 // mot nguoi diet het moi tuong lai uoc mo
                 // xinh dep bac nhat tren thai binh que to
                 // co gai hoan love luon khien cho ca truong chuyen don dau
-                TrackMusic(5.0)
+                TrackMusic(4.5)
             }
 
             SubIDEntry("2", "OvertuRe:") {
@@ -400,7 +400,7 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-86622")
                 Contains("M-VGMDB-AL-89363")
                 Contains("M-VGMDB-AL-104673-5")
-                Contains("M-58")
+                Contains("M-VGMDB-AL-122232")
             }
         }
 
@@ -458,7 +458,7 @@ fun DSLScope.ReStage() {
             Contains("M-VGMDB-AL-78520-2")
 
             SubIDEntry("5", "Ano ne") {
-                TrackMusic(1.25)
+                TrackMusic(2.0)
             }
         }
 
@@ -483,7 +483,7 @@ fun DSLScope.ReStage() {
             title = "Q.E.D."
 
             SubIDEntry("1", "InFiction") {
-                TrackMusic(5.0)
+                TrackMusic(4.5)
             }
 
             SubIDEntry("8", "DESERT BLACK FLOWER") {
@@ -515,7 +515,7 @@ fun DSLScope.ReStage() {
             title = "Raise Your Fist"
 
             SubIDEntry("1", "Canaria") {
-                TrackMusic(5.5)
+                TrackMusic(6.0)
             }
         }
 
@@ -582,7 +582,7 @@ fun DSLScope.ReStage() {
                 // tai vi sao a qua ngau
                 // (the gian d ai sanh bang)
 
-                TrackMusic(3.5)
+                TrackMusic(3.0)
             }
         }
 
@@ -647,17 +647,19 @@ fun DSLScope.ReStage() {
             // https://www.youtube.com/watch?v=hj_4YAVmmuI
 
             SubIDEntry("1") {
-                TrackMusic(6.0)
+                TrackMusic(6.5)
             }
         }
 
         Entry {
-            id = "M-58"
+            id = "M-VGMDB-AL-122232"
             title = "Ideal/Idol"
             // inb4 the "i'd like to interject for a moment,
             // what ur refering to as idol, is in fact ideal/idol..." pasta
 
-            TrackMusic(0.5)
+            SubIDEntry("1") {
+                TrackMusic(1.5)
+            }
         }
 
         Entry {

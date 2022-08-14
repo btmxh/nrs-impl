@@ -99,7 +99,7 @@ fun DSLScope.MadokaMagica() {
                 // osu! 9.97⭐UTSUROI +HDDTHR 1108pp | WhiteCat
                 OsuSong(personal = 6.5, community = 1.0)
 
-                Music(6.5)
+                Music(5.0)
             }
         }
 
@@ -146,7 +146,7 @@ fun DSLScope.MadokaMagica() {
             contributors["G-VGMDB-5237"] = 0.5
         }
 
-        Meme(0.9, numDays("2020-02-15", "2020-08-15")) {
+        Meme(0.75, numDays("2020-02-15", "2020-08-15")) {
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.5
             contributors["A-MAL-9756"] = 0.08
@@ -222,7 +222,7 @@ fun DSLScope.MadokaMagica() {
             Impact {
                 description = "Animation"
                 score = vector {
-                    set(Art.Illustration, 0.5)
+                    set(Art.Visual, 0.5)
                     set(Emotion.AP, 0.4)
                 }
             }

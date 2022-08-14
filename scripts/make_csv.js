@@ -11,7 +11,7 @@ const labels = [
     "CU",
     "CP",
     "AL",
-    "AI",
+    "AV",
     "AM",
     "B",
     "A"

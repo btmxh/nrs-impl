@@ -19,7 +19,7 @@ fun DSLScope.JMetal() {
             title = "Truths, Ironies, The Secret Lyrics"
 
             SubIDEntry("1") {
-                Music(1.0)
+                Music(3.0)
                 Impact {
                     description = """this song is a cover of the famous is she owen u.n
                     i was strongly impressed when i listened to the covers by
@@ -62,7 +62,7 @@ fun DSLScope.JMetal() {
 
             SubIDEntry("7") {
                 title = "From Under Cover (Caught Up In A Love Song)"
-                Music(3.0)
+                Music(4.0)
             }
 
             // the second ayumu-era theme song

@@ -89,7 +89,7 @@ fun NRSContext.DAH_json_serialize(relation: IRelation): JsonObject {
         put("contributors", DAH_serialize_json!!.json.encodeToJsonElement(relation.contributors))
         put(
             "references",
-            DAH_serialize_json.json.encodeToJsonElement(relation.references.mapValues { (_, it) -> it.toArray() })
+            DAH_serialize_json.json.encodeToJsonElement(relation.references.mapValues { (_, it) -> it.toJSON(DAH_serialize_json.json) })
         )
 
         DAH_meta.ifEnabled {
@@ -101,9 +101,7 @@ fun NRSContext.DAH_json_serialize(relation: IRelation): JsonObject {
 @Suppress("FunctionName")
 fun NRSContext.DAH_json_serialize(result: EntryResult): JsonObject {
     return buildJsonObject {
-        put("impacts", DAH_serialize_json!!.json.encodeToJsonElement(result.impacts))
-        put("relations", DAH_serialize_json.json.encodeToJsonElement(result.relations))
-        put("totalImpact", DAH_serialize_json.json.encodeToJsonElement(result.totalImpact))
+        put("totalImpact", DAH_serialize_json!!.json.encodeToJsonElement(result.totalImpact))
         put("totalRelation", DAH_serialize_json.json.encodeToJsonElement(result.totalRelation))
         put("overallVector", DAH_serialize_json.json.encodeToJsonElement(result.overallVector))
 

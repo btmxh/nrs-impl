@@ -56,16 +56,16 @@ object Emotion : SubscoreImpl(0.6) {
     override val factors = listOf(AU, AP, MU, MP, CU, CP)
 }
 
-object Art : SubscoreImpl(0.4) {
+object Art : SubscoreImpl(0.5) {
     open class Factor(weight: Double, vectorIndex: Int) : FactorScoreImpl(weight, vectorIndex)
-    object Language : Factor(0.3, 6)
-    object Illustration : Factor(0.3, 7)
-    object Music : Factor(0.4, 8)
+    object Language : Factor(0.4, 6)
+    object Visual : Factor(0.1, 7)
+    object Music : Factor(0.3, 8)
 
     val L = Language
-    val I = Illustration
+    val V = Visual
     val M = Music
-    override val factors = listOf(L, I, M)
+    override val factors = listOf(L, V, M)
 }
 
 object Boredom : OneFactorSubscore(9, 0.0)

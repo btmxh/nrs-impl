@@ -40,7 +40,7 @@ fun DSLScope.OnsenMusume() {
             title = "Tsuioku Kaleidoscope"
 
             SubIDEntry("1", "Junjou -SAKURA-") {
-                Music(6.0)
+                Music(5.0)
             }
 
             // 2-4 are subunit songs
@@ -49,15 +49,15 @@ fun DSLScope.OnsenMusume() {
             }
 
             SubIDEntry("3", "SILENT VOICES") {
-                Music(5.5)
+                Music(4.5)
             }
 
             SubIDEntry("4", "Ohayou Japonika") {
-                Music(5.0)
+                Music(6.0)
             }
 
             SubIDEntry("5", "Sayonara Hanabi") {
-                Music(1.0)
+                Music(2.0)
             }
         }
 
