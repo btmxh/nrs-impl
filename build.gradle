@@ -17,4 +17,5 @@ task runAndMakeCSV {
             commandLine 'node', 'scripts/make_csv.js'
         }
     }
+    finalizedBy ':validator:run'
 }

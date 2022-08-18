@@ -3027,14 +3027,14 @@
             0.0,
             0.0,
             0.0,
-            0.06554716860881586,
+            0.7865660233057903,
             0.0,
             0.0,
             0.0
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
-            "kind": "AlbumArt",
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3101,14 +3101,14 @@
             0.0,
             0.0,
             0.0,
-            0.07500951978736412,
+            0.9001142374483694,
             0.0,
             0.0,
             0.0
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
-            "kind": "AlbumArt",
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -3148,14 +3148,14 @@
             0.0,
             0.0,
             0.0,
-            0.07500951978736412,
+            0.9001142374483694,
             0.0,
             0.0,
             0.0
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
-            "kind": "AlbumArt",
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -5915,6 +5915,30 @@
             "boredom_level": 0,
             "type": "boredom",
             "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-15051": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.5880923731642769,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.4,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.25
         }
     },
     {
@@ -14398,14 +14422,14 @@
             0.0,
             0.0,
             0.0,
-            0.04453836271395301,
+            0.5344603525674362,
             0.0,
             0.0,
             0.0
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
-            "kind": "AlbumArt",
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }

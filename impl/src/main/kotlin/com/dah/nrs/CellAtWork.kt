@@ -13,7 +13,7 @@ fun DSLScope.CellAtWork() {
             title = "Hataraku Saibou"
 
             Boredom(Boredom.Dropped)
-            Visual(VisualKind.AlbumArt, 0.4, 0.1)
+            Visual(VisualKind.Animated, 0.4, 0.1)
             FeatureMusic("M-VGMDB-AL-77471-1")
         }
 

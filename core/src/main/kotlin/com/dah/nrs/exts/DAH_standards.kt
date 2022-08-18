@@ -448,9 +448,9 @@ fun AcceptRelation.KilledBy(id: String, potential: Double, effect: Double, block
             set(Emotion.MP, 0.2)
             set(Emotion.MU, 0.1)
 
-            set(Art.Visual, 0.1)
+            set(Art.Visual, 0.0)
             set(Art.Language, 0.1)
-            set(Art.Music, 0.05)
+            set(Art.Music, 0.1)
 
             set(Boredom, 0.1)
             set(Additional, 0.0)

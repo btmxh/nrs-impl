@@ -65,7 +65,7 @@ fun DSLScope.Idolmaster() {
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)
             Boredom(Boredom.Completed)
-            Visual(VisualKind.AlbumArt, 0.4, 0.3)
+            Visual(VisualKind.Animated, 0.4, 0.3)
         }
 
         NEI(2.5, Emotion.AP) {
@@ -78,7 +78,7 @@ fun DSLScope.Idolmaster() {
             title = "The iDOLM@STER Cinderella Girls"
             bestGirl = "Ogata Chieri"
             Boredom(Boredom.Completed)
-            Visual(VisualKind.AlbumArt, 0.5, 0.2)
+            Visual(VisualKind.Animated, 0.5, 0.2)
         }
 
         Entry {
@@ -86,7 +86,7 @@ fun DSLScope.Idolmaster() {
             title = "The iDOLM@STER Cinderella Girls 2nd Season"
             bestGirl = "Ogata Chieri"
             Boredom(Boredom.Completed)
-            Visual(VisualKind.AlbumArt, 0.5, 0.2)
+            Visual(VisualKind.Animated, 0.5, 0.2)
         }
     }
 }

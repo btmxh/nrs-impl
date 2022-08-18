@@ -3,6 +3,8 @@ package com.dah.nrs
 import com.dah.nrs.core.ID
 import com.dah.nrs.exts.*
 import com.dah.nrs.rules.dah_sum_contain_weight
+import com.dah.nrs.rules.dah_visual_checks
+import com.dah.nrs.rules.dah_visualless_entry
 import kotlin.math.absoluteValue
 
 class Data(
@@ -38,7 +40,9 @@ abstract class ValidationRule(val data: Data) {
 fun main() {
     val data = Data()
     for (rule in listOf<ValidationRule>(
-        dah_sum_contain_weight(data)
+        dah_sum_contain_weight(data),
+        dah_visual_checks(data),
+        dah_visualless_entry(data),
     )) {
         rule.run()
     }

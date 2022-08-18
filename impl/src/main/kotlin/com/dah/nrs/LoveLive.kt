@@ -352,8 +352,8 @@ fun DSLScope.LoveLive() {
 
             FeatureMusic("M-VGMDB-AL-36547-1")
             Boredom(Boredom.Completed)
-
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
+            Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
