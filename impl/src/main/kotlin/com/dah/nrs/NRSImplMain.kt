@@ -38,6 +38,7 @@ fun main() =
             // iirc i liked this anime's plot
             AEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
         Entry {
@@ -47,6 +48,7 @@ fun main() =
             // ig it's kinda good
             NEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
         Sakurasou()
@@ -71,6 +73,7 @@ fun main() =
             Meme(0.3, 10)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
         SoraMethod()
@@ -99,6 +102,7 @@ fun main() =
             // but it's too overkill so an impact instead
             AdditionalImpact("Gate-open anime", 1.0)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
         Entry {
@@ -107,6 +111,7 @@ fun main() =
 
             bestGirl = "Usami Mizuki"
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
         KimiNawa()
@@ -120,6 +125,7 @@ fun main() =
             // from nrs1
             AEI(2.5, Emotion.CU)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
         KobayashiMaidDragon()
@@ -135,6 +141,7 @@ fun main() =
             Meme(0.4, 25)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
         Entry {
@@ -152,6 +159,7 @@ fun main() =
             // no pads tho
             Cry(Emotion.CU)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.65, 0.35)
         }
 
         Entry {
@@ -163,6 +171,7 @@ fun main() =
             bestGirl = "Tendou Karen"
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.3)
         }
 
         OneRoom()
@@ -176,6 +185,7 @@ fun main() =
             // ending sadge
             AEI(2.5, Emotion.CU)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
         Entry {
@@ -189,6 +199,7 @@ fun main() =
             // they got cucked
 //            status = EntryStatus.Watching
             Boredom(Boredom.TempOnHold)
+            Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
         COTE()
@@ -200,6 +211,7 @@ fun main() =
 
             Boredom(Boredom.Completed)
             NEI(2.0, Emotion.AP)
+            Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
         TateYuusha()
@@ -213,6 +225,7 @@ fun main() =
 
             // episodic ngl
             Boredom(Boredom.Dropped)
+            Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
         Entry {
@@ -223,6 +236,7 @@ fun main() =
             bestGirl = "Washing Machine"
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
         Entry {
@@ -234,6 +248,7 @@ fun main() =
 
             Boredom(Boredom.Completed)
             AEI(1.0, Emotion.CU)
+            Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
         Entry {
@@ -247,6 +262,7 @@ fun main() =
 
             // sad ending (i don't remember now lmfao)
             AEI(5.0, Emotion.CU)
+            Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
         ShichiseiSubaru()
@@ -288,6 +304,7 @@ fun main() =
 
             // decent plot ngl
             NEI(8.0, Emotion.AP)
+            Visual(VisualKind.Animated, 0.5, 0.4)
         }
 
         Summer2022()

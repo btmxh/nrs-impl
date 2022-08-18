@@ -14,7 +14,7 @@ fun DSLScope.Idolmaster() {
             id = "M-VGMDB-AR-32295"
             title = "765 MILLION ALLSTARS"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78253-1")
             }
         }
@@ -23,6 +23,7 @@ fun DSLScope.Idolmaster() {
             id = "M-VGMDB-AL-53945"
             title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
                 Music(3.5)
                 OsuSong(personal = 8.0)
@@ -32,6 +33,8 @@ fun DSLScope.Idolmaster() {
             id = "M-VGMDB-AL-64249"
             title = "THE IDOLM@STER CINDERELLA MASTER EVERMORE"
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+
             SubIDEntry("1") {
                 Music(4.0)
             }
@@ -40,6 +43,8 @@ fun DSLScope.Idolmaster() {
         Entry {
             id = "M-VGMDB-AL-78253"
             title = "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
             SubIDEntry("1") {
                 Music(3.5)
@@ -60,6 +65,7 @@ fun DSLScope.Idolmaster() {
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.AlbumArt, 0.4, 0.3)
         }
 
         NEI(2.5, Emotion.AP) {
@@ -72,6 +78,7 @@ fun DSLScope.Idolmaster() {
             title = "The iDOLM@STER Cinderella Girls"
             bestGirl = "Ogata Chieri"
             Boredom(Boredom.Completed)
+            Visual(VisualKind.AlbumArt, 0.5, 0.2)
         }
 
         Entry {
@@ -79,6 +86,7 @@ fun DSLScope.Idolmaster() {
             title = "The iDOLM@STER Cinderella Girls 2nd Season"
             bestGirl = "Ogata Chieri"
             Boredom(Boredom.Completed)
+            Visual(VisualKind.AlbumArt, 0.5, 0.2)
         }
     }
 }

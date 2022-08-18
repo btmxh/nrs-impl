@@ -4,10 +4,7 @@ import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
 import com.dah.nrs.dsl.vector
-import com.dah.nrs.exts.Art
-import com.dah.nrs.exts.Impact
-import com.dah.nrs.exts.Music
-import com.dah.nrs.exts.set
+import com.dah.nrs.exts.*
 
 fun DSLScope.JMetal() {
     Entry {
@@ -17,6 +14,8 @@ fun DSLScope.JMetal() {
         Entry {
             id = "M-VGMDB-AL-97601"
             title = "Truths, Ironies, The Secret Lyrics"
+
+            Visual(VisualKind.AlbumArt, 0.15, 0.3)
 
             SubIDEntry("1") {
                 Music(3.0)
@@ -54,6 +53,7 @@ fun DSLScope.JMetal() {
             title = "Stories That Last Through The Sleepless Nights"
 
             Contains("M-VGMDB-AL-97601-1")
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("4") {
                 title = "Wandering, Never Wondering (There Exists A Shade)"

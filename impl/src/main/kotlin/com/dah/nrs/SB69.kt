@@ -88,6 +88,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-51706-2")
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
         Entry {
@@ -109,6 +110,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-61981-3")
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
         Entry {
@@ -132,6 +134,7 @@ fun DSLScope.SB69() {
             // mashu mp farm got fucked by the existence of the cat
             // and pmgc
             KilledBy("M-18", potential = 0.75, effect = 0.75)
+            Visual(VisualKind.Animated, 0.65, 0.4)
 
             Boredom(Boredom.Completed)
         }
@@ -171,6 +174,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-100087-1")
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.65, 0.4)
         }
 
         // fes a live has fhana songs lmao
@@ -181,7 +185,10 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-100087"
             title = "How To Fly"
 
+            Visual(VisualKind.AlbumArt, 0.45, 0.3)
             SubIDEntry("1") {
+                // fes a live art looks a little bit weird ngl
+                Visual(VisualKind.AnimatedMV, 0.45, 0.3)
                 Music(3.5)
             }
         }
@@ -189,6 +196,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-94913"
             title = "My pace!!"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.7)
 
             SubIDEntry("1") {
                 // really interesting vocal
@@ -200,6 +209,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-51276"
             title = "Seishun wa Non-Stop!"
+
+            Visual(VisualKind.AlbumArt, 0.6, 0.6)
 
             SubIDEntry("1") {
                 Music(2.5)
@@ -218,6 +229,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-51278"
             title = "Tabiji Yoiyoi Yume Hanabi"
 
+            Visual(VisualKind.AlbumArt, 0.45, 0.5)
+
             SubIDEntry("1") {
                 Music(3.0)
             }
@@ -226,6 +239,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-51706"
             title = "Meikyuu DESTINY/Ryuusei Dreamline"
+
+            Visual(VisualKind.AlbumArt, 0.55, 0.4)
 
             SubIDEntry("1", "Meikyuu DESTINY") {
                 Music(5.0)
@@ -241,6 +256,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-61217"
             title = "Heart wo Rock!!"
 
+            Visual(VisualKind.AlbumArt, 0.45, 0.4)
+
             SubIDEntry("1") {
                 Music(7.0)
             }
@@ -250,6 +267,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-61940"
             title = "Schlehit Melodie/Danzai no Solitude"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.4)
+
             SubIDEntry("1", "Schlehit Melodie") {
                 Music(4.0)
             }
@@ -258,6 +277,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-61981"
             title = "My Resolution ~Mirai e no Kizuna~"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
                 Music(5.0)
@@ -274,6 +295,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-59914"
             title = "Do Re Mi Fa PARTY"
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.5)
+
             SubIDEntry("1") {
                 // xd
                 Music(2.0)
@@ -281,7 +304,7 @@ fun DSLScope.SB69() {
             }
         }
 
-        // visuals of hiromemes and mashiro start line are good
+        // "visual"s of hiromemes and mashiro start line are good
         NEI(5.0, Emotion.MP) {
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-1"] = 0.25
@@ -296,11 +319,14 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-93440"
             title = "Hiromenes/Kimi no Rhapsody"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.3)
+
             SubIDEntry("1", "Hiromenes") {
                 Music(6.0)
             }
 
             SubIDEntry("2", "Kimi no Rhapsody") {
+                // hahahahahaaha the howan tinh song
                 Music(2.5)
                 Meme(0.01, numDays("2022-04-01"))
                 Remix("M-62")
@@ -323,6 +349,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-93441"
             title = "Yell and Response"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.3)
+
             SubIDEntry("1") {
                 Music(2.0)
             }
@@ -331,6 +359,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-104341"
             title = "Do Re Mi Fa STARS!!/Hoshizora Light Story"
+
+            Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
             SubIDEntry("1", "Do Re Mi Fa STARS!!") {
                 // aka ceui - colorful days (mp-based franchise ver.)
@@ -346,6 +376,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-104266"
             title = "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.1"
+
+            Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
             SubIDEntry("3", "Do! It! Happy Daibouken!") {
                 // do it party reference lmfao
@@ -365,6 +397,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-104267"
             title = "SHOW BY ROCK!! STARS!! INSERT SONG MINI ALBUM Vol.2"
+
+            Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
             SubIDEntry("5", "EMPIRE DOMINATOR") {
                 Music(2.5)
@@ -396,7 +430,7 @@ fun DSLScope.SB69() {
             title = "Taikakusen wo Tsunaideyo"
 
             SubIDEntry("1") {
-                Music(6.0)
+                Music(6.5)
             }
         }
 
@@ -406,7 +440,7 @@ fun DSLScope.SB69() {
 
             // also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno)
             SubIDEntry("1") {
-                Music(2.5)
+                Music(3.5)
             }
 
             // if u understand, u understand
@@ -523,7 +557,7 @@ fun DSLScope.SB69() {
             id = "M-18"
             title = "Plasmagica"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-94913")
                 Contains("M-VGMDB-AL-51276")
                 Contains("M-22", 0.5)
@@ -542,7 +576,7 @@ fun DSLScope.SB69() {
             id = "M-19"
             title = "Tsurezurenaru Ayatsuri Mugenan"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-51278")
             }
         }
@@ -551,7 +585,7 @@ fun DSLScope.SB69() {
             id = "M-20"
             title = "Mashumairesh!!"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-93440")
                 Contains("M-VGMDB-AL-93441")
                 Contains("M-VGMDB-AL-104341-1", 0.5)
@@ -565,7 +599,7 @@ fun DSLScope.SB69() {
             id = "M-21"
             title = "BUD VIRGIN LOGIC"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-61940")
                 Contains("M-VGMDB-AL-104267-5")
             }
@@ -575,7 +609,7 @@ fun DSLScope.SB69() {
             id = "M-23"
             title = "Criticrista"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104266-6")
                 Contains("M-VGMDB-AL-61982")
                 Contains("M-VGMDB-AL-105612")

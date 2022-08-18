@@ -29,6 +29,8 @@ fun DSLScope.SoraYori() {
             // the girls are comfy too
             NEI(7.5, Emotion.MP)
 
+            Visual(VisualKind.Animated, 0.3, 0.5)
+
             FeatureMusic("M-VGMDB-AL-73544-1")
             FeatureMusic("M-VGMDB-AL-73544-2")
         }
@@ -37,6 +39,7 @@ fun DSLScope.SoraYori() {
             id = "M-VGMDB-AL-73544"
             title = "Koko kara, Koko kara"
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.5)
             SubIDEntry("1") {
                 Music(5.0)
                 // make v-tuber a thing (hanayori dorm bs)

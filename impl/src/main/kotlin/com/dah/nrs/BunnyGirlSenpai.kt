@@ -16,6 +16,7 @@ fun DSLScope.BunnyGirlSenpai() {
             Boredom(Boredom.Dropped)
             // plot kinda ok
             NEI(5.0, Emotion.AP)
+            Visual(VisualKind.Animated, 0.6, 0.15)
             FeatureMusic("M-VGMDB-AL-80253-1")
         }
 
@@ -25,6 +26,9 @@ fun DSLScope.BunnyGirlSenpai() {
     Entry {
         id = "M-VGMDB-AL-80253"
         title = "Kimi no Sei"
+
+        // tf is this lol
+        Visual(VisualKind.AlbumArt, 0.1, 0.6)
 
         SubIDEntry("1") {
             Music(1.0)

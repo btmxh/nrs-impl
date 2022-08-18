@@ -29,6 +29,7 @@ fun DSLScope.Sakurasou() {
             // (see NewGame.kt)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.4)
 
             FeatureMusic("M-VGMDB-AL-35015-1")
         }
@@ -37,6 +38,7 @@ fun DSLScope.Sakurasou() {
             id = "M-VGMDB-AL-35015"
             title = "Kimi ga Yume wo Tsuretekita"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
                 Music(2.25)
             }

@@ -21,6 +21,8 @@ fun DSLScope.Chuunibyou() {
             id = "M-VGMDB-AL-42762"
             title = "VOICE"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.2)
+
             SubIDEntry("1") {
                 Music(2.0)
                 OsuSong(personal = 2.0)
@@ -39,6 +41,8 @@ fun DSLScope.Chuunibyou() {
             id = "A-MAL-14741"
             title = "Chuunibyou demo Koi ga Shitai!"
 
+            Visual(VisualKind.Animated, 0.6, 0.2)
+
             bestGirl = "Nibutani Shinka"
             // idk why
             // this is taken from NRS1
@@ -56,6 +60,7 @@ fun DSLScope.Chuunibyou() {
             // Shichimiya memes
             Meme(0.4, 10)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.2)
 
             FeatureMusic("M-VGMDB-AL-42762-1")
         }
@@ -68,6 +73,7 @@ fun DSLScope.Chuunibyou() {
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later
             NEI(7.5, Emotion.AP)
+            Visual(VisualKind.Animated, 0.6, 0.2)
         }
     }
 }

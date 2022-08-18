@@ -14,6 +14,8 @@ fun DSLScope.KobayashiMaidDragon() {
             id = "M-VGMDB-AL-62516"
             title = "Aozora no Rhapsody"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.3)
+
             SubIDEntry("1") {
                 Music(3.0)
             }
@@ -22,6 +24,8 @@ fun DSLScope.KobayashiMaidDragon() {
         Entry {
             id = "M-VGMDB-AL-110219"
             title = "Ai no Supreme!"
+
+            Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
             SubIDEntry("1") {
                 Music(4.0)
@@ -37,6 +41,8 @@ fun DSLScope.KobayashiMaidDragon() {
 
             // funny ig idk tbh
             NEI(7.5, Emotion.AP)
+
+            Visual(VisualKind.Animated, 0.6, 0.3)
 
             Boredom(Boredom.Completed)
             FeatureMusic("M-VGMDB-AL-62516-1")

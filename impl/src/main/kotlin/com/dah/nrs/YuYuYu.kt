@@ -17,6 +17,8 @@ fun DSLScope.YuYuYu() {
             id = "M-VGMDB-AL-47678"
             title = "Aurora Days"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+
             SubIDEntry("1") {
                 Music(1.5)
             }
@@ -25,6 +27,8 @@ fun DSLScope.YuYuYu() {
         Entry {
             id = "M-VGMDB-AL-114186"
             title = "Ashita no Hanatachi"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
             // the glorious udon stream map
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
@@ -92,7 +96,7 @@ fun DSLScope.YuYuYu() {
             // use OP/ED visual + music to strengthen the sadness.
             // (only the ending tho)
             AEI(2.5, Emotion.CU)
-
+            Visual(VisualKind.Animated, 0.3, 0.5)
             Boredom(Boredom.Completed)
         }
 
@@ -139,6 +143,7 @@ fun DSLScope.YuYuYu() {
             AEI(3.0, Emotion.CU)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.LightNovel, 0.15, 0.5)
         }
 
         Entry {
@@ -156,6 +161,7 @@ fun DSLScope.YuYuYu() {
             NEI(5.0, Emotion.CU)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
         Entry {
@@ -176,6 +182,7 @@ fun DSLScope.YuYuYu() {
             AEI(3.0, Emotion.CU)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
         Entry {
@@ -201,6 +208,7 @@ fun DSLScope.YuYuYu() {
             FeatureMusic("M-VGMDB-AL-114186-2")
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.5)
         }
     }
 }

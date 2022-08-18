@@ -26,7 +26,7 @@ fun DSLScope.WakeUpGirls() {
             id = "M-VGMDB-AR-15137"
             title = "Wake Up, Girls!"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-42945")
                 Contains("M-VGMDB-AL-46042")
                 Contains("M-VGMDB-AL-68276", 0.5)
@@ -37,6 +37,8 @@ fun DSLScope.WakeUpGirls() {
             id = "M-VGMDB-AL-46042"
             title = "Tachiagare!"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+
             SubIDEntry("1") {
                 Music(6.0)
             }
@@ -45,6 +47,8 @@ fun DSLScope.WakeUpGirls() {
         Entry {
             id = "M-VGMDB-AL-42945"
             title = "7 Girls War"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             SubIDEntry("1") {
                 Music(3.5)
@@ -60,6 +64,7 @@ fun DSLScope.WakeUpGirls() {
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
 
             FeatureMusic("M-VGMDB-AL-46042-1")
+            Visual(VisualKind.Animated, 0.4, 0.6)
         }
 
         Entry {
@@ -69,6 +74,7 @@ fun DSLScope.WakeUpGirls() {
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             FeatureMusic("M-VGMDB-AL-42945-1")
+            Visual(VisualKind.Animated, 0.4, 0.6)
         }
 
         Entry {
@@ -77,6 +83,7 @@ fun DSLScope.WakeUpGirls() {
 
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            Visual(VisualKind.Animated, 0.4, 0.6)
         }
 
         Entry {
@@ -85,6 +92,7 @@ fun DSLScope.WakeUpGirls() {
 
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            Visual(VisualKind.Animated, 0.4, 0.6)
         }
 
         Entry {
@@ -93,6 +101,7 @@ fun DSLScope.WakeUpGirls() {
 
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            Visual(VisualKind.Animated, 0.3, 0.6)
         }
     }
 
@@ -101,6 +110,8 @@ fun DSLScope.WakeUpGirls() {
 
         // dream luck be like lmfao
         title = "One In A Billion" // [Fantasy]
+
+        Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         SubIDEntry("1") {
             OsuSong(personal = 0.5, community = 0.1)

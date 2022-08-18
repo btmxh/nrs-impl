@@ -19,6 +19,8 @@ fun DSLScope.ShichiseiSubaru() {
             // (It only exists in the first episodes tho)
             AEI(1.0, Emotion.CU)
 
+            Visual(VisualKind.Animated, 0.6, 0.2)
+
             FeatureMusic("M-VGMDB-AL-78478-1")
         }
 

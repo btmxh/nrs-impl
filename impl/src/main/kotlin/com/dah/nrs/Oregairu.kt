@@ -19,6 +19,8 @@ fun DSLScope.Oregairu() {
             id = "M-VGMDB-AL-37999"
             title = "Hello Alone"
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.5)
+
             Music(3.0) {
                 contributors["M-VGMDB-AL-37999-1"] = 0.5
                 contributors["M-VGMDB-AL-37999-2"] = 0.5
@@ -32,6 +34,8 @@ fun DSLScope.Oregairu() {
             id = "M-VGMDB-AL-51394"
             title = "Everyday World"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.25)
+
             Music(3.5) {
                 contributors["M-VGMDB-AL-51394-1"] = 0.5
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
@@ -44,6 +48,8 @@ fun DSLScope.Oregairu() {
         Entry {
             id = "M-VGMDB-AL-96290"
             title = "Diamond no Jundo"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
             SubIDEntry("1") {
                 Music(3.0)
@@ -87,6 +93,7 @@ fun DSLScope.Oregairu() {
             // Brain's Base drew Yukino better than Yui
             bestGirl = "Yukinoshita Yukino"
 
+            Visual(VisualKind.Animated, 0.25, 0.4)
             NEI(7.5, Emotion.AP)
 
             FeatureMusic("M-VGMDB-AL-37932-1")
@@ -102,6 +109,7 @@ fun DSLScope.Oregairu() {
             // feel. drew Yui better
             bestGirl = "Yuigahama Yui"
 
+            Visual(VisualKind.Animated, 0.4, 0.25)
             NEI(2.5, Emotion.AP)
 
             // Oregairu S2 has a lot of drama that I don't even
@@ -123,6 +131,7 @@ fun DSLScope.Oregairu() {
             bestGirl = "Yuigahama Yui"
             seasonal = true
 
+            Visual(VisualKind.Animated, 0.4, 0.25)
             Meme(0.2, 2)
 
             // Yui dead people arc was kinda good

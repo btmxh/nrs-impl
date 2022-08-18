@@ -15,6 +15,8 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AL-60358"
             title = "STAR BEAT! ~Hoshi no Kodou~"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.1)
+
             SubIDEntry("1") {
                 Music(4.0)
             }
@@ -23,6 +25,8 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-VGMDB-AL-63624"
             title = "Tokimeki Experience!"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.2)
 
             SubIDEntry("1") {
                 Music(1.5)
@@ -36,6 +40,8 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-VGMDB-AL-81504"
             title = "KIZUNA MUSIC♪"
+
+            Visual(VisualKind.AlbumArt, 0.15, 0.4)
 
             SubIDEntry("1") {
                 // this song got memed in the rst-sb69 era because of two things
@@ -60,6 +66,8 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AL-111089"
             title = "Live Beyond!!"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.15)
+
             SubIDEntry("5", "Koko kara Saki wa Uta ni Naranai") {
                 Music(4.5)
             }
@@ -68,6 +76,8 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-VGMDB-AL-74133"
             title = "CiRCLiNG"
+
+            Visual(VisualKind.AlbumArt, 0.35, 0.15)
 
             SubIDEntry("2", "Light Delight") {
                 // naite naite
@@ -80,6 +90,13 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AL-95118"
             title = "Initial/Yume wo Uchinuku Shunkan ni!"
 
+            // special edition: https://vgmdb.net/album/95118
+            Visual(VisualKind.AlbumArt, 0.35, 0.15)
+            // kirakira ver: https://vgmdb.net/album/92053
+            Visual(VisualKind.AlbumArt, 0.3, 0.15)
+            // dokidoki ver: https://vgmdb.net/album/92051
+            Visual(VisualKind.AlbumArt, 0.45, 0.1)
+
             SubIDEntry("2", "Yume wo Uchinuku Shunkan ni!") {
                 Music(3.0)
                 // iykyk
@@ -91,7 +108,7 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AR-27992"
             title = "Poppin'Party"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-60358")
                 Contains("M-VGMDB-AL-63624")
                 Contains("M-VGMDB-AL-81504")
@@ -107,6 +124,8 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AL-85172"
             title = "FIRE BIRD"
 
+            Visual(VisualKind.AlbumArt, 0.2, 0.6)
+
             SubIDEntry("1") {
                 Music(3.5)
             }
@@ -116,7 +135,7 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AR-27993"
             title = "Roselia"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-85172")
             }
         }
@@ -125,7 +144,7 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AR-31328"
             title = "Pastel*Palletes"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-106577-6")
                 Contains("M-35", 1.0 / 3)
             }
@@ -135,7 +154,7 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AR-31329"
             title = "Hello, Happy World!"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-114399-8")
             }
         }
@@ -143,6 +162,8 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-VGMDB-AL-82743"
             title = "Y.O.L.O"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.15)
 
             SubIDEntry("1") {
                 Music(3.5)
@@ -154,7 +175,7 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AR-31326"
             title = "Afterglow"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-82743")
             }
         }
@@ -163,6 +184,8 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-VGMDB-AL-106577"
             title = "BanG Dream! Girls Band Party! Cover collection vol.5"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.1)
 
             SubIDEntry("1", "Cherry Bomb") {
                 Music(3.0)
@@ -180,6 +203,8 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-VGMDB-AL-114399"
             title = "BanG Dream! Girls Band Party! Cover collection vol.6"
+
+            Visual(VisualKind.AlbumArt, 0.45, 0.1)
 
             SubIDEntry("8", "Silhouette") {
                 Music(5.0)
@@ -209,6 +234,8 @@ fun DSLScope.Bandori() {
             Meme(0.2, 6)
             Boredom(Boredom.Completed)
 
+            Visual(VisualKind.Animated, 0.4, 0.4)
+
             FeatureMusic("M-VGMDB-AL-63624-1")
 
         }
@@ -219,6 +246,9 @@ fun DSLScope.Bandori() {
             bestGirl = "Ichigaya Arisa"
             // nrs1
             Meme(0.15, 2)
+
+            // cg lmfao
+            Visual(VisualKind.Animated, 0.15, 0.5)
             // rip
             Boredom(Boredom.Dropped)
             FeatureMusic("M-VGMDB-AL-81504-1")
@@ -232,6 +262,9 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-32"
             title = "S"
+
+            // 3d girl ew /s
+            Visual(VisualKind.AlbumArt, 0.1, 0.15)
 
             Entry {
                 id = "M-33"
@@ -247,8 +280,11 @@ fun DSLScope.Bandori() {
         id = "M-VGMDB-AR-25291"
         title = "KANA-BOON"
 
+        // 3d men ew /s
+        Visual(VisualKind.AlbumArt, 0.08, 0.175)
+
         Entry {
-            id = "M-VGMDB-AL-50721"
+            id = "M-VGMDB-AL-50723"
             title = "Silhouette"
 
             SubIDEntry("1") {

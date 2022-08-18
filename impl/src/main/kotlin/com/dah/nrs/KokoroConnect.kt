@@ -15,6 +15,8 @@ fun DSLScope.KokoroConnect() {
             title =
                 """Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song "Kimochi Signal" / Kizu Random Ending Theme Song "Cry out""""
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.3)
+
             SubIDEntry("1", "Kimochi Signal") {
                 Music(1.5)
             }
@@ -44,6 +46,8 @@ fun DSLScope.KokoroConnect() {
 
             Boredom(Boredom.Completed)
 
+            Visual(VisualKind.Animated, 0.4, 0.3)
+
             FeatureMusic("M-VGMDB-AL-35431")
         }
 
@@ -52,6 +56,7 @@ fun DSLScope.KokoroConnect() {
             title = "Kokoro Connect: Michi Random"
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.4, 0.3)
         }
     }
 }

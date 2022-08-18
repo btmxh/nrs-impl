@@ -1,9 +1,11 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+
+private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
+    Visual(kind, 0.65, 0.2)
+}
 
 fun DSLScope.`K-On`() {
     Entry {
@@ -13,6 +15,8 @@ fun DSLScope.`K-On`() {
         Entry {
             id = "M-VGMDB-AL-20118"
             title = "Utauyo!!MIRACLE"
+
+            `K-OnVisual`(VisualKind.AlbumArt)
 
             SubIDEntry("2") {
                 title = "Kira Kira Days"
@@ -27,6 +31,8 @@ fun DSLScope.`K-On`() {
             id = "M-VGMDB-AL-21146"
             title = "HO-KAGO TEA TIME Second"
 
+            `K-OnVisual`(VisualKind.AlbumArt)
+
             SubIDEntry("9") {
                 title = "Tenshi ni Fureta yo!"
 
@@ -38,6 +44,8 @@ fun DSLScope.`K-On`() {
             id = "M-VGMDB-AL-22848"
             title = "Gohan wa Okazu/U&I"
 
+            `K-OnVisual`(VisualKind.AlbumArt)
+
             SubIDEntry("2", "U&I") {
                 Music(1.0)
             }
@@ -47,7 +55,7 @@ fun DSLScope.`K-On`() {
             id = "M-VGMDB-AR-8870"
             title = "HO-KAGO TEA TIME"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-20118")
                 Contains("M-VGMDB-AL-21146")
                 Contains("M-VGMDB-AL-22848")
@@ -81,6 +89,7 @@ fun DSLScope.`K-On`() {
             bestGirl = "Nakano Azusa"
 
             Boredom(Boredom.CompletedWithNoticeableBoredom)
+            `K-OnVisual`(VisualKind.Animated)
         }
 
         Entry {
@@ -91,6 +100,7 @@ fun DSLScope.`K-On`() {
             Boredom(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
+            `K-OnVisual`(VisualKind.Animated)
         }
 
         Entry {
@@ -99,6 +109,7 @@ fun DSLScope.`K-On`() {
 
             Boredom(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")
+            `K-OnVisual`(VisualKind.Animated)
         }
     }
 }

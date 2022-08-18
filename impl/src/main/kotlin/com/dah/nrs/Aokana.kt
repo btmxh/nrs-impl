@@ -30,6 +30,8 @@ fun DSLScope.Aokana() {
 
             FeatureMusic("M-VGMDB-AL-52834")
 
+            Visual(VisualKind.VisualNovel, 0.8, 0.1)
+
             // idk what is this ngl
             Meme(0.8, 25)
             KilledBy("V-VNDB-27448", 0.1, 0.1)
@@ -40,6 +42,7 @@ fun DSLScope.Aokana() {
             title = "FOUR RHYTHM ACROSS THE BLUE VOCAL & SOUND COLLECTION"
             // too lazy to rate every single track
             Music(8.0)
+            Visual(VisualKind.AlbumArt, 0.2, 0.15)
         }
     }
 }

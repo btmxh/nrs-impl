@@ -19,6 +19,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-34051"
             title = "Snow halation"
 
+            Visual(VisualKind.AlbumArt, 0.1, 0.5)
+
             SubIDEntry("1") {
                 Music(2.5)
                 Meme(0.1, 6)
@@ -31,6 +33,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-36547"
             title = "Bokura wa Ima no Naka de"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+
             SubIDEntry("1") {
                 Music(3.0)
             }
@@ -39,6 +43,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-75504"
             title = "Music S.T.A.R.T!!"
+
+            Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("2", "LOVELESS WORLD") {
                 Music(4.0)
@@ -49,6 +55,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-93532"
             title = "A song for You! You? You!!"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+
             SubIDEntry("1") {
                 Music(5.0)
             }
@@ -58,7 +66,7 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AR-13719"
             title = "μ's"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-34051")
                 Contains("M-VGMDB-AL-36547")
                 Contains("M-VGMDB-AL-75504")
@@ -70,6 +78,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-58147"
             title = "Aozora Jumping Heart"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+
             SubIDEntry("1") {
                 Music(4.0)
             }
@@ -78,6 +88,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-58750"
             title = "Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu!"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1", "Kimeta yo Hand in Hand") {
                 Music(3.5)
@@ -88,6 +100,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-70622"
             title = "Yuuki wa Doko ni? Kimi no Mune ni!"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+
             SubIDEntry("1") {
                 Music(6.0)
             }
@@ -96,6 +110,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-71404"
             title = "MY MAI☆TONIGHT/MIRACLE WAVE"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("2", "MIRACLE WAVE") {
                 Music(3.0)
@@ -106,6 +122,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-78378"
             title = "Thank you, FRIENDS!!"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+
             SubIDEntry("1") {
                 Music(3.5)
             }
@@ -114,6 +132,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-87199"
             title = "Mitaiken HORIZON"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
                 Music(4.5)
@@ -125,7 +145,7 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AR-17153"
             title = "Aqours"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-58147")
                 Contains("M-VGMDB-AL-58750")
                 Contains("M-VGMDB-AL-70622")
@@ -139,6 +159,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-97692"
             title = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"
 
+            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+
             SubIDEntry("1", "Beginner's Sailing") {
                 Music(4.0)
             }
@@ -147,6 +169,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-102276"
             title = "Nijiiro Passions!"
+
+            Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
                 Music(3.0)
@@ -157,6 +181,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-102277"
             title = "NEO SKY, NEO MAP!"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.25)
+
             SubIDEntry("1") {
                 Music(6.5)
             }
@@ -166,7 +192,7 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AR-29922"
             title = "Nijigasaki High School Idol Club"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-102276")
                 Contains("M-VGMDB-AL-102277")
 
@@ -179,6 +205,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-80802"
             title = "TOKIMEKI Runners"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("1") {
                 Music(3.0)
@@ -201,6 +229,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-87198"
             title = "Love U my friends"
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+
             SubIDEntry("10") {
                 Music(3.0)
             }
@@ -217,6 +247,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-99272"
             title = "Just Believe!!!"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("12") {
                 Music(4.0)
@@ -240,6 +272,8 @@ fun DSLScope.LoveLive() {
             id = "M-VGMDB-AL-112929"
             title = "L!L!L! (Love the Life We Live)"
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+
             SubIDEntry("2", "Break The System") {
                 Music(4.0)
             }
@@ -250,6 +284,8 @@ fun DSLScope.LoveLive() {
             title = "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi)," +
                     " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
                     " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
+
+            Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
             // the first ayumu-era theme song
             SubIDEntry("1", "Dream with You") {
@@ -269,6 +305,8 @@ fun DSLScope.LoveLive() {
         Entry {
             id = "M-VGMDB-AL-104783"
             title = "Awakening Promise/Yume ga Koko kara Hajimaru yo"
+
+            Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
             SubIDEntry("1", "Awakening Promise") {
                 Music(1.25)
@@ -326,6 +364,7 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-34051-1")
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
+            Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
@@ -335,6 +374,7 @@ fun DSLScope.LoveLive() {
 
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
+            Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
@@ -345,6 +385,7 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-58750-1")
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
@@ -356,6 +397,7 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-70622-1")
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
@@ -364,6 +406,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Sakurauchi Riko"
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         // niji arcs
@@ -414,6 +457,7 @@ fun DSLScope.LoveLive() {
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(4.0, Emotion.AP)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.25)
 
             KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
@@ -434,6 +478,7 @@ fun DSLScope.LoveLive() {
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
+            Visual(VisualKind.Animated, 0.6, 0.25)
         }
 
         NEI(7.5, Emotion.AP) {
@@ -470,6 +515,7 @@ fun DSLScope.LoveLive() {
 
             // jk
             bestGirl = "Uehara Ayumu"
+            Visual(VisualKind.Animated, 0.6, 0.25)
 
             Boredom(Boredom.Watching)
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)

@@ -40,8 +40,9 @@ fun DSLScope.Cue() {
             NEI(5.0, Emotion.AP)
 
             Boredom(Boredom.Watching)
+            Visual(VisualKind.Animated, 0.5, 0.2)
 
-            FeatureMusic("M-VGMDB-AL-115724-1")
+            FeatureMusic("M-VGMDB-AL-115724")
 
             // duopoly shithole moment
             KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.25)
@@ -51,6 +52,8 @@ fun DSLScope.Cue() {
         Entry {
             id = "M-VGMDB-AL-115724"
             title = "Start Line/Hajimari no Kanenone ga Narihibiku Sora"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
             SubIDEntry("1", "Start Line") {
                 Music(7.0)
@@ -65,7 +68,7 @@ fun DSLScope.Cue() {
             id = "M-VGMDB-AR-33857"
             title = "AiRBLUE"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-115724")
             }
         }

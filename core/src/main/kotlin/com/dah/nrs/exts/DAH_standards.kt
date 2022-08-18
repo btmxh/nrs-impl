@@ -14,11 +14,13 @@ import kotlin.math.pow
 import kotlin.math.tanh
 import kotlin.math.withSign
 
-class DAH_standards(builder: NRSContextBuilder): Extension(builder) {
+class DAH_standards(builder: NRSContextBuilder) : Extension(builder) {
     init {
-        dependencies.addAll(listOf(
-            DAH_factors::class.simpleName!!
-        ))
+        dependencies.addAll(
+            listOf(
+                DAH_factors::class.simpleName!!
+            )
+        )
     }
 }
 
@@ -36,6 +38,7 @@ val Boredom.Watching
     get() = Level(4, "Watching", 0.75)
 val Boredom.TempOnHold
     get() = Level(5, "Temporarily On-Hold", -0.5)
+
 fun Boredom.PartiallyDropped(value: Double) = Level(6, "Partially dropped", value)
 
 fun AcceptImpact.Impact(block: DSLImpact.() -> Unit) {
@@ -52,7 +55,7 @@ fun AcceptRelation.Relation(block: DSLRelation.() -> Unit) {
 // combine(PADSImpactScoreVector, Emotion.weight) = 1.0
 // multiply this vector by `x` to change 1.0 to x in the above property
 private fun emotionVector(context: NRSContext, vararg emotions: Pair<Emotion.Factor, Double>): ScoreVector {
-    if(emotions.isEmpty()) {
+    if (emotions.isEmpty()) {
         error("Empty list of emotions")
     }
     val contributingFactors = emotions.map { it.second }
@@ -136,7 +139,7 @@ fun AcceptImpact.NEI(score: Double, emotion: Emotion.Factor, block: DSLImpact.()
     NEI(score, emotion to 1.0) { block() }
 
 fun AcceptImpact.Waifu(name: String, vararg periods: Pair<String, String>, block: DSLImpact.() -> Unit = {}) {
-    if(periods.isEmpty()) {
+    if (periods.isEmpty()) {
         error("Empty list of periods")
     }
     val days = periods.sumOf {
@@ -297,6 +300,7 @@ fun AcceptImpact.AdditionalImpact(description: String, value: Double, block: DSL
     }
 }
 
+// temporary standard: 5.0 is Re:Rays' level
 fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "Music"
@@ -305,35 +309,89 @@ fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
                 "$musicScore not in range 0..10"
             })
         }
-        meta("type", "NONSTD_music")
+        meta("type", "DAH_nonstandard_music")
         meta("input_score", musicScore)
         block()
     }
 }
 
-fun AcceptImpact.GenericVisual(visualScore: Double, block: DSLImpact.() -> Unit = {}) {
+private fun calcVisualScore(b: Double, u: Double): Double {
+    // let the visual score function be f(u, b)
+    // (u: uniqueness, b: base)
+    // we may let f(u, b) = g(b) + h(u, b)
+    // g: represents the actual visual
+    // h: buff unique anime
+
+    // let p(b) = f(1, b)/f(0, b)
+    // then we have h(1, b) = p(b)h(0, b) + g(b)(p(b) - 1)
+    // assume h is linear (to u), we have:
+    // h(u, b) = (1 + u(p(b)-1))h(0, b) + ug(b)(p(b)-1)
+    // then f(u, b) = g(b) + (1 + u(p(b)-1))h(0, b) + ug(b)(p(b)-1)
+    //              = (1 +u(p(b)-1))(h(0, b) + g(b))
+    // let k(b) = g(b) + h(0, b), we can rewrite f as
+    // f(u, b) = (1 + u(p(b) - 1))k(b)
+    // since f(1, b) > f(0, b), we need p(b) > 1 for every b
+    // with that in mind, we can choose p and k
+    // p(b) = s * max(b^t, 1)
+    // k(b) = b^r
+    // then we fine-tune r, s, and t
+
+    // (another version of p can be p(b) = max(s * b^t, 1))
+
+    // after finding f, by normalizing, we get the normalized f function:
+    // f(u, b) = (1 + u(p(b) - 1))k(b) / s
+
+    // fine-tuned values
+    val r = 2.04
+    val s = 1.133
+    val t = -1.4
+
+    val p = s * b.pow(t).coerceAtLeast(1.0)
+    val k = b.pow(r)
+    return (1 + u * (p - 1)) * k / s
+}
+
+enum class VisualKind(val baseScore: Double) {
+    Animated(3.0),
+    // A-MAL-38009: https://animixplay.to/v1/restage-dream-days
+    RPG3DGame(2.0),
+    // G-VGMDB-1880: https://store.steampowered.com/app/1152310/Atelier_Escha__Logy_Alchemists_of_the_Dusk_Sky_DX/
+    AnimatedShort(1.0),
+    // A-MAL-34240: https://www.youtube.com/watch?v=fzQ6gRAEoy0
+    AnimatedGachaCardArt(1.0),
+    // (unranked): https://twitter.com/lapi_staff/status/1555750517887975425
+    AnimatedMV(1.0),
+    // M-VGMDB-AL-100087-1: https://www.youtube.com/watch?v=IqdpYyaLnNc
+    SemiAnimatedMV(0.8),
+    // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
+    GachaCardArt(0.8),
+    // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
+    LightNovel(0.8),
+    // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
+    Manga(0.8),
+    // L-MAL-126146 (unranked): https://en.wikipedia.org/wiki/Oshi_no_Ko#/media/File:Oshi_no_Ko_Volume_1.jpg
+    VisualNovel(0.5),
+    // V-VNDB-12849: https://danbooru.donmai.us/posts/2234064
+    StaticMV(0.25),
+    // M-VGMDB-AL-121168 (not canon): https://www.youtube.com/watch?v=hj_4YAVmmuI
+    AlbumArt(0.25),
+    // M-VGMDB-AL-121168 (canon): https://medium-media.vgm.io/albums/86/121168/121168-de8dcf1b4ceb.jpg
+}
+
+fun AcceptImpact.Visual(kind: VisualKind, base: Double, uniqueness: Double, block: DSLImpact.() -> Unit = {}) {
+    if (base !in 0.0..1.0 || uniqueness !in 0.0..1.0) {
+        error("invalid base/uniqueness")
+    }
+
     Impact {
         description = "Generic visual"
         score = vector {
-            set(Art.Visual, mapClampThrow(visualScore, 0.0 .. 10.0, 0.0 .. 1.5) {
-                "$visualScore not in range 0..10"
-            })
+            set(Art.Visual, calcVisualScore(base, uniqueness) * kind.baseScore)
         }
-        meta("type", "NONSTD_generic_visual")
-        meta("input_score", visualScore)
-    }
-}
-
-fun AcceptImpact.UniqueVisual(visualScore: Double, block: DSLImpact.() -> Unit = {}) {
-    Impact {
-        description = "Unique visual"
-        score = vector {
-            set(Art.Visual, mapClampThrow(visualScore, 0.0 .. 10.0, 0.0 .. 2.5) {
-                "$visualScore not in range 0..10"
-            })
-        }
-        meta("type", "NONSTD_unique_visual")
-        meta("input_score", visualScore)
+        meta("type", "DAH_nonstandard_generic_visual")
+        meta("base", base)
+        meta("uniqueness", uniqueness)
+        block()
     }
 }
 
@@ -355,7 +413,7 @@ fun AcceptImpact.OsuSong(personal: Double = 0.0, community: Double = 0.0) {
         score = vector {
             set(Emotion.AP, personalFactor + communityFactor)
         }
-        meta("type", "NONSTD_osu_song")
+        meta("type", "DAH_nonstandard_osu_song")
         meta("personal_input", personal)
         meta("community_input", community)
         meta("personal_factor", personalFactor)
@@ -405,7 +463,13 @@ fun AcceptRelation.GateOpen(id: String, block: DSLRelation.() -> Unit = {}) {
     // TODO: a good gateopen impl
 }
 
-const val ImageVocalContainFactor = 0.8
+// 4-4-2 standard (not yoinked from football btw)
+const val MusicVocalContainFactor = 0.4
+const val MusicInstContainFactor = 0.4
+const val MusicImageContainFactor = 0.2
+const val MusicVocalImageContainFactor = MusicVocalContainFactor + MusicImageContainFactor
+const val MusicMainArtistFactor = 0.6
+const val MusicFeatArtistFactor = 0.4
 
 fun mapClampThrow(
     input: Double,

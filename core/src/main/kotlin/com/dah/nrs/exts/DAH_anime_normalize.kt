@@ -29,6 +29,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
 
                 Boredom(Boredom.Dropped)
                 AdditionalImpact("This shit sucks", -2.0)
+                Visual(VisualKind.Animated, 0.1, 0.2)
             }
 
             Entry {
@@ -37,6 +38,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
 
                 Boredom(Boredom.Dropped)
                 AdditionalImpact("This shit sucks", -1.0)
+                Visual(VisualKind.Animated, 0.2, 0.2)
             }
 
             Entry {
@@ -44,6 +46,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-3 base anime (Very Bad)"
 
                 Boredom(Boredom.Dropped)
+                Visual(VisualKind.Animated, 0.3, 0.2)
             }
 
             Entry {
@@ -51,6 +54,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-4 base anime (Bad)"
 
                 Boredom(Boredom.TempOnHold)
+                Visual(VisualKind.Animated, 0.3, 0.3)
             }
 
             Entry {
@@ -58,6 +62,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-5 base anime (Average)"
 
                 Boredom(Boredom.Completed)
+                Visual(VisualKind.Animated, 0.4, 0.3)
             }
 
             Entry {
@@ -66,6 +71,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
 
                 Boredom(Boredom.Completed)
                 AEI(1.0, Emotion.AP)
+                Visual(VisualKind.Animated, 0.5, 0.3)
             }
 
             Entry {
@@ -74,6 +80,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
 
                 Boredom(Boredom.Completed)
                 EHI()
+                Visual(VisualKind.Animated, 0.5, 0.5)
             }
 
             Entry {
@@ -84,6 +91,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 Cry(Emotion.CU)
                 PADS(1, Emotion.CU)
                 EPI(5.0)
+                Visual(VisualKind.Animated, 0.6, 0.5)
             }
 
             Entry {
@@ -95,6 +103,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 PADS(5, Emotion.CU)
                 EHI()
                 EPI(10.0)
+                Visual(VisualKind.Animated, 0.7, 0.5)
             }
 
             Entry {
@@ -112,6 +121,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 FeatureMusic("M-2")
                 FeatureMusic("M-3")
                 FeatureMusic("M-4")
+                Visual(VisualKind.Animated, 0.8, 0.5)
             }
 
             Entry {
@@ -125,21 +135,21 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "M-2"
                 title = "MAL-10 base anime sample music"
 
-                Music(8.0)
+                Music(6.0)
             }
 
             Entry {
                 id = "M-3"
                 title = "MAL-10 base anime sample music"
 
-                Music(9.0)
+                Music(7.0)
             }
 
             Entry {
                 id = "M-4"
                 title = "MAL-10 base anime sample music"
 
-                Music(10.0)
+                Music(8.0)
             }
         }
 

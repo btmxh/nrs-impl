@@ -16,6 +16,7 @@ fun DSLScope.COTE() {
             // no fuckign way she is VA'd by the glorious akari kito
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.75, 0.2)
             // plot pretty good
             AEI(5.0, Emotion.AP)
         }
@@ -26,7 +27,15 @@ fun DSLScope.COTE() {
 
             bestGirl = "Sakayanagi Arisu"
             // no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl
+
+            // you love arisu because she's a loli
+            // i love her because akm bs
+            // we are not the same
+            // (trust me u don't want us to be the same lmfao)
+
             Boredom(Boredom.Watching)
+            // a lil bit worse than s1 (but still not that bad)
+            Visual(VisualKind.Animated, 0.6, 0.2)
 
             // plot will be good
             AEI(1.0, Emotion.AP)

@@ -13,6 +13,8 @@ fun DSLScope.KimiNawa() {
             id = "A-MAL-32281"
             title = "Kimi no Na wa"
 
+            Visual(VisualKind.Animated, 0.75, 0.75)
+
             bestGirl = "Miki Okudera"
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
             Boredom(Boredom.Completed)

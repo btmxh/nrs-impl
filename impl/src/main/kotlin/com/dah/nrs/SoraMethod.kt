@@ -32,12 +32,14 @@ fun DSLScope.SoraMethod() {
             FeatureMusic("M-VGMDB-AL-47403-1")
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
         Entry {
             id = "M-VGMDB-AL-47402"
             title = "Stargazer"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.4)
             SubIDEntry("1") {
                 Music(3.0)
             }

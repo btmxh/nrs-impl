@@ -10,19 +10,13 @@ fun DSLScope.MadokaMagica() {
         id = "F-VGMDB-1945"
         title = "Mahou Shoujo Madoka☆Magica"
 
-        Entry {
-            id = "M-VGMDB-AL-23391"
-            title = "Connect"
-
-            SubIDEntry("1") {
-                Music(3.0)
-            }
-        }
+        Contains("M-VGMDB-AL-23391-1")
 
         Entry {
             id = "M-VGMDB-AL-30302"
             title = "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2", "Mata Ashita") {
                 Music(2.0)
             }
@@ -32,6 +26,7 @@ fun DSLScope.MadokaMagica() {
             id = "M-VGMDB-AL-24725"
             title = "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("4", "Credens justitiam") {
                 Music(2.5)
             }
@@ -41,23 +36,13 @@ fun DSLScope.MadokaMagica() {
             id = "M-VGMDB-AL-39170"
             title = "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2", "and I'm home") {
                 Music(1.5)
             }
         }
 
-        Entry {
-            id = "M-VGMDB-AL-41292"
-            title = "Colorful"
-
-            SubIDEntry("1") {
-                Music(5.0)
-
-                Remix("M-7")
-                Remix("M-8")
-            }
-        }
-
+        Contains("M-VGMDB-AL-41292-1")
         Contains("M-VGMDB-AL-69147-11")
 
         Entry {
@@ -65,23 +50,20 @@ fun DSLScope.MadokaMagica() {
             title =
                 "Magia Record: Puella Magi Madoka☆Magica Side Story 2nd SEASON -Kakusei Zenya- Theme Song Collection"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
+
             SubIDEntry("1", "Careless") {
                 Music(6.0)
             }
         }
 
-        Entry {
-            id = "M-VGMDB-AL-89431"
-            title = "Signal"
-
-            SubIDEntry("1") {
-                Music(7.0)
-            }
-        }
+        Contains("M-VGMDB-AL-89431-1")
 
         Entry {
             id = "M-VGMDB-AL-95029"
             title = "Gomakashi"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
                 Music(6.5)
@@ -91,6 +73,8 @@ fun DSLScope.MadokaMagica() {
         Entry {
             id = "M-VGMDB-AL-91985"
             title = "Utsuroi"
+
+            Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             SubIDEntry("1") {
                 // the game
@@ -122,6 +106,7 @@ fun DSLScope.MadokaMagica() {
             AEI(9.0, Emotion.CU)
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-23391-1")
             FeatureMusic("M-VGMDB-AL-30302-2")
@@ -137,6 +122,7 @@ fun DSLScope.MadokaMagica() {
             // I can't understand this movie lol
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-41292-1")
         }
@@ -180,6 +166,7 @@ fun DSLScope.MadokaMagica() {
             // Sana's backstory
             // Basically it's very tragic.
             Cry(Emotion.CU)
+            Visual(VisualKind.Animated, 0.5, 0.4)
 
             // Gate-opened gacha games (there is only re step in NRS tho)
             GateOpen("GF-VGMDB-7059")
@@ -201,6 +188,7 @@ fun DSLScope.MadokaMagica() {
             // Emotional impacts are all in the game
             // (Madokami's MGS, Sana's backstory)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.4)
 
             // Gate-opened gacha games
             GateOpen("G-VGMDB-5237")
@@ -217,6 +205,7 @@ fun DSLScope.MadokaMagica() {
             seasonal = true
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.4)
 
             // the animation tho
             Impact {
@@ -239,6 +228,7 @@ fun DSLScope.MadokaMagica() {
             seasonal = true
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.4)
 
             // :troll-despair:
             AEI(5.0, Emotion.CU to 0.9, Emotion.MP to 0.1)

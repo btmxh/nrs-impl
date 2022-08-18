@@ -56,7 +56,7 @@ object Emotion : SubscoreImpl(0.6) {
     override val factors = listOf(AU, AP, MU, MP, CU, CP)
 }
 
-object Art : SubscoreImpl(0.5) {
+object Art : SubscoreImpl(0.7) {
     open class Factor(weight: Double, vectorIndex: Int) : FactorScoreImpl(weight, vectorIndex)
     object Language : Factor(0.4, 6)
     object Visual : Factor(0.1, 7)

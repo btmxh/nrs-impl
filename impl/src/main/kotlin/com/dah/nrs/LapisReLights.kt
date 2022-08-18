@@ -21,6 +21,7 @@ fun DSLScope.LapisReLights() {
 
             // funny af, love live stands no chance
             EHI()
+            Visual(VisualKind.Animated, 0.4, 0.2)
             FeatureMusic("M-VGMDB-AL-104957")
             Boredom(Boredom.Completed)
         }
@@ -29,7 +30,7 @@ fun DSLScope.LapisReLights() {
             id = "M-51"
             title = "LiGHTs"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104957")
             }
         }
@@ -37,6 +38,8 @@ fun DSLScope.LapisReLights() {
         Entry {
             id = "M-VGMDB-AL-104957"
             title = "700,000,000,000,000,000,000,000 no Sora de"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.2)
 
             SubIDEntry("1") {
                 Music(4.0)

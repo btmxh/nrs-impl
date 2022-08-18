@@ -14,6 +14,8 @@ fun DSLScope.GakkouGurashi() {
             id = "M-VGMDB-AL-52993"
             title = "Friend Shitai"
 
+            Visual(VisualKind.AlbumArt, 0.65, 0.3)
+
             SubIDEntry("1") {
                 Music(3.0)
                 OsuSong(personal = 5.0)
@@ -24,7 +26,7 @@ fun DSLScope.GakkouGurashi() {
             id = "M-44"
             title = "Gakuen Seikatsubu"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-52993")
             }
         }
@@ -32,6 +34,8 @@ fun DSLScope.GakkouGurashi() {
         Entry {
             id = "M-VGMDB-AL-53719"
             title = "SCHOOL-LIVE! Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)"
+
+            Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1", "Unhappy End World") {
                 Music(5.0)
@@ -47,6 +51,8 @@ fun DSLScope.GakkouGurashi() {
             Cry(Emotion.CU)
             Meme(0.2, 6)
             FeatureMusic("M-VGMDB-AL-52993-1")
+
+            Visual(VisualKind.Animated, 0.6, 0.25)
 
             Boredom(Boredom.Completed)
         }

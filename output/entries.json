@@ -109,18 +109,18 @@
     "M-VGMDB-AR-30829": {
         "id": "M-VGMDB-AR-30829",
         "children": {
-            "M-VGMDB-AL-78536": 0.8,
-            "M-VGMDB-AL-78534": 0.8,
-            "M-VGMDB-AL-78575": 0.8,
-            "M-VGMDB-AL-78532": 0.8,
-            "M-VGMDB-AL-78530-1": 0.8,
-            "M-VGMDB-AL-78516": 0.8,
-            "M-VGMDB-AL-78764": 0.8,
-            "M-VGMDB-AL-84229": 0.8,
-            "M-VGMDB-AL-86622": 0.8,
-            "M-VGMDB-AL-89363": 0.8,
-            "M-VGMDB-AL-104673-5": 0.8,
-            "M-VGMDB-AL-122232": 0.8
+            "M-VGMDB-AL-78536": 0.6000000000000001,
+            "M-VGMDB-AL-78534": 0.6000000000000001,
+            "M-VGMDB-AL-78575": 0.6000000000000001,
+            "M-VGMDB-AL-78532": 0.6000000000000001,
+            "M-VGMDB-AL-78530-1": 0.6000000000000001,
+            "M-VGMDB-AL-78516": 0.6000000000000001,
+            "M-VGMDB-AL-78764": 0.6000000000000001,
+            "M-VGMDB-AL-84229": 0.6000000000000001,
+            "M-VGMDB-AL-86622": 0.6000000000000001,
+            "M-VGMDB-AL-89363": 0.6000000000000001,
+            "M-VGMDB-AL-104673-5": 0.6000000000000001,
+            "M-VGMDB-AL-122232": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "KiRaRe"
@@ -134,6 +134,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Do Re Mi Fa STARS!!/Hoshizora Light Story"
+        }
+    },
+    "M-VGMDB-AR-6799": {
+        "id": "M-VGMDB-AR-6799",
+        "children": {
+            "M-VGMDB-AL-74440": 0.6000000000000001
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "nayuta"
         }
     },
     "A-MAL-34522": {
@@ -230,8 +239,8 @@
     "M-46": {
         "id": "M-46",
         "children": {
-            "M-VGMDB-AL-58627": 0.8,
-            "M-VGMDB-AL-68225": 0.8
+            "M-VGMDB-AL-58627": 0.6000000000000001,
+            "M-VGMDB-AL-68225": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "fourfolium"
@@ -240,9 +249,9 @@
     "M-VGMDB-AR-8870": {
         "id": "M-VGMDB-AR-8870",
         "children": {
-            "M-VGMDB-AL-20118": 0.8,
-            "M-VGMDB-AL-21146": 0.8,
-            "M-VGMDB-AL-22848": 0.8
+            "M-VGMDB-AL-20118": 0.6000000000000001,
+            "M-VGMDB-AL-21146": 0.6000000000000001,
+            "M-VGMDB-AL-22848": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "HO-KAGO TEA TIME"
@@ -267,7 +276,7 @@
     "M-44": {
         "id": "M-44",
         "children": {
-            "M-VGMDB-AL-52993": 0.8
+            "M-VGMDB-AL-52993": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Gakuen Seikatsubu"
@@ -278,7 +287,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! School Idol Project 2nd Season"
+            "DAH_entry_title": "Love Live! School Idol Project 2nd Season",
+            "DAH_entry_bestGirl": "Nishikino Maki"
         }
     },
     "M-VGMDB-AL-120842": {
@@ -310,7 +320,7 @@
     "M-48": {
         "id": "M-48",
         "children": {
-            "M-VGMDB-AL-109271-48": 0.8
+            "M-VGMDB-AL-109271-48": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Re:STAGE! ALL IDOL"
@@ -321,7 +331,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Karakai Jouzu no Takagi-san"
+            "DAH_entry_title": "Karakai Jouzu no Takagi-san",
+            "DAH_entry_bestGirl": "Takagi"
         }
     },
     "M-VGMDB-AL-78530-1": {
@@ -381,7 +392,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sword Art Online"
+            "DAH_entry_title": "Sword Art Online",
+            "DAH_entry_bestGirl": "Yuuki Asuna"
         }
     },
     "A-MAL-33206": {
@@ -389,7 +401,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kobayashi-san Chi no Maid Dragon"
+            "DAH_entry_title": "Kobayashi-san Chi no Maid Dragon",
+            "DAH_entry_bestGirl": "Tohru"
         }
     },
     "A-MAL-51096": {
@@ -397,7 +410,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season"
+            "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season",
+            "DAH_entry_bestGirl": "Sakayanagi Arisu"
         }
     },
     "M-VGMDB-AL-41278": {
@@ -423,7 +437,7 @@
     "M-50": {
         "id": "M-50",
         "children": {
-            "M-VGMDB-AL-114102": 0.8
+            "M-VGMDB-AL-114102": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "9-tie"
@@ -441,8 +455,8 @@
     "M-VGMDB-AR-6783": {
         "id": "M-VGMDB-AR-6783",
         "children": {
-            "M-VGMDB-AL-114186": 0.16000000000000003,
-            "M-VGMDB-AL-73544": 0.2
+            "M-VGMDB-AL-114186": 0.12000000000000002,
+            "M-VGMDB-AL-73544": 0.15000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Hanazawa Kana"
@@ -460,12 +474,12 @@
     "M-VGMDB-AR-27992": {
         "id": "M-VGMDB-AR-27992",
         "children": {
-            "M-VGMDB-AL-60358": 0.8,
-            "M-VGMDB-AL-63624": 0.8,
-            "M-VGMDB-AL-81504": 0.8,
-            "M-VGMDB-AL-111089": 0.8,
-            "M-VGMDB-AL-74133": 0.8,
-            "M-VGMDB-AL-95118": 0.8,
+            "M-VGMDB-AL-60358": 0.6000000000000001,
+            "M-VGMDB-AL-63624": 0.6000000000000001,
+            "M-VGMDB-AL-81504": 0.6000000000000001,
+            "M-VGMDB-AL-111089": 0.6000000000000001,
+            "M-VGMDB-AL-74133": 0.6000000000000001,
+            "M-VGMDB-AL-95118": 0.6000000000000001,
             "M-VGMDB-AL-106577-1": 0.6
         },
         "DAH_meta": {
@@ -491,7 +505,7 @@
     "M-VGMDB-AR-27993": {
         "id": "M-VGMDB-AR-27993",
         "children": {
-            "M-VGMDB-AL-85172": 0.8
+            "M-VGMDB-AL-85172": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Roselia"
@@ -529,7 +543,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
+            "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+            "DAH_entry_bestGirl": "Horikita Suzune"
         }
     },
     "M-VGMDB-AL-80341-1": {
@@ -551,7 +566,7 @@
     "M-51": {
         "id": "M-51",
         "children": {
-            "M-VGMDB-AL-104957": 0.8
+            "M-VGMDB-AL-104957": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "LiGHTs"
@@ -605,8 +620,8 @@
     "M-VGMDB-AR-15766": {
         "id": "M-VGMDB-AR-15766",
         "children": {
-            "M-VGMDB-AL-52045": 0.8,
-            "M-VGMDB-AL-59371": 0.8
+            "M-VGMDB-AL-52045": 0.6000000000000001,
+            "M-VGMDB-AL-59371": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "mimimemeMIMI"
@@ -662,11 +677,11 @@
     "M-VGMDB-AR-29922": {
         "id": "M-VGMDB-AR-29922",
         "children": {
-            "M-VGMDB-AL-102276": 0.8,
-            "M-VGMDB-AL-102277": 0.8,
-            "M-VGMDB-AL-80802-1": 0.8,
-            "M-VGMDB-AL-87198-1": 0.8,
-            "M-VGMDB-AL-99272-12": 0.8
+            "M-VGMDB-AL-102276": 0.6000000000000001,
+            "M-VGMDB-AL-102277": 0.6000000000000001,
+            "M-VGMDB-AL-80802-1": 0.6000000000000001,
+            "M-VGMDB-AL-87198-1": 0.6000000000000001,
+            "M-VGMDB-AL-99272-12": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Nijigasaki High School Idol Club"
@@ -715,7 +730,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+            "DAH_entry_bestGirl": "Yukinoshita Yukino"
         }
     },
     "A-MAL-35839": {
@@ -723,7 +739,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sora yori mo Tooi Basho"
+            "DAH_entry_title": "Sora yori mo Tooi Basho",
+            "DAH_entry_bestGirl": "Shiraishi Yuzuki"
         }
     },
     "M-VGMDB-AL-24725": {
@@ -759,7 +776,8 @@
             "M-VGMDB-AL-70716-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Just Because!"
+            "DAH_entry_title": "Just Because!",
+            "DAH_entry_bestGirl": "Natsume Mio"
         }
     },
     "M-VGMDB-AL-61982-1": {
@@ -784,8 +802,8 @@
         "children": {
             "M-13": 0.5,
             "M-44": 0.25,
-            "M-VGMDB-AL-53719-1": 0.4,
-            "M-VGMDB-AL-82983-5": 0.8
+            "M-VGMDB-AL-53719-1": 0.30000000000000004,
+            "M-VGMDB-AL-82983-5": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Ozawa Ari"
@@ -796,7 +814,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! Superstar!!"
+            "DAH_entry_title": "Love Live! Superstar!!",
+            "DAH_entry_bestGirl": "Arashi Chisato"
         }
     },
     "M-VGMDB-AL-51278-1": {
@@ -848,7 +867,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season"
+            "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
+            "DAH_entry_bestGirl": "Uehara Ayumu"
         }
     },
     "M-VGMDB-AL-104673": {
@@ -875,7 +895,7 @@
     "M-VGMDB-AR-26886": {
         "id": "M-VGMDB-AR-26886",
         "children": {
-            "M-VGMDB-AL-51918": 0.8
+            "M-VGMDB-AL-51918": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "WEAVER"
@@ -921,7 +941,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+            "DAH_entry_bestGirl": "Nibutani Shinka"
         }
     },
     "F-VGMDB-6418": {
@@ -963,7 +984,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+            "DAH_entry_bestGirl": "Yuuki Yuuna"
         }
     },
     "M-VGMDB-AL-78530": {
@@ -1003,7 +1025,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sword Art Online II"
+            "DAH_entry_title": "Sword Art Online II",
+            "DAH_entry_bestGirl": "Yuuki Asuna"
         }
     },
     "M-VGMDB-AL-78534": {
@@ -1071,10 +1094,10 @@
     "M-VGMDB-AR-6876": {
         "id": "M-VGMDB-AR-6876",
         "children": {
-            "M-VGMDB-AL-37999-1": 0.4,
-            "M-VGMDB-AL-51394-1": 0.4,
-            "M-VGMDB-AL-96290-1": 0.4,
-            "M-VGMDB-AL-73544": 0.2
+            "M-VGMDB-AL-37999-1": 0.30000000000000004,
+            "M-VGMDB-AL-51394-1": 0.30000000000000004,
+            "M-VGMDB-AL-96290-1": 0.30000000000000004,
+            "M-VGMDB-AL-73544": 0.15000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Hayami Saori"
@@ -1285,10 +1308,11 @@
     "M-VGMDB-AR-14761": {
         "id": "M-VGMDB-AR-14761",
         "children": {
-            "M-VGMDB-AL-76155-2": 0.25,
             "M-23": 0.25,
-            "M-VGMDB-AL-95313": 0.8,
-            "M-VGMDB-AL-45361-1": 0.8
+            "M-VGMDB-AR-32295": 0.0196078431372549,
+            "M-VGMDB-AL-95313": 0.6000000000000001,
+            "M-VGMDB-AL-45361-1": 0.6000000000000001,
+            "M-VGMDB-AL-76155-2": 0.15000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Murakawa Rie"
@@ -1324,7 +1348,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! Sunshine!! 2nd Season"
+            "DAH_entry_title": "Love Live! Sunshine!! 2nd Season",
+            "DAH_entry_bestGirl": "Sakurauchi Riko"
         }
     },
     "M-VGMDB-AL-57564-1": {
@@ -1357,7 +1382,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+            "DAH_entry_bestGirl": "Yuigahama Yui"
         }
     },
     "M-VGMDB-AL-51394": {
@@ -1453,7 +1479,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tsuki ga Kirei"
+            "DAH_entry_title": "Tsuki ga Kirei",
+            "DAH_entry_bestGirl": "Mizuno Akane"
         }
     },
     "M-VGMDB-AL-43320": {
@@ -1473,7 +1500,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "The iDOLM@STER Cinderella Girls 2nd Season"
+            "DAH_entry_title": "The iDOLM@STER Cinderella Girls 2nd Season",
+            "DAH_entry_bestGirl": "Ogata Chieri"
         }
     },
     "M-VGMDB-AR-26614": {
@@ -1492,7 +1520,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gabriel DropOut"
+            "DAH_entry_title": "Gabriel DropOut",
+            "DAH_entry_bestGirl": "Satanichia Kurumizawa McDowell"
         }
     },
     "M-VGMDB-AL-44890": {
@@ -1517,7 +1546,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
+            "DAH_entry_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+            "DAH_entry_bestGirl": "Kaname Madoka"
         }
     },
     "M-VGMDB-AL-106577-1": {
@@ -1533,7 +1563,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! Sunshine!!"
+            "DAH_entry_title": "Love Live! Sunshine!!",
+            "DAH_entry_bestGirl": "Sakurauchi Riko"
         }
     },
     "M-VGMDB-AL-106577-6": {
@@ -1557,7 +1588,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Nagi no Asu kara"
+            "DAH_entry_title": "Nagi no Asu kara",
+            "DAH_entry_bestGirl": "Shiodome Miuna"
         }
     },
     "F-VGMDB-11581": {
@@ -1649,7 +1681,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "K-On!"
+            "DAH_entry_title": "K-On!",
+            "DAH_entry_bestGirl": "Nakano Azusa"
         }
     },
     "F-VGMDB-3345": {
@@ -1710,8 +1743,8 @@
     "M-VGMDB-AR-9797": {
         "id": "M-VGMDB-AR-9797",
         "children": {
-            "M-VGMDB-AL-78478": 0.4,
-            "M-VGMDB-AL-30302-2": 0.8
+            "M-VGMDB-AL-78478": 0.30000000000000004,
+            "M-VGMDB-AL-30302-2": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Yuki Aoi"
@@ -1722,7 +1755,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Ren"
+            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Ren",
+            "DAH_entry_bestGirl": "Nibutani Shinka"
         }
     },
     "M-VGMDB-AL-48199-1": {
@@ -1738,7 +1772,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shingeki no Kyojin"
+            "DAH_entry_title": "Shingeki no Kyojin",
+            "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
     },
     "M-VGMDB-AL-51254": {
@@ -1764,7 +1799,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ushinawareta Mirai wo Motomete"
+            "DAH_entry_title": "Ushinawareta Mirai wo Motomete",
+            "DAH_entry_bestGirl": "Sasaki Kaori"
         }
     },
     "M-VGMDB-AL-39170-2": {
@@ -1796,7 +1832,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
+            "DAH_entry_bestGirl": "Tamaki Iroha"
         }
     },
     "M-VGMDB-AR-16233": {
@@ -1858,7 +1895,7 @@
     "M-VGMDB-AR-10934": {
         "id": "M-VGMDB-AR-10934",
         "children": {
-            "M-VGMDB-AL-48199": 0.8
+            "M-23": 0.25
         },
         "DAH_meta": {
             "DAH_entry_title": "Kayano Ai"
@@ -1885,15 +1922,16 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Nogi Wakaba wa Yuusha de Aru"
+            "DAH_entry_title": "Nogi Wakaba wa Yuusha de Aru",
+            "DAH_entry_bestGirl": "Koori Chikage"
         }
     },
     "M-VGMDB-AR-15137": {
         "id": "M-VGMDB-AR-15137",
         "children": {
-            "M-VGMDB-AL-42945": 0.8,
-            "M-VGMDB-AL-46042": 0.8,
-            "M-VGMDB-AL-68276": 0.4
+            "M-VGMDB-AL-42945": 0.6000000000000001,
+            "M-VGMDB-AL-46042": 0.6000000000000001,
+            "M-VGMDB-AL-68276": 0.30000000000000004
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls!"
@@ -1947,13 +1985,14 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tokyo Mew Mew New ♡"
+            "DAH_entry_title": "Tokyo Mew Mew New ♡",
+            "DAH_entry_bestGirl": "Momomiya Ichigo"
         }
     },
     "M-VGMDB-AR-32295": {
         "id": "M-VGMDB-AR-32295",
         "children": {
-            "M-VGMDB-AL-78253-1": 0.8
+            "M-VGMDB-AL-78253-1": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "765 MILLION ALLSTARS"
@@ -2005,7 +2044,7 @@
         "id": "M-VGMDB-AR-15380",
         "children": {
             "M-44": 0.25,
-            "M-VGMDB-AL-53719-1": 0.8
+            "M-VGMDB-AL-53719-1": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Takahashi Rie"
@@ -2022,7 +2061,7 @@
     "M-VGMDB-AR-17551": {
         "id": "M-VGMDB-AR-17551",
         "children": {
-            "M-VGMDB-AL-97692": 0.8
+            "M-VGMDB-AL-97692": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Saito Shuka"
@@ -2070,10 +2109,10 @@
     "M-VGMDB-AR-16469": {
         "id": "M-VGMDB-AR-16469",
         "children": {
-            "M-VGMDB-AL-69147": 0.8,
-            "M-VGMDB-AL-89431": 0.8,
-            "M-VGMDB-AL-95029": 0.8,
-            "M-VGMDB-AR-32295": 0.047058823529411764
+            "M-VGMDB-AL-69147": 0.6000000000000001,
+            "M-VGMDB-AL-89431": 0.6000000000000001,
+            "M-VGMDB-AL-95029": 0.6000000000000001,
+            "M-VGMDB-AR-32295": 0.03529411764705883
         },
         "DAH_meta": {
             "DAH_entry_title": "TrySail"
@@ -2103,10 +2142,10 @@
     "M-VGMDB-AR-8480": {
         "id": "M-VGMDB-AR-8480",
         "children": {
-            "M-VGMDB-AL-76155": 0.25,
-            "M-23": 0.2,
-            "M-VGMDB-AL-95314": 0.8,
-            "M-VGMDB-AL-116977-11": 0.8
+            "M-23": 0.25,
+            "M-VGMDB-AL-95314": 0.6000000000000001,
+            "M-VGMDB-AL-116977-11": 0.6000000000000001,
+            "M-VGMDB-AL-76155": 0.15000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Hidaka Rina"
@@ -2158,7 +2197,7 @@
     "M-VGMDB-AR-25291": {
         "id": "M-VGMDB-AR-25291",
         "children": {
-            "M-VGMDB-AL-50721": 1.0
+            "M-VGMDB-AL-50723": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "KANA-BOON"
@@ -2175,7 +2214,7 @@
     "M-VGMDB-AR-15121": {
         "id": "M-VGMDB-AR-15121",
         "children": {
-            "M-VGMDB-AL-69257": 0.26
+            "M-VGMDB-AL-69257": 0.5
         },
         "DAH_meta": {
             "DAH_entry_title": "Yonezu Kenshi"
@@ -2192,9 +2231,9 @@
     "M-VGMDB-AR-15120": {
         "id": "M-VGMDB-AR-15120",
         "children": {
-            "M-VGMDB-AL-37130-4": 0.1,
-            "M-VGMDB-AL-37130-5": 0.1,
-            "M-VGMDB-AL-37130-6": 0.1,
+            "M-VGMDB-AL-37130-4": 0.13333333333333333,
+            "M-VGMDB-AL-37130-5": 0.13333333333333333,
+            "M-VGMDB-AL-37130-6": 0.13333333333333333,
             "M-VGMDB-AL-49423-8": 0.2,
             "M-VGMDB-AL-78339-2": 0.1
         },
@@ -2207,7 +2246,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Cue!"
+            "DAH_entry_title": "Cue!",
+            "DAH_entry_bestGirl": "Mutsuishi Haruna"
         }
     },
     "M-VGMDB-AR-15361": {
@@ -2215,9 +2255,9 @@
         "children": {
             "M-9": 0.2,
             "M-44": 0.25,
-            "M-VGMDB-AL-54418-1": 0.8,
-            "M-VGMDB-AL-55364-3": 0.8,
-            "M-VGMDB-AL-73544": 0.2
+            "M-VGMDB-AL-54418-1": 0.6000000000000001,
+            "M-VGMDB-AL-55364-3": 0.6000000000000001,
+            "M-VGMDB-AL-73544": 0.15000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Minase Inori"
@@ -2252,7 +2292,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "K-On!!"
+            "DAH_entry_title": "K-On!!",
+            "DAH_entry_bestGirl": "Nakano Azusa"
         }
     },
     "M-VGMDB-AR-25289": {
@@ -2275,17 +2316,18 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Orange"
+            "DAH_entry_title": "Orange",
+            "DAH_entry_bestGirl": "Takamiya Naho"
         }
     },
     "M-VGMDB-AR-29640": {
         "id": "M-VGMDB-AR-29640",
         "children": {
             "M-VGMDB-AR-29922": 0.09090909090909091,
-            "M-VGMDB-AL-80802-2": 0.8,
-            "M-VGMDB-AL-87198-1": 0.8,
-            "M-VGMDB-AL-99272-1": 0.8,
-            "M-VGMDB-AL-112929-2": 0.8
+            "M-VGMDB-AL-80802-2": 0.6000000000000001,
+            "M-VGMDB-AL-87198-1": 0.6000000000000001,
+            "M-VGMDB-AL-99272-1": 0.6000000000000001,
+            "M-VGMDB-AL-112929-2": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Onishi Aguri"
@@ -2302,10 +2344,10 @@
     "M-VGMDB-AR-15119": {
         "id": "M-VGMDB-AR-15119",
         "children": {
-            "M-VGMDB-AL-37130-1": 0.2,
-            "M-VGMDB-AL-37130-2": 0.1,
-            "M-VGMDB-AL-37130-3": 0.05,
-            "M-VGMDB-AL-34411-11": 0.2
+            "M-VGMDB-AL-37130-1": 0.13333333333333333,
+            "M-VGMDB-AL-37130-2": 0.13333333333333333,
+            "M-VGMDB-AL-37130-3": 0.13333333333333333,
+            "M-VGMDB-AL-34411-11": 0.4
         },
         "DAH_meta": {
             "DAH_entry_title": "Scop"
@@ -2357,7 +2399,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! School Idol Project"
+            "DAH_entry_title": "Love Live! School Idol Project",
+            "DAH_entry_bestGirl": "Nishikino Maki"
         }
     },
     "A-MAL-36098": {
@@ -2365,7 +2408,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi no Suizou wo Tabetai"
+            "DAH_entry_title": "Kimi no Suizou wo Tabetai",
+            "DAH_entry_bestGirl": "Yamauchi Sakura"
         }
     },
     "M-VGMDB-AL-104957": {
@@ -2381,7 +2425,7 @@
         "id": "M-VGMDB-AR-15350",
         "children": {
             "M-44": 0.25,
-            "M-VGMDB-AL-63666": 0.8
+            "M-VGMDB-AL-63666": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "M·A·O"
@@ -2408,7 +2452,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sword Art Online Movie: Ordinal Scale"
+            "DAH_entry_title": "Sword Art Online Movie: Ordinal Scale",
+            "DAH_entry_bestGirl": "Yuuki Asuna"
         }
     },
     "A-MAL-50265": {
@@ -2433,6 +2478,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "VOICE"
+        }
+    },
+    "M-VGMDB-AL-108194": {
+        "id": "M-VGMDB-AL-108194",
+        "children": {
+            "M-VGMDB-AL-108194-5": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Nanairo Ribbon"
         }
     },
     "F-VGMDB-2330": {
@@ -2461,7 +2515,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "New Game!!"
+            "DAH_entry_title": "New Game!!",
+            "DAH_entry_bestGirl": "Suzukaze Aoba"
         }
     },
     "M-VGMDB-AL-120845-1": {
@@ -2540,7 +2595,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV) 2nd Season"
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV) 2nd Season",
+            "DAH_entry_bestGirl": "Tamaki Iroha"
         }
     },
     "M-VGMDB-AL-104783": {
@@ -2567,7 +2623,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yamada-kun to 7-nin no Majo"
+            "DAH_entry_title": "Yamada-kun to 7-nin no Majo",
+            "DAH_entry_bestGirl": "Shiraishi Urara"
         }
     },
     "M-VGMDB-AL-95029": {
@@ -2600,7 +2657,17 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"
+            "DAH_entry_title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+            "DAH_entry_bestGirl": "Shibuya Inori"
+        }
+    },
+    "M-VGMDB-AL-74440": {
+        "id": "M-VGMDB-AL-74440",
+        "children": {
+            "M-VGMDB-AL-74440-6": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sora ni Kakaru Kimi no Koe."
         }
     },
     "A-MAL-38009": {
@@ -2608,7 +2675,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Re:Stage! Dream Days♪"
+            "DAH_entry_title": "Re:Stage! Dream Days♪",
+            "DAH_entry_bestGirl": "Shikimiya Mana"
         }
     },
     "M-VGMDB-AL-58627-1": {
@@ -2640,7 +2708,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV)"
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV)",
+            "DAH_entry_bestGirl": "Tamaki Iroha"
         }
     },
     "M-VGMDB-AL-80802-10": {
@@ -2767,7 +2836,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Iroduku Sekai no Ashita kara"
+            "DAH_entry_title": "Iroduku Sekai no Ashita kara",
+            "DAH_entry_bestGirl": "Tsukishiro Hitomi"
         }
     },
     "M-VGMDB-AL-76155-2": {
@@ -2809,7 +2879,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mamahaha no Tsurego ga Motokano datta"
+            "DAH_entry_title": "Mamahaha no Tsurego ga Motokano datta",
+            "DAH_entry_bestGirl": "Irido Yume"
         }
     },
     "A-MAL-31952": {
@@ -2817,7 +2888,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kono Bijutsubu ni wa Mondai ga Aru!"
+            "DAH_entry_title": "Kono Bijutsubu ni wa Mondai ga Aru!",
+            "DAH_entry_bestGirl": "Usami Mizuki"
         }
     },
     "M-VGMDB-AL-111027": {
@@ -2834,7 +2906,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "New Game!"
+            "DAH_entry_title": "New Game!",
+            "DAH_entry_bestGirl": "Iijima Yun"
         }
     },
     "F-VGMDB-2645": {
@@ -2858,7 +2931,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mahou Shoujo Madoka★Magica"
+            "DAH_entry_title": "Mahou Shoujo Madoka★Magica",
+            "DAH_entry_bestGirl": "Kaname Madoka"
         }
     },
     "A-MAL-37141": {
@@ -2919,7 +2993,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ATRI -My Dear Moments-"
+            "DAH_entry_title": "ATRI -My Dear Moments-",
+            "DAH_entry_bestGirl": "Atri"
         }
     },
     "A-MAL-41520": {
@@ -2927,7 +3002,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Show by Rock!! Stars!!"
+            "DAH_entry_title": "Show by Rock!! Stars!!",
+            "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
     },
     "M-VGMDB-AL-95313-1": {
@@ -2947,13 +3023,22 @@
             "DAH_entry_title": "GO!GO! Chunithm♥Endmark"
         }
     },
+    "A-MAL-50221": {
+        "id": "A-MAL-50221",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shine Post",
+            "DAH_entry_bestGirl": "Seibu Rio"
+        }
+    },
     "M-VGMDB-AR-27779": {
         "id": "M-VGMDB-AR-27779",
         "children": {
             "M-VGMDB-AR-29922": 0.09090909090909091,
-            "M-VGMDB-AL-80802-8": 0.8,
-            "M-VGMDB-AL-87198-7": 0.8,
-            "M-VGMDB-AL-99272-7": 0.8
+            "M-VGMDB-AL-80802-8": 0.6000000000000001,
+            "M-VGMDB-AL-87198-7": 0.6000000000000001,
+            "M-VGMDB-AL-99272-7": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Kusunoki Tomori"
@@ -2973,7 +3058,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+            "DAH_entry_title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+            "DAH_entry_bestGirl": "Sakurauchi Riko"
         }
     },
     "F-VGMDB-2894": {
@@ -3041,7 +3127,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Show By Rock!! Mashumairesh!!"
+            "DAH_entry_title": "Show By Rock!! Mashumairesh!!",
+            "DAH_entry_bestGirl": "Mashima Himeko"
         }
     },
     "A-MAL-28999": {
@@ -3049,7 +3136,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Charlotte"
+            "DAH_entry_title": "Charlotte",
+            "DAH_entry_bestGirl": "Nao Tomori"
         }
     },
     "A-MAL-36266": {
@@ -3057,7 +3145,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mahou Shoujo Site"
+            "DAH_entry_title": "Mahou Shoujo Site",
+            "DAH_entry_bestGirl": "Asagiri Aya"
         }
     },
     "M-VGMDB-AL-42961-6": {
@@ -3073,7 +3162,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~"
+            "DAH_entry_title": "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~",
+            "DAH_entry_bestGirl": "Wise Spirit"
         }
     },
     "M-VGMDB-AL-42961-9": {
@@ -3158,6 +3248,15 @@
             "DAH_entry_title": "RPG Fudousan"
         }
     },
+    "M-VGMDB-AR-8196": {
+        "id": "M-VGMDB-AR-8196",
+        "children": {
+            "M-VGMDB-AL-108194": 0.6000000000000001
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Nanahira"
+        }
+    },
     "M-VGMDB-AL-63666-1": {
         "id": "M-VGMDB-AL-63666-1",
         "children": {
@@ -3217,14 +3316,6 @@
             "DAH_entry_title": "Friend Shitai"
         }
     },
-    "M-VGMDB-AL-50721-1": {
-        "id": "M-VGMDB-AL-50721-1",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Silhouette"
-        }
-    },
     "M-VGMDB-AL-99272-1": {
         "id": "M-VGMDB-AL-99272-1",
         "children": {
@@ -3254,12 +3345,12 @@
     "M-VGMDB-AR-17153": {
         "id": "M-VGMDB-AR-17153",
         "children": {
-            "M-VGMDB-AL-58147": 0.8,
-            "M-VGMDB-AL-58750": 0.8,
-            "M-VGMDB-AL-70622": 0.8,
-            "M-VGMDB-AL-71404": 0.8,
-            "M-VGMDB-AL-78378": 0.8,
-            "M-VGMDB-AL-87199": 0.8
+            "M-VGMDB-AL-58147": 0.6000000000000001,
+            "M-VGMDB-AL-58750": 0.6000000000000001,
+            "M-VGMDB-AL-70622": 0.6000000000000001,
+            "M-VGMDB-AL-71404": 0.6000000000000001,
+            "M-VGMDB-AL-78378": 0.6000000000000001,
+            "M-VGMDB-AL-87199": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Aqours"
@@ -3279,7 +3370,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kizuna Method"
+            "DAH_entry_title": "Kizuna Method",
+            "DAH_entry_bestGirl": "method"
         }
     },
     "O-3": {
@@ -3311,7 +3403,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Net-juu no Susume"
+            "DAH_entry_title": "Net-juu no Susume",
+            "DAH_entry_bestGirl": "Washing Machine"
         }
     },
     "F-VGMDB-7166": {
@@ -3337,7 +3430,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+            "DAH_entry_bestGirl": "Yuigahama Yui"
         }
     },
     "M-VGMDB-AL-71404-2": {
@@ -3351,8 +3445,8 @@
     "M-VGMDB-AR-29251": {
         "id": "M-VGMDB-AR-29251",
         "children": {
-            "M-50": 0.08888888888888889,
-            "M-VGMDB-AR-30829": 0.13333333333333333
+            "M-50": 0.1111111111111111,
+            "M-VGMDB-AR-30829": 0.16666666666666666
         },
         "DAH_meta": {
             "DAH_entry_title": "Iwahashi Yuka"
@@ -3372,7 +3466,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+            "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "DAH_entry_bestGirl": "Makinohara Shouko"
         }
     },
     "M-VGMDB-AL-54307-1": {
@@ -3440,7 +3535,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Show by Rock!!"
+            "DAH_entry_title": "Show by Rock!!",
+            "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
     },
     "M-VGMDB-AL-44890-1": {
@@ -3502,6 +3598,17 @@
             "DAH_entry_title": "Makino Amane"
         }
     },
+    "M-VGMDB-AR-29487": {
+        "id": "M-VGMDB-AR-29487",
+        "children": {
+            "M-VGMDB-AL-76155-2": 0.15,
+            "M-VGMDB-AL-74440-6": 0.15,
+            "M-VGMDB-AL-108194-5": 0.15
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Takahiro Yuba"
+        }
+    },
     "M-VGMDB-AL-122232": {
         "id": "M-VGMDB-AL-122232",
         "children": {
@@ -3536,7 +3643,7 @@
     "M-VGMDB-AR-11952": {
         "id": "M-VGMDB-AR-11952",
         "children": {
-            "M-VGMDB-AL-33537": 0.8
+            "M-VGMDB-AL-33537": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "LiSA"
@@ -3630,7 +3737,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+            "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+            "DAH_entry_bestGirl": "Uehara Ayumu"
         }
     },
     "M-VGMDB-AL-95314": {
@@ -3654,8 +3762,8 @@
     "M-VGMDB-AR-16166": {
         "id": "M-VGMDB-AR-16166",
         "children": {
-            "M-18": 0.2,
-            "M-VGMDB-AR-32295": 0.01568627450980392
+            "M-18": 0.15000000000000002,
+            "M-VGMDB-AR-32295": 0.011764705882352943
         },
         "DAH_meta": {
             "DAH_entry_title": "Inagawa Eri"
@@ -3682,9 +3790,9 @@
     "M-VGMDB-AR-11958": {
         "id": "M-VGMDB-AR-11958",
         "children": {
-            "M-VGMDB-AL-49446": 0.8,
-            "M-10": 0.4,
-            "M-11": 0.4
+            "M-VGMDB-AL-49446": 0.6000000000000001,
+            "M-10": 0.30000000000000004,
+            "M-11": 0.30000000000000004
         },
         "DAH_meta": {
             "DAH_entry_title": "Sawai Miku"
@@ -3738,7 +3846,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+            "DAH_entry_bestGirl": "Tougou Mimori"
         }
     },
     "M-VGMDB-AL-87199-1": {
@@ -3754,7 +3863,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden",
+            "DAH_entry_bestGirl": "Tamaki Iroha"
         }
     },
     "A-MAL-34280": {
@@ -3762,7 +3872,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gamers!"
+            "DAH_entry_title": "Gamers!",
+            "DAH_entry_bestGirl": "Tendou Karen"
         }
     },
     "M-VGMDB-AL-69257": {
@@ -3831,18 +3942,19 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shingeki no Kyojin Season 3 Part 2"
+            "DAH_entry_title": "Shingeki no Kyojin Season 3 Part 2",
+            "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
     },
     "M-VGMDB-AR-11829": {
         "id": "M-VGMDB-AR-11829",
         "children": {
-            "M-VGMDB-AL-23391": 0.8,
-            "M-VGMDB-AL-41292": 0.8,
-            "M-VGMDB-AL-89431": 0.8,
-            "M-7": 0.4,
-            "M-8": 0.4,
-            "M-VGMDB-AL-77471": 0.8
+            "M-VGMDB-AL-23391": 0.6000000000000001,
+            "M-VGMDB-AL-41292": 0.6000000000000001,
+            "M-VGMDB-AL-89431": 0.6000000000000001,
+            "M-7": 0.30000000000000004,
+            "M-8": 0.30000000000000004,
+            "M-VGMDB-AL-77471": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "ClariS"
@@ -3950,7 +4062,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Teppen!!!!!!!!!!!!!!!"
+            "DAH_entry_title": "Teppen!!!!!!!!!!!!!!!",
+            "DAH_entry_bestGirl": "Hosono Yuzu"
         }
     },
     "M-VGMDB-AR-18205": {
@@ -4010,7 +4123,7 @@
     "M-9": {
         "id": "M-9",
         "children": {
-            "M-VGMDB-AL-44890": 0.8
+            "M-VGMDB-AL-44890": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Petit Rabbit's"
@@ -4045,7 +4158,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tari Tari"
+            "DAH_entry_title": "Tari Tari",
+            "DAH_entry_bestGirl": "Miyamoto Konatsu"
         }
     },
     "M-VGMDB-AR-18208": {
@@ -4053,7 +4167,7 @@
         "children": {
             "M-46": 0.25,
             "M-17": 0.1111111111111111,
-            "M-VGMDB-AL-75344-4": 0.26666666666666666
+            "M-VGMDB-AL-75344-4": 0.2
         },
         "DAH_meta": {
             "DAH_entry_title": "Takada Yuuki"
@@ -4072,20 +4186,21 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Oshi ga Budoukan Ittekuretara Shinu"
+            "DAH_entry_title": "Oshi ga Budoukan Ittekuretara Shinu",
+            "DAH_entry_bestGirl": "Ichii Maina"
         }
     },
     "F-VGMDB-1945": {
         "id": "F-VGMDB-1945",
         "children": {
-            "M-VGMDB-AL-23391": 1.0,
+            "M-VGMDB-AL-23391-1": 1.0,
             "M-VGMDB-AL-30302": 1.0,
             "M-VGMDB-AL-24725": 1.0,
             "M-VGMDB-AL-39170": 1.0,
-            "M-VGMDB-AL-41292": 1.0,
+            "M-VGMDB-AL-41292-1": 1.0,
             "M-VGMDB-AL-69147-11": 1.0,
             "M-VGMDB-AL-113295": 1.0,
-            "M-VGMDB-AL-89431": 1.0,
+            "M-VGMDB-AL-89431-1": 1.0,
             "M-VGMDB-AL-95029": 1.0,
             "M-VGMDB-AL-91985": 1.0,
             "A-MAL-9756": 1.0,
@@ -4110,7 +4225,7 @@
     "M-VGMDB-AR-9455": {
         "id": "M-VGMDB-AR-9455",
         "children": {
-            "M-VGMDB-AL-47402": 0.8
+            "M-VGMDB-AL-47402": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Larval Stage Planning"
@@ -4160,7 +4275,7 @@
     "M-VGMDB-AR-17342": {
         "id": "M-VGMDB-AR-17342",
         "children": {
-            "M-VGMDB-AL-69257": 0.6400000000000001
+            "M-VGMDB-AL-69257": 0.5
         },
         "DAH_meta": {
             "DAH_entry_title": "DAOKO"
@@ -4196,7 +4311,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koe no Katachi"
+            "DAH_entry_title": "Koe no Katachi",
+            "DAH_entry_bestGirl": "Nishimiya Shouko"
         }
     },
     "M-VGMDB-AL-49423": {
@@ -4229,7 +4345,7 @@
         "id": "M-VGMDB-AR-29323",
         "children": {
             "M-VGMDB-AR-29922": 0.09090909090909091,
-            "M-VGMDB-AL-99272-3": 0.6400000000000001
+            "M-VGMDB-AL-99272-3": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Maeda Kaori"
@@ -4240,7 +4356,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Extreme Hearts"
+            "DAH_entry_title": "Extreme Hearts",
+            "DAH_entry_bestGirl": "Kodaka Saki"
         }
     },
     "M-VGMDB-AL-110219": {
@@ -4298,15 +4415,16 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "One Room"
+            "DAH_entry_title": "One Room",
+            "DAH_entry_bestGirl": "Hanasaka Yui"
         }
     },
     "M-VGMDB-AR-13097": {
         "id": "M-VGMDB-AR-13097",
         "children": {
-            "M-VGMDB-AL-41278": 0.8,
-            "M-VGMDB-AL-42900": 0.8,
-            "M-47": 0.4
+            "M-VGMDB-AL-41278": 0.6000000000000001,
+            "M-VGMDB-AL-42900": 0.6000000000000001,
+            "M-47": 0.30000000000000004
         },
         "DAH_meta": {
             "DAH_entry_title": "Ray"
@@ -4318,6 +4436,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Light Delight"
+        }
+    },
+    "M-VGMDB-AL-108194-5": {
+        "id": "M-VGMDB-AL-108194-5",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Azure Reunion"
         }
     },
     "M-VGMDB-AL-68276": {
@@ -4334,7 +4460,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shigatsu wa Kimi no Uso"
+            "DAH_entry_title": "Shigatsu wa Kimi no Uso",
+            "DAH_entry_bestGirl": "Miyazono Kaori"
         }
     },
     "M-VGMDB-AL-89363-1": {
@@ -4484,9 +4611,9 @@
     "M-VGMDB-AR-10253": {
         "id": "M-VGMDB-AR-10253",
         "children": {
-            "M-VGMDB-AL-47678": 0.2,
-            "M-VGMDB-AL-114186": 0.16000000000000003,
-            "M-VGMDB-AL-69821": 0.8
+            "M-VGMDB-AL-47678": 0.15000000000000002,
+            "M-VGMDB-AL-114186": 0.12000000000000002,
+            "M-VGMDB-AL-69821": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Mimori Suzuko"
@@ -4497,7 +4624,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"
+            "DAH_entry_title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+            "DAH_entry_bestGirl": "Malier Escha"
         }
     },
     "A-MAL-23587": {
@@ -4505,7 +4633,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "The iDOLM@STER Cinderella Girls"
+            "DAH_entry_title": "The iDOLM@STER Cinderella Girls",
+            "DAH_entry_bestGirl": "Ogata Chieri"
         }
     },
     "A-MAL-34240": {
@@ -4513,16 +4642,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shelter"
-        }
-    },
-    "M-VGMDB-AL-50721": {
-        "id": "M-VGMDB-AL-50721",
-        "children": {
-            "M-VGMDB-AL-50721-1": 1.0
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Silhouette"
+            "DAH_entry_title": "Shelter",
+            "DAH_entry_bestGirl": "Rin"
         }
     },
     "M-VGMDB-AL-115724-2": {
@@ -4540,6 +4661,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Bokura no Neiro"
+        }
+    },
+    "M-VGMDB-AL-50723": {
+        "id": "M-VGMDB-AL-50723",
+        "children": {
+            "M-VGMDB-AL-50723-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Silhouette"
         }
     },
     "M-VGMDB-AL-93441": {
@@ -4575,7 +4705,7 @@
         "id": "M-VGMDB-AR-26954",
         "children": {
             "M-VGMDB-AR-29922": 0.09090909090909091,
-            "M-VGMDB-AL-80802-10": 0.8
+            "M-VGMDB-AL-80802-10": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Tanaka Chiemi"
@@ -4604,7 +4734,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "The iDOLM@STER"
+            "DAH_entry_title": "The iDOLM@STER",
+            "DAH_entry_bestGirl": "Minase Iori"
         }
     },
     "F-VGMDB-4168": {
@@ -4652,7 +4783,16 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru"
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru",
+            "DAH_entry_bestGirl": "Yuuki Yuuna"
+        }
+    },
+    "M-VGMDB-AL-74440-6": {
+        "id": "M-VGMDB-AL-74440-6",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Azure Reunion"
         }
     },
     "M-VGMDB-AL-78534-2": {
@@ -4666,7 +4806,7 @@
     "M-VGMDB-AR-12665": {
         "id": "M-VGMDB-AR-12665",
         "children": {
-            "M-VGMDB-AL-45187-1": 0.8
+            "M-VGMDB-AL-45187-1": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Komatsu Mikako"
@@ -4756,7 +4896,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shichisei no Subaru"
+            "DAH_entry_title": "Shichisei no Subaru",
+            "DAH_entry_bestGirl": "Kuga Asahi"
         }
     },
     "A-MAL-35589": {
@@ -4764,7 +4905,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Toji no Miko"
+            "DAH_entry_title": "Toji no Miko",
+            "DAH_entry_bestGirl": "Tagitsuhime"
         }
     },
     "A-MAL-34498": {
@@ -4772,7 +4914,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
+            "DAH_entry_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+            "DAH_entry_bestGirl": "Oikawa Nazuna"
         }
     },
     "F-VGMDB-4296": {
@@ -4797,7 +4940,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai!"
+            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai!",
+            "DAH_entry_bestGirl": "Nibutani Shinka"
         }
     },
     "M-VGMDB-AL-99272-12": {
@@ -4811,7 +4955,7 @@
     "M-VGMDB-AR-30564": {
         "id": "M-VGMDB-AR-30564",
         "children": {
-            "M-20": 0.2
+            "M-20": 0.15000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Tono Hikaru"
@@ -4830,7 +4974,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Arifureta Shokugyou de Sekai Saikyou"
+            "DAH_entry_title": "Arifureta Shokugyou de Sekai Saikyou",
+            "DAH_entry_bestGirl": "Yue"
         }
     },
     "A-MAL-35790": {
@@ -4838,7 +4983,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tate no Yuusha no Nariagari"
+            "DAH_entry_title": "Tate no Yuusha no Nariagari",
+            "DAH_entry_bestGirl": "Raphtalia"
         }
     },
     "M-VGMDB-AL-77471-1": {
@@ -4854,18 +5000,19 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi no Na wa"
+            "DAH_entry_title": "Kimi no Na wa",
+            "DAH_entry_bestGirl": "Miki Okudera"
         }
     },
     "M-VGMDB-AR-5524": {
         "id": "M-VGMDB-AR-5524",
         "children": {
-            "M-VGMDB-AL-41280": 0.8,
-            "M-VGMDB-AL-43164": 0.8,
-            "M-VGMDB-AL-37932": 0.8,
-            "M-VGMDB-AL-51516": 0.8,
-            "M-VGMDB-AL-96288": 0.8,
-            "M-VGMDB-AL-70716": 0.8
+            "M-VGMDB-AL-41280": 0.6000000000000001,
+            "M-VGMDB-AL-43164": 0.6000000000000001,
+            "M-VGMDB-AL-37932": 0.6000000000000001,
+            "M-VGMDB-AL-51516": 0.6000000000000001,
+            "M-VGMDB-AL-96288": 0.6000000000000001,
+            "M-VGMDB-AL-70716": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "yanaginagi"
@@ -4911,7 +5058,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ao no Kanata no Four Rhythm"
+            "DAH_entry_title": "Ao no Kanata no Four Rhythm",
+            "DAH_entry_bestGirl": "Kurashina Asuka"
         }
     },
     "M-VGMDB-AL-61940-1": {
@@ -4955,11 +5103,11 @@
     "M-VGMDB-AR-11436": {
         "id": "M-VGMDB-AR-11436",
         "children": {
-            "M-VGMDB-AL-37999-1": 0.4,
-            "M-VGMDB-AL-51394-1": 0.4,
-            "M-VGMDB-AL-96290-1": 0.4,
-            "M-VGMDB-AL-51394-3": 0.8,
-            "M-VGMDB-AL-37999-2": 0.8
+            "M-VGMDB-AL-37999-1": 0.30000000000000004,
+            "M-VGMDB-AL-51394-1": 0.30000000000000004,
+            "M-VGMDB-AL-96290-1": 0.30000000000000004,
+            "M-VGMDB-AL-51394-3": 0.6000000000000001,
+            "M-VGMDB-AL-37999-2": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Toyama Nao"
@@ -4995,7 +5143,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shingeki no Kyojin Season 2"
+            "DAH_entry_title": "Shingeki no Kyojin Season 2",
+            "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
     },
     "M-VGMDB-AL-22848-2": {
@@ -5106,7 +5255,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "BanG Dream! 2nd Season"
+            "DAH_entry_title": "BanG Dream! 2nd Season",
+            "DAH_entry_bestGirl": "Ichigaya Arisa"
         }
     },
     "M-VGMDB-AL-78253": {
@@ -5121,8 +5271,8 @@
     "M-14": {
         "id": "M-14",
         "children": {
-            "M-VGMDB-AL-82369-1": 0.8,
-            "M-VGMDB-AL-104673-1": 0.8
+            "M-VGMDB-AL-82369-1": 0.6000000000000001,
+            "M-VGMDB-AL-104673-1": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Stellamaris"
@@ -5131,22 +5281,18 @@
     "M-VGMDB-AR-11666": {
         "id": "M-VGMDB-AR-11666",
         "children": {
-            "M-VGMDB-AL-37130-1": 0.7,
-            "M-VGMDB-AL-37130-2": 0.8,
-            "M-VGMDB-AL-37130-3": 0.85,
-            "M-VGMDB-AL-37130-4": 0.8,
-            "M-VGMDB-AL-37130-5": 0.8,
-            "M-VGMDB-AL-37130-6": 0.8,
-            "M-VGMDB-AL-95369": 0.8,
-            "M-VGMDB-AL-34411": 0.8,
-            "M-VGMDB-AL-42961": 0.8,
-            "M-VGMDB-AL-49423": 0.8,
-            "M-VGMDB-AL-51254": 0.8,
-            "M-VGMDB-AL-54307": 0.8,
-            "M-VGMDB-AL-57564": 0.8,
-            "M-VGMDB-AL-73516": 0.8,
-            "M-VGMDB-AL-89290": 0.8,
-            "M-24": 0.8
+            "M-VGMDB-AL-95369": 0.6000000000000001,
+            "M-VGMDB-AL-34411": 0.6000000000000001,
+            "M-VGMDB-AL-42961": 0.6000000000000001,
+            "M-VGMDB-AL-49423": 0.6000000000000001,
+            "M-VGMDB-AL-51254": 0.6000000000000001,
+            "M-VGMDB-AL-54307": 0.6000000000000001,
+            "M-VGMDB-AL-57564": 0.6000000000000001,
+            "M-VGMDB-AL-73516": 0.6000000000000001,
+            "M-VGMDB-AL-89290": 0.6000000000000001,
+            "M-24": 0.6000000000000001,
+            "M-VGMDB-AL-37130": 0.6000000000000001,
+            "M-49": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Kano"
@@ -5155,12 +5301,12 @@
     "M-13": {
         "id": "M-13",
         "children": {
-            "M-VGMDB-AL-89364-3": 0.8,
-            "M-VGMDB-AL-78520": 0.8,
-            "M-VGMDB-AL-78339": 0.8,
-            "M-VGMDB-AL-82983": 0.8,
-            "M-VGMDB-AL-104673-2": 0.8,
-            "M-59": 0.8
+            "M-VGMDB-AL-89364-3": 0.6000000000000001,
+            "M-VGMDB-AL-78520": 0.6000000000000001,
+            "M-VGMDB-AL-78339": 0.6000000000000001,
+            "M-VGMDB-AL-82983": 0.6000000000000001,
+            "M-VGMDB-AL-104673-2": 0.6000000000000001,
+            "M-59": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "ortensia"
@@ -5195,17 +5341,17 @@
     "M-18": {
         "id": "M-18",
         "children": {
-            "M-VGMDB-AL-94913": 0.8,
-            "M-VGMDB-AL-51276": 0.8,
-            "M-22": 0.4,
-            "M-VGMDB-AL-51706": 0.8,
-            "M-VGMDB-AL-61217": 0.8,
-            "M-VGMDB-AL-61981": 0.8,
-            "M-VGMDB-AL-59914": 0.8,
-            "M-VGMDB-AL-104341-1": 0.4,
-            "M-VGMDB-AL-104266-3": 0.8,
-            "M-VGMDB-AL-100082": 0.8,
-            "M-VGMDB-AL-116297": 0.8
+            "M-VGMDB-AL-94913": 0.6000000000000001,
+            "M-VGMDB-AL-51276": 0.6000000000000001,
+            "M-22": 0.30000000000000004,
+            "M-VGMDB-AL-51706": 0.6000000000000001,
+            "M-VGMDB-AL-61217": 0.6000000000000001,
+            "M-VGMDB-AL-61981": 0.6000000000000001,
+            "M-VGMDB-AL-59914": 0.6000000000000001,
+            "M-VGMDB-AL-104341-1": 0.30000000000000004,
+            "M-VGMDB-AL-104266-3": 0.6000000000000001,
+            "M-VGMDB-AL-100082": 0.6000000000000001,
+            "M-VGMDB-AL-116297": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Plasmagica"
@@ -5214,9 +5360,9 @@
     "M-17": {
         "id": "M-17",
         "children": {
-            "M-VGMDB-AL-75344-1": 0.8,
-            "M-VGMDB-AL-75344-5": 0.8,
-            "M-VGMDB-AL-75349": 0.8
+            "M-VGMDB-AL-75344-1": 0.6000000000000001,
+            "M-VGMDB-AL-75344-5": 0.6000000000000001,
+            "M-VGMDB-AL-75349": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "SPRiNGS"
@@ -5225,8 +5371,8 @@
     "M-16": {
         "id": "M-16",
         "children": {
-            "M-VGMDB-AL-78515": 0.8,
-            "M-VGMDB-AL-104673-4": 0.8
+            "M-VGMDB-AL-78515": 0.6000000000000001,
+            "M-VGMDB-AL-104673-4": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Tetrarkhia"
@@ -5235,7 +5381,7 @@
     "M-15": {
         "id": "M-15",
         "children": {
-            "M-VGMDB-AL-104673-3": 0.8
+            "M-VGMDB-AL-104673-3": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "TROIS ANGES"
@@ -5252,7 +5398,7 @@
     "M-19": {
         "id": "M-19",
         "children": {
-            "M-VGMDB-AL-51278": 0.8
+            "M-VGMDB-AL-51278": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Tsurezurenaru Ayatsuri Mugenan"
@@ -5271,7 +5417,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love Live! School Idol Project Movie"
+            "DAH_entry_title": "Love Live! School Idol Project Movie",
+            "DAH_entry_bestGirl": "Nishikino Maki"
         }
     },
     "M-VGMDB-AL-23391-1": {
@@ -5299,7 +5446,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+            "DAH_entry_bestGirl": "Yuuki Yuuna"
         }
     },
     "F-VGMDB-10978": {
@@ -5350,7 +5498,7 @@
     "M-VGMDB-AR-33857": {
         "id": "M-VGMDB-AR-33857",
         "children": {
-            "M-VGMDB-AL-115724": 0.8
+            "M-VGMDB-AL-115724": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "AiRBLUE"
@@ -5359,8 +5507,8 @@
     "M-21": {
         "id": "M-21",
         "children": {
-            "M-VGMDB-AL-61940": 0.8,
-            "M-VGMDB-AL-104267-5": 0.8
+            "M-VGMDB-AL-61940": 0.6000000000000001,
+            "M-VGMDB-AL-104267-5": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "BUD VIRGIN LOGIC"
@@ -5369,12 +5517,12 @@
     "M-20": {
         "id": "M-20",
         "children": {
-            "M-VGMDB-AL-93440": 0.8,
-            "M-VGMDB-AL-93441": 0.8,
-            "M-VGMDB-AL-104341-1": 0.4,
-            "M-VGMDB-AL-104341-2": 0.8,
-            "M-VGMDB-AL-104267-8": 0.8,
-            "M-62": 0.4
+            "M-VGMDB-AL-93440": 0.6000000000000001,
+            "M-VGMDB-AL-93441": 0.6000000000000001,
+            "M-VGMDB-AL-104341-1": 0.30000000000000004,
+            "M-VGMDB-AL-104341-2": 0.6000000000000001,
+            "M-VGMDB-AL-104267-8": 0.6000000000000001,
+            "M-62": 0.30000000000000004
         },
         "DAH_meta": {
             "DAH_entry_title": "Mashumairesh!!"
@@ -5453,7 +5601,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Prima Doll"
+            "DAH_entry_title": "Prima Doll",
+            "DAH_entry_bestGirl": "Okumiya Otome"
         }
     },
     "M-VGMDB-AL-61940": {
@@ -5480,6 +5629,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Y.O.L.O"
+        }
+    },
+    "M-VGMDB-AL-50723-1": {
+        "id": "M-VGMDB-AL-50723-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Silhouette"
         }
     },
     "M-VGMDB-AL-45187-1": {
@@ -5531,7 +5688,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Show by Rock!! #"
+            "DAH_entry_title": "Show by Rock!! #",
+            "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
     },
     "F-VGMDB-4499": {
@@ -5579,8 +5737,8 @@
     "M-VGMDB-AR-31328": {
         "id": "M-VGMDB-AR-31328",
         "children": {
-            "M-VGMDB-AL-106577-6": 0.8,
-            "M-35": 0.26666666666666666
+            "M-VGMDB-AL-106577-6": 0.6000000000000001,
+            "M-35": 0.2
         },
         "DAH_meta": {
             "DAH_entry_title": "Pastel*Palletes"
@@ -5589,7 +5747,7 @@
     "M-VGMDB-AR-31329": {
         "id": "M-VGMDB-AR-31329",
         "children": {
-            "M-VGMDB-AL-114399-8": 0.8
+            "M-VGMDB-AL-114399-8": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Hello, Happy World!"
@@ -5598,10 +5756,10 @@
     "M-VGMDB-AR-13719": {
         "id": "M-VGMDB-AR-13719",
         "children": {
-            "M-VGMDB-AL-34051": 0.8,
-            "M-VGMDB-AL-36547": 0.8,
-            "M-VGMDB-AL-75504": 0.8,
-            "M-VGMDB-AL-93532": 0.8
+            "M-VGMDB-AL-34051": 0.6000000000000001,
+            "M-VGMDB-AL-36547": 0.6000000000000001,
+            "M-VGMDB-AL-75504": 0.6000000000000001,
+            "M-VGMDB-AL-93532": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "μ's"
@@ -5610,7 +5768,7 @@
     "M-VGMDB-AR-31326": {
         "id": "M-VGMDB-AR-31326",
         "children": {
-            "M-VGMDB-AL-82743": 0.8
+            "M-VGMDB-AL-82743": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Afterglow"
@@ -5679,7 +5837,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sora no Method"
+            "DAH_entry_title": "Sora no Method",
+            "DAH_entry_bestGirl": "Komiya Nonoka"
         }
     },
     "M-35": {
@@ -5862,7 +6021,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "BanG Dream!"
+            "DAH_entry_title": "BanG Dream!",
+            "DAH_entry_bestGirl": "Ichigaya Arisa"
         }
     },
     "M-43": {
@@ -5935,11 +6095,11 @@
     "M-23": {
         "id": "M-23",
         "children": {
-            "M-VGMDB-AL-104266-6": 0.8,
-            "M-VGMDB-AL-61982": 0.8,
-            "M-VGMDB-AL-105612": 0.8,
-            "M-VGMDB-AL-86315-3": 0.8,
-            "M-VGMDB-AL-76155": 0.8
+            "M-VGMDB-AL-104266-6": 0.6000000000000001,
+            "M-VGMDB-AL-61982": 0.6000000000000001,
+            "M-VGMDB-AL-105612": 0.6000000000000001,
+            "M-VGMDB-AL-86315-3": 0.6000000000000001,
+            "M-VGMDB-AL-76155": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Criticrista"
@@ -5984,8 +6144,8 @@
     "M-26": {
         "id": "M-26",
         "children": {
-            "M-VGMDB-AL-93299": 0.48,
-            "M-29": 0.48
+            "M-VGMDB-AL-93299": 0.6000000000000001,
+            "M-29": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Irodorimidori"
@@ -5996,7 +6156,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shingeki no Kyojin Season 3"
+            "DAH_entry_title": "Shingeki no Kyojin Season 3",
+            "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
     },
     "A-MAL-24765": {
@@ -6004,7 +6165,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gakkougurashi!"
+            "DAH_entry_title": "Gakkougurashi!",
+            "DAH_entry_bestGirl": "Sakura Megumi"
         }
     },
     "F-VGMDB-2090": {
@@ -6022,7 +6184,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sakurasou no Pet na Kanojo"
+            "DAH_entry_title": "Sakurasou no Pet na Kanojo",
+            "DAH_entry_bestGirl": "Mashiro Shiina"
         }
     },
     "M-VGMDB-AL-37932-1": {
@@ -6111,7 +6274,8 @@
     "M-VGMDB-AR-12726": {
         "id": "M-VGMDB-AR-12726",
         "children": {
-            "M-9": 0.2
+            "M-9": 0.2,
+            "M-18": 0.25
         },
         "DAH_meta": {
             "DAH_entry_title": "Sakura Ayane"

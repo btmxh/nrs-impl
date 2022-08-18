@@ -145,6 +145,7 @@ fun DSLScope.ReStage() {
             // for rst shills <3: https://www.google.com/search?q=grass&tbm=isch
             bestGirl = "Shikimiya Mana" // aka the kano destroyer
             // her seiyuu is the GINGACHAD seiyuu amane makino btw
+            // play this: https://www.youtube.com/watch?v=QJJYpsA5tv8
             // follow her pls: https://twitter.com/makinoamane
             // follow her pls: https://twitter.com/makinoamane
             // follow her pls: https://twitter.com/makinoamane
@@ -181,6 +182,8 @@ fun DSLScope.ReStage() {
             // tl;dr: the father analogy
             AEI(10.0, Emotion.CU to 0.5, Emotion.CP to 0.5)
 
+            Visual(VisualKind.Animated, 0.6, 0.2)
+
             // also rst abused heisenberg and cucked love live and princess connect, as well as
             // blacklisted shit like aot or kimetsu no yaiba lmfao
 
@@ -208,7 +211,10 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-78536"
             title = "Startin' My Re:STAGE!!"
 
+            Visual(VisualKind.AlbumArt, 0.2, 0.6)
+
             SubIDEntry("2") {
+                // watayuki grimoi-reference (M6.0 unranked lmfao)
                 TrackMusic(1.0)
             }
         }
@@ -216,6 +222,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-78534"
             title = "Remembers!"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1") {
                 TrackMusic(3.0)
@@ -234,6 +242,9 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-78575"
             title = "Natsu no Yakusoku"
 
+            // 367days background lmfao
+            Visual(VisualKind.AlbumArt, 0.25, 0.6)
+
             SubIDEntry("1") {
                 TrackMusic(1.5)
             }
@@ -242,6 +253,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-78532"
             title = "Akogare Future Sign"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
                 TrackMusic(3.0)
@@ -254,6 +267,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-78530"
             title = "KiRaRhythm"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1", "Do it!! PARTY!!") {
                 // do it happy daibouken reference
@@ -271,6 +286,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-78516"
             title = "SENSEI Sensation"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.6)
             SubIDEntry("1") {
                 // [plasmagunstepgica]
                 TrackMusic(3.0)
@@ -281,6 +297,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-78764"
             title = "367Days"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
                 // THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT
@@ -300,6 +318,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-84229"
             title = "HAPPY TYPHOON"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
                 TrackMusic(0.8)
             }
@@ -315,6 +334,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-86622"
             title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1", "Don't think, smile!!") {
                 TrackMusic(2.5)
             }
@@ -331,6 +351,7 @@ fun DSLScope.ReStage() {
             Contains("M-VGMDB-AL-78516-1")
             Contains("M-VGMDB-AL-78764-1")
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1", "Kirameki Future") {
                 // ca truong chuyen deu luon luon khiep so
                 // mot nguoi diet het moi tuong lai uoc mo
@@ -388,7 +409,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AR-30829"
             title = "KiRaRe"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78536")
                 Contains("M-VGMDB-AL-78534")
                 Contains("M-VGMDB-AL-78575")
@@ -408,6 +429,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-89364"
             title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.2)
             Contains("M-VGMDB-AL-89363-1")
             Contains("M-VGMDB-AL-89363-2")
             Contains("M-VGMDB-AL-78520-1")
@@ -420,6 +442,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-78520"
             title = "Purple Rays"
+
+            Visual(VisualKind.AlbumArt, 0.35, 0.55)
 
             SubIDEntry("1") {
                 TrackMusic(3.0)
@@ -434,6 +458,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-78339"
             title = "＊Heart Confusion＊"
 
+            Visual(VisualKind.AlbumArt, 0.25, 0.65)
             SubIDEntry("1") {
                 TrackMusic(1.0)
             }
@@ -452,6 +477,7 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-82983"
             title = "Pullulate"
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
             Contains("M-VGMDB-AL-78339-1")
             Contains("M-VGMDB-AL-78339-2")
             Contains("M-VGMDB-AL-78520-1")
@@ -468,7 +494,7 @@ fun DSLScope.ReStage() {
             id = "M-13"
             title = "ortensia"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-89364-3")
                 Contains("M-VGMDB-AL-78520")
                 Contains("M-VGMDB-AL-78339")
@@ -481,6 +507,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-82369"
             title = "Q.E.D."
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1", "InFiction") {
                 TrackMusic(4.5)
@@ -495,7 +523,7 @@ fun DSLScope.ReStage() {
             id = "M-14"
             title = "Stellamaris"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-82369-1")
                 Contains("M-VGMDB-AL-104673-1")
             }
@@ -505,7 +533,7 @@ fun DSLScope.ReStage() {
             id = "M-15"
             title = "TROIS ANGES"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104673-3")
             }
         }
@@ -513,6 +541,8 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-78515"
             title = "Raise Your Fist"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1", "Canaria") {
                 TrackMusic(6.0)
@@ -523,7 +553,7 @@ fun DSLScope.ReStage() {
             id = "M-16"
             title = "Tetrarkhia"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78515")
                 Contains("M-VGMDB-AL-104673-4")
             }
@@ -547,6 +577,8 @@ fun DSLScope.ReStage() {
             id = "M-VGMDB-AL-104673"
             title = "Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"
             // aka method appreciation album
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
             SubIDEntry("1", "Bridge to Dream") {
                 // method, la method
@@ -596,6 +628,8 @@ fun DSLScope.ReStage() {
             title = "Sin City"
             // aka sussin city
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+
             SubIDEntry("1") {
                 TrackMusic(3.5)
             }
@@ -606,6 +640,8 @@ fun DSLScope.ReStage() {
             // https://linkco.re/AM0HVHA5
             title = "Chiguhagu Melody"
             // aka mismatched melody
+
+            Visual(VisualKind.AlbumArt, 0.35, 0.6)
 
             // ty for going back based akari kito
             SubIDEntry("1") {
@@ -619,6 +655,7 @@ fun DSLScope.ReStage() {
             title = "Unison Monologue"
             // aka the 330 bpm song but actually an alt-165 bpm one
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("1") {
                 TrackMusic(3.0)
             }
@@ -629,6 +666,7 @@ fun DSLScope.ReStage() {
             title = "Ginga no Shizuku"
             // le gingachad seiyuu
 
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
             SubIDEntry("1") {
                 TrackMusic(1.5)
             }
@@ -646,6 +684,8 @@ fun DSLScope.ReStage() {
             // the numbers wtf
             // https://www.youtube.com/watch?v=hj_4YAVmmuI
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.6)
+
             SubIDEntry("1") {
                 TrackMusic(6.5)
             }
@@ -656,6 +696,8 @@ fun DSLScope.ReStage() {
             title = "Ideal/Idol"
             // inb4 the "i'd like to interject for a moment,
             // what ur refering to as idol, is in fact ideal/idol..." pasta
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
                 TrackMusic(1.5)
@@ -677,7 +719,7 @@ fun DSLScope.ReStage() {
             id = "M-48"
             title = "Re:STAGE! ALL IDOL"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-109271-48")
             }
         }
@@ -692,6 +734,14 @@ fun DSLScope.ReStage() {
         Entry {
             id = "GF-VGMDB-7059"
             title = "Re:Stage! Prism Step"
+
+            // this game has good art ngl
+            // some good card id:
+            // 2037, 284 (lmfao dem tinh mua xuan), 686, 2006
+            // idk find them yourself, they're really good
+            // (despite rst having average character design + the
+            // illustrator art style is not that good)
+            Visual(VisualKind.GachaCardArt, 0.75, 0.75)
 
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
@@ -734,6 +784,8 @@ fun DSLScope.ReStage() {
         bestGirl = "Shikimiya Maina"
         // oops
         bestGirl = "Ichii Maina"
+
+        Visual(VisualKind.Animated, 0.2, 0.5)
 
         Boredom(Boredom.Watching)
 

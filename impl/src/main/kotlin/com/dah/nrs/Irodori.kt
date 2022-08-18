@@ -18,6 +18,8 @@ fun DSLScope.Irodori() {
         id = "M-VGMDB-AL-91187"
         title = "CHUNITHM ALL JUSTICE COLLECTION ep.I"
 
+        Visual(VisualKind.AlbumArt, 0.05, 0.5)
+
         SubIDEntry("35", "Endmark ni kibou to namida o soete") {
             Music(3.5)
             Remix("M-VGMDB-AL-93299-2")
@@ -33,11 +35,14 @@ fun DSLScope.Irodori() {
             title = "Irodorimidori"
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.AnimatedShort, 0.4, 0.2)
         }
 
         Entry {
             id = "M-VGMDB-AL-93299"
             title = "GO!GO! Chunithm♥Endmark"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.35)
 
             SubIDEntry("2") {
                 title = "Endmark ni kibou to namida o soete ~Irodorimidori arrange~"
@@ -50,9 +55,13 @@ fun DSLScope.Irodori() {
             id = "M-29"
             title = "Maware! GO! GO! CHUNITHM"
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.4)
+
             Entry {
                 id = "M-30"
                 title = "Bokura no Freedom DiVE↓"
+
+                Visual(VisualKind.AlbumArt, 0.4, 0.45)
 
                 Music(3.0)
             }
@@ -70,7 +79,7 @@ fun DSLScope.Irodori() {
             title = "Irodorimidori"
 
             // times 0.6 because they are all covers
-            Contains(ImageVocalContainFactor * 0.6) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-93299")
                 Contains("M-29")
             }

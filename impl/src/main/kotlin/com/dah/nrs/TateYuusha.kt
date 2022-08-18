@@ -20,6 +20,7 @@ fun DSLScope.TateYuusha() {
             // Anger when MC is treated unfairly (like Oregairu's 8man)
             NEI(5.0, Emotion.AU)
             Meme(0.5, 6)
+            Visual(VisualKind.Animated, 0.5, 0.2)
         }
 
         Entry {
@@ -28,6 +29,7 @@ fun DSLScope.TateYuusha() {
 
             Boredom(Boredom.Dropped)
             KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
+            Visual(VisualKind.Animated, 0.4, 0.2)
         }
     }
 }

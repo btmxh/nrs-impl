@@ -2,9 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
-import com.dah.nrs.exts.Boredom
-import com.dah.nrs.exts.Completed
-import com.dah.nrs.exts.FeatureMusic
+import com.dah.nrs.exts.*
 
 fun DSLScope.YamadaKun() {
     Entry {
@@ -19,6 +17,7 @@ fun DSLScope.YamadaKun() {
             FeatureMusic("M-VGMDB-AL-51918-1")
             FeatureMusic("M-VGMDB-AL-52045-1")
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
         Contains("M-VGMDB-AL-51918-1")

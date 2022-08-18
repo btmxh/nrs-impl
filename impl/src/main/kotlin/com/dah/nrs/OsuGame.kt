@@ -14,12 +14,15 @@ fun DSLScope.OsuGame() {
             id = "M-VGMDB-AL-34269"
             title = "Parousia"
 
+            Visual(VisualKind.AlbumArt, 0.15, 0.4)
+
             // the third ayumu-era theme song
             SubIDEntry("7", "Ascension to Heaven") {
                 Music(3.0)
             }
 
             SubIDEntry("12", "FREEDOM DiVE↓") {
+                // not gonna rate all of the backgrounds and shit
                 Music(1.5)
                 // i'm not overstreaming 222 bpm
                 NEI(5.0, Emotion.AP)

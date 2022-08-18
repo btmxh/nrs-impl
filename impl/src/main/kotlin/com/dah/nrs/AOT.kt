@@ -4,7 +4,7 @@ import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.exts.*
 
-// imagine almost losing a contentless franchise xddddddddddddd
+// imagine losing to a contentless franchise xddddddddddddd
 fun DSLScope.AOT() {
     Entry {
         title = "Shingeki no Kyojin"
@@ -24,6 +24,7 @@ fun DSLScope.AOT() {
             id = "A-MAL-16498"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
         Entry {
@@ -31,6 +32,7 @@ fun DSLScope.AOT() {
             id = "A-MAL-25777"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
         Entry {
@@ -38,6 +40,7 @@ fun DSLScope.AOT() {
             id = "A-MAL-35760"
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
         // this has more score than almost all love live animes
@@ -51,6 +54,7 @@ fun DSLScope.AOT() {
             bestGirl = "Ackerman Mikasa"
             Boredom(Boredom.Completed)
             AEI(5.0, Emotion.AP)
+            Visual(VisualKind.Animated, 0.2, 0.6)
         }
     }
 }

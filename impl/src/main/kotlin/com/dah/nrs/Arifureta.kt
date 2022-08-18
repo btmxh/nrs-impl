@@ -17,6 +17,7 @@ fun DSLScope.Arifureta() {
 
             // MC got dumped by his friends made me kinda angry
             NEI(2.5, Emotion.AU)
+            Visual(VisualKind.Animated, 0.5, 0.1)
 
             FeatureMusic("M-VGMDB-AL-86592-1")
         }
@@ -28,6 +29,7 @@ fun DSLScope.Arifureta() {
         id = "M-VGMDB-AL-86592"
         title = "FLARE"
 
+        Visual(VisualKind.AlbumArt, 0.05, 0.5)
         SubIDEntry("1") {
             Music(1.0)
             OsuSong(personal = 0.1, community = 0.05)

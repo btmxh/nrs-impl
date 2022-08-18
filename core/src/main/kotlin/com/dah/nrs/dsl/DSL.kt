@@ -126,7 +126,7 @@ class DSLEntry(override val root: DSLScope) : AcceptIRE, AcceptEntryContains, DS
     override val context: NRSContext get() = root.context
     override var id: String = ""
     var title by stringMeta("DAH_entry_title")
-    var bestGirl: String = ""
+    var bestGirl by stringMeta("DAH_entry_bestGirl")
     var seasonal: Boolean = false
     override val children = mutableMapOf<String, Double>()
 

@@ -14,6 +14,8 @@ fun DSLScope.Saekano() {
             id = "M-VGMDB-AL-48199"
             title = "M♭"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+
             SubIDEntry("1") {
                 Music(2.0)
                 OsuSong(personal = 1.0)
@@ -23,10 +25,6 @@ fun DSLScope.Saekano() {
         Contains("M-VGMDB-AL-49446-1")
 
         WaifuUnknownPeriod("Megumi Kato", 90) {
-            contributors["A-MAL-23277"] = 0.5
-            contributors["A-MAL-30727"] = 0.5
-        }
-        EHI {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }
@@ -42,12 +40,16 @@ fun DSLScope.Saekano() {
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
             Boredom(Boredom.Completed)
+            EHI()
+            Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
         Entry {
             id = "A-MAL-30727"
             title = "Saenai Heroine no Sodatekata ♭"
             Boredom(Boredom.Completed)
+            EHI()
+            Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
         Entry {
@@ -56,6 +58,7 @@ fun DSLScope.Saekano() {
             // humor
             NEI(2.5, Emotion.AP)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.55, 0.3)
         }
     }
 

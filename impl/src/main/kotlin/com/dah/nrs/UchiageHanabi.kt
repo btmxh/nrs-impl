@@ -21,6 +21,7 @@ fun DSLScope.UchiageHanabi() {
             Boredom(Boredom.Completed)
 
             FeatureMusic("M-VGMDB-AL-69257-1")
+            Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
         Contains("M-VGMDB-AL-69257-1")

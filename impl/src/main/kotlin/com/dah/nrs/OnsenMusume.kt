@@ -1,11 +1,7 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
-import com.dah.nrs.exts.ImageVocalContainFactor
-import com.dah.nrs.exts.Meme
-import com.dah.nrs.exts.Music
+import com.dah.nrs.dsl.*
+import com.dah.nrs.exts.*
 
 fun DSLScope.OnsenMusume() {
     // le funny franchise, lack content therefore low score
@@ -19,6 +15,7 @@ fun DSLScope.OnsenMusume() {
             id = "M-VGMDB-AL-75349"
             title = "Hop Step Jump!"
 
+            Visual(VisualKind.AlbumArt, 0.75, 0.25)
             SubIDEntry("1") {
                 Music(6.0)
             }
@@ -28,7 +25,7 @@ fun DSLScope.OnsenMusume() {
             id = "M-17"
             title = "SPRiNGS"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-75344-1")
                 Contains("M-VGMDB-AL-75344-5")
                 Contains("M-VGMDB-AL-75349")
@@ -39,7 +36,10 @@ fun DSLScope.OnsenMusume() {
             id = "M-VGMDB-AL-75344"
             title = "Tsuioku Kaleidoscope"
 
+            Visual(VisualKind.AlbumArt, 0.75, 0.25)
             SubIDEntry("1", "Junjou -SAKURA-") {
+                // https://www.youtube.com/watch?v=X2Q-bCS_IRs
+                Visual(VisualKind.AnimatedMV, 0.75, 0.25)
                 Music(5.0)
             }
 

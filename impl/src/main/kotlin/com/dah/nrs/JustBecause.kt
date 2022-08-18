@@ -17,6 +17,7 @@ fun DSLScope.JustBecause() {
             // Pretty decent drama
             AEI(5.0, Emotion.CU)
             FeatureMusic("M-VGMDB-AL-70716-1")
+            Visual(VisualKind.Animated, 0.4, 0.6)
         }
 
         Contains("M-VGMDB-AL-70716-1")

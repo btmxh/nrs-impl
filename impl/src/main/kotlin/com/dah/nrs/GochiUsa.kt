@@ -14,6 +14,8 @@ fun DSLScope.GochiUsa() {
             id = "M-VGMDB-AL-44890"
             title = "Daydream café"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.15)
+
             SubIDEntry("1") {
                 // fuwa fuwa
                 // dong do la max do
@@ -27,7 +29,7 @@ fun DSLScope.GochiUsa() {
             id = "M-9"
             title = "Petit Rabbit's"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-44890")
             }
         }
@@ -36,6 +38,7 @@ fun DSLScope.GochiUsa() {
             id = "M-VGMDB-AL-55364"
             title = "Is the order a rabbit?? Chino Character Song Album: CUP OF Chino"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.2)
             // this also includes mahou shoujo chino
             Contains("M-VGMDB-AL-54418-1")
 
@@ -51,6 +54,7 @@ fun DSLScope.GochiUsa() {
             id = "M-VGMDB-AL-54418"
             title = "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.15)
             SubIDEntry("1", "Mahou Shoujo Chino") {
                 Music(2.0)
             }
@@ -62,6 +66,7 @@ fun DSLScope.GochiUsa() {
             // humor not that good tho
             NEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.4, 0.15)
         }
     }
 }

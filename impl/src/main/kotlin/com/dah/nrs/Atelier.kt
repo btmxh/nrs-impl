@@ -29,6 +29,8 @@ fun DSLScope.Atelier() {
 
             FeatureMusic("M-VGMDB-AL-45361-1")
 
+            Visual(VisualKind.Animated, 0.4, 0.25)
+
             // ig this is killed somewhat similarly to luminous witches
             KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.25)
         }
@@ -37,6 +39,7 @@ fun DSLScope.Atelier() {
             id = "M-VGMDB-AL-45361"
             title = "Atelier Escha & Logy ~Alchemist of Dusk Sky~ Original Soundtrack the Animation"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.25)
             SubIDEntry("1", "Asuiro") {
                 // STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT!
                 // MY FRIENDS ON TIKTOK SEND ME Rina Hidaka, ON DISCORD IT'S FUCKING Rie Marukawa!
@@ -63,6 +66,9 @@ fun DSLScope.Atelier() {
 
             bestGirl = "Wise Spirit"
             // "sach cho" my beloved
+
+            Visual(VisualKind.RPG3DGame, 0.5, 0.4)
+            Visual(VisualKind.VisualNovel, 0.4, 0.3)
         }
 
         Entry {
@@ -71,6 +77,10 @@ fun DSLScope.Atelier() {
             // "not even at the start line"
 
 //            bestGirl = "Harry Maguire"
+//            bestGirl = "Fred dai de"
+            // atelier games visual comes in two part
+            Visual(VisualKind.RPG3DGame, 0.6, 0.4)
+            Visual(VisualKind.VisualNovel, 0.5, 0.3)
         }
     }
 }

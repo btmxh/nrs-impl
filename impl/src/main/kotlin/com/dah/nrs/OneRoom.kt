@@ -21,6 +21,7 @@ fun DSLScope.OneRoom() {
             id = "M-VGMDB-AL-63666"
             title = "harumachi clover"
 
+            Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
                 // ME NO MAE NO TOBIRA O AKETARA HARU KAZE
                 // TORI TACHI MO KIGI DE MACHIAWASE
@@ -43,6 +44,7 @@ fun DSLScope.OneRoom() {
             seasonal = true
 
             Boredom(Boredom.Dropped)
+            Visual(VisualKind.Animated, 0.5, 0.25)
             FeatureMusic("M-VGMDB-AL-63666-1")
         }
     }

@@ -22,6 +22,8 @@ fun DSLScope.ATRI() {
             AEI(8.0, Emotion.CU to 0.8, Emotion.AP to 0.2)
             Boredom(Boredom.TempOnHold)
 
+            Visual(VisualKind.VisualNovel, 0.7, 0.15)
+
             Meme(0.5, 10)
             FeatureMusic("M-VGMDB-AL-100754")
         }
@@ -29,6 +31,8 @@ fun DSLScope.ATRI() {
         Entry {
             id = "M-VGMDB-AL-100754"
             title = "ATRI -My Dear Moments- Original Soundtrack"
+
+            Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             // like the aokana soundtrack album
             Music(6.0)

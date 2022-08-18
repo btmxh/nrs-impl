@@ -39,6 +39,8 @@ fun DSLScope.YLIA() {
             FeatureMusic("M-VGMDB-AL-49046-1")
             FeatureMusic("M-VGMDB-AL-49046-18")
 
+            Visual(VisualKind.Animated, 0.3, 0.5)
+
             Boredom(Boredom.Completed)
         }
 
@@ -46,6 +48,7 @@ fun DSLScope.YLIA() {
             id = "M-VGMDB-AL-49046"
             title = "Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
             SubIDEntry("1", "Kimi wa Wasurerareru no") {
                 Music(3.0)
                 AEI(5.0, Emotion.CU)

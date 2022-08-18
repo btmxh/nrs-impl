@@ -9,6 +9,7 @@ fun DSLScope.Spring2022() {
         title = "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
 
         Boredom(Boredom.Dropped)
+        Visual(VisualKind.Animated, 0.25, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
     }
     Entry {
@@ -16,6 +17,8 @@ fun DSLScope.Spring2022() {
         title = "RPG Fudousan"
 
         Boredom(Boredom.Dropped)
+        // weak character design, but the thing still looks cute
+        Visual(VisualKind.Animated, 0.75, 0.3)
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
     }
     Entry {
@@ -23,6 +26,7 @@ fun DSLScope.Spring2022() {
         title = "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
 
         Boredom(Boredom.Dropped)
+        Visual(VisualKind.Animated, 0.5, 0.2)
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
     }
     Entry {
@@ -46,6 +50,9 @@ fun DSLScope.Spring2022() {
         // Thông điệp thực sự của câu văn nằm ở cái sắc hồng này. Đối với một người như Nguyễn Minh Châu, khi nhìn vào một bức tranh với trái tim đầy thù ghét, không thể nào để ý thấy sắc hồng của đôi má. Đây chắc hẳn là màu tóc hồng của cô gái ấy. Và dựa vào sự ghét cay ghét đắng của nhà văn, đây chính là Anya từ Spy x Family, hoặc Chika từ Love Is War. Qua đó bạn đọc cảm thấy xúc động trước những tư tưởng hiện đại của tác giả. Ông đã lên án sự nổi tiếng của những bộ anime "làm bằng tiền", từ đó đề cao những bộ như Re:Stage hay Show By Rock.
         // Nếu như Tô Hoài chỉ từ 5 chữ trọng bio của _kotachi_ đã viết nên một bản trường ca Tây Bắc, thì Nguyễn Minh Châu, với một câu văn hơn hai chục chữ, đã tạo nên được biết bao lớp nghĩa ẩn hiện với biết bao ý nghĩa. Những tác phẩm ấy của họ sẽ mãi được lưu giữ trong kho tàng văn học Việt Nam cũng như là rst lore, mãi mãi bất hủ trong lòng bạn đọc.
         Boredom(Boredom.Dropped)
+        // unique art because manga, but chara design sucks
+        // also fuck u boat shit
+        Visual(VisualKind.Animated, 0.35, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.75)
     }
     Entry {
@@ -53,6 +60,8 @@ fun DSLScope.Spring2022() {
         title = "Tomodachi Game"
 
         Boredom(Boredom.Completed)
+        // unique art because manga, but chara design sucks (p2)
+        Visual(VisualKind.Animated, 0.2, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)
 
         // nice plot desu

@@ -34,6 +34,7 @@ fun DSLScope.NewGame() {
             bestGirl = "Iijima Yun"
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.7, 0.3)
 
             FeatureMusic("M-VGMDB-AL-58627-1")
         }
@@ -45,6 +46,7 @@ fun DSLScope.NewGame() {
             bestGirl = "Suzukaze Aoba"
 
             Boredom(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.7, 0.3)
 
             FeatureMusic("M-VGMDB-AL-68225-1")
         }
@@ -53,7 +55,7 @@ fun DSLScope.NewGame() {
             id = "M-46"
             title = "fourfolium"
 
-            Contains(ImageVocalContainFactor) {
+            Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-58627")
                 Contains("M-VGMDB-AL-68225")
             }
@@ -63,6 +65,7 @@ fun DSLScope.NewGame() {
             id = "M-VGMDB-AL-58627"
             title = "Now Loading!!!!"
 
+            Visual(VisualKind.AlbumArt, 0.7, 0.3)
             SubIDEntry("1") {
                 Music(4.0)
                 OsuSong(personal = 4.0)
@@ -73,6 +76,7 @@ fun DSLScope.NewGame() {
             id = "M-VGMDB-AL-68225"
             title = "STEP by STEP UP↑↑↑↑"
 
+            Visual(VisualKind.AlbumArt, 0.7, 0.3)
             SubIDEntry("1") {
                 // mankai step by step
                 // this song is legendary af

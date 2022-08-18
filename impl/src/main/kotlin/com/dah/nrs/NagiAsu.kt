@@ -20,6 +20,7 @@ fun DSLScope.NagiAsu() {
             id = "M-VGMDB-AL-45187"
             title = "NAGI NO ASUKARA CHARACTER SONG 3"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.4)
             SubIDEntry("1", "ripple ~my first love~") {
                 Music(6.0)
             }
@@ -39,6 +40,7 @@ fun DSLScope.NagiAsu() {
             NEI(7.5, Emotion.CU)
 
             WaifuUnknownPeriod("Shiodome Miuna", 90)
+            Visual(VisualKind.Animated, 0.6, 0.6)
 
             Meme(0.7, 25)
 

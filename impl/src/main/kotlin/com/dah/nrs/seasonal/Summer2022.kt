@@ -7,6 +7,8 @@ fun DSLScope.Summer2022() {
     // welcome to summer 2022, where everything is either an AKM reference or a
     // disguised idol anime.
     // at least the "dropped" rate will be lower than spring i think. (because idol)
+    // goodbye mr teppen and prima doll lol
+    // (the prima doll incident)
 
     Entry {
         id = "A-MAL-50760"
@@ -15,6 +17,7 @@ fun DSLScope.Summer2022() {
         bestGirl = "Hosono Yuzu"
 
         // art has some flaws, but whatever
+        Visual(VisualKind.Animated, 0.4, 0.4)
         // bye lol
         Boredom(Boredom.Dropped)
         KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
@@ -30,6 +33,9 @@ fun DSLScope.Summer2022() {
         // obligatory rst-cue studio(s) anime
         // art is "interesting" ngl
         // (basically it was somewhat decent while having 2002 character designs)
+        Visual(VisualKind.Animated, 0.4, 0.85)
+
+        // the rescue mission succeeded let's goooooo
         Boredom(Boredom.Watching)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
@@ -43,10 +49,14 @@ fun DSLScope.Summer2022() {
         // yep, the whole anime was ruined because of that girl
 
         bestGirl = "Okumiya Otome"
-        // ichijou ruka my beloved
+        // ichijou ruka my beloved (she can't save this anime sadge)
 
         // the prima doll incident
         Boredom(Boredom.Dropped)
+
+        // somewhat unique and cute at the same time ngl
+        // but still good luck with that -1.0 boredom lol xddddddddddd
+        Visual(VisualKind.Animated, 0.75, 0.3)
 
         NEI(-1.0, Emotion.AU)
 
@@ -54,6 +64,8 @@ fun DSLScope.Summer2022() {
         // kusunoki tomori ruined the anime
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+
+        // kusunoki tomori - the prima doll destroyer
     }
 
     Entry {
@@ -71,6 +83,9 @@ fun DSLScope.Summer2022() {
         bestGirl = "Irido Yume"
         // self-explanatory
 
+        // good art (the rosia girl looks breedable af)
+        Visual(VisualKind.Animated, 0.65, 0.2)
+
         // still shit anime anyways
         // lmfao they used "inverse-killedby" method to not be dropped
         Boredom(Boredom.Watching)
@@ -84,6 +99,7 @@ fun DSLScope.Summer2022() {
 
         // mc is cute
         // ngl this is a treat for our eyes
+        Visual(VisualKind.Animated, 0.8, 0.05)
 //        bestGirl = "Robertson Virginia"
         bestGirl = "Shibuya Inori"
         // inori is cuter fuck u
@@ -107,9 +123,26 @@ fun DSLScope.Summer2022() {
         // > love live VA's
         // https://www.google.com/search?q=trolldespair
 
+        Visual(VisualKind.Animated, 0.5, 0.1)
+
         Boredom(Boredom.Watching)
         KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
+    }
+
+    Entry {
+        id = "A-MAL-50221"
+        title = "Shine Post"
+
+        bestGirl = "Seibu Rio"
+        // lmfao himekek VA
+        // they even got her to sing a ballad omegalul
+        // (they know about her songs in sb69 these cheeky mfs)
+
+        Visual(VisualKind.Animated, 0.4, 0.5)
+        Boredom(Boredom.Watching)
+        KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
     }
 
 }
