@@ -8,7 +8,7 @@ import com.dah.nrs.exts.*
 
 // watch rst and buy the bluray
 private val AllRstTracks = mutableListOf<String>()
-fun DSLEntry.TrackMusic(score: Double) {
+private fun DSLEntry.ReStepMusic(score: Double) {
     Music(score)
     AllRstTracks.add(id)
 }
@@ -47,18 +47,20 @@ fun DSLScope.ReStage() {
         contributors["A-MAL-32038"] = sb69Contribution * 0.3
         contributors["A-MAL-40763"] = sb69Contribution * 0.1
         contributors["A-MAL-41520"] = sb69Contribution * 0.25
-        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+        contributors["G-VGMDB-8429"] = sb69Contribution * 0.1
 
         // method
         contributors["O-1"] = 0.2
     }
 
     // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
+    // aka idol dystopia arc
     Meme(0.95, numDays("2021-11-20", "2022-01-10") + numDays("2022-03-10", "2022-06-03")) {
         // time to nerf (fragment) rst boys
         contributors["A-MAL-38009"] = 0.65
-        contributors["GF-VGMDB-7059"] = 0.1
-        contributors["M-VGMDB-AR-29249"] = 0.01
+        contributors["GF-VGMDB-7059"] = 0.05
+        contributors["M-VGMDB-AR-29249"] = 0.1
+        contributors["rst songs [null entry]"] = 0.05
 
         // method
         contributors["O-1"] = 0.15
@@ -215,7 +217,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("2") {
                 // watayuki grimoi-reference (M6.0 unranked lmfao)
-                TrackMusic(1.0)
+                ReStepMusic(1.0)
             }
         }
 
@@ -226,14 +228,14 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1") {
-                TrackMusic(3.0)
+                ReStepMusic(3.0)
                 // haha funny centuRe: reference
                 Meme(0.05, 6)
             }
 
             SubIDEntry("2", "Kimi ni Okuru Angel Yell") {
                 // the angel yell incident
-                TrackMusic(7.5)
+                ReStepMusic(7.5)
                 Meme(0.2, 10)
             }
         }
@@ -246,7 +248,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
-                TrackMusic(1.5)
+                ReStepMusic(1.5)
             }
         }
 
@@ -257,7 +259,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
-                TrackMusic(3.0)
+                ReStepMusic(3.0)
             }
 
             // track 2
@@ -272,7 +274,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1", "Do it!! PARTY!!") {
                 // do it happy daibouken reference
-                TrackMusic(5.0)
+                ReStepMusic(5.0)
             }
 
             Contains("M-VGMDB-AL-78534-1")
@@ -289,7 +291,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
             SubIDEntry("1") {
                 // [plasmagunstepgica]
-                TrackMusic(3.0)
+                ReStepMusic(3.0)
                 OsuSong(personal = 0.2)
             }
         }
@@ -310,7 +312,7 @@ fun DSLScope.ReStage() {
                 // [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu!
                 OsuSong(personal = 5.0)
 
-                TrackMusic(5.0)
+                ReStepMusic(5.0)
             }
         }
 
@@ -320,13 +322,13 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
-                TrackMusic(0.8)
+                ReStepMusic(0.8)
             }
 
             SubIDEntry("2", "Stereo Life") {
                 // yozora ni kagayaku yume no ryuusei wa
                 // kek
-                TrackMusic(1.0)
+                ReStepMusic(1.0)
             }
         }
 
@@ -336,11 +338,11 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1", "Don't think, smile!!") {
-                TrackMusic(2.5)
+                ReStepMusic(2.5)
             }
 
             SubIDEntry("2", "Akogare Future Sign (Piano Strings Arrange)") {
-                TrackMusic(2.0)
+                ReStepMusic(2.0)
             }
         }
 
@@ -357,7 +359,7 @@ fun DSLScope.ReStage() {
                 // mot nguoi diet het moi tuong lai uoc mo
                 // xinh dep bac nhat tren thai binh que to
                 // co gai hoan love luon khien cho ca truong chuyen don dau
-                TrackMusic(4.5)
+                ReStepMusic(4.5)
             }
 
             SubIDEntry("2", "OvertuRe:") {
@@ -401,7 +403,7 @@ fun DSLScope.ReStage() {
                 // demon slayer? more like got slayed by rst lmao xddddd
                 // love live? more like love die because you got cucked by rst xddddddd KEKW ING
                 // we will be on the top and people will have to smoke COPIUM just like me rn
-                TrackMusic(8.0)
+                ReStepMusic(8.0)
             }
         }
 
@@ -435,7 +437,7 @@ fun DSLScope.ReStage() {
             Contains("M-VGMDB-AL-78520-1")
 
             SubIDEntry("3", "Yes, We Are!!!") {
-                TrackMusic(3.5)
+                ReStepMusic(3.5)
             }
         }
 
@@ -446,11 +448,11 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.35, 0.55)
 
             SubIDEntry("1") {
-                TrackMusic(3.0)
+                ReStepMusic(3.0)
             }
 
             SubIDEntry("2", "Dear My Friend") {
-                TrackMusic(4.0)
+                ReStepMusic(4.0)
             }
         }
 
@@ -460,7 +462,7 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.25, 0.65)
             SubIDEntry("1") {
-                TrackMusic(1.0)
+                ReStepMusic(1.0)
             }
 
             SubIDEntry("2", "crave") {
@@ -469,7 +471,7 @@ fun DSLScope.ReStage() {
                 // >still makes a song for rst anyway, but other franchises get none
                 // >refuses to elaborate further
                 // >leaves
-                TrackMusic(2.5)
+                ReStepMusic(2.5)
             }
         }
 
@@ -484,7 +486,7 @@ fun DSLScope.ReStage() {
             Contains("M-VGMDB-AL-78520-2")
 
             SubIDEntry("5", "Ano ne") {
-                TrackMusic(2.0)
+                ReStepMusic(2.0)
             }
         }
 
@@ -511,11 +513,11 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1", "InFiction") {
-                TrackMusic(4.5)
+                ReStepMusic(4.5)
             }
 
             SubIDEntry("8", "DESERT BLACK FLOWER") {
-                TrackMusic(7.5)
+                ReStepMusic(7.5)
             }
         }
 
@@ -545,7 +547,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1", "Canaria") {
-                TrackMusic(6.0)
+                ReStepMusic(6.0)
             }
         }
 
@@ -567,7 +569,7 @@ fun DSLScope.ReStage() {
             // - sotarks map roasting
             // - btmc map requests
             // (both failed lmfao)
-            TrackMusic(8.0)
+            ReStepMusic(8.0)
 
             // hige driver composed and arranged this btw
             // (ye the dude who make dadadadadada)
@@ -589,11 +591,11 @@ fun DSLScope.ReStage() {
                 // la nguoi mang niem tin hi vong cho toi
                 // se mang lai biet bao su huy hoang
 
-                TrackMusic(7.0)
+                ReStepMusic(7.0)
             }
 
             SubIDEntry("2", "Re:Rays") {
-                TrackMusic(5.0)
+                ReStepMusic(5.0)
             }
 
             SubIDEntry("3", "Tomorrow Melodies") {
@@ -601,11 +603,11 @@ fun DSLScope.ReStage() {
                 // nguoi dan ong da khien ca truong,
                 // ca truong chuyen da luon lo so
 
-                TrackMusic(7.0)
+                ReStepMusic(7.0)
             }
 
             SubIDEntry("4", "Pins&Needles") {
-                TrackMusic(4.5)
+                ReStepMusic(4.5)
             }
 
             SubIDEntry("5", "We Remember") {
@@ -614,7 +616,7 @@ fun DSLScope.ReStage() {
                 // tai vi sao a qua ngau
                 // (the gian d ai sanh bang)
 
-                TrackMusic(3.0)
+                ReStepMusic(3.0)
             }
         }
 
@@ -631,7 +633,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("1") {
-                TrackMusic(3.5)
+                ReStepMusic(3.5)
             }
         }
 
@@ -645,7 +647,7 @@ fun DSLScope.ReStage() {
 
             // ty for going back based akari kito
             SubIDEntry("1") {
-                TrackMusic(2.0)
+                ReStepMusic(2.0)
             }
         }
 
@@ -657,7 +659,7 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("1") {
-                TrackMusic(3.0)
+                ReStepMusic(3.0)
             }
         }
 
@@ -668,7 +670,7 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             SubIDEntry("1") {
-                TrackMusic(1.5)
+                ReStepMusic(1.5)
             }
         }
 
@@ -687,7 +689,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
 
             SubIDEntry("1") {
-                TrackMusic(6.5)
+                ReStepMusic(6.5)
             }
         }
 
@@ -700,7 +702,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
-                TrackMusic(1.5)
+                ReStepMusic(1.5)
             }
         }
 
@@ -712,7 +714,8 @@ fun DSLScope.ReStage() {
             // https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s
 
             // will be decided after full song release
-            TrackMusic(2.5)
+            // not in game rn
+            Music(2.5)
         }
 
         Entry {

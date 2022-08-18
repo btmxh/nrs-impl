@@ -63,6 +63,7 @@ fun DSLScope.GochiUsa() {
         Entry {
             id = "A-MAL-21273"
             title = "Gochuumon wa Usagi Desu ka?"
+            bestGirl = "Kafuu Chino"
             // humor not that good tho
             NEI(3.0, Emotion.AP)
             Boredom(Boredom.Completed)

@@ -13,6 +13,7 @@ fun DSLScope.SelePro() {
         Entry {
             id = "A-MAL-44275"
             title = "SELECTION PROJECT"
+            bestGirl = "Koizumi Uta"
 
             Cry(Emotion.CU)
             Boredom(Boredom.Completed)

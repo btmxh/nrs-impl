@@ -59,6 +59,8 @@ fun DSLScope.WakeUpGirls() {
             id = "A-MAL-21189"
             title = "Wake Up, Girls! Shichinin no Idol"
 
+            bestGirl = "Shimada Mayu"
+
             Boredom(Boredom.Completed)
             // partially benefitted from rst
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
@@ -71,6 +73,8 @@ fun DSLScope.WakeUpGirls() {
             id = "A-MAL-19023"
             title = "Wake Up, Girls!"
 
+            bestGirl = "Shimada Mayu"
+
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             FeatureMusic("M-VGMDB-AL-42945-1")
@@ -81,6 +85,8 @@ fun DSLScope.WakeUpGirls() {
             id = "A-MAL-28841"
             title = "Wake Up, Girls! Seishun no Kage"
 
+            bestGirl = "Shimada Mayu"
+
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
@@ -90,6 +96,8 @@ fun DSLScope.WakeUpGirls() {
             id = "A-MAL-30419"
             title = "Wake Up, Girls! Beyond the Bottom"
 
+            bestGirl = "Shimada Mayu"
+
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
@@ -98,6 +106,8 @@ fun DSLScope.WakeUpGirls() {
         Entry {
             id = "A-MAL-34522"
             title = "Wake Up, Girls! Shin Shou"
+
+            bestGirl = "Shimada Mayu"
 
             Boredom(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)

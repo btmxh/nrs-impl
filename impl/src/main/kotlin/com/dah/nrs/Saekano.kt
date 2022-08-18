@@ -36,6 +36,7 @@ fun DSLScope.Saekano() {
         Entry {
             id = "A-MAL-23277"
             title = "Saenai Heroine no Sodatekata"
+            bestGirl = "Megumi Kato"
 
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
@@ -47,6 +48,7 @@ fun DSLScope.Saekano() {
         Entry {
             id = "A-MAL-30727"
             title = "Saenai Heroine no Sodatekata ♭"
+            bestGirl = "Megumi Kato"
             Boredom(Boredom.Completed)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
@@ -55,6 +57,7 @@ fun DSLScope.Saekano() {
         Entry {
             id = "A-MAL-36885"
             title = "Saenai Heroine no Sodatekata Fine"
+            bestGirl = "Megumi Kato"
             // humor
             NEI(2.5, Emotion.AP)
             Boredom(Boredom.Completed)

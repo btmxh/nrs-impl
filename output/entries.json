@@ -150,7 +150,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Wake Up, Girls! Shin Shou"
+            "DAH_entry_title": "Wake Up, Girls! Shin Shou",
+            "DAH_entry_bestGirl": "Shimada Mayu"
         }
     },
     "M-VGMDB-AL-104418-1": {
@@ -174,7 +175,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
+            "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+            "DAH_entry_bestGirl": "Kotonoha Kanade"
         }
     },
     "M-VGMDB-AL-81504": {
@@ -184,6 +186,22 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "KIZUNA MUSIC♪"
+        }
+    },
+    "M-65": {
+        "id": "M-65",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Colorful"
+        }
+    },
+    "M-64": {
+        "id": "M-64",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shoujotachi no Owaranai Yoru"
         }
     },
     "F-VGMDB-6626": {
@@ -196,12 +214,23 @@
             "DAH_entry_title": "Iroduku Sekai no Ashita kara"
         }
     },
+    "M-63": {
+        "id": "M-63",
+        "children": {
+            "M-64": 1.0,
+            "M-65": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Everlasting Night of Teenage Girls"
+        }
+    },
     "A-MAL-11887": {
         "id": "A-MAL-11887",
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kokoro Connect"
+            "DAH_entry_title": "Kokoro Connect",
+            "DAH_entry_bestGirl": "Nagase Iori"
         }
     },
     "M-62": {
@@ -614,7 +643,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Wake Up, Girls!"
+            "DAH_entry_title": "Wake Up, Girls!",
+            "DAH_entry_bestGirl": "Shimada Mayu"
         }
     },
     "M-VGMDB-AR-15766": {
@@ -776,8 +806,7 @@
             "M-VGMDB-AL-70716-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Just Because!",
-            "DAH_entry_bestGirl": "Natsume Mio"
+            "DAH_entry_title": "Just Because!"
         }
     },
     "M-VGMDB-AL-61982-1": {
@@ -1183,7 +1212,8 @@
             "A-MAL-37027": 1.0,
             "A-MAL-40879": 1.0,
             "A-MAL-41169": 1.0,
-            "A-MAL-48916": 1.0
+            "A-MAL-48916": 1.0,
+            "A-MAL-50203": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live!"
@@ -1785,6 +1815,14 @@
             "DAH_entry_title": "Stella-rium"
         }
     },
+    "G-VGMDB-8429": {
+        "id": "G-VGMDB-8429",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "SHOW BY ROCK!! Fes A Live"
+        }
+    },
     "M-VGMDB-AL-86592": {
         "id": "M-VGMDB-AL-86592",
         "children": {
@@ -1906,7 +1944,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kokoro Connect: Michi Random"
+            "DAH_entry_title": "Kokoro Connect: Michi Random",
+            "DAH_entry_bestGirl": "Nagase Iori"
         }
     },
     "M-VGMDB-AL-70622-1": {
@@ -2276,7 +2315,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tomodachi Game"
+            "DAH_entry_title": "Tomodachi Game",
+            "DAH_entry_bestGirl": "Maria Mizuse"
         }
     },
     "M-VGMDB-AL-95118-2": {
@@ -2358,7 +2398,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tate no Yuusha no Nariagari Season 2"
+            "DAH_entry_title": "Tate no Yuusha no Nariagari Season 2",
+            "DAH_entry_bestGirl": "Raphtalia"
         }
     },
     "M-VGMDB-AL-68276-1": {
@@ -2461,6 +2502,9 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-no-best-girl"
+            ],
             "DAH_entry_title": "Spy x Family"
         }
     },
@@ -2469,7 +2513,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Irodorimidori"
+            "DAH_entry_title": "Irodorimidori",
+            "DAH_entry_bestGirl": "Nagi Kobotoke"
         }
     },
     "M-VGMDB-AL-42762-1": {
@@ -2700,7 +2745,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "K-On! Movie"
+            "DAH_entry_title": "K-On! Movie",
+            "DAH_entry_bestGirl": "Nakano Azusa"
         }
     },
     "A-MAL-38256": {
@@ -2800,7 +2846,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Wake Up, Girls! Beyond the Bottom"
+            "DAH_entry_title": "Wake Up, Girls! Beyond the Bottom",
+            "DAH_entry_bestGirl": "Shimada Mayu"
         }
     },
     "F-VGMDB-2633": {
@@ -2940,7 +2987,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hataraku Saibou"
+            "DAH_entry_title": "Hataraku Saibou",
+            "DAH_entry_bestGirl": "Kesshouban"
         }
     },
     "M-VGMDB-AL-51276-2": {
@@ -3119,7 +3167,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koi to Senkyo to Chocolate"
+            "DAH_entry_title": "Koi to Senkyo to Chocolate",
+            "DAH_entry_bestGirl": "Chisato Sumiyoshi"
         }
     },
     "A-MAL-40763": {
@@ -3237,7 +3286,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Saenai Heroine no Sodatekata ♭"
+            "DAH_entry_title": "Saenai Heroine no Sodatekata ♭",
+            "DAH_entry_bestGirl": "Megumi Kato"
         }
     },
     "A-MAL-48363": {
@@ -3245,7 +3295,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "RPG Fudousan"
+            "DAH_entry_title": "RPG Fudousan",
+            "DAH_entry_bestGirl": "Kotone Kazairo"
         }
     },
     "M-VGMDB-AR-8196": {
@@ -3432,6 +3483,15 @@
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
             "DAH_entry_bestGirl": "Yuigahama Yui"
+        }
+    },
+    "A-MAL-50203": {
+        "id": "A-MAL-50203",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Love Live! Superstar!! 2nd Season",
+            "DAH_entry_bestGirl": "Arashi Chisato"
         }
     },
     "M-VGMDB-AL-71404-2": {
@@ -3712,7 +3772,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Lapis Re:LiGHTs"
+            "DAH_entry_title": "Lapis Re:LiGHTs",
+            "DAH_entry_bestGirl": "Tiara"
         }
     },
     "M-VGMDB-AL-86592-1": {
@@ -3784,7 +3845,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hyouka"
+            "DAH_entry_title": "Hyouka",
+            "DAH_entry_bestGirl": "Chitanda Eru"
         }
     },
     "M-VGMDB-AR-11958": {
@@ -4391,7 +4453,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Saenai Heroine no Sodatekata"
+            "DAH_entry_title": "Saenai Heroine no Sodatekata",
+            "DAH_entry_bestGirl": "Megumi Kato"
         }
     },
     "M-VGMDB-AL-100082-1": {
@@ -4407,7 +4470,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Konohana Kitan"
+            "DAH_entry_title": "Konohana Kitan",
+            "DAH_entry_bestGirl": "Natsume"
         }
     },
     "A-MAL-34392": {
@@ -4477,7 +4541,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Wake Up, Girls! Seishun no Kage"
+            "DAH_entry_title": "Wake Up, Girls! Seishun no Kage",
+            "DAH_entry_bestGirl": "Shimada Mayu"
         }
     },
     "M-VGMDB-AL-94913-1": {
@@ -4825,7 +4890,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
+            "DAH_entry_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+            "DAH_entry_bestGirl": "Ireena Litz de Olhyde"
         }
     },
     "M-VGMDB-AL-61982": {
@@ -4932,7 +4998,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gochuumon wa Usagi Desu ka?"
+            "DAH_entry_title": "Gochuumon wa Usagi Desu ka?",
+            "DAH_entry_bestGirl": "Kafuu Chino"
         }
     },
     "A-MAL-14741": {
@@ -4966,7 +5033,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol"
+            "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol",
+            "DAH_entry_bestGirl": "Shimada Mayu"
         }
     },
     "A-MAL-36882": {
@@ -5032,7 +5100,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Saenai Heroine no Sodatekata Fine"
+            "DAH_entry_title": "Saenai Heroine no Sodatekata Fine",
+            "DAH_entry_bestGirl": "Megumi Kato"
         }
     },
     "M-VGMDB-AL-68225": {
@@ -5231,7 +5300,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "SELECTION PROJECT"
+            "DAH_entry_title": "SELECTION PROJECT",
+            "DAH_entry_bestGirl": "Koizumi Uta"
         }
     },
     "M-VGMDB-AL-70716-1": {
@@ -5728,7 +5798,8 @@
             "M-19": 1.0,
             "M-20": 1.0,
             "M-21": 1.0,
-            "M-23": 1.0
+            "M-23": 1.0,
+            "G-VGMDB-8429": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "Show By Rock!!"
@@ -6013,7 +6084,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Comic Girls"
+            "DAH_entry_title": "Comic Girls",
+            "DAH_entry_bestGirl": "Kaoruko Moeta"
         }
     },
     "A-MAL-33573": {
@@ -6036,7 +6108,8 @@
     "M-42": {
         "id": "M-42",
         "children": {
-            "M-43": 0.75
+            "M-43": 0.75,
+            "M-63": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "H△G"
@@ -6063,7 +6136,8 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Just Because!"
+            "DAH_entry_title": "Just Because!",
+            "DAH_entry_bestGirl": "Natsume Mio"
         }
     },
     "M-VGMDB-AL-78339-1": {

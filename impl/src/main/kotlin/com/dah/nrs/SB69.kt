@@ -1,10 +1,13 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
-import com.dah.nrs.dsl.numDays
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+
+private val AllSB69Tracks = mutableListOf<String>()
+private fun DSLEntry.FesALiveMusic(score: Double) {
+    Music(score)
+    AllSB69Tracks.add(id)
+}
 
 fun DSLScope.SB69() {
     // Almost every cat seems to enjoy catching birds.
@@ -58,7 +61,7 @@ fun DSLScope.SB69() {
             contributors["A-MAL-32038"] = 0.35
             contributors["A-MAL-40763"] = 0.05
             contributors["A-MAL-41520"] = 0.2
-            contributors["GF-VGMDB-4499-2"] = 0.05
+            contributors["G-VGMDB-8429"] = 0.05
         }
 
         KilledBy("F-VGMDB-7059", potential = 0.4, effect = 0.75) {
@@ -66,7 +69,7 @@ fun DSLScope.SB69() {
             contributors["A-MAL-32038"] = 0.2
             contributors["A-MAL-40763"] = 0.2
             contributors["A-MAL-41520"] = 0.2
-            contributors["GF-VGMDB-4499-2"] = 0.2
+            contributors["G-VGMDB-8429"] = 0.2
         }
 
         KilledBy("O-1", potential = 0.2, effect = 0.75) {
@@ -74,7 +77,7 @@ fun DSLScope.SB69() {
             contributors["A-MAL-32038"] = 0.2
             contributors["A-MAL-40763"] = 0.2
             contributors["A-MAL-41520"] = 0.2
-            contributors["GF-VGMDB-4499-2"] = 0.2
+            contributors["G-VGMDB-8429"] = 0.2
         }
 
         Entry {
@@ -189,7 +192,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 // fes a live art looks a little bit weird ngl
                 Visual(VisualKind.AnimatedMV, 0.45, 0.3)
-                Music(3.5)
+                FesALiveMusic(3.5)
             }
         }
 
@@ -202,7 +205,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 // really interesting vocal
                 // (somewhat resemble kano)
-                Music(2.5)
+                FesALiveMusic(2.5)
             }
         }
 
@@ -213,13 +216,13 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.6, 0.6)
 
             SubIDEntry("1") {
-                Music(2.5)
+                FesALiveMusic(2.5)
 
                 Remix("M-22")
             }
 
             SubIDEntry("2", "Close to you") {
-                Music(4.0)
+                FesALiveMusic(4.0)
 
                 Remix("M-VGMDB-AL-61981-3")
             }
@@ -232,7 +235,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.45, 0.5)
 
             SubIDEntry("1") {
-                Music(3.0)
+                FesALiveMusic(3.0)
             }
         }
 
@@ -243,12 +246,12 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.55, 0.4)
 
             SubIDEntry("1", "Meikyuu DESTINY") {
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
 
             SubIDEntry("2", "Ryuusei Dreamline") {
                 // kekekekekekek
-                Music(2.25)
+                FesALiveMusic(2.25)
             }
         }
 
@@ -259,7 +262,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             SubIDEntry("1") {
-                Music(7.0)
+                FesALiveMusic(7.0)
             }
         }
 
@@ -270,7 +273,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1", "Schlehit Melodie") {
-                Music(4.0)
+                FesALiveMusic(4.0)
             }
         }
 
@@ -281,11 +284,11 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
 
             SubIDEntry("3", "Close to you (Cyan ver.)") {
-                Music(3.5)
+                FesALiveMusic(3.5)
 
                 NEI(2.5, Emotion.MP)
             }
@@ -299,7 +302,7 @@ fun DSLScope.SB69() {
 
             SubIDEntry("1") {
                 // xd
-                Music(2.0)
+                FesALiveMusic(2.0)
                 Meme(0.1, 2)
             }
         }
@@ -322,18 +325,18 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
             SubIDEntry("1", "Hiromenes") {
-                Music(6.0)
+                FesALiveMusic(6.0)
             }
 
             SubIDEntry("2", "Kimi no Rhapsody") {
                 // hahahahahaaha the howan tinh song
-                Music(2.5)
+                FesALiveMusic(2.5)
                 Meme(0.01, numDays("2022-04-01"))
                 Remix("M-62")
             }
 
             SubIDEntry("3", "Masshiro Start Line") {
-                Music(6.0)
+                FesALiveMusic(6.0)
             }
         }
 
@@ -342,7 +345,7 @@ fun DSLScope.SB69() {
             title = "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
             // aka hoantinh theme song
 
-            Music(4.0)
+            FesALiveMusic(4.0)
         }
 
         Entry {
@@ -352,7 +355,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
             SubIDEntry("1") {
-                Music(2.0)
+                FesALiveMusic(2.0)
             }
         }
 
@@ -365,11 +368,11 @@ fun DSLScope.SB69() {
             SubIDEntry("1", "Do Re Mi Fa STARS!!") {
                 // aka ceui - colorful days (mp-based franchise ver.)
                 // or the counting song
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
 
             SubIDEntry("2", "Hoshizora Light Story") {
-                Music(3.5)
+                FesALiveMusic(3.5)
             }
         }
 
@@ -381,7 +384,7 @@ fun DSLScope.SB69() {
 
             SubIDEntry("3", "Do! It! Happy Daibouken!") {
                 // do it party reference lmfao
-                Music(6.5)
+                FesALiveMusic(6.5)
             }
 
             SubIDEntry("6", "Kyukyukyun♡Heart Shaker") {
@@ -390,7 +393,7 @@ fun DSLScope.SB69() {
                 // ngau loi nhat ca doi tuyen toan
                 // do co le la em toi
 
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
         }
 
@@ -401,13 +404,13 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
             SubIDEntry("5", "EMPIRE DOMINATOR") {
-                Music(2.5)
+                FesALiveMusic(2.5)
             }
 
             SubIDEntry("8", "Anokanatarium") {
                 // this was unranked all this time?????
                 // lmfao
-                Music(6.5)
+                FesALiveMusic(6.5)
 
                 // there's no one who is cooler
                 // there's no one who's like him
@@ -421,7 +424,7 @@ fun DSLScope.SB69() {
             title = "Hanate! Dododon!"
 
             SubIDEntry("1") {
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
         }
 
@@ -430,7 +433,7 @@ fun DSLScope.SB69() {
             title = "Taikakusen wo Tsunaideyo"
 
             SubIDEntry("1") {
-                Music(6.5)
+                FesALiveMusic(6.5)
             }
         }
 
@@ -440,7 +443,7 @@ fun DSLScope.SB69() {
 
             // also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno)
             SubIDEntry("1") {
-                Music(3.5)
+                FesALiveMusic(3.5)
             }
 
             // if u understand, u understand
@@ -452,7 +455,7 @@ fun DSLScope.SB69() {
             title = "Mirai Wanted"
 
             SubIDEntry("1") {
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
         }
 
@@ -461,7 +464,7 @@ fun DSLScope.SB69() {
             title = "Bokura no Neiro"
 
             SubIDEntry("1") {
-                Music(3.5)
+                FesALiveMusic(3.5)
             }
         }
 
@@ -470,7 +473,7 @@ fun DSLScope.SB69() {
             title = "Mot Mot Mot"
 
             SubIDEntry("1") {
-                Music(6.5)
+                FesALiveMusic(6.5)
             }
         }
 
@@ -479,7 +482,7 @@ fun DSLScope.SB69() {
             title = "P SHOW BY ROCK!!"
 
             SubIDEntry("3", "Nyumber One! Zettai Saikyou!") {
-                Music(7.0)
+                FesALiveMusic(7.0)
             }
         }
 
@@ -489,7 +492,7 @@ fun DSLScope.SB69() {
 
             SubIDEntry("1", "Loop Shiteru") {
                 // :tf:
-                Music(2.5)
+                FesALiveMusic(2.5)
             }
 
             SubIDEntry("2", "Asuiro Koi Moyou") {
@@ -509,7 +512,7 @@ fun DSLScope.SB69() {
                 // which marks the continuation of the duopoly era
                 // ^ clueless mfs
 
-                Music(8.0)
+                FesALiveMusic(8.0)
                 NEI(5.0, Emotion.MP)
 
                 // (the love song parody lyrics shit of me to rst, translated to english)
@@ -540,7 +543,7 @@ fun DSLScope.SB69() {
             title = "How Are You?"
 
             SubIDEntry("1") {
-                Music(6.0)
+                FesALiveMusic(6.0)
             }
         }
 
@@ -549,7 +552,7 @@ fun DSLScope.SB69() {
             title = "Happy Happy Jump"
 
             SubIDEntry("1") {
-                Music(5.0)
+                FesALiveMusic(5.0)
             }
         }
 
@@ -618,6 +621,14 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-76155")
             }
         }
+
+        Entry {
+            id = "G-VGMDB-8429"
+            title = "SHOW BY ROCK!! Fes A Live"
+
+            AllSB69Tracks.forEach { FeatureMusic(it) }
+            Visual(VisualKind.GachaCardArt, 0.4, 0.3)
+        }
     }
 
     // the famous speed-finger control map
@@ -669,12 +680,13 @@ fun DSLScope.SB69() {
         contributors["M-VGMDB-AL-111027-10"] = ctnxAnalogyContribution * 0.25
 
         contributors["O-3"] = vcapAnalogyContribution * 0.6
-//        contributors["_kotachi_"] = vcapAnalogyContribution * 0.2
+        contributors["_kotachi_ [null entry]"] = vcapAnalogyContribution * 0.2
 
         contributors["A-MAL-38009"] = rstContribution * 0.8
         contributors["GF-VGMDB-7059"] = rstContribution * 0.1
         // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
         contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
+        contributors["rst songs [null entry]"] = rstContribution * 0.085
         // the akari kito analogy lol
         contributors["M-VGMDB-AR-26898"] = rstContribution * 0.005 + vcapAnalogyContribution * 0.2
 
@@ -682,11 +694,11 @@ fun DSLScope.SB69() {
         contributors["A-MAL-32038"] = sb69Contribution * 0.3
         contributors["A-MAL-40763"] = sb69Contribution * 0.1
         contributors["A-MAL-41520"] = sb69Contribution * 0.25
-        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+        contributors["G-VGMDB-8429"] = sb69Contribution * 0.1
 
         contributors["M-VGMDB-AR-8480"] = asuiroContribution * 0.12
         contributors["M-VGMDB-AR-14761"] = asuiroContribution * 0.08
-        contributors["M-VGMDB-AL-76155-2"] = asuiroContribution * 0.8
+        contributors["M-VGMDB-AL-76155-2"] = asuiroContribution * 0.6
 
         // all of this shit basically spits on all other anime
         // that was unable to be meta'd for longer than a month
@@ -721,24 +733,25 @@ fun DSLScope.SB69() {
         // ngl, except for the iiix girls tho, oh wait, and that toji
         // no miko girl, whatever)
         // p/s: i wanna kms
-        val rstContribution = 0.05
+        val rstContribution = 0.1
         val sb69Contribution = 0.2
-        val asuiroContribution = 0.5
+        val asuiroContribution = 0.4
         val atelierContribution = 0.15
         val coteContribution = 0.1
 
-        contributors["M-VGMDB-AL-111027-10"] = 0.01
+        contributors["M-VGMDB-AL-111027-10"] = 0.05
 
         contributors["A-MAL-38009"] = rstContribution * 0.8
         contributors["GF-VGMDB-7059"] = rstContribution * 0.1
         // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
-        contributors["M-VGMDB-AR-29249"] = rstContribution * 0.01
+        contributors["M-VGMDB-AR-29249"] = rstContribution * 0.05
+        contributors["rst songs [null entry]"] = rstContribution * 0.05
 
         contributors["A-MAL-27441"] = sb69Contribution * 0.25
         contributors["A-MAL-32038"] = sb69Contribution * 0.3
         contributors["A-MAL-40763"] = sb69Contribution * 0.1
         contributors["A-MAL-41520"] = sb69Contribution * 0.25
-        contributors["GF-VGMDB-4499-2"] = sb69Contribution * 0.1
+        contributors["G-VGMDB-8429"] = sb69Contribution * 0.1
 
         contributors["M-VGMDB-AR-8480"] = asuiroContribution * 0.12
         contributors["M-VGMDB-AR-14761"] = asuiroContribution * 0.08

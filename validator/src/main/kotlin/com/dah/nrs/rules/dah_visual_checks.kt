@@ -9,7 +9,7 @@ import kotlinx.serialization.json.jsonPrimitive
 
 class dah_visual_checks(data: Data) : ValidationRule(data) {
     private fun getVisualImpacts(kind: VisualKind): List<IndexedValue<IMetaImpact>> {
-        return impacts.withIndex().filter { (_, it) ->
+        return impacts.filter { (_, it) ->
             it.meta["type"]?.jsonPrimitive?.contentOrNull == "DAH_nonstandard_generic_visual"
                     && it.meta["kind"]?.jsonPrimitive?.contentOrNull == kind.toString()
         }

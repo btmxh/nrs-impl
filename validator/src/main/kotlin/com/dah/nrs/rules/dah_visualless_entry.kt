@@ -8,9 +8,9 @@ import kotlinx.serialization.json.jsonPrimitive
 class dah_visualless_entry(data: Data) : ValidationRule(data) {
     override fun run() {
         val entries = HashMap(entries)
-        impacts.filter {
+        impacts.filter { (_, it) ->
             it.meta["type"]?.jsonPrimitive?.contentOrNull == "DAH_nonstandard_generic_visual"
-        }.forEach { entries.keys.removeAll(it.contributors.keys) }
+        }.forEach { (_, it) -> entries.keys.removeAll(it.contributors.keys) }
 
         entries.keys.filter {
             it.startsWith("A")

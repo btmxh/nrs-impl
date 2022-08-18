@@ -43,6 +43,7 @@ fun DSLScope.KokoroConnect() {
         Entry {
             id = "A-MAL-11887"
             title = "Kokoro Connect"
+            bestGirl = "Nagase Iori"
 
             Boredom(Boredom.Completed)
 
@@ -54,6 +55,7 @@ fun DSLScope.KokoroConnect() {
         Entry {
             id = "A-MAL-16001"
             title = "Kokoro Connect: Michi Random"
+            bestGirl = "Nagase Iori"
 
             Boredom(Boredom.Completed)
             Visual(VisualKind.Animated, 0.4, 0.3)

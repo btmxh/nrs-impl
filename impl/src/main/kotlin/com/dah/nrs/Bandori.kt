@@ -215,6 +215,7 @@ fun DSLScope.Bandori() {
         // bandori has some good comedy shit
         AEI(2.0, Emotion.AP) {
             // the game also contributes, so the sum of weights is not 1
+            ValidatorSuppress("dah-sum-contain-weight")
             contributors["A-MAL-33573"] = 0.5
             contributors["A-MAL-37869"] = 0.3
         }

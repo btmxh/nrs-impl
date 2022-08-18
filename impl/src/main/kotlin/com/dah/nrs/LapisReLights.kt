@@ -18,6 +18,7 @@ fun DSLScope.LapisReLights() {
         Entry {
             id = "A-MAL-37587"
             title = "Lapis Re:LiGHTs"
+            bestGirl = "Tiara"
 
             // funny af, love live stands no chance
             EHI()

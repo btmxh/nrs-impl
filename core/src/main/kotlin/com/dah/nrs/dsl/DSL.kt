@@ -44,12 +44,13 @@ class DSLImpact(override val context: NRSContext) : DSLMetaImpl(), IImpact, HasC
     var description = ""
     override val contributors = mutableMapOf<String, Double>()
     override var score = context.zeroVector()
-
+    val stackTrace = Thread.currentThread().stackTrace.map { "${it.fileName}:${it.lineNumber}" }
 }
 
 class DSLRelation(override val context: NRSContext) : DSLMetaImpl(), IRelation, HasContext {
     override val contributors = mutableMapOf<String, Double>()
     override val references = mutableMapOf<String, ScoreMatrix>()
+    val stackTrace = Thread.currentThread().stackTrace.map { "${it.fileName}:${it.lineNumber}" }
 }
 
 interface HasContext {
@@ -184,6 +185,17 @@ fun generate(block: DSLScope.() -> Unit) {
     }
 
     val scope = DSLScope(ctx).also(block)
+
+    // use this to find out where impacts are defined using their index
+    val impactStackTrace = arrayOf<Int>()
+    val relationStackTrace = arrayOf<Int>()
+    for(impactIdx in impactStackTrace) {
+        println("Impact #$impactIdx stacktrace: ${scope.impacts[impactIdx].stackTrace}")
+    }
+    for(relationIdx in relationStackTrace) {
+        println("Impact #$relationIdx stacktrace: ${scope.relations[relationIdx].stackTrace}")
+    }
+
     val result = ctx.process(scope.getData())
     val json = ctx.DAH_serialize_json!!.json
     json.output("impacts.json", scope.impacts.map { ctx.DAH_json_serialize(it) })

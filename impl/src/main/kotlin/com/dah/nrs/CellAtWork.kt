@@ -11,6 +11,7 @@ fun DSLScope.CellAtWork() {
         Entry {
             id = "A-MAL-37141"
             title = "Hataraku Saibou"
+            bestGirl = "Kesshouban" // i mean it's because the character design suck ass
 
             Boredom(Boredom.Dropped)
             Visual(VisualKind.Animated, 0.4, 0.1)

@@ -46,6 +46,7 @@ fun DSLScope.JMetal() {
             }
 
             contributors["M-VGMDB-AL-43320"] = 0.4
+            contributors["M-64"] = 0.6
         }
 
         Entry {

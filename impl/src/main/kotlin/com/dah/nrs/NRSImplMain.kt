@@ -14,7 +14,7 @@ import com.dah.nrs.seasonal.Spring2022
 import com.dah.nrs.seasonal.Summer2022
 
 // custom id counters:
-// M-62
+// M-66
 // A-1
 // L-1
 // G-1
@@ -34,6 +34,7 @@ fun main() =
         Entry {
             id = "A-MAL-12175"
             title = "Koi to Senkyo to Chocolate"
+            bestGirl = "Chisato Sumiyoshi"
 
             // iirc i liked this anime's plot
             AEI(3.0, Emotion.AP)
@@ -44,6 +45,7 @@ fun main() =
         Entry {
             id = "A-MAL-12189"
             title = "Hyouka"
+            bestGirl = "Chitanda Eru"
 
             // ig it's kinda good
             NEI(3.0, Emotion.AP)
@@ -191,6 +193,7 @@ fun main() =
         Entry {
             id = "A-MAL-35241"
             title = "Konohana Kitan"
+            bestGirl = "Natsume" // rst girl my beloved
 
             // definitely not reminding me of mashu mashu from sb69
 
@@ -208,6 +211,7 @@ fun main() =
         Entry {
             id = "A-MAL-35756"
             title = "Comic Girls"
+            bestGirl = "Kaoruko Moeta"
 
             Boredom(Boredom.Completed)
             NEI(2.0, Emotion.AP)

@@ -33,6 +33,7 @@ fun DSLScope.Irodori() {
         Entry {
             id = "A-MAL-50267"
             title = "Irodorimidori"
+            bestGirl = "Nagi Kobotoke"
 
             Boredom(Boredom.Completed)
             Visual(VisualKind.AnimatedShort, 0.4, 0.2)

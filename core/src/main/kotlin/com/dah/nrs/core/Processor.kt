@@ -19,8 +19,6 @@ class CalculationEntry(val entry: IEntry) {
 }
 
 internal class Processor(private val context: NRSContext, private val data: NRSData) {
-    private val getContainWeightStack = ReoccurrenceStack<Pair<ID, ID>>(1)
-    private val processEntryRelationsStack = ReoccurrenceStack<ID>()
     private val entries = data.entries.mapValues { (_, it) -> CalculationEntry(it) }
 
     @OptIn(ExperimentalTime::class)
@@ -128,33 +126,5 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
 
     private fun buffWeight(weight: Double): Double {
         return weight.pow(ChemistryBuffFactor)
-    }
-
-    private fun warnNullEntry(id: ID) {
-        println("WARN: Null entry $id")
-    }
-
-    private fun getContainWeight(parent: ID, child: ID): Double {
-        var result = 0.0
-        if (parent == child) {
-            return 1.0
-        }
-
-        val pair = Pair(parent, child)
-        if (getContainWeightStack.push(pair)) {
-            result = ((data.entries[parent] ?: return warnNullEntry(parent).let { 0.0 })
-                .children
-                .maxOfOrNull { (id, weight) -> getContainWeight(id, child) * weight } ?: 0.0)
-                .coerceAtMost(1.0)
-        }
-
-        getContainWeightStack.pop(pair)
-        return result
-    }
-
-    private fun getContributingWeight(id: ID, contributors: Map<ID, Double>): Double {
-        return contributors.map { (contributor, weight) ->
-            getContainWeight(id, contributor) * weight
-        }.sum().coerceAtMost(1.0)
     }
 }

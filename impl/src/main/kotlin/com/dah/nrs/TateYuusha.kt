@@ -26,6 +26,7 @@ fun DSLScope.TateYuusha() {
         Entry {
             id = "A-MAL-40356"
             title = "Tate no Yuusha no Nariagari Season 2"
+            bestGirl = "Raphtalia"
 
             Boredom(Boredom.Dropped)
             KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)

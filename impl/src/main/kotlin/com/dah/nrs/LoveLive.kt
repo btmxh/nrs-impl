@@ -328,7 +328,7 @@ fun DSLScope.LoveLive() {
             contributors["A-MAL-24997"] = 0.1
             contributors["A-MAL-32526"] = 0.2
             contributors["A-MAL-34973"] = 0.2
-            contributors["A-MAL-37027"] = 0.2
+            contributors["A-MAL-37027"] = 0.1
         }
 
         // SIP humor
@@ -505,6 +505,9 @@ fun DSLScope.LoveLive() {
             contributors["A-MAL-15051"] = 0.1 / 6
             contributors["A-MAL-19111"] = 0.1 / 6
             contributors["A-MAL-24997"] = 0.1 / 6
+            contributors["A-MAL-32526"] = 0.1 / 6
+            contributors["A-MAL-34973"] = 0.1 / 6
+            contributors["A-MAL-37027"] = 0.1 / 6
         }
 
         Entry {
@@ -519,6 +522,16 @@ fun DSLScope.LoveLive() {
 
             Boredom(Boredom.Watching)
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
+        }
+
+        Entry {
+            id = "A-MAL-50203"
+            title = "Love Live! Superstar!! 2nd Season"
+
+            bestGirl = "Arashi Chisato"
+            KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
+            KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
+            Visual(VisualKind.Animated, 0.6, 0.25)
         }
     }
 

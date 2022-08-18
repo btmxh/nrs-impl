@@ -12,11 +12,11 @@ fun DSLScope.AOT() {
 
         // please fuck off (look at the comment section)
         // https://www.youtube.com/watch?v=kbYoJNLQEiU
-        NEI(-2.0, Emotion.AP) {
-            contributors["A-MAL-16498"] = 0.1
-            contributors["A-MAL-25777"] = 0.1
-            contributors["A-MAL-35760"] = 0.1
-            contributors["A-MAL-38524"] = 0.1
+        NEI(-1.0, Emotion.AP) {
+            contributors["A-MAL-16498"] = 0.25
+            contributors["A-MAL-25777"] = 0.25
+            contributors["A-MAL-35760"] = 0.25
+            contributors["A-MAL-38524"] = 0.25
         }
 
         Entry {

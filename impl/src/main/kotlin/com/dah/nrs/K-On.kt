@@ -106,6 +106,7 @@ fun DSLScope.`K-On`() {
         Entry {
             id = "A-MAL-9617"
             title = "K-On! Movie"
+            bestGirl = "Nakano Azusa"
 
             Boredom(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")

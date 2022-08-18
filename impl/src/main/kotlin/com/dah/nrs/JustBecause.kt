@@ -7,11 +7,11 @@ fun DSLScope.JustBecause() {
     Entry {
         id = "F-VGMDB-5678"
         title = "Just Because!"
-        bestGirl = "Natsume Mio"
 
         Entry {
             id = "A-MAL-35639"
             title = "Just Because!"
+            bestGirl = "Natsume Mio"
 
             Boredom(Boredom.Completed)
             // Pretty decent drama

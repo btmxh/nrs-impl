@@ -8,6 +8,8 @@ fun DSLScope.Spring2022() {
         id = "A-MAL-43470"
         title = "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
 
+        bestGirl = "Kotonoha Kanade"
+
         Boredom(Boredom.Dropped)
         Visual(VisualKind.Animated, 0.25, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
@@ -15,6 +17,8 @@ fun DSLScope.Spring2022() {
     Entry {
         id = "A-MAL-48363"
         title = "RPG Fudousan"
+
+        bestGirl = "Kotone Kazairo"
 
         Boredom(Boredom.Dropped)
         // weak character design, but the thing still looks cute
@@ -25,6 +29,8 @@ fun DSLScope.Spring2022() {
         id = "A-MAL-48415"
         title = "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
 
+        bestGirl = "Ireena Litz de Olhyde"
+
         Boredom(Boredom.Dropped)
         Visual(VisualKind.Animated, 0.5, 0.2)
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
@@ -32,6 +38,8 @@ fun DSLScope.Spring2022() {
     Entry {
         id = "A-MAL-50265"
         title = "Spy x Family"
+
+        ValidatorSuppress("dah-no-best-girl")
 
         // the "Chiếc thuyền ngoài xa" anime
         // some pasta inc
@@ -58,6 +66,7 @@ fun DSLScope.Spring2022() {
     Entry {
         id = "A-MAL-50273"
         title = "Tomodachi Game"
+        bestGirl = "Maria Mizuse"
 
         Boredom(Boredom.Completed)
         // unique art because manga, but chara design sucks (p2)

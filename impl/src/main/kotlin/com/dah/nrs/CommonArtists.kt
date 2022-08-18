@@ -766,6 +766,27 @@ fun DSLScope.CommonArtists() {
         title = "H△G"
 
         Contains("M-43", 0.75)
+
+        Entry {
+            id = "M-63"
+            title = "Everlasting Night of Teenage Girls"
+
+            Entry {
+                id = "M-64"
+                title = "Shoujotachi no Owaranai Yoru"
+                Music(6.0)
+            }
+
+            Entry {
+                id = "M-65"
+                title = "Colorful"
+                // [prismatic]
+                // 1-2 1-2 1-2 1-2
+                // "imagine ruining a 2013 video comment section because of 1-2 xD"
+                Music(4.5)
+                // cringeworthy material: https://www.youtube.com/watch?v=_3aqQaH9AWM (it's me who made that)
+            }
+        }
     }
 
     Entry {
