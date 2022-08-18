@@ -3,6 +3,7 @@ package com.dah.nrs.core
 import kotlinx.serialization.json.*
 import kotlin.math.abs
 import kotlin.math.pow
+import kotlin.math.sqrt
 
 const val EPSILON = 1e-4
 
@@ -76,9 +77,18 @@ private class DiagonalScoreMatrix(private val diagonal: ScoreVector) : ScoreMatr
 }
 
 fun ScoreVector.toDiagonalMatrix(): ScoreMatrix = DiagonalScoreMatrix(this)
-fun NRSContext.toScoreMatrix(data: DoubleArray): ScoreMatrix = DefaultScoreMatrix(
-    data.toList().windowed(factorCount, factorCount).map { it.toScoreVector() }.toTypedArray()
-)
+fun DoubleArray.toScoreMatrix(context: NRSContext? = null): ScoreMatrix {
+    if (context != null) {
+        assert(size == context.factorCount * context.factorCount)
+    }
+    val factorCount = context?.factorCount ?: sqrt(size.toDouble()).toInt()
+    if (factorCount * factorCount != size) {
+        error("Unable to retrieve dimension from matrix (matrix size is not a square number)")
+    }
+    return DefaultScoreMatrix(
+        asIterable().windowed(factorCount, factorCount).map { it.toScoreVector() }.toTypedArray()
+    )
+}
 
 private class DefaultScoreMatrix(private val data: Array<ScoreVector>) : ScoreMatrix {
     override val dimensions: Int = data.size

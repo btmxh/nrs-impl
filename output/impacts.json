@@ -18,6 +18,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -63,6 +64,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -108,6 +110,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -153,6 +156,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -198,6 +202,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -243,6 +248,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -357,6 +363,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.35,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -402,6 +409,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.45,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -469,6 +477,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.45,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.175
         }
@@ -514,6 +523,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.45,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -559,6 +569,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -604,6 +615,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.35,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -649,6 +661,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.45,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -694,6 +707,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.05
         }
@@ -739,6 +753,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -784,6 +799,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -829,6 +845,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -899,6 +916,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -922,6 +940,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.35,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -967,6 +986,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.35,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -1037,6 +1057,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -1082,6 +1103,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -1127,6 +1149,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -1219,6 +1242,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -1264,6 +1288,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -1309,6 +1334,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -1332,6 +1358,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -1447,6 +1474,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -1516,6 +1544,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -1561,6 +1590,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -1712,6 +1742,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -1758,6 +1789,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -1804,6 +1836,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -1827,6 +1860,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -1872,6 +1906,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -1917,6 +1952,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -1962,6 +1998,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2007,6 +2044,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2052,6 +2090,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -2222,6 +2261,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -2268,6 +2308,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -2474,6 +2515,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2520,6 +2562,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2566,6 +2609,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2632,6 +2676,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2704,6 +2749,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -2774,6 +2820,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -2819,6 +2866,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -2986,6 +3034,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3059,6 +3108,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -3105,6 +3155,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -3151,6 +3202,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3197,6 +3249,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3243,6 +3296,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -3266,6 +3320,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3415,6 +3470,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3461,6 +3517,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -3533,6 +3590,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -3605,6 +3663,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -3703,6 +3762,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -3726,6 +3786,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -3771,6 +3832,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -3868,6 +3930,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -4011,6 +4074,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -4083,6 +4147,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -4106,6 +4171,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -4152,6 +4218,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -4198,6 +4265,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -4346,6 +4414,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -4418,6 +4487,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -4516,6 +4586,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -4638,6 +4709,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -4707,6 +4779,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -4752,6 +4825,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -4797,6 +4871,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -4842,6 +4917,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -4887,6 +4963,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -4932,6 +5009,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -4977,6 +5055,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -5022,6 +5101,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -5067,6 +5147,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -5112,6 +5193,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -5157,6 +5239,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -5202,6 +5285,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -5247,6 +5331,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -5358,6 +5443,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -5447,6 +5533,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -5583,6 +5670,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -5628,6 +5716,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -5693,6 +5782,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -5869,6 +5959,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -5915,6 +6006,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -5961,6 +6053,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -6007,6 +6100,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -6053,6 +6147,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -6267,6 +6362,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -6337,6 +6433,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -6419,6 +6516,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -6541,6 +6639,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -6587,6 +6686,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -6633,6 +6733,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -6705,6 +6806,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -6728,6 +6830,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -6848,6 +6951,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -6918,6 +7022,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -6963,6 +7068,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -7008,6 +7114,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -7102,6 +7209,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -7198,6 +7306,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -7320,6 +7429,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -7343,6 +7453,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -7462,6 +7573,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -7508,6 +7620,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -7627,6 +7740,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -7790,6 +7904,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -7857,6 +7972,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -7929,6 +8045,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.55
         }
@@ -7996,6 +8113,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -8066,6 +8184,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -8159,6 +8278,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -8205,6 +8325,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -8250,6 +8371,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -8477,6 +8599,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -8572,6 +8695,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "LightNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -8644,6 +8768,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -8716,6 +8841,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -8788,6 +8914,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -8976,6 +9103,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -9074,6 +9202,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -9123,6 +9252,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -9239,6 +9369,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -9262,6 +9393,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -9285,6 +9417,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -9330,6 +9463,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.7,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -9375,6 +9509,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -9442,6 +9577,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -9487,6 +9623,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.55
         }
@@ -9554,6 +9691,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -9599,6 +9737,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -9644,6 +9783,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -9737,6 +9877,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -9860,6 +10001,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -9995,6 +10137,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -10040,6 +10183,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -10107,6 +10251,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -10174,6 +10319,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -10669,6 +10815,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -10692,6 +10839,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -10858,6 +11006,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -10904,6 +11053,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -10927,6 +11077,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.75,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -11043,6 +11194,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -11066,6 +11218,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -11111,6 +11264,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -11206,6 +11360,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -11351,6 +11506,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.7
         }
@@ -11397,6 +11553,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.7
         }
@@ -11420,6 +11577,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.7
         }
@@ -11490,6 +11648,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.7
         }
@@ -11560,6 +11719,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -11605,6 +11765,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -11672,6 +11833,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -11717,6 +11879,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -11762,6 +11925,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -11807,6 +11971,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -11830,6 +11995,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -11853,6 +12019,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -11922,6 +12089,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -11967,6 +12135,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -12037,6 +12206,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -12154,6 +12324,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.45
         }
@@ -12324,6 +12495,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -12371,6 +12543,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -12417,6 +12590,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -12462,6 +12636,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.175,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.08
         }
@@ -12576,6 +12751,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -12689,6 +12865,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.35,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -12735,6 +12912,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -12758,6 +12936,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -12851,6 +13030,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -12970,6 +13150,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -13042,6 +13223,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -13088,6 +13270,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -13134,6 +13317,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -13206,6 +13390,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -13304,6 +13489,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -13376,6 +13562,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -13472,6 +13659,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -13518,6 +13706,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -13616,6 +13805,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -13639,6 +13829,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -13754,6 +13945,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -13800,6 +13992,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -13872,6 +14065,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -13947,6 +14141,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -14019,6 +14214,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -14091,6 +14287,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -14114,6 +14311,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.05
         }
@@ -14207,6 +14405,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -14301,6 +14500,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -14324,6 +14524,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -14419,6 +14620,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -14708,6 +14910,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -14754,6 +14957,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -14799,6 +15003,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -14914,6 +15119,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -14959,6 +15165,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -15004,6 +15211,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -15049,6 +15257,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -15119,6 +15328,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -15213,6 +15423,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -15280,6 +15491,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -15347,6 +15559,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -15439,6 +15652,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -15484,6 +15698,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.55,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -15551,6 +15766,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.65,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -15618,6 +15834,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -15663,6 +15880,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -15730,6 +15948,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -15797,6 +16016,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -15930,6 +16150,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -15975,6 +16196,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -16020,6 +16242,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -16065,6 +16288,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -16110,6 +16334,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -16155,6 +16380,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -16222,6 +16448,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.75,
+            "kind": "GachaCardArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -16245,6 +16472,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -16320,6 +16548,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -16365,6 +16594,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -16388,6 +16618,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -16566,6 +16797,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -16612,6 +16844,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -16657,6 +16890,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -16728,6 +16962,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -16847,6 +17082,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -17011,6 +17247,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.45,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.55
         }
@@ -17130,6 +17367,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -17153,6 +17391,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "SemiAnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -17224,6 +17463,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -17247,6 +17487,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -17318,6 +17559,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "SemiAnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -17485,6 +17727,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.7,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -17535,6 +17778,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.65,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -17558,6 +17802,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "SemiAnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -17821,6 +18066,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -17892,6 +18138,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.7,
+            "kind": "AnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -18064,6 +18311,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.8
         }
@@ -18133,6 +18381,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -18206,6 +18455,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.7
         }
@@ -18253,6 +18503,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.15,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.7
         }
@@ -18374,6 +18625,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -18397,6 +18649,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -18464,6 +18717,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.05
         }
@@ -18532,6 +18786,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AnimatedShort",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -18555,6 +18810,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.35,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -18600,6 +18856,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -18623,6 +18880,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.45,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -18690,6 +18948,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -18775,6 +19034,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -18864,6 +19124,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.15
         }
@@ -19100,6 +19361,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19170,6 +19432,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -19193,6 +19456,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -19261,6 +19525,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.25
         }
@@ -19307,6 +19572,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -19353,6 +19619,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -19399,6 +19666,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.35
         }
@@ -19445,6 +19713,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.2
         }
@@ -19524,6 +19793,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19569,6 +19839,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19637,6 +19908,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19683,6 +19955,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19729,6 +20002,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19775,6 +20049,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -19821,6 +20096,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.6,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -19844,6 +20120,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.1
         }
@@ -19936,6 +20213,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "SemiAnimatedMV",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
         }
@@ -19982,6 +20260,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -20005,6 +20284,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.25,
+            "kind": "AlbumArt",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -20050,6 +20330,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "RPG3DGame",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -20073,6 +20354,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -20096,6 +20378,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "RPG3DGame",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
         }
@@ -20119,6 +20402,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -20191,6 +20475,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -20214,6 +20499,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.4,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -20260,6 +20546,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.85,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }
@@ -20329,6 +20616,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.3,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.75
         }
@@ -20378,6 +20666,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.2,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.65
         }
@@ -20424,6 +20713,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.05,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.8
         }
@@ -20470,6 +20760,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.1,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
         }
@@ -20516,6 +20807,7 @@
         ],
         "DAH_meta": {
             "uniqueness": 0.5,
+            "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
         }

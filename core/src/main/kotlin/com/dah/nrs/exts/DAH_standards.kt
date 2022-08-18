@@ -391,6 +391,7 @@ fun AcceptImpact.Visual(kind: VisualKind, base: Double, uniqueness: Double, bloc
         meta("type", "DAH_nonstandard_generic_visual")
         meta("base", base)
         meta("uniqueness", uniqueness)
+        meta("kind", kind.toString())
         block()
     }
 }

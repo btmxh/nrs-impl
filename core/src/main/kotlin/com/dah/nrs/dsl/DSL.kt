@@ -169,7 +169,7 @@ fun DSLEntry.SubIDEntry(suffix: String, title: String? = null, block: DSLEntry.(
 }
 
 inline fun <reified T> Json.output(filename: String, value: T) {
-    Path("../output/$filename").writeText(encodeToString(value))
+    Path("output/$filename").writeText(encodeToString(value))
 }
 
 fun generate(block: DSLScope.() -> Unit) {
