@@ -61,7 +61,11 @@ fun DSLScope.GochiUsa() {
         }
 
         Entry {
-            id = "A-MAL-21273"
+            id = "A-MAL-21273"    // generated
+            idMAL = 21273
+            idAniList = 20517
+            idAniDB = 10262
+            idKitsu = 8095
             title = "Gochuumon wa Usagi Desu ka?"
             bestGirl = "Kafuu Chino"
             // humor not that good tho

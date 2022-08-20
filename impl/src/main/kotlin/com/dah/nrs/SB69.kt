@@ -81,7 +81,11 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "A-MAL-27441"
+            id = "A-MAL-27441"    // generated
+            idMAL = 27441
+            idAniList = 20843
+            idAniDB = 10830
+            idKitsu = 9729
             title = "Show by Rock!!"
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
@@ -95,7 +99,11 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "A-MAL-32038"
+            id = "A-MAL-32038"    // generated
+            idMAL = 32038
+            idAniList = 21476
+            idAniDB = 11763
+            idKitsu = 11494
             title = "Show by Rock!! #"
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
@@ -117,7 +125,11 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "A-MAL-40763"
+            id = "A-MAL-40763"    // generated
+            idMAL = 40763
+            idAniList = 113470
+            idAniDB = 15281
+            idKitsu = 42885
             title = "Show By Rock!! Mashumairesh!!"
             bestGirl = "Mashima Himeko" // aka himekek
             // main girl is hoan tinh xdddddddddd
@@ -143,7 +155,11 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "A-MAL-41520"
+            id = "A-MAL-41520"    // generated
+            idMAL = 41520
+            idAniList = 113476
+            idAniDB = 15467
+            idKitsu = 43590
             title = "Show by Rock!! Stars!!"
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
             // aka show by rock!! banded rocking records high school idol club

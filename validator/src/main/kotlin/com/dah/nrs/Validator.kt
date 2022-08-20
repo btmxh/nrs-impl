@@ -50,7 +50,8 @@ fun main() {
         dah_visual_checks(data),
         dah_visualless_entry(data),
         dah_no_best_girl(data),
-        dah_null_entry_reference(data)
+        dah_null_entry_reference(data),
+        dah_anime_no_boredom(data)
     )) {
         rule.run()
     }

@@ -38,7 +38,11 @@ fun DSLScope.Chuunibyou() {
         }
 
         Entry {
-            id = "A-MAL-14741"
+            id = "A-MAL-14741"    // generated
+            idMAL = 14741
+            idAniList = 14741
+            idAniDB = 8883
+            idKitsu = 7160
             title = "Chuunibyou demo Koi ga Shitai!"
 
             Visual(VisualKind.Animated, 0.6, 0.2)
@@ -51,7 +55,11 @@ fun DSLScope.Chuunibyou() {
         }
 
         Entry {
-            id = "A-MAL-18671"
+            id = "A-MAL-18671"    // generated
+            idMAL = 18671
+            idAniList = 18671
+            idAniDB = 9874
+            idKitsu = 7705
             title = "Chuunibyou demo Koi ga Shitai! Ren"
             bestGirl = "Nibutani Shinka"
             // Shichimiya dead people almost made me cry
@@ -66,7 +74,11 @@ fun DSLScope.Chuunibyou() {
         }
 
         Entry {
-            id = "A-MAL-35608"
+            id = "A-MAL-35608"    // generated
+            idMAL = 35608
+            idAniList = 98762
+            idAniDB = 13176
+            idKitsu = 13524
             title = "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
             bestGirl = "Nibutani Shinka"
             Boredom(Boredom.Completed)

@@ -348,8 +348,11 @@ private fun calcVisualScore(b: Double, u: Double): Double {
 
     val p = s * b.pow(t).coerceAtLeast(1.0)
     val k = b.pow(r)
-    return (1 + u * (p - 1)) * k / s
+//    return (1 + u * (p - 1)) * k / s
+
+    return b * (2 + u) / 3
 }
+
 
 enum class VisualKind(val baseScore: Double) {
     Animated(3.0),

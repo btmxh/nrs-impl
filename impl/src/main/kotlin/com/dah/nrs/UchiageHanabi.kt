@@ -10,7 +10,11 @@ fun DSLScope.UchiageHanabi() {
         title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
         Entry {
-            id = "A-MAL-34498"
+            id = "A-MAL-34498"    // generated
+            idMAL = 34498
+            idAniList = 97908
+            idAniDB = 12605
+            idKitsu = 12794
             title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
             // SLN rng

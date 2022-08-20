@@ -346,7 +346,11 @@ fun DSLScope.LoveLive() {
 
         // Anime
         Entry {
-            id = "A-MAL-15051"
+            id = "A-MAL-15051"    // generated
+            idMAL = 15051
+            idAniList = 15051
+            idAniDB = 9271
+            idKitsu = 7203
             title = "Love Live! School Idol Project"
             bestGirl = "Nishikino Maki"
 
@@ -357,7 +361,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-19111"
+            id = "A-MAL-19111"    // generated
+            idMAL = 19111
+            idAniList = 19111
+            idAniDB = 9927
+            idKitsu = 7871
             title = "Love Live! School Idol Project 2nd Season"
             bestGirl = "Nishikino Maki"
 
@@ -368,7 +376,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-24997"
+            id = "A-MAL-24997"    // generated
+            idMAL = 24997
+            idAniList = 20766
+            idAniDB = 10720
+            idKitsu = 8531
             title = "Love Live! School Idol Project Movie"
             bestGirl = "Nishikino Maki"
 
@@ -378,7 +390,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-32526"
+            id = "A-MAL-32526"    // generated
+            idMAL = 32526
+            idAniList = 21584
+            idAniDB = 11878
+            idKitsu = 11745
             title = "Love Live! Sunshine!!"
             bestGirl = "Sakurauchi Riko"
             FeatureMusic("M-VGMDB-AL-58147-1")
@@ -389,7 +405,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-34973"
+            id = "A-MAL-34973"    // generated
+            idMAL = 34973
+            idAniList = 98349
+            idAniDB = 12897
+            idKitsu = 13299
             title = "Love Live! Sunshine!! 2nd Season"
             bestGirl = "Sakurauchi Riko"
             // aozora was featured in ep13
@@ -401,7 +421,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-37027"
+            id = "A-MAL-37027"    // generated
+            idMAL = 37027
+            idAniList = 100965
+            idAniDB = 13703
+            idKitsu = 14188
             title = "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
             bestGirl = "Sakurauchi Riko"
             Boredom(Boredom.Completed)
@@ -449,7 +473,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-40879"
+            id = "A-MAL-40879"    // generated
+            idMAL = 40879
+            idAniList = 113970
+            idAniDB = 15313
+            idKitsu = 42872
             title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
             bestGirl = "Uehara Ayumu"
             seasonal = true
@@ -469,7 +497,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-41169"
+            id = "A-MAL-41169"    // generated
+            idMAL = 41169
+            idAniList = 114979
+            idAniDB = 15374
+            idKitsu = 44124
             title = "Love Live! Superstar!!"
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Arashi Chisato"
@@ -511,7 +543,11 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-48916"
+            id = "A-MAL-48916"    // generated
+            idMAL = 48916
+            idAniList = 133891
+            idAniDB = 16310
+            idKitsu = 44537
             title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season"
 
             bestGirl = "Kanata Konoe"
@@ -525,13 +561,18 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "A-MAL-50203"
+            id = "A-MAL-50203"    // generated
+            idMAL = 50203
+            idAniList = 140642
+            idAniDB = 16927
+            idKitsu = 45360
             title = "Love Live! Superstar!! 2nd Season"
 
             bestGirl = "Arashi Chisato"
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
+            Boredom(Boredom.Unwatched)
         }
     }
 

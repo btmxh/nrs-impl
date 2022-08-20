@@ -13,7 +13,6 @@ class NRSContext(
     val DAH_serialize: DAH_serialize?,
     val DAH_serialize_json: DAH_serialize_json?,
     val DAH_overall_score: DAH_overall_score?,
-    val DAH_meta: DAH_meta?,
     val DAH_standards: DAH_standards?,
     val DAH_anime_normalize: DAH_anime_normalize?
 ) {
@@ -37,7 +36,6 @@ class NRSContextBuilder {
     var DAH_serialize = null as DAH_serialize?
     var DAH_serialize_json = null as DAH_serialize_json?
     var DAH_overall_score = null as DAH_overall_score?
-    var DAH_meta = null as DAH_meta?
     var DAH_standards = null as DAH_standards?
     var DAH_anime_normalize = null as DAH_anime_normalize?
     var factorCount = 0
@@ -49,7 +47,6 @@ class NRSContextBuilder {
             DAH_serialize,
             DAH_serialize_json,
             DAH_overall_score,
-            DAH_meta,
             DAH_standards,
             DAH_anime_normalize
         )
@@ -60,7 +57,6 @@ class NRSContextBuilder {
             DAH_serialize,
             DAH_serialize_json,
             DAH_overall_score,
-            DAH_meta,
             DAH_standards,
             DAH_anime_normalize
         )

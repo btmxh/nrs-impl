@@ -128,6 +128,10 @@ class DSLEntry(override val root: DSLScope) : AcceptIRE, AcceptEntryContains, DS
     override var id: String = ""
     var title by stringMeta("DAH_entry_title")
     var bestGirl by stringMeta("DAH_entry_bestGirl")
+    var idMAL by intMeta("DAH_additional_sources", "id_MyAnimeList")
+    var idAniList by intMeta("DAH_additional_sources", "id_AniList")
+    var idAniDB by intMeta("DAH_additional_sources", "id_AniDB")
+    var idKitsu by intMeta("DAH_additional_sources", "id_Kitsu")
     var seasonal: Boolean = false
     override val children = mutableMapOf<String, Double>()
 
@@ -189,10 +193,10 @@ fun generate(block: DSLScope.() -> Unit) {
     // use this to find out where impacts are defined using their index
     val impactStackTrace = arrayOf<Int>()
     val relationStackTrace = arrayOf<Int>()
-    for(impactIdx in impactStackTrace) {
+    for (impactIdx in impactStackTrace) {
         println("Impact #$impactIdx stacktrace: ${scope.impacts[impactIdx].stackTrace}")
     }
-    for(relationIdx in relationStackTrace) {
+    for (relationIdx in relationStackTrace) {
         println("Impact #$relationIdx stacktrace: ${scope.relations[relationIdx].stackTrace}")
     }
 
@@ -204,20 +208,77 @@ fun generate(block: DSLScope.() -> Unit) {
     json.output("scores.json", result.mapValues { (_, it) -> ctx.DAH_json_serialize(it) })
 }
 
-fun stringMeta(key: String) = StringMetaProperty(key)
+fun stringMeta(vararg path: String) = StringMetaProperty(path.toList())
+fun intMeta(vararg path: String) = IntMetaProperty(path.toList())
 
-class StringMetaProperty(private val key: String) {
-    operator fun setValue(owner: DSLMeta, property: KProperty<*>, value: String?) {
-        if (value != null) {
-            owner.meta(key, value)
+class StringMetaProperty(path: List<String>): MetaProperty<String>(path) {
+    override fun fromJSON(element: JsonElement): String? {
+        return (element as? JsonPrimitive)?.contentOrNull
+    }
+
+    override fun toJSON(value: String?): JsonElement {
+        return JsonPrimitive(value)
+    }
+}
+
+class IntMetaProperty(path: List<String>): MetaProperty<Int>(path) {
+    override fun fromJSON(element: JsonElement): Int? {
+        return (element as? JsonPrimitive)?.intOrNull
+    }
+
+    override fun toJSON(value: Int?): JsonElement {
+        return JsonPrimitive(value)
+    }
+
+}
+
+abstract class MetaProperty<T : Any>(private val path: List<String>) {
+    init {
+        require(path.isNotEmpty())
+    }
+
+    operator fun setValue(owner: DSLMeta, property: KProperty<*>, value: T?) {
+        val oldValue = owner.mutableMeta.remove(path[0])
+        val newValue = patchValue(oldValue, path.subList(1, path.size), value)
+        owner.mutableMeta[path[0]] = newValue
+    }
+
+    operator fun getValue(owner: DSLMeta, property: KProperty<*>): T? {
+        return fromJSON(getValue(owner.mutableMeta[path[0]], path.subList(1, path.size)))
+    }
+
+    private fun patchValue(oldValue: JsonElement?, path: List<String>, obj: T?): JsonElement {
+        if (path.isEmpty()) {
+            return toJSON(obj)
         } else {
-            owner.mutableMeta.remove(key)
+            val name = path[0]
+            return if (oldValue == null) {
+                buildJsonObject { put(name, patchValue(null, path.subList(1, path.size), obj)) }
+            } else {
+                require(oldValue is JsonObject)
+                buildJsonObject {
+                    put(name, patchValue(oldValue[name], path.subList(1, path.size), obj))
+                    for ((key, value) in oldValue) {
+                        if (key != name) {
+                            put(key, value)
+                        }
+                    }
+                }
+            }
         }
     }
 
-    operator fun getValue(owner: DSLMeta, property: KProperty<*>): String? {
-        return (owner.mutableMeta[key] as? JsonPrimitive?)?.contentOrNull
+    private fun getValue(j: JsonElement?, path: List<String>): JsonElement {
+        return if(path.isEmpty()) {
+            j!!
+        } else {
+            require(j != null && j is JsonObject)
+            getValue(j[path[0]], path.subList(1, path.size))
+        }
     }
+
+    protected abstract fun fromJSON(element: JsonElement): T?
+    protected abstract fun toJSON(value: T?): JsonElement
 }
 
 fun numDays(from: String, to: String? = null): Int {

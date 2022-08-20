@@ -9,7 +9,11 @@ fun DSLScope.BunnyGirlSenpai() {
         title = "Seishun Buta Yarou Series"
 
         Entry {
-            id = "A-MAL-37450"
+            id = "A-MAL-37450"    // generated
+            idMAL = 37450
+            idAniList = 101291
+            idAniDB = 13900
+            idKitsu = 41056
             title = "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
             bestGirl = "Makinohara Shouko"
 

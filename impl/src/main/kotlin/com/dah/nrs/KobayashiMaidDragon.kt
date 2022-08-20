@@ -35,7 +35,11 @@ fun DSLScope.KobayashiMaidDragon() {
         }
 
         Entry {
-            id = "A-MAL-33206"
+            id = "A-MAL-33206"    // generated
+            idMAL = 33206
+            idAniList = 21776
+            idAniDB = 12091
+            idKitsu = 12243
             title = "Kobayashi-san Chi no Maid Dragon"
             bestGirl = "Tohru"
 

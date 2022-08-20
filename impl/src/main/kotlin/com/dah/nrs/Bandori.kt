@@ -226,7 +226,11 @@ fun DSLScope.Bandori() {
         }
 
         Entry {
-            id = "A-MAL-33573"
+            id = "A-MAL-33573"    // generated
+            idMAL = 33573
+            idAniList = 87435
+            idAniDB = 12262
+            idKitsu = 12330
             title = "BanG Dream!"
             bestGirl = "Ichigaya Arisa"
             // Ending pretty sadge
@@ -242,7 +246,11 @@ fun DSLScope.Bandori() {
         }
 
         Entry {
-            id = "A-MAL-37869"
+            id = "A-MAL-37869"    // generated
+            idMAL = 37869
+            idAniList = 101633
+            idAniDB = 14075
+            idKitsu = 41289
             title = "BanG Dream! 2nd Season"
             bestGirl = "Ichigaya Arisa"
             // nrs1

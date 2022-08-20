@@ -10,7 +10,11 @@ fun DSLScope.KimiNawa() {
         // TODO: add music ig, too lazy to do that tho (and the music sucks)
 
         Entry {
-            id = "A-MAL-32281"
+            id = "A-MAL-32281"    // generated
+            idMAL = 32281
+            idAniList = 21519
+            idAniDB = 11829
+            idKitsu = 11614
             title = "Kimi no Na wa"
 
             Visual(VisualKind.Animated, 0.75, 0.75)

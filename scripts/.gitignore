@@ -3,3 +3,4 @@ animelist.xml
 animelist.out.xml
 token.txt
 __pycache__
+user_secrets.py

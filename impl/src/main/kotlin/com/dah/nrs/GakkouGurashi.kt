@@ -43,7 +43,11 @@ fun DSLScope.GakkouGurashi() {
         }
 
         Entry {
-            id = "A-MAL-24765"
+            id = "A-MAL-24765"    // generated
+            idMAL = 24765
+            idAniList = 20754
+            idAniDB = 10697
+            idKitsu = 8644
             title = "Gakkougurashi!"
 
             bestGirl = "Sakura Megumi"

@@ -11,7 +11,11 @@ fun DSLScope.YLIA() {
         title = "Shigatsu wa Kimi no Uso"
 
         Entry {
-            id = "A-MAL-23273"
+            id = "A-MAL-23273"    // generated
+            idMAL = 23273
+            idAniList = 20665
+            idAniDB = 10539
+            idKitsu = 8403
             title = "Shigatsu wa Kimi no Uso"
 
             bestGirl = "Miyazono Kaori"

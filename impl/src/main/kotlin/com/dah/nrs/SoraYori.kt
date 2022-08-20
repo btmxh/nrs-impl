@@ -12,7 +12,11 @@ fun DSLScope.SoraYori() {
         title = "Sora yori mo Tooi Basho"
 
         Entry {
-            id = "A-MAL-35839"
+            id = "A-MAL-35839"    // generated
+            idMAL = 35839
+            idAniList = 99426
+            idAniDB = 13257
+            idKitsu = 13615
             title = "Sora yori mo Tooi Basho"
             bestGirl = "Shiraishi Yuzuki"
 

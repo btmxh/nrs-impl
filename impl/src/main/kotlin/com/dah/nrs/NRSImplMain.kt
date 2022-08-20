@@ -32,7 +32,11 @@ fun main() =
         KokoroConnect()
 
         Entry {
-            id = "A-MAL-12175"
+            id = "A-MAL-12175"    // generated
+            idMAL = 12175
+            idAniList = 12175
+            idAniDB = 8820
+            idKitsu = 6682
             title = "Koi to Senkyo to Chocolate"
             bestGirl = "Chisato Sumiyoshi"
 
@@ -43,7 +47,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-12189"
+            id = "A-MAL-12189"    // generated
+            idMAL = 12189
+            idAniList = 12189
+            idAniDB = 8855
+            idKitsu = 6686
             title = "Hyouka"
             bestGirl = "Chitanda Eru"
 
@@ -62,7 +70,11 @@ fun main() =
         GochiUsa()
 
         Entry {
-            id = "A-MAL-21845"
+            id = "A-MAL-21845"    // generated
+            idMAL = 21845
+            idAniList = 20591
+            idAniDB = 10372
+            idKitsu = 8199
             title = "Ushinawareta Mirai wo Motomete"
 
             // kaomeme
@@ -88,7 +100,11 @@ fun main() =
         Charlotte()
 
         Entry {
-            id = "A-MAL-28851"
+            id = "A-MAL-28851"    // generated
+            idMAL = 28851
+            idAniList = 20954
+            idAniDB = 10937
+            idKitsu = 10028
             title = "Koe no Katachi"
 
             bestGirl = "Nishimiya Shouko"
@@ -108,7 +124,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-31952"
+            id = "A-MAL-31952"    // generated
+            idMAL = 31952
+            idAniList = 21457
+            idAniDB = 11735
+            idKitsu = 11466
             title = "Kono Bijutsubu ni wa Mondai ga Aru!"
 
             bestGirl = "Usami Mizuki"
@@ -119,7 +139,11 @@ fun main() =
         KimiNawa()
 
         Entry {
-            id = "A-MAL-32729"
+            id = "A-MAL-32729"    // generated
+            idMAL = 32729
+            idAniList = 21647
+            idAniDB = 11938
+            idKitsu = 11844
             title = "Orange"
 
             bestGirl = "Takamiya Naho"
@@ -135,7 +159,11 @@ fun main() =
         Bandori()
 
         Entry {
-            id = "A-MAL-33731"
+            id = "A-MAL-33731"    // generated
+            idMAL = 33731
+            idAniList = 21878
+            idAniDB = 12290
+            idKitsu = 12497
             title = "Gabriel DropOut"
 
             bestGirl = "Satanichia Kurumizawa McDowell"
@@ -147,7 +175,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-34240"
+            id = "A-MAL-34240"    // generated
+            idMAL = 34240
+            idAniList = 97731
+            idAniDB = 12482
+            idKitsu = 12668
             title = "Shelter"
 
             bestGirl = "Rin"
@@ -165,7 +197,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-34280"
+            id = "A-MAL-34280"    // generated
+            idMAL = 34280
+            idAniList = 97766
+            idAniDB = 12494
+            idKitsu = 12754
             title = "Gamers!"
 
             seasonal = true // iirc
@@ -180,7 +216,11 @@ fun main() =
         UchiageHanabi()
 
         Entry {
-            id = "A-MAL-34822"
+            id = "A-MAL-34822"    // generated
+            idMAL = 34822
+            idAniList = 98202
+            idAniDB = 12761
+            idKitsu = 13234
             title = "Tsuki ga Kirei"
 
             bestGirl = "Mizuno Akane"
@@ -191,7 +231,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-35241"
+            id = "A-MAL-35241"    // generated
+            idMAL = 35241
+            idAniList = 98506
+            idAniDB = 13030
+            idKitsu = 13752
             title = "Konohana Kitan"
             bestGirl = "Natsume" // rst girl my beloved
 
@@ -209,7 +253,11 @@ fun main() =
         JustBecause()
 
         Entry {
-            id = "A-MAL-35756"
+            id = "A-MAL-35756"    // generated
+            idMAL = 35756
+            idAniList = 99131
+            idAniDB = 13238
+            idKitsu = 13722
             title = "Comic Girls"
             bestGirl = "Kaoruko Moeta"
 
@@ -222,7 +270,11 @@ fun main() =
         SoraYori()
 
         Entry {
-            id = "A-MAL-35860"
+            id = "A-MAL-35860"    // generated
+            idMAL = 35860
+            idAniList = 99468
+            idAniDB = 13270
+            idKitsu = 13635
             title = "Karakai Jouzu no Takagi-san"
 
             bestGirl = "Takagi"
@@ -233,7 +285,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-36038"
+            id = "A-MAL-36038"    // generated
+            idMAL = 36038
+            idAniList = 99726
+            idAniDB = 13345
+            idKitsu = 13703
             title = "Net-juu no Susume"
 
             // lmfao
@@ -244,7 +300,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-36098"
+            id = "A-MAL-36098"    // generated
+            idMAL = 36098
+            idAniList = 99750
+            idAniDB = 13363
+            idKitsu = 13723
             title = "Kimi no Suizou wo Tabetai"
 
             // facebook anime lmfao
@@ -256,7 +316,11 @@ fun main() =
         }
 
         Entry {
-            id = "A-MAL-36266"
+            id = "A-MAL-36266"    // generated
+            idMAL = 36266
+            idAniList = 100010
+            idAniDB = 13424
+            idKitsu = 14137
             title = "Mahou Shoujo Site"
 
             bestGirl = "Asagiri Aya"
@@ -267,6 +331,7 @@ fun main() =
             // sad ending (i don't remember now lmfao)
             AEI(5.0, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
+            Boredom(Boredom.Completed)
         }
 
         ShichiseiSubaru()
@@ -298,7 +363,11 @@ fun main() =
         Atelier()
 
         Entry {
-            id = "A-MAL-35589"
+            id = "A-MAL-35589"    // generated
+            idMAL = 35589
+            idAniList = 98747
+            idAniDB = 13172
+            idKitsu = 13710
             title = "Toji no Miko"
 
             bestGirl = "Tagitsuhime"

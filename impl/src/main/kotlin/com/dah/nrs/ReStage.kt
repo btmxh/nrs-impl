@@ -83,7 +83,11 @@ fun DSLScope.ReStage() {
         title = "Re:STAGE!"
 
         Entry {
-            id = "A-MAL-38009"
+            id = "A-MAL-38009"    // generated
+            idMAL = 38009
+            idAniList = 103048
+            idAniDB = 14192
+            idKitsu = 42280
             title = "Re:Stage! Dream Days♪"
 
             // pasta inc
@@ -207,6 +211,13 @@ fun DSLScope.ReStage() {
             GateOpen("F-VGMDB-4499")
 
             Boredom(Boredom.Completed)
+
+            Impact {
+                description = "OvertuRe: CG"
+                score = vector {
+                    set(Art.Visual, -0.1)
+                }
+            }
         }
 
         Entry {
@@ -781,7 +792,11 @@ fun DSLScope.ReStage() {
     // " - me in the rst anime part
     // this is literally the plot of this anime lmfao
     Entry {
-        id = "A-MAL-37890"
+        id = "A-MAL-37890"    // generated
+        idMAL = 37890
+        idAniList = 104391
+        idAniDB = 14087
+        idKitsu = 41309
         title = "Oshi ga Budoukan Ittekuretara Shinu"
         // aka "If RST can overtake Love Live in the Oricon ranking, I can die happy"
         bestGirl = "Shikimiya Maina"

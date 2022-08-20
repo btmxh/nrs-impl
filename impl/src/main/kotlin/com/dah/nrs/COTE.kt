@@ -9,7 +9,11 @@ fun DSLScope.COTE() {
         title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
 
         Entry {
-            id = "A-MAL-35507"
+            id = "A-MAL-35507"    // generated
+            idMAL = 35507
+            idAniList = 98659
+            idAniDB = 13153
+            idKitsu = 13503
             title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
 
             bestGirl = "Horikita Suzune"
@@ -22,7 +26,11 @@ fun DSLScope.COTE() {
         }
 
         Entry {
-            id = "A-MAL-51096"
+            id = "A-MAL-51096"    // generated
+            idMAL = 51096
+            idAniList = 145545
+            idAniDB = 17208
+            idKitsu = 45925
             title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season"
 
             bestGirl = "Sakayanagi Arisu"

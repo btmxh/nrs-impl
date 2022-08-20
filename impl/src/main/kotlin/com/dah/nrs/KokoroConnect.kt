@@ -41,7 +41,11 @@ fun DSLScope.KokoroConnect() {
         }
 
         Entry {
-            id = "A-MAL-11887"
+            id = "A-MAL-11887"    // generated
+            idMAL = 11887
+            idAniList = 11887
+            idAniDB = 8742
+            idKitsu = 6626
             title = "Kokoro Connect"
             bestGirl = "Nagase Iori"
 
@@ -53,7 +57,10 @@ fun DSLScope.KokoroConnect() {
         }
 
         Entry {
-            id = "A-MAL-16001"
+            id = "A-MAL-16001"    // generated
+            idMAL = 16001
+            idAniList = 16001
+            idKitsu = 7355
             title = "Kokoro Connect: Michi Random"
             bestGirl = "Nagase Iori"
 

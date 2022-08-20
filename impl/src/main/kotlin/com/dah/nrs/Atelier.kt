@@ -15,7 +15,11 @@ fun DSLScope.Atelier() {
         title = "Atelier"
 
         Entry {
-            id = "A-MAL-21167"
+            id = "A-MAL-21167"    // generated
+            idMAL = 21167
+            idAniList = 20506
+            idAniDB = 10241
+            idKitsu = 8091
             title = "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"
 
             bestGirl = "Malier Escha"

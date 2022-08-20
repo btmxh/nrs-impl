@@ -53,7 +53,11 @@ fun DSLScope.Idolmaster() {
         }
 
         Entry {
-            id = "A-MAL-10278"
+            id = "A-MAL-10278"    // generated
+            idMAL = 10278
+            idAniList = 10278
+            idAniDB = 8218
+            idKitsu = 6111
             title = "The iDOLM@STER"
             bestGirl = "Minase Iori"
             // ending pretty sadge
@@ -74,7 +78,11 @@ fun DSLScope.Idolmaster() {
         }
 
         Entry {
-            id = "A-MAL-23587"
+            id = "A-MAL-23587"    // generated
+            idMAL = 23587
+            idAniList = 20693
+            idAniDB = 10585
+            idKitsu = 8777
             title = "The iDOLM@STER Cinderella Girls"
             bestGirl = "Ogata Chieri"
             Boredom(Boredom.Completed)
@@ -82,7 +90,11 @@ fun DSLScope.Idolmaster() {
         }
 
         Entry {
-            id = "A-MAL-30344"
+            id = "A-MAL-30344"    // generated
+            idMAL = 30344
+            idAniList = 21094
+            idAniDB = 11135
+            idKitsu = 10760
             title = "The iDOLM@STER Cinderella Girls 2nd Season"
             bestGirl = "Ogata Chieri"
             Boredom(Boredom.Completed)

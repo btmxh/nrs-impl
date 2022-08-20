@@ -10,7 +10,11 @@ fun DSLScope.Charlotte() {
         title = "Charlotte"
 
         Entry {
-            id = "A-MAL-28999"
+            id = "A-MAL-28999"    // generated
+            idMAL = 28999
+            idAniList = 20997
+            idAniDB = 10997
+            idKitsu = 10103
             title = "Charlotte"
             bestGirl = "Nao Tomori" // ai mapper lmao
 

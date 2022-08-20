@@ -76,7 +76,11 @@ fun DSLScope.YuYuYu() {
         }
 
         Entry {
-            id = "A-MAL-25519"
+            id = "A-MAL-25519"    // generated
+            idMAL = 25519
+            idAniList = 20800
+            idAniDB = 10750
+            idKitsu = 8638
             title = "Yuuki Yuuna wa Yuusha de Aru"
             bestGirl = "Yuuki Yuuna"
             // The Itsuki thing made me cry I guess, but there's no PADS.
@@ -147,7 +151,11 @@ fun DSLScope.YuYuYu() {
         }
 
         Entry {
-            id = "A-MAL-34284"
+            id = "A-MAL-34284"    // generated
+            idMAL = 34284
+            idAniList = 100791
+            idAniDB = 13728
+            idKitsu = 12678
             title = "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
             // this was not taken very seriously
 
@@ -165,7 +173,11 @@ fun DSLScope.YuYuYu() {
         }
 
         Entry {
-            id = "A-MAL-34445"
+            id = "A-MAL-34445"    // generated
+            idMAL = 34445
+            idAniList = 97769
+            idAniDB = 12500
+            idKitsu = 13160
             title = "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
             // "The Michi Random of Yuuki Yuuna"
             bestGirl = "Yuuki Yuuna"
@@ -186,7 +198,11 @@ fun DSLScope.YuYuYu() {
         }
 
         Entry {
-            id = "A-MAL-42587"
+            id = "A-MAL-42587"    // generated
+            idMAL = 42587
+            idAniList = 122292
+            idAniDB = 15665
+            idKitsu = 44333
             title = "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"
 
             seasonal = true

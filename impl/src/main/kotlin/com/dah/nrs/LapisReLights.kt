@@ -16,7 +16,11 @@ fun DSLScope.LapisReLights() {
         // also first music cgdct except k-on
         // (k-on sucks so it doesn't count keep coping keionfags)
         Entry {
-            id = "A-MAL-37587"
+            id = "A-MAL-37587"    // generated
+            idMAL = 37587
+            idAniList = 104937
+            idAniDB = 13973
+            idKitsu = 41115
             title = "Lapis Re:LiGHTs"
             bestGirl = "Tiara"
 
