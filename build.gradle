@@ -10,12 +10,43 @@ repositories {
     mavenCentral()
 }
 
-task runAndMakeCSV {
+task generate {
     dependsOn ':impl:run'
-    doLast {
-        exec {
-            commandLine 'node', 'scripts/make_csv.js'
-        }
-    }
+}
+
+task validate {
+    dependsOn generate
     finalizedBy ':validator:run'
+}
+
+task generateChangelists(type: Exec) {
+    dependsOn generate
+    commandLine 'python', 'scripts/gen_cl.py'
+}
+
+task syncMAL(type: Exec) {
+    dependsOn generateChangelists
+    commandLine 'python', 'scripts/sync_mal.py'
+}
+
+task syncAniList(type: Exec) {
+    dependsOn generateChangelists
+    commandLine 'python', 'scripts/sync_anilist.py'
+}
+
+task makeCSV(type: Exec) {
+    dependsOn generate
+    commandLine 'node', 'scripts/make_csv.js'
+}
+
+task updateWithoutSync {
+    dependsOn generate
+    dependsOn validate
+    dependsOn makeCSV
+}
+
+task update {
+    dependsOn updateWithoutSync
+    dependsOn syncMAL
+    dependsOn syncAniList
 }
