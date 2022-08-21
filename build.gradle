@@ -10,13 +10,16 @@ repositories {
     mavenCentral()
 }
 
+task provideAdditionalAnimeIDs(type: Exec) {
+    commandLine 'python', 'scripts/anime_id_gen.py'
+}
+
 task generate {
     dependsOn ':impl:run'
 }
 
 task validate {
-    dependsOn generate
-    finalizedBy ':validator:run'
+    dependsOn ':validator:run'
 }
 
 task generateChangelists(type: Exec) {

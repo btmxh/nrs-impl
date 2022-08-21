@@ -15,3 +15,7 @@ repositories {
 dependencies {
     implementation project(':core')
 }
+
+compileKotlin {
+    dependsOn ':provideAdditionalAnimeIDs'
+}
