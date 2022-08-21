@@ -210,7 +210,7 @@ fun DSLScope.ReStage() {
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             Impact {
                 description = "OvertuRe: CG"
@@ -805,7 +805,7 @@ fun DSLScope.ReStage() {
 
         Visual(VisualKind.Animated, 0.2, 0.5)
 
-        Boredom(Boredom.Watching)
+        Progress(Boredom.Completed)
 
         // as always (low potential because rst actually helped oshibudo tho,
         // but it's still a kill)

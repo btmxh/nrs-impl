@@ -21,7 +21,7 @@ fun DSLScope.KimiNawa() {
 
             bestGirl = "Miki Okudera"
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
     }
 }

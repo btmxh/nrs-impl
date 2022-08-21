@@ -103,7 +103,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-37932-1")
             FeatureMusic("M-VGMDB-AL-37999")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {
@@ -129,7 +129,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-51394-1")
             FeatureMusic("M-VGMDB-AL-51394-3")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {
@@ -158,7 +158,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-96288-1")
             FeatureMusic("M-VGMDB-AL-96290-1")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
     }
 }

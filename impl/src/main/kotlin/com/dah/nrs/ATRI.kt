@@ -20,7 +20,8 @@ fun DSLScope.ATRI() {
 
             // sad plot twist thingy
             AEI(8.0, Emotion.CU to 0.8, Emotion.AP to 0.2)
-            Boredom(Boredom.TempOnHold)
+            Progress(Boredom.TempOnHold)
+            ValidatorSuppress("dah-uncompleted-no-progress")
 
             Visual(VisualKind.VisualNovel, 0.7, 0.15)
 

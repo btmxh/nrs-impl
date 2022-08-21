@@ -28,7 +28,7 @@ fun DSLScope.LapisReLights() {
             EHI()
             Visual(VisualKind.Animated, 0.4, 0.2)
             FeatureMusic("M-VGMDB-AL-104957")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {

@@ -17,7 +17,7 @@ fun DSLScope.ShichiseiSubaru() {
             title = "Shichisei no Subaru"
             bestGirl = "Kuga Asahi"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             // The drama in this anime is executed fairly well.
             // (It only exists in the first episodes tho)

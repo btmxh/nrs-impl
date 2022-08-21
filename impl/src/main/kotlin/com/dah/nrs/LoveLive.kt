@@ -355,7 +355,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-36547-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -370,7 +370,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-34051-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -384,7 +384,7 @@ fun DSLScope.LoveLive() {
             title = "Love Live! School Idol Project Movie"
             bestGirl = "Nishikino Maki"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -399,7 +399,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Sakurauchi Riko"
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -415,7 +415,7 @@ fun DSLScope.LoveLive() {
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -428,7 +428,7 @@ fun DSLScope.LoveLive() {
             idKitsu = 14188
             title = "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
             bestGirl = "Sakurauchi Riko"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -484,7 +484,7 @@ fun DSLScope.LoveLive() {
 
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(4.0, Emotion.AP)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
@@ -506,7 +506,7 @@ fun DSLScope.LoveLive() {
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Arashi Chisato"
             seasonal = true
-            Boredom(Boredom.TempOnHold)
+            Progress(Boredom.TempOnHold, 7)
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
@@ -556,7 +556,8 @@ fun DSLScope.LoveLive() {
             bestGirl = "Uehara Ayumu"
             Visual(VisualKind.Animated, 0.6, 0.25)
 
-            Boredom(Boredom.Watching)
+            // lol after all this time xddddddddddd
+            Progress(Boredom.Dropped, 3)
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         }
 
@@ -572,7 +573,7 @@ fun DSLScope.LoveLive() {
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
-            Boredom(Boredom.Unwatched)
+            Progress(Boredom.Unwatched)
         }
     }
 

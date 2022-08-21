@@ -22,7 +22,7 @@ fun DSLScope.UchiageHanabi() {
 
             bestGirl = "Oikawa Nazuna"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             FeatureMusic("M-VGMDB-AL-69257-1")
             Visual(VisualKind.Animated, 0.4, 0.5)

@@ -49,7 +49,7 @@ fun DSLScope.KokoroConnect() {
             title = "Kokoro Connect"
             bestGirl = "Nagase Iori"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
 
@@ -64,7 +64,7 @@ fun DSLScope.KokoroConnect() {
             title = "Kokoro Connect: Michi Random"
             bestGirl = "Nagase Iori"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
     }

@@ -23,7 +23,7 @@ fun DSLScope.Summer2022() {
         // art has some flaws, but whatever
         Visual(VisualKind.Animated, 0.4, 0.4)
         // bye lol
-        Boredom(Boredom.Dropped)
+        Progress(Boredom.Dropped, 4)
         KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
     }
@@ -44,7 +44,7 @@ fun DSLScope.Summer2022() {
         Visual(VisualKind.Animated, 0.4, 0.85)
 
         // the rescue mission succeeded let's goooooo
-        Boredom(Boredom.Watching)
+        Progress(Boredom.Watching, 7)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
@@ -64,7 +64,7 @@ fun DSLScope.Summer2022() {
         // ichijou ruka my beloved (she can't save this anime sadge)
 
         // the prima doll incident
-        Boredom(Boredom.Dropped)
+        Progress(Boredom.Dropped, 4)
 
         // somewhat unique and cute at the same time ngl
         // but still good luck with that -1.0 boredom lol xddddddddddd
@@ -104,13 +104,17 @@ fun DSLScope.Summer2022() {
 
         // still shit anime anyways
         // lmfao they used "inverse-killedby" method to not be dropped
-        Boredom(Boredom.Watching)
+        Progress(Boredom.Watching, 7)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
 
     Entry {
-        id = "A-MAL-${38009 - 3}"
+        id = "A-MAL-38006"    // generated
+        idMAL = 38006
+        idAniList = 103118
+        idKitsu = 44227
+        idAniDB = 14204
         title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"
 
         // mc is cute
@@ -120,7 +124,7 @@ fun DSLScope.Summer2022() {
         bestGirl = "Shibuya Inori"
         // inori is cuter fuck u
 
-        Boredom(Boredom.Watching)
+        Progress(Boredom.Watching, 6)
         KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
     }
@@ -140,12 +144,15 @@ fun DSLScope.Summer2022() {
         // is this an ortensia incident reference????????????????????????
         // (more '?' than teppen let's go)
 
+        // the ari ozawa girl actually experienced an ortensia incident LMFAO
+        // xddddddddddddddddddddddd
+
         // > love live VA's
         // https://www.google.com/search?q=trolldespair
 
         Visual(VisualKind.Animated, 0.5, 0.1)
 
-        Boredom(Boredom.Watching)
+        Progress(Boredom.Watching, 7)
         KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
     }
@@ -164,7 +171,7 @@ fun DSLScope.Summer2022() {
         // (they know about her songs in sb69 these cheeky mfs)
 
         Visual(VisualKind.Animated, 0.4, 0.5)
-        Boredom(Boredom.Watching)
+        Progress(Boredom.Watching, 6)
         KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
     }

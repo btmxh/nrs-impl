@@ -17,7 +17,7 @@ fun DSLScope.JustBecause() {
             title = "Just Because!"
             bestGirl = "Natsume Mio"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             // Pretty decent drama
             AEI(5.0, Emotion.CU)
             FeatureMusic("M-VGMDB-AL-70716-1")

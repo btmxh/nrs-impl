@@ -51,7 +51,7 @@ fun DSLScope.Chuunibyou() {
             // idk why
             // this is taken from NRS1
             Meme(0.15, 2)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {
@@ -67,7 +67,7 @@ fun DSLScope.Chuunibyou() {
             AEI(10.0, Emotion.CU)
             // Shichimiya memes
             Meme(0.4, 10)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.2)
 
             FeatureMusic("M-VGMDB-AL-42762-1")
@@ -81,7 +81,7 @@ fun DSLScope.Chuunibyou() {
             idKitsu = 13524
             title = "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
             bestGirl = "Nibutani Shinka"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later
             NEI(7.5, Emotion.AP)

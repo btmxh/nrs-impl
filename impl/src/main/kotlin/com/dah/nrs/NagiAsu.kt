@@ -48,7 +48,7 @@ fun DSLScope.NagiAsu() {
 
             Meme(0.7, 25)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             FeatureMusic("M-VGMDB-AL-41278-1")
             FeatureMusic("M-VGMDB-AL-41280-1")

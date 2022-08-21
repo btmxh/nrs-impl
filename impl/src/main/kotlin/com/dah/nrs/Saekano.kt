@@ -44,7 +44,7 @@ fun DSLScope.Saekano() {
 
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -57,7 +57,7 @@ fun DSLScope.Saekano() {
             idKitsu = 10909
             title = "Saenai Heroine no Sodatekata ♭"
             bestGirl = "Megumi Kato"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -72,7 +72,7 @@ fun DSLScope.Saekano() {
             bestGirl = "Megumi Kato"
             // humor
             NEI(2.5, Emotion.AP)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.55, 0.3)
         }
     }

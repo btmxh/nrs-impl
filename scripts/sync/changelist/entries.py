@@ -1,15 +1,30 @@
 import json
-from typing import Any, Dict, List, Optional
-
+from enum import Enum
+from typing import Dict, Optional
+from ..services.aod import load_aod_minified_memoize
 from ..services.service import Service
+
+
+class Status(str, Enum):
+    Completed = 'Completed',
+    Watching = 'Watching',
+    OnHold = 'OnHold',
+    Dropped = 'Dropped',
+    PTW = 'PTW',
+
+
+def __get_default_status_episode_count(status: Optional[Status], total_eps: int) -> int:
+    return total_eps if status == Status.Completed else 0
 
 
 class AnimeListEntry:
     @classmethod
-    def new(cls, id: str, score: float):
+    def new(cls, id: str, score: float, status: Optional[Status], episodes: int):
         self = cls()
         self.id = id
         self.score = score
+        self.status = status
+        self.episodes = episodes
         return self
 
     @classmethod
@@ -17,7 +32,25 @@ class AnimeListEntry:
         self = cls()
         self.id = d["id"]
         self.score = d["score"]
+        self.episodes = d["episodes"]
+        self.status = d.get('status', None)
         return self
+
+
+def nrs_boredom_to_status(boredom_name: Optional[str]) -> Optional[Status]:
+    if boredom_name is None:
+        return None
+    boredom_name = boredom_name.lower()
+    if boredom_name.startswith('completed'):
+        return Status.Completed
+    elif boredom_name == 'watching':
+        return Status.Watching
+    elif boredom_name == 'temporarily on-hold':
+        return Status.OnHold
+    elif boredom_name == 'dropped':
+        return Status.Dropped
+    else:
+        return Status.PTW
 
 
 def load_entries(service: Service) -> Dict[str, AnimeListEntry]:
@@ -36,7 +69,16 @@ def load_entries(service: Service) -> Dict[str, AnimeListEntry]:
             continue
         score = service.round_score(
             scores[id]["DAH_meta"]["DAH_anime_normalize"]["score"])
-        result[service_id] = AnimeListEntry.new(service_id, score)
+        status = nrs_boredom_to_status(
+            entry["DAH_meta"]["DAH_entry_progress"].get("status", None))
+        episodes = entry["DAH_meta"]["DAH_entry_progress"].get(
+            "episode", None)
+        if episodes is None:
+            total_eps = load_aod_minified_memoize(
+                service)[service_id]["episodes"]
+            episodes = __get_default_status_episode_count(status, total_eps)
+        result[service_id] = AnimeListEntry.new(
+            service_id, score, status, episodes)
     return result
 
 

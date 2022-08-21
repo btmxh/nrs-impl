@@ -94,7 +94,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-51706-1")
             FeatureMusic("M-VGMDB-AL-51706-2")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -120,7 +120,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-61981-1")
             FeatureMusic("M-VGMDB-AL-61981-3")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -151,7 +151,7 @@ fun DSLScope.SB69() {
             KilledBy("M-18", potential = 0.75, effect = 0.75)
             Visual(VisualKind.Animated, 0.65, 0.4)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {
@@ -192,7 +192,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-104267-5")
             FeatureMusic("M-VGMDB-AL-100087-1")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.65, 0.4)
         }
 

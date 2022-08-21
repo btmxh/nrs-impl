@@ -35,7 +35,7 @@ fun DSLScope.SoraMethod() {
             FeatureMusic("M-VGMDB-AL-47402-1")
             FeatureMusic("M-VGMDB-AL-47403-1")
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 

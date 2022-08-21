@@ -92,7 +92,7 @@ fun DSLScope.`K-On`() {
             title = "K-On!"
             bestGirl = "Nakano Azusa"
 
-            Boredom(Boredom.CompletedWithNoticeableBoredom)
+            Progress(Boredom.CompletedWithNoticeableBoredom)
             `K-OnVisual`(VisualKind.Animated)
         }
 
@@ -105,7 +105,7 @@ fun DSLScope.`K-On`() {
             title = "K-On!!"
             bestGirl = "Nakano Azusa"
 
-            Boredom(Boredom.CompletedWithNoticeableBoredom)
+            Progress(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
             `K-OnVisual`(VisualKind.Animated)
@@ -120,7 +120,7 @@ fun DSLScope.`K-On`() {
             title = "K-On! Movie"
             bestGirl = "Nakano Azusa"
 
-            Boredom(Boredom.CompletedWithNoticeableBoredom)
+            Progress(Boredom.CompletedWithNoticeableBoredom)
             FeatureMusic("M-VGMDB-AL-21146-9")
             `K-OnVisual`(VisualKind.Animated)
         }

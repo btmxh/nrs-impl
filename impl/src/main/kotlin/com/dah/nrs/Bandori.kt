@@ -237,7 +237,7 @@ fun DSLScope.Bandori() {
             AEI(2.0, Emotion.CU)
             // nrs1
             Meme(0.2, 6)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             Visual(VisualKind.Animated, 0.4, 0.4)
 
@@ -259,7 +259,7 @@ fun DSLScope.Bandori() {
             // cg lmfao
             Visual(VisualKind.Animated, 0.15, 0.5)
             // rip
-            Boredom(Boredom.Dropped)
+            Progress(Boredom.Dropped, 6)
             FeatureMusic("M-VGMDB-AL-81504-1")
         }
     }

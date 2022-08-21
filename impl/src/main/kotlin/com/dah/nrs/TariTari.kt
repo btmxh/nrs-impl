@@ -21,7 +21,7 @@ fun DSLScope.TariTari() {
 
             // pa works is the best atmospheric farmer
             Cry(Emotion.CU)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 0.5)

@@ -6606,13 +6606,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            -1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 4,
+            "boredom_level": 2,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Dropped"
         }
     },
     {
@@ -10174,7 +10174,7 @@
         },
         "score": [
             0.0,
-            0.04164563207701744,
+            0.041719276276344294,
             0.0,
             0.0,
             0.0,
@@ -10186,9 +10186,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 141,
+            "meme_duration": 142,
             "strength": 0.01,
-            "meme_duration_value": 1.041140801925436,
+            "meme_duration_value": 1.0429819069086073,
             "type": "meme"
         }
     },
@@ -10900,7 +10900,7 @@
         },
         "score": [
             0.0,
-            3.5355339059327378,
+            3.564635404682236,
             0.0,
             0.0,
             0.0,
@@ -10912,9 +10912,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 30,
+            "meme_duration": 31,
             "strength": 1.25,
-            "meme_duration_value": 0.7071067811865476,
+            "meme_duration_value": 0.7129270809364472,
             "type": "meme"
         }
     },
@@ -16683,13 +16683,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 4,
+            "boredom_level": 0,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Completed"
         }
     },
     {
@@ -18789,13 +18789,13 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            1.0,
             0.0
         ],
         "DAH_meta": {
-            "boredom_level": 4,
+            "boredom_level": 0,
             "type": "boredom",
-            "boredom_level_name": "Watching"
+            "boredom_level_name": "Completed"
         }
     },
     {

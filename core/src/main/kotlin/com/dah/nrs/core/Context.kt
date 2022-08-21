@@ -14,7 +14,8 @@ class NRSContext(
     val DAH_serialize_json: DAH_serialize_json?,
     val DAH_overall_score: DAH_overall_score?,
     val DAH_standards: DAH_standards?,
-    val DAH_anime_normalize: DAH_anime_normalize?
+    val DAH_anime_normalize: DAH_anime_normalize?,
+    val DAH_meta: DAH_meta?,
 ) {
     fun process(data: NRSData) = Processor(this, data).process()
 
@@ -38,6 +39,7 @@ class NRSContextBuilder {
     var DAH_overall_score = null as DAH_overall_score?
     var DAH_standards = null as DAH_standards?
     var DAH_anime_normalize = null as DAH_anime_normalize?
+    var DAH_meta = null as DAH_meta?
     var factorCount = 0
     var combineVector = vector {}
 
@@ -48,7 +50,8 @@ class NRSContextBuilder {
             DAH_serialize_json,
             DAH_overall_score,
             DAH_standards,
-            DAH_anime_normalize
+            DAH_anime_normalize,
+            DAH_meta,
         )
         return NRSContext(
             factorCount,
@@ -58,7 +61,8 @@ class NRSContextBuilder {
             DAH_serialize_json,
             DAH_overall_score,
             DAH_standards,
-            DAH_anime_normalize
+            DAH_anime_normalize,
+            DAH_meta,
         )
     }
 

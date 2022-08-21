@@ -37,7 +37,7 @@ fun DSLScope.NewGame() {
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Iijima Yun"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.7, 0.3)
 
             FeatureMusic("M-VGMDB-AL-58627-1")
@@ -53,7 +53,7 @@ fun DSLScope.NewGame() {
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Suzukaze Aoba"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.7, 0.3)
 
             FeatureMusic("M-VGMDB-AL-68225-1")

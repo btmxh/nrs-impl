@@ -19,7 +19,7 @@ fun DSLScope.TateYuusha() {
             // And yes, it's watched in the Reddit-era
             bestGirl = "Raphtalia"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             // Anger when MC is treated unfairly (like Oregairu's 8man)
             NEI(5.0, Emotion.AU)
@@ -36,7 +36,7 @@ fun DSLScope.TateYuusha() {
             title = "Tate no Yuusha no Nariagari Season 2"
             bestGirl = "Raphtalia"
 
-            Boredom(Boredom.Dropped)
+            Progress(Boredom.Dropped, 3)
             KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
             Visual(VisualKind.Animated, 0.4, 0.2)
         }

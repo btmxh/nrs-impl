@@ -45,7 +45,7 @@ fun DSLScope.YLIA() {
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {

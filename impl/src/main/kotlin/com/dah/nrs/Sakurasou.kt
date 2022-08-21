@@ -32,7 +32,7 @@ fun DSLScope.Sakurasou() {
             // inspiration for me to learn programming
             // (see NewGame.kt)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             FeatureMusic("M-VGMDB-AL-35015-1")

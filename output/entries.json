@@ -151,6 +151,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Shin Shou",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13707,
                 "id_AniDB": 12625,
@@ -182,6 +185,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+            "DAH_entry_progress": {
+                "episode": 2,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 43681,
                 "id_AniDB": 15788,
@@ -242,6 +249,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kokoro Connect",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6626,
                 "id_AniDB": 8742,
@@ -335,6 +345,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! School Idol Project 2nd Season",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7871,
                 "id_AniDB": 9927,
@@ -384,7 +397,13 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-uncompleted-no-progress"
+            ],
             "DAH_entry_title": "Karakai Jouzu no Takagi-san",
+            "DAH_entry_progress": {
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13635,
                 "id_AniDB": 13270,
@@ -452,6 +471,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sword Art Online",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6589,
                 "id_AniDB": 8692,
@@ -467,6 +489,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kobayashi-san Chi no Maid Dragon",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12243,
                 "id_AniDB": 12091,
@@ -482,6 +507,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Watching"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45925,
                 "id_AniDB": 17208,
@@ -621,6 +650,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13503,
                 "id_AniDB": 13153,
@@ -698,6 +730,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7774,
                 "id_AniDB": 9417,
@@ -821,6 +856,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7169,
                 "id_AniDB": 9310,
@@ -836,6 +874,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sora yori mo Tooi Basho",
+            "DAH_entry_progress": {
+                "episode": 9,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13615,
                 "id_AniDB": 13257,
@@ -916,6 +958,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Superstar!!",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Temporarily On-Hold"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44124,
                 "id_AniDB": 15374,
@@ -975,6 +1021,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
+            "DAH_entry_progress": {
+                "episode": 3,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44537,
                 "id_AniDB": 16310,
@@ -1055,6 +1105,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13524,
                 "id_AniDB": 13176,
@@ -1104,6 +1157,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44333,
                 "id_AniDB": 15665,
@@ -1151,6 +1207,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sword Art Online II",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8174,
                 "id_AniDB": 10376,
@@ -1481,6 +1540,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Sunshine!! 2nd Season",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13299,
                 "id_AniDB": 12897,
@@ -1521,6 +1583,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8478,
                 "id_AniDB": 10601,
@@ -1624,6 +1689,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tsuki ga Kirei",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13234,
                 "id_AniDB": 12761,
@@ -1651,6 +1719,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "The iDOLM@STER Cinderella Girls 2nd Season",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10760,
                 "id_AniDB": 11135,
@@ -1677,6 +1748,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Gabriel DropOut",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12497,
                 "id_AniDB": 12290,
@@ -1709,6 +1783,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6638,
                 "id_AniList": 11981,
@@ -1731,6 +1808,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Sunshine!!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11745,
                 "id_AniDB": 11878,
@@ -1762,6 +1842,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Nagi no Asu kara",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7370,
                 "id_AniDB": 9387,
@@ -1861,6 +1944,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "K-On!",
+            "DAH_entry_progress": {
+                "status": "Completed with noticeable boredom"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 4240,
                 "id_AniDB": 6257,
@@ -1941,6 +2027,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Ren",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7705,
                 "id_AniDB": 9874,
@@ -1964,6 +2053,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7442,
                 "id_AniDB": 9541,
@@ -2005,6 +2097,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Ushinawareta Mirai wo Motomete",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8199,
                 "id_AniDB": 10372,
@@ -2044,6 +2139,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44813,
                 "id_AniDB": 16404,
@@ -2124,6 +2222,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kokoro Connect: Michi Random",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7355,
                 "id_AniList": 16001,
@@ -2146,6 +2247,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Nogi Wakaba wa Yuusha de Aru",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_entry_bestGirl": "Koori Chikage"
         }
     },
@@ -2209,6 +2313,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tokyo Mew Mew New ♡",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Watching"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 43098,
                 "id_AniDB": 15485,
@@ -2476,6 +2584,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Cue!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44979,
                 "id_AniDB": 15827,
@@ -2512,6 +2623,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tomodachi Game",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45401,
                 "id_AniDB": 16948,
@@ -2535,6 +2649,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "K-On!!",
+            "DAH_entry_progress": {
+                "status": "Completed with noticeable boredom"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 5124,
                 "id_AniDB": 7307,
@@ -2565,6 +2682,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Orange",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11844,
                 "id_AniDB": 11938,
@@ -2613,6 +2733,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tate no Yuusha no Nariagari Season 2",
+            "DAH_entry_progress": {
+                "episode": 3,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 42530,
                 "id_AniDB": 15070,
@@ -2661,6 +2785,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! School Idol Project",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7203,
                 "id_AniDB": 9271,
@@ -2676,6 +2803,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kimi no Suizou wo Tabetai",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13723,
                 "id_AniDB": 13363,
@@ -2726,6 +2856,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sword Art Online Movie: Ordinal Scale",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11423,
                 "id_AniDB": 11681,
@@ -2744,6 +2877,10 @@
                 "dah-no-best-girl"
             ],
             "DAH_entry_title": "Spy x Family",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45398,
                 "id_AniDB": 16947,
@@ -2758,6 +2895,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Irodorimidori",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45577,
                 "id_AniDB": 16950,
@@ -2811,6 +2951,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "New Game!!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13236,
                 "id_AniDB": 12819,
@@ -2897,6 +3040,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV) 2nd Season",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 43090,
                 "id_AniDB": 15472,
@@ -2931,6 +3077,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yamada-kun to 7-nin no Majo",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10042,
                 "id_AniDB": 10955,
@@ -2971,6 +3120,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+            "DAH_entry_progress": {
+                "episode": 6,
+                "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14204,
+                "id_Kitsu": 44227,
+                "id_AniList": 103118,
+                "id_MyAnimeList": 38006
+            },
             "DAH_entry_bestGirl": "Shibuya Inori"
         }
     },
@@ -2989,6 +3148,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Re:Stage! Dream Days♪",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 42280,
                 "id_AniDB": 14192,
@@ -3020,6 +3182,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "K-On! Movie",
+            "DAH_entry_progress": {
+                "status": "Completed with noticeable boredom"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 5810,
                 "id_AniDB": 8280,
@@ -3035,6 +3200,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV)",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 42016,
                 "id_AniDB": 14360,
@@ -3133,6 +3301,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Beyond the Bottom",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10845,
                 "id_AniList": 21107,
@@ -3175,6 +3346,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Iroduku Sekai no Ashita kara",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 41101,
                 "id_AniDB": 13925,
@@ -3224,6 +3398,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mamahaha no Tsurego ga Motokano datta",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Watching"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44913,
                 "id_AniDB": 16457,
@@ -3239,6 +3417,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kono Bijutsubu ni wa Mondai ga Aru!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11466,
                 "id_AniDB": 11735,
@@ -3263,6 +3444,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "New Game!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11467,
                 "id_AniDB": 11736,
@@ -3294,6 +3478,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mahou Shoujo Madoka★Magica",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 5853,
                 "id_AniDB": 8069,
@@ -3308,7 +3495,13 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-uncompleted-no-progress"
+            ],
             "DAH_entry_title": "Hataraku Saibou",
+            "DAH_entry_progress": {
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 14212,
                 "id_AniDB": 13743,
@@ -3368,7 +3561,13 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-uncompleted-no-progress"
+            ],
             "DAH_entry_title": "ATRI -My Dear Moments-",
+            "DAH_entry_progress": {
+                "status": "Temporarily On-Hold"
+            },
             "DAH_entry_bestGirl": "Atri"
         }
     },
@@ -3378,6 +3577,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Show by Rock!! Stars!!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 43590,
                 "id_AniDB": 15467,
@@ -3410,6 +3612,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shine Post",
+            "DAH_entry_progress": {
+                "episode": 6,
+                "status": "Watching"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45389,
                 "id_AniDB": 16937,
@@ -3446,6 +3652,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 14188,
                 "id_AniDB": 13703,
@@ -3513,6 +3722,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Koi to Senkyo to Chocolate",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6682,
                 "id_AniDB": 8820,
@@ -3528,6 +3740,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Show By Rock!! Mashumairesh!!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 42885,
                 "id_AniDB": 15281,
@@ -3543,6 +3758,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Charlotte",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10103,
                 "id_AniDB": 10997,
@@ -3558,6 +3776,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mahou Shoujo Site",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 14137,
                 "id_AniDB": 13424,
@@ -3656,6 +3877,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Saenai Heroine no Sodatekata ♭",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10909,
                 "id_AniDB": 11221,
@@ -3671,6 +3895,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "RPG Fudousan",
+            "DAH_entry_progress": {
+                "episode": 5,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44376,
                 "id_AniDB": 16078,
@@ -3836,6 +4064,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Net-juu no Susume",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13703,
                 "id_AniDB": 13345,
@@ -3869,6 +4100,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 42194,
                 "id_AniDB": 14764,
@@ -3884,6 +4118,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Superstar!! 2nd Season",
+            "DAH_entry_progress": {
+                "status": "Unwatched"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45360,
                 "id_AniDB": 16927,
@@ -3925,7 +4162,13 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-uncompleted-no-progress"
+            ],
             "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "DAH_entry_progress": {
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 41056,
                 "id_AniDB": 13900,
@@ -4001,6 +4244,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Show by Rock!!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 9729,
                 "id_AniDB": 10830,
@@ -4184,6 +4430,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Lapis Re:LiGHTs",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 41115,
                 "id_AniDB": 13973,
@@ -4216,6 +4465,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 42872,
                 "id_AniDB": 15313,
@@ -4269,6 +4521,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Hyouka",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6686,
                 "id_AniDB": 8855,
@@ -4338,6 +4593,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12678,
                 "id_AniDB": 13728,
@@ -4370,6 +4628,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Gamers!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12754,
                 "id_AniDB": 12494,
@@ -4446,6 +4707,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin Season 3 Part 2",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 41982,
                 "id_AniDB": 14444,
@@ -4572,6 +4836,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Teppen!!!!!!!!!!!!!!!",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45729,
                 "id_AniDB": 17118,
@@ -4674,6 +4942,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tari Tari",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6941,
                 "id_AniDB": 9077,
@@ -4708,6 +4979,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Oshi ga Budoukan Ittekuretara Shinu",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 41309,
                 "id_AniDB": 14087,
@@ -4839,6 +5113,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Koe no Katachi",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10028,
                 "id_AniDB": 10937,
@@ -4890,6 +5167,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Extreme Hearts",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Watching"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45855,
                 "id_AniDB": 17189,
@@ -4931,6 +5212,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Saenai Heroine no Sodatekata",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8406,
                 "id_AniDB": 10538,
@@ -4954,6 +5238,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Konohana Kitan",
+            "DAH_entry_progress": {
+                "episode": 3,
+                "status": "Temporarily On-Hold"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13752,
                 "id_AniDB": 13030,
@@ -4969,6 +5257,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "One Room",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12758,
                 "id_AniDB": 12550,
@@ -5020,6 +5312,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shigatsu wa Kimi no Uso",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8403,
                 "id_AniDB": 10539,
@@ -5043,6 +5338,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Seishun no Kage",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 10068,
                 "id_AniList": 20989,
@@ -5196,6 +5494,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Watching"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8091,
                 "id_AniDB": 10241,
@@ -5211,6 +5513,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "The iDOLM@STER Cinderella Girls",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8777,
                 "id_AniDB": 10585,
@@ -5226,6 +5531,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shelter",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12668,
                 "id_AniDB": 12482,
@@ -5324,6 +5632,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "The iDOLM@STER",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 6111,
                 "id_AniDB": 8218,
@@ -5379,6 +5690,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8638,
                 "id_AniDB": 10750,
@@ -5427,6 +5741,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+            "DAH_entry_progress": {
+                "episode": 2,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44187,
                 "id_AniDB": 16100,
@@ -5505,6 +5823,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shichisei no Subaru",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 40893,
                 "id_AniDB": 13439,
@@ -5520,6 +5841,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Toji no Miko",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13710,
                 "id_AniDB": 13172,
@@ -5535,6 +5859,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12794,
                 "id_AniDB": 12605,
@@ -5559,6 +5886,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Gochuumon wa Usagi Desu ka?",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8095,
                 "id_AniDB": 10262,
@@ -5574,6 +5904,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7160,
                 "id_AniDB": 8883,
@@ -5606,6 +5939,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8200,
                 "id_AniDB": 10245,
@@ -5621,6 +5957,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Arifureta Shokugyou de Sekai Saikyou",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 14043,
                 "id_AniDB": 13624,
@@ -5636,6 +5975,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tate no Yuusha no Nariagari",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13593,
                 "id_AniDB": 13246,
@@ -5659,6 +6001,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kimi no Na wa",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11614,
                 "id_AniDB": 11829,
@@ -5697,6 +6042,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Saenai Heroine no Sodatekata Fine",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 14050,
                 "id_AniDB": 13626,
@@ -5730,6 +6078,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Ao no Kanata no Four Rhythm",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_entry_bestGirl": "Kurashina Asuka"
         }
     },
@@ -5815,6 +6166,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin Season 2",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8671,
                 "id_AniDB": 10944,
@@ -5909,6 +6263,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "SELECTION PROJECT",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 44211,
                 "id_AniDB": 15904,
@@ -5940,6 +6297,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "BanG Dream! 2nd Season",
+            "DAH_entry_progress": {
+                "episode": 6,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 41289,
                 "id_AniDB": 14075,
@@ -6108,6 +6469,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love Live! School Idol Project Movie",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8531,
                 "id_AniDB": 10720,
@@ -6143,6 +6507,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13160,
                 "id_AniDB": 12500,
@@ -6304,6 +6671,10 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Prima Doll",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 45812,
                 "id_AniDB": 17156,
@@ -6397,6 +6768,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Show by Rock!! #",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 11494,
                 "id_AniDB": 11763,
@@ -6553,6 +6927,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sora no Method",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8337,
                 "id_AniDB": 10525,
@@ -6735,6 +7112,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Comic Girls",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13722,
                 "id_AniDB": 13238,
@@ -6750,6 +7130,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "BanG Dream!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 12330,
                 "id_AniDB": 12262,
@@ -6799,6 +7182,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Just Because!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13530,
                 "id_AniDB": 13199,
@@ -6899,6 +7285,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin Season 3",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 13569,
                 "id_AniDB": 13241,
@@ -6914,6 +7303,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Gakkougurashi!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 8644,
                 "id_AniDB": 10697,
@@ -6939,6 +7331,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sakurasou no Pet na Kanojo",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_additional_sources": {
                 "id_Kitsu": 7023,
                 "id_AniDB": 9153,

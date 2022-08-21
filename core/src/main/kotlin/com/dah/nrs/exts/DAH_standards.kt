@@ -256,7 +256,7 @@ fun AcceptImpact.InterestField(newField: Boolean, block: DSLImpact.() -> Unit = 
     }
 }
 
-fun AcceptImpact.Boredom(boredomLevel: Level, block: DSLImpact.() -> Unit = {}) {
+fun DSLEntry.Progress(boredomLevel: Level, episode: Int? = null) {
     Impact {
         description = "Boredom: ${boredomLevel.name}"
         score = vector {
@@ -265,8 +265,11 @@ fun AcceptImpact.Boredom(boredomLevel: Level, block: DSLImpact.() -> Unit = {}) 
         meta("type", "boredom")
         meta("boredom_level", boredomLevel.index)
         meta("boredom_level_name", boredomLevel.name)
-        block()
     }
+    meta("DAH_entry_progress", DSLMetaImpl().apply {
+        meta("status", boredomLevel.name)
+        episode?.let { meta("episode", it) }
+    })
 }
 
 fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Unit = {}) {
@@ -356,26 +359,37 @@ private fun calcVisualScore(b: Double, u: Double): Double {
 
 enum class VisualKind(val baseScore: Double) {
     Animated(3.0),
+
     // A-MAL-38009: https://animixplay.to/v1/restage-dream-days
     RPG3DGame(2.0),
+
     // G-VGMDB-1880: https://store.steampowered.com/app/1152310/Atelier_Escha__Logy_Alchemists_of_the_Dusk_Sky_DX/
     AnimatedShort(1.0),
+
     // A-MAL-34240: https://www.youtube.com/watch?v=fzQ6gRAEoy0
     AnimatedGachaCardArt(1.0),
+
     // (unranked): https://twitter.com/lapi_staff/status/1555750517887975425
     AnimatedMV(1.0),
+
     // M-VGMDB-AL-100087-1: https://www.youtube.com/watch?v=IqdpYyaLnNc
     SemiAnimatedMV(0.8),
+
     // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
     GachaCardArt(0.8),
+
     // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
     LightNovel(0.8),
+
     // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
     Manga(0.8),
+
     // L-MAL-126146 (unranked): https://en.wikipedia.org/wiki/Oshi_no_Ko#/media/File:Oshi_no_Ko_Volume_1.jpg
     VisualNovel(0.5),
+
     // V-VNDB-12849: https://danbooru.donmai.us/posts/2234064
     StaticMV(0.25),
+
     // M-VGMDB-AL-121168 (not canon): https://www.youtube.com/watch?v=hj_4YAVmmuI
     AlbumArt(0.25),
     // M-VGMDB-AL-121168 (canon): https://medium-media.vgm.io/albums/86/121168/121168-de8dcf1b4ceb.jpg

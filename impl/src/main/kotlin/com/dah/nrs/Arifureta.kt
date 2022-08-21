@@ -17,7 +17,7 @@ fun DSLScope.Arifureta() {
             title = "Arifureta Shokugyou de Sekai Saikyou"
             bestGirl = "Yue"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             // MC got dumped by his friends made me kinda angry
             NEI(2.5, Emotion.AU)

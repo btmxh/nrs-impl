@@ -70,7 +70,7 @@ fun DSLScope.GochiUsa() {
             bestGirl = "Kafuu Chino"
             // humor not that good tho
             NEI(3.0, Emotion.AP)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.4, 0.15)
         }
     }

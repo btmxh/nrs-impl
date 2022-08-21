@@ -47,7 +47,7 @@ fun DSLScope.OneRoom() {
             bestGirl = "Hanasaka Yui"
             seasonal = true
 
-            Boredom(Boredom.Dropped)
+            Progress(Boredom.Dropped, 4)
             Visual(VisualKind.Animated, 0.5, 0.25)
             FeatureMusic("M-VGMDB-AL-63666-1")
         }

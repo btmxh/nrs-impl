@@ -1,38 +1,57 @@
 import os
 import time
+from typing import Optional
 import requests
-from sync.changelist.change import ScoreChange, read_changelist
+
+from sync.services.service import AniListService
+from sync.changelist.entries import load_entries, Status
+from sync.changelist.change import read_changelist
 from sync.services.user_secrets import ANILIST_TOKEN
+
+
+def to_anilist_status(status: Optional[Status]):
+    if status == Status.Completed:
+        return 'COMPLETED'
+    elif status == Status.Watching:
+        return 'CURRENT'
+    elif status == Status.OnHold:
+        return 'PAUSED'
+    elif status == Status.Dropped:
+        return 'DROPPED'
+    else:
+        return 'PLANNING'
+
 
 print("AniList sync:")
 anilist_changelist = read_changelist('temp/al_changelist.txt')
-for id, changes in anilist_changelist.items():
+anilist_entries = load_entries(AniListService)
+for id in anilist_changelist:
     print(id)
-    if len(changes) == 0:
-        continue
-    mutation_args = "$mediaId: Int"
-    smle_args = "mediaId: $mediaId"
-    vars = {
-        "mediaId": id
-    }
-    for change in changes:
-        if isinstance(change, ScoreChange):
-            mutation_args += ", $score: Int"
-            smle_args += ", scoreRaw: $score"
-            vars["score"] = round(change.new_score * 10)
-    query = f"mutation({mutation_args}) {{ SaveMediaListEntry({smle_args}) {{id}} }}"
-    print(f"GraphQL Query: {query}")
+    entry = anilist_entries[id]
+    query = """
+        mutation($mediaId: Int, $score: Int, $episodes: Int, $status: MediaListStatus) {
+            SaveMediaListEntry(mediaId: $mediaId, scoreRaw: $score, progress: $episodes, status: $status) {
+                id
+            }
+        }
+    """
+    # print(f"GraphQL Query: {query}")
     response = requests.post('https://graphql.anilist.co',
                              json={
                                  'query': query,
-                                 'variables': vars
+                                 'variables': {
+                                     'mediaId': id,
+                                     'score': round(entry.score * 10),
+                                     'episodes': entry.episodes,
+                                     'status': to_anilist_status(entry.status)
+                                 }
                              },
                              headers={
                                  'Authorization': 'Bearer ' + ANILIST_TOKEN,
                                  'Content-Type': 'application/json',
                                  'Accept': 'application/json',
                              })
-    # print(response.json())
+    print(response.json())
     response.raise_for_status()
     time.sleep(1)
 os.remove('temp/al_changelist.txt')

@@ -17,7 +17,8 @@ fun DSLScope.BunnyGirlSenpai() {
             title = "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
             bestGirl = "Makinohara Shouko"
 
-            Boredom(Boredom.Dropped)
+            Progress(Boredom.Dropped)
+            ValidatorSuppress("dah-uncompleted-no-progress")
             // plot kinda ok
             NEI(5.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.6, 0.15)

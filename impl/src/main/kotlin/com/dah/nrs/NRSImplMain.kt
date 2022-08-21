@@ -42,7 +42,7 @@ fun main() =
 
             // iirc i liked this anime's plot
             AEI(3.0, Emotion.AP)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -57,7 +57,7 @@ fun main() =
 
             // ig it's kinda good
             NEI(3.0, Emotion.AP)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
@@ -86,7 +86,7 @@ fun main() =
             // and VMO2020 too.
             Meme(0.3, 10)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -119,7 +119,7 @@ fun main() =
             // gate-open literally all NRS entries
             // but it's too overkill so an impact instead
             AdditionalImpact("Gate-open anime", 1.0)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
@@ -132,7 +132,7 @@ fun main() =
             title = "Kono Bijutsubu ni wa Mondai ga Aru!"
 
             bestGirl = "Usami Mizuki"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -150,7 +150,7 @@ fun main() =
 
             // from nrs1
             AEI(2.5, Emotion.CU)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -170,7 +170,7 @@ fun main() =
             // iToddlers BTFO
             Meme(0.4, 25)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -192,7 +192,7 @@ fun main() =
             // this is very sad guys
             // no pads tho
             Cry(Emotion.CU)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.65, 0.35)
         }
 
@@ -208,7 +208,7 @@ fun main() =
 
             bestGirl = "Tendou Karen"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.3)
         }
 
@@ -226,7 +226,7 @@ fun main() =
             bestGirl = "Mizuno Akane"
             // ending sadge
             AEI(2.5, Emotion.CU)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -245,7 +245,7 @@ fun main() =
             // and now it's the duopoly era so
             // they got cucked
 //            status = EntryStatus.Watching
-            Boredom(Boredom.TempOnHold)
+            Progress(Boredom.TempOnHold, 3)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -261,7 +261,7 @@ fun main() =
             title = "Comic Girls"
             bestGirl = "Kaoruko Moeta"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             NEI(2.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -280,7 +280,8 @@ fun main() =
             bestGirl = "Takagi"
 
             // episodic ngl
-            Boredom(Boredom.Dropped)
+            Progress(Boredom.Dropped)
+            ValidatorSuppress("dah-uncompleted-no-progress")
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -295,7 +296,7 @@ fun main() =
             // lmfao
             bestGirl = "Washing Machine"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -310,7 +311,7 @@ fun main() =
             // facebook anime lmfao
             bestGirl = "Yamauchi Sakura"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             AEI(1.0, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
@@ -331,7 +332,7 @@ fun main() =
             // sad ending (i don't remember now lmfao)
             AEI(5.0, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         ShichiseiSubaru()
@@ -373,7 +374,7 @@ fun main() =
             bestGirl = "Tagitsuhime"
             // i hate my life
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             // decent plot ngl
             NEI(8.0, Emotion.AP)

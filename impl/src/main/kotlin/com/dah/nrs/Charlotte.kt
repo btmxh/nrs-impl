@@ -21,7 +21,7 @@ fun DSLScope.Charlotte() {
             Visual(VisualKind.Animated, 0.5, 0.1)
 
             PADS(3, Emotion.CU)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
     }
 }

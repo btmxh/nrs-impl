@@ -17,7 +17,7 @@ fun DSLScope.SthKara() {
             title = "Iroduku Sekai no Ashita kara"
             bestGirl = "Tsukishiro Hitomi"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             // ending was good
             AEI(2.5, Emotion.CU to 0.9, Emotion.AP to 0.1)
 

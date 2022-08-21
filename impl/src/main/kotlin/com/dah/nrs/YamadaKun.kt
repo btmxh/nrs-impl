@@ -20,7 +20,7 @@ fun DSLScope.YamadaKun() {
 
             FeatureMusic("M-VGMDB-AL-51918-1")
             FeatureMusic("M-VGMDB-AL-52045-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 

@@ -19,7 +19,7 @@ fun DSLScope.SwordArtOnline() {
 
             bestGirl = "Yuuki Asuna"
             FeatureMusic("M-VGMDB-AL-33537-1")
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.4, 0.25)
         }
 
@@ -32,7 +32,7 @@ fun DSLScope.SwordArtOnline() {
             title = "Sword Art Online II"
 
             bestGirl = "Yuuki Asuna"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.4, 0.25)
         }
 
@@ -45,7 +45,7 @@ fun DSLScope.SwordArtOnline() {
             title = "Sword Art Online Movie: Ordinal Scale"
 
             bestGirl = "Yuuki Asuna"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.25)
         }
 

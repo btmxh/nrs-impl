@@ -126,12 +126,6 @@ class DSLScope(override val context: NRSContext) : AcceptIRE {
 class DSLEntry(override val root: DSLScope) : AcceptIRE, AcceptEntryContains, DSLMeta, IEntry {
     override val context: NRSContext get() = root.context
     override var id: String = ""
-    var title by stringMeta("DAH_entry_title")
-    var bestGirl by stringMeta("DAH_entry_bestGirl")
-    var idMAL by intMeta("DAH_additional_sources", "id_MyAnimeList")
-    var idAniList by intMeta("DAH_additional_sources", "id_AniList")
-    var idAniDB by intMeta("DAH_additional_sources", "id_AniDB")
-    var idKitsu by intMeta("DAH_additional_sources", "id_Kitsu")
     var seasonal: Boolean = false
     override val children = mutableMapOf<String, Double>()
 
@@ -183,9 +177,9 @@ fun generate(block: DSLScope.() -> Unit) {
         DAH_overall_score = DAH_overall_score(this)
         DAH_serialize = DAH_serialize(this)
         DAH_serialize_json = DAH_serialize_json(this)
-        DAH_meta = DAH_meta(this)
         DAH_standards = DAH_standards(this)
         DAH_anime_normalize = DAH_anime_normalize(this)
+        DAH_meta = DAH_meta(this)
     }
 
     val scope = DSLScope(ctx).also(block)

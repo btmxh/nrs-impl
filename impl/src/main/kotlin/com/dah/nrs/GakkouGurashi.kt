@@ -58,7 +58,7 @@ fun DSLScope.GakkouGurashi() {
 
             Visual(VisualKind.Animated, 0.6, 0.25)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
     }
 }

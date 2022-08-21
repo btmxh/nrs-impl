@@ -27,7 +27,7 @@ fun DSLScope.AOT() {
             idAniDB = 9541
             idKitsu = 7442
             bestGirl = "Ackerman Mikasa"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
@@ -39,7 +39,7 @@ fun DSLScope.AOT() {
             idAniDB = 10944
             idKitsu = 8671
             bestGirl = "Ackerman Mikasa"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
@@ -51,7 +51,7 @@ fun DSLScope.AOT() {
             idAniDB = 13241
             idKitsu = 13569
             bestGirl = "Ackerman Mikasa"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
@@ -68,7 +68,7 @@ fun DSLScope.AOT() {
             idAniDB = 14444
             idKitsu = 41982
             bestGirl = "Ackerman Mikasa"
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             AEI(5.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }

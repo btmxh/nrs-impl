@@ -39,7 +39,7 @@ fun DSLScope.Irodori() {
             title = "Irodorimidori"
             bestGirl = "Nagi Kobotoke"
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.AnimatedShort, 0.4, 0.2)
         }
 

@@ -20,7 +20,7 @@ fun DSLScope.Aokana() {
             // bestGirl = "Satouin Reiko" // the sango/rosia of aokana
 
             // the asuka route is completed
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
 
             // Aokana made me love Asuka for like 2 weeks
             // which is good

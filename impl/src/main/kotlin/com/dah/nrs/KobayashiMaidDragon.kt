@@ -48,7 +48,7 @@ fun DSLScope.KobayashiMaidDragon() {
 
             Visual(VisualKind.Animated, 0.6, 0.3)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             FeatureMusic("M-VGMDB-AL-62516-1")
         }
     }

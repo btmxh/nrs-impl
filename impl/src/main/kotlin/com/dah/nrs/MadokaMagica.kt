@@ -109,7 +109,7 @@ fun DSLScope.MadokaMagica() {
             // Kyoko's backstory
             AEI(9.0, Emotion.CU)
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-23391-1")
@@ -128,7 +128,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Kaname Madoka"
             // I can't understand this movie lol
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-41292-1")
@@ -198,7 +198,7 @@ fun DSLScope.MadokaMagica() {
 
             // Emotional impacts are all in the game
             // (Madokami's MGS, Sana's backstory)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // Gate-opened gacha games
@@ -219,7 +219,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Tamaki Iroha"
             seasonal = true
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // the animation tho
@@ -246,7 +246,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Tamaki Iroha"
             seasonal = true
 
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // :troll-despair:

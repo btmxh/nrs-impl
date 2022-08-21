@@ -20,7 +20,7 @@ fun DSLScope.SelePro() {
             bestGirl = "Koizumi Uta"
 
             Cry(Emotion.CU)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.3)
 
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
