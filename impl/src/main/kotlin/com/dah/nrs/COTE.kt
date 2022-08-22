@@ -41,7 +41,7 @@ fun DSLScope.COTE() {
             // we are not the same
             // (trust me u don't want us to be the same lmfao)
 
-            Progress(Boredom.Watching, 7)
+            Progress(Boredom.Watching, 8)
             // a lil bit worse than s1 (but still not that bad)
             Visual(VisualKind.Animated, 0.6, 0.2)
 
