@@ -345,6 +345,20 @@ fun main() =
         ReStage()
         OnsenMusume()
         LapisReLights()
+
+        Entry {
+            id = "A-MAL-37744"    // generated
+            idMAL = 37744
+            idAniList = 101547
+            idKitsu = 42319
+            idAniDB = 14038
+            title = "Isekai Cheat Magician"
+            bestGirl = "Azuma Rin"
+
+            Progress(Boredom.Dropped, 8)
+            Visual(VisualKind.Animated, 0.6, 0.2)
+        }
+
         Kano()
 
         Aokana()

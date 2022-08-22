@@ -6247,6 +6247,25 @@
             "DAH_entry_title": "Hello Alone"
         }
     },
+    "A-MAL-37744": {
+        "id": "A-MAL-37744",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Isekai Cheat Magician",
+            "DAH_entry_progress": {
+                "episode": 8,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14038,
+                "id_Kitsu": 42319,
+                "id_AniList": 101547,
+                "id_MyAnimeList": 37744
+            },
+            "DAH_entry_bestGirl": "Azuma Rin"
+        }
+    },
     "F-VGMDB-8677": {
         "id": "F-VGMDB-8677",
         "children": {
