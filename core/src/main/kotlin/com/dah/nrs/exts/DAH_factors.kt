@@ -68,7 +68,7 @@ object Art : SubscoreImpl(0.7) {
     override val factors = listOf(L, V, M)
 }
 
-object Boredom : OneFactorSubscore(9, 0.0)
+object Boredom : OneFactorSubscore(9, 0.05)
 object Additional : OneFactorSubscore(10)
 
 fun VectorBlock.set(factorScore: FactorScore, score: Double) = set(factorScore.vectorIndex, score)
