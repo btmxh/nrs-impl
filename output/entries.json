@@ -1454,6 +1454,25 @@
             "DAH_entry_title": "THE IDOLM@STER"
         }
     },
+    "A-MAL-40174": {
+        "id": "A-MAL-40174",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Zombieland Saga: Revenge",
+            "DAH_entry_progress": {
+                "episode": 7,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15028,
+                "id_Kitsu": 42467,
+                "id_AniList": 110733,
+                "id_MyAnimeList": 40174
+            },
+            "DAH_entry_bestGirl": "Minamoto Sakura"
+        }
+    },
     "M-VGMDB-AL-93299-2": {
         "id": "M-VGMDB-AL-93299-2",
         "children": {
@@ -6102,6 +6121,24 @@
             "DAH_entry_bestGirl": "Kurashina Asuka"
         }
     },
+    "A-MAL-37976": {
+        "id": "A-MAL-37976",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Zombieland Saga",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14198,
+                "id_Kitsu": 41459,
+                "id_AniList": 103871,
+                "id_MyAnimeList": 37976
+            },
+            "DAH_entry_bestGirl": "Minamoto Sakura"
+        }
+    },
     "M-VGMDB-AL-61940-1": {
         "id": "M-VGMDB-AL-61940-1",
         "children": {
@@ -6868,6 +6905,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Pastel*Palletes"
+        }
+    },
+    "F-VGMDB-9825": {
+        "id": "F-VGMDB-9825",
+        "children": {
+            "A-MAL-37976": 1.0,
+            "A-MAL-40174": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "ZOMBIE LAND SAGA"
         }
     },
     "M-VGMDB-AR-31329": {

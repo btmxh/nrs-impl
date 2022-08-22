@@ -375,6 +375,8 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
+        ZombielandSaga()
+
         Kano()
 
         Aokana()
