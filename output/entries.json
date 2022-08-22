@@ -465,6 +465,24 @@
             "DAH_entry_title": "crossing field"
         }
     },
+    "A-MAL-37926": {
+        "id": "A-MAL-37926",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Nakanohito Genome [Jikkyouchuu]",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14100,
+                "id_Kitsu": 41336,
+                "id_AniList": 102926,
+                "id_MyAnimeList": 37926
+            },
+            "DAH_entry_bestGirl": "Sarayashiki Karin"
+        }
+    },
     "A-MAL-11757": {
         "id": "A-MAL-11757",
         "children": {

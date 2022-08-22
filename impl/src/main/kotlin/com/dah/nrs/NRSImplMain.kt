@@ -359,6 +359,22 @@ fun main() =
             Visual(VisualKind.Animated, 0.6, 0.2)
         }
 
+        Entry {
+            id = "A-MAL-37926"    // generated
+            idMAL = 37926
+            idAniList = 102926
+            idKitsu = 41336
+            idAniDB = 14100
+            title = "Nakanohito Genome [Jikkyouchuu]"
+            bestGirl = "Sarayashiki Karin"
+            // akari kito va lmfao
+
+            Progress(Boredom.Completed)
+            // this was funny af (iirc), really enjoyed it
+            AEI(6.0, Emotion.AP)
+            Visual(VisualKind.Animated, 0.5, 0.3)
+        }
+
         Kano()
 
         Aokana()
