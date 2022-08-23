@@ -2197,6 +2197,15 @@
             "DAH_entry_title": "Toda Megumi"
         }
     },
+    "M-VGMDB-AL-116977": {
+        "id": "M-VGMDB-AL-116977",
+        "children": {
+            "M-VGMDB-AL-116977-11": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "KAGUYA ♡ ULTRA BEST"
+        }
+    },
     "M-VGMDB-AL-43320-7": {
         "id": "M-VGMDB-AL-43320-7",
         "children": {
@@ -2764,6 +2773,24 @@
             "DAH_entry_title": "Scop"
         }
     },
+    "A-MAL-40591": {
+        "id": "A-MAL-40591",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+            "DAH_entry_progress": {
+                "status": "Unwatched"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15207,
+                "id_Kitsu": 42632,
+                "id_AniList": 112641,
+                "id_MyAnimeList": 40591
+            },
+            "DAH_entry_bestGirl": "Kobachi Osaragi"
+        }
+    },
     "A-MAL-40356": {
         "id": "A-MAL-40356",
         "children": {
@@ -3249,12 +3276,39 @@
             "DAH_entry_bestGirl": "Tamaki Iroha"
         }
     },
+    "A-MAL-43608": {
+        "id": "A-MAL-43608",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "DAH_entry_progress": {
+                "status": "Unwatched"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15806,
+                "id_Kitsu": 43691,
+                "id_AniList": 125367,
+                "id_MyAnimeList": 43608
+            },
+            "DAH_entry_bestGirl": "Kobachi Osaragi"
+        }
+    },
     "M-VGMDB-AL-80802-10": {
         "id": "M-VGMDB-AL-80802-10",
         "children": {
         },
         "DAH_meta": {
             "DAH_entry_title": "Dokipipo☆Emotion"
+        }
+    },
+    "M-VGMDB-AL-83397": {
+        "id": "M-VGMDB-AL-83397",
+        "children": {
+            "M-VGMDB-AL-83397-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Chikatto Chika Chika♡"
         }
     },
     "M-VGMDB-AL-46042-1": {
@@ -5226,6 +5280,14 @@
             "DAH_entry_title": "Ai no Supreme!"
         }
     },
+    "M-VGMDB-AL-83397-1": {
+        "id": "M-VGMDB-AL-83397-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Chikatto Chika Chika♡"
+        }
+    },
     "M-VGMDB-AL-78516-1": {
         "id": "M-VGMDB-AL-78516-1",
         "children": {
@@ -5332,6 +5394,19 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Azure Reunion"
+        }
+    },
+    "F-VGMDB-7021": {
+        "id": "F-VGMDB-7021",
+        "children": {
+            "M-VGMDB-AL-83397": 1.0,
+            "M-VGMDB-AL-116977": 1.0,
+            "A-MAL-37999": 1.0,
+            "A-MAL-40591": 1.0,
+            "A-MAL-43608": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai ~Tensaitachi no Ren'ai Zunousen~"
         }
     },
     "M-VGMDB-AL-68276": {
@@ -5692,6 +5767,25 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "NEW GAME!"
+        }
+    },
+    "A-MAL-37999": {
+        "id": "A-MAL-37999",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "DAH_entry_progress": {
+                "episode": 9,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14111,
+                "id_Kitsu": 41373,
+                "id_AniList": 101921,
+                "id_MyAnimeList": 37999
+            },
+            "DAH_entry_bestGirl": "Hayasaka Ai"
         }
     },
     "M-VGMDB-AL-93440": {
