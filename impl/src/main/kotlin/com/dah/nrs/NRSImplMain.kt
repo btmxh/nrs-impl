@@ -671,6 +671,24 @@ fun main() =
             NEI(8.0, Emotion.AP to 1.0)
         }
 
+        Entry {
+            id = "A-MAL-48483"    // generated
+            idMAL = 48483
+            idAniList = 131083
+            idKitsu = 44185
+            idAniDB = 16132
+            title = "Mieruko-chan"
+
+            // "babe pls have sex with me im so horny"
+            // "haha the ortensia incident"
+            bestGirl = "Yotsuya Kyousuke"
+
+            Progress(Boredom.Dropped, 5)
+            Visual(VisualKind.Animated, 0.3, 0.6)
+            KilledBy("F-VGMDB-3245", 0.2, 0.2)
+            KilledBy("F-VGMDB-7059", 0.2, 0.2)
+        }
+
         Kano()
 
         Aokana()

@@ -6357,6 +6357,25 @@
             "DAH_entry_bestGirl": "Megumi Kato"
         }
     },
+    "A-MAL-48483": {
+        "id": "A-MAL-48483",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Mieruko-chan",
+            "DAH_entry_progress": {
+                "episode": 5,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 16132,
+                "id_Kitsu": 44185,
+                "id_AniList": 131083,
+                "id_MyAnimeList": 48483
+            },
+            "DAH_entry_bestGirl": "Yotsuya Kyousuke"
+        }
+    },
     "M-VGMDB-AL-85537": {
         "id": "M-VGMDB-AL-85537",
         "children": {
