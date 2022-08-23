@@ -689,6 +689,23 @@ fun main() =
             KilledBy("F-VGMDB-7059", 0.2, 0.2)
         }
 
+        Entry {
+            id = "A-MAL-48644"    // generated
+            idMAL = 48644
+            idAniList = 131878
+            idKitsu = 44300
+            idAniDB = 16184
+            title = "Gyakuten Sekai no Denchi Shoujo"
+            bestGirl = "Akagi Rin"
+
+            // denchi shoujo my fucking beloved wtf i love this so fking much
+            AEI(5.0, Emotion.MP to 0.5, Emotion.AP to 0.5)
+            Progress(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.4, 0.3)
+            KilledBy("F-VGMDB-3245", 0.3, 0.15)
+            KilledBy("F-VGMDB-7059", 0.3, 0.15)
+        }
+
         Kano()
 
         Aokana()
