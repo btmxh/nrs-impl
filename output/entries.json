@@ -3836,6 +3836,14 @@
             "DAH_entry_bestGirl": "Usami Mizuki"
         }
     },
+    "M-VGMDB-AL-106487-1": {
+        "id": "M-VGMDB-AL-106487-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "IDOLY PRIDE"
+        }
+    },
     "M-VGMDB-AL-111027": {
         "id": "M-VGMDB-AL-111027",
         "children": {
@@ -4550,6 +4558,24 @@
             "DAH_entry_bestGirl": "method"
         }
     },
+    "A-MAL-41619": {
+        "id": "A-MAL-41619",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Munou na Nana",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15492,
+                "id_Kitsu": 43534,
+                "id_AniList": 117343,
+                "id_MyAnimeList": 41619
+            },
+            "DAH_entry_bestGirl": "Hiiragi Nana"
+        }
+    },
     "O-3": {
         "id": "O-3",
         "children": {
@@ -4799,6 +4825,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Daydream café"
+        }
+    },
+    "F-VGMDB-9358": {
+        "id": "F-VGMDB-9358",
+        "children": {
+            "A-MAL-40842": 1.0,
+            "M-VGMDB-AL-106487": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Idoly Pride"
         }
     },
     "F-VGMDB-7059": {
@@ -5186,6 +5222,43 @@
                 "id_MyAnimeList": 34284
             },
             "DAH_entry_bestGirl": "Tougou Mimori"
+        }
+    },
+    "A-MAL-40842": {
+        "id": "A-MAL-40842",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Idoly Pride",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15301,
+                "id_Kitsu": 42868,
+                "id_AniList": 113814,
+                "id_MyAnimeList": 40842
+            },
+            "DAH_entry_bestGirl": "Kawasaki Sakura"
+        }
+    },
+    "A-MAL-41930": {
+        "id": "A-MAL-41930",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kamisama ni Natta Hi",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15559,
+                "id_Kitsu": 43204,
+                "id_AniList": 118419,
+                "id_MyAnimeList": 41930
+            },
+            "DAH_entry_bestGirl": "Izanami Kyouko"
         }
     },
     "M-VGMDB-AL-87199-1": {
@@ -6379,6 +6452,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yell and Response"
+        }
+    },
+    "M-VGMDB-AL-106487": {
+        "id": "M-VGMDB-AL-106487",
+        "children": {
+            "M-VGMDB-AL-106487-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "IDOLY PRIDE"
         }
     },
     "M-VGMDB-AL-86622-2": {

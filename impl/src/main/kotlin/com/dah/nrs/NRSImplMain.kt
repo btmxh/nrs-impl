@@ -552,6 +552,38 @@ fun main() =
         RentAGirlfriend()
         ToniKawa()
 
+        Entry {
+            id = "A-MAL-41619"    // generated
+            idMAL = 41619
+            idAniList = 117343
+            idKitsu = 43534
+            idAniDB = 15492
+            title = "Munou na Nana"
+            bestGirl = "Hiiragi Nana"
+
+            Visual(VisualKind.Animated, 0.4, 0.5)
+            Progress(Boredom.Completed)
+            KilledBy("F-VGMDB-2588", 0.5, 0.3)
+            // plot is very good
+            AEI(4.0, Emotion.AP)
+        }
+
+        Entry {
+            id = "A-MAL-41930"    // generated
+            idMAL = 41930
+            idAniList = 118419
+            idKitsu = 43204
+            idAniDB = 15559
+            title = "Kamisama ni Natta Hi"
+            bestGirl = "Izanami Kyouko"
+
+            Visual(VisualKind.Animated, 0.6, 0.4)
+            Progress(Boredom.Dropped, 4)
+            KilledBy("F-VGMDB-2588", 0.6, 0.5)
+        }
+
+        Aipura()
+
         Kano()
 
         Aokana()
