@@ -136,7 +136,7 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
-        KimiNawa()
+        ShinkaiMovies()
 
         Entry {
             id = "A-MAL-32729"    // generated

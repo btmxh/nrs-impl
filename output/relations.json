@@ -3438,6 +3438,31 @@
     },
     {
         "contributors": {
+            "A-MAL-38826": 1.0
+        },
+        "references": {
+            "M-VGMDB-AL-87003": {
+                "kind": "diagonal",
+                "data": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.2,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "DAH_meta": {
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-33206": 1.0
         },
         "references": {

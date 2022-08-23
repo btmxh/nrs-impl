@@ -705,6 +705,15 @@
             "DAH_entry_title": "Bokura no Neiro"
         }
     },
+    "M-VGMDB-AL-87003": {
+        "id": "M-VGMDB-AL-87003",
+        "children": {
+            "M-VGMDB-AL-87003-28": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tenki no Ko"
+        }
+    },
     "M-VGMDB-AL-78536": {
         "id": "M-VGMDB-AL-78536",
         "children": {
@@ -2348,6 +2357,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Love U my friends"
+        }
+    },
+    "F-VGMDB-7292": {
+        "id": "F-VGMDB-7292",
+        "children": {
+            "A-MAL-38826": 1.0,
+            "M-VGMDB-AL-87003": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tenki no Ko"
         }
     },
     "A-MAL-27441": {
@@ -6597,6 +6616,14 @@
             "DAH_entry_bestGirl": "Yuigahama Yui"
         }
     },
+    "M-VGMDB-AL-87003-28": {
+        "id": "M-VGMDB-AL-87003-28",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Grand Escape (Movie Edit) [feat. Toko Miura]"
+        }
+    },
     "M-VGMDB-AL-71404-2": {
         "id": "M-VGMDB-AL-71404-2",
         "children": {
@@ -7858,6 +7885,24 @@
                 "id_MyAnimeList": 37976
             },
             "DAH_entry_bestGirl": "Minamoto Sakura"
+        }
+    },
+    "A-MAL-38826": {
+        "id": "A-MAL-38826",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tenki no Ko",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14534,
+                "id_Kitsu": 42028,
+                "id_AniList": 106286,
+                "id_MyAnimeList": 38826
+            },
+            "DAH_entry_bestGirl": "Amano Hina"
         }
     },
     "M-VGMDB-AL-61940-1": {
