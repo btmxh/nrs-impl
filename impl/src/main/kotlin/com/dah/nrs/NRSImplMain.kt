@@ -443,6 +443,19 @@ fun main() =
         HelloWorld()
         RikeKoi()
 
+        Entry {
+            id = "A-MAL-39324"    // generated
+            idMAL = 39324
+            idAniList = 107956
+            idKitsu = 42203
+            idAniDB = 14693
+            title = "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai."
+            bestGirl = "Latina"
+
+            Progress(Boredom.Dropped, 4)
+            Visual(VisualKind.Animated, 0.4, 0.4)
+        }
+
         Kano()
 
         Aokana()

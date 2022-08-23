@@ -3810,6 +3810,25 @@
             "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
     },
+    "A-MAL-39324": {
+        "id": "A-MAL-39324",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14693,
+                "id_Kitsu": 42203,
+                "id_AniList": 107956,
+                "id_MyAnimeList": 39324
+            },
+            "DAH_entry_bestGirl": "Latina"
+        }
+    },
     "M-VGMDB-AL-95313-1": {
         "id": "M-VGMDB-AL-95313-1",
         "children": {
