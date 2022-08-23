@@ -3328,6 +3328,15 @@
             "DAH_entry_bestGirl": "Tamaki Iroha"
         }
     },
+    "M-VGMDB-AL-113660": {
+        "id": "M-VGMDB-AL-113660",
+        "children": {
+            "M-VGMDB-AL-113660-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koko de Ikiteru"
+        }
+    },
     "M-VGMDB-AL-104783": {
         "id": "M-VGMDB-AL-104783",
         "children": {
@@ -3662,6 +3671,14 @@
                 "id_MyAnimeList": 30419
             },
             "DAH_entry_bestGirl": "Shimada Mayu"
+        }
+    },
+    "M-VGMDB-AL-113531-1": {
+        "id": "M-VGMDB-AL-113531-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kodou"
         }
     },
     "F-VGMDB-2633": {
@@ -5061,6 +5078,15 @@
             "DAH_entry_bestGirl": "Tiara"
         }
     },
+    "M-VGMDB-AL-113531": {
+        "id": "M-VGMDB-AL-113531",
+        "children": {
+            "M-VGMDB-AL-113531-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kodou"
+        }
+    },
     "M-VGMDB-AL-86592-1": {
         "id": "M-VGMDB-AL-86592-1",
         "children": {
@@ -5848,6 +5874,14 @@
             "DAH_entry_title": "Kaika Sengen"
         }
     },
+    "M-VGMDB-AL-113660-1": {
+        "id": "M-VGMDB-AL-113660-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koko de Ikiteru"
+        }
+    },
     "M-VGMDB-AR-17342": {
         "id": "M-VGMDB-AR-17342",
         "children": {
@@ -6445,6 +6479,17 @@
             "DAH_entry_title": "Silhouette"
         }
     },
+    "F-VGMDB-9850": {
+        "id": "F-VGMDB-9850",
+        "children": {
+            "A-MAL-46471": 1.0,
+            "M-VGMDB-AL-113531": 1.0,
+            "M-VGMDB-AL-113660": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tantei wa Mou, Shindeiru."
+        }
+    },
     "M-VGMDB-AL-93441": {
         "id": "M-VGMDB-AL-93441",
         "children": {
@@ -6844,6 +6889,24 @@
                 "id_MyAnimeList": 14741
             },
             "DAH_entry_bestGirl": "Nibutani Shinka"
+        }
+    },
+    "A-MAL-46471": {
+        "id": "A-MAL-46471",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tantei wa Mou, Shindeiru.",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15998,
+                "id_Kitsu": 44022,
+                "id_AniList": 128712,
+                "id_MyAnimeList": 46471
+            },
+            "DAH_entry_bestGirl": "Natsunagi Nagisa"
         }
     },
     "M-VGMDB-AL-99272-12": {

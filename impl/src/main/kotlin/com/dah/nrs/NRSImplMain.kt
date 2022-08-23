@@ -583,6 +583,7 @@ fun main() =
         }
 
         Aipura()
+        Tanmoshi()
 
         Kano()
 
