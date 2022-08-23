@@ -635,6 +635,26 @@ fun main() =
             FeatureMusic("M-VGMDB-AL-111089-5")
         }
 
+        Entry {
+            id = "A-MAL-44203"    // generated
+            idMAL = 44203
+            idAniList = 126546
+            idKitsu = 44174
+            idAniDB = 15875
+            title = "Seirei Gensouki"
+            // kimi no rhapsody girl
+            bestGirl = "Claire Celia"
+
+            // the hoan tinh anime pt.1
+            // from ep 5 to 10 there's no hoan tinh madge
+            Progress(Boredom.PartiallyDropped(0.25))
+            Visual(VisualKind.Animated, 0.6, 0.4)
+            KilledBy("A-MAL-41530", 0.1, 0.3)
+
+            // lol
+            AEI(5.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
+        }
+
         Kano()
 
         Aokana()

@@ -1,4 +1,22 @@
 {
+    "A-MAL-44203": {
+        "id": "A-MAL-44203",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Seirei Gensouki",
+            "DAH_entry_progress": {
+                "status": "Partially dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15875,
+                "id_Kitsu": 44174,
+                "id_AniList": 126546,
+                "id_MyAnimeList": 44203
+            },
+            "DAH_entry_bestGirl": "Claire Celia"
+        }
+    },
     "M-VGMDB-AL-99272": {
         "id": "M-VGMDB-AL-99272",
         "children": {
