@@ -303,7 +303,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 // [plasmagunstepgica]
                 ReStepMusic(3.0)
-                OsuSong(personal = 0.2)
+                OsuSong(personal = 2.0)
             }
         }
 

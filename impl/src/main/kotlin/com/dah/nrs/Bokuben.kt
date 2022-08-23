@@ -52,7 +52,7 @@ fun DSLScope.Bokuben() {
 
             SubIDEntry("1") {
                 Music(2.5)
-                OsuSong(personal = 0.2)
+                OsuSong(personal = 2.0)
             }
         }
 
@@ -64,7 +64,7 @@ fun DSLScope.Bokuben() {
 
             SubIDEntry("1") {
                 Music(2.5)
-                OsuSong(personal = 0.1)
+                OsuSong(personal = 1.0)
             }
         }
     }

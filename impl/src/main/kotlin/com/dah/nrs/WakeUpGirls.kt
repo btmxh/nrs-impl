@@ -142,7 +142,7 @@ fun DSLScope.WakeUpGirls() {
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         SubIDEntry("1") {
-            OsuSong(personal = 0.5, community = 0.1)
+            OsuSong(personal = 5.0, community = 1.0)
             Music(6.0)
         }
     }

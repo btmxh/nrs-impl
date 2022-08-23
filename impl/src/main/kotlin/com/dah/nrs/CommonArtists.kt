@@ -303,7 +303,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     Music(4.0)
-                    OsuSong(personal = 0.4, community = 0.0)
+                    OsuSong(personal = 4.0, community = 0.0)
                 }
             }
         }
