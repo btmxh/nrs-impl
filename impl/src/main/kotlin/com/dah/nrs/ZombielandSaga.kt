@@ -34,6 +34,7 @@ fun DSLScope.ZombielandSaga() {
             // the zombieland saga incident
             Progress(Boredom.Dropped, 7)
             Visual(VisualKind.Animated, 0.4, 0.5)
+            KilledBy("V-VNDB-12849", 0.3, 0.2)
         }
     }
 }
