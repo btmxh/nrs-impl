@@ -14,7 +14,7 @@ import com.dah.nrs.seasonal.Spring2022
 import com.dah.nrs.seasonal.Summer2022
 
 // custom id counters:
-// M-66
+// M-67
 // A-1
 // L-1
 // G-1
@@ -477,6 +477,8 @@ fun main() =
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
+
+        D4DJ()
 
         Kano()
 

@@ -967,6 +967,16 @@
             "DAH_entry_title": "CheerS"
         }
     },
+    "M-66": {
+        "id": "M-66",
+        "children": {
+            "M-VGMDB-AL-107257": 0.6000000000000001,
+            "M-VGMDB-AL-108580-2": 0.6000000000000001
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Happy Around!"
+        }
+    },
     "M-VGMDB-AR-15998": {
         "id": "M-VGMDB-AR-15998",
         "children": {
@@ -3797,6 +3807,24 @@
             "DAH_entry_bestGirl": "Ram"
         }
     },
+    "A-MAL-39681": {
+        "id": "A-MAL-39681",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "D4DJ: First Mix",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14815,
+                "id_Kitsu": 43557,
+                "id_AniList": 115069,
+                "id_MyAnimeList": 39681
+            },
+            "DAH_entry_bestGirl": "Aimoto Rinku"
+        }
+    },
     "M-VGMDB-AL-51276-2": {
         "id": "M-VGMDB-AL-51276-2",
         "children": {
@@ -5330,6 +5358,18 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Petit Rabbit's"
+        }
+    },
+    "F-VGMDB-8339": {
+        "id": "F-VGMDB-8339",
+        "children": {
+            "A-MAL-39681": 1.0,
+            "M-66": 1.0,
+            "M-VGMDB-AL-107257": 1.0,
+            "M-VGMDB-AL-108580": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "D4DJ"
         }
     },
     "M-8": {
@@ -7167,6 +7207,15 @@
             "DAH_entry_title": "Connect"
         }
     },
+    "M-VGMDB-AL-107257": {
+        "id": "M-VGMDB-AL-107257",
+        "children": {
+            "M-VGMDB-AL-107257-3": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Guruguru DJ TURN!!"
+        }
+    },
     "F-VGMDB-4000": {
         "id": "F-VGMDB-4000",
         "children": {
@@ -7232,6 +7281,18 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+        }
+    },
+    "M-VGMDB-AL-108580": {
+        "id": "M-VGMDB-AL-108580",
+        "children": {
+            "M-VGMDB-AL-108580-2": 1.0
+        },
+        "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-visualless-entry"
+            ],
+            "DAH_entry_title": "D4DJ Special Disc Photon Maiden Ver. "
         }
     },
     "M-VGMDB-AL-89431-1": {
@@ -7859,6 +7920,14 @@
             "DAH_entry_bestGirl": "Ichigaya Arisa"
         }
     },
+    "M-VGMDB-AL-108580-2": {
+        "id": "M-VGMDB-AL-108580-2",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Brand New World"
+        }
+    },
     "M-43": {
         "id": "M-43",
         "children": {
@@ -7965,6 +8034,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Seishun wa Non-Stop! (Asterisk DnB Remix)"
+        }
+    },
+    "M-VGMDB-AL-107257-3": {
+        "id": "M-VGMDB-AL-107257-3",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Guruguru DJ TURN!!"
         }
     },
     "M-VGMDB-AL-58750": {
