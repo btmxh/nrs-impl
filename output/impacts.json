@@ -19906,6 +19906,99 @@
     },
     {
         "contributors": {
+            "A-MAL-41389": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.04,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.6,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-41389": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-104618": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.08666666666666667,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.6,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-104618-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.2000000000000002,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 4.0,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369": 1.0
         },
         "score": [

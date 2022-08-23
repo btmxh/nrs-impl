@@ -550,6 +550,7 @@ fun main() =
         }
 
         RentAGirlfriend()
+        ToniKawa()
 
         Kano()
 

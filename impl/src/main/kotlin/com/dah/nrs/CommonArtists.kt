@@ -549,6 +549,11 @@ fun DSLScope.CommonArtists() {
 
         Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
+
+        Contains(
+            "M-VGMDB-AL-104618",
+            MusicVocalContainFactor + MusicImageContainFactor * MusicFeatArtistFactor
+        )
     }
 
     Entry {
@@ -979,5 +984,15 @@ fun DSLScope.CommonArtists() {
                 }
             }
         }
+    }
+
+    Entry {
+        id = "M-VGMDB-AR-30942"
+        title = "Yunomi" // the "kawaii future bass" dude
+
+        Contains(
+            "M-VGMDB-AL-104618",
+            MusicInstContainFactor + MusicImageContainFactor * MusicMainArtistFactor
+        )
     }
 }

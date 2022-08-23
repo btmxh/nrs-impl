@@ -171,6 +171,15 @@
             "DAH_entry_title": "Good Day by Day"
         }
     },
+    "M-VGMDB-AR-30942": {
+        "id": "M-VGMDB-AR-30942",
+        "children": {
+            "M-VGMDB-AL-104618": 0.52
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Yunomi"
+        }
+    },
     "M-60": {
         "id": "M-60",
         "children": {
@@ -820,7 +829,8 @@
         "id": "M-VGMDB-AR-26898",
         "children": {
             "M-VGMDB-AR-30829": 0.16666666666666666,
-            "M-VGMDB-AR-29922": 0.09090909090909091
+            "M-VGMDB-AR-29922": 0.09090909090909091,
+            "M-VGMDB-AL-104618": 0.48000000000000004
         },
         "DAH_meta": {
             "DAH_entry_title": "Kito Akari"
@@ -1582,6 +1592,25 @@
             "DAH_entry_title": "367Days"
         }
     },
+    "A-MAL-41389": {
+        "id": "A-MAL-41389",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tonikaku Kawaii",
+            "DAH_entry_progress": {
+                "episode": 1,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15421,
+                "id_Kitsu": 43034,
+                "id_AniList": 116267,
+                "id_MyAnimeList": 41389
+            },
+            "DAH_entry_bestGirl": "Yuzaki Tsukasa"
+        }
+    },
     "M-VGMDB-AR-12225": {
         "id": "M-VGMDB-AR-12225",
         "children": {
@@ -2024,6 +2053,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "One Step"
+        }
+    },
+    "F-VGMDB-10135": {
+        "id": "F-VGMDB-10135",
+        "children": {
+            "A-MAL-41389": 1.0,
+            "M-VGMDB-AL-104618": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tonikaku Kawaii"
         }
     },
     "M-VGMDB-AL-113295": {
@@ -2562,6 +2601,15 @@
             "DAH_entry_title": "Happy Happy Jump"
         }
     },
+    "M-VGMDB-AL-104618": {
+        "id": "M-VGMDB-AL-104618",
+        "children": {
+            "M-VGMDB-AL-104618-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koi no Uta (feat. Tsukasa Yuzaki)"
+        }
+    },
     "M-VGMDB-AL-47402-1": {
         "id": "M-VGMDB-AL-47402-1",
         "children": {
@@ -3068,6 +3116,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Aurora Days"
+        }
+    },
+    "M-VGMDB-AL-104618-1": {
+        "id": "M-VGMDB-AL-104618-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koi no Uta (feat. Yuzaki Tsukasa)"
         }
     },
     "A-MAL-31765": {
