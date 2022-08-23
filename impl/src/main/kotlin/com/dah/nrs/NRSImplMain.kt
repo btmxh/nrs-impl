@@ -391,6 +391,8 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
+        Gotoubun()
+
         Kano()
 
         Aokana()

@@ -17885,6 +17885,198 @@
     },
     {
         "contributors": {
+            "A-MAL-38101": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38101": 1.0
+        },
+        "score": [
+            0.0,
+            2.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 5.0,
+            "type": "aei",
+            "clamped_score": 5.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38101": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.25,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39783": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39783": 1.0
+        },
+        "score": [
+            0.0,
+            2.25,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 2.5,
+            "type": "aei",
+            "clamped_score": 2.5
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39783": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.25,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-82284": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.10416666666666667,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-82284-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.8999999999999999,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 3.0,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369": 1.0
         },
         "score": [

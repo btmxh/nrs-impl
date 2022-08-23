@@ -37,6 +37,8 @@ fun DSLScope.CommonArtists() {
             Contains(1.0 / 4.0) {
                 Contains("M-VGMDB-AL-73544")
             }
+
+            Contains("M-VGMDB-AL-82284", 1.0 / 5.0)
         }
     }
 
@@ -80,6 +82,10 @@ fun DSLScope.CommonArtists() {
 
         Contains("M-9", 1.0 / 5)
         Contains("M-18", 1.0 / 4)
+
+        Contains(MusicVocalImageContainFactor) {
+            Contains("M-VGMDB-AL-82284", 1.0 / 5.0)
+        }
     }
 
     Entry {
@@ -582,6 +588,8 @@ fun DSLScope.CommonArtists() {
             Contains(1.0 / 4.0) {
                 Contains("M-VGMDB-AL-73544")
             }
+
+            Contains("M-VGMDB-AL-82284", 1.0 / 5.0)
         }
     }
 

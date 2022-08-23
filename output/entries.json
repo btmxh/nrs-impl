@@ -580,7 +580,8 @@
         "id": "M-VGMDB-AR-6783",
         "children": {
             "M-VGMDB-AL-114186": 0.12000000000000002,
-            "M-VGMDB-AL-73544": 0.15000000000000002
+            "M-VGMDB-AL-73544": 0.15000000000000002,
+            "M-VGMDB-AL-82284": 0.12000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Hanazawa Kana"
@@ -2649,7 +2650,8 @@
             "M-44": 0.25,
             "M-VGMDB-AL-54418-1": 0.6000000000000001,
             "M-VGMDB-AL-55364-3": 0.6000000000000001,
-            "M-VGMDB-AL-73544": 0.15000000000000002
+            "M-VGMDB-AL-73544": 0.15000000000000002,
+            "M-VGMDB-AL-82284": 0.12000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Minase Inori"
@@ -2705,6 +2707,14 @@
                 "id_MyAnimeList": 7791
             },
             "DAH_entry_bestGirl": "Nakano Azusa"
+        }
+    },
+    "M-VGMDB-AL-82284-1": {
+        "id": "M-VGMDB-AL-82284-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Gotoubun no Kimochi"
         }
     },
     "M-VGMDB-AR-25289": {
@@ -3434,6 +3444,24 @@
             "DAH_entry_title": "Y.O.L.O"
         }
     },
+    "A-MAL-38101": {
+        "id": "A-MAL-38101",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Gotoubun no Hanayome",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14247,
+                "id_Kitsu": 41966,
+                "id_AniList": 103572,
+                "id_MyAnimeList": 38101
+            },
+            "DAH_entry_bestGirl": "Nakano Itsuki"
+        }
+    },
     "A-MAL-37497": {
         "id": "A-MAL-37497",
         "children": {
@@ -3689,6 +3717,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "How Are You?"
+        }
+    },
+    "M-VGMDB-AL-82284": {
+        "id": "M-VGMDB-AL-82284",
+        "children": {
+            "M-VGMDB-AL-82284-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Gotoubun no Kimochi"
         }
     },
     "M-VGMDB-AL-93299": {
@@ -4051,6 +4088,24 @@
             "DAH_entry_title": "Canaria"
         }
     },
+    "A-MAL-39783": {
+        "id": "A-MAL-39783",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "5-toubun no Hanayome ∬",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14903,
+                "id_Kitsu": 42324,
+                "id_AniList": 109261,
+                "id_MyAnimeList": 39783
+            },
+            "DAH_entry_bestGirl": "Nakano Itsuki"
+        }
+    },
     "M-VGMDB-AL-86622": {
         "id": "M-VGMDB-AL-86622",
         "children": {
@@ -4168,6 +4223,17 @@
                 "id_MyAnimeList": 36038
             },
             "DAH_entry_bestGirl": "Washing Machine"
+        }
+    },
+    "F-VGMDB-9342": {
+        "id": "F-VGMDB-9342",
+        "children": {
+            "A-MAL-38101": 1.0,
+            "A-MAL-39783": 1.0,
+            "M-VGMDB-AL-82284": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Gotoubun no Hanayome"
         }
     },
     "F-VGMDB-7166": {
@@ -7629,7 +7695,8 @@
         "id": "M-VGMDB-AR-12726",
         "children": {
             "M-9": 0.2,
-            "M-18": 0.25
+            "M-18": 0.25,
+            "M-VGMDB-AL-82284": 0.12000000000000002
         },
         "DAH_meta": {
             "DAH_entry_title": "Sakura Ayane"
