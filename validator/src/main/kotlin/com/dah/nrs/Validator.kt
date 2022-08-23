@@ -43,6 +43,7 @@ abstract class ValidationRule(val data: Data) {
     }
 }
 
+// TODO: add rule for invalid visual impact (e.g. album art visual impact on artist entry)
 fun main() {
     val data = Data()
     for (rule in listOf(
