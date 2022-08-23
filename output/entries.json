@@ -3469,6 +3469,15 @@
             "DAH_entry_bestGirl": "Myne"
         }
     },
+    "F-VGMDB-9260": {
+        "id": "F-VGMDB-9260",
+        "children": {
+            "A-MAL-40839": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kanojo, Okarishimasu"
+        }
+    },
     "A-MAL-43608": {
         "id": "A-MAL-43608",
         "children": {
@@ -5210,6 +5219,25 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Truths, Ironies, The Secret Lyrics"
+        }
+    },
+    "A-MAL-40839": {
+        "id": "A-MAL-40839",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kanojo, Okarishimasu",
+            "DAH_entry_progress": {
+                "episode": 1,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15299,
+                "id_Kitsu": 43028,
+                "id_AniList": 113813,
+                "id_MyAnimeList": 40839
+            },
+            "DAH_entry_bestGirl": "Sakurasawa Sumi"
         }
     },
     "M-VGMDB-AL-73516": {

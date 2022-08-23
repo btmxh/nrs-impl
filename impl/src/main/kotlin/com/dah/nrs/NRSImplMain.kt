@@ -549,6 +549,8 @@ fun main() =
             Progress(Boredom.Completed)
         }
 
+        RentAGirlfriend()
+
         Kano()
 
         Aokana()
