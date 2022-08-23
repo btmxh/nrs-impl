@@ -6159,6 +6159,25 @@
             "DAH_entry_title": "Gotoubun no Kimochi"
         }
     },
+    "A-MAL-46093": {
+        "id": "A-MAL-46093",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shiroi Suna no Aquatope",
+            "DAH_entry_progress": {
+                "episode": 16,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15987,
+                "id_Kitsu": 44116,
+                "id_AniList": 128545,
+                "id_MyAnimeList": 46093
+            },
+            "DAH_entry_bestGirl": "Miyazawa Fuuka"
+        }
+    },
     "M-VGMDB-AR-27779": {
         "id": "M-VGMDB-AR-27779",
         "children": {

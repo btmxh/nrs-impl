@@ -603,6 +603,21 @@ fun main() =
             KilledBy("A-MAL-41530", 0.2, 0.5)
         }
 
+        Entry {
+            id = "A-MAL-46093"    // generated
+            idMAL = 46093
+            idAniList = 128545
+            idKitsu = 44116
+            idAniDB = 15987
+            title = "Shiroi Suna no Aquatope"
+            bestGirl = "Miyazawa Fuuka"
+
+            // idk tf this anime is talking about lol
+            Visual(VisualKind.Animated, 0.3, 0.7)
+            Progress(Boredom.Dropped, 16)
+            KilledBy("A-MAL-41530", 0.1, 0.4)
+        }
+
         Kano()
 
         Aokana()
