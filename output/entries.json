@@ -4801,6 +4801,24 @@
             "DAH_entry_title": "Q.E.D."
         }
     },
+    "A-MAL-39523": {
+        "id": "A-MAL-39523",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14750,
+                "id_Kitsu": 42222,
+                "id_AniList": 108388,
+                "id_MyAnimeList": 39523
+            },
+            "DAH_entry_bestGirl": "Sarutobi Shinobu"
+        }
+    },
     "F-VGMDB-3939": {
         "id": "F-VGMDB-3939",
         "children": {

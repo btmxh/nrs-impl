@@ -459,6 +459,25 @@ fun main() =
         KoisuruAsteroid()
         AscendanceBookworm()
 
+        Entry {
+            id = "A-MAL-39523"    // generated
+            idMAL = 39523
+            idAniList = 108388
+            idKitsu = 42222
+            idAniDB = 14750
+            title = "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
+
+            // rst girl vs akm girl lol
+            bestGirl = "Sarutobi Shinobu"
+
+            // also akari kito ed wtf
+            // and the op is that osu song
+            // imagine if this was in summer 2022
+
+            Progress(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.3)
+        }
+
         Kano()
 
         Aokana()
