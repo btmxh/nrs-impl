@@ -457,6 +457,7 @@ fun main() =
         }
 
         KoisuruAsteroid()
+        AscendanceBookworm()
 
         Kano()
 

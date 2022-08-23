@@ -2195,6 +2195,24 @@
             "DAH_entry_title": "Stella-rium"
         }
     },
+    "A-MAL-42429": {
+        "id": "A-MAL-42429",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15634,
+                "id_Kitsu": 43607,
+                "id_AniList": 121176,
+                "id_MyAnimeList": 42429
+            },
+            "DAH_entry_bestGirl": "Myne"
+        }
+    },
     "G-VGMDB-8429": {
         "id": "G-VGMDB-8429",
         "children": {
@@ -3394,6 +3412,24 @@
                 "id_MyAnimeList": 38256
             },
             "DAH_entry_bestGirl": "Tamaki Iroha"
+        }
+    },
+    "A-MAL-39468": {
+        "id": "A-MAL-39468",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14727,
+                "id_Kitsu": 42241,
+                "id_AniList": 108268,
+                "id_MyAnimeList": 39468
+            },
+            "DAH_entry_bestGirl": "Myne"
         }
     },
     "A-MAL-43608": {
@@ -6341,6 +6377,24 @@
             "DAH_entry_title": "Yozora"
         }
     },
+    "A-MAL-40815": {
+        "id": "A-MAL-40815",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15293,
+                "id_Kitsu": 42838,
+                "id_AniList": 113693,
+                "id_MyAnimeList": 40815
+            },
+            "DAH_entry_bestGirl": "Myne"
+        }
+    },
     "M-VGMDB-AL-51706": {
         "id": "M-VGMDB-AL-51706",
         "children": {
@@ -7201,6 +7255,17 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mashumairesh!!"
+        }
+    },
+    "F-VGMDB-7638": {
+        "id": "F-VGMDB-7638",
+        "children": {
+            "A-MAL-39468": 1.0,
+            "A-MAL-40815": 1.0,
+            "A-MAL-42429": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen"
         }
     },
     "M-VGMDB-AR-12516": {

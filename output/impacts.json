@@ -19196,6 +19196,175 @@
     },
     {
         "contributors": {
+            "A-MAL-39468": 0.3,
+            "A-MAL-40815": 0.3,
+            "A-MAL-42429": 0.4
+        },
+        "score": [
+            0.0,
+            2.3,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 3.0,
+            "type": "aei",
+            "clamped_score": 3.0
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39468": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39468": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-40815": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-40815": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-42429": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-42429": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.4
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369": 1.0
         },
         "score": [
