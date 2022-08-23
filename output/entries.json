@@ -7990,6 +7990,24 @@
             "DAH_entry_bestGirl": "Kawasegawa Eiko"
         }
     },
+    "A-MAL-17919": {
+        "id": "A-MAL-17919",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Houkago no Pleiades (TV)",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 10958,
+                "id_Kitsu": 7713,
+                "id_AniList": 17919,
+                "id_MyAnimeList": 17919
+            },
+            "DAH_entry_bestGirl": "Subaru"
+        }
+    },
     "A-MAL-37744": {
         "id": "A-MAL-37744",
         "children": {

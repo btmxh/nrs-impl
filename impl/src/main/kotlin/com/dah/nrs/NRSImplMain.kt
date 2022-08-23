@@ -708,6 +708,21 @@ fun main() =
 
         Tenshi3P()
 
+        Entry {
+            id = "A-MAL-17919"    // generated
+            idMAL = 17919
+            idAniList = 17919
+            idKitsu = 7713
+            idAniDB = 10958
+            title = "Houkago no Pleiades (TV)"
+            bestGirl = "Subaru" // ofc it has to be mc
+
+            // didn't expect mc to fall in love tho
+            Progress(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.5, 0.2)
+            FeatureMusic("M-VGMDB-AL-51254-1")
+        }
+
         Kano()
 
         Aokana()
