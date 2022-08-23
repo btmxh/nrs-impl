@@ -519,6 +519,20 @@ fun main() =
             FeatureMusic("M-VGMDB-AL-101643-1")
         }
 
+        Entry {
+            id = "A-MAL-40571"    // generated
+            idMAL = 40571
+            idAniList = 112609
+            idKitsu = 42627
+            idAniDB = 15202
+            title = "Majo no Tabitabi"
+            bestGirl = "Elaina"
+
+            Visual(VisualKind.Animated, 0.4, 0.3)
+            Progress(Boredom.Dropped, 6)
+            KilledBy("F-VGMDB-2588", 0.5, 0.5)
+        }
+
         Kano()
 
         Aokana()

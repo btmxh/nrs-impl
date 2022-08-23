@@ -3396,6 +3396,25 @@
             "DAH_entry_title": "Thank you, FRIENDS!!"
         }
     },
+    "A-MAL-40571": {
+        "id": "A-MAL-40571",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Majo no Tabitabi",
+            "DAH_entry_progress": {
+                "episode": 6,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15202,
+                "id_Kitsu": 42627,
+                "id_AniList": 112609,
+                "id_MyAnimeList": 40571
+            },
+            "DAH_entry_bestGirl": "Elaina"
+        }
+    },
     "A-MAL-9617": {
         "id": "A-MAL-9617",
         "children": {
