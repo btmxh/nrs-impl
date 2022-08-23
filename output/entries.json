@@ -1128,6 +1128,17 @@
             "DAH_entry_title": "SILENT VOICES"
         }
     },
+    "F-VGMDB-7865": {
+        "id": "F-VGMDB-7865",
+        "children": {
+            "A-MAL-39388": 1.0,
+            "M-VGMDB-AL-93329-1": 1.0,
+            "M-VGMDB-AL-93338-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koisuru Asteroid"
+        }
+    },
     "M-VGMDB-AL-75344-5": {
         "id": "M-VGMDB-AL-75344-5",
         "children": {
@@ -2358,6 +2369,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Yuuki wa Doko ni? Kimi no Mune ni!"
+        }
+    },
+    "A-MAL-39388": {
+        "id": "A-MAL-39388",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Koisuru Asteroid",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14707,
+                "id_Kitsu": 42470,
+                "id_AniList": 108092,
+                "id_MyAnimeList": 39388
+            },
+            "DAH_entry_bestGirl": "Kotonoha Mira"
         }
     },
     "L-MAL-90810": {
@@ -5833,6 +5862,15 @@
             "DAH_entry_title": "OvertuRe:"
         }
     },
+    "M-VGMDB-AL-93338": {
+        "id": "M-VGMDB-AL-93338",
+        "children": {
+            "M-VGMDB-AL-93338-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Yozora"
+        }
+    },
     "M-VGMDB-AL-114102-1": {
         "id": "M-VGMDB-AL-114102-1",
         "children": {
@@ -6009,6 +6047,15 @@
                 "id_MyAnimeList": 34240
             },
             "DAH_entry_bestGirl": "Rin"
+        }
+    },
+    "M-VGMDB-AL-93329": {
+        "id": "M-VGMDB-AL-93329",
+        "children": {
+            "M-VGMDB-AL-93329-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Aruite Ikou!"
         }
     },
     "M-VGMDB-AL-115724-2": {
@@ -6284,6 +6331,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Atelier Escha & Logy ~Alchemist of Dusk Sky~ Original Soundtrack the Animation"
+        }
+    },
+    "M-VGMDB-AL-93338-1": {
+        "id": "M-VGMDB-AL-93338-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Yozora"
         }
     },
     "M-VGMDB-AL-51706": {
@@ -6634,7 +6689,8 @@
             "M-VGMDB-AL-51394-1": 0.30000000000000004,
             "M-VGMDB-AL-96290-1": 0.30000000000000004,
             "M-VGMDB-AL-51394-3": 0.6000000000000001,
-            "M-VGMDB-AL-37999-2": 0.6000000000000001
+            "M-VGMDB-AL-37999-2": 0.6000000000000001,
+            "M-VGMDB-AL-93329": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "Toyama Nao"
@@ -6903,6 +6959,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "ortensia"
+        }
+    },
+    "M-VGMDB-AL-93329-1": {
+        "id": "M-VGMDB-AL-93329-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Aruite Ikou!"
         }
     },
     "M-12": {

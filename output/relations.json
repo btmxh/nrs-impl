@@ -5392,6 +5392,56 @@
     },
     {
         "contributors": {
+            "A-MAL-39388": 1.0
+        },
+        "references": {
+            "M-VGMDB-AL-93329-1": {
+                "kind": "diagonal",
+                "data": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.2,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "DAH_meta": {
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39388": 1.0
+        },
+        "references": {
+            "M-VGMDB-AL-93338-1": {
+                "kind": "diagonal",
+                "data": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.2,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "DAH_meta": {
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369-1": 1.0
         },
         "references": {

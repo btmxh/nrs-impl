@@ -456,6 +456,8 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.4)
         }
 
+        KoisuruAsteroid()
+
         Kano()
 
         Aokana()

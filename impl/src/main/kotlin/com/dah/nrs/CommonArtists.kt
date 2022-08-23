@@ -525,6 +525,17 @@ fun DSLScope.CommonArtists() {
             // oregairu solo songs
             Contains("M-VGMDB-AL-51394-3")
             Contains("M-VGMDB-AL-37999-2")
+
+            Entry {
+                id = "M-VGMDB-AL-93329"
+                title = "Aruite Ikou!"
+
+                Visual(VisualKind.AlbumArt, 0.15, 0.2)
+
+                SubIDEntry("1") {
+                    Music(4.0)
+                }
+            }
         }
     }
 

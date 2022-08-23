@@ -736,6 +736,52 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-93329": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0275,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.2,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.15
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-93329-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.2000000000000002,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 4.0,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-49446": 1.0
         },
         "score": [
@@ -19028,6 +19074,124 @@
             "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39388": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39388": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.8399999999999999,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.3,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.8
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-93338": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.055,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.2,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.3
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-93338-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.5,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 5.0,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-93338-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "personal_factor": 0.2,
+            "personal_input": 4.0,
+            "community_factor": 0.0,
+            "type": "DAH_nonstandard_osu_song",
+            "community_input": 0.0
         }
     },
     {
