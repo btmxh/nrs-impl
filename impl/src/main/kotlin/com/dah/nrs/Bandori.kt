@@ -220,11 +220,6 @@ fun DSLScope.Bandori() {
             contributors["A-MAL-37869"] = 0.3
         }
 
-        KilledBy("A-MAL-40879", potential = 0.5, effect = 0.8) {
-            contributors["A-MAL-33573"] = 0.4
-            contributors["A-MAL-37869"] = 0.6
-        }
-
         Entry {
             id = "A-MAL-33573"    // generated
             idMAL = 33573
@@ -242,7 +237,7 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.Animated, 0.4, 0.4)
 
             FeatureMusic("M-VGMDB-AL-63624-1")
-
+            KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.5)
         }
 
         Entry {
@@ -261,6 +256,7 @@ fun DSLScope.Bandori() {
             // rip
             Progress(Boredom.Dropped, 6)
             FeatureMusic("M-VGMDB-AL-81504-1")
+            KilledBy("F-VGMDB-2588", potential = 0.2, effect = 0.5)
         }
     }
 

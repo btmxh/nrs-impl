@@ -22,6 +22,7 @@ fun DSLScope.D4DJ() {
             Visual(VisualKind.Animated, 0.4, 0.75)
             FeatureMusic("M-VGMDB-AL-107257")
             FeatureMusic("M-VGMDB-AL-108580-2")
+            KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.2)
         }
 
         Entry {
