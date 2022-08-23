@@ -424,6 +424,24 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
+        AoChan()
+
+        Entry {
+            id = "A-MAL-38790"    // generated
+            idMAL = 38790
+            idAniList = 106479
+            idKitsu = 42043
+            idAniDB = 14523
+            title = "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+            bestGirl = "Maple"
+
+            KilledBy("F-VGMDB-1945", 0.2, 0.5)
+            Progress(Boredom.Dropped, 2)
+            Visual(VisualKind.Animated, 0.5, 0.2)
+        }
+
+        HelloWorld()
+
         Kano()
 
         Aokana()

@@ -1492,6 +1492,24 @@
             "DAH_entry_bestGirl": "Minamoto Sakura"
         }
     },
+    "A-MAL-40295": {
+        "id": "A-MAL-40295",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Another World",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15065,
+                "id_Kitsu": 42527,
+                "id_AniList": 111733,
+                "id_MyAnimeList": 40295
+            },
+            "DAH_entry_bestGirl": "Ichigyou Ruri"
+        }
+    },
     "M-VGMDB-AL-93299-2": {
         "id": "M-VGMDB-AL-93299-2",
         "children": {
@@ -4506,6 +4524,16 @@
             "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
     },
+    "F-VGMDB-7175": {
+        "id": "F-VGMDB-7175",
+        "children": {
+            "A-MAL-38778": 1.0,
+            "M-VGMDB-AL-85759": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Midara na Ao-chan wa Benkyou ga Dekinai"
+        }
+    },
     "M-VGMDB-AL-44890-1": {
         "id": "M-VGMDB-AL-44890-1",
         "children": {
@@ -4616,6 +4644,25 @@
             "DAH_entry_title": "LiSA"
         }
     },
+    "A-MAL-38790": {
+        "id": "A-MAL-38790",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+            "DAH_entry_progress": {
+                "episode": 2,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14523,
+                "id_Kitsu": 42043,
+                "id_AniList": 106479,
+                "id_MyAnimeList": 38790
+            },
+            "DAH_entry_bestGirl": "Maple"
+        }
+    },
     "M-VGMDB-AL-69821-1": {
         "id": "M-VGMDB-AL-69821-1",
         "children": {
@@ -4649,6 +4696,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Tokimeki Experience!"
+        }
+    },
+    "M-VGMDB-AL-85759": {
+        "id": "M-VGMDB-AL-85759",
+        "children": {
+            "M-VGMDB-AL-85759-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "WONDERFUL WONDER"
         }
     },
     "M-VGMDB-AL-82369": {
@@ -5214,6 +5270,25 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Hop Step Jump!"
+        }
+    },
+    "A-MAL-38778": {
+        "id": "A-MAL-38778",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Midara na Ao-chan wa Benkyou ga Dekinai",
+            "DAH_entry_progress": {
+                "episode": 3,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14519,
+                "id_Kitsu": 42024,
+                "id_AniList": 105989,
+                "id_MyAnimeList": 38778
+            },
+            "DAH_entry_bestGirl": "Horie Ao"
         }
     },
     "A-MAL-13333": {
@@ -7330,6 +7405,24 @@
             "DAH_entry_title": "Startin' My Re:STAGE!!"
         }
     },
+    "A-MAL-38816": {
+        "id": "A-MAL-38816",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Hello World",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14532,
+                "id_Kitsu": 42030,
+                "id_AniList": 106240,
+                "id_MyAnimeList": 38816
+            },
+            "DAH_entry_bestGirl": "Ichigyou Ruri"
+        }
+    },
     "F-VGMDB-9703": {
         "id": "F-VGMDB-9703",
         "children": {
@@ -7697,6 +7790,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Maware! GO! GO! CHUNITHM"
+        }
+    },
+    "M-VGMDB-AL-85759-1": {
+        "id": "M-VGMDB-AL-85759-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "WONDERFUL WONDER"
         }
     },
     "M-26": {
