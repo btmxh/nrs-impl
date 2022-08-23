@@ -121,6 +121,8 @@ fun DSLScope.Kano() {
                 id = "M-VGMDB-AL-57564"
                 title = "nowhere"
 
+                Visual(VisualKind.AlbumArt, 0.4, 0.5)
+
                 SubIDEntry("1", "Prima Stella") {
                     Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
                     Music(5.0)
@@ -135,12 +137,16 @@ fun DSLScope.Kano() {
                 id = "M-VGMDB-AL-73516"
                 title = "one"
 
+                Visual(VisualKind.AlbumArt, 0.4, 0.5)
+
                 Contains("M-VGMDB-AL-34411-11")
             }
 
             Entry {
                 id = "M-VGMDB-AL-89290"
                 title = "three"
+
+                Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
                 SubIDEntry("6", "Chikyuu Saigo no Kokuhaku o") {
                     Music(3.0)

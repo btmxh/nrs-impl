@@ -439,6 +439,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-61982"
             title = "Hanate! Dododon!"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+
             SubIDEntry("1") {
                 FesALiveMusic(5.0)
             }
@@ -448,6 +450,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-118562"
             title = "Taikakusen wo Tsunaideyo"
 
+            Visual(VisualKind.AlbumArt, 0.6, 0.3)
+
             SubIDEntry("1") {
                 FesALiveMusic(6.5)
             }
@@ -456,6 +460,11 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-104418"
             title = "Good Day by Day"
+
+            // this thing:
+            // https://medium-media.vgm.io/albums/81/104418/104418-9cc8d5c0abf7.jpg
+            // is from the blu-ray, so it doesn't count
+            ValidatorSuppress("dah-visualless-entry")
 
             // also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno)
             SubIDEntry("1") {
@@ -470,6 +479,8 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-100082"
             title = "Mirai Wanted"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+
             SubIDEntry("1") {
                 FesALiveMusic(5.0)
             }
@@ -479,7 +490,10 @@ fun DSLScope.SB69() {
             id = "M-VGMDB-AL-116297"
             title = "Bokura no Neiro"
 
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+
             SubIDEntry("1") {
+                Visual(VisualKind.SemiAnimatedMV, 0.5, 0.6)
                 FesALiveMusic(3.5)
             }
         }
@@ -487,6 +501,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-105612"
             title = "Mot Mot Mot"
+
+            Visual(VisualKind.AlbumArt, 0.25, 0.45)
 
             SubIDEntry("1") {
                 FesALiveMusic(6.5)
@@ -505,6 +521,8 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-76155"
             title = "Loop Shiteru/Asuiro Koi Moyou"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1", "Loop Shiteru") {
                 // :tf:
@@ -557,6 +575,7 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-95313"
             title = "How Are You?"
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
                 FesALiveMusic(6.0)
@@ -566,6 +585,7 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-95314"
             title = "Happy Happy Jump"
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
                 FesALiveMusic(5.0)

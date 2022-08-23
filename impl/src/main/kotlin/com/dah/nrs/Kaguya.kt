@@ -14,6 +14,7 @@ fun DSLScope.Kaguya() {
         Entry {
             id = "M-VGMDB-AL-83397"
             title = "Chikatto Chika Chika♡"
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
                 Music(2.5)
@@ -24,6 +25,8 @@ fun DSLScope.Kaguya() {
         Entry {
             id = "M-VGMDB-AL-116977"
             title = "KAGUYA ♡ ULTRA BEST"
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("11", "Arigatou.") {
                 // the grass-touching experience

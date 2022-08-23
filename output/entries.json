@@ -3325,6 +3325,9 @@
             "M-VGMDB-AL-104418-1": 1.0
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-visualless-entry"
+            ],
             "DAH_entry_title": "Good Day by Day"
         }
     },

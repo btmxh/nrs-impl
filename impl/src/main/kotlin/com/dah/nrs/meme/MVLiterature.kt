@@ -63,6 +63,8 @@ fun DSLScope.MVLiterature() {
         id = "M-VGMDB-AL-111027"
         title = "Bouquet"
 
+        Visual(VisualKind.AlbumArt, 0.5, 0.3)
+
         SubIDEntry("10", "Asuiro ClearSky") {
             // asuiro koi moyou and its consequences
             // hololiveshit stole rst & sb69 composer
@@ -75,9 +77,9 @@ fun DSLScope.MVLiterature() {
             // hololiveshit stole rst & sb69 composer
 
             // >【Works】Re:ステージ!/ホロライブ(全体曲,1期生,3期生)/SHOW BY ROCK!!/La prière/...
-            // how dare hololiveshit sit between two glorious franchises
+            // how dare hololiveshit sit between two glorious franchises (or three idk)
             // these mfs need to touch grass and realize how shitty they are
-            // compared to rst and sb69, the franchises of all time
+            // compared to rst and sb69, "the franchises of all time"
             Music(6.5)
             // the girls look CG af, but at least the other things are good
             Visual(VisualKind.SemiAnimatedMV, 0.3, 0.2)

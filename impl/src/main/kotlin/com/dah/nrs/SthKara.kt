@@ -32,6 +32,8 @@ fun DSLScope.SthKara() {
         id = "M-VGMDB-AL-80341"
         title = "Seventeen" // feels
 
+        Visual(VisualKind.AlbumArt, 0.2, 0.3)
+
         SubIDEntry("1", "17 Sai") {
             Music(5.0)
         }

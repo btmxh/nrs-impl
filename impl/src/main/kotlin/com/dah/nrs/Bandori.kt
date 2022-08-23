@@ -289,12 +289,12 @@ fun DSLScope.Bandori() {
         id = "M-VGMDB-AR-25291"
         title = "KANA-BOON"
 
-        // 3d men ew /s
-        Visual(VisualKind.AlbumArt, 0.08, 0.175)
-
         Entry {
             id = "M-VGMDB-AL-50723"
             title = "Silhouette"
+
+            // 3d men ew /s
+            Visual(VisualKind.AlbumArt, 0.08, 0.175)
 
             SubIDEntry("1") {
                 Music(4.0)
