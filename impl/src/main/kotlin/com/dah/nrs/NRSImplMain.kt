@@ -655,6 +655,22 @@ fun main() =
             AEI(5.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
         }
 
+        Entry {
+            id = "A-MAL-47790"    // generated
+            idMAL = 47790
+            idAniList = 129898
+            idKitsu = 44393
+            idAniDB = 16055
+            title = "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
+            bestGirl = "Dia" // *insert love live sunshine joke*
+
+            Progress(Boredom.Dropped, 6)
+            Visual(VisualKind.Animated, 0.5, 0.4)
+            KilledBy("F-VGMDB-3245", 0.1, 0.2)
+            KilledBy("F-VGMDB-7059", 0.1, 0.2)
+            NEI(8.0, Emotion.AP to 1.0)
+        }
+
         Kano()
 
         Aokana()

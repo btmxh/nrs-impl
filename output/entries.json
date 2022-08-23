@@ -7432,6 +7432,25 @@
             "DAH_entry_bestGirl": "Hayasaka Ai"
         }
     },
+    "A-MAL-47790": {
+        "id": "A-MAL-47790",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+            "DAH_entry_progress": {
+                "episode": 6,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 16055,
+                "id_Kitsu": 44393,
+                "id_AniList": 129898,
+                "id_MyAnimeList": 47790
+            },
+            "DAH_entry_bestGirl": "Dia"
+        }
+    },
     "A-MAL-25519": {
         "id": "A-MAL-25519",
         "children": {
