@@ -5,20 +5,6 @@ import com.dah.nrs.exts.*
 
 fun DSLScope.Spring2022() {
     Entry {
-        id = "A-MAL-43470"    // generated
-        idMAL = 43470
-        idAniList = 125124
-        idAniDB = 15788
-        idKitsu = 43681
-        title = "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
-
-        bestGirl = "Kotonoha Kanade"
-
-        Progress(Boredom.Dropped, 2)
-        Visual(VisualKind.Animated, 0.25, 0.5)
-        KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
-    }
-    Entry {
         id = "A-MAL-48363"    // generated
         idMAL = 48363
         idAniList = 130319

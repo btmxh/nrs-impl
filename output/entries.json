@@ -5517,6 +5517,16 @@
             "DAH_entry_bestGirl": "Nishimiya Shouko"
         }
     },
+    "F-VGMDB-9552": {
+        "id": "F-VGMDB-9552",
+        "children": {
+            "A-MAL-38992": 1.0,
+            "A-MAL-43470": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita."
+        }
+    },
     "M-VGMDB-AL-49423": {
         "id": "M-VGMDB-AL-49423",
         "children": {
@@ -5595,6 +5605,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "SENSEI Sensation"
+        }
+    },
+    "A-MAL-38992": {
+        "id": "A-MAL-38992",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14590,
+                "id_Kitsu": 42297,
+                "id_AniList": 107067,
+                "id_MyAnimeList": 38992
+            },
+            "DAH_entry_bestGirl": "Kotonoha Kanade"
         }
     },
     "M-VGMDB-AL-35015": {

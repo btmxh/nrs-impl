@@ -40,8 +40,8 @@ fun DSLScope.Kaguya() {
         // and it's also kinda boring too
         // and now 6.xx became the meta, rst + sb69 top 2, le boat analogy lol
         AEI(-5.0, Emotion.AU) {
-            contributors["A-MAL-37999"] = 0.5
-            contributors["A-MAL-40591"] = 0.25
+            contributors["A-MAL-37999"] = 0.25
+            contributors["A-MAL-40591"] = 0.5
             contributors["A-MAL-43608"] = 0.25
         }
 

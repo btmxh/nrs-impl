@@ -441,6 +441,7 @@ fun main() =
         }
 
         HelloWorld()
+        RikeKoi()
 
         Kano()
 

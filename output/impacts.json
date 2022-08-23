@@ -14945,8 +14945,8 @@
     },
     {
         "contributors": {
-            "A-MAL-37999": 0.5,
-            "A-MAL-40591": 0.25,
+            "A-MAL-37999": 0.25,
+            "A-MAL-40591": 0.5,
             "A-MAL-43608": 0.25
         },
         "score": [
@@ -18891,6 +18891,100 @@
     },
     {
         "contributors": {
+            "A-MAL-38992": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38992": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.625,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.25
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-43470": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 2,
+            "type": "boredom",
+            "boredom_level_name": "Dropped"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-43470": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.625,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.25
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369": 1.0
         },
         "score": [
@@ -21572,53 +21666,6 @@
         "DAH_meta": {
             "input_score": 5.0,
             "type": "DAH_nonstandard_music"
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-43470": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            -1.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "boredom_level": 2,
-            "type": "boredom",
-            "boredom_level_name": "Dropped"
-        }
-    },
-    {
-        "contributors": {
-            "A-MAL-43470": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.625,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "uniqueness": 0.5,
-            "kind": "Animated",
-            "type": "DAH_nonstandard_generic_visual",
-            "base": 0.25
         }
     },
     {
