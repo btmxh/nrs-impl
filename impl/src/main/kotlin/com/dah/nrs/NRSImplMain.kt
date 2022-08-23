@@ -585,6 +585,24 @@ fun main() =
         Aipura()
         Tanmoshi()
 
+        Entry {
+            id = "A-MAL-43969"    // generated
+            idMAL = 43969
+            idAniList = 126192
+            idKitsu = 44165
+            idAniDB = 15851
+            title = "Kanojo mo Kanojo"
+            // this is one of the only rom-coms that is
+            // watched in the post-MagiReco era, which is
+            // already impressive
+            // but that's not enough because MagiReco S2
+            // is just too good
+            bestGirl = "Saki Saki"
+            Visual(VisualKind.Animated, 0.4, 0.4)
+            Progress(Boredom.Dropped, 5)
+            KilledBy("A-MAL-41530", 0.2, 0.5)
+        }
+
         Kano()
 
         Aokana()
