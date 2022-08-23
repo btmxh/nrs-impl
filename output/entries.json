@@ -5886,6 +5886,15 @@
             "DAH_entry_title": "Light Delight"
         }
     },
+    "M-VGMDB-AL-109368": {
+        "id": "M-VGMDB-AL-109368",
+        "children": {
+            "M-VGMDB-AL-109368-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo/Kaze no Tsuyoi Hi wa Kirai ka?"
+        }
+    },
     "M-VGMDB-AL-108194-5": {
         "id": "M-VGMDB-AL-108194-5",
         "children": {
@@ -6105,6 +6114,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Mimori Suzuko"
+        }
+    },
+    "M-VGMDB-AL-109368-1": {
+        "id": "M-VGMDB-AL-109368-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo"
         }
     },
     "A-MAL-21167": {
@@ -7606,7 +7623,8 @@
         "id": "F-VGMDB-9825",
         "children": {
             "A-MAL-37976": 1.0,
-            "A-MAL-40174": 1.0
+            "A-MAL-40174": 1.0,
+            "M-VGMDB-AL-109368": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "ZOMBIE LAND SAGA"

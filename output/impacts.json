@@ -17884,6 +17884,52 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-109368": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.08333333333333333,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-109368-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.6500000000000001,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 5.5,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-37982": 1.0
         },
         "score": [

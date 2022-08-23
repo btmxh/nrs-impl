@@ -35,6 +35,17 @@ fun DSLScope.ZombielandSaga() {
             Progress(Boredom.Dropped, 7)
             Visual(VisualKind.Animated, 0.4, 0.5)
             KilledBy("V-VNDB-12849", 0.3, 0.2)
+            FeatureMusic("M-VGMDB-AL-109368")
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-109368"
+            title = "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo/Kaze no Tsuyoi Hi wa Kirai ka?"
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            SubIDEntry("1", "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo") {
+                Music(5.5)
+            }
         }
     }
 }
