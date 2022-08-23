@@ -1397,6 +1397,14 @@
             "DAH_entry_title": "Charlotte"
         }
     },
+    "M-VGMDB-AL-101643-1": {
+        "id": "M-VGMDB-AL-101643-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sacred world"
+        }
+    },
     "F-VGMDB-2588": {
         "id": "F-VGMDB-2588",
         "children": {
@@ -3769,6 +3777,24 @@
             "DAH_entry_title": "Wake Up, Girls!"
         }
     },
+    "A-MAL-40550": {
+        "id": "A-MAL-40550",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Assault Lily: Bouquet",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15156,
+                "id_Kitsu": 42625,
+                "id_AniList": 112479,
+                "id_MyAnimeList": 40550
+            },
+            "DAH_entry_bestGirl": "Yoshimura Thi Mai"
+        }
+    },
     "A-MAL-9756": {
         "id": "A-MAL-9756",
         "children": {
@@ -5122,6 +5148,8 @@
             "M-VGMDB-AR-31326": 1.0,
             "M-VGMDB-AL-106577": 1.0,
             "M-VGMDB-AL-114399": 1.0,
+            "M-VGMDB-AR-31336": 1.0,
+            "M-VGMDB-AL-101643": 1.0,
             "A-MAL-33573": 1.0,
             "A-MAL-37869": 1.0
         },
@@ -5793,6 +5821,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kimi ga Yume wo Tsuretekita"
+        }
+    },
+    "M-VGMDB-AL-101643": {
+        "id": "M-VGMDB-AL-101643",
+        "children": {
+            "M-VGMDB-AL-101643-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Sacred world"
         }
     },
     "A-MAL-23277": {
@@ -7786,6 +7823,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "360° Hoshi no Orchestra"
+        }
+    },
+    "M-VGMDB-AR-31336": {
+        "id": "M-VGMDB-AR-31336",
+        "children": {
+            "M-VGMDB-AL-101643": 0.6000000000000001
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "RAISE A SUILEN"
         }
     },
     "M-37": {

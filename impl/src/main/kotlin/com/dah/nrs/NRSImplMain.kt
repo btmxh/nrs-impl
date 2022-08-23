@@ -500,6 +500,25 @@ fun main() =
             KilledBy("F-VGMDB-2588", 0.75, 0.3)
         }
 
+        Entry {
+            id = "A-MAL-40550"    // generated
+            idMAL = 40550
+            idAniList = 112479
+            idKitsu = 42625
+            idAniDB = 15156
+            title = "Assault Lily: Bouquet"
+            bestGirl = "Shirai Yuyu" // himekek my beloved
+            bestGirl = "Wang Yujia" // noway it's the kimi no rhapsody girl
+            bestGirl = "Yoshimura Thi Mai" // top kek
+
+            // in all seriousness, this is quite good.
+            // the 2 main girls are pretty match
+            // thank you based shaft
+            Visual(VisualKind.Animated, 0.6, 0.3)
+            Progress(Boredom.Completed)
+            FeatureMusic("M-VGMDB-AL-101643-1")
+        }
+
         Kano()
 
         Aokana()

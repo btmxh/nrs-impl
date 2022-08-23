@@ -212,6 +212,25 @@ fun DSLScope.Bandori() {
             }
         }
 
+        Entry {
+            id = "M-VGMDB-AR-31336"
+            title = "RAISE A SUILEN"
+
+            Contains(MusicVocalImageContainFactor) {
+                Contains("M-VGMDB-AL-101643")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-101643"
+            title = "Sacred world"
+
+            Visual(VisualKind.AlbumArt, 0.2, 0.3)
+            SubIDEntry("1") {
+                Music(4.0)
+            }
+        }
+
         // bandori has some good comedy shit
         AEI(2.0, Emotion.AP) {
             // the game also contributes, so the sum of weights is not 1
