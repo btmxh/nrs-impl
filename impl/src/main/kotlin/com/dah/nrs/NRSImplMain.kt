@@ -392,6 +392,7 @@ fun main() =
         }
 
         Gotoubun()
+        Bokuben()
 
         Kano()
 

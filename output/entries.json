@@ -771,6 +771,14 @@
             "DAH_entry_title": "mimimemeMIMI"
         }
     },
+    "M-VGMDB-AL-85537-1": {
+        "id": "M-VGMDB-AL-85537-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Seishun Seminar/Never Give It Up!!"
+        }
+    },
     "M-VGMDB-AL-94913": {
         "id": "M-VGMDB-AL-94913",
         "children": {
@@ -1633,6 +1641,24 @@
             "DAH_entry_bestGirl": "Yuigahama Yui"
         }
     },
+    "A-MAL-38186": {
+        "id": "A-MAL-38186",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14289,
+                "id_Kitsu": 41956,
+                "id_AniList": 103900,
+                "id_MyAnimeList": 38186
+            },
+            "DAH_entry_bestGirl": "Mafuyu Kirisu"
+        }
+    },
     "M-VGMDB-AL-51394": {
         "id": "M-VGMDB-AL-51394",
         "children": {
@@ -2077,6 +2103,24 @@
             "DAH_entry_bestGirl": "Nibutani Shinka"
         }
     },
+    "A-MAL-40004": {
+        "id": "A-MAL-40004",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14968,
+                "id_Kitsu": 42414,
+                "id_AniList": 110229,
+                "id_MyAnimeList": 40004
+            },
+            "DAH_entry_bestGirl": "Furuhashi Fumino"
+        }
+    },
     "M-VGMDB-AL-48199-1": {
         "id": "M-VGMDB-AL-48199-1",
         "children": {
@@ -2352,6 +2396,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Masshiro Start Line"
+        }
+    },
+    "M-VGMDB-AL-88884": {
+        "id": "M-VGMDB-AL-88884",
+        "children": {
+            "M-VGMDB-AL-88884-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Can now, Can now"
         }
     },
     "A-MAL-41589": {
@@ -4072,6 +4125,15 @@
             "DAH_entry_title": "LIKE IT! LOVE IT!"
         }
     },
+    "M-VGMDB-AL-85537": {
+        "id": "M-VGMDB-AL-85537",
+        "children": {
+            "M-VGMDB-AL-85537-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Seishun Seminar/Never Give It Up!!"
+        }
+    },
     "M-VGMDB-AL-59914-1": {
         "id": "M-VGMDB-AL-59914-1",
         "children": {
@@ -4981,6 +5043,18 @@
             "DAH_entry_title": "TAILWIND"
         }
     },
+    "F-VGMDB-7481": {
+        "id": "F-VGMDB-7481",
+        "children": {
+            "A-MAL-38186": 1.0,
+            "A-MAL-40004": 1.0,
+            "M-VGMDB-AL-85537": 1.0,
+            "M-VGMDB-AL-88884": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai"
+        }
+    },
     "M-5": {
         "id": "M-5",
         "children": {
@@ -5417,6 +5491,14 @@
                 "id_MyAnimeList": 35241
             },
             "DAH_entry_bestGirl": "Natsume"
+        }
+    },
+    "M-VGMDB-AL-88884-1": {
+        "id": "M-VGMDB-AL-88884-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Can now, Can now"
         }
     },
     "A-MAL-34392": {
