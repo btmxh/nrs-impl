@@ -377,6 +377,20 @@ fun main() =
 
         ZombielandSaga()
 
+        Entry {
+            id = "A-MAL-37982"    // generated
+            idMAL = 37982
+            idAniList = 103139
+            idKitsu = 41479
+            idAniDB = 14213
+            title = "Domestic na Kanojo"
+            // the domestic na kanojo war lmao
+            bestGirl = "Tachibana Hina"
+
+            Progress(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.5)
+        }
+
         Kano()
 
         Aokana()

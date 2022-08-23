@@ -6207,6 +6207,24 @@
             "DAH_entry_title": "367Days"
         }
     },
+    "A-MAL-37982": {
+        "id": "A-MAL-37982",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Domestic na Kanojo",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14213,
+                "id_Kitsu": 41479,
+                "id_AniList": 103139,
+                "id_MyAnimeList": 37982
+            },
+            "DAH_entry_bestGirl": "Tachibana Hina"
+        }
+    },
     "M-VGMDB-AL-96290-1": {
         "id": "M-VGMDB-AL-96290-1",
         "children": {

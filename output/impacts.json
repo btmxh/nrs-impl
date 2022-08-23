@@ -7961,6 +7961,34 @@
     },
     {
         "contributors": {
+            "A-MAL-23277": 0.2,
+            "A-MAL-30727": 0.2,
+            "A-MAL-37982": 0.4,
+            "A-MAL-14813": 0.05,
+            "A-MAL-23847": 0.15000000000000002
+        },
+        "score": [
+            0.0,
+            3.7224194364083982,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 90,
+            "strength": 1.0,
+            "meme_duration_value": 0.9306048591020996,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-23277": 1.0
         },
         "score": [
@@ -17301,6 +17329,53 @@
             "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.4
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-37982": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-37982": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.3
         }
     },
     {

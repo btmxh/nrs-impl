@@ -33,6 +33,18 @@ fun DSLScope.Saekano() {
             contributors["A-MAL-30727"] = 0.5
         }
 
+        // domestic kanojo war arc
+        Meme(1.0, 90) {
+            val saekano = 0.4
+            val domeKano = 0.4
+            val oregairu = 0.2
+            contributors["A-MAL-23277"] = 0.5 * saekano
+            contributors["A-MAL-30727"] = 0.5 * saekano
+            contributors["A-MAL-37982"] = domeKano
+            contributors["A-MAL-14813"] = 0.25 * oregairu
+            contributors["A-MAL-23847"] = 0.75 * oregairu
+        }
+
         Entry {
             id = "A-MAL-23277"    // generated
             idMAL = 23277
