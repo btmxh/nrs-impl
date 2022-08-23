@@ -7835,6 +7835,24 @@
             "DAH_entry_title": "A song for You! You? You!!"
         }
     },
+    "A-MAL-40904": {
+        "id": "A-MAL-40904",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Bokutachi no Remake",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15320,
+                "id_Kitsu": 42924,
+                "id_AniList": 114065,
+                "id_MyAnimeList": 40904
+            },
+            "DAH_entry_bestGirl": "Kawasegawa Eiko"
+        }
+    },
     "A-MAL-37744": {
         "id": "A-MAL-37744",
         "children": {

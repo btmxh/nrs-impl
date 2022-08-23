@@ -618,6 +618,23 @@ fun main() =
             KilledBy("A-MAL-41530", 0.1, 0.4)
         }
 
+        Entry {
+            id = "A-MAL-40904"    // generated
+            idMAL = 40904
+            idAniList = 114065
+            idKitsu = 42924
+            idAniDB = 15320
+            title = "Bokutachi no Remake"
+            bestGirl = "Kawasegawa Eiko"
+            // this was expected to be a good compoly
+            // anime, but it doesn't care about that
+            // and just march on with its plot
+            Visual(VisualKind.Animated, 0.5, 0.3)
+            Progress(Boredom.Completed)
+            KilledBy("A-MAL-41530", 0.2, 0.2)
+            FeatureMusic("M-VGMDB-AL-111089-5")
+        }
+
         Kano()
 
         Aokana()
