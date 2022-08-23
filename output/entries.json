@@ -5272,6 +5272,24 @@
             "DAH_entry_title": "Mata Ashita"
         }
     },
+    "A-MAL-38659": {
+        "id": "A-MAL-38659",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14477,
+                "id_Kitsu": 42079,
+                "id_AniList": 105156,
+                "id_MyAnimeList": 38659
+            },
+            "DAH_entry_bestGirl": "Ristarte"
+        }
+    },
     "A-MAL-37890": {
         "id": "A-MAL-37890",
         "children": {

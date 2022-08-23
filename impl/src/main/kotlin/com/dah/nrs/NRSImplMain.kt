@@ -409,6 +409,21 @@ fun main() =
             AEI(5.0, Emotion.AP)
         }
 
+        Entry {
+            id = "A-MAL-38659"    // generated
+            idMAL = 38659
+            idAniList = 105156
+            idKitsu = 42079
+            idAniDB = 14477
+            title = "Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru"
+            // very funny lmao
+            AEI(5.0, Emotion.AP)
+            // restep sequel leaked no way
+            bestGirl = "Ristarte"
+            Progress(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.4, 0.5)
+        }
+
         Kano()
 
         Aokana()
