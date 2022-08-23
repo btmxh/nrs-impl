@@ -41,7 +41,7 @@ def nrs_boredom_to_status(boredom_name: Optional[str]) -> Optional[Status]:
     if boredom_name is None:
         return None
     boredom_name = boredom_name.lower()
-    if boredom_name.startswith('completed'):
+    if boredom_name.startswith('completed') or boredom_name == 'partially dropped':
         return Status.Completed
     elif boredom_name == 'watching':
         return Status.Watching

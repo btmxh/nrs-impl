@@ -13,7 +13,8 @@ class dah_uncompleted_no_progress(data: Data) : ValidationRule(data) {
             val progress = it.value.meta["DAH_entry_progress"] as? JsonObject ?: return@filter false
             val status = (progress["status"] as? JsonPrimitive)?.contentOrNull
             val episode = progress["episode"] as? JsonPrimitive
-            status != null && !status.startsWith("Completed") && status != "Unwatched"
+            status != null && !status.startsWith("Completed")
+                    && status != "Unwatched" && status != "Partially dropped"
                     && (episode == null || episode is JsonNull)
         }.keys.forEach {
             warn("Uncompleted entry $it doesn't have an episode specification")
