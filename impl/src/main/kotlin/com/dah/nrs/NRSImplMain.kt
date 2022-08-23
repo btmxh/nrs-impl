@@ -395,6 +395,20 @@ fun main() =
         Bokuben()
         IsekaiQuartet()
 
+        Entry {
+            id = "A-MAL-38656"    // generated
+            idMAL = 38656
+            idAniList = 105190
+            idKitsu = 42260
+            idAniDB = 14476
+            title = "Darwin's Game"
+            bestGirl = "Karino Shuka"
+            Progress(Boredom.Completed)
+            Visual(VisualKind.Animated, 0.3, 0.4)
+            // "plot is good"
+            AEI(5.0, Emotion.AP)
+        }
+
         Kano()
 
         Aokana()

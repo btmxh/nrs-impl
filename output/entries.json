@@ -5182,6 +5182,24 @@
             "DAH_entry_title": "Colorful (tamame's apostate remix)"
         }
     },
+    "A-MAL-38656": {
+        "id": "A-MAL-38656",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Darwin's Game",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14476,
+                "id_Kitsu": 42260,
+                "id_AniList": 105190,
+                "id_MyAnimeList": 38656
+            },
+            "DAH_entry_bestGirl": "Karino Shuka"
+        }
+    },
     "M-VGMDB-AL-34411-6": {
         "id": "M-VGMDB-AL-34411-6",
         "children": {
