@@ -480,6 +480,26 @@ fun main() =
 
         D4DJ()
 
+        Entry {
+            id = "A-MAL-39790"    // generated
+            idMAL = 39790
+            idAniList = 109287
+            idKitsu = 42342
+            idAniDB = 14904
+            title = "Adachi to Shimamura"
+            bestGirl = "Shimamura Hougetsu"
+
+            Progress(Boredom.TempOnHold, 3)
+            Visual(VisualKind.Animated, 0.65, 0.3)
+
+            // "A PADS about freedomism
+            // (basically I want to be like the girls,
+            // skipping out class etc.)"
+            // ADA foreshadowing lol
+            PADS(2, Emotion.CP)
+            KilledBy("F-VGMDB-2588", 0.75, 0.3)
+        }
+
         Kano()
 
         Aokana()

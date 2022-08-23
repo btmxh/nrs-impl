@@ -3661,6 +3661,25 @@
             "DAH_entry_title": "Loop Shiteru"
         }
     },
+    "A-MAL-39790": {
+        "id": "A-MAL-39790",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Adachi to Shimamura",
+            "DAH_entry_progress": {
+                "episode": 3,
+                "status": "Temporarily On-Hold"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14904,
+                "id_Kitsu": 42342,
+                "id_AniList": 109287,
+                "id_MyAnimeList": 39790
+            },
+            "DAH_entry_bestGirl": "Shimamura Hougetsu"
+        }
+    },
     "M-VGMDB-AL-95369": {
         "id": "M-VGMDB-AL-95369",
         "children": {

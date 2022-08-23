@@ -19527,6 +19527,79 @@
     },
     {
         "contributors": {
+            "A-MAL-39790": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.5,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 5,
+            "type": "boredom",
+            "boredom_level_name": "Temporarily On-Hold"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39790": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.4949999999999999,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.3,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.65
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-39790": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            3.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "pads_score": 3.5,
+            "emotions": {
+                "CalmingPleasant": 1.0
+            },
+            "pads_length": 2,
+            "type": "pads"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369": 1.0
         },
         "score": [
