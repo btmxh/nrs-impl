@@ -1611,6 +1611,14 @@
             }
         }
     },
+    "M-VGMDB-AL-68189-1": {
+        "id": "M-VGMDB-AL-68189-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Habataki no Birthday"
+        }
+    },
     "A-MAL-50267": {
         "id": "A-MAL-50267",
         "children": {
@@ -2748,6 +2756,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "THE IDOLM@STER CINDERELLA MASTER EVERMORE"
+        }
+    },
+    "A-MAL-34177": {
+        "id": "A-MAL-34177",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tenshi no 3P!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 12451,
+                "id_Kitsu": 12624,
+                "id_AniList": 97683,
+                "id_MyAnimeList": 34177
+            },
+            "DAH_entry_bestGirl": "Toriumi Sakura"
         }
     },
     "M-VGMDB-AL-84229-1": {
@@ -4350,6 +4376,17 @@
             "DAH_entry_title": "Roselia"
         }
     },
+    "F-VGMDB-5549": {
+        "id": "F-VGMDB-5549",
+        "children": {
+            "A-MAL-34177": 1.0,
+            "M-VGMDB-AL-68189": 1.0,
+            "M-VGMDB-AL-69018": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Tenshi no 3P!"
+        }
+    },
     "M-VGMDB-AL-80341-1": {
         "id": "M-VGMDB-AL-80341-1",
         "children": {
@@ -4775,6 +4812,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "My Resolution ~Mirai e no Kizuna~"
+        }
+    },
+    "M-VGMDB-AL-69018-1": {
+        "id": "M-VGMDB-AL-69018-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kusabi"
         }
     },
     "F-VGMDB-3559": {
@@ -6641,6 +6686,15 @@
             "DAH_entry_title": "Idoly Pride"
         }
     },
+    "M-VGMDB-AL-68189": {
+        "id": "M-VGMDB-AL-68189",
+        "children": {
+            "M-VGMDB-AL-68189-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Habataki no Birthday"
+        }
+    },
     "G-VGMDB-1090": {
         "id": "G-VGMDB-1090",
         "children": {
@@ -6852,6 +6906,15 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "one"
+        }
+    },
+    "M-VGMDB-AL-69018": {
+        "id": "M-VGMDB-AL-69018",
+        "children": {
+            "M-VGMDB-AL-69018-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Kusabi"
         }
     },
     "M-VGMDB-AR-11829": {

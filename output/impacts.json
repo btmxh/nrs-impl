@@ -20786,6 +20786,145 @@
     },
     {
         "contributors": {
+            "A-MAL-34177": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.15,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.3,
+            "kind": "Animated",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-34177": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-68189": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.09583333333333333,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.3,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-68189-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.7999999999999998,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 6.0,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-69018": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.09583333333333333,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.3,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-69018-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.8999999999999999,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "input_score": 3.0,
+            "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95369": 1.0
         },
         "score": [

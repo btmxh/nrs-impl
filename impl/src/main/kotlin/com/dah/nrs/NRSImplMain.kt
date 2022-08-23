@@ -706,6 +706,8 @@ fun main() =
             KilledBy("F-VGMDB-7059", 0.3, 0.15)
         }
 
+        Tenshi3P()
+
         Kano()
 
         Aokana()
