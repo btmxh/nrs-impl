@@ -533,6 +533,22 @@ fun main() =
             KilledBy("F-VGMDB-2588", 0.5, 0.5)
         }
 
+        Entry {
+            id = "A-MAL-40783"    // generated
+            idMAL = 40783
+            idAniList = 113570
+            idKitsu = 42850
+            idAniDB = 15285
+            title = "Shachou, Battle no Jikan Desu!"
+            // insert hatsune miku joke here
+            bestGirl = "Akari"
+
+            // the hatsune miku method
+            AEI(2.0, Emotion.AP)
+            Visual(VisualKind.Animated, 0.3, 0.3)
+            Progress(Boredom.Completed)
+        }
+
         Kano()
 
         Aokana()

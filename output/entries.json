@@ -3671,6 +3671,24 @@
             "DAH_entry_title": "Asuiro Koi Moyou"
         }
     },
+    "A-MAL-40783": {
+        "id": "A-MAL-40783",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Shachou, Battle no Jikan Desu!",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15285,
+                "id_Kitsu": 42850,
+                "id_AniList": 113570,
+                "id_MyAnimeList": 40783
+            },
+            "DAH_entry_bestGirl": "Akari"
+        }
+    },
     "M-VGMDB-AL-105612": {
         "id": "M-VGMDB-AL-105612",
         "children": {
