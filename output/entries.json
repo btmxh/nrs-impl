@@ -1024,6 +1024,16 @@
             "DAH_entry_title": "Taneda Risa"
         }
     },
+    "F-1": {
+        "id": "F-1",
+        "children": {
+            "A-MAL-38472": 1.0,
+            "A-MAL-39988": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Isekai Quartet"
+        }
+    },
     "M-VGMDB-AL-89431": {
         "id": "M-VGMDB-AL-89431",
         "children": {
@@ -3686,6 +3696,24 @@
             "DAH_entry_bestGirl": "Kesshouban"
         }
     },
+    "A-MAL-38472": {
+        "id": "A-MAL-38472",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Isekai Quartet",
+            "DAH_entry_progress": {
+                "status": "Completed with noticeable boredom"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14435,
+                "id_Kitsu": 42032,
+                "id_AniList": 104454,
+                "id_MyAnimeList": 38472
+            },
+            "DAH_entry_bestGirl": "Ram"
+        }
+    },
     "M-VGMDB-AL-51276-2": {
         "id": "M-VGMDB-AL-51276-2",
         "children": {
@@ -5197,6 +5225,25 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Takada Yuuki"
+        }
+    },
+    "A-MAL-39988": {
+        "id": "A-MAL-39988",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Isekai Quartet 2",
+            "DAH_entry_progress": {
+                "episode": 4,
+                "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14964,
+                "id_Kitsu": 42410,
+                "id_AniList": 110178,
+                "id_MyAnimeList": 39988
+            },
+            "DAH_entry_bestGirl": "Filo"
         }
     },
     "M-VGMDB-AL-30302-2": {

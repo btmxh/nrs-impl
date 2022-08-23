@@ -18,7 +18,7 @@ import com.dah.nrs.seasonal.Summer2022
 // A-1
 // L-1
 // G-1
-// F-1
+// F-2
 // O-5
 
 fun main() =
@@ -393,6 +393,7 @@ fun main() =
 
         Gotoubun()
         Bokuben()
+        IsekaiQuartet()
 
         Kano()
 
