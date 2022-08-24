@@ -24777,6 +24777,33 @@
     },
     {
         "contributors": {
+            "A-MAL-21167": 0.5,
+            "G-VGMDB-1090": 0.5
+        },
+        "score": [
+            0.0,
+            2.3,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedPleasant": 1.0
+            },
+            "input_score": 3.0,
+            "type": "aei",
+            "clamped_score": 3.0
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-21167": 1.0
         },
         "score": [

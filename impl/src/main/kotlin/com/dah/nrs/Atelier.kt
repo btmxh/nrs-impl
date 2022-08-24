@@ -14,6 +14,12 @@ fun DSLScope.Atelier() {
         id = "F-VGMDB-694"
         title = "Atelier"
 
+        // will be EHI when I finished the Dusk series
+        AEI(3.0, Emotion.AP) {
+            contributors["A-MAL-21167"] = 0.5
+            contributors["G-VGMDB-1090"] = 0.5
+        }
+
         Entry {
             id = "A-MAL-21167"    // generated
             idMAL = 21167
@@ -26,7 +32,7 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            Progress(Boredom.Watching, 7)
+            Progress(Boredom.Watching, 8)
 
             // this anime somewhat feels like those rst-inspired-CP-based anime ngl
             // NEI(0.3, Emotion.CP)
