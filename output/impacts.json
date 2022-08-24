@@ -10249,7 +10249,7 @@
         },
         "score": [
             0.0,
-            0.041937900055952444,
+            0.04201002052878883,
             0.0,
             0.0,
             0.0,
@@ -10261,9 +10261,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 145,
+            "meme_duration": 146,
             "strength": 0.01,
-            "meme_duration_value": 1.048447501398811,
+            "meme_duration_value": 1.0502505132197206,
             "type": "meme"
         }
     },
@@ -11191,7 +11191,7 @@
         },
         "score": [
             0.0,
-            3.6479125792101197,
+            3.6744446004373286,
             0.0,
             0.0,
             0.0,
@@ -11203,9 +11203,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 34,
+            "meme_duration": 35,
             "strength": 1.25,
-            "meme_duration_value": 0.7295825158420239,
+            "meme_duration_value": 0.7348889200874658,
             "type": "meme"
         }
     },
