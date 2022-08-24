@@ -394,6 +394,7 @@ fun main() =
         Gotoubun()
         Bokuben()
         IsekaiQuartet()
+        DrStone()
 
         Entry {
             id = "A-MAL-38656"    // generated

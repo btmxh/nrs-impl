@@ -1957,6 +1957,18 @@
             "DAH_entry_bestGirl": "Usami Mizuki"
         }
     },
+    "F-VGMDB-9159": {
+        "id": "F-VGMDB-9159",
+        "children": {
+            "A-MAL-38691": 1.0,
+            "M-VGMDB-AL-87927-1": 1.0,
+            "A-MAL-40852": 1.0,
+            "A-MAL-50612": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone"
+        }
+    },
     "M-VGMDB-AL-111027": {
         "id": "M-VGMDB-AL-111027",
         "children": {
@@ -2811,6 +2823,24 @@
             "DAH_entry_title": "Stereo Life"
         }
     },
+    "A-MAL-40852": {
+        "id": "A-MAL-40852",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone: Stone Wars",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 15305,
+                "id_Kitsu": 42867,
+                "id_AniList": 113936,
+                "id_MyAnimeList": 40852
+            },
+            "DAH_entry_bestGirl": "Yuzuriha Ogawa"
+        }
+    },
     "M-VGMDB-AL-23391": {
         "id": "M-VGMDB-AL-23391",
         "children": {
@@ -3340,6 +3370,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Don't think, smile!!"
+        }
+    },
+    "A-MAL-50612": {
+        "id": "A-MAL-50612",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone: Ryuusui",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 16164,
+                "id_Kitsu": 45615,
+                "id_AniList": 142876,
+                "id_MyAnimeList": 50612
+            },
+            "DAH_entry_bestGirl": "Yuzuriha Ogawa"
         }
     },
     "F-VGMDB-4168": {
@@ -6440,6 +6488,24 @@
             "DAH_entry_bestGirl": "Yotsuya Kyousuke"
         }
     },
+    "A-MAL-38691": {
+        "id": "A-MAL-38691",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_AniDB": 14491,
+                "id_Kitsu": 42080,
+                "id_AniList": 105333,
+                "id_MyAnimeList": 38691
+            },
+            "DAH_entry_bestGirl": "Yuzuriha Ogawa"
+        }
+    },
     "M-VGMDB-AL-85537": {
         "id": "M-VGMDB-AL-85537",
         "children": {
@@ -6966,6 +7032,15 @@
             "DAH_entry_title": "A song for You! You? You!!"
         }
     },
+    "M-VGMDB-AL-87927": {
+        "id": "M-VGMDB-AL-87927",
+        "children": {
+            "M-VGMDB-AL-87927-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Good Morning World!"
+        }
+    },
     "M-VGMDB-AL-52834": {
         "id": "M-VGMDB-AL-52834",
         "children": {
@@ -7470,6 +7545,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Aruite Ikou!"
+        }
+    },
+    "M-VGMDB-AL-87927-1": {
+        "id": "M-VGMDB-AL-87927-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Good Morning World!"
         }
     },
     "M-VGMDB-AL-116297": {
