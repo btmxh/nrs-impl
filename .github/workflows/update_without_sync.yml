@@ -1,0 +1,19 @@
+name: Update without sync
+
+on:
+  push
+
+jobs:
+  update-without-sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v2
+    - name: Setup Gradle
+      uses: gradle/gradle-build-action@v2
+    - name: Run Gradle task :updateWithoutSync
+      run: ./gradlew updateWithoutSync
+    - name: Make commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: [gh-action] Update without sync
