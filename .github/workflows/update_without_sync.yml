@@ -25,6 +25,8 @@ jobs:
       working-directory: ./scripts
     - name: Run Gradle task :updateWithoutSync
       run: ./gradlew updateWithoutSync
+    - name: Delete anime-offline-database
+      run: rm -rf anime-offline-database
     - name: Make commit
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
