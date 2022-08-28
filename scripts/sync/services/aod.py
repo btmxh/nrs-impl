@@ -45,6 +45,6 @@ def load_aod_minified(service: Service) -> Dict[str, dict]:
     return id_map
 
 
-@functools.cache
+@functools.lru_cache(maxsize=None)
 def load_aod_minified_memoize(service: Service) -> Dict[str, dict]:
     return load_aod_minified(service)

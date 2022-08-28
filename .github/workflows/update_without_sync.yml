@@ -1,0 +1,33 @@
+name: Update without sync
+
+on:
+  push
+
+jobs:
+  update-without-sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v2
+    - name: Checkout anime-offline-database
+      uses: actions/checkout@v2
+      with:
+        repository: manami-project/anime-offline-database
+        path: anime-offline-database
+    - name: Setup Gradle
+      uses: gradle/gradle-build-action@v2
+    - name: Create (dummy) user-secrets.py
+      run: "echo 'AOD_PATH=\"anime-offline-database/anime-offline-database-minified.json\"' > scripts/sync/services/user_secrets.py"
+    - name: (Debug) cat user-secrets.py
+      run: cat scripts/sync/services/user_secrets.py
+    - name: Install npm dependencies for make_csv.js
+      run: npm install
+      working-directory: ./scripts
+    - name: Run Gradle task :updateWithoutSync
+      run: ./gradlew updateWithoutSync
+    - name: Delete anime-offline-database
+      run: rm -rf anime-offline-database
+    - name: Make commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: '[gh-action] Update without sync'
