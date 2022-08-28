@@ -20,6 +20,9 @@ jobs:
       run: "echo 'AOD_PATH=\"anime-offline-database/anime-offline-database-minified.json\"' > scripts/sync/services/user_secrets.py"
     - name: (Debug) cat user-secrets.py
       run: cat scripts/sync/services/user_secrets.py
+    - name: Install npm dependencies for make_csv.js
+      run: npm install
+      working-directory: ./scripts
     - name: Run Gradle task :updateWithoutSync
       run: ./gradlew updateWithoutSync
     - name: Make commit
