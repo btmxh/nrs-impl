@@ -1,3 +1,4 @@
+import json
 from sync.services.user_secrets import CLIENT_ID, CLIENT_SECRET, MAL_REFRESH_TOKEN
 import requests
 
@@ -10,5 +11,5 @@ response = requests.post('https://myanimelist.net/v1/oauth2/token', {
 
 response.raise_for_status()
 token = response.json()
-with open("temp/mal_auth.json", encoding="utf-8") as f:
-    f.write(response.json())
+with open("temp/mal_auth.json", "w", encoding="utf-8") as f:
+    json.dump(response.json(), f)

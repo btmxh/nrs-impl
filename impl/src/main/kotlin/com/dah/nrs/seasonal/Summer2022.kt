@@ -152,7 +152,7 @@ fun DSLScope.Summer2022() {
 
         Visual(VisualKind.Animated, 0.5, 0.1)
 
-        Progress(Boredom.Watching, 7)
+        Progress(Boredom.Watching, 8)
         KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
     }
