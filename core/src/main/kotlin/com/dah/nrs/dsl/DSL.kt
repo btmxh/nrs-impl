@@ -7,6 +7,7 @@ import com.dah.nrs.exts.*
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.*
 import java.time.LocalDate
+import java.time.ZoneId
 import kotlin.io.path.Path
 import kotlin.io.path.writeText
 import kotlin.reflect.KProperty
@@ -277,6 +278,7 @@ abstract class MetaProperty<T : Any>(private val path: List<String>) {
 
 fun numDays(from: String, to: String? = null): Int {
     val fromDate = LocalDate.parse(from)
-    val toDate = to?.let { LocalDate.parse(it) } ?: LocalDate.now()
+    val zone = ZoneId.of("Asia/Ho_Chi_Minh")
+    val toDate = to?.let { LocalDate.parse(it) } ?: LocalDate.now(zone)
     return (toDate.toEpochDay() - fromDate.toEpochDay()).toInt()
 }
