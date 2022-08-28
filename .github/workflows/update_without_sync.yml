@@ -12,12 +12,12 @@ jobs:
     - name: Checkout anime-offline-database
       uses: actions/checkout@v2
       with:
-        name: manami-project/anime-offline-database
+        repository: manami-project/anime-offline-database
         path: anime-offline-database
     - name: Setup Gradle
       uses: gradle/gradle-build-action@v2
     - name: Create (dummy) user-secrets.py
-      run: "echo 'AOD_PATH=\"${GITHUB_WORKSPACE}/anime-offline-database/anime-offline-database-minified.json\"' > scripts/sync/services/user_secrets.py"
+      run: "echo 'AOD_PATH=\"anime-offline-database/anime-offline-database-minified.json\"' > scripts/sync/services/user_secrets.py"
     - name: (Debug) cat user-secrets.py
       run: cat scripts/sync/services/user_secrets.py
     - name: Run Gradle task :updateWithoutSync
