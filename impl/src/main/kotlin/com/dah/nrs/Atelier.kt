@@ -15,9 +15,10 @@ fun DSLScope.Atelier() {
         title = "Atelier"
 
         // will be EHI when I finished the Dusk series
-        AEI(3.0, Emotion.AP) {
-            contributors["A-MAL-21167"] = 0.5
-            contributors["G-VGMDB-1090"] = 0.5
+        AEI(5.0, Emotion.AP) {
+            contributors["A-MAL-21167"] = 0.4
+            contributors["G-VGMDB-1090"] = 0.3
+            contributors["G-VGMDB-1880"] = 0.3
         }
 
         Entry {
@@ -79,6 +80,7 @@ fun DSLScope.Atelier() {
 
             Visual(VisualKind.RPG3DGame, 0.5, 0.4)
             Visual(VisualKind.VisualNovel, 0.4, 0.3)
+            Boredom(Boredom.Completed)
         }
 
         Entry {
@@ -91,6 +93,22 @@ fun DSLScope.Atelier() {
             // atelier games visual comes in two part
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
+            Boredom(Boredom.Completed)
+        }
+
+        Entry {
+            id = "G-VGMDB-1880"
+            title = "Atelier Escha & Logy ~Alchemists of the Dusk Sky~"
+            // fucking finally
+
+            bestGirl = "Malier Escha"
+            // I heard somewhere that “Love strikes so suddenly”
+            // I thought I was indifferent and I held back my feelings
+
+            // obligatory potential waifu buff
+            Visual(VisualKind.RPG3DGame, 0.7, 0.4)
+            Visual(VisualKind.VisualNovel, 0.6, 0.3)
+            Boredom(Boredom.Watching)
         }
     }
 }
