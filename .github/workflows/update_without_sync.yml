@@ -30,4 +30,4 @@ jobs:
     - name: Make commit
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: '[gh-action] Update without sync'
+        commit_message: 'chore(impl): :package: Update without sync'
