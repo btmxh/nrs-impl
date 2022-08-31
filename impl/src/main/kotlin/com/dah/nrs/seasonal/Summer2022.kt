@@ -171,7 +171,7 @@ fun DSLScope.Summer2022() {
         // (they know about her songs in sb69 these cheeky mfs)
 
         Visual(VisualKind.Animated, 0.4, 0.5)
-        Progress(Boredom.Watching, 6)
+        Progress(Boredom.Watching, 7)
         KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
     }
