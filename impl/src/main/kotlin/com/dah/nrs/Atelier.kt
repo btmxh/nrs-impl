@@ -33,7 +33,7 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            Progress(Boredom.Watching, 8)
+            Progress(Boredom.Watching, 9)
 
             // this anime somewhat feels like those rst-inspired-CP-based anime ngl
             // NEI(0.3, Emotion.CP)
