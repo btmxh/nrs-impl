@@ -108,6 +108,7 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
+            ValidatorSuppress("dah-uncompleted-no-progress")
             Progress(Boredom.Watching)
         }
     }
