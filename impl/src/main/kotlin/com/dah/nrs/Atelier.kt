@@ -80,7 +80,7 @@ fun DSLScope.Atelier() {
 
             Visual(VisualKind.RPG3DGame, 0.5, 0.4)
             Visual(VisualKind.VisualNovel, 0.4, 0.3)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {
@@ -93,7 +93,7 @@ fun DSLScope.Atelier() {
             // atelier games visual comes in two part
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
-            Boredom(Boredom.Completed)
+            Progress(Boredom.Completed)
         }
 
         Entry {
@@ -108,7 +108,7 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
-            Boredom(Boredom.Watching)
+            Progress(Boredom.Watching)
         }
     }
 }
