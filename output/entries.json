@@ -4639,6 +4639,21 @@
             "DAH_entry_title": "over and over"
         }
     },
+    "G-VGMDB-1880": {
+        "id": "G-VGMDB-1880",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-uncompleted-no-progress"
+            ],
+            "DAH_entry_title": "Atelier Escha & Logy ~Alchemists of the Dusk Sky~",
+            "DAH_entry_progress": {
+                "status": "Watching"
+            },
+            "DAH_entry_bestGirl": "Malier Escha"
+        }
+    },
     "F-1": {
         "id": "F-1",
         "children": {
@@ -6406,6 +6421,9 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
             "DAH_entry_bestGirl": "Wise Spirit"
         }
     },
@@ -6793,7 +6811,10 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi"
+            "DAH_entry_title": "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-100754": {
@@ -7579,7 +7600,8 @@
             "A-MAL-21167": 1.0,
             "M-VGMDB-AL-45361": 1.0,
             "G-VGMDB-3499": 1.0,
-            "G-VGMDB-1090": 1.0
+            "G-VGMDB-1090": 1.0,
+            "G-VGMDB-1880": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "Atelier"

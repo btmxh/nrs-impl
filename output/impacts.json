@@ -10249,7 +10249,7 @@
         },
         "score": [
             0.0,
-            0.0423651664088491,
+            0.04243513389147772,
             0.0,
             0.0,
             0.0,
@@ -10261,9 +10261,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 151,
+            "meme_duration": 152,
             "strength": 0.01,
-            "meme_duration_value": 1.0591291602212276,
+            "meme_duration_value": 1.060878347286943,
             "type": "meme"
         }
     },
@@ -11191,7 +11191,7 @@
         },
         "score": [
             0.0,
-            3.799178428257963,
+            3.822703876920779,
             0.0,
             0.0,
             0.0,
@@ -11203,9 +11203,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 40,
+            "meme_duration": 41,
             "strength": 1.25,
-            "meme_duration_value": 0.7598356856515925,
+            "meme_duration_value": 0.7645407753841558,
             "type": "meme"
         }
     },
@@ -24777,12 +24777,13 @@
     },
     {
         "contributors": {
-            "A-MAL-21167": 0.5,
-            "G-VGMDB-1090": 0.5
+            "A-MAL-21167": 0.4,
+            "G-VGMDB-1090": 0.3,
+            "G-VGMDB-1880": 0.3
         },
         "score": [
             0.0,
-            2.3,
+            2.5,
             0.0,
             0.0,
             0.0,
@@ -24797,9 +24798,9 @@
             "emotions": {
                 "ActivatedPleasant": 1.0
             },
-            "input_score": 3.0,
+            "input_score": 5.0,
             "type": "aei",
-            "clamped_score": 3.0
+            "clamped_score": 5.0
         }
     },
     {
@@ -24945,6 +24946,29 @@
     },
     {
         "contributors": {
+            "G-VGMDB-3499": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
             "G-VGMDB-1090": 1.0
         },
         "score": [
@@ -24989,6 +25013,100 @@
             "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "G-VGMDB-1090": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 0,
+            "type": "boredom",
+            "boredom_level_name": "Completed"
+        }
+    },
+    {
+        "contributors": {
+            "G-VGMDB-1880": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.1199999999999999,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.4,
+            "kind": "RPG3DGame",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.7
+        }
+    },
+    {
+        "contributors": {
+            "G-VGMDB-1880": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.22999999999999998,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.3,
+            "kind": "VisualNovel",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.6
+        }
+    },
+    {
+        "contributors": {
+            "G-VGMDB-1880": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.75,
+            0.0
+        ],
+        "DAH_meta": {
+            "boredom_level": 4,
+            "type": "boredom",
+            "boredom_level_name": "Watching"
         }
     },
     {
