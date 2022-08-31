@@ -44,7 +44,7 @@ fun DSLScope.Summer2022() {
         Visual(VisualKind.Animated, 0.4, 0.85)
 
         // the rescue mission succeeded let's goooooo
-        Progress(Boredom.Watching, 8)
+        Progress(Boredom.Watching, 9)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
