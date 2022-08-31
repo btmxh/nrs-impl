@@ -98,7 +98,7 @@ fun DSLScope.Atelier() {
 
         Entry {
             id = "G-VGMDB-1880"
-            title = "Atelier Escha & Logy ~Alchemists of the Dusk Sky~"
+            title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~"
             // fucking finally
 
             bestGirl = "Malier Escha"
