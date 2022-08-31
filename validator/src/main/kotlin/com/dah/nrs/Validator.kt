@@ -9,6 +9,8 @@ import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonPrimitive
 import kotlin.math.absoluteValue
 
+var exitCode = 0
+
 class Data(
     val entries: Map<ID, IMetaEntry> = deserializeEntries(),
     val impacts: List<IMetaImpact> = deserializeImpacts(),
@@ -27,6 +29,7 @@ abstract class ValidationRule(val data: Data) {
     protected val scores = data.scores.filterValues { it.isNotSuppressed(getName()) }
 
     protected fun warn(message: String) {
+        exitCode = 1
         println("[WARN] Rule ${getName()}: $message")
     }
 
@@ -58,4 +61,6 @@ fun main() {
     )) {
         rule.run()
     }
+
+    exitProcess(exitCode)
 }
