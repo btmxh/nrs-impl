@@ -58,6 +58,8 @@ fun DSLScope.Kaguya() {
             Progress(Boredom.Dropped, 9)
             Visual(VisualKind.Animated, 0.5, 0.4)
             FeatureMusic("M-VGMDB-AL-83397-1")
+            // domestic kanojo war arc
+            Meme(0.25, 90)
         }
 
         // these are ranked just to help to carry the AEI for s1

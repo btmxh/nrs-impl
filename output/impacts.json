@@ -782,6 +782,78 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AR-26898": 1.0
+        },
+        "score": [
+            0.0,
+            0.15563162542613226,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.05,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AR-10934": 1.0
+        },
+        "score": [
+            0.0,
+            0.15563162542613226,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.05,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AR-10934": 1.0
+        },
+        "score": [
+            0.0,
+            0.30766422692538353,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 0.1,
+            "meme_duration_value": 0.7691605673134587,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-49446": 1.0
         },
         "score": [
@@ -1311,6 +1383,102 @@
         "DAH_meta": {
             "input_score": 2.5,
             "type": "DAH_nonstandard_music"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AR-8480": 1.0
+        },
+        "score": [
+            0.0,
+            0.9337897525567934,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.3,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AR-8480": 1.0
+        },
+        "score": [
+            0.0,
+            1.076824794238842,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 0.35,
+            "meme_duration_value": 0.7691605673134587,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AR-14761": 1.0
+        },
+        "score": [
+            0.0,
+            0.6225265017045291,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.2,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AR-14761": 1.0
+        },
+        "score": [
+            0.0,
+            0.9229926807761504,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 0.3,
+            "meme_duration_value": 0.7691605673134587,
+            "type": "meme"
         }
     },
     {
@@ -5930,6 +6098,39 @@
     },
     {
         "contributors": {
+            "A-MAL-40879": 0.25,
+            "A-MAL-48916": 0.35,
+            "A-MAL-15051": 0.05,
+            "A-MAL-19111": 0.05,
+            "A-MAL-32526": 0.05,
+            "A-MAL-34973": 0.05,
+            "A-MAL-41169": 0.05,
+            "A-MAL-50203": 0.05,
+            "A-MAL-24997": 0.05,
+            "A-MAL-37027": 0.05
+        },
+        "score": [
+            0.0,
+            0.15563162542613226,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.05,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-15051": 0.4,
             "A-MAL-19111": 0.4,
             "A-MAL-24997": 0.2
@@ -6385,31 +6586,6 @@
     },
     {
         "contributors": {
-            "A-MAL-40879": 0.8,
-            "M-VGMDB-AR-11666": 0.2
-        },
-        "score": [
-            0.0,
-            3.8869649478519417,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "meme_duration": 107,
-            "strength": 1.0,
-            "meme_duration_value": 0.9717412369629854,
-            "type": "meme"
-        }
-    },
-    {
-        "contributors": {
             "A-MAL-40879": 1.0
         },
         "score": [
@@ -6479,6 +6655,30 @@
             "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-40879": 1.0
+        },
+        "score": [
+            0.0,
+            3.8869649478519417,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 107,
+            "strength": 1.0,
+            "meme_duration_value": 0.9717412369629854,
+            "type": "meme"
         }
     },
     {
@@ -8007,16 +8207,12 @@
     },
     {
         "contributors": {
-            "A-MAL-23277": 0.15,
-            "A-MAL-30727": 0.15,
-            "A-MAL-37982": 0.3,
-            "A-MAL-14813": 0.05,
-            "A-MAL-23847": 0.15000000000000002,
-            "A-MAL-37999": 0.2
+            "A-MAL-23277": 0.5,
+            "A-MAL-30727": 0.5
         },
         "score": [
             0.0,
-            3.7224194364083982,
+            2.791814577306299,
             0.0,
             0.0,
             0.0,
@@ -8029,7 +8225,7 @@
         ],
         "DAH_meta": {
             "meme_duration": 90,
-            "strength": 1.0,
+            "strength": 0.75,
             "meme_duration_value": 0.9306048591020996,
             "type": "meme"
         }
@@ -10249,7 +10445,7 @@
         },
         "score": [
             0.0,
-            0.04243513389147772,
+            0.04250475698673967,
             0.0,
             0.0,
             0.0,
@@ -10261,9 +10457,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 152,
+            "meme_duration": 153,
             "strength": 0.01,
-            "meme_duration_value": 1.060878347286943,
+            "meme_duration_value": 1.0626189246684916,
             "type": "meme"
         }
     },
@@ -10955,6 +11151,54 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-76155-2": 1.0
+        },
+        "score": [
+            0.0,
+            3.112632508522645,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 1.0,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-76155-2": 1.0
+        },
+        "score": [
+            0.0,
+            3.076642269253835,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 1.0,
+            "meme_duration_value": 0.7691605673134587,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-95313": 1.0
         },
         "score": [
@@ -11118,39 +11362,43 @@
     },
     {
         "contributors": {
-            "O-2": 0.012,
-            "A-MAL-40879": 0.003,
-            "A-MAL-48916": 0.0042,
-            "A-MAL-15051": 6.000000000000001E-4,
-            "A-MAL-19111": 6.000000000000001E-4,
-            "A-MAL-32526": 6.000000000000001E-4,
-            "A-MAL-34973": 6.000000000000001E-4,
-            "A-MAL-41169": 6.000000000000001E-4,
-            "A-MAL-50203": 6.000000000000001E-4,
-            "A-MAL-24997": 6.000000000000001E-4,
-            "A-MAL-37027": 6.000000000000001E-4,
-            "O-4": 0.024,
-            "A-MAL-50265": 0.012,
-            "M-VGMDB-AL-111027-10": 0.012,
-            "O-3": 0.0288,
-            "_kotachi_ [null entry]": 0.009600000000000001,
-            "A-MAL-38009": 0.24,
-            "GF-VGMDB-7059": 0.03,
-            "M-VGMDB-AR-29249": 0.003,
-            "rst songs [null entry]": 0.025500000000000002,
-            "M-VGMDB-AR-26898": 0.0111,
-            "A-MAL-27441": 0.025,
-            "A-MAL-32038": 0.03,
-            "A-MAL-40763": 0.010000000000000002,
-            "A-MAL-41520": 0.025,
-            "G-VGMDB-8429": 0.010000000000000002,
-            "M-VGMDB-AR-8480": 0.072,
-            "M-VGMDB-AR-14761": 0.048,
-            "M-VGMDB-AL-76155-2": 0.36
+            "A-MAL-27441": 0.25,
+            "A-MAL-32038": 0.3,
+            "A-MAL-40763": 0.1,
+            "A-MAL-41520": 0.25,
+            "G-VGMDB-8429": 0.1
         },
         "score": [
             0.0,
-            3.112632508522645,
+            2.679585812720176,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 59,
+            "strength": 0.8,
+            "meme_duration_value": 0.8373705664750549,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-27441": 0.25,
+            "A-MAL-32038": 0.3,
+            "A-MAL-40763": 0.1,
+            "A-MAL-41520": 0.25,
+            "G-VGMDB-8429": 0.1
+        },
+        "score": [
+            0.0,
+            0.9337897525567934,
             0.0,
             0.0,
             0.0,
@@ -11163,35 +11411,22 @@
         ],
         "DAH_meta": {
             "meme_duration": 44,
-            "strength": 1.0,
+            "strength": 0.3,
             "meme_duration_value": 0.7781581271306612,
             "type": "meme"
         }
     },
     {
         "contributors": {
-            "M-VGMDB-AL-111027-10": 0.05,
-            "A-MAL-38009": 0.08000000000000002,
-            "GF-VGMDB-7059": 0.010000000000000002,
-            "M-VGMDB-AR-29249": 0.005000000000000001,
-            "rst songs [null entry]": 0.005000000000000001,
-            "A-MAL-27441": 0.05,
-            "A-MAL-32038": 0.06,
-            "A-MAL-40763": 0.020000000000000004,
-            "A-MAL-41520": 0.05,
-            "G-VGMDB-8429": 0.020000000000000004,
-            "M-VGMDB-AR-8480": 0.048,
-            "M-VGMDB-AR-14761": 0.032,
-            "M-VGMDB-AL-76155-2": 0.32000000000000006,
-            "A-MAL-21167": 0.12,
-            "G-VGMDB-3499": 0.015,
-            "G-VGMDB-1090": 0.015,
-            "A-MAL-51096": 0.08000000000000002,
-            "A-MAL-35507": 0.020000000000000004
+            "A-MAL-27441": 0.25,
+            "A-MAL-32038": 0.3,
+            "A-MAL-40763": 0.1,
+            "A-MAL-41520": 0.25,
+            "G-VGMDB-8429": 0.1
         },
         "score": [
             0.0,
-            3.822703876920779,
+            2.307481701940376,
             0.0,
             0.0,
             0.0,
@@ -11203,9 +11438,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 41,
-            "strength": 1.25,
-            "meme_duration_value": 0.7645407753841558,
+            "meme_duration": 42,
+            "strength": 0.75,
+            "meme_duration_value": 0.7691605673134587,
             "type": "meme"
         }
     },
@@ -13880,6 +14115,31 @@
     },
     {
         "contributors": {
+            "A-MAL-35507": 0.5,
+            "A-MAL-51096": 0.5
+        },
+        "score": [
+            0.0,
+            1.8459853615523008,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 0.6,
+            "meme_duration_value": 0.7691605673134587,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-35507": 1.0
         },
         "score": [
@@ -15230,6 +15490,30 @@
     },
     {
         "contributors": {
+            "A-MAL-37999": 1.0
+        },
+        "score": [
+            0.0,
+            0.9306048591020996,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 90,
+            "strength": 0.25,
+            "meme_duration_value": 0.9306048591020996,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-40591": 1.0
         },
         "score": [
@@ -15563,18 +15847,40 @@
     },
     {
         "contributors": {
-            "A-MAL-38009": 0.315,
-            "GF-VGMDB-7059": 0.034999999999999996,
-            "A-MAL-27441": 0.1125,
-            "A-MAL-32038": 0.135,
-            "A-MAL-40763": 0.045000000000000005,
-            "A-MAL-41520": 0.1125,
-            "G-VGMDB-8429": 0.045000000000000005,
-            "O-1": 0.2
+            "A-MAL-38009": 0.75,
+            "GF-VGMDB-7059": 0.05,
+            "F-VGMDB-7059": 0.2
         },
         "score": [
             0.0,
-            4.0193787190802635,
+            3.229663116847365,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 51,
+            "strength": 1.0,
+            "meme_duration_value": 0.8074157792118413,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38009": 0.5,
+            "GF-VGMDB-7059": 0.05,
+            "M-VGMDB-AR-29249": 0.15,
+            "F-VGMDB-7059": 0.3
+        },
+        "score": [
+            0.0,
+            2.0096893595401317,
             0.0,
             0.0,
             0.0,
@@ -15587,22 +15893,21 @@
         ],
         "DAH_meta": {
             "meme_duration": 59,
-            "strength": 1.2,
+            "strength": 0.6,
             "meme_duration_value": 0.8373705664750549,
             "type": "meme"
         }
     },
     {
         "contributors": {
-            "A-MAL-38009": 0.65,
-            "GF-VGMDB-7059": 0.05,
+            "A-MAL-38009": 0.6,
+            "GF-VGMDB-7059": 0.1,
             "M-VGMDB-AR-29249": 0.1,
-            "rst songs [null entry]": 0.05,
-            "O-1": 0.15
+            "F-VGMDB-7059": 0.2
         },
         "score": [
             0.0,
-            3.9207848573414794,
+            3.3026452024749866,
             0.0,
             0.0,
             0.0,
@@ -15614,9 +15919,63 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 136,
-            "strength": 0.95,
-            "meme_duration_value": 1.0317854887740736,
+            "meme_duration": 85,
+            "strength": 0.9,
+            "meme_duration_value": 0.9174014451319407,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38009": 0.25,
+            "GF-VGMDB-7059": 0.15,
+            "M-VGMDB-AR-29249": 0.2,
+            "F-VGMDB-7059": 0.4
+        },
+        "score": [
+            0.0,
+            2.4901060068181162,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.8,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38009": 0.25,
+            "GF-VGMDB-7059": 0.15,
+            "M-VGMDB-AR-29249": 0.2,
+            "F-VGMDB-7059": 0.4
+        },
+        "score": [
+            0.0,
+            0.6153284538507671,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 0.2,
+            "meme_duration_value": 0.7691605673134587,
             "type": "meme"
         }
     },
@@ -18137,6 +18496,30 @@
             "kind": "Animated",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.3
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-37982": 1.0
+        },
+        "score": [
+            0.0,
+            2.9779355491267188,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 90,
+            "strength": 0.8,
+            "meme_duration_value": 0.9306048591020996,
+            "type": "meme"
         }
     },
     {
@@ -22775,7 +23158,7 @@
         },
         "score": [
             0.0,
-            3.3501774927675583,
+            3.3892133127079287,
             0.0,
             0.0,
             0.0,
@@ -22787,9 +23170,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 90,
-            "strength": 0.9,
-            "meme_duration_value": 0.9306048591020996,
+            "meme_duration": 151,
+            "strength": 0.8,
+            "meme_duration_value": 1.0591291602212276,
             "type": "meme"
         }
     },
@@ -24707,6 +25090,78 @@
     },
     {
         "contributors": {
+            "O-2": 1.0
+        },
+        "score": [
+            0.0,
+            0.4668948762783967,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.15,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "O-3": 1.0
+        },
+        "score": [
+            0.0,
+            0.7781581271306612,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.25,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "O-4": 1.0
+        },
+        "score": [
+            0.0,
+            0.9337897525567934,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.3,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "M-VGMDB-AL-111027": 1.0
         },
         "score": [
@@ -24777,9 +25232,84 @@
     },
     {
         "contributors": {
+            "M-VGMDB-AL-111027-10": 1.0
+        },
+        "score": [
+            0.0,
+            1.2450530034090581,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.4,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-111027-10": 1.0
+        },
+        "score": [
+            0.0,
+            0.31126325085226453,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.1,
+            "meme_duration_value": 0.7781581271306612,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-21167": 0.4,
-            "G-VGMDB-1090": 0.3,
-            "G-VGMDB-1880": 0.3
+            "G-VGMDB-1880": 0.3,
+            "G-VGMDB-1090": 0.2,
+            "G-VGMDB-3499": 0.1
+        },
+        "score": [
+            0.0,
+            2.307481701940376,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 42,
+            "strength": 0.75,
+            "meme_duration_value": 0.7691605673134587,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-21167": 0.4,
+            "G-VGMDB-1880": 0.35,
+            "G-VGMDB-1090": 0.25
         },
         "score": [
             0.0,
@@ -25084,6 +25614,35 @@
             "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
+        }
+    },
+    {
+        "contributors": {
+            "G-VGMDB-1880": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.024997685442357916,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "length_in_days": 1,
+            "name": "Malier Escha",
+            "periods": [
+                {
+                    "from": "2022-08-31",
+                    "to": "2022-09-01"
+                }
+            ],
+            "type": "waifu"
         }
     },
     {

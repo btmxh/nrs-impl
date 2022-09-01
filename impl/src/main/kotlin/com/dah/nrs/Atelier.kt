@@ -14,11 +14,18 @@ fun DSLScope.Atelier() {
         id = "F-VGMDB-694"
         title = "Atelier"
 
+        AKMEraPart2(0.75) {
+            contributors["A-MAL-21167"] = 0.4
+            contributors["G-VGMDB-1880"] = 0.3
+            contributors["G-VGMDB-1090"] = 0.2
+            contributors["G-VGMDB-3499"] = 0.1
+        }
+
         // will be EHI when I finished the Dusk series
         AEI(5.0, Emotion.AP) {
             contributors["A-MAL-21167"] = 0.4
-            contributors["G-VGMDB-1090"] = 0.3
-            contributors["G-VGMDB-1880"] = 0.3
+            contributors["G-VGMDB-1880"] = 0.35
+            contributors["G-VGMDB-1090"] = 0.25
         }
 
         Entry {
@@ -108,6 +115,24 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
+            // press f to pay respect for our tranny (me)
+            // rip (btw i started the escha logy game on my birthday lol)
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            // fuck
+            Waifu("Malier Escha", "2022-08-31" to today())
             ValidatorSuppress("dah-uncompleted-no-progress")
             Progress(Boredom.Watching)
         }

@@ -114,7 +114,7 @@ fun main() =
             AEI(3.0, Emotion.CU)
 
             // the first anime + Giap-Ngoc match = unlimited memes
-            Meme(1.0, numDays("2017-05-12" /*vietnamese priemier date*/, "2017-09-15" /*sln*/))
+            Meme(1.0, numDays("2017-05-12" /*vietnamese premiere date*/, "2017-09-15" /*sln*/))
 
             // gate-open literally all NRS entries
             // but it's too overkill so an impact instead
@@ -384,11 +384,13 @@ fun main() =
             idKitsu = 41479
             idAniDB = 14213
             title = "Domestic na Kanojo"
-            // the domestic na kanojo war lmao
             bestGirl = "Tachibana Hina"
 
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.5)
+
+            // the domestic na kanojo war lmao
+            Meme(0.8, 90)
         }
 
         Gotoubun()

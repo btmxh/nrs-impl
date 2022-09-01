@@ -278,7 +278,10 @@ abstract class MetaProperty<T : Any>(private val path: List<String>) {
 
 fun numDays(from: String, to: String? = null): Int {
     val fromDate = LocalDate.parse(from)
-    val zone = ZoneId.of("Asia/Ho_Chi_Minh")
-    val toDate = to?.let { LocalDate.parse(it) } ?: LocalDate.now(zone)
+    val toDate = LocalDate.parse(to ?: today())
     return (toDate.toEpochDay() - fromDate.toEpochDay()).toInt()
+}
+
+fun today(): String {
+    return LocalDate.now(ZoneId.of("Asia/Ho_Chi_Minh")).toString()
 }

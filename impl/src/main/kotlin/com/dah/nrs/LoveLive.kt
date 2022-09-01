@@ -331,6 +331,20 @@ fun DSLScope.LoveLive() {
             contributors["A-MAL-37027"] = 0.1
         }
 
+        // le "song da" analogy
+        AKMEraPart1(0.05) {
+            contributors["A-MAL-40879"] = 0.25
+            contributors["A-MAL-48916"] = 0.35
+            contributors["A-MAL-15051"] = 0.05
+            contributors["A-MAL-19111"] = 0.05
+            contributors["A-MAL-32526"] = 0.05
+            contributors["A-MAL-34973"] = 0.05
+            contributors["A-MAL-41169"] = 0.05
+            contributors["A-MAL-50203"] = 0.05
+            contributors["A-MAL-24997"] = 0.05
+            contributors["A-MAL-37027"] = 0.05
+        }
+
         // SIP humor
         AEI(8.0, Emotion.AP) {
             contributors["A-MAL-15051"] = 0.4
@@ -466,12 +480,6 @@ fun DSLScope.LoveLive() {
             contributors["M-VGMDB-AL-89290-6"] = 0.025
         }
 
-        // Ayumu-era
-        Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01")) {
-            contributors["A-MAL-40879"] = 0.8
-            contributors["M-VGMDB-AR-11666"] = 0.2
-        }
-
         Entry {
             id = "A-MAL-40879"    // generated
             idMAL = 40879
@@ -486,6 +494,8 @@ fun DSLScope.LoveLive() {
             AEI(4.0, Emotion.AP)
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.6, 0.25)
+
+            Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
 
             KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)

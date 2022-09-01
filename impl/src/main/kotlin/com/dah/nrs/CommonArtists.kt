@@ -554,6 +554,9 @@ fun DSLScope.CommonArtists() {
             "M-VGMDB-AL-104618",
             MusicVocalContainFactor + MusicImageContainFactor * MusicFeatArtistFactor
         )
+
+        // the akari kito analogy lol
+        AKMEraPart1(0.05)
     }
 
     Entry {
@@ -561,6 +564,8 @@ fun DSLScope.CommonArtists() {
         title = "Kayano Ai"
 
         Contains("M-23", 1.0 / 4.0)
+        AKMEraPart1(0.05)
+        AKMEraPart2(0.1)
     }
 
     Entry {
@@ -909,6 +914,8 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-8480"
         title = "Hidaka Rina"
 
+        AKMEraPart1(0.3)
+        AKMEraPart2(0.35)
         // (not the whole cricri unit)
         Contains("M-23", 0.25)
 
@@ -925,6 +932,8 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-14761"
         title = "Murakawa Rie"
 
+        AKMEraPart1(0.2)
+        AKMEraPart2(0.3)
         Contains("M-23", 0.25)
         // 765
         Contains("M-VGMDB-AR-32295", 1.0 / 51.0)

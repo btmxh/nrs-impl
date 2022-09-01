@@ -1,5 +1,6 @@
 package com.dah.nrs.meme
 
+import com.dah.nrs.AKMEraPart1
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
@@ -13,6 +14,7 @@ fun DSLScope.MVLiterature() {
 
         // the river analogy states that the love live franchise is our opponents/enemies
         // (Sông Đà hung bạo) as well as our friends (Sông Đà trữ tình)
+        AKMEraPart1(0.15)
     }
 
     Entry {
@@ -32,6 +34,7 @@ fun DSLScope.MVLiterature() {
 
         // also the character "A Sử" made the famous meme
         // "A-Sử-iro Koi Moyou"
+        AKMEraPart1(0.25)
     }
 
     Entry {
@@ -57,6 +60,7 @@ fun DSLScope.MVLiterature() {
         // 今日、2021年7月7日、ベトナムでは卒業試験です。昨日、この人、キッドのような名前は
         // 「国語はChiếc thuyền ngoài xaと思います」ってフェスブックで言ったことがあります。
         // 2年前、この人も2回正しい卒業試験の国語の答えを行った、
+        AKMEraPart1(0.3)
     }
 
     Entry {
@@ -83,6 +87,8 @@ fun DSLScope.MVLiterature() {
             Music(6.5)
             // the girls look CG af, but at least the other things are good
             Visual(VisualKind.SemiAnimatedMV, 0.3, 0.2)
+            AKMEraPart1(0.4)
+            AKMEraPart1(0.1)
         }
     }
 }

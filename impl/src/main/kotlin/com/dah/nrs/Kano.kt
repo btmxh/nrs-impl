@@ -1,9 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
-import com.dah.nrs.dsl.vector
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 fun DSLScope.Kano() {
@@ -247,6 +244,6 @@ fun DSLScope.Kano() {
         }
 
         // kano-era
-        Meme(0.9, 90)
+        Meme(0.8, numDays("2020-11-01", "2021-04-01"))
     }
 }

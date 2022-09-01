@@ -8,6 +8,11 @@ fun DSLScope.COTE() {
         id = "F-VGMDB-11581"
         title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
 
+        AKMEraPart2(0.6) {
+            contributors["A-MAL-35507"] = 0.5
+            contributors["A-MAL-51096"] = 0.5
+        }
+
         Entry {
             id = "A-MAL-35507"    // generated
             idMAL = 35507

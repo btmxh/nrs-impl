@@ -35,35 +35,57 @@ fun DSLScope.ReStage() {
     // Like a book that was closed opened up
     // rst has changed da world.
 
-    // rst-sb69 dse (Jan 10 - Mar 10, 2022)
-    Meme(1.2, numDays("2022-01-10", "2022-03-10")) {
-        val rstContribution = 0.35
-        val sb69Contribution = 0.45
-
-        contributors["A-MAL-38009"] = rstContribution * 0.9
-        contributors["GF-VGMDB-7059"] = rstContribution * 0.1
-
-        contributors["A-MAL-27441"] = sb69Contribution * 0.25
-        contributors["A-MAL-32038"] = sb69Contribution * 0.3
-        contributors["A-MAL-40763"] = sb69Contribution * 0.1
-        contributors["A-MAL-41520"] = sb69Contribution * 0.25
-        contributors["G-VGMDB-8429"] = sb69Contribution * 0.1
-
-        // method
-        contributors["O-1"] = 0.2
+    // idol renaissance arc
+    Meme(1.0, numDays("2021-11-20", "2022-01-10")) {
+        contributors["A-MAL-38009"] = 0.75
+        contributors["GF-VGMDB-7059"] = 0.05
+        contributors["F-VGMDB-7059"] = 0.2
     }
 
-    // rst-only eras (Nov 2021 - Jan 10, 2022 and Mar 10, 2022 to June 3rd, 2022)
-    // aka idol dystopia arc
-    Meme(0.95, numDays("2021-11-20", "2022-01-10") + numDays("2022-03-10", "2022-06-03")) {
-        // time to nerf (fragment) rst boys
-        contributors["A-MAL-38009"] = 0.65
+    RSTSB69DuopolyEra(0.6) {
+        contributors["A-MAL-38009"] = 0.5
         contributors["GF-VGMDB-7059"] = 0.05
-        contributors["M-VGMDB-AR-29249"] = 0.1
-        contributors["rst songs [null entry]"] = 0.05
+        // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
+        contributors["M-VGMDB-AR-29249"] = 0.15
+        // the remaining amount of contribution is because of rst songs,
+        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
+        // it'd be unfair advantage for rst (on second thought it is still somewhat
+        // fair tho)
+        contributors["F-VGMDB-7059"] = 0.3
+    }
 
-        // method
-        contributors["O-1"] = 0.15
+    // idol dystopia arc
+    Meme(0.9, numDays("2022-03-10", "2022-06-03")) {
+        contributors["A-MAL-38009"] = 0.6 // this got rewatched
+        contributors["GF-VGMDB-7059"] = 0.1
+        contributors["M-VGMDB-AR-29249"] = 0.1
+        // the remaining amount of contribution is because of rst songs,
+        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
+        // it'd be unfair advantage for rst (on second thought it is still somewhat
+        // fair tho)
+        contributors["F-VGMDB-7059"] = 0.2
+    }
+
+    AKMEraPart1(0.8) {
+        contributors["A-MAL-38009"] = 0.25
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.2
+        // the remaining amount of contribution is because of rst songs,
+        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
+        // it'd be unfair advantage for rst (on second thought it is still somewhat
+        // fair tho)
+        contributors["F-VGMDB-7059"] = 0.4
+    }
+
+    AKMEraPart2(0.2) {
+        contributors["A-MAL-38009"] = 0.25
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.2
+        // the remaining amount of contribution is because of rst songs,
+        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
+        // it'd be unfair advantage for rst (on second thought it is still somewhat
+        // fair tho)
+        contributors["F-VGMDB-7059"] = 0.4
     }
 
     // overture: shelter incident
@@ -827,4 +849,9 @@ fun DSLScope.ReStage() {
         // the ultimate mapping project, aka the 367000pp project
         // https://osu.ppy.sh/beatmapsets/1716294#osu/3506938
     }
+}
+
+fun AcceptImpact.RSTSB69DuopolyEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
+    // rst-sb69 dse (Jan 10 - Mar 10, 2022)
+    Meme(strength, numDays("2022-01-10", "2022-03-10"), block)
 }
