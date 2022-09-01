@@ -101,6 +101,9 @@ fun DSLScope.Atelier() {
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
             Progress(Boredom.Completed)
+
+            // i hate "bủ nio" (it's a meme lol)
+            NEI(8.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
         }
 
         Entry {
