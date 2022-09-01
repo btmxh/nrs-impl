@@ -25570,6 +25570,33 @@
     },
     {
         "contributors": {
+            "G-VGMDB-1090": 1.0
+        },
+        "score": [
+            1.0556063286183155,
+            1.0556063286183155,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "ActivatedUnpleasant": 0.5,
+                "ActivatedPleasant": 0.5
+            },
+            "input_score": 8.0,
+            "type": "nei",
+            "clamped_score": 1.6
+        }
+    },
+    {
+        "contributors": {
             "G-VGMDB-1880": 1.0
         },
         "score": [
