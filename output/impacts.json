@@ -834,7 +834,7 @@
         },
         "score": [
             0.0,
-            0.30766422692538353,
+            0.3094794338547058,
             0.0,
             0.0,
             0.0,
@@ -846,9 +846,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.1,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -1415,7 +1415,7 @@
         },
         "score": [
             0.0,
-            1.076824794238842,
+            1.0831780184914699,
             0.0,
             0.0,
             0.0,
@@ -1427,9 +1427,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.35,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -1463,7 +1463,7 @@
         },
         "score": [
             0.0,
-            0.9229926807761504,
+            0.9284383015641171,
             0.0,
             0.0,
             0.0,
@@ -1475,9 +1475,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.3,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -10445,7 +10445,7 @@
         },
         "score": [
             0.0,
-            0.04250475698673967,
+            0.042574039624123275,
             0.0,
             0.0,
             0.0,
@@ -10457,9 +10457,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 153,
+            "meme_duration": 154,
             "strength": 0.01,
-            "meme_duration_value": 1.0626189246684916,
+            "meme_duration_value": 1.064350990603082,
             "type": "meme"
         }
     },
@@ -11179,7 +11179,7 @@
         },
         "score": [
             0.0,
-            3.076642269253835,
+            3.0947943385470573,
             0.0,
             0.0,
             0.0,
@@ -11191,9 +11191,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 1.0,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -11426,7 +11426,7 @@
         },
         "score": [
             0.0,
-            2.307481701940376,
+            2.321095753910293,
             0.0,
             0.0,
             0.0,
@@ -11438,9 +11438,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.75,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -14120,7 +14120,7 @@
         },
         "score": [
             0.0,
-            1.8459853615523008,
+            1.8568766031282342,
             0.0,
             0.0,
             0.0,
@@ -14132,9 +14132,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.6,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -15961,7 +15961,7 @@
         },
         "score": [
             0.0,
-            0.6153284538507671,
+            0.6189588677094116,
             0.0,
             0.0,
             0.0,
@@ -15973,9 +15973,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.2,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -25287,7 +25287,7 @@
         },
         "score": [
             0.0,
-            2.307481701940376,
+            2.321095753910293,
             0.0,
             0.0,
             0.0,
@@ -25299,9 +25299,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 42,
+            "meme_duration": 43,
             "strength": 0.75,
-            "meme_duration_value": 0.7691605673134587,
+            "meme_duration_value": 0.7736985846367643,
             "type": "meme"
         }
     },
@@ -25651,7 +25651,7 @@
             0.0,
             0.0,
             0.0,
-            0.024997685442357916,
+            0.049981489708234295,
             0.0,
             0.0,
             0.0,
@@ -25661,12 +25661,12 @@
             0.0
         ],
         "DAH_meta": {
-            "length_in_days": 1,
+            "length_in_days": 2,
             "name": "Malier Escha",
             "periods": [
                 {
                     "from": "2022-08-31",
-                    "to": "2022-09-01"
+                    "to": "2022-09-02"
                 }
             ],
             "type": "waifu"
