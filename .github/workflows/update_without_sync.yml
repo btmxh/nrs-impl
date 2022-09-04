@@ -1,7 +1,6 @@
 name: Update without sync
 
-on:
-  push
+on: [push, workflow_dispatch]
 
 jobs:
   update-without-sync:
