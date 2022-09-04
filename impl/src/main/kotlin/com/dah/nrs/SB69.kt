@@ -567,9 +567,10 @@ fun DSLScope.SB69() {
                 // Và cùng nhau ta sẽ thắp sáng ước mơ
                 // And together we will [shine our dreams] (lmfao rst song comp diff name)
 
-                // "morbius is the movie of all time"
+                // "morbius is a movie of all time"
                 AKMEraPart1(1.0)
                 AKMEraPart2(1.0)
+                AKMEraPart3(0.8)
             }
         }
 
@@ -702,6 +703,14 @@ fun DSLScope.SB69() {
         contributors["A-MAL-41520"] = 0.25
         contributors["G-VGMDB-8429"] = 0.1
     }
+
+    AKMEraPart3(0.6) {
+        contributors["A-MAL-27441"] = 0.25
+        contributors["A-MAL-32038"] = 0.3
+        contributors["A-MAL-40763"] = 0.1
+        contributors["A-MAL-41520"] = 0.25
+        contributors["G-VGMDB-8429"] = 0.1
+    }
 }
 
 fun AcceptImpact.AKMEraPart1(strength: Double, block: DSLImpact.() -> Unit = {}) {
@@ -726,7 +735,7 @@ fun AcceptImpact.AKMEraPart2(strength: Double, block: DSLImpact.() -> Unit = {})
     // AKM era arc 2
     // seasonal anime now exists, le boat analogy is dying, etc.
     // sb69 top 1 franchise now xd
-    Meme(strength, numDays("2022-07-21"), block)
+    Meme(strength, numDays("2022-07-21", "2022-08-31"), block)
     // july then comes with a bunch of new seasonal anime,
     // and some of them were infused with akm shit such as:
     // - classroom of the elite: a girl with same VA as rosia
@@ -780,4 +789,15 @@ fun AcceptImpact.AKMEraPart2(strength: Double, block: DSLImpact.() -> Unit = {})
     // i hate the mc
     // fuck her
     // (pls save me)
+}
+
+fun AcceptImpact.AKMEraPart3(strength: Double, block: DSLImpact.() -> Unit = {}) {
+    // I heard somewhere that “Love strikes so suddenly”
+    // and so suddenly it is, that atelier girl is now a fucking canon waifu
+    // rip arisu tho (she is probably just a bait anyways)
+
+    // so, post-rst culture will have another shot with waifu meta, after failing
+    // with le cat because of 'lack of content'. let's hope for the best for miss
+    // 15-year-old escha malier to turn this culture into absolute chaos.
+    Meme(strength, numDays("2022-09-01"), block)
 }

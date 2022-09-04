@@ -13,6 +13,11 @@ fun DSLScope.COTE() {
             contributors["A-MAL-51096"] = 0.5
         }
 
+        AKMEraPart3(0.3) {
+            contributors["A-MAL-35507"] = 0.5
+            contributors["A-MAL-51096"] = 0.5
+        }
+
         Entry {
             id = "A-MAL-35507"    // generated
             idMAL = 35507

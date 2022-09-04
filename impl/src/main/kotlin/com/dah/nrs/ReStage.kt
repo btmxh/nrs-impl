@@ -88,6 +88,17 @@ fun DSLScope.ReStage() {
         contributors["F-VGMDB-7059"] = 0.4
     }
 
+    AKMEraPart3(0.4) {
+        contributors["A-MAL-38009"] = 0.25
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.2
+        // the remaining amount of contribution is because of rst songs,
+        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
+        // it'd be unfair advantage for rst (on second thought it is still somewhat
+        // fair tho)
+        contributors["F-VGMDB-7059"] = 0.4
+    }
+
     // overture: shelter incident
     AEI(5.0, Emotion.CP) {
         contributors["M-VGMDB-AL-89363-2"] = 0.4

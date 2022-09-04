@@ -21,6 +21,13 @@ fun DSLScope.Atelier() {
             contributors["G-VGMDB-3499"] = 0.1
         }
 
+        AKMEraPart3(1.0) {
+            contributors["A-MAL-21167"] = 0.4
+            contributors["G-VGMDB-1880"] = 0.3
+            contributors["G-VGMDB-1090"] = 0.2
+            contributors["G-VGMDB-3499"] = 0.1
+        }
+
         // will be EHI when I finished the Dusk series
         AEI(5.0, Emotion.AP) {
             contributors["A-MAL-21167"] = 0.4

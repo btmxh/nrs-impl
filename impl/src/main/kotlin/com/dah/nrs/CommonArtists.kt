@@ -566,6 +566,7 @@ fun DSLScope.CommonArtists() {
         Contains("M-23", 1.0 / 4.0)
         AKMEraPart1(0.05)
         AKMEraPart2(0.1)
+        AKMEraPart2(0.05)
     }
 
     Entry {
@@ -916,6 +917,7 @@ fun DSLScope.CommonArtists() {
 
         AKMEraPart1(0.3)
         AKMEraPart2(0.35)
+        AKMEraPart3(0.3)
         // (not the whole cricri unit)
         Contains("M-23", 0.25)
 
@@ -934,6 +936,7 @@ fun DSLScope.CommonArtists() {
 
         AKMEraPart1(0.2)
         AKMEraPart2(0.3)
+        AKMEraPart3(0.3)
         Contains("M-23", 0.25)
         // 765
         Contains("M-VGMDB-AR-32295", 1.0 / 51.0)
@@ -952,10 +955,9 @@ fun DSLScope.CommonArtists() {
         title = "Takahiro Yuba"
         // aka the gigachad who made akm and destroyed civilization as we know it
 
-        // NRS is broken and we all know it
-        Contains("M-VGMDB-AL-76155-2", 0.15)
-        Contains("M-VGMDB-AL-74440-6", 0.15)
-        Contains("M-VGMDB-AL-108194-5", 0.15)
+        Contains("M-VGMDB-AL-76155-2", MusicInstContainFactor)
+        Contains("M-VGMDB-AL-74440-6", MusicInstContainFactor * 2 / 3)
+        Contains("M-VGMDB-AL-108194-5", MusicInstContainFactor * 2 / 3)
     }
 
     Entry {
@@ -973,6 +975,11 @@ fun DSLScope.CommonArtists() {
                     Remix("M-VGMDB-AL-108194-5")
                 }
             }
+        }
+
+        Contains(MusicInstContainFactor / 3) {
+            Contains("M-VGMDB-AL-74440-6")
+            Contains("M-VGMDB-AL-108194-5")
         }
     }
 

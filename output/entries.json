@@ -2461,9 +2461,9 @@
     "M-VGMDB-AR-29487": {
         "id": "M-VGMDB-AR-29487",
         "children": {
-            "M-VGMDB-AL-76155-2": 0.15,
-            "M-VGMDB-AL-74440-6": 0.15,
-            "M-VGMDB-AL-108194-5": 0.15
+            "M-VGMDB-AL-76155-2": 0.4,
+            "M-VGMDB-AL-74440-6": 0.26666666666666666,
+            "M-VGMDB-AL-108194-5": 0.26666666666666666
         },
         "DAH_meta": {
             "DAH_entry_title": "Takahiro Yuba"
@@ -4193,7 +4193,9 @@
     "M-VGMDB-AR-6799": {
         "id": "M-VGMDB-AR-6799",
         "children": {
-            "M-VGMDB-AL-74440": 0.6000000000000001
+            "M-VGMDB-AL-74440": 0.6000000000000001,
+            "M-VGMDB-AL-74440-6": 0.13333333333333333,
+            "M-VGMDB-AL-108194-5": 0.13333333333333333
         },
         "DAH_meta": {
             "DAH_entry_title": "nayuta"
