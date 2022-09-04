@@ -277,7 +277,7 @@ fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Un
         error("$strength not in range 0..2")
     }
 
-    val durationValue = (duration.toDouble() / 120).pow(0.25)
+    val durationValue = (duration.toDouble() / 120).pow(Emotion.AP.weight)
 
     Impact {
         description = "Meme"
