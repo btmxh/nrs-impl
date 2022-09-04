@@ -124,7 +124,7 @@ fun DSLScope.Summer2022() {
         bestGirl = "Shibuya Inori"
         // inori is cuter fuck u
 
-        Progress(Boredom.Watching, 8)
+        Progress(Boredom.Watching, 9)
         KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
     }
