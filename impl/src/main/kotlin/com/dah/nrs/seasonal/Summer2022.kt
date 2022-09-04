@@ -150,9 +150,16 @@ fun DSLScope.Summer2022() {
         // > love live VA's
         // https://www.google.com/search?q=trolldespair
 
+        // "I'm a mechanic, and Michelle is in R&D"
+        // FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET
+        // OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD
+        // FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET
+        // OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD
+        // FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD
+
         Visual(VisualKind.Animated, 0.5, 0.1)
 
-        Progress(Boredom.Watching, 8)
+        Progress(Boredom.Watching, 9)
         KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
     }
