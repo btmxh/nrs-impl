@@ -14,7 +14,7 @@ class CalculationEntry(val entry: IEntry) {
     var containMapInit = false
     var impactScore = null as ScoreVector?
 
-    val relations = ArrayList<Pair<IRelation, Double>>()
+    val relations = ArrayList<Pair<IRelation, ScoreVector>>()
     var relationScore = null as ScoreVector?
 }
 
@@ -63,19 +63,15 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
 
     private fun calculateImpactScore() {
         for ((id, entry) in entries) {
-            val impactScores = data.impacts.flatMap {
-                val weight = it.contributors.entries.sumOf { (contribId, contribWeight) ->
+            val impactScores = data.impacts.mapNotNull { impact ->
+                val weight = impact.contributors.entries.sumOf { (contribId, contribWeight) ->
                     contribWeight * if (contribId == id) {
                         1.0
                     } else {
                         entry.containMap[contribId] ?: 0.0
                     }
                 }.coerceAtMost(1.0)
-                if (weight > 0.0) {
-                    listOf(it.score * buffWeight(weight))
-                } else {
-                    emptyList()
-                }
+                buffWeight(weight)?.let { it * impact.score }
             }
 
             entry.impactScore = context.combineVectors(impactScores)
@@ -84,19 +80,16 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
 
     private fun fillRelationReferences() {
         for ((id, entry) in entries) {
-            data.relations.map {
-                val weight = it.contributors.entries.sumOf { (contribId, contribWeight) ->
+            data.relations.mapNotNull { relation ->
+                val weight = relation.contributors.entries.sumOf { (contribId, contribWeight) ->
                     contribWeight * if (id == contribId) {
                         1.0
                     } else {
                         entry.containMap[contribId] ?: 0.0
                     }
                 }.coerceAtMost(1.0)
-
-                Pair(it, buffWeight(weight))
-            }
-                .filter { (_, weight) -> weight > 0.0 }
-                .toCollection(entry.relations)
+                buffWeight(weight)?.let { Pair(relation, it) }
+            }.toCollection(entry.relations)
         }
     }
 
@@ -124,7 +117,13 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
         return context.combineVectors(relationScores)
     }
 
-    private fun buffWeight(weight: Double): Double {
-        return weight.pow(ChemistryBuffFactor)
+    private fun buffWeight(weight: Double): ScoreVector? {
+        if (weight <= 0.0) {
+            return null
+        }
+
+        return ScoreVector(context.combineVector.toDoubleArray().map {
+            weight.pow(it)
+        }.toDoubleArray())
     }
 }
