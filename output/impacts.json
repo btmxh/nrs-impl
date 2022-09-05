@@ -25266,6 +25266,126 @@
     },
     {
         "contributors": {
+            "O-1": 1.0
+        },
+        "score": [
+            0.0,
+            1.5055608114891712,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 59,
+            "strength": 0.5,
+            "meme_duration_value": 0.7527804057445856,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "O-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.6969234195136434,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 85,
+            "strength": 0.2,
+            "meme_duration_value": 0.8711542743920543,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "O-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.2677740970405979,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 44,
+            "strength": 0.1,
+            "meme_duration_value": 0.6694352426014947,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "O-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.26031610387338366,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 41,
+            "strength": 0.1,
+            "meme_duration_value": 0.6507902596834592,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
+            "O-1": 1.0
+        },
+        "score": [
+            0.0,
+            0.10261515120968104,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "meme_duration": 4,
+            "strength": 0.1,
+            "meme_duration_value": 0.2565378780242026,
+            "type": "meme"
+        }
+    },
+    {
+        "contributors": {
             "O-2": 1.0
         },
         "score": [
