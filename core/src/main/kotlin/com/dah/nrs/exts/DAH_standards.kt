@@ -171,7 +171,8 @@ fun AcceptImpact.Waifu(name: String, vararg periods: Pair<String, String>, block
 }
 
 fun AcceptImpact.WaifuUnknownPeriod(name: String, days: Int, block: DSLImpact.() -> Unit = {}) {
-    val waifuScore = 1.5 * tanh(days.toDouble() / 60)
+    // val waifuScore = 1.5 * tanh(days.toDouble() / 60)
+    val waifuScore = 1.2 * (days.toDouble() / 90).pow(Emotion.MP.weight)
 
     Impact {
         description = "Waifu"
