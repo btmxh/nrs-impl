@@ -55,7 +55,7 @@ fun DSLScope.ReStage() {
     }
 
     // idol dystopia arc
-    Meme(0.9, numDays("2022-03-10", "2022-06-03")) {
+    IdolDystopia(0.9) {
         contributors["A-MAL-38009"] = 0.6 // this got rewatched
         contributors["GF-VGMDB-7059"] = 0.1
         contributors["M-VGMDB-AR-29249"] = 0.1
@@ -865,4 +865,8 @@ fun DSLScope.ReStage() {
 fun AcceptImpact.RSTSB69DuopolyEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
     // rst-sb69 dse (Jan 10 - Mar 10, 2022)
     Meme(strength, numDays("2022-01-10", "2022-03-10"), block)
+}
+
+fun AcceptImpact.IdolDystopia(strength: Double, block: DSLImpact.() -> Unit = {}) {
+    Meme(strength, numDays("2022-03-10", "2022-06-03"), block)
 }
