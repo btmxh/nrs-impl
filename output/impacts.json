@@ -1463,7 +1463,7 @@
         },
         "score": [
             0.0,
-            0.3078454536290431,
+            0.3365865436338598,
             0.0,
             0.0,
             0.0,
@@ -1475,9 +1475,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.3,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -1535,7 +1535,7 @@
         },
         "score": [
             0.0,
-            0.3078454536290431,
+            0.3365865436338598,
             0.0,
             0.0,
             0.0,
@@ -1547,9 +1547,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.3,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -10517,7 +10517,7 @@
         },
         "score": [
             0.0,
-            0.04453970680800672,
+            0.044652967666630315,
             0.0,
             0.0,
             0.0,
@@ -10529,9 +10529,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 157,
+            "meme_duration": 158,
             "strength": 0.01,
-            "meme_duration_value": 1.113492670200168,
+            "meme_duration_value": 1.1163241916657578,
             "type": "meme"
         }
     },
@@ -11107,7 +11107,31 @@
     },
     {
         "contributors": {
-            "M-VGMDB-AL-86315-3-3": 1.0
+            "M-VGMDB-AL-86315": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.125,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.6
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-86315-3": 1.0
         },
         "score": [
             0.0,
@@ -11275,7 +11299,7 @@
         },
         "score": [
             0.0,
-            0.8209212096774483,
+            0.8975641163569595,
             0.0,
             0.0,
             0.0,
@@ -11287,9 +11311,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.8,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -11550,7 +11574,7 @@
         },
         "score": [
             0.0,
-            0.6156909072580862,
+            0.6731730872677196,
             0.0,
             0.0,
             0.0,
@@ -11562,9 +11586,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.6,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -14269,7 +14293,7 @@
         },
         "score": [
             0.0,
-            0.3078454536290431,
+            0.3365865436338598,
             0.0,
             0.0,
             0.0,
@@ -14281,9 +14305,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.3,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -16137,7 +16161,7 @@
         },
         "score": [
             0.0,
-            0.41046060483872415,
+            0.44878205817847977,
             0.0,
             0.0,
             0.0,
@@ -16149,9 +16173,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.4,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -25366,7 +25390,7 @@
         },
         "score": [
             0.0,
-            0.10261515120968104,
+            0.11219551454461994,
             0.0,
             0.0,
             0.0,
@@ -25378,9 +25402,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 0.1,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -25610,7 +25634,7 @@
         },
         "score": [
             0.0,
-            1.0261515120968103,
+            1.1219551454461993,
             0.0,
             0.0,
             0.0,
@@ -25622,9 +25646,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 4,
+            "meme_duration": 5,
             "strength": 1.0,
-            "meme_duration_value": 0.2565378780242026,
+            "meme_duration_value": 0.28048878636154984,
             "type": "meme"
         }
     },
@@ -25974,7 +25998,7 @@
             0.0,
             0.0,
             0.0,
-            0.4363508931670878,
+            0.4651031762532856,
             0.0,
             0.0,
             0.0,
@@ -25984,12 +26008,12 @@
             0.0
         ],
         "DAH_meta": {
-            "length_in_days": 5,
+            "length_in_days": 6,
             "name": "Malier Escha",
             "periods": [
                 {
                     "from": "2022-08-31",
-                    "to": "2022-09-05"
+                    "to": "2022-09-06"
                 }
             ],
             "type": "waifu"

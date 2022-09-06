@@ -3266,7 +3266,7 @@
             "G-VGMDB-8429": 1.0
         },
         "references": {
-            "M-VGMDB-AL-86315-3-3": {
+            "M-VGMDB-AL-86315-3": {
                 "kind": "diagonal",
                 "data": [
                     0.0,
