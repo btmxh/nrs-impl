@@ -41,11 +41,7 @@ fun DSLScope.Saekano() {
         }
 
         Entry {
-            id = "A-MAL-23277"    // generated
-            idMAL = 23277
-            idAniList = 20657
-            idAniDB = 10538
-            idKitsu = 8406
+            id = "A-MAL-23277"
             title = "Saenai Heroine no Sodatekata"
             bestGirl = "Megumi Kato"
 
@@ -57,11 +53,7 @@ fun DSLScope.Saekano() {
         }
 
         Entry {
-            id = "A-MAL-30727"    // generated
-            idMAL = 30727
-            idAniList = 21180
-            idAniDB = 11221
-            idKitsu = 10909
+            id = "A-MAL-30727"
             title = "Saenai Heroine no Sodatekata ♭"
             bestGirl = "Megumi Kato"
             Progress(Boredom.Completed)
@@ -70,11 +62,7 @@ fun DSLScope.Saekano() {
         }
 
         Entry {
-            id = "A-MAL-36885"    // generated
-            idMAL = 36885
-            idAniList = 100675
-            idAniDB = 13626
-            idKitsu = 14050
+            id = "A-MAL-36885"
             title = "Saenai Heroine no Sodatekata Fine"
             bestGirl = "Megumi Kato"
             // humor

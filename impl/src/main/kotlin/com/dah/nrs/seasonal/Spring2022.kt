@@ -5,11 +5,7 @@ import com.dah.nrs.exts.*
 
 fun DSLScope.Spring2022() {
     Entry {
-        id = "A-MAL-48363"    // generated
-        idMAL = 48363
-        idAniList = 130319
-        idAniDB = 16078
-        idKitsu = 44376
+        id = "A-MAL-48363"
         title = "RPG Fudousan"
 
         bestGirl = "Kotone Kazairo"
@@ -20,11 +16,7 @@ fun DSLScope.Spring2022() {
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
     }
     Entry {
-        id = "A-MAL-48415"    // generated
-        idMAL = 48415
-        idAniList = 130586
-        idAniDB = 16100
-        idKitsu = 44187
+        id = "A-MAL-48415"
         title = "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
 
         bestGirl = "Ireena Litz de Olhyde"
@@ -34,11 +26,7 @@ fun DSLScope.Spring2022() {
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
     }
     Entry {
-        id = "A-MAL-50265"    // generated
-        idMAL = 50265
-        idAniList = 140960
-        idAniDB = 16947
-        idKitsu = 45398
+        id = "A-MAL-50265"
         title = "Spy x Family"
 
         ValidatorSuppress("dah-no-best-girl")
@@ -66,11 +54,7 @@ fun DSLScope.Spring2022() {
         KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.75)
     }
     Entry {
-        id = "A-MAL-50273"    // generated
-        idMAL = 50273
-        idAniList = 141014
-        idAniDB = 16948
-        idKitsu = 45401
+        id = "A-MAL-50273"
         title = "Tomodachi Game"
         bestGirl = "Maria Mizuse"
 

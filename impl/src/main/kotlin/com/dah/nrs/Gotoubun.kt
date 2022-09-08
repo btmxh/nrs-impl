@@ -9,11 +9,7 @@ fun DSLScope.Gotoubun() {
         title = "Gotoubun no Hanayome"
 
         Entry {
-            id = "A-MAL-38101"    // generated
-            idMAL = 38101
-            idAniList = 103572
-            idKitsu = 41966
-            idAniDB = 14247
+            id = "A-MAL-38101"
             title = "Gotoubun no Hanayome"
 
             // i miss yuyuyu's idke memes
@@ -27,11 +23,7 @@ fun DSLScope.Gotoubun() {
         }
 
         Entry {
-            id = "A-MAL-39783"    // generated
-            idMAL = 39783
-            idAniList = 109261
-            idKitsu = 42324
-            idAniDB = 14903
+            id = "A-MAL-39783"
             title = "5-toubun no Hanayome ∬"
 
             // lmfao "muh yuyuyu idc"

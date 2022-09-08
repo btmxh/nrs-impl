@@ -9,11 +9,7 @@ fun DSLScope.CellAtWork() {
         title = "Hataraku Saibou"
 
         Entry {
-            id = "A-MAL-37141"    // generated
-            idMAL = 37141
-            idAniList = 100977
-            idAniDB = 13743
-            idKitsu = 14212
+            id = "A-MAL-37141"
             title = "Hataraku Saibou"
             bestGirl = "Kesshouban" // i mean it's because the character design suck ass
 

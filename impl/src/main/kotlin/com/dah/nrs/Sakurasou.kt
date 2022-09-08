@@ -11,11 +11,7 @@ fun DSLScope.Sakurasou() {
         title = "Sakurasou no Pet na Kanojo"
 
         Entry {
-            id = "A-MAL-13759"    // generated
-            idMAL = 13759
-            idAniList = 13759
-            idAniDB = 9153
-            idKitsu = 7023
+            id = "A-MAL-13759"
             title = "Sakurasou no Pet na Kanojo"
             bestGirl = "Mashiro Shiina"
 

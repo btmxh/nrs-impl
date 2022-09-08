@@ -9,11 +9,7 @@ fun DSLScope.Bokuben() {
         title = "Bokutachi wa Benkyou ga Dekinai"
 
         Entry {
-            id = "A-MAL-38186"    // generated
-            idMAL = 38186
-            idAniList = 103900
-            idKitsu = 41956
-            idAniDB = 14289
+            id = "A-MAL-38186"
             title = "Bokutachi wa Benkyou ga Dekinai"
 
             bestGirl = "Mafuyu Kirisu"
@@ -26,11 +22,7 @@ fun DSLScope.Bokuben() {
         }
 
         Entry {
-            id = "A-MAL-40004"    // generated
-            idMAL = 40004
-            idAniList = 110229
-            idKitsu = 42414
-            idAniDB = 14968
+            id = "A-MAL-40004"
             title = "Bokutachi wa Benkyou ga Dekinai!"
 
             bestGirl = "Furuhashi Fumino"

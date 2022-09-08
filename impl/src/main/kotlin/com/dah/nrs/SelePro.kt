@@ -11,11 +11,7 @@ fun DSLScope.SelePro() {
         title = "SELECTION PROJECT"
 
         Entry {
-            id = "A-MAL-44275"    // generated
-            idMAL = 44275
-            idAniList = 126790
-            idAniDB = 15904
-            idKitsu = 44211
+            id = "A-MAL-44275"
             title = "SELECTION PROJECT"
             bestGirl = "Koizumi Uta"
 

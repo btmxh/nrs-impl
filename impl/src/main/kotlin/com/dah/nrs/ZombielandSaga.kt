@@ -8,11 +8,7 @@ fun DSLScope.ZombielandSaga() {
         id = "F-VGMDB-9825"
         title = "ZOMBIE LAND SAGA"
         Entry {
-            id = "A-MAL-37976"    // generated
-            idMAL = 37976
-            idAniList = 103871
-            idKitsu = 41459
-            idAniDB = 14198
+            id = "A-MAL-37976"
             title = "Zombieland Saga"
             bestGirl = "Minamoto Sakura"
 
@@ -23,11 +19,7 @@ fun DSLScope.ZombielandSaga() {
         }
 
         Entry {
-            id = "A-MAL-40174"    // generated
-            idMAL = 40174
-            idAniList = 110733
-            idKitsu = 42467
-            idAniDB = 15028
+            id = "A-MAL-40174"
             title = "Zombieland Saga: Revenge"
             bestGirl = "Minamoto Sakura"
 

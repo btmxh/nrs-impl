@@ -10,11 +10,7 @@ fun DSLScope.SwordArtOnline() {
         title = "Sword Art Online"
 
         Entry {
-            id = "A-MAL-11757"    // generated
-            idMAL = 11757
-            idAniList = 11757
-            idAniDB = 8692
-            idKitsu = 6589
+            id = "A-MAL-11757"
             title = "Sword Art Online"
 
             bestGirl = "Yuuki Asuna"
@@ -24,11 +20,7 @@ fun DSLScope.SwordArtOnline() {
         }
 
         Entry {
-            id = "A-MAL-21881"    // generated
-            idMAL = 21881
-            idAniList = 20594
-            idAniDB = 10376
-            idKitsu = 8174
+            id = "A-MAL-21881"
             title = "Sword Art Online II"
 
             bestGirl = "Yuuki Asuna"
@@ -37,11 +29,7 @@ fun DSLScope.SwordArtOnline() {
         }
 
         Entry {
-            id = "A-MAL-31765"    // generated
-            idMAL = 31765
-            idAniList = 21403
-            idAniDB = 11681
-            idKitsu = 11423
+            id = "A-MAL-31765"
             title = "Sword Art Online Movie: Ordinal Scale"
 
             bestGirl = "Yuuki Asuna"

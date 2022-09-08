@@ -10,11 +10,7 @@ fun DSLScope.DrStone() {
         // bac si da
 
         Entry {
-            id = "A-MAL-38691"    // generated
-            idMAL = 38691
-            idAniList = 105333
-            idKitsu = 42080
-            idAniDB = 14491
+            id = "A-MAL-38691"
             title = "Dr. Stone"
             bestGirl = "Yuzuriha Ogawa"
             Progress(Boredom.Completed)
@@ -27,11 +23,7 @@ fun DSLScope.DrStone() {
         Contains("M-VGMDB-AL-87927-1")
 
         Entry {
-            id = "A-MAL-40852"    // generated
-            idMAL = 40852
-            idAniList = 113936
-            idKitsu = 42867
-            idAniDB = 15305
+            id = "A-MAL-40852"
             title = "Dr. Stone: Stone Wars"
             bestGirl = "Yuzuriha Ogawa"
             Progress(Boredom.Completed)
@@ -40,11 +32,7 @@ fun DSLScope.DrStone() {
         }
 
         Entry {
-            id = "A-MAL-50612"    // generated
-            idMAL = 50612
-            idAniList = 142876
-            idKitsu = 45615
-            idAniDB = 16164
+            id = "A-MAL-50612"
             title = "Dr. Stone: Ryuusui"
             bestGirl = "Yuzuriha Ogawa"
             Progress(Boredom.Completed)

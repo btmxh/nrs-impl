@@ -28,11 +28,7 @@ fun DSLScope.NewGame() {
         }
 
         Entry {
-            id = "A-MAL-31953"    // generated
-            idMAL = 31953
-            idAniList = 21455
-            idAniDB = 11736
-            idKitsu = 11467
+            id = "A-MAL-31953"
             title = "New Game!"
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Iijima Yun"
@@ -44,11 +40,7 @@ fun DSLScope.NewGame() {
         }
 
         Entry {
-            id = "A-MAL-34914"    // generated
-            idMAL = 34914
-            idAniList = 98292
-            idAniDB = 12819
-            idKitsu = 13236
+            id = "A-MAL-34914"
             title = "New Game!!"
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Suzukaze Aoba"

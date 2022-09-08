@@ -5,11 +5,7 @@ import com.dah.nrs.exts.*
 
 fun DSLScope.HelloWorld() {
     Entry {
-        id = "A-MAL-38816"    // generated
-        idMAL = 38816
-        idAniList = 106240
-        idKitsu = 42030
-        idAniDB = 14532
+        id = "A-MAL-38816"
         title = "Hello World"
         bestGirl = "Ichijou Ruka"
         // oh fuck
@@ -21,11 +17,7 @@ fun DSLScope.HelloWorld() {
     }
 
     Entry {
-        id = "A-MAL-40295"    // generated
-        idMAL = 40295
-        idAniList = 111733
-        idKitsu = 42527
-        idAniDB = 15065
+        id = "A-MAL-40295"
         title = "Another World"
         bestGirl = "Ichigyou Ruri"
 

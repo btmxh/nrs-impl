@@ -16,11 +16,7 @@ fun DSLScope.AscendanceBookworm() {
         }
 
         Entry {
-            id = "A-MAL-39468"    // generated
-            idMAL = 39468
-            idAniList = 108268
-            idKitsu = 42241
-            idAniDB = 14727
+            id = "A-MAL-39468"
             title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
             bestGirl = "Myne"
 
@@ -29,11 +25,7 @@ fun DSLScope.AscendanceBookworm() {
         }
 
         Entry {
-            id = "A-MAL-40815"    // generated
-            idMAL = 40815
-            idAniList = 113693
-            idKitsu = 42838
-            idAniDB = 15293
+            id = "A-MAL-40815"
             title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
             bestGirl = "Myne"
 
@@ -42,11 +34,7 @@ fun DSLScope.AscendanceBookworm() {
         }
 
         Entry {
-            id = "A-MAL-42429"    // generated
-            idMAL = 42429
-            idAniList = 121176
-            idKitsu = 43607
-            idAniDB = 15634
+            id = "A-MAL-42429"
             title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
             bestGirl = "Myne"
 

@@ -9,11 +9,7 @@ fun DSLScope.AoChan() {
         title = "Midara na Ao-chan wa Benkyou ga Dekinai"
 
         Entry {
-            id = "A-MAL-38778"    // generated
-            idMAL = 38778
-            idAniList = 105989
-            idKitsu = 42024
-            idAniDB = 14519
+            id = "A-MAL-38778"
             title = "Midara na Ao-chan wa Benkyou ga Dekinai"
             bestGirl = "Horie Ao"
             Progress(Boredom.Dropped, 3)

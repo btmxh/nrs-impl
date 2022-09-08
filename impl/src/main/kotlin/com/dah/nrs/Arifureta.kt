@@ -9,11 +9,7 @@ fun DSLScope.Arifureta() {
         title = "Arifureta Shokugyou de Sekaisaikyou"
 
         Entry {
-            id = "A-MAL-36882"    // generated
-            idMAL = 36882
-            idAniList = 100668
-            idAniDB = 13624
-            idKitsu = 14043
+            id = "A-MAL-36882"
             title = "Arifureta Shokugyou de Sekai Saikyou"
             bestGirl = "Yue"
 

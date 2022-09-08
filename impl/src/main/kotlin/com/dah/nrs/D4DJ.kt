@@ -9,11 +9,7 @@ fun DSLScope.D4DJ() {
         title = "D4DJ"
 
         Entry {
-            id = "A-MAL-39681"    // generated
-            idMAL = 39681
-            idAniList = 115069
-            idKitsu = 43557
-            idAniDB = 14815
+            id = "A-MAL-39681"
             title = "D4DJ: First Mix"
 
             bestGirl = "Aimoto Rinku"

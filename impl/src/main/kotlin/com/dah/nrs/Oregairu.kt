@@ -102,11 +102,7 @@ fun DSLScope.Oregairu() {
         }
 
         Entry {
-            id = "A-MAL-14813"    // generated
-            idMAL = 14813
-            idAniList = 14813
-            idAniDB = 9310
-            idKitsu = 7169
+            id = "A-MAL-14813"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
 
             // Brain's Base drew Yukino better than Yui
@@ -122,11 +118,7 @@ fun DSLScope.Oregairu() {
         }
 
         Entry {
-            id = "A-MAL-23847"    // generated
-            idMAL = 23847
-            idAniList = 20698
-            idAniDB = 10601
-            idKitsu = 8478
+            id = "A-MAL-23847"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
 
             // feel. drew Yui better
@@ -148,11 +140,7 @@ fun DSLScope.Oregairu() {
         }
 
         Entry {
-            id = "A-MAL-39547"    // generated
-            idMAL = 39547
-            idAniList = 108489
-            idAniDB = 14764
-            idKitsu = 42194
+            id = "A-MAL-39547"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
 
             bestGirl = "Yuigahama Yui"

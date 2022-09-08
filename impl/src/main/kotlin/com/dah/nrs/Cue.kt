@@ -15,11 +15,7 @@ fun DSLScope.Cue() {
         // rst songs on spotify (like onsen), therefore it's known as
         // the futuRe: of gen2
         Entry {
-            id = "A-MAL-43735"    // generated
-            idMAL = 43735
-            idAniList = 125682
-            idAniDB = 15827
-            idKitsu = 44979
+            id = "A-MAL-43735"
             title = "Cue!"
             // rst has re:lighted the stage
             // and now, its juniors will take the stage to the next level

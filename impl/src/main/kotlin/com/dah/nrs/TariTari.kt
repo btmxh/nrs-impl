@@ -10,11 +10,7 @@ fun DSLScope.TariTari() {
         title = "TARI TARI"
 
         Entry {
-            id = "A-MAL-13333"    // generated
-            idMAL = 13333
-            idAniList = 13333
-            idAniDB = 9077
-            idKitsu = 6941
+            id = "A-MAL-13333"
             title = "Tari Tari"
 
             bestGirl = "Miyamoto Konatsu"

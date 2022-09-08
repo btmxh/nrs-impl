@@ -12,11 +12,7 @@ fun DSLScope.RikeKoi() {
         // cucked by magireco lmfao
         // i'm impressed that they survived tho
         Entry {
-            id = "A-MAL-38992"    // generated
-            idMAL = 38992
-            idAniList = 107067
-            idKitsu = 42297
-            idAniDB = 14590
+            id = "A-MAL-38992"
             title = "Rikei ga Koi ni Ochita no de Shoumei shitemita."
 
             bestGirl = "Kotonoha Kanade" // kanaded lol
@@ -29,11 +25,7 @@ fun DSLScope.RikeKoi() {
         // then got fucked by rst's idol dystopia lol
         // rip
         Entry {
-            id = "A-MAL-43470"    // generated
-            idMAL = 43470
-            idAniList = 125124
-            idAniDB = 15788
-            idKitsu = 43681
+            id = "A-MAL-43470"
             title = "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
 
             bestGirl = "Kotonoha Kanade"

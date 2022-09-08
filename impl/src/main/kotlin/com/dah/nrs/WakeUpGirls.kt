@@ -58,11 +58,7 @@ fun DSLScope.WakeUpGirls() {
         }
 
         Entry {
-            id = "A-MAL-21189"    // generated
-            idMAL = 21189
-            idAniList = 20512
-            idAniDB = 10245
-            idKitsu = 8200
+            id = "A-MAL-21189"
             title = "Wake Up, Girls! Shichinin no Idol"
 
             bestGirl = "Shimada Mayu"
@@ -76,11 +72,7 @@ fun DSLScope.WakeUpGirls() {
         }
 
         Entry {
-            id = "A-MAL-19023"    // generated
-            idMAL = 19023
-            idAniList = 19023
-            idAniDB = 9417
-            idKitsu = 7774
+            id = "A-MAL-19023"
             title = "Wake Up, Girls!"
 
             bestGirl = "Shimada Mayu"
@@ -92,10 +84,7 @@ fun DSLScope.WakeUpGirls() {
         }
 
         Entry {
-            id = "A-MAL-28841"    // generated
-            idMAL = 28841
-            idAniList = 20989
-            idKitsu = 10068
+            id = "A-MAL-28841"
             title = "Wake Up, Girls! Seishun no Kage"
 
             bestGirl = "Shimada Mayu"
@@ -106,10 +95,7 @@ fun DSLScope.WakeUpGirls() {
         }
 
         Entry {
-            id = "A-MAL-30419"    // generated
-            idMAL = 30419
-            idAniList = 21107
-            idKitsu = 10845
+            id = "A-MAL-30419"
             title = "Wake Up, Girls! Beyond the Bottom"
 
             bestGirl = "Shimada Mayu"
@@ -120,11 +106,7 @@ fun DSLScope.WakeUpGirls() {
         }
 
         Entry {
-            id = "A-MAL-34522"    // generated
-            idMAL = 34522
-            idAniList = 97933
-            idAniDB = 12625
-            idKitsu = 13707
+            id = "A-MAL-34522"
             title = "Wake Up, Girls! Shin Shou"
 
             bestGirl = "Shimada Mayu"

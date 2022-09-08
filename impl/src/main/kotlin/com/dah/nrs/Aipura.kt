@@ -30,11 +30,7 @@ fun DSLScope.Aipura() {
 
 
         Entry {
-            id = "A-MAL-40842"    // generated
-            idMAL = 40842
-            idAniList = 113814
-            idKitsu = 42868
-            idAniDB = 15301
+            id = "A-MAL-40842"
             title = "Idoly Pride"
             // aka the pp anime
             // aka the _kotachi_ gigachad mapper "supremacy" anime

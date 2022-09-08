@@ -9,11 +9,7 @@ fun DSLScope.TateYuusha() {
         title = "Tate no Yuusha no Nariagari"
 
         Entry {
-            id = "A-MAL-35790"    // generated
-            idMAL = 35790
-            idAniList = 99263
-            idAniDB = 13246
-            idKitsu = 13593
+            id = "A-MAL-35790"
             title = "Tate no Yuusha no Nariagari"
             // This became popular thanks to Reddit.
             // And yes, it's watched in the Reddit-era
@@ -28,11 +24,7 @@ fun DSLScope.TateYuusha() {
         }
 
         Entry {
-            id = "A-MAL-40356"    // generated
-            idMAL = 40356
-            idAniList = 111321
-            idAniDB = 15070
-            idKitsu = 42530
+            id = "A-MAL-40356"
             title = "Tate no Yuusha no Nariagari Season 2"
             bestGirl = "Raphtalia"
 

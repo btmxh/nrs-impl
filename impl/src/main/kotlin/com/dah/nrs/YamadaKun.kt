@@ -10,11 +10,7 @@ fun DSLScope.YamadaKun() {
         title = "Yamada-kun to 7-nin no Majo"
 
         Entry {
-            id = "A-MAL-28677"    // generated
-            idMAL = 28677
-            idAniList = 20966
-            idAniDB = 10955
-            idKitsu = 10042
+            id = "A-MAL-28677"
             title = "Yamada-kun to 7-nin no Majo"
             bestGirl = "Shiraishi Urara"
 

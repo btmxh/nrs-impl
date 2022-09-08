@@ -9,11 +9,7 @@ fun DSLScope.RentAGirlfriend() {
         title = "Kanojo, Okarishimasu"
 
         Entry {
-            id = "A-MAL-40839"    // generated
-            idMAL = 40839
-            idAniList = 113813
-            idKitsu = 43028
-            idAniDB = 15299
+            id = "A-MAL-40839"
             title = "Kanojo, Okarishimasu"
             bestGirl = "Sakurasawa Sumi"
 

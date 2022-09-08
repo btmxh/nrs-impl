@@ -85,11 +85,7 @@ fun DSLScope.`K-On`() {
         }
 
         Entry {
-            id = "A-MAL-5680"    // generated
-            idMAL = 5680
-            idAniList = 5680
-            idAniDB = 6257
-            idKitsu = 4240
+            id = "A-MAL-5680"
             title = "K-On!"
             bestGirl = "Nakano Azusa"
 
@@ -98,11 +94,7 @@ fun DSLScope.`K-On`() {
         }
 
         Entry {
-            id = "A-MAL-7791"    // generated
-            idMAL = 7791
-            idAniList = 7791
-            idAniDB = 7307
-            idKitsu = 5124
+            id = "A-MAL-7791"
             title = "K-On!!"
             bestGirl = "Nakano Azusa"
 
@@ -113,11 +105,7 @@ fun DSLScope.`K-On`() {
         }
 
         Entry {
-            id = "A-MAL-9617"    // generated
-            idMAL = 9617
-            idAniList = 9617
-            idAniDB = 8280
-            idKitsu = 5810
+            id = "A-MAL-9617"
             title = "K-On! Movie"
             bestGirl = "Nakano Azusa"
 

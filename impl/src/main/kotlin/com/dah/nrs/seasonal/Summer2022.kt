@@ -11,11 +11,7 @@ fun DSLScope.Summer2022() {
     // (the prima doll incident)
 
     Entry {
-        id = "A-MAL-50760"    // generated
-        idMAL = 50760
-        idAniList = 143417
-        idAniDB = 17118
-        idKitsu = 45729
+        id = "A-MAL-50760"
         title = "Teppen!!!!!!!!!!!!!!!"
 
         bestGirl = "Hosono Yuzu"
@@ -29,11 +25,7 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-41589"    // generated
-        idMAL = 41589
-        idAniList = 117196
-        idAniDB = 15485
-        idKitsu = 43098
+        id = "A-MAL-41589"
         title = "Tokyo Mew Mew New ♡"
 
         bestGirl = "Momomiya Ichigo"
@@ -50,11 +42,7 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-50917"    // generated
-        idMAL = 50917
-        idAniList = 144509
-        idAniDB = 17156
-        idKitsu = 45812
+        id = "A-MAL-50917"
         title = "Prima Doll"
         // the "fuck u setsuna yuki" and "akari kito pls come back" anime
         // yep, ep 1 was ruined because of that bullcrap
@@ -81,11 +69,7 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-49470"    // generated
-        idMAL = 49470
-        idAniList = 136934
-        idAniDB = 16457
-        idKitsu = 44913
+        id = "A-MAL-49470"
         // from the creators of Seirei Gensouki (kimi no rhapsody reference)
         // and something something villager a (kimi no rhapsody reference once
         // again), introducing...
@@ -110,11 +94,7 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-38006"    // generated
-        idMAL = 38006
-        idAniList = 103118
-        idKitsu = 44227
-        idAniDB = 14204
+        id = "A-MAL-38006"
         title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"
 
         // mc is cute
@@ -130,11 +110,7 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-50999"    // generated
-        idMAL = 50999
-        idAniList = 145001
-        idAniDB = 17189
-        idKitsu = 45855
+        id = "A-MAL-50999"
         title = /*Fiery's*/ "Extreme Hearts"
 
         bestGirl = "Kodaka Saki"
@@ -165,11 +141,7 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-50221"    // generated
-        idMAL = 50221
-        idAniList = 140753
-        idAniDB = 16937
-        idKitsu = 45389
+        id = "A-MAL-50221"
         title = "Shine Post"
 
         bestGirl = "Seibu Rio"

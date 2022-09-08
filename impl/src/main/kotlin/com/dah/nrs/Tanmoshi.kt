@@ -9,11 +9,7 @@ fun DSLScope.Tanmoshi() {
         title = "Tantei wa Mou, Shindeiru."
 
         Entry {
-            id = "A-MAL-46471"    // generated
-            idMAL = 46471
-            idAniList = 128712
-            idKitsu = 44022
-            idAniDB = 15998
+            id = "A-MAL-46471"
             title = "Tantei wa Mou, Shindeiru."
             bestGirl = "Natsunagi Nagisa"
 

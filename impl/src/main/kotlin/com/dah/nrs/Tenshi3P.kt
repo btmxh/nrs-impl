@@ -9,11 +9,7 @@ fun DSLScope.Tenshi3P() {
         title = "Tenshi no 3P!"
 
         Entry {
-            id = "A-MAL-34177"    // generated
-            idMAL = 34177
-            idAniList = 97683
-            idKitsu = 12624
-            idAniDB = 12451
+            id = "A-MAL-34177"
             title = "Tenshi no 3P!"
             bestGirl = "Toriumi Sakura"
             // OP is catJAM osugame

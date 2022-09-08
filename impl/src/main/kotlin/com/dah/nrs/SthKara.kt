@@ -9,11 +9,7 @@ fun DSLScope.SthKara() {
         title = "Iroduku Sekai no Ashita kara"
 
         Entry {
-            id = "A-MAL-37497"    // generated
-            idMAL = 37497
-            idAniList = 101316
-            idAniDB = 13925
-            idKitsu = 41101
+            id = "A-MAL-37497"
             title = "Iroduku Sekai no Ashita kara"
             bestGirl = "Tsukishiro Hitomi"
 

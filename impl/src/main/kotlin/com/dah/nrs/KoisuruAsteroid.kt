@@ -9,11 +9,7 @@ fun DSLScope.KoisuruAsteroid() {
         title = "Koisuru Asteroid"
 
         Entry {
-            id = "A-MAL-39388"    // generated
-            idMAL = 39388
-            idAniList = 108092
-            idKitsu = 42470
-            idAniDB = 14707
+            id = "A-MAL-39388"
             title = "Koisuru Asteroid"
             bestGirl = "Kotonoha Mira"
 

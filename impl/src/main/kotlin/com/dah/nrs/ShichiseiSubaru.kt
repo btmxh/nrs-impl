@@ -9,11 +9,7 @@ fun DSLScope.ShichiseiSubaru() {
         title = "Shichisei no Subaru"
 
         Entry {
-            id = "A-MAL-36316"    // generated
-            idMAL = 36316
-            idAniList = 100085
-            idAniDB = 13439
-            idKitsu = 40893
+            id = "A-MAL-36316"
             title = "Shichisei no Subaru"
             bestGirl = "Kuga Asahi"
 

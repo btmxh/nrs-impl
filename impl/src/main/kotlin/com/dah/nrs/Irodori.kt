@@ -32,11 +32,7 @@ fun DSLScope.Irodori() {
         title = "Irodorimidori"
 
         Entry {
-            id = "A-MAL-50267"    // generated
-            idMAL = 50267
-            idAniList = 140950
-            idAniDB = 16950
-            idKitsu = 45577
+            id = "A-MAL-50267"
             title = "Irodorimidori"
             bestGirl = "Nagi Kobotoke"
 

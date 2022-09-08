@@ -9,11 +9,7 @@ fun DSLScope.IsekaiQuartet() {
         title = "Isekai Quartet"
 
         Entry {
-            id = "A-MAL-38472"    // generated
-            idMAL = 38472
-            idAniList = 104454
-            idKitsu = 42032
-            idAniDB = 14435
+            id = "A-MAL-38472"
             title = "Isekai Quartet"
             // selecting bestGirl of this anime be like
             // template: https://imgflip.com/memetemplate/294461925/Two-Guys-Fighting-then-One-Guy-Kills-Them
@@ -28,11 +24,7 @@ fun DSLScope.IsekaiQuartet() {
         }
 
         Entry {
-            id = "A-MAL-39988"    // generated
-            idMAL = 39988
-            idAniList = 110178
-            idKitsu = 42410
-            idAniDB = 14964
+            id = "A-MAL-39988"
             title = "Isekai Quartet 2"
 
             // if there is someone that murakawa rie loses to,

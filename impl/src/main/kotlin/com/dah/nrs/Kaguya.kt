@@ -48,11 +48,7 @@ fun DSLScope.Kaguya() {
         }
 
         Entry {
-            id = "A-MAL-37999"    // generated
-            idMAL = 37999
-            idAniList = 101921
-            idKitsu = 41373
-            idAniDB = 14111
+            id = "A-MAL-37999"
             title = "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
             bestGirl = "Hayasaka Ai"
             // https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury.
@@ -67,11 +63,7 @@ fun DSLScope.Kaguya() {
         // these are ranked just to help to carry the AEI for s1
         // also the funny rina hidaka girl too lmfao
         Entry {
-            id = "A-MAL-40591"    // generated
-            idMAL = 40591
-            idAniList = 112641
-            idKitsu = 42632
-            idAniDB = 15207
+            id = "A-MAL-40591"
             title = "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"
             bestGirl = "Kobachi Osaragi" // aka the mf who 'first learned why “Love is War”'
             // tatoe asu de sekai ga owattemo
@@ -82,11 +74,7 @@ fun DSLScope.Kaguya() {
         }
 
         Entry {
-            id = "A-MAL-43608"    // generated
-            idMAL = 43608
-            idAniList = 125367
-            idKitsu = 43691
-            idAniDB = 15806
+            id = "A-MAL-43608"
             title = "Kaguya-sama wa Kokurasetai: Ultra Romantic"
             // imagine almost every anime losing to this shit lol y'all sucks (the MAL top 2 thing)
             // (rst still better copium)

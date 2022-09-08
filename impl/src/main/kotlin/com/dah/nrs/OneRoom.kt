@@ -39,11 +39,7 @@ fun DSLScope.OneRoom() {
         }
 
         Entry {
-            id = "A-MAL-34392"    // generated
-            idMAL = 34392
-            idAniList = 97857
-            idAniDB = 12550
-            idKitsu = 12758
+            id = "A-MAL-34392"
             title = "One Room"
             bestGirl = "Hanasaka Yui"
             seasonal = true

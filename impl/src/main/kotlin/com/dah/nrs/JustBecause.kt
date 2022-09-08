@@ -9,11 +9,7 @@ fun DSLScope.JustBecause() {
         title = "Just Because!"
 
         Entry {
-            id = "A-MAL-35639"    // generated
-            idMAL = 35639
-            idAniList = 98820
-            idAniDB = 13199
-            idKitsu = 13530
+            id = "A-MAL-35639"
             title = "Just Because!"
             bestGirl = "Natsume Mio"
 

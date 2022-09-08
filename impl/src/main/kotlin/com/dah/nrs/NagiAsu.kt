@@ -28,11 +28,7 @@ fun DSLScope.NagiAsu() {
         }
 
         Entry {
-            id = "A-MAL-16067"    // generated
-            idMAL = 16067
-            idAniList = 16067
-            idAniDB = 9387
-            idKitsu = 7370
+            id = "A-MAL-16067"
             title = "Nagi no Asu kara"
 
             bestGirl = "Shiodome Miuna"

@@ -10,11 +10,7 @@ fun DSLScope.ToniKawa() {
         title = "Tonikaku Kawaii"
 
         Entry {
-            id = "A-MAL-41389"    // generated
-            idMAL = 41389
-            idAniList = 116267
-            idKitsu = 43034
-            idAniDB = 15421
+            id = "A-MAL-41389"
             title = "Tonikaku Kawaii"
             bestGirl = "Yuzaki Tsukasa"
 

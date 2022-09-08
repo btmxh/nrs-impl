@@ -14,11 +14,7 @@ fun DSLScope.SoraMethod() {
         title = "Sora no Method"
 
         Entry {
-            id = "A-MAL-23209"    // generated
-            idMAL = 23209
-            idAniList = 20672
-            idAniDB = 10525
-            idKitsu = 8337
+            id = "A-MAL-23209"
             title = "Sora no Method"
             bestGirl = "Komiya Nonoka"
 

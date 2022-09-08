@@ -98,11 +98,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         Entry {
-            id = "A-MAL-9756"    // generated
-            idMAL = 9756
-            idAniList = 9756
-            idAniDB = 8069
-            idKitsu = 5853
+            id = "A-MAL-9756"
             title = "Mahou Shoujo Madoka★Magica"
 
             bestGirl = "Kaname Madoka"
@@ -124,10 +120,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         Entry {
-            id = "A-MAL-11981"    // generated
-            idMAL = 11981
-            idAniList = 11981
-            idKitsu = 6638
+            id = "A-MAL-11981"
             title = "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
 
             bestGirl = "Kaname Madoka"
@@ -189,11 +182,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         Entry {
-            id = "A-MAL-38256"    // generated
-            idMAL = 38256
-            idAniList = 104051
-            idAniDB = 14360
-            idKitsu = 42016
+            id = "A-MAL-38256"
             title = "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV)"
 
             bestGirl = "Tamaki Iroha"
@@ -214,11 +203,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         Entry {
-            id = "A-MAL-41530"    // generated
-            idMAL = 41530
-            idAniList = 117002
-            idAniDB = 15472
-            idKitsu = 43090
+            id = "A-MAL-41530"
             title = "Magia Record: Mahou Shoujo Madoka★Magica Gaiden (TV) 2nd Season"
 
             bestGirl = "Tamaki Iroha"
@@ -241,11 +226,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         Entry {
-            id = "A-MAL-49291"    // generated
-            idMAL = 49291
-            idAniList = 136080
-            idAniDB = 16404
-            idKitsu = 44813
+            id = "A-MAL-49291"
             title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"
 
             bestGirl = "Tamaki Iroha"
