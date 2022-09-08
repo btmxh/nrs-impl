@@ -160,10 +160,9 @@ fun AcceptEntry.Entry(block: DSLEntry.() -> Unit) = DSLEntry(root).also {
     acceptEntry(it)
 }
 
-fun DSLEntry.SubIDEntry(suffix: String, title: String? = null, block: DSLEntry.() -> Unit = {}): DSLEntry {
+fun DSLEntry.SubIDEntry(suffix: String, block: DSLEntry.() -> Unit): DSLEntry {
     return Entry {
         this.id = this@SubIDEntry.id + "-" + suffix
-        this.title = title ?: this@SubIDEntry.title
         block()
     }
 }
