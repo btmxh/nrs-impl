@@ -566,7 +566,7 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-78339")
                 Contains("M-VGMDB-AL-82983")
                 Contains("M-VGMDB-AL-104673-2")
-                Contains("M-59")
+                Contains("M-VGMDB-AL-122926-6")
             }
         }
 
@@ -785,18 +785,6 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
-            id = "M-59"
-            title = "Amaoto Fanfare"
-            // inb4 ortensia banger
-            // based ortensia is back with an absolute catjammer
-            // https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s
-
-            // will be decided after full song release
-            // not in game rn
-            Music(2.5)
-        }
-
-        Entry {
             id = "M-48"
             title = "Re:STAGE! ALL IDOL"
 
@@ -805,12 +793,35 @@ fun DSLScope.ReStage() {
             }
         }
 
-        // Entry {
-        //     id = ""
-        //     title = "Re:Stage! Prism Step Concept Album: Reboot"
-        //     // pre-register the new album now
-        //     // https://twitter.com/rst_project/status/1550075801852588032
-        // }
+         Entry {
+             id = "M-VGMDB-AL-122926"
+             title = "Re:STAGE! Prism Step Concept Mini Album: Reboot" // generated(fill_music_metadata.dart v0.1.1)
+             // pre-register the new album now
+             // https://twitter.com/rst_project/status/1550075801852588032
+
+             Visual(VisualKind.AlbumArt, 0.5, 0.5)
+             Contains("M-VGMDB-AL-120845-1")
+             Contains("M-VGMDB-AL-120844-1")
+             Contains("M-VGMDB-AL-120842-1")
+             Contains("M-VGMDB-AL-120836-1")
+             Contains("M-VGMDB-AL-121168-1")
+             Contains("M-VGMDB-AL-122232-1")
+
+             SubIDEntry("6") {
+                 title = "雨音ファンファーレ" // generated(fill_music_metadata.dart v0.1.1)
+                // inb4 ortensia banger
+                // based ortensia is back with an absolute catjammer
+                // https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s
+
+                // will be decided after full song release
+                // not in game rn
+
+                // me waiting for ameko be like
+                // https://knowyourmeme.com/memes/pablo-escobar-waiting
+
+                Music(5.0)
+             }
+         }
 
         Entry {
             id = "GF-VGMDB-7059"
