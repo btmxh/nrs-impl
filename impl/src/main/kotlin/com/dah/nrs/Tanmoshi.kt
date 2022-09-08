@@ -44,6 +44,7 @@ fun DSLScope.Tanmoshi() {
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                title = "Koko de Ikiteru" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

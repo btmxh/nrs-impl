@@ -17,6 +17,7 @@ fun DSLScope.Saekano() {
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
             SubIDEntry("1") {
+                title = "M♭" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
                 OsuSong(personal = 1.0)
             }

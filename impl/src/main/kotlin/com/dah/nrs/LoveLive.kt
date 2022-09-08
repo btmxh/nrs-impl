@@ -37,6 +37,7 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "Bokura wa Ima no Naka de" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -108,6 +109,7 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "Yuuki wa Doko ni? Kimi no Mune ni!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -165,6 +167,7 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-97692"
+            title = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
@@ -214,6 +217,7 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-80802"
+            title = "TOKIMEKI Runners / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
@@ -250,6 +254,7 @@ fun DSLScope.LoveLive() {
             }
 
             SubIDEntry("1") {
+                title = "Kaika Sengen" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
 

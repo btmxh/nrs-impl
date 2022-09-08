@@ -42,10 +42,12 @@ fun DSLScope.LapisReLights() {
 
         Entry {
             id = "M-VGMDB-AL-104957"
+            title = "700,000,000,000,000,000,000,000 no Sora de / LiGHTs" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.2)
 
             SubIDEntry("1") {
+                title = "700,000,000,000,000,000,000,000 no Sora de" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

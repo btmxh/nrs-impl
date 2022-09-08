@@ -38,9 +38,11 @@ fun DSLScope.SelePro() {
 
         Entry {
             id = "M-VGMDB-AL-114102"
+            title = "SELECTION PROJECT Main Theme Song CD" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                title = "Glorious Days" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }

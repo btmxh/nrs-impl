@@ -32,6 +32,7 @@ fun DSLScope.Tenshi3P() {
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                title = "Habataki no Birthday" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }

@@ -340,6 +340,7 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
             SubIDEntry("1") {
+                title = "宣誓センセーション" // generated(fill_music_metadata.dart v0.1.1)
                 // [plasmagunstepgica]
                 ReStepMusic(3.0)
                 OsuSong(personal = 2.0)
@@ -576,6 +577,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1") {
+                title = "InFiction" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(4.5)
             }
 
@@ -648,6 +650,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
             SubIDEntry("1") {
+                title = "Bridge to Dream" // generated(fill_music_metadata.dart v0.1.1)
                 // method, la method
                 // nguoi ma mang lai nhung dieu ma ta tin
                 // method
@@ -660,6 +663,7 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("2") {
+                title = "Re:Rays" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(5.0)
             }
 
@@ -673,6 +677,7 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("4") {
+                title = "Pins&Needles" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(4.5)
             }
 
@@ -715,6 +720,7 @@ fun DSLScope.ReStage() {
 
             // ty for going back based akari kito
             SubIDEntry("1") {
+                title = "Chiguhagu Melody" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.0)
             }
         }

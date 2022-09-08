@@ -45,6 +45,7 @@ fun DSLScope.SoraMethod() {
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
             SubIDEntry("1") {
+                title = "Stargazer" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

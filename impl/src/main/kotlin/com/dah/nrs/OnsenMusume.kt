@@ -35,6 +35,7 @@ fun DSLScope.OnsenMusume() {
 
         Entry {
             id = "M-VGMDB-AL-75344"
+            title = "Tsuioku Kaleidoscope / SPRiNGS" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.75, 0.25)
             SubIDEntry("1") {

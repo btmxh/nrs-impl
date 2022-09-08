@@ -44,6 +44,7 @@ fun DSLScope.GochiUsa() {
             Contains("M-VGMDB-AL-54418-1")
 
             SubIDEntry("3") {
+                title = "Shinsaku no Shiawase wa Kochira!" // generated(fill_music_metadata.dart v0.1.1)
                 // dan dan kikoeru
                 // lets go i fced the son's insane diff with dt
                 // fuck sekai's insane tho
@@ -57,6 +58,7 @@ fun DSLScope.GochiUsa() {
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
             SubIDEntry("1") {
+                title = "Mahou Shoujo Chino" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
         }

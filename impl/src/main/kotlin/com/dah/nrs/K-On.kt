@@ -34,6 +34,7 @@ fun DSLScope.`K-On`() {
             `K-OnVisual`(VisualKind.AlbumArt)
 
             SubIDEntry("9") {
+                title = "Tenshi ni Fureta yo!" // generated(fill_music_metadata.dart v0.1.1)
 
                 Music(0.5)
             }

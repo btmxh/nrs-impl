@@ -80,6 +80,7 @@ fun DSLScope.Bandori() {
 
         Entry {
             id = "M-VGMDB-AL-74133"
+            title = "CiRCLiNG / Poppin'Party" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.15)
 
@@ -196,11 +197,13 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.AlbumArt, 0.5, 0.1)
 
             SubIDEntry("1") {
+                title = "Cherry Bomb" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 OsuSong(personal = 6.0)
             }
 
             SubIDEntry("6") {
+                title = "Harumodoki" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0)
 
@@ -291,6 +294,7 @@ fun DSLScope.Bandori() {
 
     Entry {
         id = "M-VGMDB-AR-31509"
+        title = "SILENT SIREN" // generated(fill_music_metadata.dart v0.1.1)
 
         Entry {
             id = "M-32"
@@ -311,6 +315,7 @@ fun DSLScope.Bandori() {
 
     Entry {
         id = "M-VGMDB-AR-25291"
+        title = "KANA-BOON" // generated(fill_music_metadata.dart v0.1.1)
 
         Entry {
             id = "M-VGMDB-AL-50723"

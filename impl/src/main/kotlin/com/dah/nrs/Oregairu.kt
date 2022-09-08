@@ -49,10 +49,12 @@ fun DSLScope.Oregairu() {
             }
 
             SubIDEntry("1") {
+                title = "エブリデイワールド" // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("3") {
+                title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." // generated(fill_music_metadata.dart v0.1.1)
                 
             }
         }

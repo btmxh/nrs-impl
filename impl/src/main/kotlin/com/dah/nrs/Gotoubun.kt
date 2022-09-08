@@ -50,6 +50,7 @@ fun DSLScope.Gotoubun() {
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
 
             SubIDEntry("1") {
+                title = "Gotoubun no Kimochi" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

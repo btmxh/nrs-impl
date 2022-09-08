@@ -17,6 +17,7 @@ fun DSLScope.GakkouGurashi() {
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
             SubIDEntry("1") {
+                title = "Friend Shitai" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 OsuSong(personal = 5.0)
             }

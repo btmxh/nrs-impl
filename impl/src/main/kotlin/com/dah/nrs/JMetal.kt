@@ -9,6 +9,7 @@ import com.dah.nrs.exts.*
 fun DSLScope.JMetal() {
     Entry {
         id = "M-VGMDB-AR-8482"
+        title = "Foreground Eclipse" // generated(fill_music_metadata.dart v0.1.1)
 
         Entry {
             id = "M-VGMDB-AL-97601"

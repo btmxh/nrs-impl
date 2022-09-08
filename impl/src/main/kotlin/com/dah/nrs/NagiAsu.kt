@@ -18,6 +18,7 @@ fun DSLScope.NagiAsu() {
 
         Entry {
             id = "M-VGMDB-AL-45187"
+            title = "Nagi no Asukara Character Song CD3" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
             SubIDEntry("1") {

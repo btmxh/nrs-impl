@@ -104,6 +104,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-13289"
+        title = "Maaya Uchida" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-9", 1.0 / 5)
     }
@@ -123,6 +124,7 @@ fun DSLScope.CommonArtists() {
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
             SubIDEntry("1") {
+                title = "Hoshikuzu no Interlude" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -130,6 +132,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-25289"
+        title = "Hidekazu Koyama" // generated(fill_music_metadata.dart v0.1.1)
         // aka the god nanou
 
         Contains("M-VGMDB-AL-37130-1", 0.1)
@@ -168,6 +171,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-17551"
+        title = "Shuka Saito" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-97692")
@@ -186,6 +190,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-29640"
+        title = "Aguri Onishi" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
@@ -222,6 +227,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-16469"
+        title = "TrySail" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
@@ -865,6 +871,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-9797"
+        title = "Aoi Yuki" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             // petit milady
@@ -932,6 +939,7 @@ fun DSLScope.CommonArtists() {
     // say goodbye to your sanity
     Entry {
         id = "M-VGMDB-AR-8480"
+        title = "Rina Hidaka" // generated(fill_music_metadata.dart v0.1.1)
 
         AKMEraPart1(0.3)
         AKMEraPart2(0.35)

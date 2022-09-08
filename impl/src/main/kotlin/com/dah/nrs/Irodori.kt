@@ -9,6 +9,7 @@ fun DSLScope.Irodori() {
     // original of irodori covers
     Entry {
         id = "M-VGMDB-AR-9553"
+        title = "cosMo@bousouP" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AL-91187-35")
     }

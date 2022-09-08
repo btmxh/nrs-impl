@@ -20,6 +20,7 @@ fun DSLScope.YuYuYu() {
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1") {
+                title = "Aurora Days" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }

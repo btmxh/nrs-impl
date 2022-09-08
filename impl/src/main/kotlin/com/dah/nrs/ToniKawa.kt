@@ -26,6 +26,7 @@ fun DSLScope.ToniKawa() {
 
         Entry {
             id = "M-VGMDB-AL-104618"
+            title = "Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
             SubIDEntry("1") {

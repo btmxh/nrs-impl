@@ -43,6 +43,7 @@ fun DSLScope.Kano() {
                 }
 
                 SubIDEntry("11") {
+                    title = "アイロニ" // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.75)
                     NEI(1.5, Emotion.CU)
                 }
@@ -82,11 +83,13 @@ fun DSLScope.Kano() {
                 Visual(VisualKind.AlbumArt, 0.55, 0.45)
 
                 SubIDEntry("1") {
+                    title = "グッドナイトエヴリワン" // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                     NEI(2.0, Emotion.CU)
                 }
 
                 SubIDEntry("8") {
+                    title = "decide" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                     NEI(2.5, Emotion.CU)
                 }
@@ -94,6 +97,7 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-51254"
+                title = "Stella-rium / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.5, 0.4)
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
@@ -152,6 +156,7 @@ fun DSLScope.Kano() {
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
                 SubIDEntry("6") {
+                    title = "地球最後の告白を" // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.0)
                     NEI(1.0, Emotion.CU)
 

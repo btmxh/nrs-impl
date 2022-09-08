@@ -17,12 +17,14 @@ fun DSLScope.KobayashiMaidDragon() {
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
             SubIDEntry("1") {
+                title = "青空のラプソディ" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-110219"
+            title = "Ai no Supreme! / fhána [Anime Edition]" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 

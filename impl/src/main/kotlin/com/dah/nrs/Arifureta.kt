@@ -31,6 +31,7 @@ fun DSLScope.Arifureta() {
 
     Entry {
         id = "M-VGMDB-AL-86592"
+        title = "FLARE / Void_Chords feat.LIO" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.05, 0.5)
         SubIDEntry("1") {

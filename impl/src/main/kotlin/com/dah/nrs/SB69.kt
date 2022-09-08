@@ -221,6 +221,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.3, 0.7)
 
             SubIDEntry("1") {
+                title = "My pace!!" // generated(fill_music_metadata.dart v0.1.1)
                 // really interesting vocal
                 // (somewhat resemble kano)
                 FesALiveMusic(2.5)
@@ -267,10 +268,12 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.55, 0.4)
 
             SubIDEntry("1") {
+                title = "Meikyuu DESTINY" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(5.0)
             }
 
             SubIDEntry("2") {
+                title = "Ryuusei Dreamline" // generated(fill_music_metadata.dart v0.1.1)
                 // kekekekekekek
                 FesALiveMusic(2.25)
             }
@@ -351,6 +354,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
             SubIDEntry("1") {
+                title = "Hiromenes" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.0)
             }
 
@@ -383,6 +387,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
             SubIDEntry("1") {
+                title = "エールアンドレスポンス" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(2.0)
             }
         }
@@ -436,10 +441,12 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
             SubIDEntry("5") {
+                title = "EMPIRE DOMINATOR" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(2.5)
             }
 
             SubIDEntry("8") {
+                title = "Anokanatarium" // generated(fill_music_metadata.dart v0.1.1)
                 // this was unranked all this time?????
                 // lmfao
                 FesALiveMusic(6.5)
@@ -533,6 +540,7 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-86315"
+            title = "P SHOW BY ROCK!! CD" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.6, 0.5)
 
             SubIDEntry("3") {

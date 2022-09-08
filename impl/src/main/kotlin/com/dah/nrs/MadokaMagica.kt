@@ -14,6 +14,7 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "M-VGMDB-AL-30302"
+            title = "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
@@ -49,6 +50,7 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "M-VGMDB-AL-113295"
+            title = "TV Anime \"Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 

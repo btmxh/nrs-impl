@@ -25,6 +25,7 @@ fun DSLScope.Kaguya() {
 
         Entry {
             id = "M-VGMDB-AL-116977"
+            title = "KAGUYA ♡ ULTRA BEST" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 

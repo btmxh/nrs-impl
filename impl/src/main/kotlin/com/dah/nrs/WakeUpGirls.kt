@@ -137,12 +137,14 @@ fun DSLScope.WakeUpGirls() {
 
     Entry {
         id = "M-VGMDB-AL-68276"
+        title = "One In A Billion / Wake Up, May'n! [Limited Edition]" // generated(fill_music_metadata.dart v0.1.1)
 
         // dream luck be like lmfao
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         SubIDEntry("1") {
+            title = "One In A Billion" // generated(fill_music_metadata.dart v0.1.1)
             OsuSong(personal = 5.0, community = 1.0)
             Music(6.0)
         }
