@@ -34,6 +34,11 @@ fun DSLScope.KobayashiMaidDragon() {
 
         Entry {
             id = "A-MAL-33206"
+            title = "Kobayashi-san Chi no Maid Dragon" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 33206 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 12243 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 21776 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 33206 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Tohru"
 
             // funny ig idk tbh

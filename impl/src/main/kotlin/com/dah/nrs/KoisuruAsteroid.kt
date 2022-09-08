@@ -10,6 +10,11 @@ fun DSLScope.KoisuruAsteroid() {
 
         Entry {
             id = "A-MAL-39388"
+            title = "Koisuru Asteroid" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 39388 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42470 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 108092 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 39388 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kotonoha Mira"
 
             Progress(Boredom.Completed)

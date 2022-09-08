@@ -83,6 +83,11 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "A-MAL-27441"
+            title = "Show By Rock!!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 27441 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 9729 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20843 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 27441 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
             FeatureMusic("M-VGMDB-AL-51276-1")
@@ -96,6 +101,11 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "A-MAL-32038"
+            title = "Show By Rock!! #" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 32038 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 11494 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 21476 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 32038 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
             // the lesson thingy was pretty cool ig
@@ -117,6 +127,11 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "A-MAL-40763"
+            title = "Show By Rock!! Mashumairesh!!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 40763 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42885 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 113470 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 40763 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Mashima Himeko" // aka himekek
             // main girl is hoan tinh xdddddddddd
             // chao em co gai howan tinh
@@ -142,6 +157,11 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "A-MAL-41520"
+            title = "Show by Rock!! Stars!!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 41520 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43590 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 113476 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 41520 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
             // aka show by rock!! banded rocking records high school idol club
             // the gen2 niji

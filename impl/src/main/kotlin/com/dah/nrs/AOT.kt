@@ -21,6 +21,11 @@ fun DSLScope.AOT() {
 
         Entry {
             id = "A-MAL-16498"
+            title = "Shingeki no Kyojin" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 16498 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7442 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 16498 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 16498 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.2, 0.6)
@@ -28,6 +33,11 @@ fun DSLScope.AOT() {
 
         Entry {
             id = "A-MAL-25777"
+            title = "Shingeki no Kyojin Season 2" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 25777 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8671 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20958 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 25777 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.2, 0.6)
@@ -35,6 +45,11 @@ fun DSLScope.AOT() {
 
         Entry {
             id = "A-MAL-35760"
+            title = "Shingeki no Kyojin Season 3" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 35760 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 13569 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 99147 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 35760 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.2, 0.6)
@@ -47,6 +62,11 @@ fun DSLScope.AOT() {
         // xddddddddddddddddddddd
         Entry {
             id = "A-MAL-38524"
+            title = "Shingeki no Kyojin Season 3 Part 2" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38524 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41982 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 104578 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38524 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
             AEI(5.0, Emotion.AP)

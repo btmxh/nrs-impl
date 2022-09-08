@@ -11,6 +11,11 @@ fun DSLScope.ToniKawa() {
 
         Entry {
             id = "A-MAL-41389"
+            title = "Tonikaku Kawaii" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 41389 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43034 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 116267 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 41389 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzaki Tsukasa"
 
             Visual(VisualKind.Animated, 0.4, 0.6)

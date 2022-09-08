@@ -12,6 +12,11 @@ fun DSLScope.Sakurasou() {
 
         Entry {
             id = "A-MAL-13759"
+            title = "Sakura-sou no Pet na Kanojo" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 13759 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7023 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 13759 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 13759 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Mashiro Shiina"
 
             // This is a very good compoly story, meaning

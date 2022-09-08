@@ -40,6 +40,11 @@ fun DSLScope.KokoroConnect() {
 
         Entry {
             id = "A-MAL-11887"
+            title = "Kokoro Connect" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 11887 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 6626 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 11887 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 11887 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagase Iori"
 
             Progress(Boredom.Completed)
@@ -51,6 +56,10 @@ fun DSLScope.KokoroConnect() {
 
         Entry {
             id = "A-MAL-16001"
+            title = "Kokoro Connect: Michi Random" // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7355 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 16001 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 16001 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagase Iori"
 
             Progress(Boredom.Completed)

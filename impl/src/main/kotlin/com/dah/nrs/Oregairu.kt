@@ -95,6 +95,11 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "A-MAL-14813"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru." // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 14813 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7169 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 14813 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 14813 // generated(fill_anime_metadata.dart v0.1.1)
 
             // Brain's Base drew Yukino better than Yui
             bestGirl = "Yukinoshita Yukino"
@@ -110,6 +115,11 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "A-MAL-23847"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 23847 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8478 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20698 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 23847 // generated(fill_anime_metadata.dart v0.1.1)
 
             // feel. drew Yui better
             bestGirl = "Yuigahama Yui"
@@ -131,6 +141,11 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "A-MAL-39547"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 39547 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42194 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 108489 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 39547 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Yuigahama Yui"
             seasonal = true

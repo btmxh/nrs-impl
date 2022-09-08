@@ -31,6 +31,11 @@ fun DSLScope.Aipura() {
 
         Entry {
             id = "A-MAL-40842"
+            title = "Idoly Pride" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 40842 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42868 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 113814 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 40842 // generated(fill_anime_metadata.dart v0.1.1)
             // aka the pp anime
             // aka the _kotachi_ gigachad mapper "supremacy" anime
             // aka the bang bang "zenryoku i love you", "glory star" and "asuiro koi moyou" anime

@@ -11,6 +11,11 @@ fun DSLScope.Charlotte() {
 
         Entry {
             id = "A-MAL-28999"
+            title = "Charlotte" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 28999 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 10103 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20997 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 28999 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nao Tomori" // ai mapper lmao
 
             Visual(VisualKind.Animated, 0.5, 0.1)

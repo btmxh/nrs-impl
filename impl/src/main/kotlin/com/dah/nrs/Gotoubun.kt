@@ -10,6 +10,11 @@ fun DSLScope.Gotoubun() {
 
         Entry {
             id = "A-MAL-38101"
+            title = "5-toubun no Hanayome" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38101 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41966 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 103572 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38101 // generated(fill_anime_metadata.dart v0.1.1)
 
             // i miss yuyuyu's idke memes
             bestGirl = "Nakano Itsuki"
@@ -23,6 +28,11 @@ fun DSLScope.Gotoubun() {
 
         Entry {
             id = "A-MAL-39783"
+            title = "5-toubun no Hanayome ∬" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 39783 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42324 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 109261 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 39783 // generated(fill_anime_metadata.dart v0.1.1)
 
             // lmfao "muh yuyuyu idc"
             bestGirl = "Nakano Itsuki"

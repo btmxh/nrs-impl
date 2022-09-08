@@ -10,6 +10,11 @@ fun DSLScope.RentAGirlfriend() {
 
         Entry {
             id = "A-MAL-40839"
+            title = "Kanojo, Okarishimasu" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 40839 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43028 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 113813 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 40839 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurasawa Sumi"
 
             Progress(Boredom.Dropped, 1)

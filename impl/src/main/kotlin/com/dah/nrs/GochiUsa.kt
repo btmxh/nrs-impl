@@ -59,6 +59,11 @@ fun DSLScope.GochiUsa() {
 
         Entry {
             id = "A-MAL-21273"
+            title = "Gochuumon wa Usagi Desu ka?" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 21273 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8095 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20517 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 21273 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kafuu Chino"
             // humor not that good tho
             NEI(3.0, Emotion.AP)

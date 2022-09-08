@@ -10,6 +10,11 @@ fun DSLScope.Arifureta() {
 
         Entry {
             id = "A-MAL-36882"
+            title = "Arifureta Shokugyou de Sekai Saikyou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 36882 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 14043 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 100668 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 36882 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yue"
 
             Progress(Boredom.Completed)

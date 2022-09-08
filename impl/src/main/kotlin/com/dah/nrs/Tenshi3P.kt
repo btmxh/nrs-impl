@@ -10,6 +10,11 @@ fun DSLScope.Tenshi3P() {
 
         Entry {
             id = "A-MAL-34177"
+            title = "Tenshi no 3P!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 34177 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 12624 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 97683 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 34177 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Toriumi Sakura"
             // OP is catJAM osugame
             // the map was made by the gigachad mapper: https://www.youtube.com/watch?v=QJJYpsA5tv8

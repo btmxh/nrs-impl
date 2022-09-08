@@ -10,6 +10,11 @@ fun DSLScope.Bokuben() {
 
         Entry {
             id = "A-MAL-38186"
+            title = "Bokutachi wa Benkyou ga Dekinai" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38186 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41956 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 103900 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38186 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Mafuyu Kirisu"
             // le bang bang zenryoku i love you girl lol
@@ -22,6 +27,11 @@ fun DSLScope.Bokuben() {
 
         Entry {
             id = "A-MAL-40004"
+            title = "Bokutachi wa Benkyou ga Dekinai!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 40004 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42414 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 110229 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 40004 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Furuhashi Fumino"
             // va jokes aside, fumino is best girl

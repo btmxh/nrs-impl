@@ -10,6 +10,11 @@ fun DSLScope.ShichiseiSubaru() {
 
         Entry {
             id = "A-MAL-36316"
+            title = "Shichisei no Subaru" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 36316 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 40893 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 100085 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 36316 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kuga Asahi"
 
             Progress(Boredom.Completed)

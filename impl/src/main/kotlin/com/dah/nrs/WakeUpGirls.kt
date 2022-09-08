@@ -54,6 +54,11 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "A-MAL-21189"
+            title = "Wake Up, Girls! Shichinin no Idol" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 21189 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8200 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20512 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 21189 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Shimada Mayu"
 
@@ -67,6 +72,11 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "A-MAL-19023"
+            title = "Wake Up, Girls!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 19023 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7774 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 19023 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 19023 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Shimada Mayu"
 
@@ -78,6 +88,10 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "A-MAL-28841"
+            title = "Wake Up, Girls! Seishun no Kage" // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 10068 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20989 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 28841 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Shimada Mayu"
 
@@ -88,6 +102,10 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "A-MAL-30419"
+            title = "Wake Up, Girls! Beyond the Bottom" // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 10845 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 21107 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 30419 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Shimada Mayu"
 
@@ -98,6 +116,11 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "A-MAL-34522"
+            title = "Wake Up, Girls! Shin Shou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 34522 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 13707 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 97933 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 34522 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Shimada Mayu"
 

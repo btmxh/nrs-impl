@@ -10,6 +10,11 @@ fun DSLScope.AoChan() {
 
         Entry {
             id = "A-MAL-38778"
+            title = "Midara na Ao-chan wa Benkyou ga Dekinai" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38778 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42024 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 105989 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38778 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Horie Ao"
             Progress(Boredom.Dropped, 3)
             Visual(VisualKind.AnimatedShort, 0.6, 0.4)

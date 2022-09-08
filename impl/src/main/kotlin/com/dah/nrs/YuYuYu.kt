@@ -75,6 +75,11 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "A-MAL-25519"
+            title = "Yuuki Yuuna wa Yuusha de Aru" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 25519 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8638 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20800 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 25519 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuuki Yuuna"
             // The Itsuki thing made me cry I guess, but there's no PADS.
             // YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE
@@ -145,6 +150,11 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "A-MAL-34284"
+            title = "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 34284 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 12678 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 100791 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 34284 // generated(fill_anime_metadata.dart v0.1.1)
             // this was not taken very seriously
 
             // she looked like best girl ngl
@@ -162,6 +172,11 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "A-MAL-34445"
+            title = "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 34445 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 13160 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 97769 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 34445 // generated(fill_anime_metadata.dart v0.1.1)
             // "The Michi Random of Yuuki Yuuna"
             bestGirl = "Yuuki Yuuna"
 
@@ -182,6 +197,11 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "A-MAL-42587"
+            title = "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 42587 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44333 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 122292 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 42587 // generated(fill_anime_metadata.dart v0.1.1)
 
             seasonal = true
             bestGirl = "Yuuki Yuuna"

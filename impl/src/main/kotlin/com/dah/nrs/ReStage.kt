@@ -117,6 +117,11 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "A-MAL-38009"
+            title = "Re:Stage! Dream Days♪" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38009 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42280 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 103048 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38009 // generated(fill_anime_metadata.dart v0.1.1)
 
             // pasta inc
             // "watch re:stage" - sun tzu, the art of war
@@ -796,6 +801,11 @@ fun DSLScope.ReStage() {
     // this is literally the plot of this anime lmfao
     Entry {
         id = "A-MAL-37890"
+        title = "Oshi ga Budoukan Ittekuretara Shinu" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 37890 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 41309 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 104391 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 37890 // generated(fill_anime_metadata.dart v0.1.1)
         // aka "If RST can overtake Love Live in the Oricon ranking, I can die happy"
         bestGirl = "Shikimiya Maina"
         // oops

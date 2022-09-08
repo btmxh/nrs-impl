@@ -12,6 +12,11 @@ fun DSLScope.SelePro() {
 
         Entry {
             id = "A-MAL-44275"
+            title = "Selection Project" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 44275 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44211 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 126790 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 44275 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Koizumi Uta"
 
             Cry(Emotion.CU)

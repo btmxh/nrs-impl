@@ -13,6 +13,11 @@ fun DSLScope.SoraYori() {
 
         Entry {
             id = "A-MAL-35839"
+            title = "Sora yori mo Tooi Basho" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 35839 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 13615 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 99426 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 35839 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Shiraishi Yuzuki"
 
             // the beginning was good, since they're making progress

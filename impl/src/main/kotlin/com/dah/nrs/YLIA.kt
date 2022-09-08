@@ -12,6 +12,11 @@ fun DSLScope.YLIA() {
 
         Entry {
             id = "A-MAL-23273"
+            title = "Shigatsu wa Kimi no Uso" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 23273 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8403 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20665 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 23273 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Miyazono Kaori"
 

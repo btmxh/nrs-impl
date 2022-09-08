@@ -224,6 +224,11 @@ fun DSLScope.Bandori() {
 
         Entry {
             id = "A-MAL-33573"
+            title = "BanG Dream!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 33573 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 12330 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 87435 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 33573 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ichigaya Arisa"
             // Ending pretty sadge
             AEI(2.0, Emotion.CU)
@@ -239,6 +244,11 @@ fun DSLScope.Bandori() {
 
         Entry {
             id = "A-MAL-37869"
+            title = "BanG Dream! 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37869 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41289 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 101633 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37869 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ichigaya Arisa"
             // nrs1
             Meme(0.15, 2)

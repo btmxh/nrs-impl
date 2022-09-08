@@ -30,6 +30,11 @@ fun DSLScope.Irodori() {
 
         Entry {
             id = "A-MAL-50267"
+            title = "Irodorimidori" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 50267 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 45577 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 140950 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 50267 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagi Kobotoke"
 
             Progress(Boredom.Completed)

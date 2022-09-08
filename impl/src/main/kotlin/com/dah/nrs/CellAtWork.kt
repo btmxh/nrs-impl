@@ -10,6 +10,11 @@ fun DSLScope.CellAtWork() {
 
         Entry {
             id = "A-MAL-37141"
+            title = "Hataraku Saibou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37141 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 14212 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 100977 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37141 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kesshouban" // i mean it's because the character design suck ass
 
             Progress(Boredom.Dropped)

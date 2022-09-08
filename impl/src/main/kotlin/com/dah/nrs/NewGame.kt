@@ -29,6 +29,11 @@ fun DSLScope.NewGame() {
 
         Entry {
             id = "A-MAL-31953"
+            title = "New Game!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 31953 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 11467 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 21455 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 31953 // generated(fill_anime_metadata.dart v0.1.1)
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Iijima Yun"
 
@@ -40,6 +45,11 @@ fun DSLScope.NewGame() {
 
         Entry {
             id = "A-MAL-34914"
+            title = "New Game!!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 34914 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 13236 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 98292 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 34914 // generated(fill_anime_metadata.dart v0.1.1)
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Suzukaze Aoba"
 

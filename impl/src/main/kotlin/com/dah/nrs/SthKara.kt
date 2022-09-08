@@ -10,6 +10,11 @@ fun DSLScope.SthKara() {
 
         Entry {
             id = "A-MAL-37497"
+            title = "Irozuku Sekai no Ashita kara" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37497 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41101 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 101316 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37497 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Tsukishiro Hitomi"
 
             Progress(Boredom.Completed)

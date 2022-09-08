@@ -42,6 +42,11 @@ fun DSLScope.GakkouGurashi() {
 
         Entry {
             id = "A-MAL-24765"
+            title = "Gakkougurashi!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 24765 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8644 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20754 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 24765 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Sakura Megumi"
             // rip Megu-nee

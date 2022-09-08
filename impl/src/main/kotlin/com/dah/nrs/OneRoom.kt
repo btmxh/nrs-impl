@@ -38,6 +38,11 @@ fun DSLScope.OneRoom() {
 
         Entry {
             id = "A-MAL-34392"
+            title = "One Room" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 34392 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 12758 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 97857 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 34392 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hanasaka Yui"
             seasonal = true
 

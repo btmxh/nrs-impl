@@ -12,6 +12,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-50760"
+        title = "Teppen!!!!!!!!!!!!!!!" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 50760 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 45729 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 143417 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 50760 // generated(fill_anime_metadata.dart v0.1.1)
 
         bestGirl = "Hosono Yuzu"
 
@@ -25,6 +30,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-41589"
+        title = "Tokyo Mew Mew New ♡" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 41589 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 43098 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 117196 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 41589 // generated(fill_anime_metadata.dart v0.1.1)
 
         bestGirl = "Momomiya Ichigo"
 
@@ -41,6 +51,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-50917"
+        title = "Prima Doll" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 50917 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 45812 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 144509 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 50917 // generated(fill_anime_metadata.dart v0.1.1)
         // the "fuck u setsuna yuki" and "akari kito pls come back" anime
         // yep, ep 1 was ruined because of that bullcrap
         // yep, the whole anime was ruined because of that girl
@@ -67,6 +82,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-49470"
+        title = "Mamahaha no Tsurego ga Motokano datta" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 49470 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 44913 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 136934 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 49470 // generated(fill_anime_metadata.dart v0.1.1)
         // from the creators of Seirei Gensouki (kimi no rhapsody reference)
         // and something something villager a (kimi no rhapsody reference once
         // again), introducing...
@@ -91,6 +111,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-38006"
+        title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 38006 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 44227 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 103118 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 38006 // generated(fill_anime_metadata.dart v0.1.1)
 
         // mc is cute
         // ngl this is a treat for our eyes
@@ -106,6 +131,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-50999"
+        title = "Extreme Hearts" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 50999 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 45855 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 145001 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 50999 // generated(fill_anime_metadata.dart v0.1.1)
 
         bestGirl = "Kodaka Saki"
         // saki is someone that we need but we don't deserve
@@ -136,6 +166,11 @@ fun DSLScope.Summer2022() {
 
     Entry {
         id = "A-MAL-50221"
+        title = "Shine Post" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 50221 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 45389 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 140753 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 50221 // generated(fill_anime_metadata.dart v0.1.1)
 
         bestGirl = "Seibu Rio"
         // lmfao himekek VA

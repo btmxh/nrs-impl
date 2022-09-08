@@ -79,6 +79,11 @@ fun DSLScope.`K-On`() {
 
         Entry {
             id = "A-MAL-5680"
+            title = "K-On!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 5680 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 4240 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 5680 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 5680 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
             Progress(Boredom.CompletedWithNoticeableBoredom)
@@ -87,6 +92,11 @@ fun DSLScope.`K-On`() {
 
         Entry {
             id = "A-MAL-7791"
+            title = "K-On!!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 7791 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 5124 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 7791 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 7791 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
             Progress(Boredom.CompletedWithNoticeableBoredom)
@@ -97,6 +107,11 @@ fun DSLScope.`K-On`() {
 
         Entry {
             id = "A-MAL-9617"
+            title = "K-On! Movie" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 9617 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 5810 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 9617 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 9617 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
             Progress(Boredom.CompletedWithNoticeableBoredom)

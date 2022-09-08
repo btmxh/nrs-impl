@@ -37,6 +37,11 @@ fun DSLScope.Chuunibyou() {
 
         Entry {
             id = "A-MAL-14741"
+            title = "Chuunibyou demo Koi ga Shitai!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 14741 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7160 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 14741 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 14741 // generated(fill_anime_metadata.dart v0.1.1)
 
             Visual(VisualKind.Animated, 0.6, 0.2)
 
@@ -49,6 +54,11 @@ fun DSLScope.Chuunibyou() {
 
         Entry {
             id = "A-MAL-18671"
+            title = "Chuunibyou demo Koi ga Shitai! Ren" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 18671 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7705 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 18671 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 18671 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nibutani Shinka"
             // Shichimiya dead people almost made me cry
             // YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI
@@ -63,6 +73,11 @@ fun DSLScope.Chuunibyou() {
 
         Entry {
             id = "A-MAL-35608"
+            title = "Chuunibyou demo Koi ga Shitai! Movie: Take On Me" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 35608 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 13524 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 98762 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 35608 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nibutani Shinka"
             Progress(Boredom.Completed)
             // movie is funny, but less content than s1 and s2

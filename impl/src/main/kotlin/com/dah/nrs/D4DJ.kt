@@ -10,6 +10,11 @@ fun DSLScope.D4DJ() {
 
         Entry {
             id = "A-MAL-39681"
+            title = "D4DJ: First Mix" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 39681 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43557 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 115069 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 39681 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Aimoto Rinku"
 

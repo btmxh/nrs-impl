@@ -9,6 +9,11 @@ fun DSLScope.ZombielandSaga() {
         title = "ZOMBIE LAND SAGA"
         Entry {
             id = "A-MAL-37976"
+            title = "Zombieland Saga" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37976 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41459 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 103871 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37976 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Minamoto Sakura"
 
             // kinda funny
@@ -19,6 +24,11 @@ fun DSLScope.ZombielandSaga() {
 
         Entry {
             id = "A-MAL-40174"
+            title = "Zombieland Saga: Revenge" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 40174 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42467 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 110733 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 40174 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Minamoto Sakura"
 
             // the zombieland saga incident

@@ -16,6 +16,11 @@ fun DSLScope.Cue() {
         // the futuRe: of gen2
         Entry {
             id = "A-MAL-43735"
+            title = "Cue!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 43735 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44979 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 125682 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 43735 // generated(fill_anime_metadata.dart v0.1.1)
             // rst has re:lighted the stage
             // and now, its juniors will take the stage to the next level
             // introducing, sb69 stars and cue!

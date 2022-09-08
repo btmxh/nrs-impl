@@ -87,6 +87,11 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-9756"
+            title = "Mahou Shoujo Madoka★Magica" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 9756 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 5853 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 9756 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 9756 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kaname Madoka"
 
@@ -108,6 +113,10 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-11981"
+            title = "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari" // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 6638 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 11981 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 11981 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kaname Madoka"
             // I can't understand this movie lol
@@ -169,6 +178,11 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-38256"
+            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38256 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42016 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 104051 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38256 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Tamaki Iroha"
             seasonal = true
@@ -189,6 +203,11 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-41530"
+            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 41530 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43090 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 117002 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 41530 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Tamaki Iroha"
             seasonal = true
@@ -211,6 +230,11 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-49291"
+            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 49291 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44813 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 136080 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 49291 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Tamaki Iroha"
             seasonal = true

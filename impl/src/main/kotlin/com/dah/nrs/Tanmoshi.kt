@@ -10,6 +10,11 @@ fun DSLScope.Tanmoshi() {
 
         Entry {
             id = "A-MAL-46471"
+            title = "Tantei wa Mou, Shindeiru." // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 46471 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44022 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 128712 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 46471 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Natsunagi Nagisa"
 
             // siesta arc is shit

@@ -37,6 +37,11 @@ fun DSLScope.Atelier() {
 
         Entry {
             id = "A-MAL-21167"
+            title = "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 21167 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8091 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20506 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 21167 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Malier Escha"
 

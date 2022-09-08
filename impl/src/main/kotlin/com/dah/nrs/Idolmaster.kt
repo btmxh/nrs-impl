@@ -50,6 +50,11 @@ fun DSLScope.Idolmaster() {
 
         Entry {
             id = "A-MAL-10278"
+            title = "The iDOLM@STER" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 10278 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 6111 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 10278 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 10278 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Minase Iori"
             // ending pretty sadge
             NEI(6.0, Emotion.CU)
@@ -70,6 +75,11 @@ fun DSLScope.Idolmaster() {
 
         Entry {
             id = "A-MAL-23587"
+            title = "The iDOLM@STER Cinderella Girls" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 23587 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8777 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20693 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 23587 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ogata Chieri"
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.2)
@@ -77,6 +87,11 @@ fun DSLScope.Idolmaster() {
 
         Entry {
             id = "A-MAL-30344"
+            title = "The iDOLM@STER Cinderella Girls 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 30344 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 10760 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 21094 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 30344 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ogata Chieri"
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.5, 0.2)
