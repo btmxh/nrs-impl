@@ -11,7 +11,6 @@ fun DSLScope.YamadaKun() {
 
         Entry {
             id = "A-MAL-28677"
-            title = "Yamada-kun to 7-nin no Majo"
             bestGirl = "Shiraishi Urara"
 
             FeatureMusic("M-VGMDB-AL-51918-1")

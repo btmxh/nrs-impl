@@ -11,7 +11,6 @@ fun DSLScope.TariTari() {
 
         Entry {
             id = "A-MAL-13333"
-            title = "Tari Tari"
 
             bestGirl = "Miyamoto Konatsu"
 

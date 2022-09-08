@@ -11,7 +11,6 @@ fun DSLScope.Charlotte() {
 
         Entry {
             id = "A-MAL-28999"
-            title = "Charlotte"
             bestGirl = "Nao Tomori" // ai mapper lmao
 
             Visual(VisualKind.Animated, 0.5, 0.1)

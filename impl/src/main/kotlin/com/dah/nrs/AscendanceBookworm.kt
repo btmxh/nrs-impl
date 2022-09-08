@@ -17,7 +17,6 @@ fun DSLScope.AscendanceBookworm() {
 
         Entry {
             id = "A-MAL-39468"
-            title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
             bestGirl = "Myne"
 
             Progress(Boredom.Completed)
@@ -26,7 +25,6 @@ fun DSLScope.AscendanceBookworm() {
 
         Entry {
             id = "A-MAL-40815"
-            title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
             bestGirl = "Myne"
 
             Progress(Boredom.Completed)
@@ -35,7 +33,6 @@ fun DSLScope.AscendanceBookworm() {
 
         Entry {
             id = "A-MAL-42429"
-            title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
             bestGirl = "Myne"
 
             Progress(Boredom.Completed)

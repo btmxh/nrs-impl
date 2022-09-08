@@ -10,7 +10,6 @@ fun DSLScope.ShichiseiSubaru() {
 
         Entry {
             id = "A-MAL-36316"
-            title = "Shichisei no Subaru"
             bestGirl = "Kuga Asahi"
 
             Progress(Boredom.Completed)

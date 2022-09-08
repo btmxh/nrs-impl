@@ -6,7 +6,6 @@ import com.dah.nrs.exts.*
 fun DSLScope.Spring2022() {
     Entry {
         id = "A-MAL-48363"
-        title = "RPG Fudousan"
 
         bestGirl = "Kotone Kazairo"
 
@@ -17,7 +16,6 @@ fun DSLScope.Spring2022() {
     }
     Entry {
         id = "A-MAL-48415"
-        title = "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
 
         bestGirl = "Ireena Litz de Olhyde"
 
@@ -27,7 +25,6 @@ fun DSLScope.Spring2022() {
     }
     Entry {
         id = "A-MAL-50265"
-        title = "Spy x Family"
 
         ValidatorSuppress("dah-no-best-girl")
 
@@ -55,7 +52,6 @@ fun DSLScope.Spring2022() {
     }
     Entry {
         id = "A-MAL-50273"
-        title = "Tomodachi Game"
         bestGirl = "Maria Mizuse"
 
         Progress(Boredom.Completed)

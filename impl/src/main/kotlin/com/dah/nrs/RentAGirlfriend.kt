@@ -10,7 +10,6 @@ fun DSLScope.RentAGirlfriend() {
 
         Entry {
             id = "A-MAL-40839"
-            title = "Kanojo, Okarishimasu"
             bestGirl = "Sakurasawa Sumi"
 
             Progress(Boredom.Dropped, 1)

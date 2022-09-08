@@ -20,7 +20,6 @@ fun DSLScope.COTE() {
 
         Entry {
             id = "A-MAL-35507"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)"
 
             bestGirl = "Horikita Suzune"
             // no fuckign way she is VA'd by the glorious akari kito
@@ -33,7 +32,6 @@ fun DSLScope.COTE() {
 
         Entry {
             id = "A-MAL-51096"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season"
 
             bestGirl = "Sakayanagi Arisu"
             // no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl

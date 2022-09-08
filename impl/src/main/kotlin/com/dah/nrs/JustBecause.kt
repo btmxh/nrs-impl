@@ -10,7 +10,6 @@ fun DSLScope.JustBecause() {
 
         Entry {
             id = "A-MAL-35639"
-            title = "Just Because!"
             bestGirl = "Natsume Mio"
 
             Progress(Boredom.Completed)

@@ -11,7 +11,6 @@ fun DSLScope.UchiageHanabi() {
 
         Entry {
             id = "A-MAL-34498"
-            title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
 
             // SLN rng
             AEI(1.0, Emotion.CU)

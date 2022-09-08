@@ -13,7 +13,6 @@ fun DSLScope.RikeKoi() {
         // i'm impressed that they survived tho
         Entry {
             id = "A-MAL-38992"
-            title = "Rikei ga Koi ni Ochita no de Shoumei shitemita."
 
             bestGirl = "Kotonoha Kanade" // kanaded lol
 
@@ -26,7 +25,6 @@ fun DSLScope.RikeKoi() {
         // rip
         Entry {
             id = "A-MAL-43470"
-            title = "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
 
             bestGirl = "Kotonoha Kanade"
 

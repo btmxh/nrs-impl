@@ -10,7 +10,6 @@ fun DSLScope.TateYuusha() {
 
         Entry {
             id = "A-MAL-35790"
-            title = "Tate no Yuusha no Nariagari"
             // This became popular thanks to Reddit.
             // And yes, it's watched in the Reddit-era
             bestGirl = "Raphtalia"
@@ -25,7 +24,6 @@ fun DSLScope.TateYuusha() {
 
         Entry {
             id = "A-MAL-40356"
-            title = "Tate no Yuusha no Nariagari Season 2"
             bestGirl = "Raphtalia"
 
             Progress(Boredom.Dropped, 3)

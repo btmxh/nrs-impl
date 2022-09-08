@@ -15,6 +15,7 @@ fun DSLScope.Vocaloid() {
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         SubIDEntry("6") {
+            title = "Chikyuu Saigo no Kokuhaku wo"
             Visual(VisualKind.AnimatedMV, 0.5, 0.5)
             // the legendary fifth ayumu-era theme song
 

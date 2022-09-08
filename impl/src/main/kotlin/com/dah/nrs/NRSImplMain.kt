@@ -33,7 +33,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-12175"
-            title = "Koi to Senkyo to Chocolate"
             bestGirl = "Chisato Sumiyoshi"
 
             // iirc i liked this anime's plot
@@ -44,7 +43,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-12189"
-            title = "Hyouka"
             bestGirl = "Chitanda Eru"
 
             // ig it's kinda good
@@ -63,7 +61,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-21845"
-            title = "Ushinawareta Mirai wo Motomete"
 
             // kaomeme
             bestGirl = "Sasaki Kaori"
@@ -89,7 +86,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-28851"
-            title = "Koe no Katachi"
 
             bestGirl = "Nishimiya Shouko"
             // Koe no Katachi has solid drama
@@ -109,7 +105,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-31952"
-            title = "Kono Bijutsubu ni wa Mondai ga Aru!"
 
             bestGirl = "Usami Mizuki"
             Progress(Boredom.Completed)
@@ -120,7 +115,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-32729"
-            title = "Orange"
 
             bestGirl = "Takamiya Naho"
 
@@ -136,7 +130,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-33731"
-            title = "Gabriel DropOut"
 
             bestGirl = "Satanichia Kurumizawa McDowell"
             // iToddlers BTFO
@@ -148,7 +141,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-34240"
-            title = "Shelter"
 
             bestGirl = "Rin"
 
@@ -166,7 +158,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-34280"
-            title = "Gamers!"
 
             seasonal = true // iirc
 
@@ -181,7 +172,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-34822"
-            title = "Tsuki ga Kirei"
 
             bestGirl = "Mizuno Akane"
             // ending sadge
@@ -192,7 +182,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-35241"
-            title = "Konohana Kitan"
             bestGirl = "Natsume" // rst girl my beloved
 
             // definitely not reminding me of mashu mashu from sb69
@@ -210,7 +199,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-35756"
-            title = "Comic Girls"
             bestGirl = "Kaoruko Moeta"
 
             Progress(Boredom.Completed)
@@ -223,7 +211,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-35860"
-            title = "Karakai Jouzu no Takagi-san"
 
             bestGirl = "Takagi"
 
@@ -235,7 +222,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-36038"
-            title = "Net-juu no Susume"
 
             // lmfao
             bestGirl = "Washing Machine"
@@ -246,7 +232,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-36098"
-            title = "Kimi no Suizou wo Tabetai"
 
             // facebook anime lmfao
             bestGirl = "Yamauchi Sakura"
@@ -258,7 +243,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-36266"
-            title = "Mahou Shoujo Site"
 
             bestGirl = "Asagiri Aya"
 
@@ -284,7 +268,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-37744"
-            title = "Isekai Cheat Magician"
             bestGirl = "Azuma Rin"
 
             Progress(Boredom.Dropped, 8)
@@ -293,7 +276,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-37926"
-            title = "Nakanohito Genome [Jikkyouchuu]"
             bestGirl = "Sarayashiki Karin"
             // akari kito va lmfao
 
@@ -307,7 +289,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-37982"
-            title = "Domestic na Kanojo"
             bestGirl = "Tachibana Hina"
 
             Progress(Boredom.Completed)
@@ -324,7 +305,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-38656"
-            title = "Darwin's Game"
             bestGirl = "Karino Shuka"
             Progress(Boredom.Completed)
             Visual(VisualKind.Animated, 0.3, 0.4)
@@ -334,7 +314,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-38659"
-            title = "Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru"
             // very funny lmao
             AEI(5.0, Emotion.AP)
             // restep sequel leaked no way
@@ -347,7 +326,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-38790"
-            title = "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
             bestGirl = "Maple"
 
             KilledBy("F-VGMDB-1945", 0.2, 0.5)
@@ -360,7 +338,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-39324"
-            title = "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai."
             bestGirl = "Latina"
 
             Progress(Boredom.Dropped, 4)
@@ -372,7 +349,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-39523"
-            title = "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
 
             // rst girl vs akm girl lol
             bestGirl = "Sarutobi Shinobu"
@@ -389,7 +365,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-39790"
-            title = "Adachi to Shimamura"
             bestGirl = "Shimamura Hougetsu"
 
             Progress(Boredom.TempOnHold, 3)
@@ -405,7 +380,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-40550"
-            title = "Assault Lily: Bouquet"
             bestGirl = "Shirai Yuyu" // himekek my beloved
             bestGirl = "Wang Yujia" // noway it's the kimi no rhapsody girl
             bestGirl = "Yoshimura Thi Mai" // top kek
@@ -420,7 +394,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-40571"
-            title = "Majo no Tabitabi"
             bestGirl = "Elaina"
 
             Visual(VisualKind.Animated, 0.4, 0.3)
@@ -430,7 +403,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-40783"
-            title = "Shachou, Battle no Jikan Desu!"
             // insert hatsune miku joke here
             bestGirl = "Akari"
 
@@ -445,7 +417,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-41619"
-            title = "Munou na Nana"
             bestGirl = "Hiiragi Nana"
 
             Visual(VisualKind.Animated, 0.4, 0.5)
@@ -457,7 +428,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-41930"
-            title = "Kamisama ni Natta Hi"
             bestGirl = "Izanami Kyouko"
 
             Visual(VisualKind.Animated, 0.6, 0.4)
@@ -470,7 +440,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-43969"
-            title = "Kanojo mo Kanojo"
             // this is one of the only rom-coms that is
             // watched in the post-MagiReco era, which is
             // already impressive
@@ -484,7 +453,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-46093"
-            title = "Shiroi Suna no Aquatope"
             bestGirl = "Miyazawa Fuuka"
 
             // idk tf this anime is talking about lol
@@ -495,7 +463,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-40904"
-            title = "Bokutachi no Remake"
             bestGirl = "Kawasegawa Eiko"
             // this was expected to be a good compoly
             // anime, but it doesn't care about that
@@ -508,7 +475,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-44203"
-            title = "Seirei Gensouki"
             // kimi no rhapsody girl
             bestGirl = "Claire Celia"
 
@@ -524,7 +490,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-47790"
-            title = "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
             bestGirl = "Dia" // *insert love live sunshine joke*
 
             Progress(Boredom.Dropped, 6)
@@ -536,7 +501,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-48483"
-            title = "Mieruko-chan"
 
             // "babe pls have sex with me im so horny"
             // "haha the ortensia incident"
@@ -550,7 +514,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-48644"
-            title = "Gyakuten Sekai no Denchi Shoujo"
             bestGirl = "Akagi Rin"
 
             // denchi shoujo my fucking beloved wtf i love this so fking much
@@ -565,7 +528,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-17919"
-            title = "Houkago no Pleiades (TV)"
             bestGirl = "Subaru" // ofc it has to be mc
 
             // didn't expect mc to fall in love tho
@@ -594,7 +556,6 @@ fun main() =
 
         Entry {
             id = "A-MAL-35589"
-            title = "Toji no Miko"
 
             bestGirl = "Tagitsuhime"
             // i hate my life

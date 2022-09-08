@@ -6,7 +6,6 @@ import com.dah.nrs.exts.*
 fun DSLScope.HelloWorld() {
     Entry {
         id = "A-MAL-38816"
-        title = "Hello World"
         bestGirl = "Ichijou Ruka"
         // oh fuck
         bestGirl = "Ichigyou Ruri"
@@ -18,7 +17,6 @@ fun DSLScope.HelloWorld() {
 
     Entry {
         id = "A-MAL-40295"
-        title = "Another World"
         bestGirl = "Ichigyou Ruri"
 
         Progress(Boredom.Completed)

@@ -20,7 +20,6 @@ fun DSLScope.AOT() {
         }
 
         Entry {
-            title = "Shingeki no Kyojin"
             id = "A-MAL-16498"
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
@@ -28,7 +27,6 @@ fun DSLScope.AOT() {
         }
 
         Entry {
-            title = "Shingeki no Kyojin Season 2"
             id = "A-MAL-25777"
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
@@ -36,7 +34,6 @@ fun DSLScope.AOT() {
         }
 
         Entry {
-            title = "Shingeki no Kyojin Season 3"
             id = "A-MAL-35760"
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
@@ -49,7 +46,6 @@ fun DSLScope.AOT() {
         // aged well lmfao after the seishun wa non-stop incident
         // xddddddddddddddddddddd
         Entry {
-            title = "Shingeki no Kyojin Season 3 Part 2"
             id = "A-MAL-38524"
             bestGirl = "Ackerman Mikasa"
             Progress(Boredom.Completed)
