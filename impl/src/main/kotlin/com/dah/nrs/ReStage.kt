@@ -819,7 +819,7 @@ fun DSLScope.ReStage() {
                 // me waiting for ameko be like
                 // https://knowyourmeme.com/memes/pablo-escobar-waiting
 
-                Music(5.0)
+                ReStepMusic(5.0)
              }
          }
 
