@@ -47,7 +47,11 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            Progress(Boredom.Watching, 9)
+            Progress(Boredom.Watching, 10)
+
+            // ep 10 is an absolute banger xdddddddddddddddddddd
+            // (mc crying, ortensia incident, "the daughter of the life-skill god",
+            // harry maguire, nio tạ, rst dd reference, aKoGarE pls fuck off, etc.)
 
             // this anime somewhat feels like those rst-inspired-CP-based anime ngl
             // NEI(0.3, Emotion.CP)
