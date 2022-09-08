@@ -54,14 +54,6 @@
             "DAH_entry_title": "ebb and flow"
         }
     },
-    "M-59": {
-        "id": "M-59",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Amaoto Fanfare"
-        }
-    },
     "M-VGMDB-AL-114399": {
         "id": "M-VGMDB-AL-114399",
         "children": {
@@ -2441,8 +2433,8 @@
             "M-VGMDB-AL-120836": 1.0,
             "M-VGMDB-AL-121168": 1.0,
             "M-VGMDB-AL-122232": 1.0,
-            "M-59": 1.0,
             "M-48": 1.0,
+            "M-VGMDB-AL-122926": 1.0,
             "GF-VGMDB-7059": 1.0
         },
         "DAH_meta": {
@@ -3563,6 +3555,14 @@
             "DAH_entry_bestGirl": "Nibutani Shinka"
         }
     },
+    "M-VGMDB-AL-122926-6": {
+        "id": "M-VGMDB-AL-122926-6",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "雨音ファンファーレ"
+        }
+    },
     "M-VGMDB-AL-99272-12": {
         "id": "M-VGMDB-AL-99272-12",
         "children": {
@@ -4649,6 +4649,21 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "over and over / yanaginagi"
+        }
+    },
+    "M-VGMDB-AL-122926": {
+        "id": "M-VGMDB-AL-122926",
+        "children": {
+            "M-VGMDB-AL-120845-1": 1.0,
+            "M-VGMDB-AL-120844-1": 1.0,
+            "M-VGMDB-AL-120842-1": 1.0,
+            "M-VGMDB-AL-120836-1": 1.0,
+            "M-VGMDB-AL-121168-1": 1.0,
+            "M-VGMDB-AL-122232-1": 1.0,
+            "M-VGMDB-AL-122926-6": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Re:STAGE! Prism Step Concept Mini Album: Reboot"
         }
     },
     "G-VGMDB-1880": {
@@ -8253,7 +8268,7 @@
             "M-VGMDB-AL-78339": 0.6000000000000001,
             "M-VGMDB-AL-82983": 0.6000000000000001,
             "M-VGMDB-AL-104673-2": 0.6000000000000001,
-            "M-59": 0.6000000000000001
+            "M-VGMDB-AL-122926-6": 0.6000000000000001
         },
         "DAH_meta": {
             "DAH_entry_title": "ortensia"

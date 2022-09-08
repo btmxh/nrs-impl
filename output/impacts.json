@@ -17903,7 +17903,31 @@
     },
     {
         "contributors": {
-            "M-59": 1.0
+            "M-VGMDB-AL-122926": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.10416666666666667,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "uniqueness": 0.5,
+            "kind": "AlbumArt",
+            "type": "DAH_nonstandard_generic_visual",
+            "base": 0.5
+        }
+    },
+    {
+        "contributors": {
+            "M-VGMDB-AL-122926-6": 1.0
         },
         "score": [
             0.0,
@@ -17914,12 +17938,12 @@
             0.0,
             0.0,
             0.0,
-            0.75,
+            1.5,
             0.0,
             0.0
         ],
         "DAH_meta": {
-            "input_score": 2.5,
+            "input_score": 5.0,
             "type": "DAH_nonstandard_music"
         }
     },
