@@ -5138,6 +5138,31 @@
     },
     {
         "contributors": {
+            "GF-VGMDB-7059": 1.0
+        },
+        "references": {
+            "M-VGMDB-AL-122926-6": {
+                "kind": "diagonal",
+                "data": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.2,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "DAH_meta": {
+        }
+    },
+    {
+        "contributors": {
             "A-MAL-38009": 0.8,
             "GF-VGMDB-7059": 0.2
         },
