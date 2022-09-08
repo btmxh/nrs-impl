@@ -15,10 +15,12 @@ fun DSLScope.Irodori() {
 
     Entry {
         id = "M-VGMDB-AL-91187"
+        title = "CHUNITHM ALL JUSTICE COLLECTION ep.I" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.05, 0.5)
 
         SubIDEntry("35") {
+            title = "エンドマークに希望と涙を添えて" // generated(fill_music_metadata.dart v0.1.1)
             Music(3.5)
             Remix("M-VGMDB-AL-93299-2")
         }
@@ -43,10 +45,12 @@ fun DSLScope.Irodori() {
 
         Entry {
             id = "M-VGMDB-AL-93299"
+            title = "GO!GO! Chunithm♥Endmark / IRODORIMIDORI" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.35)
 
             SubIDEntry("2") {
+                title = "エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～" // generated(fill_music_metadata.dart v0.1.1)
 
                 Music(4.0)
             }

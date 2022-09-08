@@ -12,10 +12,12 @@ fun DSLScope.GochiUsa() {
 
         Entry {
             id = "M-VGMDB-AL-44890"
+            title = "Daydream café / Petit Rabbit's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
             SubIDEntry("1") {
+                title = "Daydream café" // generated(fill_music_metadata.dart v0.1.1)
                 // fuwa fuwa
                 // dong do la max do
                 // duy bua ham l
@@ -35,6 +37,7 @@ fun DSLScope.GochiUsa() {
 
         Entry {
             id = "M-VGMDB-AL-55364"
+            title = "Gochuumon wa Usagi Desu ka?? Chino Character Song Album: cup of chino" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
             // this also includes mahou shoujo chino
@@ -50,6 +53,7 @@ fun DSLScope.GochiUsa() {
 
         Entry {
             id = "M-VGMDB-AL-54418"
+            title = "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
             SubIDEntry("1") {

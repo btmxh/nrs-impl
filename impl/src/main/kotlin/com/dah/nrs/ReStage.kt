@@ -255,10 +255,12 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78536"
+            title = "Startin' My Re:STAGE!! / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.6)
 
             SubIDEntry("2") {
+                title = "Startin' My Re:STAGE!!" // generated(fill_music_metadata.dart v0.1.1)
                 // watayuki grimoi-reference (M6.0 unranked lmfao)
                 ReStepMusic(1.0)
             }
@@ -266,16 +268,19 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78534"
+            title = "Remembers! / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1") {
+                title = "リメンバーズ!" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
                 // haha funny centuRe: reference
                 Meme(0.05, 6)
             }
 
             SubIDEntry("2") {
+                title = "君に贈るAngel Yell" // generated(fill_music_metadata.dart v0.1.1)
                 // the angel yell incident
                 ReStepMusic(7.5)
                 Meme(0.2, 10)
@@ -284,21 +289,25 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78575"
+            title = "Natsu no Yakusoku / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             // 367days background lmfao
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
+                title = "Natsu no Yakusoku" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-78532"
+            title = "Akogare Future Sign / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
+                title = "憧れFuture Sign" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
             }
 
@@ -308,10 +317,12 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78530"
+            title = "KiRaRhythm / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "Do it!! PARTY!!" // generated(fill_music_metadata.dart v0.1.1)
                 // do it happy daibouken reference
                 ReStepMusic(5.0)
             }
@@ -325,6 +336,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78516"
+            title = "SENSEI Sensation / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
             SubIDEntry("1") {
@@ -336,10 +348,12 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78764"
+            title = "367Days / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "367Days" // generated(fill_music_metadata.dart v0.1.1)
                 // THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT
                 // (definitely not a cheap copy of osu's 727)
                 Meme(0.05, 45)
@@ -355,13 +369,16 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-84229"
+            title = "HAPPY TYPHOON / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
+                title = "ハッピータイフーン" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(0.8)
             }
 
             SubIDEntry("2") {
+                title = "ステレオライフ" // generated(fill_music_metadata.dart v0.1.1)
                 // yozora ni kagayaku yume no ryuusei wa
                 // kek
                 ReStepMusic(1.0)
@@ -370,25 +387,30 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-86622"
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1") {
+                title = "Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.5)
             }
 
             SubIDEntry("2") {
+                title = "Akogare Future Sign (Piano Strings Arrange)" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-89363"
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." // generated(fill_music_metadata.dart v0.1.1)
 
             Contains("M-VGMDB-AL-78516-1")
             Contains("M-VGMDB-AL-78764-1")
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1") {
+                title = "Kirameki Future" // generated(fill_music_metadata.dart v0.1.1)
                 // ca truong chuyen deu luon luon khiep so
                 // mot nguoi diet het moi tuong lai uoc mo
                 // xinh dep bac nhat tren thai binh que to
@@ -397,6 +419,7 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("2") {
+                title = "OvertuRe:" // generated(fill_music_metadata.dart v0.1.1)
                 // meme lyrics xddd
                 // I can't rely on one
                 // 一つじゃ頼りない
@@ -443,6 +466,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AR-30829"
+            title = "KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78536")
@@ -462,6 +486,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-89364"
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             Contains("M-VGMDB-AL-89363-1")
@@ -469,33 +494,40 @@ fun DSLScope.ReStage() {
             Contains("M-VGMDB-AL-78520-1")
 
             SubIDEntry("3") {
+                title = "Yes, We Are!!!" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-78520"
+            title = "Purple Rays / ortensia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.55)
 
             SubIDEntry("1") {
+                title = "Purple Rays" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
             }
 
             SubIDEntry("2") {
+                title = "Dear マイフレンド" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-78339"
+            title = "*Heart Confusion* / ortensia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.65)
             SubIDEntry("1") {
+                title = "*Heart Confusion*" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.0)
             }
 
             SubIDEntry("2") {
+                title = "crave" // generated(fill_music_metadata.dart v0.1.1)
                 // gigachad keeno:
                 // >doesn't give a shit about multimedia franchises
                 // >still makes a song for rst anyway, but other franchises get none
@@ -507,6 +539,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-82983"
+            title = "Pullulate / ortensia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             Contains("M-VGMDB-AL-78339-1")
@@ -515,6 +548,7 @@ fun DSLScope.ReStage() {
             Contains("M-VGMDB-AL-78520-2")
 
             SubIDEntry("5") {
+                title = "Ano ne" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.0)
             }
         }
@@ -537,6 +571,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-82369"
+            title = "Q.E.D. / Stellamaris" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -545,6 +580,7 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("8") {
+                title = "DESERT BLACK FLOWER" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(7.5)
             }
         }
@@ -570,10 +606,12 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78515"
+            title = "Raise Your Fist / Tetrarkhia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1") {
+                title = "カナリア" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(6.0)
             }
         }
@@ -590,6 +628,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-109271-48"
+            title = "私たち、四季を遊ぶんです!!" // generated(fill_music_metadata.dart v0.1.1)
 
             // i mapped and tried to shill it on:
             // - sotarks map roasting
@@ -603,6 +642,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-104673"
+            title = "Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream" // generated(fill_music_metadata.dart v0.1.1)
             // aka method appreciation album
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
@@ -624,6 +664,7 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("3") {
+                title = "Tomorrow Melodies" // generated(fill_music_metadata.dart v0.1.1)
                 // do chinh la method
                 // nguoi dan ong da khien ca truong,
                 // ca truong chuyen da luon lo so
@@ -636,6 +677,7 @@ fun DSLScope.ReStage() {
             }
 
             SubIDEntry("5") {
+                title = "We Remember" // generated(fill_music_metadata.dart v0.1.1)
                 // ngau loi vai ra
                 // nay nhat minh oi nay nhat minh oi
                 // tai vi sao a qua ngau
@@ -651,18 +693,21 @@ fun DSLScope.ReStage() {
         // (except for the absolute banger clematis)
         Entry {
             id = "M-VGMDB-AL-120845"
+            title = "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/5XDmDcHp
             // aka sussin city
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("1") {
+                title = "Sin City" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-120844"
+            title = "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/AM0HVHA5
             // aka mismatched melody
 
@@ -676,27 +721,32 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-120842"
+            title = "Unison Monologue / Tetrarkhia" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/YShsnTEb
             // aka the 330 bpm song but actually an alt-165 bpm one
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("1") {
+                title = "ユニゾンモノローグ" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-120836"
+            title = "Ginga no Shizuku / TROIS ANGES" // generated(fill_music_metadata.dart v0.1.1)
             // le gingachad seiyuu
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             SubIDEntry("1") {
+                title = "Ginga no Shizuku" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-121168"
+            title = "Clematis / Stellamaris" // generated(fill_music_metadata.dart v0.1.1)
             // catjam tho
             // no one's like the "intelligent update", no one's like the king (clap x2)
             // shining like the dawn, scared the whole high school (clap x2)
@@ -709,18 +759,21 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
 
             SubIDEntry("1") {
+                title = "Clematis" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(6.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-122232"
+            title = "Ideal/Idol / KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
             // inb4 the "i'd like to interject for a moment,
             // what ur refering to as idol, is in fact ideal/idol..." pasta
 
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
             SubIDEntry("1") {
+                title = "Ideal/Idol" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.5)
             }
         }

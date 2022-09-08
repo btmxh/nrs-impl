@@ -54,9 +54,11 @@ fun DSLScope.Aipura() {
 
         Entry {
             id = "M-VGMDB-AL-106487"
+            title = "IDOLY PRIDE / Hoshimi Production" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
             SubIDEntry("1") {
+                title = "IDOLY PRIDE" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
 

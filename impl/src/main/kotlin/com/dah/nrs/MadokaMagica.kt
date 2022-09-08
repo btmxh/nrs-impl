@@ -17,24 +17,29 @@ fun DSLScope.MadokaMagica() {
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
+                title = "Mata Ashita" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-24725"
+            title = "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("4") {
+                title = "Believing in Justice" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-39170"
+            title = "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
+                title = "and I'm home" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -48,6 +53,7 @@ fun DSLScope.MadokaMagica() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "ケアレス" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -56,20 +62,24 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "M-VGMDB-AL-95029"
+            title = "Gomakashi / TrySail" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "Gomakashi" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-91985"
+            title = "Utsuroi / TrySail" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             SubIDEntry("1") {
+                title = "Utsuroi" // generated(fill_music_metadata.dart v0.1.1)
                 // the game
                 // browiec's Wisdom
                 // Misunderstanding

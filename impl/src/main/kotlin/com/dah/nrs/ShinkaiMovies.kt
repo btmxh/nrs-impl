@@ -45,9 +45,11 @@ fun DSLScope.ShinkaiMovies() {
 
         Entry {
             id = "M-VGMDB-AL-87003"
+            title = "Tenki no Ko / RADWIMPS" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
             SubIDEntry("28") {
+                title = "Grand Escape (Movie edit) feat, Miura Toko" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
                 OsuSong(personal = 4.0)
             }

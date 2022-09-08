@@ -12,6 +12,7 @@ fun DSLScope.Saekano() {
 
         Entry {
             id = "M-VGMDB-AL-48199"
+            title = "Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 

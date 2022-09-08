@@ -37,9 +37,11 @@ fun DSLScope.D4DJ() {
 
         Entry {
             id = "M-VGMDB-AL-107257"
+            title = "Guruguru DJ TURN!! / Happy Around!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
             SubIDEntry("3") {
+                title = "Guruguru DJ TURN!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -47,9 +49,11 @@ fun DSLScope.D4DJ() {
         // wtf
         Entry {
             id = "M-VGMDB-AL-108580"
+            title = "D4DJ Special Disc Photon Maiden Ver." // generated(fill_music_metadata.dart v0.1.1)
 
             ValidatorSuppress("dah-visualless-entry")
             SubIDEntry("2") {
+                title = "Brand New World" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

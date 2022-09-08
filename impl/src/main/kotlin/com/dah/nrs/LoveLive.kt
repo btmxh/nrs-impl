@@ -17,10 +17,12 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-34051"
+            title = "Snow halation / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.1, 0.5)
 
             SubIDEntry("1") {
+                title = "Snow halation" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 Meme(0.1, 6)
                 // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
@@ -30,6 +32,7 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-36547"
+            title = "Bokura wa Ima no Naka de / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
@@ -40,26 +43,31 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-75504"
+            title = "Music S.T.A.R.T!! / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("2") {
+                title = "LOVELESS WORLD" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-93532"
+            title = "A song for You! You? You!! / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "A song for You! You? You!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-13719"
+            title = "μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-34051")
@@ -71,26 +79,31 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-58147"
+            title = "Aozora Jumping Heart / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "Aozora Jumping Heart" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-58750"
+            title = "Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu! / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "Kimeta yo Hand in Hand" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-70622"
+            title = "Yuuki wa Doko ni? Kimi no Mune ni! / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
@@ -101,30 +114,36 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-71404"
+            title = "MY MAI☆TONIGHT/MIRACLE WAVE / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("2") {
+                title = "MIRACLE WAVE" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-78378"
+            title = "Thank you, FRIENDS!! / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "Thank you, FRIENDS!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-87199"
+            title = "Mitaiken HORIZON / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
+                title = "Mitaiken HORIZON" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -132,6 +151,7 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AR-17153"
+            title = "Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-58147")
@@ -149,32 +169,38 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
+                title = "Beginner's Sailing" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-102276"
+            title = "Nijiiro Passions! / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
+                title = "Nijiiro Passions!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-102277"
+            title = "NEO SKY, NEO MAP! / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
+                title = "NEO SKY, NEO MAP!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-29922"
+            title = "Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-102276")
@@ -192,28 +218,34 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("1") {
+                title = "TOKIMEKI Runners" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("2") {
+                title = "Yume e no Ippo" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
             }
 
             SubIDEntry("8") {
+                title = "CHASE!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
 
             SubIDEntry("10") {
+                title = "Dokipipo☆Emotion" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-87198"
+            title = "Love U my friends / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("10") {
+                title = "Love U my friends" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
@@ -222,28 +254,34 @@ fun DSLScope.LoveLive() {
             }
 
             SubIDEntry("7") {
+                title = "MELODY" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-99272"
+            title = "Just Believe!!! / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("12") {
+                title = "Just Believe!!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
 
             SubIDEntry("1") {
+                title = "Say Good-Bye Namida" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("3") {
+                title = "Yagate Hitotsu no Monogatari" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("7") {
+                title = "LIKE IT! LOVE IT!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.5)
                 OsuSong(personal = 3.0)
             }
@@ -251,16 +289,19 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-112929"
+            title = "L!L!L! (Love the Life We Live) / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("2") {
+                title = "Break The System" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-102281"
+            title = "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Setsuna Yuki Edition]" // generated(fill_music_metadata.dart v0.1.1)
                     " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
                     " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
 
@@ -268,6 +309,7 @@ fun DSLScope.LoveLive() {
 
             // the first ayumu-era theme song
             SubIDEntry("1") {
+                title = "Dream with You" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.0)
                 Impact {
                     // the song is shit
@@ -283,16 +325,19 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-104783"
+            title = "Awakening Promise/Yume ga Koko kara Hajimaru yo / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
             SubIDEntry("1") {
+                title = "Awakening Promise" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.25)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-37385"
+            title = "Liella!" // generated(fill_music_metadata.dart v0.1.1)
             // Liella hasn't got any notable songs
             // also they got fucked in the rst-sb69 duopoly era because
             // rst is a fucking nazi

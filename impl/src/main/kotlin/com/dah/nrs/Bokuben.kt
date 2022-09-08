@@ -46,10 +46,12 @@ fun DSLScope.Bokuben() {
 
         Entry {
             id = "M-VGMDB-AL-85537"
+            title = "Seishun Seminar/Never Give It Up!! / Study" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
             SubIDEntry("1") {
+                title = "Seishun Seminar" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 2.0)
             }
@@ -57,10 +59,12 @@ fun DSLScope.Bokuben() {
 
         Entry {
             id = "M-VGMDB-AL-88884"
+            title = "Can now, Can now / Study" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
             SubIDEntry("1") {
+                title = "Can now, Can now" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 1.0)
             }

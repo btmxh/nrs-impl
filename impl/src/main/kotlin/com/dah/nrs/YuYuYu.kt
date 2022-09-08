@@ -15,6 +15,7 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "M-VGMDB-AL-47678"
+            title = "Aurora Days / Sanshuu Chuugaku Yuushabu" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -25,12 +26,14 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "M-VGMDB-AL-114186"
+            title = "Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
             // the glorious udon stream map
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
             SubIDEntry("2") {
+                title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 3.0)
             }

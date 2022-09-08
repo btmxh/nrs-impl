@@ -203,9 +203,11 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-100087"
+            title = "How To Fly / Cyan & Howan" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.45, 0.3)
             SubIDEntry("1") {
+                title = "How To Fly" // generated(fill_music_metadata.dart v0.1.1)
                 // fes a live art looks a little bit weird ngl
                 Visual(VisualKind.AnimatedMV, 0.45, 0.3)
                 FesALiveMusic(3.5)
@@ -214,6 +216,7 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-94913"
+            title = "My pace!! / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.7)
 
@@ -226,16 +229,19 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-51276"
+            title = "Seishun wa Non-Stop! / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.6)
 
             SubIDEntry("1") {
+                title = "Seishun wa Non-Stop!" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(2.5)
 
                 Remix("M-22")
             }
 
             SubIDEntry("2") {
+                title = "Close to you" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(4.0)
 
                 Remix("M-VGMDB-AL-61981-3")
@@ -244,16 +250,19 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-51278"
+            title = "Tabimichi Yoiyoi Yume Hanabi / Tsurezurenaru Ayatsuri Mugenan" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.45, 0.5)
 
             SubIDEntry("1") {
+                title = "Tabimichi Yoiyoi Yume Hanabi" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-51706"
+            title = "Meikyuu DESTINY/Ryuusei Dreamline / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.55, 0.4)
 
@@ -269,34 +278,41 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-61217"
+            title = "Heart wo Rock!! / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             SubIDEntry("1") {
+                title = "Heart wo Rock!!" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(7.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-61940"
+            title = "Schlehit Melodie/Danzai no Solitude / BUD VIRGIN LOGIC" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
             SubIDEntry("1") {
+                title = "Schlehit Melodie" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-61981"
+            title = "My Resolution ~Mirai e no Kizuna~ / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "My Resolution ～未来への絆～" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(5.0)
             }
 
             SubIDEntry("3") {
+                title = "Close to you (詩杏 ver.)" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(3.5)
 
                 NEI(2.5, Emotion.MP)
@@ -305,10 +321,12 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-59914"
+            title = "Do Re Mi Fa PARTY / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.5)
 
             SubIDEntry("1") {
+                title = "ドレミファPARTY" // generated(fill_music_metadata.dart v0.1.1)
                 // xd
                 FesALiveMusic(2.0)
                 Meme(0.1, 2)
@@ -328,6 +346,7 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-93440"
+            title = "Hiromenes/Kimi no Rhapsody / Mashumairesh!!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
@@ -336,6 +355,7 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("2") {
+                title = "Kimi no Rhapsody" // generated(fill_music_metadata.dart v0.1.1)
                 // hahahahahaaha the howan tinh song
                 FesALiveMusic(2.5)
                 Meme(0.01, numDays("2022-04-01"))
@@ -343,6 +363,7 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("3") {
+                title = "Masshiro Start Line" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.0)
             }
         }
@@ -357,6 +378,7 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-93441"
+            title = "Yell and Response / Mashumairesh!!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
@@ -367,31 +389,37 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-104341"
+            title = "Do Re Mi Fa STARS!!/Hoshizora Light Story" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
             SubIDEntry("1") {
+                title = "Do Re Mi Fa STARS!!" // generated(fill_music_metadata.dart v0.1.1)
                 // aka ceui - colorful days (mp-based franchise ver.)
                 // or the counting song
                 FesALiveMusic(5.0)
             }
 
             SubIDEntry("2") {
+                title = "Hoshizora Light Story" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-104266"
+            title = "TV Anime \"SHOW BY ROCK!! STARS!!\" Sounyuuka Mini Album Vol.1" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
             SubIDEntry("3") {
+                title = "Do! It! Happy Daibouken!" // generated(fill_music_metadata.dart v0.1.1)
                 // do it party reference lmfao
                 FesALiveMusic(6.5)
             }
 
             SubIDEntry("6") {
+                title = "Kyukyukyun♡Heart Shaker" // generated(fill_music_metadata.dart v0.1.1)
                 // aaaaa co sao method thong minh the
                 // co le dell ai ngau giong anh chang
                 // ngau loi nhat ca doi tuyen toan
@@ -403,6 +431,7 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-104267"
+            title = "TV Anime \"SHOW BY ROCK!! STARS!!\" Sounyuuka Mini Album Vol.2" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
@@ -424,26 +453,31 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-61982"
+            title = "Hanate! Dododon! / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
             SubIDEntry("1") {
+                title = "Hanate! Dododon!" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(5.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-118562"
+            title = "Taikakusen wo Tsunaideyo / Uwasanopetals" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
             SubIDEntry("1") {
+                title = "Taikakusen wo Tsunaideyo" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-104418"
+            title = "Good Day by Day / Cyan (cv. Eri Inagawa), A (cv. Saori Hayami), Ailane (cv. Ruriko Noguchi), Shibarin (cv. Marika Kohno)" // generated(fill_music_metadata.dart v0.1.1)
 
             // this thing:
             // https://medium-media.vgm.io/albums/81/104418/104418-9cc8d5c0abf7.jpg
@@ -452,6 +486,7 @@ fun DSLScope.SB69() {
 
             // also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno)
             SubIDEntry("1") {
+                title = "グッデイバイデイ" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(3.5)
             }
 
@@ -461,20 +496,24 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-100082"
+            title = "Mirai Wanted / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1") {
+                title = "Mirai Wanted" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(5.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-116297"
+            title = "Bokura no Neiro / Plasmagica" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1") {
+                title = "Bokura no Neiro" // generated(fill_music_metadata.dart v0.1.1)
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.6)
                 FesALiveMusic(3.5)
             }
@@ -482,10 +521,12 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-105612"
+            title = "Mot Mot Mot / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.45)
 
             SubIDEntry("1") {
+                title = "Mot Mot Mot" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.5)
             }
         }
@@ -495,21 +536,25 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.6, 0.5)
 
             SubIDEntry("3") {
+                title = "Nyumber One! Zettai Saikyou!" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(7.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-76155"
+            title = "Loop Shiteru/Asuiro Koi Moyou / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
+                title = "ループしてる" // generated(fill_music_metadata.dart v0.1.1)
                 // :tf:
                 FesALiveMusic(2.5)
             }
 
             SubIDEntry("2") {
+                title = "あすいろ恋模様" // generated(fill_music_metadata.dart v0.1.1)
                 // absolute catjammer
                 // cricri is just too fking based
 
@@ -557,18 +602,22 @@ fun DSLScope.SB69() {
         // (i can't accept ayumu va to be higher than rina hidaka lol)
         Entry {
             id = "M-VGMDB-AL-95313"
+            title = "How Are You? / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
+                title = "はうあーゆー？" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-95314"
+            title = "Happy Happy Jump / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
+                title = "Happy Happy Jump" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(5.0)
             }
         }

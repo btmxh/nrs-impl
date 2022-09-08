@@ -17,6 +17,7 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "M-VGMDB-AL-37999"
+            title = "Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -26,16 +27,19 @@ fun DSLScope.Oregairu() {
             }
 
             SubIDEntry("1") {
+                title = "Hello Alone" // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("2") {
+                title = "Hello Alone -Yui Ballade-" // generated(fill_music_metadata.dart v0.1.1)
 
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-51394"
+            title = "Everyday World / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
@@ -55,10 +59,12 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "M-VGMDB-AL-96290"
+            title = "Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) & Yui Yuigahama (CV: Nao Toyama)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
             SubIDEntry("1") {
+                title = "Diamond no Jundo" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

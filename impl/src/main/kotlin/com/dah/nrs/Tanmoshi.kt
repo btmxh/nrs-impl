@@ -29,15 +29,18 @@ fun DSLScope.Tanmoshi() {
         // Kano's friend's album lol
         Entry {
             id = "M-VGMDB-AL-113531"
+            title = "Kodou / Nanakagura" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                title = "Kodou" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-113660"
+            title = "Koko de Ikiteru / mary & jon-YAKITORY" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {

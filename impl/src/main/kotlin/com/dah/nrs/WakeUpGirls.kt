@@ -24,6 +24,7 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "M-VGMDB-AR-15137"
+            title = "Wake Up, Girls!" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-42945")
@@ -34,20 +35,24 @@ fun DSLScope.WakeUpGirls() {
 
         Entry {
             id = "M-VGMDB-AL-46042"
+            title = "Tachiagare! / Wake Up, Girls!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             SubIDEntry("1") {
+                title = "Tachiagare!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-42945"
+            title = "7 Girls War / Wake Up, Girls!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             SubIDEntry("1") {
+                title = "7 Girls War" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }

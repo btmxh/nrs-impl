@@ -62,9 +62,11 @@ fun DSLScope.Atelier() {
 
         Entry {
             id = "M-VGMDB-AL-45361"
+            title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
             SubIDEntry("1") {
+                title = "アスイロ" // generated(fill_music_metadata.dart v0.1.1)
                 // STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT!
                 // MY FRIENDS ON TIKTOK SEND ME Rina Hidaka, ON DISCORD IT'S FUCKING Rie Marukawa!
                 // I was in a server, right? and ALL OF THE CHANNELS were just Criticrista stuff.

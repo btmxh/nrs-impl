@@ -24,6 +24,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15361"
+        title = "Inori Minase" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-9", 1.0 / 5)
         Contains("M-44", 1.0 / 4)
@@ -43,6 +44,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15350"
+        title = "M·A·O" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-44", 1.0 / 4)
         Contains(MusicVocalImageContainFactor) {
@@ -52,6 +54,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-16380"
+        title = "Rie Takahashi" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-44", 1.0 / 4)
 
@@ -62,6 +65,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15998"
+        title = "Ari Ozawa" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-13", 1.0 / 2)
         Contains("M-44", 1.0 / 4)
@@ -74,6 +78,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-12726"
+        title = "Ayane Sakura" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-9", 1.0 / 5)
         Contains("M-18", 1.0 / 4)
@@ -85,12 +90,14 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-13211"
+        title = "Risa Taneda" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-9", 1.0 / 5)
     }
 
     Entry {
         id = "M-VGMDB-AR-8874"
+        title = "Satomi Sato" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-9", 1.0 / 5)
     }
@@ -103,6 +110,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-13857"
+        title = "fhána" // generated(fill_music_metadata.dart v0.1.1)
 
         // band, so no Contains(ImageVocalContainFactor) block
         Contains("M-VGMDB-AL-62516")
@@ -110,6 +118,7 @@ fun DSLScope.CommonArtists() {
 
         Entry {
             id = "M-VGMDB-AL-47403"
+            title = "Hoshikuzu no Interlude / fhána" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
@@ -135,6 +144,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15119"
+        title = "Scop" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AL-37130-1", MusicInstContainFactor / 3.0)
         Contains("M-VGMDB-AL-37130-2", MusicInstContainFactor / 3.0)
@@ -145,6 +155,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15120"
+        title = "keeno" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AL-37130-4", MusicInstContainFactor / 3.0)
         Contains("M-VGMDB-AL-37130-5", MusicInstContainFactor / 3.0)
@@ -165,6 +176,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-29323"
+        title = "Kaori Maeda" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
@@ -186,6 +198,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-27779"
+        title = "Tomori Kusunoki" // generated(fill_music_metadata.dart v0.1.1)
         // the prima doll destroyer
         // also that isekai anime destroyer too lmfaooooo
 
@@ -199,6 +212,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-26954"
+        title = "Chiemi Tanaka" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
@@ -212,10 +226,12 @@ fun DSLScope.CommonArtists() {
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-69147"
+                title = "TAILWIND / TrySail" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.3)
 
                 SubIDEntry("11") {
+                    title = "かかわり" // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                 }
             }
@@ -230,6 +246,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-11829"
+        title = "ClariS" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-23391")
@@ -244,18 +261,22 @@ fun DSLScope.CommonArtists() {
 
             Entry {
                 id = "M-VGMDB-AL-23391"
+                title = "Connect / ClariS" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.35, 0.6)
                 SubIDEntry("1") {
+                    title = "Connect" // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.0)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-41292"
+                title = "Colorful / ClariS" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
                 SubIDEntry("1") {
+                    title = "カラフル" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
 
                     Remix("M-7")
@@ -265,19 +286,23 @@ fun DSLScope.CommonArtists() {
 
             Entry {
                 id = "M-VGMDB-AL-89431"
+                title = "Signal / ClariS" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
                 SubIDEntry("1") {
+                    title = "シグナル" // generated(fill_music_metadata.dart v0.1.1)
                     Music(7.0)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-77471"
+                title = "CheerS / ClariS" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.4)
 
                 SubIDEntry("1") {
+                    title = "CheerS" // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                     OsuSong(personal = 4.0, community = 0.0)
                 }
@@ -308,29 +333,35 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-13097"
+        title = "Ray" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-41278"
+                title = "lull ~Soshite Bokura wa~ / Ray" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.35)
 
                 SubIDEntry("1") {
+                    title = "lull ~Soshite Bokura wa~" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.75)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-42900"
+                title = "ebb and flow / Ray" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.45)
 
                 SubIDEntry("1") {
+                    title = "ebb and flow" // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.5)
                     Remix("M-47")
                 }
 
                 SubIDEntry("3") {
+                    title = "nagi" // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.2)
                 }
             }
@@ -343,44 +374,53 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-5524"
+        title = "yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-41280"
+                title = "Aqua Terrarium / yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.175, 0.45)
 
                 SubIDEntry("1") {
+                    title = "アクアテラリウム" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.75)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-43164"
+                title = "Mitsuba no Musubime / yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.45)
 
                 SubIDEntry("1") {
+                    title = "Mitsuba no Musubime" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.75)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-37932"
+                title = "Yukitoki / yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.5)
 
                 SubIDEntry("1") {
+                    title = "Yukitoki" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-51516"
+                title = "Harumodoki / yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.35)
 
                 SubIDEntry("1") {
+                    title = "Harumodoki" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.5)
                     Remix("M-VGMDB-AL-106577-6")
                 }
@@ -388,20 +428,24 @@ fun DSLScope.CommonArtists() {
 
             Entry {
                 id = "M-VGMDB-AL-96288"
+                title = "Megumi no Ame / yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.45)
 
                 SubIDEntry("1") {
+                    title = "芽ぐみの雨" // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.0)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-70716"
+                title = "over and over / yanaginagi" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.05, 0.3)
 
                 SubIDEntry("1") {
+                    title = "over and over" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                 }
             }
@@ -410,6 +454,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-12665"
+        title = "Mikako Komatsu" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-45187-1")
@@ -418,6 +463,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-18208"
+        title = "Yuuki Takada" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-46", 0.25)
         Contains("M-17", 1.0 / 9.0)
@@ -428,18 +474,21 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-18231"
+        title = "Megumi Yamaguchi" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-46", 0.25)
     }
 
     Entry {
         id = "M-VGMDB-AR-16233"
+        title = "Megumi Toda" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-46", 0.25)
     }
 
     Entry {
         id = "M-VGMDB-AR-18205"
+        title = "Ayumi Takeo" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-46", 0.25)
     }
@@ -454,6 +503,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-6876"
+        title = "Saori Hayami" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             // oregairu songs
@@ -472,6 +522,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-11436"
+        title = "Nao Toyama" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             // oregairu songs
@@ -487,10 +538,12 @@ fun DSLScope.CommonArtists() {
 
             Entry {
                 id = "M-VGMDB-AL-93329"
+                title = "Aruite Ikou! / Nao Toyama" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.2)
 
                 SubIDEntry("1") {
+                    title = "Aruite Ikou!" // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                 }
             }
@@ -499,6 +552,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-26898"
+        title = "Akari Kito" // generated(fill_music_metadata.dart v0.1.1)
 
         // known as the va of sayu
         // wtf do you mean by kanata???
@@ -518,6 +572,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-10934"
+        title = "Ai Kayano" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-23", 1.0 / 4.0)
         AKMEraPart1(0.05)
@@ -527,14 +582,17 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-11958"
+        title = "Miku Sawai" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-49446"
+                title = "Colorful. / Miku Sawai" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
                 SubIDEntry("1") {
+                    title = "Colorful." // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.5)
                 }
             }
@@ -553,6 +611,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-6783"
+        title = "Kana Hanazawa" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             // Sanshuu Chuugaku Yuushabu (post-Sonoko)
@@ -570,6 +629,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-10253"
+        title = "Suzuko Mimori" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             // Sanshuu Chuugaku Yuushabu (pre-Sonoko)
@@ -585,10 +645,12 @@ fun DSLScope.CommonArtists() {
             // We May Never Meet Again, But I Will Never Forget Your Voice
             Entry {
                 id = "M-VGMDB-AL-69821"
+                title = "Egao no Kimi e / Suzuko Mimori" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.25, 0.2)
 
                 SubIDEntry("1") {
+                    title = "Egao no Kimi e" // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.5)
                 }
             }
@@ -597,6 +659,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-16166"
+        title = "Eri Inagawa" // generated(fill_music_metadata.dart v0.1.1)
 
         // le cat va
         Contains(MusicVocalImageContainFactor) {
@@ -607,6 +670,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-30564"
+        title = "Hikaru Tono" // generated(fill_music_metadata.dart v0.1.1)
 
         // chao e co gai hoan tinh
         Contains(MusicVocalImageContainFactor) {
@@ -616,15 +680,18 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-26886"
+        title = "WEAVER" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             // lemur
             Entry {
                 id = "M-VGMDB-AL-51918"
+                title = "Kuchizuke Diamond / WEAVER" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.25)
 
                 SubIDEntry("1") {
+                    title = "Kuchizuke Diamond" // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.5)
                     OsuSong(personal = 4.0, community = 5.0)
                 }
@@ -634,10 +701,12 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15766"
+        title = "mimimemeMIMI" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-52045"
+                title = "CANDY MAGIC / mimimemeMIMI [Yuki Takao Edition]" // generated(fill_music_metadata.dart v0.1.1)
 
                 // yuki takao version: https://vgmdb.net/album/52045
                 Visual(VisualKind.AlbumArt, 0.1, 0.3)
@@ -645,23 +714,27 @@ fun DSLScope.CommonArtists() {
                 Visual(VisualKind.AlbumArt, 0.3, 0.35)
 
                 SubIDEntry("1") {
+                    title = "CANDY MAGIC" // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.0)
                 }
             }
 
             Entry {
                 id = "M-VGMDB-AL-59371"
+                title = "hare bare fanfare / mimimemeMIMI" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.5, 0.35)
 
                 // kek
                 SubIDEntry("1") {
+                    title = "hare bare fanfare" // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
 
                     OsuSong(personal = 6.0, community = 3.0)
                 }
 
                 SubIDEntry("3") {
+                    title = "CANDY MAGIC ~Piano Live Version~" // generated(fill_music_metadata.dart v0.1.1)
                     Remix("M-VGMDB-AL-52045-1")
                 }
             }
@@ -670,6 +743,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-17342"
+        title = "DAOKO" // generated(fill_music_metadata.dart v0.1.1)
 
         // vocal: ImageVocalContainFactor * 0.8
         Contains("M-VGMDB-AL-69257", MusicVocalContainFactor + MusicImageContainFactor / 2)
@@ -677,6 +751,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-15121"
+        title = "Kenshi Yonezu" // generated(fill_music_metadata.dart v0.1.1)
 
         // vocal: ImageVocalContainFactor * 0.2
         // music + lyrics + arrangement: 0.5 * (1.0 - ImageVocalContainFactor)
@@ -687,24 +762,29 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AL-69257"
+        title = "Uchiage Hanabi / DAOKO" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         SubIDEntry("1") {
+            title = "Uchiage Hanabi" // generated(fill_music_metadata.dart v0.1.1)
             Music(2.0)
         }
     }
 
     Entry {
         id = "M-VGMDB-AR-11952"
+        title = "LiSA" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-33537"
+                title = "crossing field / LiSA" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
                 SubIDEntry("1") {
+                    title = "crossing field" // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.0)
                 }
             }
@@ -713,6 +793,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-26614"
+        title = "kemu" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-MAL-36631")
         Contains("M-41", 0.5)
@@ -721,6 +802,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-4276"
+        title = "yuiko" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-41", 0.5)
 
@@ -765,6 +847,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-9455"
+        title = "Larval Stage Planning" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-47402")
@@ -773,6 +856,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-29251"
+        title = "Yuka Iwahashi" // generated(fill_music_metadata.dart v0.1.1)
 
         // t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐
         Contains("M-50", 1.0 / 9.0)
@@ -787,10 +871,12 @@ fun DSLScope.CommonArtists() {
             Contains(1.0 / 2.0) {
                 Entry {
                     id = "M-VGMDB-AL-78478"
+                    title = "360° Hoshi no Orchestra / petit milady" // generated(fill_music_metadata.dart v0.1.1)
 
                     Visual(VisualKind.AlbumArt, 0.15, 0.2)
 
                     SubIDEntry("1") {
+                        title = "360° Hoshi no Orchestra" // generated(fill_music_metadata.dart v0.1.1)
                         // coco's Insane
                         // Akito's Insane
                         // ailv's Insane
@@ -811,6 +897,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-29249"
+        title = "Amane Makino" // generated(fill_music_metadata.dart v0.1.1)
 
         // le gigachad seiyuu herself
         // such a true sigma chad
@@ -863,6 +950,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-14761"
+        title = "Rie Murakawa" // generated(fill_music_metadata.dart v0.1.1)
 
         AKMEraPart1(0.2)
         AKMEraPart2(0.3)
@@ -882,6 +970,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-29487"
+        title = "Takahiro Yuba" // generated(fill_music_metadata.dart v0.1.1)
         // aka the gigachad who made akm and destroyed civilization as we know it
 
         Contains("M-VGMDB-AL-76155-2", MusicInstContainFactor)
@@ -891,13 +980,16 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-6799"
+        title = "nayuta" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-74440"
+                title = "Sora ni Kakaru Kimi no Koe." // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.6, 0.3)
                 SubIDEntry("6") {
+                    title = "Azure Reunion" // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                     Remix("M-VGMDB-AL-108194-5")
                 }
@@ -912,15 +1004,18 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-8196"
+        title = "Nanahira" // generated(fill_music_metadata.dart v0.1.1)
         // aka the hasegawa mii utaite
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-108194"
+                title = "Nanairo Ribbon / Nanahira x nayuta" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
                 SubIDEntry("5") {
+                    title = "Azure Reunion" // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                 }
             }
@@ -929,6 +1024,7 @@ fun DSLScope.CommonArtists() {
 
     Entry {
         id = "M-VGMDB-AR-30942"
+        title = "Yunomi" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(
             "M-VGMDB-AL-104618",

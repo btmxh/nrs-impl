@@ -41,6 +41,7 @@ fun DSLScope.SoraMethod() {
 
         Entry {
             id = "M-VGMDB-AL-47402"
+            title = "Stargazer / Larval Stage Planning" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
             SubIDEntry("1") {

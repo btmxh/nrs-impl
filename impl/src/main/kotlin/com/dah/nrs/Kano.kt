@@ -13,14 +13,17 @@ fun DSLScope.Kano() {
 
     Entry {
         id = "M-VGMDB-AR-11666"
+        title = "Kano" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains(MusicVocalImageContainFactor) {
             Entry {
                 id = "M-VGMDB-AL-95369"
+                title = "Bambino / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.2, 0.5)
 
                 SubIDEntry("1") {
+                    title = "ハロ/ハワユ" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                     NEI(1.0, Emotion.MP)
                     Remix("M-VGMDB-AL-37130-1")
@@ -29,10 +32,12 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-34411"
+                title = "Aimai Bambina / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
                 SubIDEntry("6") {
+                    title = "インタビュア" // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                     NEI(1.5, Emotion.CU)
                 }
@@ -45,6 +50,7 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-42961"
+                title = "Aru Machi no Hakuchuumu / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.25, 0.5)
 
@@ -56,11 +62,13 @@ fun DSLScope.Kano() {
                 }
 
                 SubIDEntry("6") {
+                    title = "メリーメリー álbum ver." // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                     NEI(2.5, Emotion.MP)
                 }
 
                 SubIDEntry("9") {
+                    title = "World on Color" // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                     NEI(2.0, Emotion.MP)
                     OsuSong(personal = 1.0, community = 0.0)
@@ -69,6 +77,7 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-49423"
+                title = "Good Hello / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.55, 0.45)
 
@@ -90,6 +99,7 @@ fun DSLScope.Kano() {
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
 
                 SubIDEntry("1") {
+                    title = "Stella-rium" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                     NEI(0.5, Emotion.MP)
                 }
@@ -97,11 +107,13 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-54307"
+                title = "Dear Brave / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.2, 0.6)
                 Visual(VisualKind.AnimatedMV, 0.6, 0.4)
 
                 SubIDEntry("1") {
+                    title = "ディアブレイブ" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                     NEI(1.0, Emotion.CU)
                 }
@@ -109,10 +121,12 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-57564"
+                title = "nowhere / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
                 SubIDEntry("1") {
+                    title = "Prima Stella" // generated(fill_music_metadata.dart v0.1.1)
                     Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
                     Music(5.0)
                     NEI(1.0, Emotion.CU)
@@ -124,6 +138,7 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-73516"
+                title = "one / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -132,6 +147,7 @@ fun DSLScope.Kano() {
 
             Entry {
                 id = "M-VGMDB-AL-89290"
+                title = "three / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -157,6 +173,7 @@ fun DSLScope.Kano() {
                 // the best album of all time
                 // literally the perfect combination of vocal and instrumental
                 id = "M-VGMDB-AL-37130"
+                title = "Suki na no. / Kano" // generated(fill_music_metadata.dart v0.1.1)
 
                 // the album art is kano sitting with some animals
                 // which is MP-based, and it's a pretty good contrast to
@@ -180,6 +197,7 @@ fun DSLScope.Kano() {
 //        }
 
                 SubIDEntry("1") {
+                    title = "ハロ/ハワユ" // generated(fill_music_metadata.dart v0.1.1)
                     // the original MV is for the mix version
                     // https://www.nicovideo.jp/watch/sm19687208
                     Visual(VisualKind.SemiAnimatedMV, 0.35, 0.6)
@@ -188,6 +206,7 @@ fun DSLScope.Kano() {
                 }
 
                 SubIDEntry("2") {
+                    title = "うたうたいのうた" // generated(fill_music_metadata.dart v0.1.1)
                     Music(8.0)
                     NEI(1.5, Emotion.MP)
                 }
@@ -195,21 +214,25 @@ fun DSLScope.Kano() {
                 // the best kano song ever. period.
                 // also the fourth ayumu-era theme song
                 SubIDEntry("3") {
+                    title = "[It's not] World's end" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                     NEI(5.0, Emotion.CU)
                 }
 
                 SubIDEntry("4") {
+                    title = "「ねぇ。」" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                     NEI(2.5, Emotion.CU)
                 }
 
                 SubIDEntry("5") {
+                    title = "朝焼け、君の唄。" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                     NEI(2.0, Emotion.MP)
                 }
 
                 SubIDEntry("6") {
+                    title = "サクラノ前夜" // generated(fill_music_metadata.dart v0.1.1)
                     Visual(VisualKind.AnimatedMV, 0.35, 0.6)
                     Music(7.0)
                     NEI(2.5, Emotion.CU)

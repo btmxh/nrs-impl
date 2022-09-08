@@ -13,9 +13,11 @@ fun DSLScope.Kaguya() {
 
         Entry {
             id = "M-VGMDB-AL-83397"
+            title = "Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0, community = 4.0)
             }
@@ -27,6 +29,7 @@ fun DSLScope.Kaguya() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("11") {
+                title = "ありがとう。" // generated(fill_music_metadata.dart v0.1.1)
                 // the grass-touching experience
                 Music(3.5)
             }

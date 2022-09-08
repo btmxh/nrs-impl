@@ -28,6 +28,7 @@ fun DSLScope.Tenshi3P() {
 
         Entry {
             id = "M-VGMDB-AL-68189"
+            title = "Habataki no Birthday / Baby's breath" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
@@ -37,8 +38,10 @@ fun DSLScope.Tenshi3P() {
 
         Entry {
             id = "M-VGMDB-AL-69018"
+            title = "Kusabi / Baby's breath" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                title = "Kusabi" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

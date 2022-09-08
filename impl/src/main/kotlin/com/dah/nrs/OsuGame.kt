@@ -8,18 +8,22 @@ import com.dah.nrs.exts.*
 fun DSLScope.OsuGame() {
     Entry {
         id = "M-VGMDB-AR-12225"
+        title = "xi" // generated(fill_music_metadata.dart v0.1.1)
 
         Entry {
             id = "M-VGMDB-AL-34269"
+            title = "Parousia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.15, 0.4)
 
             // the third ayumu-era theme song
             SubIDEntry("7") {
+                title = "Ascension to Heaven" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("12") {
+                title = "FREEDOM DiVE↓" // generated(fill_music_metadata.dart v0.1.1)
                 // not gonna rate all of the backgrounds and shit
                 Music(1.5)
                 // i'm not overstreaming 222 bpm

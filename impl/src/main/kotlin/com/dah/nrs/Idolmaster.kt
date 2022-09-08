@@ -12,6 +12,7 @@ fun DSLScope.Idolmaster() {
 
         Entry {
             id = "M-VGMDB-AR-32295"
+            title = "765 MILLION ALLSTARS" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78253-1")
@@ -20,29 +21,35 @@ fun DSLScope.Idolmaster() {
 
         Entry {
             id = "M-VGMDB-AL-53945"
+            title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
+                title = "Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 8.0)
             }
         }
         Entry {
             id = "M-VGMDB-AL-64249"
+            title = "THE IDOLM@STER CINDERELLA MASTER EVERMORE" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
+                title = "EVERMORE (M@STER VERSION)" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-78253"
+            title = "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
             SubIDEntry("1") {
+                title = "UNION!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 5.0, community = 2.0)
             }

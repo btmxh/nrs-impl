@@ -8,6 +8,7 @@ import com.dah.nrs.exts.*
 fun DSLScope.Chuunibyou() {
     Entry {
         id = "M-VGMDB-AR-12516"
+        title = "ZAQ" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AL-42762")
     }
@@ -22,6 +23,7 @@ fun DSLScope.Chuunibyou() {
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
             SubIDEntry("1") {
+                title = "VOICE" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
                 OsuSong(personal = 2.0)
             }

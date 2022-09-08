@@ -30,11 +30,13 @@ fun DSLScope.BunnyGirlSenpai() {
 
     Entry {
         id = "M-VGMDB-AL-80253"
+        title = "Kimi no Sei / the peggies" // generated(fill_music_metadata.dart v0.1.1)
 
         // tf is this lol
         Visual(VisualKind.AlbumArt, 0.1, 0.6)
 
         SubIDEntry("1") {
+            title = "Kimi no Sei" // generated(fill_music_metadata.dart v0.1.1)
             Music(1.0)
         }
     }

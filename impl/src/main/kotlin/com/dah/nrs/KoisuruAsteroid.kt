@@ -29,10 +29,12 @@ fun DSLScope.KoisuruAsteroid() {
 
     Entry {
         id = "M-VGMDB-AL-93338"
+        title = "Yozora / Minori Suzuki" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.3, 0.2)
 
         SubIDEntry("1") {
+            title = "夜空" // generated(fill_music_metadata.dart v0.1.1)
             // play the gigachad mapper's map:
             // https://osu.ppy.sh/beatmapsets/1256770#osu/2611562
             // https://osu.ppy.sh/beatmapsets/1256770#osu/2611562

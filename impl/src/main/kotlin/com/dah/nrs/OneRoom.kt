@@ -19,9 +19,11 @@ fun DSLScope.OneRoom() {
 
         Entry {
             id = "M-VGMDB-AL-63666"
+            title = "harumachi clover / Yui Hanasaka (CV: M·A·O)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
+                title = "Harumachi Clover" // generated(fill_music_metadata.dart v0.1.1)
                 // ME NO MAE NO TOBIRA O AKETARA HARU KAZE
                 // TORI TACHI MO KIGI DE MACHIAWASE
                 // KIMI E MUKAU SHINGOU AOZORA IRO

@@ -14,10 +14,12 @@ fun DSLScope.`K-On`() {
 
         Entry {
             id = "M-VGMDB-AL-20118"
+            title = "Utauyo!!MIRACLE / HO-KAGO TEA TIME" // generated(fill_music_metadata.dart v0.1.1)
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
             SubIDEntry("2") {
+                title = "Kirakira Days" // generated(fill_music_metadata.dart v0.1.1)
 
                 // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
                 Meme(0.1, 6)
@@ -27,6 +29,7 @@ fun DSLScope.`K-On`() {
 
         Entry {
             id = "M-VGMDB-AL-21146"
+            title = "HO-KAGO TEA TIME Second / HO-KAGO TEA TIME" // generated(fill_music_metadata.dart v0.1.1)
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
@@ -38,16 +41,19 @@ fun DSLScope.`K-On`() {
 
         Entry {
             id = "M-VGMDB-AL-22848"
+            title = "Gohan wa Okazu/U&I / HO-KAGO TEA TIME" // generated(fill_music_metadata.dart v0.1.1)
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
             SubIDEntry("2") {
+                title = "U&I" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-8870"
+            title = "HO-KAGO TEA TIME" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-20118")

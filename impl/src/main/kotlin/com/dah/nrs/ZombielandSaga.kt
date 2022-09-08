@@ -40,9 +40,11 @@ fun DSLScope.ZombielandSaga() {
 
         Entry {
             id = "M-VGMDB-AL-109368"
+            title = "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo/Kaze no Tsuyoi Hi wa Kirai ka?" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             SubIDEntry("1") {
+                title = "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.5)
             }
         }

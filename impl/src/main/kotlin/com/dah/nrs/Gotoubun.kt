@@ -46,6 +46,7 @@ fun DSLScope.Gotoubun() {
 
         Entry {
             id = "M-VGMDB-AL-82284"
+            title = "Gotoubun no Kimochi / Nakano-ke no Itsutsugo" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
 
             SubIDEntry("1") {

@@ -40,9 +40,11 @@ fun DSLScope.Sakurasou() {
 
         Entry {
             id = "M-VGMDB-AL-35015"
+            title = "Kimi ga Yume wo Tsuretekita / Pet na Kanojotachi" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
+                title = "Kimi ga Yume wo Tsuretekita" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.25)
             }
         }

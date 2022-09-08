@@ -55,10 +55,12 @@ fun DSLScope.DrStone() {
 
     Entry {
         id = "M-VGMDB-AL-87927"
+        title = "Good Morning World! / BURNOUT SYNDROMES" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.15, 0.2)
 
         SubIDEntry("1") {
+            title = "Good Morning World!" // generated(fill_music_metadata.dart v0.1.1)
             Music(2.5)
             OsuSong(personal = 1.0)
         }

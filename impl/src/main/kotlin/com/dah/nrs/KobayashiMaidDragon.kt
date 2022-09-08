@@ -12,6 +12,7 @@ fun DSLScope.KobayashiMaidDragon() {
 
         Entry {
             id = "M-VGMDB-AL-62516"
+            title = "Aozora no Rhapsody / fhána [Anime Edition]" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
@@ -26,6 +27,7 @@ fun DSLScope.KobayashiMaidDragon() {
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
             SubIDEntry("1") {
+                title = "Ai no Supreme!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 // "why is the dude singing???" - some pp mapper
                 Meme(0.05, 6)

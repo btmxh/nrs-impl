@@ -12,6 +12,7 @@ fun DSLScope.GakkouGurashi() {
 
         Entry {
             id = "M-VGMDB-AL-52993"
+            title = "Friend Shitai / Gakuen Seikatsubu" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
@@ -32,10 +33,12 @@ fun DSLScope.GakkouGurashi() {
 
         Entry {
             id = "M-VGMDB-AL-53719"
+            title = "TV Anime \"Gakkou Gurashi!\" Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
+                title = "アンハッピーエンドワールド" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }

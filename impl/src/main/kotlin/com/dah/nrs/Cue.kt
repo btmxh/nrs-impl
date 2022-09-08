@@ -55,20 +55,24 @@ fun DSLScope.Cue() {
 
         Entry {
             id = "M-VGMDB-AL-115724"
+            title = "Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
             SubIDEntry("1") {
+                title = "スタートライン" // generated(fill_music_metadata.dart v0.1.1)
                 Music(7.0)
             }
 
             SubIDEntry("2") {
+                title = "はじまりの鐘の音が鳴り響く空" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-33857"
+            title = "AiRBLUE" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-115724")

@@ -12,10 +12,12 @@ fun DSLScope.KokoroConnect() {
 
         Entry {
             id = "M-VGMDB-AL-35431"
+            title = "Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song \"Kimochi Signal\" / Kizu Random Ending Theme Song \"Cry out\"" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
             SubIDEntry("1") {
+                title = "Kimochi Signal" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }

@@ -30,10 +30,12 @@ fun DSLScope.SthKara() {
 
     Entry {
         id = "M-VGMDB-AL-80341"
+        title = "17-sai / Haruka to Miyuki" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
 
         SubIDEntry("1") {
+            title = "17-sai" // generated(fill_music_metadata.dart v0.1.1)
             Music(5.0)
         }
     }

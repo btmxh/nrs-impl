@@ -50,14 +50,17 @@ fun DSLScope.YLIA() {
 
         Entry {
             id = "M-VGMDB-AL-49046"
+            title = "Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             SubIDEntry("1") {
+                title = "Kimi wa Wasurerareru no" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 AEI(5.0, Emotion.CU)
             }
 
             SubIDEntry("18") {
+                title = "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 AEI(5.0, Emotion.CU)
             }
@@ -66,6 +69,7 @@ fun DSLScope.YLIA() {
 
     Entry {
         id = "M-VGMDB-AR-9069"
+        title = "Masaru Yokoyama" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-VGMDB-AL-49046")
     }
