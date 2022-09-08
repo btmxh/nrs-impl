@@ -4,8 +4,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Seirei Gensouki",
             "DAH_entry_progress": {
                 "status": "Partially dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 44203,
+                "id_AniList": 126546,
+                "id_Kitsu": 44174,
+                "id_AniDB": 44203
             },
             "DAH_entry_bestGirl": "Claire Celia"
         }
@@ -310,8 +317,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Nakanohito Genome [Jikkyouchuu]",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37926,
+                "id_AniList": 102926,
+                "id_Kitsu": 41336,
+                "id_AniDB": 37926
             },
             "DAH_entry_bestGirl": "Sarayashiki Karin"
         }
@@ -321,8 +335,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sword Art Online",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 11757,
+                "id_AniList": 11757,
+                "id_Kitsu": 6589,
+                "id_AniDB": 11757
             },
             "DAH_entry_bestGirl": "Yuuki Asuna"
         }
@@ -404,8 +425,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35507,
+                "id_AniList": 98659,
+                "id_Kitsu": 13503,
+                "id_AniDB": 35507
             },
             "DAH_entry_bestGirl": "Horikita Suzune"
         }
@@ -432,8 +460,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Wake Up, Girls!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 19023,
+                "id_AniList": 19023,
+                "id_Kitsu": 7774,
+                "id_AniDB": 19023
             },
             "DAH_entry_bestGirl": "Shimada Mayu"
         }
@@ -469,8 +504,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 14813,
+                "id_AniList": 14813,
+                "id_Kitsu": 7169,
+                "id_AniDB": 14813
             },
             "DAH_entry_bestGirl": "Yukinoshita Yukino"
         }
@@ -534,9 +576,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Superstar!!",
             "DAH_entry_progress": {
                 "episode": 7,
                 "status": "Temporarily On-Hold"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41169,
+                "id_AniList": 114979,
+                "id_Kitsu": 44124,
+                "id_AniDB": 41169
             },
             "DAH_entry_bestGirl": "Arashi Chisato"
         }
@@ -783,8 +832,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Another World",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40295,
+                "id_AniList": 111733,
+                "id_Kitsu": 42527,
+                "id_AniDB": 40295
             },
             "DAH_entry_bestGirl": "Ichigyou Ruri"
         }
@@ -821,9 +877,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tonikaku Kawaii",
             "DAH_entry_progress": {
                 "episode": 1,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41389,
+                "id_AniList": 116267,
+                "id_Kitsu": 43034,
+                "id_AniDB": 41389
             },
             "DAH_entry_bestGirl": "Yuzaki Tsukasa"
         }
@@ -855,8 +918,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38186,
+                "id_AniList": 103900,
+                "id_Kitsu": 41956,
+                "id_AniDB": 38186
             },
             "DAH_entry_bestGirl": "Mafuyu Kirisu"
         }
@@ -920,7 +990,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "InFiction"
         }
     },
     "A-MAL-34822": {
@@ -928,8 +997,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tsuki ga Kirei",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34822,
+                "id_AniList": 98202,
+                "id_Kitsu": 13234,
+                "id_AniDB": 34822
             },
             "DAH_entry_bestGirl": "Mizuno Akane"
         }
@@ -939,8 +1015,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Gabriel DropOut",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 33731,
+                "id_AniList": 21878,
+                "id_Kitsu": 12497,
+                "id_AniDB": 33731
             },
             "DAH_entry_bestGirl": "Satanichia Kurumizawa McDowell"
         }
@@ -950,7 +1033,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tenshi ni Fureta yo!"
         }
     },
     "A-MAL-11981": {
@@ -958,8 +1040,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 11981,
+                "id_AniList": 11981,
+                "id_Kitsu": 6638
             },
             "DAH_entry_bestGirl": "Kaname Madoka"
         }
@@ -969,7 +1057,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Cherry Bomb"
         }
     },
     "M-VGMDB-AL-106577-6": {
@@ -977,7 +1064,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Harumodoki"
         }
     },
     "F-VGMDB-11581": {
@@ -995,7 +1081,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shinsaku no Shiawase wa Kochira!"
         }
     },
     "M-VGMDB-AL-113295": {
@@ -1004,7 +1089,6 @@
             "M-VGMDB-AL-113295-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "TV Anime \"Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection"
         }
     },
     "M-VGMDB-AL-47403-1": {
@@ -1012,7 +1096,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hoshikuzu no Interlude"
         }
     },
     "M-VGMDB-AL-34411-11": {
@@ -1020,7 +1103,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "アイロニ"
         }
     },
     "A-MAL-5680": {
@@ -1028,8 +1110,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "K-On!",
             "DAH_entry_progress": {
                 "status": "Completed with noticeable boredom"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 5680,
+                "id_AniList": 5680,
+                "id_Kitsu": 4240,
+                "id_AniDB": 5680
             },
             "DAH_entry_bestGirl": "Nakano Azusa"
         }
@@ -1040,7 +1129,6 @@
             "M-32": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "SILENT SIREN"
         }
     },
     "M-VGMDB-AR-9553": {
@@ -1049,7 +1137,6 @@
             "M-VGMDB-AL-91187-35": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "cosMo@bousouP"
         }
     },
     "M-VGMDB-AR-9797": {
@@ -1059,7 +1146,6 @@
             "M-VGMDB-AL-30302-2": 0.6000000000000001
         },
         "DAH_meta": {
-            "DAH_entry_title": "Aoi Yuki"
         }
     },
     "A-MAL-40004": {
@@ -1067,8 +1153,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40004,
+                "id_AniList": 110229,
+                "id_Kitsu": 42414,
+                "id_AniDB": 40004
             },
             "DAH_entry_bestGirl": "Furuhashi Fumino"
         }
@@ -1078,7 +1171,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "M♭"
         }
     },
     "M-VGMDB-AL-51254": {
@@ -1087,7 +1179,6 @@
             "M-VGMDB-AL-51254-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Stella-rium / Kano"
         }
     },
     "A-MAL-42429": {
@@ -1095,8 +1186,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 42429,
+                "id_AniList": 121176,
+                "id_Kitsu": 43607,
+                "id_AniDB": 42429
             },
             "DAH_entry_bestGirl": "Myne"
         }
@@ -1107,7 +1205,6 @@
             "M-VGMDB-AL-86592-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "FLARE / Void_Chords feat.LIO"
         }
     },
     "M-VGMDB-AL-104957-1": {
@@ -1115,7 +1212,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "700,000,000,000,000,000,000,000 no Sora de"
         }
     },
     "A-MAL-49291": {
@@ -1123,8 +1219,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 49291,
+                "id_AniList": 136080,
+                "id_Kitsu": 44813,
+                "id_AniDB": 49291
             },
             "DAH_entry_bestGirl": "Tamaki Iroha"
         }
@@ -1135,7 +1238,6 @@
             "M-VGMDB-AL-116977-11": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "KAGUYA ♡ ULTRA BEST"
         }
     },
     "M-VGMDB-AL-51706-1": {
@@ -1143,7 +1245,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Meikyuu DESTINY"
         }
     },
     "M-VGMDB-AL-51706-2": {
@@ -1151,7 +1252,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ryuusei Dreamline"
         }
     },
     "M-VGMDB-AL-70622-1": {
@@ -1159,7 +1259,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuuki wa Doko ni? Kimi no Mune ni!"
         }
     },
     "M-VGMDB-AL-52993-1": {
@@ -1167,7 +1266,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Friend Shitai"
         }
     },
     "A-MAL-41589": {
@@ -1175,9 +1273,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tokyo Mew Mew New ♡",
             "DAH_entry_progress": {
                 "episode": 9,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41589,
+                "id_AniList": 117196,
+                "id_Kitsu": 43098,
+                "id_AniDB": 41589
             },
             "DAH_entry_bestGirl": "Momomiya Ichigo"
         }
@@ -1188,7 +1293,6 @@
             "M-VGMDB-AL-30302-2": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"
         }
     },
     "M-VGMDB-AL-51394-3": {
@@ -1196,7 +1300,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エブリデイワールド -Ballade Arrange- Yui Solo Ver."
         }
     },
     "M-VGMDB-AL-42762": {
@@ -1205,7 +1308,6 @@
             "M-VGMDB-AL-42762-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "VOICE / ZAQ"
         }
     },
     "M-VGMDB-AL-80802": {
@@ -1217,7 +1319,6 @@
             "M-VGMDB-AL-80802-10": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "TOKIMEKI Runners / Nijigasaki High School Idol Club"
         }
     },
     "M-VGMDB-AL-74133": {
@@ -1226,7 +1327,6 @@
             "M-VGMDB-AL-74133-2": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "CiRCLiNG / Poppin'Party"
         }
     },
     "M-VGMDB-AR-8480": {
@@ -1238,7 +1338,6 @@
             "M-VGMDB-AL-76155": 0.15000000000000002
         },
         "DAH_meta": {
-            "DAH_entry_title": "Rina Hidaka"
         }
     },
     "M-VGMDB-AL-120844-1": {
@@ -1246,7 +1345,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chiguhagu Melody"
         }
     },
     "M-VGMDB-AL-51394-1": {
@@ -1254,7 +1352,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エブリデイワールド"
         }
     },
     "M-VGMDB-AR-8482": {
@@ -1264,7 +1361,6 @@
             "M-VGMDB-AL-43320": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Foreground Eclipse"
         }
     },
     "M-VGMDB-AL-104267-5": {
@@ -1272,7 +1368,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "EMPIRE DOMINATOR"
         }
     },
     "M-VGMDB-AR-25291": {
@@ -1281,7 +1376,6 @@
             "M-VGMDB-AL-50723": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "KANA-BOON"
         }
     },
     "M-VGMDB-AL-104267-8": {
@@ -1289,7 +1383,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Anokanatarium"
         }
     },
     "A-MAL-43735": {
@@ -1297,8 +1390,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Cue!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 43735,
+                "id_AniList": 125682,
+                "id_Kitsu": 44979,
+                "id_AniDB": 43735
             },
             "DAH_entry_bestGirl": "Mutsuishi Haruna"
         }
@@ -1308,7 +1408,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mahou Shoujo Chino"
         }
     },
     "A-MAL-50273": {
@@ -1316,8 +1415,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tomodachi Game",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50273,
+                "id_AniList": 141014,
+                "id_Kitsu": 45401,
+                "id_AniDB": 50273
             },
             "DAH_entry_bestGirl": "Maria Mizuse"
         }
@@ -1327,7 +1433,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gotoubun no Kimochi"
         }
     },
     "M-VGMDB-AR-25289": {
@@ -1342,7 +1447,6 @@
             "M-VGMDB-AL-49423-1": 0.2
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hidekazu Koyama"
         }
     },
     "M-VGMDB-AR-29640": {
@@ -1355,7 +1459,6 @@
             "M-VGMDB-AL-112929-2": 0.6000000000000001
         },
         "DAH_meta": {
-            "DAH_entry_title": "Aguri Onishi"
         }
     },
     "M-VGMDB-AL-68276-1": {
@@ -1363,7 +1466,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "One In A Billion"
         }
     },
     "M-VGMDB-AL-49423-1": {
@@ -1371,7 +1473,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "グッドナイトエヴリワン"
         }
     },
     "M-VGMDB-AL-114102": {
@@ -1380,7 +1481,6 @@
             "M-VGMDB-AL-114102-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "SELECTION PROJECT Main Theme Song CD"
         }
     },
     "M-VGMDB-AL-93441-1": {
@@ -1388,7 +1488,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エールアンドレスポンス"
         }
     },
     "A-MAL-15051": {
@@ -1396,8 +1495,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! School Idol Project",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 15051,
+                "id_AniList": 15051,
+                "id_Kitsu": 7203,
+                "id_AniDB": 15051
             },
             "DAH_entry_bestGirl": "Nishikino Maki"
         }
@@ -1408,7 +1514,6 @@
             "M-VGMDB-AL-104957-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "700,000,000,000,000,000,000,000 no Sora de / LiGHTs"
         }
     },
     "M-VGMDB-AL-49423-8": {
@@ -1416,7 +1521,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "decide"
         }
     },
     "M-VGMDB-AL-47678-1": {
@@ -1424,7 +1528,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Aurora Days"
         }
     },
     "A-MAL-31765": {
@@ -1432,8 +1535,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sword Art Online Movie: Ordinal Scale",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 31765,
+                "id_AniList": 21403,
+                "id_Kitsu": 11423,
+                "id_AniDB": 31765
             },
             "DAH_entry_bestGirl": "Yuuki Asuna"
         }
@@ -1446,9 +1556,16 @@
             "DAH_validator_suppress": [
                 "dah-no-best-girl"
             ],
+            "DAH_entry_title": "Spy x Family",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50265,
+                "id_AniList": 140960,
+                "id_Kitsu": 45398,
+                "id_AniDB": 50265
             }
         }
     },
@@ -1457,7 +1574,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Habataki no Birthday"
         }
     },
     "A-MAL-50267": {
@@ -1465,8 +1581,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Irodorimidori",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50267,
+                "id_AniList": 140950,
+                "id_Kitsu": 45577,
+                "id_AniDB": 50267
             },
             "DAH_entry_bestGirl": "Nagi Kobotoke"
         }
@@ -1489,7 +1612,6 @@
             "M-VGMDB-AL-97692-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"
         }
     },
     "M-VGMDB-AR-13289": {
@@ -1498,7 +1620,6 @@
             "M-9": 0.2
         },
         "DAH_meta": {
-            "DAH_entry_title": "Maaya Uchida"
         }
     },
     "A-MAL-41530": {
@@ -1506,8 +1627,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41530,
+                "id_AniList": 117002,
+                "id_Kitsu": 43090,
+                "id_AniDB": 41530
             },
             "DAH_entry_bestGirl": "Tamaki Iroha"
         }
@@ -1518,7 +1646,6 @@
             "M-VGMDB-AL-86315-3": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "P SHOW BY ROCK!! CD"
         }
     },
     "M-VGMDB-AL-113660": {
@@ -1553,8 +1680,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "K-On! Movie",
             "DAH_entry_progress": {
                 "status": "Completed with noticeable boredom"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 9617,
+                "id_AniList": 9617,
+                "id_Kitsu": 5810,
+                "id_AniDB": 9617
             },
             "DAH_entry_bestGirl": "Nakano Azusa"
         }
@@ -1564,8 +1698,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39468,
+                "id_AniList": 108268,
+                "id_Kitsu": 42241,
+                "id_AniDB": 39468
             },
             "DAH_entry_bestGirl": "Myne"
         }
@@ -1575,9 +1716,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kanojo mo Kanojo",
             "DAH_entry_progress": {
                 "episode": 5,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 43969,
+                "id_AniList": 126192,
+                "id_Kitsu": 44165,
+                "id_AniDB": 43969
             },
             "DAH_entry_bestGirl": "Saki Saki"
         }
@@ -1645,8 +1793,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Wake Up, Girls! Beyond the Bottom",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 30419,
+                "id_AniList": 21107,
+                "id_Kitsu": 10845
             },
             "DAH_entry_bestGirl": "Shimada Mayu"
         }
@@ -1680,8 +1834,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "5-toubun no Hanayome",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38101,
+                "id_AniList": 103572,
+                "id_Kitsu": 41966,
+                "id_AniDB": 38101
             },
             "DAH_entry_bestGirl": "Nakano Itsuki"
         }
@@ -1691,8 +1852,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Irozuku Sekai no Ashita kara",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37497,
+                "id_AniList": 101316,
+                "id_Kitsu": 41101,
+                "id_AniDB": 37497
             },
             "DAH_entry_bestGirl": "Tsukishiro Hitomi"
         }
@@ -1713,8 +1881,14 @@
         "DAH_meta": {
             "DAH_entry_title": "Mamahaha no Tsurego ga Motokano datta",
             "DAH_entry_progress": {
-                "episode": 9,
+                "episode": 10,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 49470,
+                "id_AniList": 136934,
+                "id_Kitsu": 44913,
+                "id_AniDB": 49470
             },
             "DAH_entry_bestGirl": "Irido Yume"
         }
@@ -1724,8 +1898,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kono Bijutsubu ni wa Mondai ga Aru!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 31952,
+                "id_AniList": 21457,
+                "id_Kitsu": 11466,
+                "id_AniDB": 31952
             },
             "DAH_entry_bestGirl": "Usami Mizuki"
         }
@@ -1756,8 +1937,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "New Game!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 31953,
+                "id_AniList": 21455,
+                "id_Kitsu": 11467,
+                "id_AniDB": 31953
             },
             "DAH_entry_bestGirl": "Iijima Yun"
         }
@@ -1767,8 +1955,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "D4DJ: First Mix",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39681,
+                "id_AniList": 115069,
+                "id_Kitsu": 43557,
+                "id_AniDB": 39681
             },
             "DAH_entry_bestGirl": "Aimoto Rinku"
         }
@@ -1818,8 +2013,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Show by Rock!! Stars!!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41520,
+                "id_AniList": 113476,
+                "id_Kitsu": 43590,
+                "id_AniDB": 41520
             },
             "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
@@ -1846,9 +2048,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shine Post",
             "DAH_entry_progress": {
                 "episode": 7,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50221,
+                "id_AniList": 140753,
+                "id_Kitsu": 45389,
+                "id_AniDB": 50221
             },
             "DAH_entry_bestGirl": "Seibu Rio"
         }
@@ -1858,8 +2067,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37027,
+                "id_AniList": 100965,
+                "id_Kitsu": 14188,
+                "id_AniDB": 37027
             },
             "DAH_entry_bestGirl": "Sakurauchi Riko"
         }
@@ -1886,8 +2102,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Koi to Senkyo to Chocolate",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 12175,
+                "id_AniList": 12175,
+                "id_Kitsu": 6682,
+                "id_AniDB": 12175
             },
             "DAH_entry_bestGirl": "Chisato Sumiyoshi"
         }
@@ -1897,8 +2120,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Charlotte",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 28999,
+                "id_AniList": 20997,
+                "id_Kitsu": 10103,
+                "id_AniDB": 28999
             },
             "DAH_entry_bestGirl": "Nao Tomori"
         }
@@ -1940,9 +2170,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "RPG Fudousan",
             "DAH_entry_progress": {
                 "episode": 5,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 48363,
+                "id_AniList": 130319,
+                "id_Kitsu": 44376,
+                "id_AniDB": 48363
             },
             "DAH_entry_bestGirl": "Kotone Kazairo"
         }
@@ -2036,8 +2273,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Superstar!! 2nd Season",
             "DAH_entry_progress": {
                 "status": "Unwatched"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50203,
+                "id_AniList": 140642,
+                "id_Kitsu": 45360,
+                "id_AniDB": 50203
             },
             "DAH_entry_bestGirl": "Arashi Chisato"
         }
@@ -2060,8 +2304,15 @@
             "DAH_validator_suppress": [
                 "dah-uncompleted-no-progress"
             ],
+            "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
             "DAH_entry_progress": {
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37450,
+                "id_AniList": 101291,
+                "id_Kitsu": 41056,
+                "id_AniDB": 37450
             },
             "DAH_entry_bestGirl": "Makinohara Shouko"
         }
@@ -2089,8 +2340,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Show By Rock!!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 27441,
+                "id_AniList": 20843,
+                "id_Kitsu": 9729,
+                "id_AniDB": 27441
             },
             "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
@@ -2202,9 +2460,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
             "DAH_entry_progress": {
                 "episode": 2,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38790,
+                "id_AniList": 106479,
+                "id_Kitsu": 42043,
+                "id_AniDB": 38790
             },
             "DAH_entry_bestGirl": "Maple"
         }
@@ -2281,8 +2546,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40879,
+                "id_AniList": 113970,
+                "id_Kitsu": 42872,
+                "id_AniDB": 40879
             },
             "DAH_entry_bestGirl": "Uehara Ayumu"
         }
@@ -2302,8 +2574,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Hyouka",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 12189,
+                "id_AniList": 12189,
+                "id_Kitsu": 6686,
+                "id_AniDB": 12189
             },
             "DAH_entry_bestGirl": "Chitanda Eru"
         }
@@ -2359,8 +2638,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Idoly Pride",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40842,
+                "id_AniList": 113814,
+                "id_Kitsu": 42868,
+                "id_AniDB": 40842
             },
             "DAH_entry_bestGirl": "Kawasaki Sakura"
         }
@@ -2370,9 +2656,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kamisama ni Natta Hi",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41930,
+                "id_AniList": 118419,
+                "id_Kitsu": 43204,
+                "id_AniDB": 41930
             },
             "DAH_entry_bestGirl": "Izanami Kyouko"
         }
@@ -2391,9 +2684,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kanojo, Okarishimasu",
             "DAH_entry_progress": {
                 "episode": 1,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40839,
+                "id_AniList": 113813,
+                "id_Kitsu": 43028,
+                "id_AniDB": 40839
             },
             "DAH_entry_bestGirl": "Sakurasawa Sumi"
         }
@@ -2403,8 +2703,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shingeki no Kyojin Season 3 Part 2",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38524,
+                "id_AniList": 104578,
+                "id_Kitsu": 41982,
+                "id_AniDB": 38524
             },
             "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
@@ -2441,8 +2748,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tenshi no 3P!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34177,
+                "id_AniList": 97683,
+                "id_Kitsu": 12624,
+                "id_AniDB": 34177
             },
             "DAH_entry_bestGirl": "Toriumi Sakura"
         }
@@ -2468,8 +2782,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone: Stone Wars",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40852,
+                "id_AniList": 113936,
+                "id_Kitsu": 42867,
+                "id_AniDB": 40852
             },
             "DAH_entry_bestGirl": "Yuzuriha Ogawa"
         }
@@ -2545,9 +2866,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Midara na Ao-chan wa Benkyou ga Dekinai",
             "DAH_entry_progress": {
                 "episode": 3,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38778,
+                "id_AniList": 105989,
+                "id_Kitsu": 42024,
+                "id_AniDB": 38778
             },
             "DAH_entry_bestGirl": "Horie Ao"
         }
@@ -2565,8 +2893,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Oshi ga Budoukan Ittekuretara Shinu",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37890,
+                "id_AniList": 104391,
+                "id_Kitsu": 41309,
+                "id_AniDB": 37890
             },
             "DAH_entry_bestGirl": "Ichii Maina"
         }
@@ -2652,7 +2987,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kaika Sengen"
         }
     },
     "M-VGMDB-AL-113660-1": {
@@ -2660,7 +2994,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koko de Ikiteru"
         }
     },
     "M-VGMDB-AL-45187": {
@@ -2669,7 +3002,6 @@
             "M-VGMDB-AL-45187-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Nagi no Asukara Character Song CD3"
         }
     },
     "M-VGMDB-AL-111027-10": {
@@ -2693,7 +3025,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "青空のラプソディ"
         }
     },
     "M-VGMDB-AL-110219": {
@@ -2702,7 +3033,6 @@
             "M-VGMDB-AL-110219-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ai no Supreme! / fhána [Anime Edition]"
         }
     },
     "M-VGMDB-AL-78516-1": {
@@ -2710,7 +3040,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "宣誓センセーション"
         }
     },
     "A-MAL-38992": {
@@ -2718,8 +3047,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38992,
+                "id_AniList": 107067,
+                "id_Kitsu": 42297,
+                "id_AniDB": 38992
             },
             "DAH_entry_bestGirl": "Kotonoha Kanade"
         }
@@ -2729,8 +3065,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Saenai Heroine no Sodatekata",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 23277,
+                "id_AniList": 20657,
+                "id_Kitsu": 8406,
+                "id_AniDB": 23277
             },
             "DAH_entry_bestGirl": "Megumi Kato"
         }
@@ -2740,9 +3083,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Konohana Kitan",
             "DAH_entry_progress": {
                 "episode": 3,
                 "status": "Temporarily On-Hold"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35241,
+                "id_AniList": 98506,
+                "id_Kitsu": 13752,
+                "id_AniDB": 35241
             },
             "DAH_entry_bestGirl": "Natsume"
         }
@@ -2752,9 +3102,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "One Room",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34392,
+                "id_AniList": 97857,
+                "id_Kitsu": 12758,
+                "id_AniDB": 34392
             },
             "DAH_entry_bestGirl": "Hanasaka Yui"
         }
@@ -2797,7 +3154,6 @@
             "M-VGMDB-AL-68276-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "One In A Billion / Wake Up, May'n! [Limited Edition]"
         }
     },
     "A-MAL-23273": {
@@ -2805,8 +3161,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shigatsu wa Kimi no Uso",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 23273,
+                "id_AniList": 20665,
+                "id_Kitsu": 8403,
+                "id_AniDB": 23273
             },
             "DAH_entry_bestGirl": "Miyazono Kaori"
         }
@@ -2816,7 +3179,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "My pace!!"
         }
     },
     "M-VGMDB-AL-114102-1": {
@@ -2824,7 +3186,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Glorious Days"
         }
     },
     "M-VGMDB-AL-34051": {
@@ -2849,7 +3210,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Re:Rays"
         }
     },
     "M-VGMDB-AL-104673-1": {
@@ -2857,7 +3217,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Bridge to Dream"
         }
     },
     "M-VGMDB-AL-104673-4": {
@@ -2865,7 +3224,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Pins&Needles"
         }
     },
     "M-VGMDB-AL-42900": {
@@ -2891,7 +3249,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "地球最後の告白を"
         }
     },
     "M-VGMDB-AL-115724-1": {
@@ -2971,8 +3328,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone: Ryuusui",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50612,
+                "id_AniList": 142876,
+                "id_Kitsu": 45615,
+                "id_AniDB": 50612
             },
             "DAH_entry_bestGirl": "Yuzuriha Ogawa"
         }
@@ -3047,6 +3411,7 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo"
         }
     },
     "M-VGMDB-AL-45361": {
@@ -3063,8 +3428,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40815,
+                "id_AniList": 113693,
+                "id_Kitsu": 42838,
+                "id_AniDB": 40815
             },
             "DAH_entry_bestGirl": "Myne"
         }
@@ -3082,8 +3454,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shichisei no Subaru",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 36316,
+                "id_AniList": 100085,
+                "id_Kitsu": 40893,
+                "id_AniDB": 36316
             },
             "DAH_entry_bestGirl": "Kuga Asahi"
         }
@@ -3093,8 +3472,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Gochuumon wa Usagi Desu ka?",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 21273,
+                "id_AniList": 20517,
+                "id_Kitsu": 8095,
+                "id_AniDB": 21273
             },
             "DAH_entry_bestGirl": "Kafuu Chino"
         }
@@ -3104,8 +3490,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 14741,
+                "id_AniList": 14741,
+                "id_Kitsu": 7160,
+                "id_AniDB": 14741
             },
             "DAH_entry_bestGirl": "Nibutani Shinka"
         }
@@ -3224,9 +3617,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "BanG Dream! 2nd Season",
             "DAH_entry_progress": {
                 "episode": 6,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37869,
+                "id_AniList": 101633,
+                "id_Kitsu": 41289,
+                "id_AniDB": 37869
             },
             "DAH_entry_bestGirl": "Ichigaya Arisa"
         }
@@ -3245,8 +3645,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! The School Idol Movie",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 24997,
+                "id_AniList": 20766,
+                "id_Kitsu": 8531,
+                "id_AniDB": 24997
             },
             "DAH_entry_bestGirl": "Nishikino Maki"
         }
@@ -3491,8 +3898,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sora no Method",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 23209,
+                "id_AniList": 20672,
+                "id_Kitsu": 8337,
+                "id_AniDB": 23209
             },
             "DAH_entry_bestGirl": "Komiya Nonoka"
         }
@@ -3610,8 +4024,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Just Because!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35639,
+                "id_AniList": 98820,
+                "id_Kitsu": 13530,
+                "id_AniDB": 35639
             },
             "DAH_entry_bestGirl": "Natsume Mio"
         }
@@ -3648,8 +4069,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Gakkougurashi!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 24765,
+                "id_AniList": 20754,
+                "id_Kitsu": 8644,
+                "id_AniDB": 24765
             },
             "DAH_entry_bestGirl": "Sakura Megumi"
         }
@@ -3728,8 +4156,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Wake Up, Girls! Shin Shou",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34522,
+                "id_AniList": 97933,
+                "id_Kitsu": 13707,
+                "id_AniDB": 34522
             },
             "DAH_entry_bestGirl": "Shimada Mayu"
         }
@@ -3756,9 +4191,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
             "DAH_entry_progress": {
                 "episode": 2,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 43470,
+                "id_AniList": 125124,
+                "id_Kitsu": 43681,
+                "id_AniDB": 43470
             },
             "DAH_entry_bestGirl": "Kotonoha Kanade"
         }
@@ -3778,8 +4220,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kokoro Connect",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 11887,
+                "id_AniList": 11887,
+                "id_Kitsu": 6626,
+                "id_AniDB": 11887
             },
             "DAH_entry_bestGirl": "Nagase Iori"
         }
@@ -3797,8 +4246,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! School Idol Project 2nd Season",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 19111,
+                "id_AniList": 19111,
+                "id_Kitsu": 7871,
+                "id_AniDB": 19111
             },
             "DAH_entry_bestGirl": "Nishikino Maki"
         }
@@ -3811,8 +4267,15 @@
             "DAH_validator_suppress": [
                 "dah-uncompleted-no-progress"
             ],
+            "DAH_entry_title": "Karakai Jouzu no Takagi-san",
             "DAH_entry_progress": {
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35860,
+                "id_AniList": 99468,
+                "id_Kitsu": 13635,
+                "id_AniDB": 35860
             },
             "DAH_entry_bestGirl": "Takagi"
         }
@@ -3847,8 +4310,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kobayashi-san Chi no Maid Dragon",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 33206,
+                "id_AniList": 21776,
+                "id_Kitsu": 12243,
+                "id_AniDB": 33206
             },
             "DAH_entry_bestGirl": "Tohru"
         }
@@ -3858,9 +4328,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
             "DAH_entry_progress": {
                 "episode": 10,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 51096,
+                "id_AniList": 145545,
+                "id_Kitsu": 45925,
+                "id_AniDB": 51096
             },
             "DAH_entry_bestGirl": "Sakayanagi Arisu"
         }
@@ -4070,9 +4547,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sora yori mo Tooi Basho",
             "DAH_entry_progress": {
                 "episode": 9,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35839,
+                "id_AniList": 99426,
+                "id_Kitsu": 13615,
+                "id_AniDB": 35839
             },
             "DAH_entry_bestGirl": "Shiraishi Yuzuki"
         }
@@ -4137,9 +4621,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
             "DAH_entry_progress": {
                 "episode": 3,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 48916,
+                "id_AniList": 133891,
+                "id_Kitsu": 44537,
+                "id_AniDB": 48916
             },
             "DAH_entry_bestGirl": "Uehara Ayumu"
         }
@@ -4195,8 +4686,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35608,
+                "id_AniList": 98762,
+                "id_Kitsu": 13524,
+                "id_AniDB": 35608
             },
             "DAH_entry_bestGirl": "Nibutani Shinka"
         }
@@ -4240,8 +4738,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 42587,
+                "id_AniList": 122292,
+                "id_Kitsu": 44333,
+                "id_AniDB": 42587
             },
             "DAH_entry_bestGirl": "Yuuki Yuuna"
         }
@@ -4259,8 +4764,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sword Art Online II",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 21881,
+                "id_AniList": 20594,
+                "id_Kitsu": 8174,
+                "id_AniDB": 21881
             },
             "DAH_entry_bestGirl": "Yuuki Asuna"
         }
@@ -4364,9 +4876,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Zombieland Saga: Revenge",
             "DAH_entry_progress": {
                 "episode": 7,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40174,
+                "id_AniList": 110733,
+                "id_Kitsu": 42467,
+                "id_AniDB": 40174
             },
             "DAH_entry_bestGirl": "Minamoto Sakura"
         }
@@ -4434,8 +4953,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Sunshine!! 2nd Season",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34973,
+                "id_AniList": 98349,
+                "id_Kitsu": 13299,
+                "id_AniDB": 34973
             },
             "DAH_entry_bestGirl": "Sakurauchi Riko"
         }
@@ -4461,8 +4987,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 23847,
+                "id_AniList": 20698,
+                "id_Kitsu": 8478,
+                "id_AniDB": 23847
             },
             "DAH_entry_bestGirl": "Yuigahama Yui"
         }
@@ -4502,8 +5035,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "The iDOLM@STER Cinderella Girls 2nd Season",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 30344,
+                "id_AniList": 21094,
+                "id_Kitsu": 10760,
+                "id_AniDB": 30344
             },
             "DAH_entry_bestGirl": "Ogata Chieri"
         }
@@ -4533,8 +5073,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Love Live! Sunshine!!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 32526,
+                "id_AniList": 21584,
+                "id_Kitsu": 11745,
+                "id_AniDB": 32526
             },
             "DAH_entry_bestGirl": "Sakurauchi Riko"
         }
@@ -4552,8 +5099,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Nagi no Asu kara",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 16067,
+                "id_AniList": 16067,
+                "id_Kitsu": 7370,
+                "id_AniDB": 16067
             },
             "DAH_entry_bestGirl": "Shiodome Miuna"
         }
@@ -4651,8 +5205,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Ren",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 18671,
+                "id_AniList": 18671,
+                "id_Kitsu": 7705,
+                "id_AniDB": 18671
             },
             "DAH_entry_bestGirl": "Nibutani Shinka"
         }
@@ -4662,8 +5223,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shingeki no Kyojin",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 16498,
+                "id_AniList": 16498,
+                "id_Kitsu": 7442,
+                "id_AniDB": 16498
             },
             "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
@@ -4681,8 +5249,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Ushinawareta Mirai wo Motomete",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 21845,
+                "id_AniList": 20591,
+                "id_Kitsu": 8199,
+                "id_AniDB": 21845
             },
             "DAH_entry_bestGirl": "Sasaki Kaori"
         }
@@ -4757,8 +5332,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kokoro Connect: Michi Random",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 16001,
+                "id_AniList": 16001,
+                "id_Kitsu": 7355
             },
             "DAH_entry_bestGirl": "Nagase Iori"
         }
@@ -4768,8 +5349,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Koisuru Asteroid",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39388,
+                "id_AniList": 108092,
+                "id_Kitsu": 42470,
+                "id_AniDB": 39388
             },
             "DAH_entry_bestGirl": "Kotonoha Mira"
         }
@@ -4855,7 +5443,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hiromenes"
         }
     },
     "M-VGMDB-AL-54418": {
@@ -4881,7 +5468,6 @@
             "M-VGMDB-AL-104618-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"
         }
     },
     "M-VGMDB-AL-47402-1": {
@@ -4889,7 +5475,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Stargazer"
         }
     },
     "M-VGMDB-AR-17551": {
@@ -4898,7 +5483,6 @@
             "M-VGMDB-AL-97692": 0.6000000000000001
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shuka Saito"
         }
     },
     "M-VGMDB-AL-118562-1": {
@@ -4928,7 +5512,6 @@
             "M-VGMDB-AL-75344-5": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tsuioku Kaleidoscope / SPRiNGS"
         }
     },
     "M-VGMDB-AR-16469": {
@@ -4940,7 +5523,6 @@
             "M-VGMDB-AR-32295": 0.03529411764705883
         },
         "DAH_meta": {
-            "DAH_entry_title": "TrySail"
         }
     },
     "F-VGMDB-4615": {
@@ -4957,7 +5539,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Bokura wa Ima no Naka de"
         }
     },
     "M-VGMDB-AR-15121": {
@@ -5009,8 +5590,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "K-On!!",
             "DAH_entry_progress": {
                 "status": "Completed with noticeable boredom"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 7791,
+                "id_AniList": 7791,
+                "id_Kitsu": 5124,
+                "id_AniDB": 7791
             },
             "DAH_entry_bestGirl": "Nakano Azusa"
         }
@@ -5020,8 +5608,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Orange",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 32729,
+                "id_AniList": 21647,
+                "id_Kitsu": 11844,
+                "id_AniDB": 32729
             },
             "DAH_entry_bestGirl": "Takamiya Naho"
         }
@@ -5051,8 +5646,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
             "DAH_entry_progress": {
                 "status": "Unwatched"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40591,
+                "id_AniList": 112641,
+                "id_Kitsu": 42632,
+                "id_AniDB": 40591
             },
             "DAH_entry_bestGirl": "Kobachi Osaragi"
         }
@@ -5062,9 +5664,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tate no Yuusha no Nariagari Season 2",
             "DAH_entry_progress": {
                 "episode": 3,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40356,
+                "id_AniList": 111321,
+                "id_Kitsu": 42530,
+                "id_AniDB": 40356
             },
             "DAH_entry_bestGirl": "Raphtalia"
         }
@@ -5074,8 +5683,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kimi no Suizou wo Tabetai",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 36098,
+                "id_AniList": 99750,
+                "id_Kitsu": 13723,
+                "id_AniDB": 36098
             },
             "DAH_entry_bestGirl": "Yamauchi Sakura"
         }
@@ -5120,8 +5736,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "New Game!!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34914,
+                "id_AniList": 98292,
+                "id_Kitsu": 13236,
+                "id_AniDB": 34914
             },
             "DAH_entry_bestGirl": "Suzukaze Aoba"
         }
@@ -5203,8 +5826,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yamada-kun to 7-nin no Majo (TV)",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 28677,
+                "id_AniList": 20966,
+                "id_Kitsu": 10042,
+                "id_AniDB": 28677
             },
             "DAH_entry_bestGirl": "Shiraishi Urara"
         }
@@ -5230,9 +5860,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
             "DAH_entry_progress": {
                 "episode": 9,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38006,
+                "id_AniList": 103118,
+                "id_Kitsu": 44227,
+                "id_AniDB": 38006
             },
             "DAH_entry_bestGirl": "Shibuya Inori"
         }
@@ -5251,8 +5888,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Re:Stage! Dream Days♪",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38009,
+                "id_AniList": 103048,
+                "id_Kitsu": 42280,
+                "id_AniDB": 38009
             },
             "DAH_entry_bestGirl": "Shikimiya Mana"
         }
@@ -5278,9 +5922,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Majo no Tabitabi",
             "DAH_entry_progress": {
                 "episode": 6,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40571,
+                "id_AniList": 112609,
+                "id_Kitsu": 42627,
+                "id_AniDB": 40571
             },
             "DAH_entry_bestGirl": "Elaina"
         }
@@ -5290,8 +5941,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38256,
+                "id_AniList": 104051,
+                "id_Kitsu": 42016,
+                "id_AniDB": 38256
             },
             "DAH_entry_bestGirl": "Tamaki Iroha"
         }
@@ -5310,8 +5968,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
             "DAH_entry_progress": {
                 "status": "Unwatched"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 43608,
+                "id_AniList": 125367,
+                "id_Kitsu": 43691,
+                "id_AniDB": 43608
             },
             "DAH_entry_bestGirl": "Kobachi Osaragi"
         }
@@ -5378,8 +6043,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shachou, Battle no Jikan Desu!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40783,
+                "id_AniList": 113570,
+                "id_Kitsu": 42850,
+                "id_AniDB": 40783
             },
             "DAH_entry_bestGirl": "Akari"
         }
@@ -5397,9 +6069,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Adachi to Shimamura",
             "DAH_entry_progress": {
                 "episode": 3,
                 "status": "Temporarily On-Hold"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39790,
+                "id_AniList": 109287,
+                "id_Kitsu": 42342,
+                "id_AniDB": 39790
             },
             "DAH_entry_bestGirl": "Shimamura Hougetsu"
         }
@@ -5442,8 +6121,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Assault Lily: Bouquet",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40550,
+                "id_AniList": 112479,
+                "id_Kitsu": 42625,
+                "id_AniDB": 40550
             },
             "DAH_entry_bestGirl": "Yoshimura Thi Mai"
         }
@@ -5453,8 +6139,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Mahou Shoujo Madoka★Magica",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 9756,
+                "id_AniList": 9756,
+                "id_Kitsu": 5853,
+                "id_AniDB": 9756
             },
             "DAH_entry_bestGirl": "Kaname Madoka"
         }
@@ -5467,8 +6160,15 @@
             "DAH_validator_suppress": [
                 "dah-uncompleted-no-progress"
             ],
+            "DAH_entry_title": "Hataraku Saibou",
             "DAH_entry_progress": {
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37141,
+                "id_AniList": 100977,
+                "id_Kitsu": 14212,
+                "id_AniDB": 37141
             },
             "DAH_entry_bestGirl": "Kesshouban"
         }
@@ -5478,8 +6178,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Isekai Quartet",
             "DAH_entry_progress": {
                 "status": "Completed with noticeable boredom"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38472,
+                "id_AniList": 104454,
+                "id_Kitsu": 42032,
+                "id_AniDB": 38472
             },
             "DAH_entry_bestGirl": "Ram"
         }
@@ -5509,9 +6216,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39324,
+                "id_AniList": 107956,
+                "id_Kitsu": 42203,
+                "id_AniDB": 39324
             },
             "DAH_entry_bestGirl": "Latina"
         }
@@ -5530,9 +6244,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shiroi Suna no Aquatope",
             "DAH_entry_progress": {
                 "episode": 16,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 46093,
+                "id_AniList": 128545,
+                "id_Kitsu": 44116,
+                "id_AniDB": 46093
             },
             "DAH_entry_bestGirl": "Miyazawa Fuuka"
         }
@@ -5598,8 +6319,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Show By Rock!! Mashumairesh!!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40763,
+                "id_AniList": 113470,
+                "id_Kitsu": 42885,
+                "id_AniDB": 40763
             },
             "DAH_entry_bestGirl": "Mashima Himeko"
         }
@@ -5609,8 +6337,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Mahou Shoujo Site",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 36266,
+                "id_AniList": 100010,
+                "id_Kitsu": 14137,
+                "id_AniDB": 36266
             },
             "DAH_entry_bestGirl": "Asagiri Aya"
         }
@@ -5674,8 +6409,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Saenai Heroine no Sodatekata ♭",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 30727,
+                "id_AniList": 21180,
+                "id_Kitsu": 10909,
+                "id_AniDB": 30727
             },
             "DAH_entry_bestGirl": "Megumi Kato"
         }
@@ -5685,9 +6427,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Mieruko-chan",
             "DAH_entry_progress": {
                 "episode": 5,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 48483,
+                "id_AniList": 131083,
+                "id_Kitsu": 44185,
+                "id_AniDB": 48483
             },
             "DAH_entry_bestGirl": "Yotsuya Kyousuke"
         }
@@ -5697,8 +6446,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Dr. Stone",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38691,
+                "id_AniList": 105333,
+                "id_Kitsu": 42080,
+                "id_AniDB": 38691
             },
             "DAH_entry_bestGirl": "Yuzuriha Ogawa"
         }
@@ -5725,8 +6481,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "5-toubun no Hanayome ∬",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39783,
+                "id_AniList": 109261,
+                "id_Kitsu": 42324,
+                "id_AniDB": 39783
             },
             "DAH_entry_bestGirl": "Nakano Itsuki"
         }
@@ -5778,8 +6541,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Munou na Nana",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 41619,
+                "id_AniList": 117343,
+                "id_Kitsu": 43534,
+                "id_AniDB": 41619
             },
             "DAH_entry_bestGirl": "Hiiragi Nana"
         }
@@ -5805,8 +6575,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Net-juu no Susume",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 36038,
+                "id_AniList": 99726,
+                "id_Kitsu": 13703,
+                "id_AniDB": 36038
             },
             "DAH_entry_bestGirl": "Washing Machine"
         }
@@ -5845,8 +6622,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39547,
+                "id_AniList": 108489,
+                "id_Kitsu": 42194,
+                "id_AniDB": 39547
             },
             "DAH_entry_bestGirl": "Yuigahama Yui"
         }
@@ -5990,8 +6774,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39523,
+                "id_AniList": 108388,
+                "id_Kitsu": 42222,
+                "id_AniDB": 39523
             },
             "DAH_entry_bestGirl": "Sarutobi Shinobu"
         }
@@ -6001,8 +6792,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Lapis Re:LiGHTs",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37587,
+                "id_AniList": 104937,
+                "id_Kitsu": 41115,
+                "id_AniDB": 37587
             },
             "DAH_entry_bestGirl": "Tiara"
         }
@@ -6057,8 +6855,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34284,
+                "id_AniList": 100791,
+                "id_Kitsu": 12678,
+                "id_AniDB": 34284
             },
             "DAH_entry_bestGirl": "Tougou Mimori"
         }
@@ -6085,8 +6890,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Gamers!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34280,
+                "id_AniList": 97766,
+                "id_Kitsu": 12754,
+                "id_AniDB": 34280
             },
             "DAH_entry_bestGirl": "Tendou Karen"
         }
@@ -6218,9 +7030,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Teppen!!!!!!!!!!!!!!!",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50760,
+                "id_AniList": 143417,
+                "id_Kitsu": 45729,
+                "id_AniDB": 50760
             },
             "DAH_entry_bestGirl": "Hosono Yuzu"
         }
@@ -6285,8 +7104,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Darwin's Game",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38656,
+                "id_AniList": 105190,
+                "id_Kitsu": 42260,
+                "id_AniDB": 38656
             },
             "DAH_entry_bestGirl": "Karino Shuka"
         }
@@ -6304,8 +7130,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tari Tari",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 13333,
+                "id_AniList": 13333,
+                "id_Kitsu": 6941,
+                "id_AniDB": 13333
             },
             "DAH_entry_bestGirl": "Miyamoto Konatsu"
         }
@@ -6326,9 +7159,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Isekai Quartet 2",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 39988,
+                "id_AniList": 110178,
+                "id_Kitsu": 42410,
+                "id_AniDB": 39988
             },
             "DAH_entry_bestGirl": "Filo"
         }
@@ -6338,8 +7178,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38659,
+                "id_AniList": 105156,
+                "id_Kitsu": 42079,
+                "id_AniDB": 38659
             },
             "DAH_entry_bestGirl": "Ristarte"
         }
@@ -6366,8 +7213,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Koe no Katachi",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 28851,
+                "id_AniList": 20954,
+                "id_Kitsu": 10028,
+                "id_AniDB": 28851
             },
             "DAH_entry_bestGirl": "Nishimiya Shouko"
         }
@@ -6415,9 +7269,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Extreme Hearts",
             "DAH_entry_progress": {
                 "episode": 9,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50999,
+                "id_AniList": 145001,
+                "id_Kitsu": 45855,
+                "id_AniDB": 50999
             },
             "DAH_entry_bestGirl": "Kodaka Saki"
         }
@@ -6494,8 +7355,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Wake Up, Girls! Seishun no Kage",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 28841,
+                "id_AniList": 20989,
+                "id_Kitsu": 10068
             },
             "DAH_entry_bestGirl": "Shimada Mayu"
         }
@@ -6559,9 +7426,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
             "DAH_entry_progress": {
-                "episode": 9,
+                "episode": 10,
                 "status": "Watching"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 21167,
+                "id_AniList": 20506,
+                "id_Kitsu": 8091,
+                "id_AniDB": 21167
             },
             "DAH_entry_bestGirl": "Malier Escha"
         }
@@ -6571,8 +7445,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Gyakuten Sekai no Denchi Shoujo",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 48644,
+                "id_AniList": 131878,
+                "id_Kitsu": 44300,
+                "id_AniDB": 48644
             },
             "DAH_entry_bestGirl": "Akagi Rin"
         }
@@ -6582,8 +7463,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "The iDOLM@STER Cinderella Girls",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 23587,
+                "id_AniList": 20693,
+                "id_Kitsu": 8777,
+                "id_AniDB": 23587
             },
             "DAH_entry_bestGirl": "Ogata Chieri"
         }
@@ -6593,8 +7481,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shelter (Music)",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34240,
+                "id_AniList": 97731,
+                "id_Kitsu": 12668,
+                "id_AniDB": 34240
             },
             "DAH_entry_bestGirl": "Rin"
         }
@@ -6672,8 +7567,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "The iDOLM@STER",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 10278,
+                "id_AniList": 10278,
+                "id_Kitsu": 6111,
+                "id_AniDB": 10278
             },
             "DAH_entry_bestGirl": "Minase Iori"
         }
@@ -6683,9 +7585,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
             "DAH_entry_progress": {
                 "episode": 9,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37999,
+                "id_AniList": 101921,
+                "id_Kitsu": 41373,
+                "id_AniDB": 37999
             },
             "DAH_entry_bestGirl": "Hayasaka Ai"
         }
@@ -6695,9 +7604,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
             "DAH_entry_progress": {
                 "episode": 6,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 47790,
+                "id_AniList": 129898,
+                "id_Kitsu": 44393,
+                "id_AniDB": 47790
             },
             "DAH_entry_bestGirl": "Dia"
         }
@@ -6707,8 +7623,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 25519,
+                "id_AniList": 20800,
+                "id_Kitsu": 8638,
+                "id_AniDB": 25519
             },
             "DAH_entry_bestGirl": "Yuuki Yuuna"
         }
@@ -6726,9 +7649,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
             "DAH_entry_progress": {
                 "episode": 2,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 48415,
+                "id_AniList": 130586,
+                "id_Kitsu": 44187,
+                "id_AniDB": 48415
             },
             "DAH_entry_bestGirl": "Ireena Litz de Olhyde"
         }
@@ -6784,8 +7714,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Toji no Miko",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35589,
+                "id_AniList": 98747,
+                "id_Kitsu": 13710,
+                "id_AniDB": 35589
             },
             "DAH_entry_bestGirl": "Tagitsuhime"
         }
@@ -6795,8 +7732,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34498,
+                "id_AniList": 97908,
+                "id_Kitsu": 12794,
+                "id_AniDB": 34498
             },
             "DAH_entry_bestGirl": "Oikawa Nazuna"
         }
@@ -6815,8 +7759,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tantei wa Mou, Shindeiru.",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 46471,
+                "id_AniList": 128712,
+                "id_Kitsu": 44022,
+                "id_AniDB": 46471
             },
             "DAH_entry_bestGirl": "Natsunagi Nagisa"
         }
@@ -6835,8 +7786,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 21189,
+                "id_AniList": 20512,
+                "id_Kitsu": 8200,
+                "id_AniDB": 21189
             },
             "DAH_entry_bestGirl": "Shimada Mayu"
         }
@@ -6846,8 +7804,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Arifureta Shokugyou de Sekai Saikyou",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 36882,
+                "id_AniList": 100668,
+                "id_Kitsu": 14043,
+                "id_AniDB": 36882
             },
             "DAH_entry_bestGirl": "Yue"
         }
@@ -6857,8 +7822,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tate no Yuusha no Nariagari",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35790,
+                "id_AniList": 99263,
+                "id_Kitsu": 13593,
+                "id_AniDB": 35790
             },
             "DAH_entry_bestGirl": "Raphtalia"
         }
@@ -6876,8 +7848,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Kimi no Na wa.",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 32281,
+                "id_AniList": 21519,
+                "id_Kitsu": 11614,
+                "id_AniDB": 32281
             },
             "DAH_entry_bestGirl": "Miki Okudera"
         }
@@ -6896,8 +7875,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Saenai Heroine no Sodatekata Fine",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 36885,
+                "id_AniList": 100675,
+                "id_Kitsu": 14050,
+                "id_AniDB": 36885
             },
             "DAH_entry_bestGirl": "Megumi Kato"
         }
@@ -6928,8 +7914,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Zombieland Saga",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37976,
+                "id_AniList": 103871,
+                "id_Kitsu": 41459,
+                "id_AniDB": 37976
             },
             "DAH_entry_bestGirl": "Minamoto Sakura"
         }
@@ -6939,8 +7932,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Tenki no Ko",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38826,
+                "id_AniList": 106286,
+                "id_Kitsu": 42028,
+                "id_AniDB": 38826
             },
             "DAH_entry_bestGirl": "Amano Hina"
         }
@@ -7000,8 +8000,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Domestic na Kanojo",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37982,
+                "id_AniList": 103139,
+                "id_Kitsu": 41479,
+                "id_AniDB": 37982
             },
             "DAH_entry_bestGirl": "Tachibana Hina"
         }
@@ -7011,8 +8018,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shingeki no Kyojin Season 2",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 25777,
+                "id_AniList": 20958,
+                "id_Kitsu": 8671,
+                "id_AniDB": 25777
             },
             "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
@@ -7048,8 +8062,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Bokutachi no Remake",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 40904,
+                "id_AniList": 114065,
+                "id_Kitsu": 42924,
+                "id_AniDB": 40904
             },
             "DAH_entry_bestGirl": "Kawasegawa Eiko"
         }
@@ -7059,8 +8080,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Houkago no Pleiades (TV)",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 17919,
+                "id_AniList": 17919,
+                "id_Kitsu": 7713,
+                "id_AniDB": 17919
             },
             "DAH_entry_bestGirl": "Subaru"
         }
@@ -7070,9 +8098,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Isekai Cheat Magician",
             "DAH_entry_progress": {
                 "episode": 8,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 37744,
+                "id_AniList": 101547,
+                "id_Kitsu": 42319,
+                "id_AniDB": 37744
             },
             "DAH_entry_bestGirl": "Azuma Rin"
         }
@@ -7092,8 +8127,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Selection Project",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 44275,
+                "id_AniList": 126790,
+                "id_Kitsu": 44211,
+                "id_AniDB": 44275
             },
             "DAH_entry_bestGirl": "Koizumi Uta"
         }
@@ -7283,8 +8325,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 34445,
+                "id_AniList": 97769,
+                "id_Kitsu": 13160,
+                "id_AniDB": 34445
             },
             "DAH_entry_bestGirl": "Yuuki Yuuna"
         }
@@ -7348,9 +8397,16 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Prima Doll",
             "DAH_entry_progress": {
                 "episode": 4,
                 "status": "Dropped"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 50917,
+                "id_AniList": 144509,
+                "id_Kitsu": 45812,
+                "id_AniDB": 50917
             },
             "DAH_entry_bestGirl": "Okumiya Otome"
         }
@@ -7385,8 +8441,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Show By Rock!! #",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 32038,
+                "id_AniList": 21476,
+                "id_Kitsu": 11494,
+                "id_AniDB": 32038
             },
             "DAH_entry_bestGirl": "Hijirikawa Cyan"
         }
@@ -7468,8 +8531,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Hello World",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 38816,
+                "id_AniList": 106240,
+                "id_Kitsu": 42030,
+                "id_AniDB": 38816
             },
             "DAH_entry_bestGirl": "Ichigyou Ruri"
         }
@@ -7568,8 +8638,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Comic Girls",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35756,
+                "id_AniList": 99131,
+                "id_Kitsu": 13722,
+                "id_AniDB": 35756
             },
             "DAH_entry_bestGirl": "Kaoruko Moeta"
         }
@@ -7579,8 +8656,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "BanG Dream!",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 33573,
+                "id_AniList": 87435,
+                "id_Kitsu": 12330,
+                "id_AniDB": 33573
             },
             "DAH_entry_bestGirl": "Ichigaya Arisa"
         }
@@ -7706,8 +8790,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Shingeki no Kyojin Season 3",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 35760,
+                "id_AniList": 99147,
+                "id_Kitsu": 13569,
+                "id_AniDB": 35760
             },
             "DAH_entry_bestGirl": "Ackerman Mikasa"
         }
@@ -7727,8 +8818,15 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_entry_title": "Sakura-sou no Pet na Kanojo",
             "DAH_entry_progress": {
                 "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 13759,
+                "id_AniList": 13759,
+                "id_Kitsu": 7023,
+                "id_AniDB": 13759
             },
             "DAH_entry_bestGirl": "Mashiro Shiina"
         }
