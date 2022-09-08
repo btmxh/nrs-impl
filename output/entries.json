@@ -3571,6 +3571,14 @@
             "DAH_entry_title": "Just Believe!!!"
         }
     },
+    "M-VGMDB-AL-109367-1": {
+        "id": "M-VGMDB-AL-109367-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Taiga yo Tomo ni Naite Kure"
+        }
+    },
     "M-VGMDB-AR-5524": {
         "id": "M-VGMDB-AR-5524",
         "children": {
@@ -3909,7 +3917,7 @@
         "children": {
             "A-MAL-37976": 1.0,
             "A-MAL-40174": 1.0,
-            "M-VGMDB-AL-109368": 1.0
+            "M-VGMDB-AL-109367": 1.0
         },
         "DAH_meta": {
             "DAH_entry_title": "ZOMBIE LAND SAGA"
@@ -7415,13 +7423,13 @@
             "DAH_entry_title": "Light Delight"
         }
     },
-    "M-VGMDB-AL-109368": {
-        "id": "M-VGMDB-AL-109368",
+    "M-VGMDB-AL-109367": {
+        "id": "M-VGMDB-AL-109367",
         "children": {
-            "M-VGMDB-AL-109368-1": 1.0
+            "M-VGMDB-AL-109367-1": 1.0
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo/Kaze no Tsuyoi Hi wa Kirai ka?"
+            "DAH_entry_title": "Taiga yo Tomo ni Naite Kure/Nope!!!!!"
         }
     },
     "M-VGMDB-AL-89363-1": {
@@ -7493,14 +7501,6 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Kimi no Sei / the peggies"
-        }
-    },
-    "M-VGMDB-AL-109368-1": {
-        "id": "M-VGMDB-AL-109368-1",
-        "children": {
-        },
-        "DAH_meta": {
-            "DAH_entry_title": "Yume wo Te ni, Modoreru Basho mo Nai Hibi wo"
         }
     },
     "A-MAL-21167": {
