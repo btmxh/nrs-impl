@@ -124,7 +124,14 @@ fun DSLScope.Summer2022() {
         bestGirl = "Shibuya Inori"
         // inori is cuter fuck u
 
-        Progress(Boredom.Watching, 9)
+        // the ultimate L moment
+        // when the happy-go-lucky idol moe girl anime has better
+        // atmospheric farming than the supposed-to-be-realistic-
+        // and-stuff one (meme post)
+        // lolololololol
+        NEI(8.0, Emotion.CU to 0.75, Emotion.CP to 0.25)
+
+        Progress(Boredom.Watching, 10)
         KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
     }
