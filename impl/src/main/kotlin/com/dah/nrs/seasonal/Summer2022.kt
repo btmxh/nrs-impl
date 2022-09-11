@@ -110,33 +110,6 @@ fun DSLScope.Summer2022() {
     }
 
     Entry {
-        id = "A-MAL-38006"
-        title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
-        idAniDB = 38006 // generated(fill_anime_metadata.dart v0.1.1)
-        idKitsu = 44227 // generated(fill_anime_metadata.dart v0.1.1)
-        idAniList = 103118 // generated(fill_anime_metadata.dart v0.1.1)
-        idMAL = 38006 // generated(fill_anime_metadata.dart v0.1.1)
-
-        // mc is cute
-        // ngl this is a treat for our eyes
-        Visual(VisualKind.Animated, 0.8, 0.05)
-//        bestGirl = "Robertson Virginia"
-        bestGirl = "Shibuya Inori"
-        // inori is cuter fuck u
-
-        // the ultimate L moment
-        // when the happy-go-lucky idol moe girl anime has better
-        // atmospheric farming than the supposed-to-be-realistic-
-        // and-stuff one (meme post)
-        // lolololololol
-        NEI(8.0, Emotion.CU to 0.75, Emotion.CP to 0.25)
-
-        Progress(Boredom.Watching, 10)
-        KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
-    }
-
-    Entry {
         id = "A-MAL-50999"
         title = "Extreme Hearts" // generated(fill_anime_metadata.dart v0.1.1)
         idAniDB = 50999 // generated(fill_anime_metadata.dart v0.1.1)
@@ -184,6 +157,7 @@ fun DSLScope.Summer2022() {
         // they even got her to sing a ballad omegalul
         // (they know about her songs in sb69 these cheeky mfs)
 
+        // https://www.youtube.com/watch?v=2mFt7arKiNE
         Visual(VisualKind.Animated, 0.4, 0.5)
         Progress(Boredom.Watching, 7)
         KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)

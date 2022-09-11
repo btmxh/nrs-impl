@@ -763,5 +763,6 @@ fun main() =
         }
 
         Summer2022()
+        WorldWitches()
     }.run {}
 
