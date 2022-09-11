@@ -1714,6 +1714,14 @@
             "DAH_entry_title": "Gomakashi / TrySail"
         }
     },
+    "M-VGMDB-AL-120492-1": {
+        "id": "M-VGMDB-AL-120492-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Watashi to Minna no Uta"
+        }
+    },
     "A-MAL-9617": {
         "id": "A-MAL-9617",
         "children": {
@@ -3077,6 +3085,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Ai no Supreme! / fhána [Anime Edition]"
+        }
+    },
+    "M-VGMDB-AL-120491": {
+        "id": "M-VGMDB-AL-120491",
+        "children": {
+            "M-VGMDB-AL-120491-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "WONDERFUL WORLD / Luminous Witches"
+        }
+    },
+    "M-VGMDB-AL-120492": {
+        "id": "M-VGMDB-AL-120492",
+        "children": {
+            "M-VGMDB-AL-120492-1": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Watashi to Minna no Uta / Luminous Witches"
         }
     },
     "M-VGMDB-AL-78516-1": {
@@ -4816,6 +4842,19 @@
             "DAH_entry_title": "アンハッピーエンドワールド"
         }
     },
+    "F-VGMDB-4639": {
+        "id": "F-VGMDB-4639",
+        "children": {
+            "A-MAL-3667": 1.0,
+            "A-MAL-38006": 1.0,
+            "M-VGMDB-AL-116433": 1.0,
+            "M-VGMDB-AL-120491": 1.0,
+            "M-VGMDB-AL-120492": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "World Witches Series"
+        }
+    },
     "A-MAL-42587": {
         "id": "A-MAL-42587",
         "children": {
@@ -5099,6 +5138,16 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "ケアレス"
+        }
+    },
+    "M-VGMDB-AL-116433": {
+        "id": "M-VGMDB-AL-116433",
+        "children": {
+            "M-VGMDB-AL-116433-1": 1.0,
+            "M-VGMDB-AL-116433-2": 1.0
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "My Shining Light / Luminous Witches"
         }
     },
     "M-VGMDB-AL-43320": {
@@ -6188,6 +6237,14 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "IDOLY PRIDE"
+        }
+    },
+    "M-VGMDB-AL-120491-1": {
+        "id": "M-VGMDB-AL-120491-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "WONDERFUL WORLD"
         }
     },
     "F-VGMDB-2645": {
@@ -7287,6 +7344,22 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "Awakening Promise"
+        }
+    },
+    "M-VGMDB-AL-116433-2": {
+        "id": "M-VGMDB-AL-116433-2",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Luminossense"
+        }
+    },
+    "M-VGMDB-AL-116433-1": {
+        "id": "M-VGMDB-AL-116433-1",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "My Shining Light"
         }
     },
     "M-VGMDB-AR-17342": {
@@ -8928,6 +9001,24 @@
         },
         "DAH_meta": {
             "DAH_entry_title": "L!L!L! (Love the Life We Live) / Nijigasaki High School Idol Club"
+        }
+    },
+    "A-MAL-3667": {
+        "id": "A-MAL-3667",
+        "children": {
+        },
+        "DAH_meta": {
+            "DAH_entry_title": "Strike Witches",
+            "DAH_entry_progress": {
+                "status": "Completed"
+            },
+            "DAH_additional_sources": {
+                "id_MyAnimeList": 3667,
+                "id_AniList": 3667,
+                "id_Kitsu": 3179,
+                "id_AniDB": 3667
+            },
+            "DAH_entry_bestGirl": "Eila Ilmatar Juutilainen"
         }
     },
     "M-32": {
