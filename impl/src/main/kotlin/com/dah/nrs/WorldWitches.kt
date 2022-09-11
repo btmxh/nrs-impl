@@ -22,6 +22,7 @@ fun DSLScope.WorldWitches() {
 
             Progress(Boredom.Completed)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
+            Visual(VisualKind.Animated, 0.2, 0.75)
         }
 
         Entry {
@@ -57,6 +58,7 @@ fun DSLScope.WorldWitches() {
         Entry {
             id = "M-VGMDB-AL-116433"
             title = "My Shining Light / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.Animated, 0.6, 0.2)
 
             SubIDEntry("1") {
                 title = "My Shining Light" // generated(fill_music_metadata.dart v0.1.1)
@@ -73,6 +75,7 @@ fun DSLScope.WorldWitches() {
         Entry {
             id = "M-VGMDB-AL-120491"
             title = "WONDERFUL WORLD / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.Animated, 0.75, 0.15)
 
             SubIDEntry("1") {
                 title = "WONDERFUL WORLD" // generated(fill_music_metadata.dart v0.1.1)
@@ -84,6 +87,7 @@ fun DSLScope.WorldWitches() {
         Entry {
             id = "M-VGMDB-AL-120492"
             title = "Watashi to Minna no Uta / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.Animated, 0.7, 0.15)
 
             SubIDEntry("1") {
                 title = "Watashi to Minna no Uta" // generated(fill_music_metadata.dart v0.1.1)
