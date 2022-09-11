@@ -357,6 +357,7 @@ fun DSLScope.ReStage() {
                 title = "367Days" // generated(fill_music_metadata.dart v0.1.1)
                 // THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT
                 // (definitely not a cheap copy of osu's 727)
+                // still funnier than atelier's 15
                 Meme(0.05, 45)
 
                 // the song that started it all
