@@ -26381,6 +26381,33 @@
             0.0,
             0.0,
             0.0,
+            1.463487600259152,
+            0.487829200086384,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "emotions": {
+                "CalmingUnpleasant": 0.75,
+                "CalmingPleasant": 0.25
+            },
+            "input_score": 8.0,
+            "type": "nei",
+            "clamped_score": 1.6
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-38006": 1.0
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
             0.0,
             0.0,
             0.0,
