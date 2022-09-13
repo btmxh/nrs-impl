@@ -1463,7 +1463,7 @@
         },
         "score": [
             0.0,
-            0.46138749717202676,
+            0.4777286046641967,
             0.0,
             0.0,
             0.0,
@@ -1475,9 +1475,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.3,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -1535,7 +1535,7 @@
         },
         "score": [
             0.0,
-            0.46138749717202676,
+            0.4777286046641967,
             0.0,
             0.0,
             0.0,
@@ -1547,9 +1547,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.3,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -10517,7 +10517,7 @@
         },
         "score": [
             0.0,
-            0.045323666172405304,
+            0.045434010137249806,
             0.0,
             0.0,
             0.0,
@@ -10529,9 +10529,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 164,
+            "meme_duration": 165,
             "strength": 0.01,
-            "meme_duration_value": 1.1330916543101326,
+            "meme_duration_value": 1.1358502534312451,
             "type": "meme"
         }
     },
@@ -11299,7 +11299,7 @@
         },
         "score": [
             0.0,
-            1.230366659125405,
+            1.2739429457711913,
             0.0,
             0.0,
             0.0,
@@ -11311,9 +11311,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.8,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -11574,7 +11574,7 @@
         },
         "score": [
             0.0,
-            0.9227749943440535,
+            0.9554572093283934,
             0.0,
             0.0,
             0.0,
@@ -11586,9 +11586,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.6,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -14293,7 +14293,7 @@
         },
         "score": [
             0.0,
-            0.46138749717202676,
+            0.4777286046641967,
             0.0,
             0.0,
             0.0,
@@ -14305,9 +14305,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.3,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -16161,7 +16161,7 @@
         },
         "score": [
             0.0,
-            0.6151833295627025,
+            0.6369714728855956,
             0.0,
             0.0,
             0.0,
@@ -16173,9 +16173,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.4,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -25414,7 +25414,7 @@
         },
         "score": [
             0.0,
-            0.15379583239067562,
+            0.1592428682213989,
             0.0,
             0.0,
             0.0,
@@ -25426,9 +25426,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 0.1,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -25658,7 +25658,7 @@
         },
         "score": [
             0.0,
-            1.537958323906756,
+            1.592428682213989,
             0.0,
             0.0,
             0.0,
@@ -25670,9 +25670,9 @@
             0.0
         ],
         "DAH_meta": {
-            "meme_duration": 11,
+            "meme_duration": 12,
             "strength": 1.0,
-            "meme_duration_value": 0.384489580976689,
+            "meme_duration_value": 0.39810717055349726,
             "type": "meme"
         }
     },
@@ -25697,6 +25697,36 @@
         ],
         "DAH_meta": {
             "type": "ehi"
+        }
+    },
+    {
+        "contributors": {
+            "A-MAL-21167": 0.2,
+            "G-VGMDB-1880": 0.8
+        },
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.6096443328819624,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "DAH_meta": {
+            "length_in_days": 13,
+            "name": "Malier Escha",
+            "periods": [
+                {
+                    "from": "2022-08-31",
+                    "to": "2022-09-13"
+                }
+            ],
+            "type": "waifu"
         }
     },
     {
@@ -26007,35 +26037,6 @@
             "kind": "VisualNovel",
             "type": "DAH_nonstandard_generic_visual",
             "base": 0.6
-        }
-    },
-    {
-        "contributors": {
-            "G-VGMDB-1880": 1.0
-        },
-        "score": [
-            0.0,
-            0.0,
-            0.0,
-            0.5928021960935691,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "DAH_meta": {
-            "length_in_days": 12,
-            "name": "Malier Escha",
-            "periods": [
-                {
-                    "from": "2022-08-31",
-                    "to": "2022-09-12"
-                }
-            ],
-            "type": "waifu"
         }
     },
     {
