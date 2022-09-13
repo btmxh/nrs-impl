@@ -33,6 +33,28 @@ fun DSLScope.Atelier() {
             contributors["G-VGMDB-1880"] = 0.35
             contributors["G-VGMDB-1090"] = 0.25
         }
+        // press f to pay respect for our tranny (me)
+        // rip (btw i started the escha logy game on my birthday lol)
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // fuck
+        // truly one of the anime girls of all time
+        Waifu("Malier Escha", "2022-08-31" to today()) {
+            contributors["A-MAL-21167"] = 0.2
+            contributors["G-VGMDB-1880"] = 0.8
+        }
 
         Entry {
             id = "A-MAL-21167"
@@ -51,9 +73,11 @@ fun DSLScope.Atelier() {
             // ep 10 is an absolute banger xdddddddddddddddddddd
             // (mc crying, ortensia incident, "the daughter of the life-skill god",
             // harry maguire, nio tạ, rst dd reference, aKoGarE pls fuck off, etc.)
+            // also the linca method too xd
 
             // this anime somewhat feels like those rst-inspired-CP-based anime ngl
-            // NEI(0.3, Emotion.CP)
+            // (first ep)
+            // NEI(3.0, Emotion.CP)
 
             FeatureMusic("M-VGMDB-AL-45361-1")
 
@@ -129,24 +153,6 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
-            // press f to pay respect for our tranny (me)
-            // rip (btw i started the escha logy game on my birthday lol)
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            // fuck
-            Waifu("Malier Escha", "2022-08-31" to today())
             ValidatorSuppress("dah-uncompleted-no-progress")
             Progress(Boredom.Watching)
         }
