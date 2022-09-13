@@ -56,7 +56,7 @@ fun main() {
         dah_visualless_entry(data),
         dah_no_best_girl(data),
         dah_null_entry_reference(data),
-        dah_anime_no_boredom(data),
+        dah_entry_no_consumed(data),
         dah_uncompleted_no_progress(data),
         dah_invalid_id(data),
         dah_no_title(data),

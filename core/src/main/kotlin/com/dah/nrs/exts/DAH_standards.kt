@@ -317,7 +317,9 @@ fun DSLEntry.AnimeProgressOld(boredomLevel: BoredomLevel, episode: Int) {
             Consumed(0.75, length)
             Dropped()
         }
-        Boredom.Unwatched -> {}
+        Boredom.Unwatched -> {
+            ValidatorSuppress("dah_entry_no_consumed")
+        }
         else -> {
             error("invalid boredom level")
         }

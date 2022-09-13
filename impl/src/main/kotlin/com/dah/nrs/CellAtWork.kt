@@ -17,7 +17,7 @@ fun DSLScope.CellAtWork() {
             idMAL = 37141 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kesshouban" // i mean it's because the character design suck ass
 
-            AnimeProgressOld(Boredom.Dropped, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Dropped, 5)
             ValidatorSuppress("dah-uncompleted-no-progress")
             Visual(VisualKind.Animated, 0.4, 0.1)
             FeatureMusic("M-VGMDB-AL-77471-1")

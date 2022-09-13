@@ -78,7 +78,8 @@ fun DSLScope.Kaguya() {
             // koukai shinai yo kimi ni deaeta koto
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            AnimeProgressOld(Boredom.Unwatched, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            ValidatorSuppress("dah-entry-no-consumed")
         }
 
         Entry {
@@ -96,8 +97,9 @@ fun DSLScope.Kaguya() {
             // I want you to quietly listen to what I’ll say
             // Just for now I’ll say “goodbye” to my cowardly heart
 
-            AnimeProgressOld(Boredom.Unwatched, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.4)
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            ValidatorSuppress("dah-entry-no-consumed")
         }
     }
 }

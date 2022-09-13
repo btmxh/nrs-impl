@@ -280,7 +280,7 @@ fun main() =
             bestGirl = "Takagi"
 
             // episodic ngl
-            AnimeProgressOld(Boredom.Dropped, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Dropped, 2)
             ValidatorSuppress("dah-uncompleted-no-progress")
             Visual(VisualKind.Animated, 0.3, 0.4)
         }

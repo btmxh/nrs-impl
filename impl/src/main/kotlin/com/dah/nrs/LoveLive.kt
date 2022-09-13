@@ -610,7 +610,8 @@ fun DSLScope.LoveLive() {
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
-            AnimeProgressOld(Boredom.Unwatched, 5) // generated(fill_anime_metadata.dart v0.1.1)
+            ValidatorSuppress("dah-entry-no-consumed")
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 
