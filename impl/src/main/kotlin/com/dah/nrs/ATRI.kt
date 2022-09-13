@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
 
 fun DSLScope.ATRI() {
     // the funny visual novel that got fucked by e2e lmfao
@@ -20,8 +21,7 @@ fun DSLScope.ATRI() {
 
             // sad plot twist thingy
             AEI(8.0, Emotion.CU to 0.8, Emotion.AP to 0.2)
-            AnimeProgressOld(Boredom.TempOnHold)
-            ValidatorSuppress("dah-uncompleted-no-progress")
+            ConsumedProgress(EntryStatus.OnHold, 0.8, 10.hours)
 
             Visual(VisualKind.VisualNovel, 0.7, 0.15)
 

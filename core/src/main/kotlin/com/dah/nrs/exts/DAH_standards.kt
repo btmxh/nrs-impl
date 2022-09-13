@@ -317,6 +317,7 @@ fun DSLEntry.AnimeProgressOld(boredomLevel: BoredomLevel, episode: Int) {
             Consumed(0.75, length)
             Dropped()
         }
+        Boredom.Unwatched -> {}
         else -> {
             error("invalid boredom level")
         }

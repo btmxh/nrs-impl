@@ -29,6 +29,11 @@ fun DSLEntry.AnimeProgress(status: EntryStatus, episodes: Int) {
     }
 }
 
+fun DSLEntry.ConsumedProgress(status: EntryStatus, boredom: Double, length: Duration) {
+    Consumed(boredom, length)
+    Progress(status, length)
+}
+
 fun DSLEntry.AnimeConsumedProgress(status: EntryStatus, boredom: Double, episodes: Int) {
     AnimeConsumed(boredom, episodes)
     AnimeProgress(status, episodes)

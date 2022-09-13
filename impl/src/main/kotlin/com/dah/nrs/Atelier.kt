@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
 
 fun DSLScope.Atelier() {
     // Asuiro Koi Moyou and its consequences have been a disaster for our modern culture
@@ -122,7 +123,8 @@ fun DSLScope.Atelier() {
 
             Visual(VisualKind.RPG3DGame, 0.5, 0.4)
             Visual(VisualKind.VisualNovel, 0.4, 0.3)
-            AnimeProgressOld(Boredom.Completed)
+            // based on ayesha since i "deleted" atelier sophie
+            ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
         }
 
         Entry {
@@ -135,7 +137,9 @@ fun DSLScope.Atelier() {
             // atelier games visual comes in two part
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
-            AnimeProgressOld(Boredom.Completed)
+            // it's actually something like 99hrs, but i afk'd
+            // (too lazy to turn off the pc) a lot idk
+            ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
 
             // i hate "bủ nio" (it's a meme lol)
             NEI(8.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
@@ -153,8 +157,7 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
-            ValidatorSuppress("dah-uncompleted-no-progress")
-            AnimeProgressOld(Boredom.Watching)
+            ConsumedProgress(EntryStatus.Completed, 1.0, 80.hours)
         }
     }
 }

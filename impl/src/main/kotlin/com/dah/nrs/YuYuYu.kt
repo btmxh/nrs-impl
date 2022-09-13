@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
 
 fun DSLScope.YuYuYu() {
     // kirare - happy typhoon and u's - a song for yuyuyu reference
@@ -148,7 +149,7 @@ fun DSLScope.YuYuYu() {
             // that didn't happen pog
             AEI(3.0, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed)
+            ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
             Visual(VisualKind.LightNovel, 0.15, 0.5)
         }
 
