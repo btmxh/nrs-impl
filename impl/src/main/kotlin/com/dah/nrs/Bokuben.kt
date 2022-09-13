@@ -52,6 +52,7 @@ fun DSLScope.Bokuben() {
 
             SubIDEntry("1") {
                 title = "Seishun Seminar" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 2.0)
             }
@@ -65,6 +66,7 @@ fun DSLScope.Bokuben() {
 
             SubIDEntry("1") {
                 title = "Can now, Can now" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 1.0)
             }

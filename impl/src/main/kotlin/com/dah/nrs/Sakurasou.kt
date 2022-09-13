@@ -45,6 +45,7 @@ fun DSLScope.Sakurasou() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
                 title = "Kimi ga Yume wo Tsuretekita" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.25)
             }
         }

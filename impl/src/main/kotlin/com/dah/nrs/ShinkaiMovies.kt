@@ -50,6 +50,7 @@ fun DSLScope.ShinkaiMovies() {
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
             SubIDEntry("28") {
                 title = "Grand Escape (Movie edit) feat, Miura Toko" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:08") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
                 OsuSong(personal = 4.0)
             }

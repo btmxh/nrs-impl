@@ -18,6 +18,7 @@ fun DSLScope.KokoroConnect() {
 
             SubIDEntry("1") {
                 title = "Kimochi Signal" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }

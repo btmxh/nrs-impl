@@ -261,6 +261,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("2") {
                 title = "Startin' My Re:STAGE!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 // watayuki grimoi-reference (M6.0 unranked lmfao)
                 ReStepMusic(1.0)
             }
@@ -274,6 +275,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "リメンバーズ!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
                 // haha funny centuRe: reference
                 Meme(0.05, 6)
@@ -281,6 +283,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("2") {
                 title = "君に贈るAngel Yell" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
                 // the angel yell incident
                 ReStepMusic(7.5)
                 Meme(0.2, 10)
@@ -296,6 +299,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Natsu no Yakusoku" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.5)
             }
         }
@@ -308,6 +312,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "憧れFuture Sign" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
             }
 
@@ -323,6 +328,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Do it!! PARTY!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:33") // generated(fill_music_metadata.dart v0.1.1)
                 // do it happy daibouken reference
                 ReStepMusic(5.0)
             }
@@ -341,6 +347,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
             SubIDEntry("1") {
                 title = "宣誓センセーション" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
                 // [plasmagunstepgica]
                 ReStepMusic(3.0)
                 OsuSong(personal = 2.0)
@@ -355,6 +362,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "367Days" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:10") // generated(fill_music_metadata.dart v0.1.1)
                 // THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT
                 // (definitely not a cheap copy of osu's 727)
                 // still funnier than atelier's 15
@@ -376,11 +384,13 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
                 title = "ハッピータイフーン" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:34") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(0.8)
             }
 
             SubIDEntry("2") {
                 title = "ステレオライフ" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:28") // generated(fill_music_metadata.dart v0.1.1)
                 // yozora ni kagayaku yume no ryuusei wa
                 // kek
                 ReStepMusic(1.0)
@@ -394,11 +404,13 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1") {
                 title = "Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.5)
             }
 
             SubIDEntry("2") {
                 title = "Akogare Future Sign (Piano Strings Arrange)" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:56") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.0)
             }
         }
@@ -413,6 +425,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1") {
                 title = "Kirameki Future" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 // ca truong chuyen deu luon luon khiep so
                 // mot nguoi diet het moi tuong lai uoc mo
                 // xinh dep bac nhat tren thai binh que to
@@ -422,6 +435,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("2") {
                 title = "OvertuRe:" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:51") // generated(fill_music_metadata.dart v0.1.1)
                 // meme lyrics xddd
                 // I can't rely on one
                 // 一つじゃ頼りない
@@ -497,6 +511,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("3") {
                 title = "Yes, We Are!!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.5)
             }
         }
@@ -509,11 +524,13 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Purple Rays" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
             }
 
             SubIDEntry("2") {
                 title = "Dear マイフレンド" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(4.0)
             }
         }
@@ -525,11 +542,13 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.25, 0.65)
             SubIDEntry("1") {
                 title = "*Heart Confusion*" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:46") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.0)
             }
 
             SubIDEntry("2") {
                 title = "crave" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:35") // generated(fill_music_metadata.dart v0.1.1)
                 // gigachad keeno:
                 // >doesn't give a shit about multimedia franchises
                 // >still makes a song for rst anyway, but other franchises get none
@@ -551,6 +570,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("5") {
                 title = "Ano ne" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:45") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.0)
             }
         }
@@ -560,6 +580,7 @@ fun DSLScope.ReStage() {
             // not even close tho
             id = "M-13"
             title = "ortensia"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-89364-3")
@@ -579,11 +600,13 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "InFiction" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:30") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(4.5)
             }
 
             SubIDEntry("8") {
                 title = "DESERT BLACK FLOWER" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(7.5)
             }
         }
@@ -591,6 +614,7 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-14"
             title = "Stellamaris"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-82369-1")
@@ -601,6 +625,7 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-15"
             title = "TROIS ANGES"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104673-3")
@@ -615,6 +640,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "カナリア" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:16") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(6.0)
             }
         }
@@ -622,6 +648,7 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-16"
             title = "Tetrarkhia"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78515")
@@ -632,6 +659,7 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-VGMDB-AL-109271-48"
             title = "私たち、四季を遊ぶんです!!" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:34") // generated(fill_music_metadata.dart v0.1.1)
 
             // i mapped and tried to shill it on:
             // - sotarks map roasting
@@ -652,6 +680,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Bridge to Dream" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:36") // generated(fill_music_metadata.dart v0.1.1)
                 // method, la method
                 // nguoi ma mang lai nhung dieu ma ta tin
                 // method
@@ -665,11 +694,13 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("2") {
                 title = "Re:Rays" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(5.0)
             }
 
             SubIDEntry("3") {
                 title = "Tomorrow Melodies" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:01") // generated(fill_music_metadata.dart v0.1.1)
                 // do chinh la method
                 // nguoi dan ong da khien ca truong,
                 // ca truong chuyen da luon lo so
@@ -679,11 +710,13 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("4") {
                 title = "Pins&Needles" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(4.5)
             }
 
             SubIDEntry("5") {
                 title = "We Remember" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
                 // ngau loi vai ra
                 // nay nhat minh oi nay nhat minh oi
                 // tai vi sao a qua ngau
@@ -707,6 +740,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Sin City" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:52") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.5)
             }
         }
@@ -722,6 +756,7 @@ fun DSLScope.ReStage() {
             // ty for going back based akari kito
             SubIDEntry("1") {
                 title = "Chiguhagu Melody" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:55") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(2.0)
             }
         }
@@ -735,6 +770,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("1") {
                 title = "ユニゾンモノローグ" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:49") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(3.0)
             }
         }
@@ -747,6 +783,7 @@ fun DSLScope.ReStage() {
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             SubIDEntry("1") {
                 title = "Ginga no Shizuku" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:49") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.5)
             }
         }
@@ -767,6 +804,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Clematis" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(6.5)
             }
         }
@@ -781,6 +819,7 @@ fun DSLScope.ReStage() {
 
             SubIDEntry("1") {
                 title = "Ideal/Idol" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:07") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(1.5)
             }
         }
@@ -788,6 +827,7 @@ fun DSLScope.ReStage() {
         Entry {
             id = "M-48"
             title = "Re:STAGE! ALL IDOL"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-109271-48")
@@ -810,6 +850,7 @@ fun DSLScope.ReStage() {
 
              SubIDEntry("6") {
                  title = "雨音ファンファーレ" // generated(fill_music_metadata.dart v0.1.1)
+                 MusicConsumedProgress("4:37") // generated(fill_music_metadata.dart v0.1.1)
                 // inb4 ortensia banger
                 // based ortensia is back with an absolute catjammer
                 // https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s
@@ -905,6 +946,7 @@ fun DSLScope.ReStage() {
 
         // the ultimate mapping project, aka the 367000pp project
         // https://osu.ppy.sh/beatmapsets/1716294#osu/3506938
+        MusicConsumedProgress("01:09:00")
     }
 }
 

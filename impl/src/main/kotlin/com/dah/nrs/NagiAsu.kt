@@ -23,6 +23,7 @@ fun DSLScope.NagiAsu() {
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
             SubIDEntry("1") {
                 title = "ripple ~my first love~" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }

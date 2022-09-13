@@ -95,6 +95,7 @@ fun DSLScope.Atelier() {
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
             SubIDEntry("1") {
                 title = "アスイロ" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:45") // generated(fill_music_metadata.dart v0.1.1)
                 // STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT!
                 // MY FRIENDS ON TIKTOK SEND ME Rina Hidaka, ON DISCORD IT'S FUCKING Rie Marukawa!
                 // I was in a server, right? and ALL OF THE CHANNELS were just Criticrista stuff.

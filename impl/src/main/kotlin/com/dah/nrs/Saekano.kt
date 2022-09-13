@@ -18,6 +18,7 @@ fun DSLScope.Saekano() {
 
             SubIDEntry("1") {
                 title = "M♭" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
                 OsuSong(personal = 1.0)
             }
@@ -88,13 +89,17 @@ fun DSLScope.Saekano() {
         id = "M-10"
         title = "Colorful. (Asterisk DnB Remix)"
 
+        // Length source: https://osu.ppy.sh/beatmapsets/299454
         Music(2.75)
+        MusicConsumedProgress("5:12")
     }
 
     Entry {
         id = "M-11"
         title = "Colorful. (kamaboko remix)"
 
+        // Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw
         Music(3.0)
+        MusicConsumedProgress("5:04")
     }
 }

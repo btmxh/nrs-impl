@@ -30,6 +30,7 @@ fun DSLScope.SelePro() {
         Entry {
             id = "M-50"
             title = "9-tie"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-114102")
@@ -43,6 +44,7 @@ fun DSLScope.SelePro() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
                 title = "Glorious Days" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }

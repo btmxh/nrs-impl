@@ -34,6 +34,7 @@ fun DSLScope.Tanmoshi() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
                 title = "Kodou" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:31") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -45,6 +46,7 @@ fun DSLScope.Tanmoshi() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
                 title = "Koko de Ikiteru" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:22") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

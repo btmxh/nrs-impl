@@ -29,6 +29,7 @@ fun DSLScope.AoChan() {
             // simple heart dt
             SubIDEntry("1") {
                 title = "WONDERFUL WONDER" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:03") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
                 OsuSong(personal = 4.0, community = 2.0)
             }

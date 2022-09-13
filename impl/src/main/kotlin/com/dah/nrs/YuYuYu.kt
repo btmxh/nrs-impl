@@ -22,6 +22,7 @@ fun DSLScope.YuYuYu() {
 
             SubIDEntry("1") {
                 title = "Aurora Days" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -36,6 +37,7 @@ fun DSLScope.YuYuYu() {
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
             SubIDEntry("2") {
                 title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:12") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 3.0)
             }

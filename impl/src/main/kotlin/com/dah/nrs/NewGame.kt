@@ -62,6 +62,7 @@ fun DSLScope.NewGame() {
         Entry {
             id = "M-46"
             title = "fourfolium"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-58627")
@@ -76,6 +77,7 @@ fun DSLScope.NewGame() {
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             SubIDEntry("1") {
                 title = "Now Loading!!!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 4.0)
             }
@@ -88,6 +90,7 @@ fun DSLScope.NewGame() {
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             SubIDEntry("1") {
                 title = "STEP by STEP UP↑↑↑↑" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
                 // mankai step by step
                 // this song is legendary af
                 Music(5.0)

@@ -37,6 +37,7 @@ fun DSLScope.BunnyGirlSenpai() {
 
         SubIDEntry("1") {
             title = "Kimi no Sei" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:24") // generated(fill_music_metadata.dart v0.1.1)
             Music(1.0)
         }
     }

@@ -35,6 +35,7 @@ fun DSLScope.KoisuruAsteroid() {
 
         SubIDEntry("1") {
             title = "夜空" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:37") // generated(fill_music_metadata.dart v0.1.1)
             // play the gigachad mapper's map:
             // https://osu.ppy.sh/beatmapsets/1256770#osu/2611562
             // https://osu.ppy.sh/beatmapsets/1256770#osu/2611562

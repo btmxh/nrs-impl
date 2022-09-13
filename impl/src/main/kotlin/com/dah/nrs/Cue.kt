@@ -61,11 +61,13 @@ fun DSLScope.Cue() {
 
             SubIDEntry("1") {
                 title = "スタートライン" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:42") // generated(fill_music_metadata.dart v0.1.1)
                 Music(7.0)
             }
 
             SubIDEntry("2") {
                 title = "はじまりの鐘の音が鳴り響く空" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

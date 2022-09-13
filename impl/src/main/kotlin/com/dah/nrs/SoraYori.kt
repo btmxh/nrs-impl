@@ -46,6 +46,7 @@ fun DSLScope.SoraYori() {
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
             SubIDEntry("1") {
                 title = "Koko kara, Koko kara" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
                 // make v-tuber a thing (hanayori dorm bs)
                 // and when hanayori bs dead, vtuber dead lmfao
@@ -54,6 +55,7 @@ fun DSLScope.SoraYori() {
 
             SubIDEntry("2") {
                 title = "One Step" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 OsuSong(personal = 4.0, community = 0.0)
             }

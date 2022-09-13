@@ -26,6 +26,7 @@ fun DSLScope.Idolmaster() {
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
                 title = "Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 8.0)
             }
@@ -38,6 +39,7 @@ fun DSLScope.Idolmaster() {
 
             SubIDEntry("1") {
                 title = "EVERMORE (M@STER VERSION)" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("6:05") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -50,6 +52,7 @@ fun DSLScope.Idolmaster() {
 
             SubIDEntry("1") {
                 title = "UNION!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 5.0, community = 2.0)
             }

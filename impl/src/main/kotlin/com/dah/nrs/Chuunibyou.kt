@@ -25,6 +25,7 @@ fun DSLScope.Chuunibyou() {
 
             SubIDEntry("1") {
                 title = "VOICE" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
                 OsuSong(personal = 2.0)
             }

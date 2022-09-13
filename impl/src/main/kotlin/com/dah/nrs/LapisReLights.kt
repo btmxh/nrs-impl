@@ -34,6 +34,7 @@ fun DSLScope.LapisReLights() {
         Entry {
             id = "M-51"
             title = "LiGHTs"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104957")
@@ -48,6 +49,7 @@ fun DSLScope.LapisReLights() {
 
             SubIDEntry("1") {
                 title = "700,000,000,000,000,000,000,000 no Sora de" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

@@ -41,6 +41,7 @@ fun DSLScope.WakeUpGirls() {
 
             SubIDEntry("1") {
                 title = "Tachiagare!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:54") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -53,6 +54,7 @@ fun DSLScope.WakeUpGirls() {
 
             SubIDEntry("1") {
                 title = "7 Girls War" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:07") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -145,6 +147,7 @@ fun DSLScope.WakeUpGirls() {
 
         SubIDEntry("1") {
             title = "One In A Billion" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
             OsuSong(personal = 5.0, community = 1.0)
             Music(6.0)
         }

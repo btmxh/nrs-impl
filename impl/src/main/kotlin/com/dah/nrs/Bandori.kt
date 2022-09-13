@@ -19,6 +19,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "STAR BEAT! ~Hoshi no Kodou~" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:19") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -31,11 +32,13 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "Tokimeki Experience!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
 
             SubIDEntry("2") {
                 title = "1000 kai Urunda Sora" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:31") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -48,6 +51,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "KIZUNA MUSIC♪" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:17") // generated(fill_music_metadata.dart v0.1.1)
                 // this song got memed in the rst-sb69 era because of two things
                 // (update: it's still somewhat huge in arc 3 because method, but
                 // bridge to dream is better cope bandofags)
@@ -74,6 +78,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("5") {
                 title = "Koko kara Saki wa Uta ni Naranai" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:37") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -86,6 +91,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("2") {
                 title = "Light Delight" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:09") // generated(fill_music_metadata.dart v0.1.1)
                 // naite naite
                 // daite daite
                 Music(6.0)
@@ -105,6 +111,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("2") {
                 title = "Yume wo Uchinuku Shunkan ni!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:40") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 // iykyk
                 Meme(0.05, 10)
@@ -135,6 +142,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "FIRE BIRD" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:25") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -175,6 +183,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "Y.O.L.O!!!!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 7.0)
             }
@@ -198,12 +207,14 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "Cherry Bomb" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:07") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 OsuSong(personal = 6.0)
             }
 
             SubIDEntry("6") {
                 title = "Harumodoki" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0)
 
@@ -219,6 +230,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("8") {
                 title = "Silhouette" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
                 OsuSong(personal = 5.5)
             }
@@ -240,6 +252,7 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
             SubIDEntry("1") {
                 title = "Sacred world" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:00") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -299,6 +312,7 @@ fun DSLScope.Bandori() {
         Entry {
             id = "M-32"
             title = "S"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             // 3d girl ew /s
             Visual(VisualKind.AlbumArt, 0.1, 0.15)
@@ -307,6 +321,8 @@ fun DSLScope.Bandori() {
                 id = "M-33"
                 title = "Cherry Bomb"
 
+                // Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP
+                MusicConsumedProgress("4:05")
                 Music(2.5)
                 Remix("M-VGMDB-AL-106577-1")
             }
@@ -326,6 +342,7 @@ fun DSLScope.Bandori() {
 
             SubIDEntry("1") {
                 title = "Silhouette" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 Remix("M-VGMDB-AL-114399-8")
             }
@@ -336,6 +353,8 @@ fun DSLScope.Bandori() {
         id = "M-35"
         title = "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
 
+        // Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138
+        MusicConsumedProgress("2:15")
         Music(2.5)
     }
 }

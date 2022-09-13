@@ -61,6 +61,7 @@ fun DSLScope.DrStone() {
 
         SubIDEntry("1") {
             title = "Good Morning World!" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:09") // generated(fill_music_metadata.dart v0.1.1)
             Music(2.5)
             OsuSong(personal = 1.0)
         }

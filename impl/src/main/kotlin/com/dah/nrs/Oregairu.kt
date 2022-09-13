@@ -28,11 +28,13 @@ fun DSLScope.Oregairu() {
 
             SubIDEntry("1") {
                 title = "Hello Alone" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("2") {
                 title = "Hello Alone -Yui Ballade-" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
 
             }
         }
@@ -50,11 +52,13 @@ fun DSLScope.Oregairu() {
 
             SubIDEntry("1") {
                 title = "エブリデイワールド" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("3") {
                 title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
                 
             }
         }
@@ -67,6 +71,7 @@ fun DSLScope.Oregairu() {
 
             SubIDEntry("1") {
                 title = "Diamond no Jundo" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:27") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

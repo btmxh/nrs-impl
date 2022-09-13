@@ -18,6 +18,7 @@ fun DSLScope.Kaguya() {
 
             SubIDEntry("1") {
                 title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("2:58") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0, community = 4.0)
             }
@@ -31,6 +32,7 @@ fun DSLScope.Kaguya() {
 
             SubIDEntry("11") {
                 title = "ありがとう。" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 // the grass-touching experience
                 Music(3.5)
             }

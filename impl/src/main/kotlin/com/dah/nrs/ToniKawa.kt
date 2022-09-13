@@ -31,6 +31,7 @@ fun DSLScope.ToniKawa() {
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
             SubIDEntry("1") {
                 title = "Koi no Uta (feat. Yuzaki Tsukasa)" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:29") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

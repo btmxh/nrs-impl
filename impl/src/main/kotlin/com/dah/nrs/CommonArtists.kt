@@ -9,6 +9,7 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-1"
         title = "Asterisk"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains("M-35", 1.0 / 3)
         Contains("M-10", 0.5)
@@ -18,6 +19,7 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-34"
         title = "Rakakun"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains("M-35", 1.0 / 3)
     }
@@ -125,6 +127,7 @@ fun DSLScope.CommonArtists() {
 
             SubIDEntry("1") {
                 title = "Hoshikuzu no Interlude" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("6:27") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -238,6 +241,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("11") {
                     title = "かかわり" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                 }
             }
@@ -272,6 +276,7 @@ fun DSLScope.CommonArtists() {
                 Visual(VisualKind.AlbumArt, 0.35, 0.6)
                 SubIDEntry("1") {
                     title = "Connect" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.0)
                 }
             }
@@ -283,6 +288,7 @@ fun DSLScope.CommonArtists() {
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
                 SubIDEntry("1") {
                     title = "カラフル" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
 
                     Remix("M-7")
@@ -297,6 +303,7 @@ fun DSLScope.CommonArtists() {
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
                 SubIDEntry("1") {
                     title = "シグナル" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
                     Music(7.0)
                 }
             }
@@ -309,6 +316,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "CheerS" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                     OsuSong(personal = 4.0, community = 0.0)
                 }
@@ -319,12 +327,15 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-6"
         title = "tamame"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains(0.5) {
             Entry {
                 id = "M-8"
                 title = "Colorful (tamame's apostate remix)"
 
+                // Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393
+                MusicConsumedProgress("5:21")
                 Music(6.5)
             }
 
@@ -332,6 +343,8 @@ fun DSLScope.CommonArtists() {
                 id = "M-47"
                 title = "Tamame - Ebb and Flow (5 years after remix)"
 
+                // Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882
+                MusicConsumedProgress("6:19")
                 Music(3.0)
             }
         }
@@ -350,6 +363,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "lull ~Soshite Bokura wa~" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:56") // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.75)
                 }
             }
@@ -362,12 +376,14 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "ebb and flow" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.5)
                     Remix("M-47")
                 }
 
                 SubIDEntry("3") {
                     title = "nagi" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:40") // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.2)
                 }
             }
@@ -391,6 +407,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "アクアテラリウム" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:58") // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.75)
                 }
             }
@@ -403,6 +420,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Mitsuba no Musubime" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:56") // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.75)
                 }
             }
@@ -415,6 +433,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Yukitoki" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                 }
             }
@@ -427,6 +446,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Harumodoki" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.5)
                     Remix("M-VGMDB-AL-106577-6")
                 }
@@ -440,6 +460,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "芽ぐみの雨" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:41") // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.0)
                 }
             }
@@ -452,6 +473,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "over and over" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:54") // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                 }
             }
@@ -502,6 +524,7 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-36"
         title = "Will Stetson"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains("M-37", 0.3)
         Contains("M-45", 0.45)
@@ -550,6 +573,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Aruite Ikou!" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:24") // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                 }
             }
@@ -599,6 +623,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Colorful." // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:16") // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.5)
                 }
             }
@@ -611,6 +636,7 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-12"
         title = "kamaboko"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains("M-11", 0.5)
     }
@@ -657,6 +683,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Egao no Kimi e" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.5)
                 }
             }
@@ -698,6 +725,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "Kuchizuke Diamond" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("3:57") // generated(fill_music_metadata.dart v0.1.1)
                     Music(3.5)
                     OsuSong(personal = 4.0, community = 5.0)
                 }
@@ -721,6 +749,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "CANDY MAGIC" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.0)
                 }
             }
@@ -734,6 +763,7 @@ fun DSLScope.CommonArtists() {
                 // kek
                 SubIDEntry("1") {
                     title = "hare bare fanfare" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("3:38") // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
 
                     OsuSong(personal = 6.0, community = 3.0)
@@ -741,6 +771,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("3") {
                     title = "CANDY MAGIC ~Piano Live Version~" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("0:57") // generated(fill_music_metadata.dart v0.1.1)
                     Remix("M-VGMDB-AL-52045-1")
                 }
             }
@@ -774,6 +805,7 @@ fun DSLScope.CommonArtists() {
 
         SubIDEntry("1") {
             title = "Uchiage Hanabi" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:49") // generated(fill_music_metadata.dart v0.1.1)
             Music(2.0)
         }
     }
@@ -791,6 +823,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("1") {
                     title = "crossing field" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:09") // generated(fill_music_metadata.dart v0.1.1)
                     Music(1.0)
                 }
             }
@@ -819,16 +852,20 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-42"
         title = "H△G"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains("M-43", 0.75)
 
         Entry {
             id = "M-63"
             title = "Everlasting Night of Teenage Girls"
+            ValidatorSuppress("dah-entry-no-consumed")
 
+            // Length source: https://open.spotify.com/album/2ztJCuDBki1rNOEi2TrH2W
             Entry {
                 id = "M-64"
                 title = "Shoujotachi no Owaranai Yoru"
+                MusicConsumedProgress("4:08")
                 Music(6.0)
             }
 
@@ -838,6 +875,7 @@ fun DSLScope.CommonArtists() {
                 // [prismatic]
                 // 1-2 1-2 1-2 1-2
                 // "imagine ruining a 2013 video comment section because of 1-2 xD"
+                MusicConsumedProgress("4:43")
                 Music(4.5)
                 // cringeworthy material: https://www.youtube.com/watch?v=_3aqQaH9AWM (it's me who made that)
             }
@@ -847,6 +885,7 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-44"
         title = "Chiho"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains("M-42", 0.5)
     }
@@ -884,6 +923,7 @@ fun DSLScope.CommonArtists() {
 
                     SubIDEntry("1") {
                         title = "360° Hoshi no Orchestra" // generated(fill_music_metadata.dart v0.1.1)
+                        MusicConsumedProgress("5:02") // generated(fill_music_metadata.dart v0.1.1)
                         // coco's Insane
                         // Akito's Insane
                         // ailv's Insane
@@ -928,6 +968,7 @@ fun DSLScope.CommonArtists() {
 
                 // her voice kinda fits with the song ngl
                 // new kano inc (jk)
+                MusicConsumedProgress("4:28")
                 Music(2.5)
             }
         }
@@ -998,6 +1039,7 @@ fun DSLScope.CommonArtists() {
                 Visual(VisualKind.AlbumArt, 0.6, 0.3)
                 SubIDEntry("6") {
                     title = "Azure Reunion" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("5:06") // impl_overridden
                     Music(6.0)
                     Remix("M-VGMDB-AL-108194-5")
                 }
@@ -1024,6 +1066,7 @@ fun DSLScope.CommonArtists() {
 
                 SubIDEntry("5") {
                     title = "Azure Reunion" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("5:06") // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                 }
             }
