@@ -51,7 +51,7 @@ fun DSLScope.COTE() {
             // we are not the same
             // (trust me u don't want us to be the same lmfao)
 
-            AnimeProgressOld(Boredom.Watching, 10)
+            AnimeProgressOld(Boredom.Watching, 11)
             // a lil bit worse than s1 (but still not that bad)
             Visual(VisualKind.Animated, 0.6, 0.2)
 
