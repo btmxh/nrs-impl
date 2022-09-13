@@ -49,7 +49,7 @@ fun DSLScope.Aipura() {
 
             bestGirl = "Kawasaki Sakura"
             Visual(VisualKind.Animated, 0.6, 0.3)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {

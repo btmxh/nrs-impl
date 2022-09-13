@@ -396,7 +396,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-36547-1")
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -411,7 +411,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-34051-1")
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -425,7 +425,7 @@ fun DSLScope.LoveLive() {
             idMAL = 24997 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -440,7 +440,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Sakurauchi Riko"
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -456,7 +456,7 @@ fun DSLScope.LoveLive() {
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -469,7 +469,7 @@ fun DSLScope.LoveLive() {
             idAniList = 100965 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37027 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -519,7 +519,7 @@ fun DSLScope.LoveLive() {
 
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(4.0, Emotion.AP)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
@@ -610,7 +610,7 @@ fun DSLScope.LoveLive() {
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
-            Progress(Boredom.Unwatched)
+            Progress(Boredom.Unwatched, 5) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 

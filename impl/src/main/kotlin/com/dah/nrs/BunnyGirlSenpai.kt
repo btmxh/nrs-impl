@@ -17,7 +17,7 @@ fun DSLScope.BunnyGirlSenpai() {
             idMAL = 37450 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Makinohara Shouko"
 
-            Progress(Boredom.Dropped)
+            Progress(Boredom.Dropped, 13) // generated(fill_anime_metadata.dart v0.1.1)
             ValidatorSuppress("dah-uncompleted-no-progress")
             // plot kinda ok
             NEI(5.0, Emotion.AP)

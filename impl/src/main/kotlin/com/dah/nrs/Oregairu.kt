@@ -118,7 +118,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-37932-1")
             FeatureMusic("M-VGMDB-AL-37999")
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
@@ -144,7 +144,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-51394-1")
             FeatureMusic("M-VGMDB-AL-51394-3")
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
@@ -173,7 +173,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-96288-1")
             FeatureMusic("M-VGMDB-AL-96290-1")
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 }

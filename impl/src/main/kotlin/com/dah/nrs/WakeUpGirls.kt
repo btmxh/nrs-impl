@@ -67,7 +67,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             // partially benefitted from rst
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
 
@@ -85,7 +85,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             FeatureMusic("M-VGMDB-AL-42945-1")
             Visual(VisualKind.Animated, 0.4, 0.6)
@@ -100,7 +100,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
         }
@@ -114,7 +114,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
         }
@@ -129,7 +129,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.3, 0.6)
         }

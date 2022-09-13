@@ -49,7 +49,7 @@ fun DSLScope.NagiAsu() {
 
             Meme(0.7, 25)
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 26) // generated(fill_anime_metadata.dart v0.1.1)
 
             FeatureMusic("M-VGMDB-AL-41278-1")
             FeatureMusic("M-VGMDB-AL-41280-1")

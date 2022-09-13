@@ -21,7 +21,7 @@ fun DSLScope.ShinkaiMovies() {
 
             bestGirl = "Miki Okudera"
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 
@@ -39,7 +39,7 @@ fun DSLScope.ShinkaiMovies() {
             bestGirl = "Amano Hina"
 
             Visual(VisualKind.Animated, 0.75, 0.75)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-87003")
         }
 

@@ -78,7 +78,7 @@ fun DSLScope.Kaguya() {
             // koukai shinai yo kimi ni deaeta koto
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            Progress(Boredom.Unwatched)
+            Progress(Boredom.Unwatched, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
@@ -96,7 +96,7 @@ fun DSLScope.Kaguya() {
             // I want you to quietly listen to what I’ll say
             // Just for now I’ll say “goodbye” to my cowardly heart
 
-            Progress(Boredom.Unwatched)
+            Progress(Boredom.Unwatched, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.4)
         }
     }

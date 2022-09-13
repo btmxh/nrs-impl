@@ -19,7 +19,7 @@ fun DSLScope.SwordArtOnline() {
 
             bestGirl = "Yuuki Asuna"
             FeatureMusic("M-VGMDB-AL-33537-1")
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 25) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.25)
         }
 
@@ -32,7 +32,7 @@ fun DSLScope.SwordArtOnline() {
             idMAL = 21881 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Yuuki Asuna"
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.25)
         }
 
@@ -45,7 +45,7 @@ fun DSLScope.SwordArtOnline() {
             idMAL = 31765 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Yuuki Asuna"
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.25)
         }
 

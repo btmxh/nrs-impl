@@ -60,7 +60,7 @@ fun DSLScope.GakkouGurashi() {
 
             Visual(VisualKind.Animated, 0.6, 0.25)
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 }

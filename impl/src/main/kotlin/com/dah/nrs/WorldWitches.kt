@@ -20,14 +20,14 @@ fun DSLScope.WorldWitches() {
             // "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..."
             // haha 15 funny amirite
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.2, 0.75)
         }
 
         Entry {
             id = "A-MAL-38006"
-            title =
+            title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
                 "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 38006 // generated(fill_anime_metadata.dart v0.1.1)
             idKitsu = 44227 // generated(fill_anime_metadata.dart v0.1.1)

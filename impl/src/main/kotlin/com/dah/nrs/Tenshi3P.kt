@@ -21,7 +21,7 @@ fun DSLScope.Tenshi3P() {
             // fuck the ED i hate that map
 
             Visual(VisualKind.Animated, 0.5, 0.3)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-68189-1")
             FeatureMusic("M-VGMDB-AL-69018-1")
         }

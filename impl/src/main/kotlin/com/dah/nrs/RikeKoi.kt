@@ -21,7 +21,7 @@ fun DSLScope.RikeKoi() {
 
             bestGirl = "Kotonoha Kanade" // kanaded lol
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.25, 0.5)
             KilledBy("F-VGMDB-1945", potential = 0.5, effect = 0.75)
         }

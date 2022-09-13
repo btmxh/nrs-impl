@@ -42,7 +42,7 @@ fun main() =
 
             // iirc i liked this anime's plot
             AEI(3.0, Emotion.AP)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -57,7 +57,7 @@ fun main() =
 
             // ig it's kinda good
             NEI(3.0, Emotion.AP)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 22) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
@@ -86,7 +86,7 @@ fun main() =
             // and VMO2020 too.
             Meme(0.3, 10)
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -119,7 +119,7 @@ fun main() =
             // gate-open literally all NRS entries
             // but it's too overkill so an impact instead
             AdditionalImpact("Gate-open anime", 1.0)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
@@ -132,7 +132,7 @@ fun main() =
             idMAL = 31952 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Usami Mizuki"
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -150,7 +150,7 @@ fun main() =
 
             // from nrs1
             AEI(2.5, Emotion.CU)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -170,7 +170,7 @@ fun main() =
             // iToddlers BTFO
             Meme(0.4, 25)
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -192,7 +192,7 @@ fun main() =
             // this is very sad guys
             // no pads tho
             Cry(Emotion.CU)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.65, 0.35)
         }
 
@@ -208,7 +208,7 @@ fun main() =
 
             bestGirl = "Tendou Karen"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.3)
         }
 
@@ -226,7 +226,7 @@ fun main() =
             bestGirl = "Mizuno Akane"
             // ending sadge
             AEI(2.5, Emotion.CU)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -261,7 +261,7 @@ fun main() =
             idMAL = 35756 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kaoruko Moeta"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             NEI(2.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -280,7 +280,7 @@ fun main() =
             bestGirl = "Takagi"
 
             // episodic ngl
-            Progress(Boredom.Dropped)
+            Progress(Boredom.Dropped, 12) // generated(fill_anime_metadata.dart v0.1.1)
             ValidatorSuppress("dah-uncompleted-no-progress")
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
@@ -296,7 +296,7 @@ fun main() =
             // lmfao
             bestGirl = "Washing Machine"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 10) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -311,7 +311,7 @@ fun main() =
             // facebook anime lmfao
             bestGirl = "Yamauchi Sakura"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             AEI(1.0, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
@@ -332,7 +332,7 @@ fun main() =
             // sad ending (i don't remember now lmfao)
             AEI(5.0, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         ShichiseiSubaru()
@@ -369,7 +369,7 @@ fun main() =
             bestGirl = "Sarayashiki Karin"
             // akari kito va lmfao
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             // this was funny af (iirc), really enjoyed it
             AEI(6.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
@@ -386,7 +386,7 @@ fun main() =
             idMAL = 37982 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Tachibana Hina"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
 
             // the domestic na kanojo war lmao
@@ -406,7 +406,7 @@ fun main() =
             idAniList = 105190 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38656 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Karino Shuka"
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 11) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.4)
             // "plot is good"
             AEI(5.0, Emotion.AP)
@@ -423,7 +423,7 @@ fun main() =
             AEI(5.0, Emotion.AP)
             // restep sequel leaked no way
             bestGirl = "Ristarte"
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
@@ -477,7 +477,7 @@ fun main() =
             // and the op is that osu song
             // imagine if this was in summer 2022
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -518,7 +518,7 @@ fun main() =
             // the 2 main girls are pretty match
             // thank you based shaft
             Visual(VisualKind.Animated, 0.6, 0.3)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-101643-1")
         }
 
@@ -549,7 +549,7 @@ fun main() =
             // the hatsune miku method
             AEI(2.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.3, 0.3)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         RentAGirlfriend()
@@ -565,7 +565,7 @@ fun main() =
             bestGirl = "Hiiragi Nana"
 
             Visual(VisualKind.Animated, 0.4, 0.5)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-2588", 0.5, 0.3)
             // plot is very good
             AEI(4.0, Emotion.AP)
@@ -633,7 +633,7 @@ fun main() =
             // anime, but it doesn't care about that
             // and just march on with its plot
             Visual(VisualKind.Animated, 0.5, 0.3)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("A-MAL-41530", 0.2, 0.2)
             FeatureMusic("M-VGMDB-AL-111089-5")
         }
@@ -703,7 +703,7 @@ fun main() =
 
             // denchi shoujo my fucking beloved wtf i love this so fking much
             AEI(5.0, Emotion.MP to 0.5, Emotion.AP to 0.5)
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.3)
             KilledBy("F-VGMDB-3245", 0.3, 0.15)
             KilledBy("F-VGMDB-7059", 0.3, 0.15)
@@ -721,7 +721,7 @@ fun main() =
             bestGirl = "Subaru" // ofc it has to be mc
 
             // didn't expect mc to fall in love tho
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.2)
             FeatureMusic("M-VGMDB-AL-51254-1")
         }
@@ -755,7 +755,7 @@ fun main() =
             bestGirl = "Tagitsuhime"
             // i hate my life
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
 
             // decent plot ngl
             NEI(8.0, Emotion.AP)

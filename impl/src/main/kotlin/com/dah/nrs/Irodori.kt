@@ -40,7 +40,7 @@ fun DSLScope.Irodori() {
             idMAL = 50267 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagi Kobotoke"
 
-            Progress(Boredom.Completed)
+            Progress(Boredom.Completed, 8) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.AnimatedShort, 0.4, 0.2)
         }
 
