@@ -1000,10 +1000,14 @@ fun DSLScope.CommonArtists() {
     Entry {
         id = "M-VGMDB-AR-14761"
         title = "Rie Murakawa" // generated(fill_music_metadata.dart v0.1.1)
+        // congrats u have escaped the fate of a cricri girl
+        // now prepare to be a new seasonal waifu va lol
 
         AKMEraPart1(0.2)
         AKMEraPart2(0.3)
         AKMEraPart3(0.3)
+        // additional 0.25 because akm is sung by rosia and jacklyn
+        // (not the whole cricri unit)
         Contains("M-23", 0.25)
         // 765
         Contains("M-VGMDB-AR-32295", 1.0 / 51.0)
@@ -1012,8 +1016,6 @@ fun DSLScope.CommonArtists() {
             Contains("M-VGMDB-AL-95313")
             Contains("M-VGMDB-AL-45361-1")
             Contains("M-VGMDB-AL-76155-2", 0.25)
-            // additional 0.25 because akm is sung by rosia and jacklyn
-            // (not the whole cricri unit)
         }
     }
 
