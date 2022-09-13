@@ -71,7 +71,7 @@ fun DSLScope.Idolmaster() {
 
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)
-            Progress(Boredom.Completed, 25) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 25) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
 
@@ -88,7 +88,7 @@ fun DSLScope.Idolmaster() {
             idAniList = 20693 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 23587 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ogata Chieri"
-            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
 
@@ -100,7 +100,7 @@ fun DSLScope.Idolmaster() {
             idAniList = 21094 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30344 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ogata Chieri"
-            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
     }

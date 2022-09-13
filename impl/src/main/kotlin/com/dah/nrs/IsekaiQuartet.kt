@@ -24,7 +24,7 @@ fun DSLScope.IsekaiQuartet() {
             bestGirl = "Ram"
 
             Visual(VisualKind.Animated, 0.3, 0.5)
-            Progress(Boredom.CompletedWithNoticeableBoredom, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
@@ -42,7 +42,7 @@ fun DSLScope.IsekaiQuartet() {
             bestGirl = "Filo"
 
             Visual(VisualKind.Animated, 0.3, 0.5)
-            Progress(Boredom.Dropped, 4)
+            AnimeProgressOld(Boredom.Dropped, 4)
         }
     }
 }

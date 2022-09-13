@@ -264,7 +264,7 @@ fun DSLScope.Bandori() {
             AEI(2.0, Emotion.CU)
             // nrs1
             Meme(0.2, 6)
-            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
 
             Visual(VisualKind.Animated, 0.4, 0.4)
 
@@ -286,7 +286,7 @@ fun DSLScope.Bandori() {
             // cg lmfao
             Visual(VisualKind.Animated, 0.15, 0.5)
             // rip
-            Progress(Boredom.Dropped, 6)
+            AnimeProgressOld(Boredom.Dropped, 6)
             FeatureMusic("M-VGMDB-AL-81504-1")
             KilledBy("F-VGMDB-2588", potential = 0.2, effect = 0.5)
         }

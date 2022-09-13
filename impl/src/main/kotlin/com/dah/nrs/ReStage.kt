@@ -243,7 +243,7 @@ fun DSLScope.ReStage() {
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
 
-            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
 
             Impact {
                 description = "OvertuRe: CG"
@@ -884,7 +884,7 @@ fun DSLScope.ReStage() {
 
         Visual(VisualKind.Animated, 0.2, 0.5)
 
-        Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+        AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
 
         // as always (low potential because rst actually helped oshibudo tho,
         // but it's still a kill)

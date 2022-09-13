@@ -35,7 +35,7 @@ fun DSLScope.SoraMethod() {
             FeatureMusic("M-VGMDB-AL-47402-1")
             FeatureMusic("M-VGMDB-AL-47403-1")
 
-            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 

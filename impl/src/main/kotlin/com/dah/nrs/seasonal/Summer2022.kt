@@ -23,7 +23,7 @@ fun DSLScope.Summer2022() {
         // art has some flaws, but whatever
         Visual(VisualKind.Animated, 0.4, 0.4)
         // bye lol
-        Progress(Boredom.Dropped, 4)
+        AnimeProgressOld(Boredom.Dropped, 4)
         KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
     }
@@ -44,7 +44,7 @@ fun DSLScope.Summer2022() {
         Visual(VisualKind.Animated, 0.4, 0.85)
 
         // the rescue mission succeeded let's goooooo
-        Progress(Boredom.Watching, 9)
+        AnimeProgressOld(Boredom.Watching, 9)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
@@ -64,7 +64,7 @@ fun DSLScope.Summer2022() {
         // ichijou ruka my beloved (she can't save this anime sadge)
 
         // the prima doll incident
-        Progress(Boredom.Dropped, 4)
+        AnimeProgressOld(Boredom.Dropped, 4)
 
         // somewhat unique and cute at the same time ngl
         // but still good luck with that -1.0 boredom lol xddddddddddd
@@ -104,7 +104,7 @@ fun DSLScope.Summer2022() {
 
         // still shit anime anyways
         // lmfao they used "inverse-killedby" method to not be dropped
-        Progress(Boredom.Watching, 10)
+        AnimeProgressOld(Boredom.Watching, 10)
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     }
@@ -139,7 +139,7 @@ fun DSLScope.Summer2022() {
 
         Visual(VisualKind.Animated, 0.5, 0.1)
 
-        Progress(Boredom.Watching, 10)
+        AnimeProgressOld(Boredom.Watching, 10)
         KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
     }
@@ -159,7 +159,7 @@ fun DSLScope.Summer2022() {
 
         // https://www.youtube.com/watch?v=2mFt7arKiNE
         Visual(VisualKind.Animated, 0.4, 0.5)
-        Progress(Boredom.Watching, 7)
+        AnimeProgressOld(Boredom.Watching, 7)
         KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
     }

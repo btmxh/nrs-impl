@@ -68,7 +68,7 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            Progress(Boredom.Watching, 10)
+            AnimeProgressOld(Boredom.Watching, 10)
 
             // ep 10 is an absolute banger xdddddddddddddddddddd
             // (mc crying, ortensia incident, "the daughter of the life-skill god",
@@ -122,7 +122,7 @@ fun DSLScope.Atelier() {
 
             Visual(VisualKind.RPG3DGame, 0.5, 0.4)
             Visual(VisualKind.VisualNovel, 0.4, 0.3)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed)
         }
 
         Entry {
@@ -135,7 +135,7 @@ fun DSLScope.Atelier() {
             // atelier games visual comes in two part
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed)
 
             // i hate "bủ nio" (it's a meme lol)
             NEI(8.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
@@ -154,7 +154,7 @@ fun DSLScope.Atelier() {
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
             ValidatorSuppress("dah-uncompleted-no-progress")
-            Progress(Boredom.Watching)
+            AnimeProgressOld(Boredom.Watching)
         }
     }
 }

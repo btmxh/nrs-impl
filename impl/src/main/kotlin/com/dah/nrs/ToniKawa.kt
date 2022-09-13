@@ -19,7 +19,7 @@ fun DSLScope.ToniKawa() {
             bestGirl = "Yuzaki Tsukasa"
 
             Visual(VisualKind.Animated, 0.4, 0.6)
-            Progress(Boredom.Dropped, 1)
+            AnimeProgressOld(Boredom.Dropped, 1)
             KilledBy("F-VGMDB-2588", 0.2, 0.5)
             FeatureMusic("M-VGMDB-AL-104618")
         }

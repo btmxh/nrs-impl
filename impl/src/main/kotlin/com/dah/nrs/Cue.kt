@@ -43,7 +43,7 @@ fun DSLScope.Cue() {
             // comedy was weak ngl
             NEI(5.0, Emotion.AP)
 
-            Progress(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.2)
 
             FeatureMusic("M-VGMDB-AL-115724")

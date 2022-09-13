@@ -20,7 +20,7 @@ fun DSLScope.SelePro() {
             bestGirl = "Koizumi Uta"
 
             Cry(Emotion.CU)
-            Progress(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.3)
 
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)

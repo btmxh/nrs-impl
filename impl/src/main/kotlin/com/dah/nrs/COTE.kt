@@ -29,7 +29,7 @@ fun DSLScope.COTE() {
             bestGirl = "Horikita Suzune"
             // no fuckign way she is VA'd by the glorious akari kito
 
-            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.75, 0.2)
             // plot pretty good
             AEI(5.0, Emotion.AP)
@@ -51,7 +51,7 @@ fun DSLScope.COTE() {
             // we are not the same
             // (trust me u don't want us to be the same lmfao)
 
-            Progress(Boredom.Watching, 10)
+            AnimeProgressOld(Boredom.Watching, 10)
             // a lil bit worse than s1 (but still not that bad)
             Visual(VisualKind.Animated, 0.6, 0.2)
 

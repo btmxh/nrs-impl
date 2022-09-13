@@ -24,7 +24,7 @@ fun DSLScope.AscendanceBookworm() {
             idMAL = 39468 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Myne"
 
-            Progress(Boredom.Completed, 14) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 14) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
@@ -37,7 +37,7 @@ fun DSLScope.AscendanceBookworm() {
             idMAL = 40815 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Myne"
 
-            Progress(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
@@ -50,7 +50,7 @@ fun DSLScope.AscendanceBookworm() {
             idMAL = 42429 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Myne"
 
-            Progress(Boredom.Completed, 10) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 10) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
     }
