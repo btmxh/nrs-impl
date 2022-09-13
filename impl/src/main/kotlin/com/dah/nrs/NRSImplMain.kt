@@ -12,6 +12,8 @@ import com.dah.nrs.meme.MVLiterature
 import com.dah.nrs.meme.Method
 import com.dah.nrs.seasonal.Spring2022
 import com.dah.nrs.seasonal.Summer2022
+import kotlin.time.Duration.Companion.minutes
+import kotlin.time.Duration.Companion.seconds
 
 // custom id counters:
 // M-67
@@ -193,6 +195,9 @@ fun main() =
             // no pads tho
             Cry(Emotion.CU)
             AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+
+            // https://www.youtube.com/watch?v=fzQ6gRAEoy0
+            ConsumedProgress(EntryStatus.Completed, 1.0, 6.minutes + 6.seconds)
             Visual(VisualKind.Animated, 0.65, 0.35)
         }
 
