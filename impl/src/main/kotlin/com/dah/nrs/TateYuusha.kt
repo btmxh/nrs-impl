@@ -19,7 +19,7 @@ fun DSLScope.TateYuusha() {
             // And yes, it's watched in the Reddit-era
             bestGirl = "Raphtalia"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 25) // generated(fill_anime_metadata.dart v0.1.1)
 
             // Anger when MC is treated unfairly (like Oregairu's 8man)
             NEI(5.0, Emotion.AU)
@@ -36,7 +36,7 @@ fun DSLScope.TateYuusha() {
             idMAL = 40356 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Raphtalia"
 
-            Progress(Boredom.Dropped, 3)
+            AnimeProgressOld(Boredom.Dropped, 3)
             KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
             Visual(VisualKind.Animated, 0.4, 0.2)
         }

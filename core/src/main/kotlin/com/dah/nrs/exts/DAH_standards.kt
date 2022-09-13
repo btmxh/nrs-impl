@@ -11,8 +11,11 @@ import kotlinx.serialization.json.put
 import java.time.LocalDate
 import kotlin.math.abs
 import kotlin.math.pow
-import kotlin.math.tanh
 import kotlin.math.withSign
+import kotlin.time.Duration
+import kotlin.time.Duration.Companion.minutes
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.DurationUnit
 
 class DAH_standards(builder: NRSContextBuilder) : Extension(builder) {
     init {
@@ -24,22 +27,23 @@ class DAH_standards(builder: NRSContextBuilder) : Extension(builder) {
     }
 }
 
-data class Level(val index: Int, val name: String, val value: Double)
+val AverageAnimeEpisode = 20.minutes // excluding OP/ED
+
+data class BoredomLevel(val index: Int, val name: String, val status: EntryStatus)
 
 val Boredom.Completed
-    get() = Level(0, "Completed", 1.0)
+    get() = BoredomLevel(0, "Completed", EntryStatus.Completed)
 val Boredom.CompletedWithNoticeableBoredom
-    get() = Level(1, "Completed with noticeable boredom", 0.5)
+    get() = BoredomLevel(1, "Completed with noticeable boredom", EntryStatus.Completed)
 val Boredom.Dropped
-    get() = Level(2, "Dropped", -1.0)
+    get() = BoredomLevel(2, "Dropped", EntryStatus.Dropped)
 val Boredom.Unwatched
-    get() = Level(3, "Unwatched", 0.0)
+    get() = BoredomLevel(3, "Unwatched", EntryStatus.Unwatched)
 val Boredom.Watching
-    get() = Level(4, "Watching", 0.75)
+    get() = BoredomLevel(4, "Watching", EntryStatus.Watching)
 val Boredom.TempOnHold
-    get() = Level(5, "Temporarily On-Hold", -0.5)
-
-fun Boredom.PartiallyDropped(value: Double) = Level(6, "Partially dropped", value)
+    get() = BoredomLevel(5, "Temporarily On-Hold", EntryStatus.OnHold)
+//fun Boredom.PartiallyDropped(value: Double) = BoredomLevel(6, "Partially dropped")
 
 fun AcceptImpact.Impact(block: DSLImpact.() -> Unit) {
     acceptImpact(DSLImpact(context).also(block))
@@ -257,20 +261,70 @@ fun AcceptImpact.InterestField(newField: Boolean, block: DSLImpact.() -> Unit = 
     }
 }
 
-fun DSLEntry.Progress(boredomLevel: Level, episode: Int? = null) {
-    Impact {
-        description = "Boredom: ${boredomLevel.name}"
-        score = vector {
-            set(Boredom, boredomLevel.value)
-        }
-        meta("type", "boredom")
-        meta("boredom_level", boredomLevel.index)
-        meta("boredom_level_name", boredomLevel.name)
+fun DSLEntry.Consumed(boredom: Double, length: Duration, block: DSLImpact.() -> Unit = {}) {
+    val (baseScore, baseLength) = if (length < 10.minutes) {
+        // songs
+        0.1 to 5.minutes
+    } else if (length < 2.hours) {
+        // OVA/movies/short animes
+        0.3 to 2.hours
+    } else {
+        // animes/video games
+        1.0 to (AverageAnimeEpisode * 12)
     }
-    meta("DAH_entry_progress", DSLMetaImpl().apply {
-        meta("status", boredomLevel.name)
-        episode?.let { meta("episode", it) }
-    })
+    val ratio = length.toDouble(DurationUnit.SECONDS) / baseLength.toDouble(DurationUnit.SECONDS)
+    val impactScore = boredom * baseScore * ratio.pow(Boredom.weight)
+    Impact {
+        description = "Consumed"
+        meta("type", "consumed")
+        meta("length_seconds", length.inWholeSeconds)
+        meta("base_score", baseScore)
+        meta("base_length_seconds", baseLength.inWholeSeconds)
+        score = vector {
+            set(Boredom, impactScore)
+        }
+        block()
+    }
+}
+
+fun DSLEntry.AnimeConsumed(boredom: Double, episode: Int, block: DSLImpact.() -> Unit = {}) {
+    Consumed(boredom, AverageAnimeEpisode * episode, block)
+}
+
+fun DSLEntry.Dropped(block: DSLImpact.() -> Unit = {}) {
+    Impact {
+        description = "Dropped"
+        score = vector {
+            set(Boredom, -0.5)
+        }
+        meta("type", "dropped")
+        block()
+    }
+}
+
+@Deprecated("Use the Consumed/Dropped/Progress API instead")
+fun DSLEntry.AnimeProgressOld(boredomLevel: BoredomLevel, episode: Int) {
+    val length = AverageAnimeEpisode * episode
+    when (boredomLevel) {
+        Boredom.Completed, Boredom.Watching, Boredom.TempOnHold -> {
+            Consumed(1.0, length)
+        }
+        Boredom.CompletedWithNoticeableBoredom -> {
+            Consumed(0.5, length)
+        }
+        Boredom.Dropped -> {
+            // assuming a little bit of boredom (use the new api pls)
+            Consumed(0.75, length)
+            Dropped()
+        }
+        Boredom.Unwatched -> {
+            ValidatorSuppress("dah_entry_no_consumed")
+        }
+        else -> {
+            error("invalid boredom level")
+        }
+    }
+    AnimeProgress(boredomLevel.status, episode)
 }
 
 fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Unit = {}) {

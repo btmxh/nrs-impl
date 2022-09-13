@@ -28,12 +28,13 @@ fun DSLScope.LapisReLights() {
             EHI()
             Visual(VisualKind.Animated, 0.4, 0.2)
             FeatureMusic("M-VGMDB-AL-104957")
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
             id = "M-51"
             title = "LiGHTs"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104957")
@@ -48,6 +49,7 @@ fun DSLScope.LapisReLights() {
 
             SubIDEntry("1") {
                 title = "700,000,000,000,000,000,000,000 no Sora de" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

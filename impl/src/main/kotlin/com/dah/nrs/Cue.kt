@@ -43,7 +43,7 @@ fun DSLScope.Cue() {
             // comedy was weak ngl
             NEI(5.0, Emotion.AP)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.2)
 
             FeatureMusic("M-VGMDB-AL-115724")
@@ -61,11 +61,13 @@ fun DSLScope.Cue() {
 
             SubIDEntry("1") {
                 title = "スタートライン" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:42") // generated(fill_music_metadata.dart v0.1.1)
                 Music(7.0)
             }
 
             SubIDEntry("2") {
                 title = "はじまりの鐘の音が鳴り響く空" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

@@ -19,6 +19,7 @@ fun DSLScope.MadokaMagica() {
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
                 title = "Mata Ashita" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:27") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
         }
@@ -30,6 +31,7 @@ fun DSLScope.MadokaMagica() {
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("4") {
                 title = "Believing in Justice" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("1:56") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
         }
@@ -41,6 +43,7 @@ fun DSLScope.MadokaMagica() {
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
                 title = "and I'm home" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("2:50") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -56,6 +59,7 @@ fun DSLScope.MadokaMagica() {
 
             SubIDEntry("1") {
                 title = "ケアレス" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -70,6 +74,7 @@ fun DSLScope.MadokaMagica() {
 
             SubIDEntry("1") {
                 title = "Gomakashi" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:11") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
@@ -82,6 +87,7 @@ fun DSLScope.MadokaMagica() {
 
             SubIDEntry("1") {
                 title = "Utsuroi" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:49") // generated(fill_music_metadata.dart v0.1.1)
                 // the game
                 // browiec's Wisdom
                 // Misunderstanding
@@ -114,7 +120,7 @@ fun DSLScope.MadokaMagica() {
             // Kyoko's backstory
             AEI(9.0, Emotion.CU)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-23391-1")
@@ -133,7 +139,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Kaname Madoka"
             // I can't understand this movie lol
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-41292-1")
@@ -203,7 +209,7 @@ fun DSLScope.MadokaMagica() {
 
             // Emotional impacts are all in the game
             // (Madokami's MGS, Sana's backstory)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // Gate-opened gacha games
@@ -224,7 +230,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Tamaki Iroha"
             seasonal = true
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 8) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // the animation tho
@@ -251,7 +257,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Tamaki Iroha"
             seasonal = true
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 4) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // :troll-despair:
@@ -267,13 +273,16 @@ fun DSLScope.MadokaMagica() {
     Entry {
         id = "M-5"
         title = "Magibeat"
+        ValidatorSuppress("dah-entry-no-consumed")
 
         Contains(0.5) {
             Entry {
                 id = "M-7"
                 title = "Colorful - Magibeat Remix"
 
+                // Length source: https://www.nicovideo.jp/watch/sm22151925
                 Music(3.5)
+                MusicConsumedProgress("4:35")
             }
         }
     }

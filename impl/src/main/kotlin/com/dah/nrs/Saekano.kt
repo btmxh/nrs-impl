@@ -18,6 +18,7 @@ fun DSLScope.Saekano() {
 
             SubIDEntry("1") {
                 title = "M♭" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
                 OsuSong(personal = 1.0)
             }
@@ -51,7 +52,7 @@ fun DSLScope.Saekano() {
 
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -64,7 +65,7 @@ fun DSLScope.Saekano() {
             idAniList = 21180 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30727 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Megumi Kato"
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 11) // generated(fill_anime_metadata.dart v0.1.1)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -79,7 +80,7 @@ fun DSLScope.Saekano() {
             bestGirl = "Megumi Kato"
             // humor
             NEI(2.5, Emotion.AP)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.55, 0.3)
         }
     }
@@ -88,13 +89,17 @@ fun DSLScope.Saekano() {
         id = "M-10"
         title = "Colorful. (Asterisk DnB Remix)"
 
+        // Length source: https://osu.ppy.sh/beatmapsets/299454
         Music(2.75)
+        MusicConsumedProgress("5:12")
     }
 
     Entry {
         id = "M-11"
         title = "Colorful. (kamaboko remix)"
 
+        // Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw
         Music(3.0)
+        MusicConsumedProgress("5:04")
     }
 }

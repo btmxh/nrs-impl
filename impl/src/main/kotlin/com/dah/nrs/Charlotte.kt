@@ -21,7 +21,7 @@ fun DSLScope.Charlotte() {
             Visual(VisualKind.Animated, 0.5, 0.1)
 
             PADS(3, Emotion.CU)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 }

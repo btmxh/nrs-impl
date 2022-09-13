@@ -20,6 +20,7 @@ fun DSLScope.`K-On`() {
 
             SubIDEntry("2") {
                 title = "Kirakira Days" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:40") // generated(fill_music_metadata.dart v0.1.1)
 
                 // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
                 Meme(0.1, 6)
@@ -35,6 +36,7 @@ fun DSLScope.`K-On`() {
 
             SubIDEntry("9") {
                 title = "Tenshi ni Fureta yo!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:42") // generated(fill_music_metadata.dart v0.1.1)
 
                 Music(0.5)
             }
@@ -48,6 +50,7 @@ fun DSLScope.`K-On`() {
 
             SubIDEntry("2") {
                 title = "U&I" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.0)
             }
         }
@@ -93,7 +96,7 @@ fun DSLScope.`K-On`() {
             idMAL = 5680 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
-            Progress(Boredom.CompletedWithNoticeableBoredom)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 13) // generated(fill_anime_metadata.dart v0.1.1)
             `K-OnVisual`(VisualKind.Animated)
         }
 
@@ -106,7 +109,7 @@ fun DSLScope.`K-On`() {
             idMAL = 7791 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
-            Progress(Boredom.CompletedWithNoticeableBoredom)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 26) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
             `K-OnVisual`(VisualKind.Animated)
@@ -121,7 +124,7 @@ fun DSLScope.`K-On`() {
             idMAL = 9617 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
-            Progress(Boredom.CompletedWithNoticeableBoredom)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 1) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-21146-9")
             `K-OnVisual`(VisualKind.Animated)
         }

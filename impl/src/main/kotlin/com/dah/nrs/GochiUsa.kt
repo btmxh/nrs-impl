@@ -18,6 +18,7 @@ fun DSLScope.GochiUsa() {
 
             SubIDEntry("1") {
                 title = "Daydream café" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:48") // generated(fill_music_metadata.dart v0.1.1)
                 // fuwa fuwa
                 // dong do la max do
                 // duy bua ham l
@@ -29,6 +30,7 @@ fun DSLScope.GochiUsa() {
         Entry {
             id = "M-9"
             title = "Petit Rabbit's"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-44890")
@@ -45,6 +47,7 @@ fun DSLScope.GochiUsa() {
 
             SubIDEntry("3") {
                 title = "Shinsaku no Shiawase wa Kochira!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
                 // dan dan kikoeru
                 // lets go i fced the son's insane diff with dt
                 // fuck sekai's insane tho
@@ -59,6 +62,7 @@ fun DSLScope.GochiUsa() {
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
             SubIDEntry("1") {
                 title = "Mahou Shoujo Chino" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:52") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
         }
@@ -73,7 +77,7 @@ fun DSLScope.GochiUsa() {
             bestGirl = "Kafuu Chino"
             // humor not that good tho
             NEI(3.0, Emotion.AP)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.15)
         }
     }

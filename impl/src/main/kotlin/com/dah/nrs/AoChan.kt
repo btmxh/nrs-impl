@@ -16,7 +16,7 @@ fun DSLScope.AoChan() {
             idAniList = 105989 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38778 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Horie Ao"
-            Progress(Boredom.Dropped, 3)
+            AnimeProgressOld(Boredom.Dropped, 3)
             Visual(VisualKind.AnimatedShort, 0.6, 0.4)
             FeatureMusic("M-VGMDB-AL-85759-1")
         }
@@ -29,6 +29,7 @@ fun DSLScope.AoChan() {
             // simple heart dt
             SubIDEntry("1") {
                 title = "WONDERFUL WONDER" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:03") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
                 OsuSong(personal = 4.0, community = 2.0)
             }

@@ -32,7 +32,7 @@ fun DSLScope.Sakurasou() {
             // inspiration for me to learn programming
             // (see NewGame.kt)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             FeatureMusic("M-VGMDB-AL-35015-1")
@@ -45,6 +45,7 @@ fun DSLScope.Sakurasou() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             SubIDEntry("1") {
                 title = "Kimi ga Yume wo Tsuretekita" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.25)
             }
         }

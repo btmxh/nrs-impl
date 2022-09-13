@@ -23,6 +23,7 @@ fun DSLScope.NagiAsu() {
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
             SubIDEntry("1") {
                 title = "ripple ~my first love~" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -49,7 +50,7 @@ fun DSLScope.NagiAsu() {
 
             Meme(0.7, 25)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 26) // generated(fill_anime_metadata.dart v0.1.1)
 
             FeatureMusic("M-VGMDB-AL-41278-1")
             FeatureMusic("M-VGMDB-AL-41280-1")

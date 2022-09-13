@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
 
 // imagine almost losing a contentless franchise xddddddddddddd
 fun DSLScope.Aokana() {
@@ -20,7 +21,7 @@ fun DSLScope.Aokana() {
             // bestGirl = "Satouin Reiko" // the sango/rosia of aokana
 
             // the asuka route is completed
-            Progress(Boredom.Completed)
+            ConsumedProgress(EntryStatus.Completed, 0.9, 10.hours)
 
             // Aokana made me love Asuka for like 2 weeks
             // which is good

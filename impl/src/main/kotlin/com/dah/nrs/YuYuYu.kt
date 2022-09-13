@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
 
 fun DSLScope.YuYuYu() {
     // kirare - happy typhoon and u's - a song for yuyuyu reference
@@ -21,6 +22,7 @@ fun DSLScope.YuYuYu() {
 
             SubIDEntry("1") {
                 title = "Aurora Days" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -35,6 +37,7 @@ fun DSLScope.YuYuYu() {
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
             SubIDEntry("2") {
                 title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:12") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 3.0)
             }
@@ -103,7 +106,7 @@ fun DSLScope.YuYuYu() {
             // (only the ending tho)
             AEI(2.5, Emotion.CU)
             Visual(VisualKind.Animated, 0.3, 0.5)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
@@ -148,7 +151,7 @@ fun DSLScope.YuYuYu() {
             // that didn't happen pog
             AEI(3.0, Emotion.CU)
 
-            Progress(Boredom.Completed)
+            ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
             Visual(VisualKind.LightNovel, 0.15, 0.5)
         }
 
@@ -170,7 +173,7 @@ fun DSLScope.YuYuYu() {
             // but my pepega ass doesn't watch this shit properly ffs
             NEI(5.0, Emotion.CU)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 6) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -195,7 +198,7 @@ fun DSLScope.YuYuYu() {
             //                  yuyuyu reference !!!11!!1
             AEI(3.0, Emotion.CU)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 6) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -225,7 +228,7 @@ fun DSLScope.YuYuYu() {
 
             FeatureMusic("M-VGMDB-AL-114186-2")
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
     }

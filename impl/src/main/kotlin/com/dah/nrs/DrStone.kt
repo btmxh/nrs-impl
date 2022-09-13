@@ -17,7 +17,7 @@ fun DSLScope.DrStone() {
             idAniList = 105333 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38691 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzuriha Ogawa"
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.75)
             // "plot is good"
             AEI(2.5, Emotion.AP)
@@ -34,7 +34,7 @@ fun DSLScope.DrStone() {
             idAniList = 113936 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40852 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzuriha Ogawa"
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 11) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.75)
             AEI(1.0, Emotion.AP)
         }
@@ -47,7 +47,7 @@ fun DSLScope.DrStone() {
             idAniList = 142876 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 50612 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzuriha Ogawa"
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.75)
             NEI(6.0, Emotion.AP)
         }
@@ -61,6 +61,7 @@ fun DSLScope.DrStone() {
 
         SubIDEntry("1") {
             title = "Good Morning World!" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:09") // generated(fill_music_metadata.dart v0.1.1)
             Music(2.5)
             OsuSong(personal = 1.0)
         }

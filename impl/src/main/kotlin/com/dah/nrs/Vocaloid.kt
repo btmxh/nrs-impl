@@ -23,7 +23,9 @@ fun DSLScope.Vocaloid() {
             // (somewhat unrelated to ayumu shit)
             AEI(5.0, Emotion.CU)
 
+            // Length source: https://www.nicovideo.jp/watch/sm18198019
             Music(4.25)
+            MusicConsumedProgress("4:32")
             Remix("M-41")
             Remix("M-43")
         }
@@ -34,7 +36,9 @@ fun DSLScope.Vocaloid() {
         title = "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
 
         // yuiko version is probably the best, music-wise
+        // Length source: https://www.nicovideo.jp/watch/sm20429546
         Music(6.5)
+        MusicConsumedProgress("4:32")
     }
 
     Entry {
@@ -42,6 +46,8 @@ fun DSLScope.Vocaloid() {
         title = "Chikyuu Saigo no Kokuhaku wo (HAG)"
 
         // quite good, but they didn't keep the orig. inst.
+        // Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx
         Music(5.0)
+        MusicConsumedProgress("4:23")
     }
 }

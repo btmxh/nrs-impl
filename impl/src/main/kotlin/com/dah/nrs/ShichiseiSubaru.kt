@@ -17,7 +17,7 @@ fun DSLScope.ShichiseiSubaru() {
             idMAL = 36316 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kuga Asahi"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
 
             // The drama in this anime is executed fairly well.
             // (It only exists in the first episodes tho)

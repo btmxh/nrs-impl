@@ -6,7 +6,9 @@
         "DAH_meta": {
             "DAH_entry_title": "Seirei Gensouki",
             "DAH_entry_progress": {
-                "status": "Partially dropped"
+                "length_seconds": 14400,
+                "episode": 12,
+                "status": "Dropped"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 44203,
@@ -43,7 +45,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "nagi"
+            "DAH_entry_title": "nagi",
+            "DAH_entry_progress": {
+                "length_seconds": 280,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42900-1": {
@@ -51,7 +57,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ebb and flow"
+            "DAH_entry_title": "ebb and flow",
+            "DAH_entry_progress": {
+                "length_seconds": 257,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-114399": {
@@ -96,7 +106,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Aozora Jumping Heart"
+            "DAH_entry_title": "Aozora Jumping Heart",
+            "DAH_entry_progress": {
+                "length_seconds": 284,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-30829": {
@@ -134,7 +148,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Cobalt Memories (Amane Makino ver.)"
+            "DAH_entry_title": "Cobalt Memories (Amane Makino ver.)",
+            "DAH_entry_progress": {
+                "length_seconds": 268,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-81504": {
@@ -151,7 +169,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Colorful"
+            "DAH_entry_title": "Colorful",
+            "DAH_entry_progress": {
+                "length_seconds": 283,
+                "status": "Completed"
+            }
         }
     },
     "M-64": {
@@ -159,7 +181,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shoujotachi no Owaranai Yoru"
+            "DAH_entry_title": "Shoujotachi no Owaranai Yoru",
+            "DAH_entry_progress": {
+                "length_seconds": 248,
+                "status": "Completed"
+            }
         }
     },
     "M-63": {
@@ -169,6 +195,9 @@
             "M-65": 1.0
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Everlasting Night of Teenage Girls"
         }
     },
@@ -177,7 +206,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
+            "DAH_entry_title": "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 94,
+                "status": "Completed"
+            }
         }
     },
     "M-47": {
@@ -185,7 +218,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tamame - Ebb and Flow (5 years after remix)"
+            "DAH_entry_title": "Tamame - Ebb and Flow (5 years after remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 379,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-41280-1": {
@@ -193,7 +230,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "アクアテラリウム"
+            "DAH_entry_title": "アクアテラリウム",
+            "DAH_entry_progress": {
+                "length_seconds": 298,
+                "status": "Completed"
+            }
         }
     },
     "M-46": {
@@ -203,6 +244,9 @@
             "M-VGMDB-AL-68225": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "fourfolium"
         }
     },
@@ -222,7 +266,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Snow Halation (feat. BeasttrollMC)"
+            "DAH_entry_title": "Snow Halation (feat. BeasttrollMC)",
+            "DAH_entry_progress": {
+                "length_seconds": 116,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51254-1": {
@@ -230,7 +278,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Stella-rium"
+            "DAH_entry_title": "Stella-rium",
+            "DAH_entry_progress": {
+                "length_seconds": 248,
+                "status": "Completed"
+            }
         }
     },
     "M-44": {
@@ -239,6 +291,9 @@
             "M-VGMDB-AL-52993": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Gakuen Seikatsubu"
         }
     },
@@ -265,7 +320,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sore wa Kitto Natsudatta"
+            "DAH_entry_title": "Sore wa Kitto Natsudatta",
+            "DAH_entry_progress": {
+                "length_seconds": 209,
+                "status": "Completed"
+            }
         }
     },
     "M-48": {
@@ -274,6 +333,9 @@
             "M-VGMDB-AL-109271-48": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Re:STAGE! ALL IDOL"
         }
     },
@@ -311,6 +373,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Nakanohito Genome [Jikkyouchuu]",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -329,6 +393,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Sword Art Online",
             "DAH_entry_progress": {
+                "length_seconds": 30000,
+                "episode": 25,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -366,6 +432,9 @@
             "M-VGMDB-AL-114102": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "9-tie"
         }
     },
@@ -409,7 +478,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Re:STAGE! Songs Compilation"
+            "DAH_entry_title": "Re:STAGE! Songs Compilation",
+            "DAH_entry_progress": {
+                "length_seconds": 4140,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-35507": {
@@ -419,6 +492,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -435,7 +510,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "United (L.A.O.S Remix)"
+            "DAH_entry_title": "United (L.A.O.S Remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 282,
+                "status": "Completed"
+            }
         }
     },
     "M-51": {
@@ -444,6 +523,9 @@
             "M-VGMDB-AL-104957": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "LiGHTs"
         }
     },
@@ -454,6 +536,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -470,7 +554,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Seishun Seminar"
+            "DAH_entry_title": "Seishun Seminar",
+            "DAH_entry_progress": {
+                "length_seconds": 255,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-4276": {
@@ -488,7 +576,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Truths, Ironies, The Secret Lyrics"
+            "DAH_entry_title": "Truths, Ironies, The Secret Lyrics",
+            "DAH_entry_progress": {
+                "length_seconds": 217,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-14813": {
@@ -498,6 +590,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -523,7 +617,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Heart wo Rock!!"
+            "DAH_entry_title": "Heart wo Rock!!",
+            "DAH_entry_progress": {
+                "length_seconds": 252,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-5678": {
@@ -541,7 +639,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hanate! Dododon!"
+            "DAH_entry_title": "Hanate! Dododon!",
+            "DAH_entry_progress": {
+                "length_seconds": 300,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-77471": {
@@ -560,6 +662,9 @@
             "M-VGMDB-AL-108580-2": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Happy Around!"
         }
     },
@@ -570,8 +675,9 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Superstar!!",
             "DAH_entry_progress": {
+                "length_seconds": 8400,
                 "episode": 7,
-                "status": "Temporarily On-Hold"
+                "status": "TempOnHold"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 41169,
@@ -587,7 +693,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tabimichi Yoiyoi Yume Hanabi"
+            "DAH_entry_title": "Tabimichi Yoiyoi Yume Hanabi",
+            "DAH_entry_progress": {
+                "length_seconds": 261,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-13211": {
@@ -622,7 +732,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Natsu no Yakusoku"
+            "DAH_entry_title": "Natsu no Yakusoku",
+            "DAH_entry_progress": {
+                "length_seconds": 260,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-8954": {
@@ -686,7 +800,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Dear マイフレンド"
+            "DAH_entry_title": "Dear マイフレンド",
+            "DAH_entry_progress": {
+                "length_seconds": 269,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-116297-1": {
@@ -694,7 +812,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Bokura no Neiro"
+            "DAH_entry_title": "Bokura no Neiro",
+            "DAH_entry_progress": {
+                "length_seconds": 263,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-87003": {
@@ -720,7 +842,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Purple Rays"
+            "DAH_entry_title": "Purple Rays",
+            "DAH_entry_progress": {
+                "length_seconds": 242,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-111089": {
@@ -758,7 +884,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sacred world"
+            "DAH_entry_title": "Sacred world",
+            "DAH_entry_progress": {
+                "length_seconds": 300,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-2588": {
@@ -816,7 +946,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ano ne"
+            "DAH_entry_title": "Ano ne",
+            "DAH_entry_progress": {
+                "length_seconds": 225,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40295": {
@@ -826,6 +960,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Another World",
             "DAH_entry_progress": {
+                "length_seconds": 3600,
+                "episode": 3,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -852,7 +988,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "FIRE BIRD"
+            "DAH_entry_title": "FIRE BIRD",
+            "DAH_entry_progress": {
+                "length_seconds": 325,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-78764": {
@@ -871,6 +1011,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Tonikaku Kawaii",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
                 "episode": 1,
                 "status": "Dropped"
             },
@@ -912,6 +1053,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -938,7 +1081,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "DESERT BLACK FLOWER"
+            "DAH_entry_title": "DESERT BLACK FLOWER",
+            "DAH_entry_progress": {
+                "length_seconds": 272,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51278": {
@@ -982,7 +1129,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "InFiction"
+            "DAH_entry_title": "InFiction",
+            "DAH_entry_progress": {
+                "length_seconds": 210,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-34822": {
@@ -992,6 +1143,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tsuki ga Kirei",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1010,6 +1163,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Gabriel DropOut",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1026,7 +1181,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tenshi ni Fureta yo!"
+            "DAH_entry_title": "Tenshi ni Fureta yo!",
+            "DAH_entry_progress": {
+                "length_seconds": 282,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-11981": {
@@ -1036,6 +1195,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1051,7 +1212,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Cherry Bomb"
+            "DAH_entry_title": "Cherry Bomb",
+            "DAH_entry_progress": {
+                "length_seconds": 247,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-106577-6": {
@@ -1059,7 +1224,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Harumodoki"
+            "DAH_entry_title": "Harumodoki",
+            "DAH_entry_progress": {
+                "length_seconds": 270,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-11581": {
@@ -1077,7 +1246,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Shinsaku no Shiawase wa Kochira!"
+            "DAH_entry_title": "Shinsaku no Shiawase wa Kochira!",
+            "DAH_entry_progress": {
+                "length_seconds": 265,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-113295": {
@@ -1094,7 +1267,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hoshikuzu no Interlude"
+            "DAH_entry_title": "Hoshikuzu no Interlude",
+            "DAH_entry_progress": {
+                "length_seconds": 387,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-34411-11": {
@@ -1102,7 +1279,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "アイロニ"
+            "DAH_entry_title": "アイロニ",
+            "DAH_entry_progress": {
+                "length_seconds": 250,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-5680": {
@@ -1112,7 +1293,9 @@
         "DAH_meta": {
             "DAH_entry_title": "K-On!",
             "DAH_entry_progress": {
-                "status": "Completed with noticeable boredom"
+                "length_seconds": 15600,
+                "episode": 13,
+                "status": "Completed"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 5680,
@@ -1158,6 +1341,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Bokutachi wa Benkyou ga Dekinai!",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1174,7 +1359,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "M♭"
+            "DAH_entry_title": "M♭",
+            "DAH_entry_progress": {
+                "length_seconds": 222,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51254": {
@@ -1193,6 +1382,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
+                "episode": 10,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1218,7 +1409,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "700,000,000,000,000,000,000,000 no Sora de"
+            "DAH_entry_title": "700,000,000,000,000,000,000,000 no Sora de",
+            "DAH_entry_progress": {
+                "length_seconds": 276,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-49291": {
@@ -1228,6 +1423,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
+                "episode": 4,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1253,7 +1450,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Meikyuu DESTINY"
+            "DAH_entry_title": "Meikyuu DESTINY",
+            "DAH_entry_progress": {
+                "length_seconds": 244,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51706-2": {
@@ -1261,7 +1462,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ryuusei Dreamline"
+            "DAH_entry_title": "Ryuusei Dreamline",
+            "DAH_entry_progress": {
+                "length_seconds": 234,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-70622-1": {
@@ -1269,7 +1474,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuuki wa Doko ni? Kimi no Mune ni!"
+            "DAH_entry_title": "Yuuki wa Doko ni? Kimi no Mune ni!",
+            "DAH_entry_progress": {
+                "length_seconds": 284,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-52993-1": {
@@ -1277,7 +1486,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Friend Shitai"
+            "DAH_entry_title": "Friend Shitai",
+            "DAH_entry_progress": {
+                "length_seconds": 218,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-41589": {
@@ -1287,6 +1500,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Tokyo Mew Mew New ♡",
             "DAH_entry_progress": {
+                "length_seconds": 10800,
                 "episode": 9,
                 "status": "Watching"
             },
@@ -1313,7 +1527,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エブリデイワールド -Ballade Arrange- Yui Solo Ver."
+            "DAH_entry_title": "エブリデイワールド -Ballade Arrange- Yui Solo Ver.",
+            "DAH_entry_progress": {
+                "length_seconds": 329,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42762": {
@@ -1363,7 +1581,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chiguhagu Melody"
+            "DAH_entry_title": "Chiguhagu Melody",
+            "DAH_entry_progress": {
+                "length_seconds": 235,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51394-1": {
@@ -1371,7 +1593,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エブリデイワールド"
+            "DAH_entry_title": "エブリデイワールド",
+            "DAH_entry_progress": {
+                "length_seconds": 262,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-8482": {
@@ -1389,7 +1615,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "EMPIRE DOMINATOR"
+            "DAH_entry_title": "EMPIRE DOMINATOR",
+            "DAH_entry_progress": {
+                "length_seconds": 222,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-25291": {
@@ -1406,7 +1636,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Anokanatarium"
+            "DAH_entry_title": "Anokanatarium",
+            "DAH_entry_progress": {
+                "length_seconds": 286,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-43735": {
@@ -1416,6 +1650,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Cue!",
             "DAH_entry_progress": {
+                "length_seconds": 28800,
+                "episode": 24,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1432,7 +1668,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mahou Shoujo Chino"
+            "DAH_entry_title": "Mahou Shoujo Chino",
+            "DAH_entry_progress": {
+                "length_seconds": 232,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-50273": {
@@ -1442,6 +1682,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tomodachi Game",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1458,7 +1700,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gotoubun no Kimochi"
+            "DAH_entry_title": "Gotoubun no Kimochi",
+            "DAH_entry_progress": {
+                "length_seconds": 222,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-25289": {
@@ -1494,7 +1740,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "One In A Billion"
+            "DAH_entry_title": "One In A Billion",
+            "DAH_entry_progress": {
+                "length_seconds": 257,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-49423-1": {
@@ -1502,7 +1752,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "グッドナイトエヴリワン"
+            "DAH_entry_title": "グッドナイトエヴリワン",
+            "DAH_entry_progress": {
+                "length_seconds": 349,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-114102": {
@@ -1519,7 +1773,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エールアンドレスポンス"
+            "DAH_entry_title": "エールアンドレスポンス",
+            "DAH_entry_progress": {
+                "length_seconds": 226,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-15051": {
@@ -1529,6 +1787,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! School Idol Project",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1554,7 +1814,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "decide"
+            "DAH_entry_title": "decide",
+            "DAH_entry_progress": {
+                "length_seconds": 354,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-47678-1": {
@@ -1562,7 +1826,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Aurora Days"
+            "DAH_entry_title": "Aurora Days",
+            "DAH_entry_progress": {
+                "length_seconds": 240,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-31765": {
@@ -1572,6 +1840,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Sword Art Online Movie: Ordinal Scale",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1593,6 +1863,7 @@
             ],
             "DAH_entry_title": "Spy x Family",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -1609,7 +1880,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Habataki no Birthday"
+            "DAH_entry_title": "Habataki no Birthday",
+            "DAH_entry_progress": {
+                "length_seconds": 272,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-50267": {
@@ -1619,6 +1894,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Irodorimidori",
             "DAH_entry_progress": {
+                "length_seconds": 9600,
+                "episode": 8,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1667,6 +1944,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya",
             "DAH_entry_progress": {
+                "length_seconds": 9600,
+                "episode": 8,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1719,7 +1998,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Watashi to Minna no Uta"
+            "DAH_entry_title": "Watashi to Minna no Uta",
+            "DAH_entry_progress": {
+                "length_seconds": 264,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-9617": {
@@ -1729,7 +2012,9 @@
         "DAH_meta": {
             "DAH_entry_title": "K-On! Movie",
             "DAH_entry_progress": {
-                "status": "Completed with noticeable boredom"
+                "length_seconds": 1200,
+                "episode": 1,
+                "status": "Completed"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 9617,
@@ -1747,6 +2032,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
             "DAH_entry_progress": {
+                "length_seconds": 16800,
+                "episode": 14,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1765,6 +2052,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Kanojo mo Kanojo",
             "DAH_entry_progress": {
+                "length_seconds": 6000,
                 "episode": 5,
                 "status": "Dropped"
             },
@@ -1782,7 +2070,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Dokipipo☆Emotion"
+            "DAH_entry_title": "Dokipipo☆Emotion",
+            "DAH_entry_progress": {
+                "length_seconds": 270,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-46042-1": {
@@ -1790,7 +2082,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tachiagare!"
+            "DAH_entry_title": "Tachiagare!",
+            "DAH_entry_progress": {
+                "length_seconds": 294,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104341-2": {
@@ -1798,7 +2094,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hoshizora Light Story"
+            "DAH_entry_title": "Hoshizora Light Story",
+            "DAH_entry_progress": {
+                "length_seconds": 245,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104341-1": {
@@ -1806,7 +2106,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Do Re Mi Fa STARS!!"
+            "DAH_entry_title": "Do Re Mi Fa STARS!!",
+            "DAH_entry_progress": {
+                "length_seconds": 246,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-114399-8": {
@@ -1814,7 +2118,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Silhouette"
+            "DAH_entry_title": "Silhouette",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42961": {
@@ -1832,7 +2140,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ユニゾンモノローグ"
+            "DAH_entry_title": "ユニゾンモノローグ",
+            "DAH_entry_progress": {
+                "length_seconds": 229,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-30419": {
@@ -1842,6 +2154,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Beyond the Bottom",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1857,7 +2171,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kodou"
+            "DAH_entry_title": "Kodou",
+            "DAH_entry_progress": {
+                "length_seconds": 271,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-96288-1": {
@@ -1865,7 +2183,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "芽ぐみの雨"
+            "DAH_entry_title": "芽ぐみの雨",
+            "DAH_entry_progress": {
+                "length_seconds": 281,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-82743-1": {
@@ -1873,7 +2195,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Y.O.L.O!!!!!"
+            "DAH_entry_title": "Y.O.L.O!!!!!",
+            "DAH_entry_progress": {
+                "length_seconds": 270,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-38101": {
@@ -1883,6 +2209,8 @@
         "DAH_meta": {
             "DAH_entry_title": "5-toubun no Hanayome",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1901,6 +2229,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Irozuku Sekai no Ashita kara",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1928,6 +2258,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Mamahaha no Tsurego ga Motokano datta",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
                 "episode": 10,
                 "status": "Watching"
             },
@@ -1947,6 +2278,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Kono Bijutsubu ni wa Mondai ga Aru!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -1986,6 +2319,8 @@
         "DAH_meta": {
             "DAH_entry_title": "New Game!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2004,6 +2339,8 @@
         "DAH_meta": {
             "DAH_entry_title": "D4DJ: First Mix",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2020,7 +2357,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Close to you"
+            "DAH_entry_title": "Close to you",
+            "DAH_entry_progress": {
+                "length_seconds": 223,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51276-1": {
@@ -2028,7 +2369,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Seishun wa Non-Stop!"
+            "DAH_entry_title": "Seishun wa Non-Stop!",
+            "DAH_entry_progress": {
+                "length_seconds": 257,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-63666": {
@@ -2050,7 +2395,8 @@
             ],
             "DAH_entry_title": "ATRI -My Dear Moments-",
             "DAH_entry_progress": {
-                "status": "Temporarily On-Hold"
+                "length_seconds": 36000,
+                "status": "TempOnHold"
             },
             "DAH_entry_bestGirl": "Atri"
         }
@@ -2062,6 +2408,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Show by Rock!! Stars!!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2078,7 +2426,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "はうあーゆー？"
+            "DAH_entry_title": "はうあーゆー？",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-93299": {
@@ -2097,6 +2449,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Shine Post",
             "DAH_entry_progress": {
+                "length_seconds": 8400,
                 "episode": 7,
                 "status": "Watching"
             },
@@ -2116,6 +2469,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2132,7 +2487,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Snow halation"
+            "DAH_entry_title": "Snow halation",
+            "DAH_entry_progress": {
+                "length_seconds": 257,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-61217": {
@@ -2151,6 +2510,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Koi to Senkyo to Chocolate",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2169,6 +2530,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Charlotte",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2185,7 +2548,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "メリーメリー álbum ver."
+            "DAH_entry_title": "メリーメリー álbum ver.",
+            "DAH_entry_progress": {
+                "length_seconds": 275,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42961-9": {
@@ -2193,7 +2560,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "World on Color"
+            "DAH_entry_title": "World on Color",
+            "DAH_entry_progress": {
+                "length_seconds": 279,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-60358-1": {
@@ -2201,7 +2572,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "STAR BEAT! ~Hoshi no Kodou~"
+            "DAH_entry_title": "STAR BEAT! ~Hoshi no Kodou~",
+            "DAH_entry_progress": {
+                "length_seconds": 319,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-102276-1": {
@@ -2209,7 +2584,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Nijiiro Passions!"
+            "DAH_entry_title": "Nijiiro Passions!",
+            "DAH_entry_progress": {
+                "length_seconds": 255,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-48363": {
@@ -2219,6 +2598,7 @@
         "DAH_meta": {
             "DAH_entry_title": "RPG Fudousan",
             "DAH_entry_progress": {
+                "length_seconds": 6000,
                 "episode": 5,
                 "status": "Dropped"
             },
@@ -2245,7 +2625,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Harumachi Clover"
+            "DAH_entry_title": "Harumachi Clover",
+            "DAH_entry_progress": {
+                "length_seconds": 246,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-33537-1": {
@@ -2253,7 +2637,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "crossing field"
+            "DAH_entry_title": "crossing field",
+            "DAH_entry_progress": {
+                "length_seconds": 249,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-99272-7": {
@@ -2261,7 +2649,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "LIKE IT! LOVE IT!"
+            "DAH_entry_title": "LIKE IT! LOVE IT!",
+            "DAH_entry_progress": {
+                "length_seconds": 261,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-59914-1": {
@@ -2269,7 +2661,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ドレミファPARTY"
+            "DAH_entry_title": "ドレミファPARTY",
+            "DAH_entry_progress": {
+                "length_seconds": 221,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-52993": {
@@ -2286,7 +2682,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Say Good-Bye Namida"
+            "DAH_entry_title": "Say Good-Bye Namida",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-99272-3": {
@@ -2294,7 +2694,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yagate Hitotsu no Monogatari"
+            "DAH_entry_title": "Yagate Hitotsu no Monogatari",
+            "DAH_entry_progress": {
+                "length_seconds": 260,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-7040": {
@@ -2312,7 +2716,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koko kara Saki wa Uta ni Naranai"
+            "DAH_entry_title": "Koko kara Saki wa Uta ni Naranai",
+            "DAH_entry_progress": {
+                "length_seconds": 277,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-50203": {
@@ -2320,8 +2728,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed",
+                "dah_entry_no_consumed"
+            ],
             "DAH_entry_title": "Love Live! Superstar!! 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 0,
+                "episode": 0,
                 "status": "Unwatched"
             },
             "DAH_additional_sources": {
@@ -2353,6 +2767,8 @@
             ],
             "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
             "DAH_entry_progress": {
+                "length_seconds": 10800,
+                "episode": 9,
                 "status": "Dropped"
             },
             "DAH_additional_sources": {
@@ -2369,7 +2785,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Love U my friends"
+            "DAH_entry_title": "Love U my friends",
+            "DAH_entry_progress": {
+                "length_seconds": 240,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-7292": {
@@ -2389,6 +2809,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Show By Rock!!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2405,7 +2827,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Daydream café"
+            "DAH_entry_title": "Daydream café",
+            "DAH_entry_progress": {
+                "length_seconds": 228,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-7059": {
@@ -2509,6 +2935,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
             "DAH_entry_progress": {
+                "length_seconds": 2400,
                 "episode": 2,
                 "status": "Dropped"
             },
@@ -2526,7 +2953,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Egao no Kimi e"
+            "DAH_entry_title": "Egao no Kimi e",
+            "DAH_entry_progress": {
+                "length_seconds": 234,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-60358": {
@@ -2585,7 +3016,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "FLARE"
+            "DAH_entry_title": "FLARE",
+            "DAH_entry_progress": {
+                "length_seconds": 277,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40879": {
@@ -2595,6 +3030,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2623,6 +3060,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Hyouka",
             "DAH_entry_progress": {
+                "length_seconds": 26400,
+                "episode": 22,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2669,7 +3108,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "UNION!!"
+            "DAH_entry_title": "UNION!!",
+            "DAH_entry_progress": {
+                "length_seconds": 329,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-41278-1": {
@@ -2677,7 +3120,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "lull ~Soshite Bokura wa~"
+            "DAH_entry_title": "lull ~Soshite Bokura wa~",
+            "DAH_entry_progress": {
+                "length_seconds": 296,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40842": {
@@ -2687,6 +3134,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Idoly Pride",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2705,6 +3154,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Kamisama ni Natta Hi",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -2733,6 +3183,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Kanojo, Okarishimasu",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
                 "episode": 1,
                 "status": "Dropped"
             },
@@ -2752,6 +3203,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin Season 3 Part 2",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
+                "episode": 10,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2787,7 +3240,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "EVERMORE (M@STER VERSION)"
+            "DAH_entry_title": "EVERMORE (M@STER VERSION)",
+            "DAH_entry_progress": {
+                "length_seconds": 365,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-34177": {
@@ -2797,6 +3254,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tenshi no 3P!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2813,7 +3272,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ハッピータイフーン"
+            "DAH_entry_title": "ハッピータイフーン",
+            "DAH_entry_progress": {
+                "length_seconds": 274,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-84229-2": {
@@ -2821,7 +3284,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ステレオライフ"
+            "DAH_entry_title": "ステレオライフ",
+            "DAH_entry_progress": {
+                "length_seconds": 268,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40852": {
@@ -2831,6 +3298,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Dr. Stone: Stone Wars",
             "DAH_entry_progress": {
+                "length_seconds": 13200,
+                "episode": 11,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2877,7 +3346,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "STEP by STEP UP↑↑↑↑"
+            "DAH_entry_title": "STEP by STEP UP↑↑↑↑",
+            "DAH_entry_progress": {
+                "length_seconds": 252,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-89364-3": {
@@ -2885,7 +3358,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yes, We Are!!!"
+            "DAH_entry_title": "Yes, We Are!!!",
+            "DAH_entry_progress": {
+                "length_seconds": 248,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-8339": {
@@ -2905,7 +3382,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hop Step Jump!"
+            "DAH_entry_title": "Hop Step Jump!",
+            "DAH_entry_progress": {
+                "length_seconds": 299,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-38778": {
@@ -2915,6 +3396,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Midara na Ao-chan wa Benkyou ga Dekinai",
             "DAH_entry_progress": {
+                "length_seconds": 3600,
                 "episode": 3,
                 "status": "Dropped"
             },
@@ -2932,7 +3414,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mata Ashita"
+            "DAH_entry_title": "Mata Ashita",
+            "DAH_entry_progress": {
+                "length_seconds": 267,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-37890": {
@@ -2942,6 +3428,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Oshi ga Budoukan Ittekuretara Shinu",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -2982,7 +3470,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimeta yo Hand in Hand"
+            "DAH_entry_title": "Kimeta yo Hand in Hand",
+            "DAH_entry_progress": {
+                "length_seconds": 266,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-9455": {
@@ -2999,7 +3491,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ideal/Idol"
+            "DAH_entry_title": "Ideal/Idol",
+            "DAH_entry_progress": {
+                "length_seconds": 247,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-87198-7": {
@@ -3007,7 +3503,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "MELODY"
+            "DAH_entry_title": "MELODY",
+            "DAH_entry_progress": {
+                "length_seconds": 269,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-46042": {
@@ -3034,7 +3534,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kaika Sengen"
+            "DAH_entry_title": "Kaika Sengen",
+            "DAH_entry_progress": {
+                "length_seconds": 259,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-113660-1": {
@@ -3042,7 +3546,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koko de Ikiteru"
+            "DAH_entry_title": "Koko de Ikiteru",
+            "DAH_entry_progress": {
+                "length_seconds": 202,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-45187": {
@@ -3059,7 +3567,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "あすいろClearSky (Bouquet Ver.)"
+            "DAH_entry_title": "あすいろClearSky (Bouquet Ver.)",
+            "DAH_entry_progress": {
+                "length_seconds": 278,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-34269-12": {
@@ -3067,7 +3579,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "FREEDOM DiVE↓"
+            "DAH_entry_title": "FREEDOM DiVE↓",
+            "DAH_entry_progress": {
+                "length_seconds": 269,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-62516-1": {
@@ -3075,7 +3591,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "青空のラプソディ"
+            "DAH_entry_title": "青空のラプソディ",
+            "DAH_entry_progress": {
+                "length_seconds": 278,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-110219": {
@@ -3110,7 +3630,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "宣誓センセーション"
+            "DAH_entry_title": "宣誓センセーション",
+            "DAH_entry_progress": {
+                "length_seconds": 260,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-38992": {
@@ -3120,6 +3644,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3138,6 +3664,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Saenai Heroine no Sodatekata",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3156,8 +3684,9 @@
         "DAH_meta": {
             "DAH_entry_title": "Konohana Kitan",
             "DAH_entry_progress": {
+                "length_seconds": 3600,
                 "episode": 3,
-                "status": "Temporarily On-Hold"
+                "status": "TempOnHold"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 35241,
@@ -3175,6 +3704,7 @@
         "DAH_meta": {
             "DAH_entry_title": "One Room",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -3203,7 +3733,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Azure Reunion"
+            "DAH_entry_title": "Azure Reunion",
+            "DAH_entry_progress": {
+                "length_seconds": 306,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-7021": {
@@ -3235,6 +3769,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shigatsu wa Kimi no Uso",
             "DAH_entry_progress": {
+                "length_seconds": 26400,
+                "episode": 22,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3251,7 +3787,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "My pace!!"
+            "DAH_entry_title": "My pace!!",
+            "DAH_entry_progress": {
+                "length_seconds": 255,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-114102-1": {
@@ -3259,7 +3799,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Glorious Days"
+            "DAH_entry_title": "Glorious Days",
+            "DAH_entry_progress": {
+                "length_seconds": 234,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-34051": {
@@ -3276,7 +3820,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "We Remember"
+            "DAH_entry_title": "We Remember",
+            "DAH_entry_progress": {
+                "length_seconds": 287,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104673-2": {
@@ -3284,7 +3832,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Re:Rays"
+            "DAH_entry_title": "Re:Rays",
+            "DAH_entry_progress": {
+                "length_seconds": 250,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104673-1": {
@@ -3292,7 +3844,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Bridge to Dream"
+            "DAH_entry_title": "Bridge to Dream",
+            "DAH_entry_progress": {
+                "length_seconds": 216,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104673-4": {
@@ -3300,7 +3856,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Pins&Needles"
+            "DAH_entry_title": "Pins&Needles",
+            "DAH_entry_progress": {
+                "length_seconds": 222,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42900": {
@@ -3318,7 +3878,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tomorrow Melodies"
+            "DAH_entry_title": "Tomorrow Melodies",
+            "DAH_entry_progress": {
+                "length_seconds": 301,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-89290-6": {
@@ -3326,7 +3890,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "地球最後の告白を"
+            "DAH_entry_title": "地球最後の告白を",
+            "DAH_entry_progress": {
+                "length_seconds": 273,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-115724-1": {
@@ -3334,7 +3902,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "スタートライン"
+            "DAH_entry_title": "スタートライン",
+            "DAH_entry_progress": {
+                "length_seconds": 342,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-10253": {
@@ -3353,7 +3925,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "はじまりの鐘の音が鳴り響く空"
+            "DAH_entry_title": "はじまりの鐘の音が鳴り響く空",
+            "DAH_entry_progress": {
+                "length_seconds": 252,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-50723": {
@@ -3390,7 +3966,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Akogare Future Sign (Piano Strings Arrange)"
+            "DAH_entry_title": "Akogare Future Sign (Piano Strings Arrange)",
+            "DAH_entry_progress": {
+                "length_seconds": 296,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-86622-1": {
@@ -3398,7 +3978,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Don't think, smile!!"
+            "DAH_entry_title": "Don't think, smile!!",
+            "DAH_entry_progress": {
+                "length_seconds": 284,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-50612": {
@@ -3408,6 +3992,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Dr. Stone: Ryuusui",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3448,7 +4034,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "1000 kai Urunda Sora"
+            "DAH_entry_title": "1000 kai Urunda Sora",
+            "DAH_entry_progress": {
+                "length_seconds": 331,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-63624-1": {
@@ -3456,7 +4046,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Tokimeki Experience!"
+            "DAH_entry_title": "Tokimeki Experience!",
+            "DAH_entry_progress": {
+                "length_seconds": 257,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-78534-2": {
@@ -3464,7 +4058,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "君に贈るAngel Yell"
+            "DAH_entry_title": "君に贈るAngel Yell",
+            "DAH_entry_progress": {
+                "length_seconds": 265,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-12665": {
@@ -3481,7 +4079,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "リメンバーズ!"
+            "DAH_entry_title": "リメンバーズ!",
+            "DAH_entry_progress": {
+                "length_seconds": 265,
+                "status": "Completed"
+            }
         }
     },
     "M-MAL-36631-6": {
@@ -3489,7 +4091,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo"
+            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo",
+            "DAH_entry_progress": {
+                "length_seconds": 272,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-45361": {
@@ -3508,6 +4114,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3524,7 +4132,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Uchiage Hanabi"
+            "DAH_entry_title": "Uchiage Hanabi",
+            "DAH_entry_progress": {
+                "length_seconds": 289,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-36316": {
@@ -3534,6 +4146,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shichisei no Subaru",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3552,6 +4166,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Gochuumon wa Usagi Desu ka?",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3570,6 +4186,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3586,7 +4204,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "雨音ファンファーレ"
+            "DAH_entry_title": "雨音ファンファーレ",
+            "DAH_entry_progress": {
+                "length_seconds": 277,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-99272-12": {
@@ -3594,7 +4216,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Just Believe!!!"
+            "DAH_entry_title": "Just Believe!!!",
+            "DAH_entry_progress": {
+                "length_seconds": 245,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-109367-1": {
@@ -3602,7 +4228,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Taiga yo Tomo ni Naite Kure"
+            "DAH_entry_title": "Taiga yo Tomo ni Naite Kure",
+            "DAH_entry_progress": {
+                "length_seconds": 209,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-5524": {
@@ -3652,7 +4282,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Diamond no Jundo"
+            "DAH_entry_title": "Diamond no Jundo",
+            "DAH_entry_progress": {
+                "length_seconds": 207,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-71404": {
@@ -3679,7 +4313,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ascension to Heaven"
+            "DAH_entry_title": "Ascension to Heaven",
+            "DAH_entry_progress": {
+                "length_seconds": 311,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-37999-2": {
@@ -3687,7 +4325,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hello Alone -Yui Ballade-"
+            "DAH_entry_title": "Hello Alone -Yui Ballade-",
+            "DAH_entry_progress": {
+                "length_seconds": 293,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-37999-1": {
@@ -3695,7 +4337,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hello Alone"
+            "DAH_entry_title": "Hello Alone",
+            "DAH_entry_progress": {
+                "length_seconds": 279,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-97692-1": {
@@ -3703,7 +4349,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Beginner's Sailing"
+            "DAH_entry_title": "Beginner's Sailing",
+            "DAH_entry_progress": {
+                "length_seconds": 287,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-37869": {
@@ -3713,6 +4363,7 @@
         "DAH_meta": {
             "DAH_entry_title": "BanG Dream! 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 7200,
                 "episode": 6,
                 "status": "Dropped"
             },
@@ -3741,6 +4392,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! The School Idol Movie",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -3766,7 +4419,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Utsuroi"
+            "DAH_entry_title": "Utsuroi",
+            "DAH_entry_progress": {
+                "length_seconds": 229,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-3274": {
@@ -3803,7 +4460,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "シグナル"
+            "DAH_entry_title": "シグナル",
+            "DAH_entry_progress": {
+                "length_seconds": 223,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-7638": {
@@ -3822,7 +4483,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Nyumber One! Zettai Saikyou!"
+            "DAH_entry_title": "Nyumber One! Zettai Saikyou!",
+            "DAH_entry_progress": {
+                "length_seconds": 263,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-80802-2": {
@@ -3830,7 +4495,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yume e no Ippo"
+            "DAH_entry_title": "Yume e no Ippo",
+            "DAH_entry_progress": {
+                "length_seconds": 287,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-118562": {
@@ -3880,7 +4549,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "CHASE!"
+            "DAH_entry_title": "CHASE!",
+            "DAH_entry_progress": {
+                "length_seconds": 258,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-82743": {
@@ -3906,7 +4579,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi wa Wasurerareru no"
+            "DAH_entry_title": "Kimi wa Wasurerareru no",
+            "DAH_entry_progress": {
+                "length_seconds": 94,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-80802-1": {
@@ -3914,7 +4591,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "TOKIMEKI Runners"
+            "DAH_entry_title": "TOKIMEKI Runners",
+            "DAH_entry_progress": {
+                "length_seconds": 276,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-87198": {
@@ -3984,7 +4665,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Startin' My Re:STAGE!!"
+            "DAH_entry_title": "Startin' My Re:STAGE!!",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-23209": {
@@ -3994,6 +4679,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Sora no Method",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4028,7 +4715,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "[It's not] World's end"
+            "DAH_entry_title": "[It's not] World's end",
+            "DAH_entry_progress": {
+                "length_seconds": 336,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42945-1": {
@@ -4036,7 +4727,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "7 Girls War"
+            "DAH_entry_title": "7 Girls War",
+            "DAH_entry_progress": {
+                "length_seconds": 307,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-37130-2": {
@@ -4044,7 +4739,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "うたうたいのうた"
+            "DAH_entry_title": "うたうたいのうた",
+            "DAH_entry_progress": {
+                "length_seconds": 279,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-37130-5": {
@@ -4052,7 +4751,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "朝焼け、君の唄。"
+            "DAH_entry_title": "朝焼け、君の唄。",
+            "DAH_entry_progress": {
+                "length_seconds": 308,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-37130-4": {
@@ -4060,7 +4763,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "「ねぇ。」"
+            "DAH_entry_title": "「ねぇ。」",
+            "DAH_entry_progress": {
+                "length_seconds": 383,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-58627": {
@@ -4077,7 +4784,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "サクラノ前夜"
+            "DAH_entry_title": "サクラノ前夜",
+            "DAH_entry_progress": {
+                "length_seconds": 360,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-89363": {
@@ -4120,6 +4831,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Just Because!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4155,7 +4868,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Guruguru DJ TURN!!"
+            "DAH_entry_title": "Guruguru DJ TURN!!",
+            "DAH_entry_progress": {
+                "length_seconds": 223,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-24765": {
@@ -4165,6 +4882,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Gakkougurashi!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4190,7 +4909,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ハロ/ハワユ"
+            "DAH_entry_title": "ハロ/ハワユ",
+            "DAH_entry_progress": {
+                "length_seconds": 290,
+                "status": "Completed"
+            }
         }
     },
     "M-MAL-36631": {
@@ -4222,7 +4945,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Gomakashi"
+            "DAH_entry_title": "Gomakashi",
+            "DAH_entry_progress": {
+                "length_seconds": 251,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-102281": {
@@ -4252,6 +4979,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Shin Shou",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4268,7 +4997,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "グッデイバイデイ"
+            "DAH_entry_title": "グッデイバイデイ",
+            "DAH_entry_progress": {
+                "length_seconds": 266,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-30942": {
@@ -4287,6 +5020,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
             "DAH_entry_progress": {
+                "length_seconds": 2400,
                 "episode": 2,
                 "status": "Dropped"
             },
@@ -4316,6 +5050,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Kokoro Connect",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4332,7 +5068,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ginga no Shizuku"
+            "DAH_entry_title": "Ginga no Shizuku",
+            "DAH_entry_progress": {
+                "length_seconds": 289,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-19111": {
@@ -4342,6 +5082,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! School Idol Project 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4363,6 +5105,8 @@
             ],
             "DAH_entry_title": "Karakai Jouzu no Takagi-san",
             "DAH_entry_progress": {
+                "length_seconds": 2400,
+                "episode": 2,
                 "status": "Dropped"
             },
             "DAH_additional_sources": {
@@ -4379,7 +5123,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Do it!! PARTY!!"
+            "DAH_entry_title": "Do it!! PARTY!!",
+            "DAH_entry_progress": {
+                "length_seconds": 273,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-78478-1": {
@@ -4387,7 +5135,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "360° Hoshi no Orchestra"
+            "DAH_entry_title": "360° Hoshi no Orchestra",
+            "DAH_entry_progress": {
+                "length_seconds": 302,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-33537": {
@@ -4406,6 +5158,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Kobayashi-san Chi no Maid Dragon",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4424,6 +5178,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
                 "episode": 10,
                 "status": "Watching"
             },
@@ -4505,7 +5260,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "17-sai"
+            "DAH_entry_title": "17-sai",
+            "DAH_entry_progress": {
+                "length_seconds": 273,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-41292-1": {
@@ -4513,7 +5272,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "カラフル"
+            "DAH_entry_title": "カラフル",
+            "DAH_entry_progress": {
+                "length_seconds": 270,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-34411": {
@@ -4569,7 +5332,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ハロ/ハワユ"
+            "DAH_entry_title": "ハロ/ハワユ",
+            "DAH_entry_progress": {
+                "length_seconds": 288,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-59914": {
@@ -4643,6 +5410,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Sora yori mo Tooi Basho",
             "DAH_entry_progress": {
+                "length_seconds": 10800,
                 "episode": 9,
                 "status": "Dropped"
             },
@@ -4705,12 +5473,10 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_validator_suppress": [
-                "dah-uncompleted-no-progress"
-            ],
             "DAH_entry_title": "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~",
             "DAH_entry_progress": {
-                "status": "Watching"
+                "length_seconds": 288000,
+                "status": "Completed"
             },
             "DAH_entry_bestGirl": "Malier Escha"
         }
@@ -4732,6 +5498,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 3600,
                 "episode": 3,
                 "status": "Dropped"
             },
@@ -4771,7 +5538,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "おはようジャポニカ"
+            "DAH_entry_title": "おはようジャポニカ",
+            "DAH_entry_progress": {
+                "length_seconds": 266,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-75344-3": {
@@ -4779,7 +5550,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "SILENT VOICES"
+            "DAH_entry_title": "SILENT VOICES",
+            "DAH_entry_progress": {
+                "length_seconds": 298,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-75344-5": {
@@ -4787,7 +5562,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "さよなら花火"
+            "DAH_entry_title": "さよなら花火",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-35608": {
@@ -4797,6 +5576,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4823,7 +5604,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ロマンスの林檎"
+            "DAH_entry_title": "ロマンスの林檎",
+            "DAH_entry_progress": {
+                "length_seconds": 260,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-75344-1": {
@@ -4831,7 +5616,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "純情-SAKURA-"
+            "DAH_entry_title": "純情-SAKURA-",
+            "DAH_entry_progress": {
+                "length_seconds": 224,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-53719-1": {
@@ -4839,7 +5628,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "アンハッピーエンドワールド"
+            "DAH_entry_title": "アンハッピーエンドワールド",
+            "DAH_entry_progress": {
+                "length_seconds": 266,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-4639": {
@@ -4862,6 +5655,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4878,7 +5673,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Clematis"
+            "DAH_entry_title": "Clematis",
+            "DAH_entry_progress": {
+                "length_seconds": 270,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-21881": {
@@ -4888,6 +5687,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Sword Art Online II",
             "DAH_entry_progress": {
+                "length_seconds": 28800,
+                "episode": 24,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -4951,7 +5752,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Close to you (詩杏 ver.)"
+            "DAH_entry_title": "Close to you (詩杏 ver.)",
+            "DAH_entry_progress": {
+                "length_seconds": 242,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-59371-3": {
@@ -4959,7 +5764,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "CANDY MAGIC ~Piano Live Version~"
+            "DAH_entry_title": "CANDY MAGIC ~Piano Live Version~",
+            "DAH_entry_progress": {
+                "length_seconds": 57,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-61981-1": {
@@ -4967,7 +5776,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "My Resolution ～未来への絆～"
+            "DAH_entry_title": "My Resolution ～未来への絆～",
+            "DAH_entry_progress": {
+                "length_seconds": 303,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-69018-1": {
@@ -4975,7 +5788,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kusabi"
+            "DAH_entry_title": "Kusabi",
+            "DAH_entry_progress": {
+                "length_seconds": 266,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-3559": {
@@ -5000,6 +5817,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Zombieland Saga: Revenge",
             "DAH_entry_progress": {
+                "length_seconds": 8400,
                 "episode": 7,
                 "status": "Dropped"
             },
@@ -5017,7 +5835,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～"
+            "DAH_entry_title": "エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～",
+            "DAH_entry_progress": {
+                "length_seconds": 275,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-59371-1": {
@@ -5025,7 +5847,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "hare bare fanfare"
+            "DAH_entry_title": "hare bare fanfare",
+            "DAH_entry_progress": {
+                "length_seconds": 218,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-12225": {
@@ -5042,7 +5868,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "憧れFuture Sign"
+            "DAH_entry_title": "憧れFuture Sign",
+            "DAH_entry_progress": {
+                "length_seconds": 293,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-105612-1": {
@@ -5050,7 +5880,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mot Mot Mot"
+            "DAH_entry_title": "Mot Mot Mot",
+            "DAH_entry_progress": {
+                "length_seconds": 222,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-85172": {
@@ -5077,6 +5911,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Sunshine!! 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5093,7 +5929,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Prima Stella"
+            "DAH_entry_title": "Prima Stella",
+            "DAH_entry_progress": {
+                "length_seconds": 266,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-20118-2": {
@@ -5101,7 +5941,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kirakira Days"
+            "DAH_entry_title": "Kirakira Days",
+            "DAH_entry_progress": {
+                "length_seconds": 220,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-23847": {
@@ -5111,6 +5955,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5137,7 +5983,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ケアレス"
+            "DAH_entry_title": "ケアレス",
+            "DAH_entry_progress": {
+                "length_seconds": 254,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-116433": {
@@ -5169,6 +6019,8 @@
         "DAH_meta": {
             "DAH_entry_title": "The iDOLM@STER Cinderella Girls 2nd Season",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5207,6 +6059,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Love Live! Sunshine!!",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5223,7 +6077,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Dream with You"
+            "DAH_entry_title": "Dream with You",
+            "DAH_entry_progress": {
+                "length_seconds": 258,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-16067": {
@@ -5233,6 +6091,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Nagi no Asu kara",
             "DAH_entry_progress": {
+                "length_seconds": 31200,
+                "episode": 26,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5249,7 +6109,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "U・D・N"
+            "DAH_entry_title": "U・D・N",
+            "DAH_entry_progress": {
+                "length_seconds": 192,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-96290": {
@@ -5266,7 +6130,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koko kara, Koko kara"
+            "DAH_entry_title": "Koko kara, Koko kara",
+            "DAH_entry_progress": {
+                "length_seconds": 276,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-73544-2": {
@@ -5274,7 +6142,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "One Step"
+            "DAH_entry_title": "One Step",
+            "DAH_entry_progress": {
+                "length_seconds": 242,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-10135": {
@@ -5292,7 +6164,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "KIZUNA MUSIC♪"
+            "DAH_entry_title": "KIZUNA MUSIC♪",
+            "DAH_entry_progress": {
+                "length_seconds": 317,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-3345": {
@@ -5320,7 +6196,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mitsuba no Musubime"
+            "DAH_entry_title": "Mitsuba no Musubime",
+            "DAH_entry_progress": {
+                "length_seconds": 296,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-96288": {
@@ -5339,6 +6219,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Chuunibyou demo Koi ga Shitai! Ren",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5357,6 +6239,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin",
             "DAH_entry_progress": {
+                "length_seconds": 30000,
+                "episode": 25,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5383,6 +6267,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Ushinawareta Mirai wo Motomete",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5399,7 +6285,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "and I'm home"
+            "DAH_entry_title": "and I'm home",
+            "DAH_entry_progress": {
+                "length_seconds": 170,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-43320-4": {
@@ -5407,7 +6297,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Wandering, Never Wondering (There Exists A Shade)"
+            "DAH_entry_title": "Wandering, Never Wondering (There Exists A Shade)",
+            "DAH_entry_progress": {
+                "length_seconds": 273,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-16233": {
@@ -5424,7 +6318,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "From Under Cover (Caught Up In A Love Song)"
+            "DAH_entry_title": "From Under Cover (Caught Up In A Love Song)",
+            "DAH_entry_progress": {
+                "length_seconds": 207,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-43320-8": {
@@ -5432,7 +6330,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Storytellers"
+            "DAH_entry_title": "Storytellers",
+            "DAH_entry_progress": {
+                "length_seconds": 237,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-2662": {
@@ -5466,6 +6368,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Kokoro Connect: Michi Random",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
+                "episode": 4,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5483,6 +6387,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Koisuru Asteroid",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5501,6 +6407,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Nogi Wakaba wa Yuusha de Aru",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
                 "status": "Completed"
             },
             "DAH_entry_bestGirl": "Koori Chikage"
@@ -5532,7 +6439,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi no Rhapsody"
+            "DAH_entry_title": "Kimi no Rhapsody",
+            "DAH_entry_progress": {
+                "length_seconds": 216,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-48199": {
@@ -5549,7 +6460,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Masshiro Start Line"
+            "DAH_entry_title": "Masshiro Start Line",
+            "DAH_entry_progress": {
+                "length_seconds": 255,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-88884": {
@@ -5575,7 +6490,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Hiromenes"
+            "DAH_entry_title": "Hiromenes",
+            "DAH_entry_progress": {
+                "length_seconds": 254,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-54418": {
@@ -5592,7 +6511,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Happy Happy Jump"
+            "DAH_entry_title": "Happy Happy Jump",
+            "DAH_entry_progress": {
+                "length_seconds": 224,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104618": {
@@ -5609,7 +6532,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Stargazer"
+            "DAH_entry_title": "Stargazer",
+            "DAH_entry_progress": {
+                "length_seconds": 306,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-17551": {
@@ -5626,7 +6553,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Taikakusen wo Tsunaideyo"
+            "DAH_entry_title": "Taikakusen wo Tsunaideyo",
+            "DAH_entry_progress": {
+                "length_seconds": 224,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-75349": {
@@ -5677,7 +6608,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Bokura wa Ima no Naka de"
+            "DAH_entry_title": "Bokura wa Ima no Naka de",
+            "DAH_entry_progress": {
+                "length_seconds": 276,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-15121": {
@@ -5721,7 +6656,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yume wo Uchinuku Shunkan ni!"
+            "DAH_entry_title": "Yume wo Uchinuku Shunkan ni!",
+            "DAH_entry_progress": {
+                "length_seconds": 280,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-7791": {
@@ -5731,7 +6670,9 @@
         "DAH_meta": {
             "DAH_entry_title": "K-On!!",
             "DAH_entry_progress": {
-                "status": "Completed with noticeable boredom"
+                "length_seconds": 31200,
+                "episode": 26,
+                "status": "Completed"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 7791,
@@ -5749,6 +6690,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Orange",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5765,7 +6708,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Colorful."
+            "DAH_entry_title": "Colorful.",
+            "DAH_entry_progress": {
+                "length_seconds": 256,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-15119": {
@@ -5785,8 +6732,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah_entry_no_consumed",
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
             "DAH_entry_progress": {
+                "length_seconds": 0,
+                "episode": 0,
                 "status": "Unwatched"
             },
             "DAH_additional_sources": {
@@ -5805,6 +6758,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Tate no Yuusha no Nariagari Season 2",
             "DAH_entry_progress": {
+                "length_seconds": 3600,
                 "episode": 3,
                 "status": "Dropped"
             },
@@ -5824,6 +6778,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Kimi no Suizou wo Tabetai",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5850,7 +6806,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Koi no Uta (feat. Yuzaki Tsukasa)"
+            "DAH_entry_title": "Koi no Uta (feat. Yuzaki Tsukasa)",
+            "DAH_entry_progress": {
+                "length_seconds": 209,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-42762-1": {
@@ -5858,7 +6818,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "VOICE"
+            "DAH_entry_title": "VOICE",
+            "DAH_entry_progress": {
+                "length_seconds": 258,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-108194": {
@@ -5877,6 +6841,8 @@
         "DAH_meta": {
             "DAH_entry_title": "New Game!!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5893,7 +6859,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Sin City"
+            "DAH_entry_title": "Sin City",
+            "DAH_entry_progress": {
+                "length_seconds": 232,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-91187-35": {
@@ -5901,7 +6871,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "エンドマークに希望と涙を添えて"
+            "DAH_entry_title": "エンドマークに希望と涙を添えて",
+            "DAH_entry_progress": {
+                "length_seconds": 171,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-3305": {
@@ -5922,7 +6896,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kyukyukyun♡Heart Shaker"
+            "DAH_entry_title": "Kyukyukyun♡Heart Shaker",
+            "DAH_entry_progress": {
+                "length_seconds": 195,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-121168": {
@@ -5939,7 +6917,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Harumodoki"
+            "DAH_entry_title": "Harumodoki",
+            "DAH_entry_progress": {
+                "length_seconds": 270,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-104266-3": {
@@ -5947,7 +6929,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Do! It! Happy Daibouken!"
+            "DAH_entry_title": "Do! It! Happy Daibouken!",
+            "DAH_entry_progress": {
+                "length_seconds": 250,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-115724": {
@@ -5967,6 +6953,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yamada-kun to 7-nin no Majo (TV)",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -5983,7 +6971,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi ga Yume wo Tsuretekita"
+            "DAH_entry_title": "Kimi ga Yume wo Tsuretekita",
+            "DAH_entry_progress": {
+                "length_seconds": 257,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-110219-1": {
@@ -5991,7 +6983,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Ai no Supreme!"
+            "DAH_entry_title": "Ai no Supreme!",
+            "DAH_entry_progress": {
+                "length_seconds": 284,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-38006": {
@@ -6001,6 +6997,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
                 "episode": 10,
                 "status": "Watching"
             },
@@ -6029,6 +7026,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Re:Stage! Dream Days♪",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6045,7 +7044,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Now Loading!!!!"
+            "DAH_entry_title": "Now Loading!!!!",
+            "DAH_entry_progress": {
+                "length_seconds": 253,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-78378-1": {
@@ -6053,7 +7056,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Thank you, FRIENDS!!"
+            "DAH_entry_title": "Thank you, FRIENDS!!",
+            "DAH_entry_progress": {
+                "length_seconds": 383,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40571": {
@@ -6063,6 +7070,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Majo no Tabitabi",
             "DAH_entry_progress": {
+                "length_seconds": 7200,
                 "episode": 6,
                 "status": "Dropped"
             },
@@ -6082,6 +7090,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6107,8 +7117,14 @@
         "children": {
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah_entry_no_consumed",
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
             "DAH_entry_progress": {
+                "length_seconds": 0,
+                "episode": 0,
                 "status": "Unwatched"
             },
             "DAH_additional_sources": {
@@ -6146,7 +7162,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu"
+            "DAH_entry_title": "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu",
+            "DAH_entry_progress": {
+                "length_seconds": 146,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-100087-1": {
@@ -6154,7 +7174,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "How To Fly"
+            "DAH_entry_title": "How To Fly",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-2633": {
@@ -6174,7 +7198,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "あすいろ恋模様"
+            "DAH_entry_title": "あすいろ恋模様",
+            "DAH_entry_progress": {
+                "length_seconds": 273,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40783": {
@@ -6184,6 +7212,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shachou, Battle no Jikan Desu!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6200,7 +7230,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ループしてる"
+            "DAH_entry_title": "ループしてる",
+            "DAH_entry_progress": {
+                "length_seconds": 225,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-39790": {
@@ -6210,8 +7244,9 @@
         "DAH_meta": {
             "DAH_entry_title": "Adachi to Shimamura",
             "DAH_entry_progress": {
+                "length_seconds": 3600,
                 "episode": 3,
-                "status": "Temporarily On-Hold"
+                "status": "TempOnHold"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 39790,
@@ -6236,7 +7271,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "IDOLY PRIDE"
+            "DAH_entry_title": "IDOLY PRIDE",
+            "DAH_entry_progress": {
+                "length_seconds": 218,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-120491-1": {
@@ -6244,7 +7283,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "WONDERFUL WORLD"
+            "DAH_entry_title": "WONDERFUL WORLD",
+            "DAH_entry_progress": {
+                "length_seconds": 238,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-2645": {
@@ -6270,6 +7313,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Assault Lily: Bouquet",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6288,6 +7333,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Mahou Shoujo Madoka★Magica",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6309,6 +7356,8 @@
             ],
             "DAH_entry_title": "Hataraku Saibou",
             "DAH_entry_progress": {
+                "length_seconds": 6000,
+                "episode": 5,
                 "status": "Dropped"
             },
             "DAH_additional_sources": {
@@ -6327,7 +7376,9 @@
         "DAH_meta": {
             "DAH_entry_title": "Isekai Quartet",
             "DAH_entry_progress": {
-                "status": "Completed with noticeable boredom"
+                "length_seconds": 14400,
+                "episode": 12,
+                "status": "Completed"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 38472,
@@ -6365,6 +7416,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -6393,6 +7445,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Shiroi Suna no Aquatope",
             "DAH_entry_progress": {
+                "length_seconds": 19200,
                 "episode": 16,
                 "status": "Dropped"
             },
@@ -6442,7 +7495,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "かかわり"
+            "DAH_entry_title": "かかわり",
+            "DAH_entry_progress": {
+                "length_seconds": 265,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-109271-48": {
@@ -6450,7 +7507,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "私たち、四季を遊ぶんです!!"
+            "DAH_entry_title": "私たち、四季を遊ぶんです!!",
+            "DAH_entry_progress": {
+                "length_seconds": 274,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-45361-1": {
@@ -6458,7 +7519,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "アスイロ"
+            "DAH_entry_title": "アスイロ",
+            "DAH_entry_progress": {
+                "length_seconds": 285,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-40763": {
@@ -6468,6 +7533,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Show By Rock!! Mashumairesh!!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6486,6 +7553,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Mahou Shoujo Site",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6504,6 +7573,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~",
             "DAH_entry_progress": {
+                "length_seconds": 180000,
                 "status": "Completed"
             },
             "DAH_entry_bestGirl": "Wise Spirit"
@@ -6514,7 +7584,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimochi Signal"
+            "DAH_entry_title": "Kimochi Signal",
+            "DAH_entry_progress": {
+                "length_seconds": 253,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-112929-2": {
@@ -6522,7 +7596,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Break The System"
+            "DAH_entry_title": "Break The System",
+            "DAH_entry_progress": {
+                "length_seconds": 224,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-53719": {
@@ -6548,7 +7626,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ありがとう。"
+            "DAH_entry_title": "ありがとう。",
+            "DAH_entry_progress": {
+                "length_seconds": 254,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-30727": {
@@ -6558,6 +7640,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Saenai Heroine no Sodatekata ♭",
             "DAH_entry_progress": {
+                "length_seconds": 13200,
+                "episode": 11,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6576,6 +7660,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Mieruko-chan",
             "DAH_entry_progress": {
+                "length_seconds": 6000,
                 "episode": 5,
                 "status": "Dropped"
             },
@@ -6595,6 +7680,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Dr. Stone",
             "DAH_entry_progress": {
+                "length_seconds": 28800,
+                "episode": 24,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6620,7 +7707,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "カナリア"
+            "DAH_entry_title": "カナリア",
+            "DAH_entry_progress": {
+                "length_seconds": 196,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-39783": {
@@ -6630,6 +7721,8 @@
         "DAH_meta": {
             "DAH_entry_title": "5-toubun no Hanayome ∬",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6690,6 +7783,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Munou na Nana",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6724,6 +7819,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Net-juu no Susume",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
+                "episode": 10,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6771,6 +7868,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6787,7 +7886,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Grand Escape (Movie edit) feat, Miura Toko"
+            "DAH_entry_title": "Grand Escape (Movie edit) feat, Miura Toko",
+            "DAH_entry_progress": {
+                "length_seconds": 188,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-71404-2": {
@@ -6795,7 +7898,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "MIRACLE WAVE"
+            "DAH_entry_title": "MIRACLE WAVE",
+            "DAH_entry_progress": {
+                "length_seconds": 248,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-58147": {
@@ -6812,7 +7919,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ディアブレイブ"
+            "DAH_entry_title": "ディアブレイブ",
+            "DAH_entry_progress": {
+                "length_seconds": 259,
+                "status": "Completed"
+            }
         }
     },
     "GF-VGMDB-7059": {
@@ -6828,7 +7939,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Believing in Justice"
+            "DAH_entry_title": "Believing in Justice",
+            "DAH_entry_progress": {
+                "length_seconds": 116,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-6083": {
@@ -6895,6 +8010,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi",
             "DAH_entry_progress": {
+                "length_seconds": 180000,
                 "status": "Completed"
             }
         }
@@ -6923,6 +8039,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6941,6 +8059,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Lapis Re:LiGHTs",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -6994,7 +8114,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Dreaming!"
+            "DAH_entry_title": "Dreaming!",
+            "DAH_entry_progress": {
+                "length_seconds": 278,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-34284": {
@@ -7004,6 +8128,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
             "DAH_entry_progress": {
+                "length_seconds": 7200,
+                "episode": 6,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7020,7 +8146,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mitaiken HORIZON"
+            "DAH_entry_title": "Mitaiken HORIZON",
+            "DAH_entry_progress": {
+                "length_seconds": 319,
+                "status": "Completed"
+            }
         }
     },
     "G-VGMDB-5237": {
@@ -7039,6 +8169,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Gamers!",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7132,7 +8264,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "A song for You! You? You!!"
+            "DAH_entry_title": "A song for You! You? You!!",
+            "DAH_entry_progress": {
+                "length_seconds": 353,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-87927": {
@@ -7160,6 +8296,9 @@
             "M-22": 0.5
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Asterisk"
         }
     },
@@ -7169,6 +8308,9 @@
             "M-7": 0.5
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Magibeat"
         }
     },
@@ -7179,6 +8321,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Teppen!!!!!!!!!!!!!!!",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -7205,7 +8348,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Colorful - Magibeat Remix"
+            "DAH_entry_title": "Colorful - Magibeat Remix",
+            "DAH_entry_progress": {
+                "length_seconds": 275,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-9540": {
@@ -7226,6 +8373,9 @@
             "M-47": 0.5
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "tamame"
         }
     },
@@ -7235,6 +8385,9 @@
             "M-VGMDB-AL-44890": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Petit Rabbit's"
         }
     },
@@ -7243,7 +8396,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Colorful (tamame's apostate remix)"
+            "DAH_entry_title": "Colorful (tamame's apostate remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 321,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-38656": {
@@ -7253,6 +8410,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Darwin's Game",
             "DAH_entry_progress": {
+                "length_seconds": 13200,
+                "episode": 11,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7269,7 +8428,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "インタビュア"
+            "DAH_entry_title": "インタビュア",
+            "DAH_entry_progress": {
+                "length_seconds": 267,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-13333": {
@@ -7279,6 +8442,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tari Tari",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7308,6 +8473,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Isekai Quartet 2",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -7327,6 +8493,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7343,7 +8511,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Awakening Promise"
+            "DAH_entry_title": "Awakening Promise",
+            "DAH_entry_progress": {
+                "length_seconds": 253,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-116433-2": {
@@ -7351,7 +8523,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Luminossense"
+            "DAH_entry_title": "Luminossense",
+            "DAH_entry_progress": {
+                "length_seconds": 258,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-116433-1": {
@@ -7359,7 +8535,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "My Shining Light"
+            "DAH_entry_title": "My Shining Light",
+            "DAH_entry_progress": {
+                "length_seconds": 280,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-17342": {
@@ -7378,6 +8558,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Koe no Katachi",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7414,7 +8596,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "NEO SKY, NEO MAP!"
+            "DAH_entry_title": "NEO SKY, NEO MAP!",
+            "DAH_entry_progress": {
+                "length_seconds": 278,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-29323": {
@@ -7434,6 +8620,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Extreme Hearts",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
                 "episode": 10,
                 "status": "Watching"
             },
@@ -7451,7 +8638,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chikatto Chika Chika♡"
+            "DAH_entry_title": "Chikatto Chika Chika♡",
+            "DAH_entry_progress": {
+                "length_seconds": 178,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-35015": {
@@ -7477,7 +8668,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Mirai Wanted"
+            "DAH_entry_title": "Mirai Wanted",
+            "DAH_entry_progress": {
+                "length_seconds": 263,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-88884-1": {
@@ -7485,7 +8680,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Can now, Can now"
+            "DAH_entry_title": "Can now, Can now",
+            "DAH_entry_progress": {
+                "length_seconds": 242,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-74133-2": {
@@ -7493,7 +8692,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Light Delight"
+            "DAH_entry_title": "Light Delight",
+            "DAH_entry_progress": {
+                "length_seconds": 309,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-109367": {
@@ -7510,7 +8713,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kirameki Future"
+            "DAH_entry_title": "Kirameki Future",
+            "DAH_entry_progress": {
+                "length_seconds": 242,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-28841": {
@@ -7520,6 +8727,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Seishun no Kage",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7535,7 +8744,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "OvertuRe:"
+            "DAH_entry_title": "OvertuRe:",
+            "DAH_entry_progress": {
+                "length_seconds": 291,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-93338": {
@@ -7564,7 +8777,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "LOVELESS WORLD"
+            "DAH_entry_title": "LOVELESS WORLD",
+            "DAH_entry_progress": {
+                "length_seconds": 318,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-80253": {
@@ -7583,6 +8800,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
             "DAH_entry_progress": {
+                "length_seconds": 12000,
                 "episode": 10,
                 "status": "Watching"
             },
@@ -7602,6 +8820,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Gyakuten Sekai no Denchi Shoujo",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7620,6 +8840,8 @@
         "DAH_meta": {
             "DAH_entry_title": "The iDOLM@STER Cinderella Girls",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7638,6 +8860,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Shelter (Music)",
             "DAH_entry_progress": {
+                "length_seconds": 366,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7663,7 +8886,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Good Morning World!"
+            "DAH_entry_title": "Good Morning World!",
+            "DAH_entry_progress": {
+                "length_seconds": 249,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-116297": {
@@ -7724,6 +8951,8 @@
         "DAH_meta": {
             "DAH_entry_title": "The iDOLM@STER",
             "DAH_entry_progress": {
+                "length_seconds": 30000,
+                "episode": 25,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7742,6 +8971,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
             "DAH_entry_progress": {
+                "length_seconds": 10800,
                 "episode": 9,
                 "status": "Dropped"
             },
@@ -7761,6 +8991,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
             "DAH_entry_progress": {
+                "length_seconds": 7200,
                 "episode": 6,
                 "status": "Dropped"
             },
@@ -7780,6 +9011,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7796,7 +9029,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Azure Reunion"
+            "DAH_entry_title": "Azure Reunion",
+            "DAH_entry_progress": {
+                "length_seconds": 306,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-48415": {
@@ -7806,6 +9043,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
             "DAH_entry_progress": {
+                "length_seconds": 2400,
                 "episode": 2,
                 "status": "Dropped"
             },
@@ -7851,7 +9089,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "夜空"
+            "DAH_entry_title": "夜空",
+            "DAH_entry_progress": {
+                "length_seconds": 277,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-51706": {
@@ -7871,6 +9113,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Toji no Miko",
             "DAH_entry_progress": {
+                "length_seconds": 28800,
+                "episode": 24,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7889,6 +9133,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7916,6 +9162,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tantei wa Mou, Shindeiru.",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7943,6 +9191,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Wake Up, Girls! Shichinin no Idol",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7961,6 +9211,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Arifureta Shokugyou de Sekai Saikyou",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7979,6 +9231,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tate no Yuusha no Nariagari",
             "DAH_entry_progress": {
+                "length_seconds": 30000,
+                "episode": 25,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -7995,7 +9249,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "CheerS"
+            "DAH_entry_title": "CheerS",
+            "DAH_entry_progress": {
+                "length_seconds": 242,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-32281": {
@@ -8005,6 +9263,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Kimi no Na wa.",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8032,6 +9292,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Saenai Heroine no Sodatekata Fine",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8059,6 +9321,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Ao no Kanata no Four Rhythm",
             "DAH_entry_progress": {
+                "length_seconds": 36000,
                 "status": "Completed"
             },
             "DAH_entry_bestGirl": "Kurashina Asuka"
@@ -8071,6 +9334,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Zombieland Saga",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8089,6 +9354,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Tenki no Ko",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8105,7 +9372,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Schlehit Melodie"
+            "DAH_entry_title": "Schlehit Melodie",
+            "DAH_entry_progress": {
+                "length_seconds": 226,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-36547": {
@@ -8147,7 +9418,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "367Days"
+            "DAH_entry_title": "367Days",
+            "DAH_entry_progress": {
+                "length_seconds": 310,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-37982": {
@@ -8157,6 +9432,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Domestic na Kanojo",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8175,6 +9452,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin Season 2",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8191,7 +9470,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "U&I"
+            "DAH_entry_title": "U&I",
+            "DAH_entry_progress": {
+                "length_seconds": 276,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-47678": {
@@ -8219,6 +9502,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Bokutachi no Remake",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8237,6 +9522,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Houkago no Pleiades (TV)",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8255,6 +9542,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Isekai Cheat Magician",
             "DAH_entry_progress": {
+                "length_seconds": 9600,
                 "episode": 8,
                 "status": "Dropped"
             },
@@ -8284,6 +9572,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Selection Project",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8300,7 +9590,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "over and over"
+            "DAH_entry_title": "over and over",
+            "DAH_entry_progress": {
+                "length_seconds": 294,
+                "status": "Completed"
+            }
         }
     },
     "M-14": {
@@ -8310,6 +9604,9 @@
             "M-VGMDB-AL-104673-1": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Stellamaris"
         }
     },
@@ -8344,6 +9641,9 @@
             "M-VGMDB-AL-122926-6": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "ortensia"
         }
     },
@@ -8352,7 +9652,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Aruite Ikou!"
+            "DAH_entry_title": "Aruite Ikou!",
+            "DAH_entry_progress": {
+                "length_seconds": 264,
+                "status": "Completed"
+            }
         }
     },
     "M-12": {
@@ -8361,6 +9665,9 @@
             "M-11": 0.5
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "kamaboko"
         }
     },
@@ -8369,7 +9676,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Colorful. (kamaboko remix)"
+            "DAH_entry_title": "Colorful. (kamaboko remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 304,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-78378": {
@@ -8397,6 +9708,9 @@
             "M-VGMDB-AL-116297": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Plasmagica"
         }
     },
@@ -8408,6 +9722,9 @@
             "M-VGMDB-AL-75349": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "SPRiNGS"
         }
     },
@@ -8418,6 +9735,9 @@
             "M-VGMDB-AL-104673-4": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Tetrarkhia"
         }
     },
@@ -8427,6 +9747,9 @@
             "M-VGMDB-AL-104673-3": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "TROIS ANGES"
         }
     },
@@ -8435,7 +9758,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "CANDY MAGIC"
+            "DAH_entry_title": "CANDY MAGIC",
+            "DAH_entry_progress": {
+                "length_seconds": 276,
+                "status": "Completed"
+            }
         }
     },
     "M-19": {
@@ -8444,6 +9771,9 @@
             "M-VGMDB-AL-51278": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Tsurezurenaru Ayatsuri Mugenan"
         }
     },
@@ -8452,7 +9782,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimi no Sei"
+            "DAH_entry_title": "Kimi no Sei",
+            "DAH_entry_progress": {
+                "length_seconds": 264,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-23391-1": {
@@ -8460,7 +9794,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Connect"
+            "DAH_entry_title": "Connect",
+            "DAH_entry_progress": {
+                "length_seconds": 272,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-4000": {
@@ -8482,6 +9820,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
             "DAH_entry_progress": {
+                "length_seconds": 7200,
+                "episode": 6,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8521,6 +9861,9 @@
             "M-VGMDB-AL-104267-5": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "BUD VIRGIN LOGIC"
         }
     },
@@ -8535,6 +9878,9 @@
             "M-62": 0.30000000000000004
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Mashumairesh!!"
         }
     },
@@ -8554,6 +9900,7 @@
         "DAH_meta": {
             "DAH_entry_title": "Prima Doll",
             "DAH_entry_progress": {
+                "length_seconds": 4800,
                 "episode": 4,
                 "status": "Dropped"
             },
@@ -8580,7 +9927,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Silhouette"
+            "DAH_entry_title": "Silhouette",
+            "DAH_entry_progress": {
+                "length_seconds": 241,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-45187-1": {
@@ -8588,7 +9939,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "ripple ~my first love~"
+            "DAH_entry_title": "ripple ~my first love~",
+            "DAH_entry_progress": {
+                "length_seconds": 262,
+                "status": "Completed"
+            }
         }
     },
     "A-MAL-32038": {
@@ -8598,6 +9953,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Show By Rock!! #",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8667,7 +10024,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Colorful. (Asterisk DnB Remix)"
+            "DAH_entry_title": "Colorful. (Asterisk DnB Remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 312,
+                "status": "Completed"
+            }
         }
     },
     "F-VGMDB-6439": {
@@ -8688,6 +10049,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Hello World",
             "DAH_entry_progress": {
+                "length_seconds": 1200,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8717,6 +10080,9 @@
             "M-45": 0.45
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Will Stetson"
         }
     },
@@ -8725,7 +10091,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
+            "DAH_entry_title": "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]",
+            "DAH_entry_progress": {
+                "length_seconds": 135,
+                "status": "Completed"
+            }
         }
     },
     "M-34": {
@@ -8734,6 +10104,9 @@
             "M-35": 0.3333333333333333
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Rakakun"
         }
     },
@@ -8742,7 +10115,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Cherry Bomb"
+            "DAH_entry_title": "Cherry Bomb",
+            "DAH_entry_progress": {
+                "length_seconds": 245,
+                "status": "Completed"
+            }
         }
     },
     "M-37": {
@@ -8750,7 +10127,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
+            "DAH_entry_title": "Harumachi Clover (Swing Arrangement) [Dictate Edit]",
+            "DAH_entry_progress": {
+                "length_seconds": 36,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-47403": {
@@ -8767,7 +10148,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kuchizuke Diamond"
+            "DAH_entry_title": "Kuchizuke Diamond",
+            "DAH_entry_progress": {
+                "length_seconds": 237,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-47402": {
@@ -8795,6 +10180,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Comic Girls",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8813,6 +10200,8 @@
         "DAH_meta": {
             "DAH_entry_title": "BanG Dream!",
             "DAH_entry_progress": {
+                "length_seconds": 15600,
+                "episode": 13,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8829,7 +10218,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Brand New World"
+            "DAH_entry_title": "Brand New World",
+            "DAH_entry_progress": {
+                "length_seconds": 246,
+                "status": "Completed"
+            }
         }
     },
     "M-43": {
@@ -8837,7 +10230,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo (HAG)"
+            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo (HAG)",
+            "DAH_entry_progress": {
+                "length_seconds": 263,
+                "status": "Completed"
+            }
         }
     },
     "M-42": {
@@ -8847,6 +10244,9 @@
             "M-63": 1.0
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "H△G"
         }
     },
@@ -8855,7 +10255,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "crave"
+            "DAH_entry_title": "crave",
+            "DAH_entry_progress": {
+                "length_seconds": 275,
+                "status": "Completed"
+            }
         }
     },
     "M-41": {
@@ -8863,7 +10267,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
+            "DAH_entry_title": "Chikyuu Saigo no Kokuhaku wo (yuikonnu)",
+            "DAH_entry_progress": {
+                "length_seconds": 272,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-78339-1": {
@@ -8871,7 +10279,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "*Heart Confusion*"
+            "DAH_entry_title": "*Heart Confusion*",
+            "DAH_entry_progress": {
+                "length_seconds": 226,
+                "status": "Completed"
+            }
         }
     },
     "M-24": {
@@ -8879,7 +10291,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Kimiiro Hanabi -album version-"
+            "DAH_entry_title": "Kimiiro Hanabi -album version-",
+            "DAH_entry_progress": {
+                "length_seconds": 259,
+                "status": "Completed"
+            }
         }
     },
     "M-23": {
@@ -8892,6 +10308,9 @@
             "M-VGMDB-AL-76155": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Criticrista"
         }
     },
@@ -8900,7 +10319,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Seishun wa Non-Stop! (Asterisk DnB Remix)"
+            "DAH_entry_title": "Seishun wa Non-Stop! (Asterisk DnB Remix)",
+            "DAH_entry_progress": {
+                "length_seconds": 302,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-58750": {
@@ -8919,6 +10342,9 @@
             "M-31": 1.0
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Maware! GO! GO! CHUNITHM"
         }
     },
@@ -8927,7 +10353,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "WONDERFUL WONDER"
+            "DAH_entry_title": "WONDERFUL WONDER",
+            "DAH_entry_progress": {
+                "length_seconds": 183,
+                "status": "Completed"
+            }
         }
     },
     "M-26": {
@@ -8937,6 +10367,9 @@
             "M-29": 0.6000000000000001
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "Irodorimidori"
         }
     },
@@ -8947,6 +10380,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Shingeki no Kyojin Season 3",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8975,6 +10410,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Sakura-sou no Pet na Kanojo",
             "DAH_entry_progress": {
+                "length_seconds": 28800,
+                "episode": 24,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -8991,7 +10428,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Yukitoki"
+            "DAH_entry_title": "Yukitoki",
+            "DAH_entry_progress": {
+                "length_seconds": 269,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AL-112929": {
@@ -9010,6 +10451,8 @@
         "DAH_meta": {
             "DAH_entry_title": "Strike Witches",
             "DAH_entry_progress": {
+                "length_seconds": 14400,
+                "episode": 12,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
@@ -9027,6 +10470,9 @@
             "M-33": 1.0
         },
         "DAH_meta": {
+            "DAH_validator_suppress": [
+                "dah-entry-no-consumed"
+            ],
             "DAH_entry_title": "S"
         }
     },
@@ -9035,7 +10481,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Zero kara hajimeru Brain Power"
+            "DAH_entry_title": "Zero kara hajimeru Brain Power",
+            "DAH_entry_progress": {
+                "length_seconds": 315,
+                "status": "Completed"
+            }
         }
     },
     "M-30": {
@@ -9043,7 +10493,11 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_entry_title": "Bokura no Freedom DiVE↓"
+            "DAH_entry_title": "Bokura no Freedom DiVE↓",
+            "DAH_entry_progress": {
+                "length_seconds": 316,
+                "status": "Completed"
+            }
         }
     },
     "M-VGMDB-AR-12726": {

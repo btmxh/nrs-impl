@@ -18,7 +18,7 @@ fun DSLScope.D4DJ() {
 
             bestGirl = "Aimoto Rinku"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.75)
             FeatureMusic("M-VGMDB-AL-107257")
             FeatureMusic("M-VGMDB-AL-108580-2")
@@ -28,6 +28,7 @@ fun DSLScope.D4DJ() {
         Entry {
             id = "M-66"
             title = "Happy Around!"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-107257")
@@ -42,6 +43,7 @@ fun DSLScope.D4DJ() {
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
             SubIDEntry("3") {
                 title = "Guruguru DJ TURN!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -54,6 +56,8 @@ fun DSLScope.D4DJ() {
             ValidatorSuppress("dah-visualless-entry")
             SubIDEntry("2") {
                 title = "Brand New World" // generated(fill_music_metadata.dart v0.1.1)
+                // Length source: https://d4dj.fandom.com/wiki/Brand_New_World
+                MusicConsumedProgress("4:06") // impl_overridden
                 Music(4.0)
             }
         }

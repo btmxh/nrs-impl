@@ -22,6 +22,7 @@ fun DSLScope.Irodori() {
 
         SubIDEntry("35") {
             title = "エンドマークに希望と涙を添えて" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("2:51") // generated(fill_music_metadata.dart v0.1.1)
             Music(3.5)
             Remix("M-VGMDB-AL-93299-2")
         }
@@ -40,7 +41,7 @@ fun DSLScope.Irodori() {
             idMAL = 50267 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagi Kobotoke"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 8) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.AnimatedShort, 0.4, 0.2)
         }
 
@@ -52,6 +53,8 @@ fun DSLScope.Irodori() {
 
             SubIDEntry("2") {
                 title = "エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～" // generated(fill_music_metadata.dart v0.1.1)
+                // Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc
+                MusicConsumedProgress("4:35") // impl_overridden
 
                 Music(4.0)
             }
@@ -60,6 +63,7 @@ fun DSLScope.Irodori() {
         Entry {
             id = "M-29"
             title = "Maware! GO! GO! CHUNITHM"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
@@ -69,20 +73,25 @@ fun DSLScope.Irodori() {
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.45)
 
+                // Length source: https://osu.ppy.sh/beatmapsets/1667264
                 Music(3.0)
+                MusicConsumedProgress("5:16")
             }
 
             Entry {
                 id = "M-31"
                 title = "Zero kara hajimeru Brain Power"
 
+                // Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc
                 Music(2.5)
+                MusicConsumedProgress("5:15")
             }
         }
 
         Entry {
             id = "M-26"
             title = "Irodorimidori"
+            ValidatorSuppress("dah-entry-no-consumed")
 
             // times 0.6 because they are all covers
             Contains(MusicVocalImageContainFactor) {

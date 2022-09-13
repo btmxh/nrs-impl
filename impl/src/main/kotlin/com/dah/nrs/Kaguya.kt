@@ -18,6 +18,7 @@ fun DSLScope.Kaguya() {
 
             SubIDEntry("1") {
                 title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("2:58") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0, community = 4.0)
             }
@@ -31,6 +32,7 @@ fun DSLScope.Kaguya() {
 
             SubIDEntry("11") {
                 title = "ありがとう。" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 // the grass-touching experience
                 Music(3.5)
             }
@@ -57,7 +59,7 @@ fun DSLScope.Kaguya() {
             bestGirl = "Hayasaka Ai"
             // https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury.
 
-            Progress(Boredom.Dropped, 9)
+            AnimeProgressOld(Boredom.Dropped, 9)
             Visual(VisualKind.Animated, 0.5, 0.4)
             FeatureMusic("M-VGMDB-AL-83397-1")
             // domestic kanojo war arc
@@ -78,7 +80,8 @@ fun DSLScope.Kaguya() {
             // koukai shinai yo kimi ni deaeta koto
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            Progress(Boredom.Unwatched)
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            ValidatorSuppress("dah-entry-no-consumed")
         }
 
         Entry {
@@ -96,8 +99,9 @@ fun DSLScope.Kaguya() {
             // I want you to quietly listen to what I’ll say
             // Just for now I’ll say “goodbye” to my cowardly heart
 
-            Progress(Boredom.Unwatched)
             Visual(VisualKind.Animated, 0.5, 0.4)
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            ValidatorSuppress("dah-entry-no-consumed")
         }
     }
 }

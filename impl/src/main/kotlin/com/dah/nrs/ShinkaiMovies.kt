@@ -21,7 +21,7 @@ fun DSLScope.ShinkaiMovies() {
 
             bestGirl = "Miki Okudera"
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 
@@ -39,7 +39,7 @@ fun DSLScope.ShinkaiMovies() {
             bestGirl = "Amano Hina"
 
             Visual(VisualKind.Animated, 0.75, 0.75)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-87003")
         }
 
@@ -50,6 +50,7 @@ fun DSLScope.ShinkaiMovies() {
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
             SubIDEntry("28") {
                 title = "Grand Escape (Movie edit) feat, Miura Toko" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:08") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
                 OsuSong(personal = 4.0)
             }

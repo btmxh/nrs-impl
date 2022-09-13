@@ -35,7 +35,7 @@ fun DSLScope.SoraMethod() {
             FeatureMusic("M-VGMDB-AL-47402-1")
             FeatureMusic("M-VGMDB-AL-47403-1")
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -46,6 +46,7 @@ fun DSLScope.SoraMethod() {
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
             SubIDEntry("1") {
                 title = "Stargazer" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:06") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

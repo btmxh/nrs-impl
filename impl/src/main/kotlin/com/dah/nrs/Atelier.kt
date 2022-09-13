@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
 
 fun DSLScope.Atelier() {
     // Asuiro Koi Moyou and its consequences have been a disaster for our modern culture
@@ -68,7 +69,7 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            Progress(Boredom.Watching, 10)
+            AnimeProgressOld(Boredom.Watching, 10)
 
             // ep 10 is an absolute banger xdddddddddddddddddddd
             // (mc crying, ortensia incident, "the daughter of the life-skill god",
@@ -94,6 +95,7 @@ fun DSLScope.Atelier() {
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
             SubIDEntry("1") {
                 title = "アスイロ" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:45") // generated(fill_music_metadata.dart v0.1.1)
                 // STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT!
                 // MY FRIENDS ON TIKTOK SEND ME Rina Hidaka, ON DISCORD IT'S FUCKING Rie Marukawa!
                 // I was in a server, right? and ALL OF THE CHANNELS were just Criticrista stuff.
@@ -122,7 +124,8 @@ fun DSLScope.Atelier() {
 
             Visual(VisualKind.RPG3DGame, 0.5, 0.4)
             Visual(VisualKind.VisualNovel, 0.4, 0.3)
-            Progress(Boredom.Completed)
+            // based on ayesha since i "deleted" atelier sophie
+            ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
         }
 
         Entry {
@@ -135,7 +138,9 @@ fun DSLScope.Atelier() {
             // atelier games visual comes in two part
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
-            Progress(Boredom.Completed)
+            // it's actually something like 99hrs, but i afk'd
+            // (too lazy to turn off the pc) a lot idk
+            ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
 
             // i hate "bủ nio" (it's a meme lol)
             NEI(8.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
@@ -153,8 +158,7 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
-            ValidatorSuppress("dah-uncompleted-no-progress")
-            Progress(Boredom.Watching)
+            ConsumedProgress(EntryStatus.Completed, 1.0, 80.hours)
         }
     }
 }

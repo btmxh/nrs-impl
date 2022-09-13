@@ -20,7 +20,7 @@ fun DSLScope.Bokuben() {
             // le bang bang zenryoku i love you girl lol
             // "this is a little bit better than gotoubun"
             AEI(7.5, Emotion.AP)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-85537-1")
         }
@@ -39,7 +39,7 @@ fun DSLScope.Bokuben() {
             // "this is a little bit better than gotoubun" lmfao copy paste error
             // is what i'm thinking but fall 2019 is just another trash season lol
             AEI(7.0, Emotion.AP)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-88884-1")
         }
@@ -52,6 +52,7 @@ fun DSLScope.Bokuben() {
 
             SubIDEntry("1") {
                 title = "Seishun Seminar" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 2.0)
             }
@@ -65,6 +66,7 @@ fun DSLScope.Bokuben() {
 
             SubIDEntry("1") {
                 title = "Can now, Can now" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 1.0)
             }

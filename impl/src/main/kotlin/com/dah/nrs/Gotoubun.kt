@@ -19,7 +19,7 @@ fun DSLScope.Gotoubun() {
             // i miss yuyuyu's idke memes
             bestGirl = "Nakano Itsuki"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             // fuwa fuwa doki doki
             AEI(5.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.5)
@@ -37,7 +37,7 @@ fun DSLScope.Gotoubun() {
             // lmfao "muh yuyuyu idc"
             bestGirl = "Nakano Itsuki"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             // at first I doubted that S2 will be as good as S1
             // but it actually is
             AEI(2.5, Emotion.AP)
@@ -51,6 +51,7 @@ fun DSLScope.Gotoubun() {
 
             SubIDEntry("1") {
                 title = "Gotoubun no Kimochi" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

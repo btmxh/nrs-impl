@@ -20,7 +20,7 @@ fun DSLScope.Tanmoshi() {
             // siesta arc is shit
             // cope
             Visual(VisualKind.Animated, 0.5, 0.3)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-113531")
             FeatureMusic("M-VGMDB-AL-113660")
             KilledBy("A-MAL-41530", 0.2, 0.5)
@@ -34,6 +34,7 @@ fun DSLScope.Tanmoshi() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
                 title = "Kodou" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:31") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -45,6 +46,7 @@ fun DSLScope.Tanmoshi() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
                 title = "Koko de Ikiteru" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:22") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

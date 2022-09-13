@@ -18,6 +18,8 @@ fun DSLScope.KobayashiMaidDragon() {
 
             SubIDEntry("1") {
                 title = "青空のラプソディ" // generated(fill_music_metadata.dart v0.1.1)
+                // Length source: https://open.spotify.com/album/7AA47NCwpqemraOTWD1oCV
+                MusicConsumedProgress("4:38") // impl_overridden
                 Music(3.0)
             }
         }
@@ -30,6 +32,7 @@ fun DSLScope.KobayashiMaidDragon() {
 
             SubIDEntry("1") {
                 title = "Ai no Supreme!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 // "why is the dude singing???" - some pp mapper
                 Meme(0.05, 6)
@@ -50,7 +53,7 @@ fun DSLScope.KobayashiMaidDragon() {
 
             Visual(VisualKind.Animated, 0.6, 0.3)
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             FeatureMusic("M-VGMDB-AL-62516-1")
         }
     }

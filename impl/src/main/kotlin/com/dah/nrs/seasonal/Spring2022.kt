@@ -14,7 +14,7 @@ fun DSLScope.Spring2022() {
 
         bestGirl = "Kotone Kazairo"
 
-        Progress(Boredom.Dropped, 5)
+        AnimeProgressOld(Boredom.Dropped, 5)
         // weak character design, but the thing still looks cute
         Visual(VisualKind.Animated, 0.75, 0.3)
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
@@ -29,7 +29,7 @@ fun DSLScope.Spring2022() {
 
         bestGirl = "Ireena Litz de Olhyde"
 
-        Progress(Boredom.Dropped, 2)
+        AnimeProgressOld(Boredom.Dropped, 2)
         Visual(VisualKind.Animated, 0.5, 0.2)
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
     }
@@ -59,7 +59,7 @@ fun DSLScope.Spring2022() {
         // "... Khi viết Chiếc thuyền ngoài xa, tôi để cạnh bản thảo của mình một bức fanart của 1 anime để khơi gợi cảm hứng sáng tác. Câu nói chửi rủa của lão đàn ông chính là những suy tư sâu thẳm nhất trong tôi khi nhìn vào bức fanart ấy…"
         // Thông điệp thực sự của câu văn nằm ở cái sắc hồng này. Đối với một người như Nguyễn Minh Châu, khi nhìn vào một bức tranh với trái tim đầy thù ghét, không thể nào để ý thấy sắc hồng của đôi má. Đây chắc hẳn là màu tóc hồng của cô gái ấy. Và dựa vào sự ghét cay ghét đắng của nhà văn, đây chính là Anya từ Spy x Family, hoặc Chika từ Love Is War. Qua đó bạn đọc cảm thấy xúc động trước những tư tưởng hiện đại của tác giả. Ông đã lên án sự nổi tiếng của những bộ anime "làm bằng tiền", từ đó đề cao những bộ như Re:Stage hay Show By Rock.
         // Nếu như Tô Hoài chỉ từ 5 chữ trọng bio của _kotachi_ đã viết nên một bản trường ca Tây Bắc, thì Nguyễn Minh Châu, với một câu văn hơn hai chục chữ, đã tạo nên được biết bao lớp nghĩa ẩn hiện với biết bao ý nghĩa. Những tác phẩm ấy của họ sẽ mãi được lưu giữ trong kho tàng văn học Việt Nam cũng như là rst lore, mãi mãi bất hủ trong lòng bạn đọc.
-        Progress(Boredom.Dropped, 4)
+        AnimeProgressOld(Boredom.Dropped, 4)
         // unique art because manga, but chara design sucks
         // also fuck u boat shit
         Visual(VisualKind.Animated, 0.35, 0.5)
@@ -74,7 +74,7 @@ fun DSLScope.Spring2022() {
         idMAL = 50273 // generated(fill_anime_metadata.dart v0.1.1)
         bestGirl = "Maria Mizuse"
 
-        Progress(Boredom.Completed)
+        AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         // unique art because manga, but chara design sucks (p2)
         Visual(VisualKind.Animated, 0.2, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)

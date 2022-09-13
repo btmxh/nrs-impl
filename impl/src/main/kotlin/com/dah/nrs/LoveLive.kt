@@ -23,6 +23,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Snow halation" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 Meme(0.1, 6)
                 // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
@@ -38,6 +39,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Bokura wa Ima no Naka de" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -50,6 +52,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("2") {
                 title = "LOVELESS WORLD" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -62,6 +65,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "A song for You! You? You!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:53") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }
@@ -86,6 +90,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Aozora Jumping Heart" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -98,6 +103,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Kimeta yo Hand in Hand" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -110,6 +116,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Yuuki wa Doko ni? Kimi no Mune ni!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -122,6 +129,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("2") {
                 title = "MIRACLE WAVE" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -134,6 +142,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Thank you, FRIENDS!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("6:23") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -146,6 +155,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Mitaiken HORIZON" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:19") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -173,6 +183,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Beginner's Sailing" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -185,6 +196,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Nijiiro Passions!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -197,6 +209,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "NEO SKY, NEO MAP!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
@@ -223,21 +236,25 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "TOKIMEKI Runners" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("2") {
                 title = "Yume e no Ippo" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
             }
 
             SubIDEntry("8") {
                 title = "CHASE!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
 
             SubIDEntry("10") {
                 title = "Dokipipo☆Emotion" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -250,16 +267,19 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("10") {
                 title = "Love U my friends" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("1") {
                 title = "Kaika Sengen" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:19") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
 
             SubIDEntry("7") {
                 title = "MELODY" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -272,21 +292,25 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("12") {
                 title = "Just Believe!!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
 
             SubIDEntry("1") {
                 title = "Say Good-Bye Namida" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("3") {
                 title = "Yagate Hitotsu no Monogatari" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("7") {
                 title = "LIKE IT! LOVE IT!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:21") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.5)
                 OsuSong(personal = 3.0)
             }
@@ -300,6 +324,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("2") {
                 title = "Break The System" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -315,6 +340,7 @@ fun DSLScope.LoveLive() {
             // the first ayumu-era theme song
             SubIDEntry("1") {
                 title = "Dream with You" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.0)
                 Impact {
                     // the song is shit
@@ -336,6 +362,7 @@ fun DSLScope.LoveLive() {
 
             SubIDEntry("1") {
                 title = "Awakening Promise" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.25)
             }
         }
@@ -396,7 +423,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-36547-1")
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -411,7 +438,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-34051-1")
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -425,7 +452,7 @@ fun DSLScope.LoveLive() {
             idMAL = 24997 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -440,7 +467,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Sakurauchi Riko"
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -456,7 +483,7 @@ fun DSLScope.LoveLive() {
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -469,7 +496,7 @@ fun DSLScope.LoveLive() {
             idAniList = 100965 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37027 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -519,7 +546,7 @@ fun DSLScope.LoveLive() {
 
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(4.0, Emotion.AP)
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
@@ -543,7 +570,7 @@ fun DSLScope.LoveLive() {
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Arashi Chisato"
             seasonal = true
-            Progress(Boredom.TempOnHold, 7)
+            AnimeProgressOld(Boredom.TempOnHold, 7)
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
@@ -594,7 +621,7 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             // lol after all this time xddddddddddd
-            Progress(Boredom.Dropped, 3)
+            AnimeProgressOld(Boredom.Dropped, 3)
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         }
 
@@ -610,7 +637,8 @@ fun DSLScope.LoveLive() {
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
-            Progress(Boredom.Unwatched)
+            ValidatorSuppress("dah-entry-no-consumed")
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 
@@ -622,6 +650,10 @@ fun DSLScope.LoveLive() {
         // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
         // [Reform's Expert] +HDDT FC 417pp
         Remix("M-VGMDB-AL-34051-1")
+
+        // hmm should i pick the dt length or the normal length :tf:
+        // Length source: https://www.youtube.com/watch?v=m6bYJ17psmg
+        MusicConsumedProgress("1:56")
     }
 }
 

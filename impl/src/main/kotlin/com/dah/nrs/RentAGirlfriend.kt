@@ -17,7 +17,7 @@ fun DSLScope.RentAGirlfriend() {
             idMAL = 40839 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurasawa Sumi"
 
-            Progress(Boredom.Dropped, 1)
+            AnimeProgressOld(Boredom.Dropped, 1)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
     }

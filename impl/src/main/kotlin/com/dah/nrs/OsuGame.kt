@@ -19,11 +19,13 @@ fun DSLScope.OsuGame() {
             // the third ayumu-era theme song
             SubIDEntry("7") {
                 title = "Ascension to Heaven" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:11") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("12") {
                 title = "FREEDOM DiVE↓" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                 // not gonna rate all of the backgrounds and shit
                 Music(1.5)
                 // i'm not overstreaming 222 bpm
@@ -41,6 +43,9 @@ fun DSLScope.OsuGame() {
         // r/osuplace stuff
         Meme(0.5, 6)
         OsuSong(personal = 2.0, community = 8.0)
+
+        // Length source: https://www.youtube.com/watch?v=rnWXN8m6drc
         Music(4.0)
+        MusicConsumedProgress("4:42")
     }
 }

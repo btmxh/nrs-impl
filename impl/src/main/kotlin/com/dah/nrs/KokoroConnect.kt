@@ -18,6 +18,7 @@ fun DSLScope.KokoroConnect() {
 
             SubIDEntry("1") {
                 title = "Kimochi Signal" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -49,7 +50,7 @@ fun DSLScope.KokoroConnect() {
             idMAL = 11887 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagase Iori"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
 
@@ -64,7 +65,7 @@ fun DSLScope.KokoroConnect() {
             idMAL = 16001 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagase Iori"
 
-            Progress(Boredom.Completed)
+            AnimeProgressOld(Boredom.Completed, 4) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
     }

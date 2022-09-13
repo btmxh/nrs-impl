@@ -24,6 +24,7 @@ fun DSLScope.OneRoom() {
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
                 title = "Harumachi Clover" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:06") // generated(fill_music_metadata.dart v0.1.1)
                 // ME NO MAE NO TOBIRA O AKETARA HARU KAZE
                 // TORI TACHI MO KIGI DE MACHIAWASE
                 // KIMI E MUKAU SHINGOU AOZORA IRO
@@ -48,7 +49,7 @@ fun DSLScope.OneRoom() {
             bestGirl = "Hanasaka Yui"
             seasonal = true
 
-            Progress(Boredom.Dropped, 4)
+            AnimeProgressOld(Boredom.Dropped, 4)
             Visual(VisualKind.Animated, 0.5, 0.25)
             FeatureMusic("M-VGMDB-AL-63666-1")
         }
@@ -58,7 +59,9 @@ fun DSLScope.OneRoom() {
         id = "M-37"
         title = "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
 
+        // Length source: https://www.youtube.com/watch?v=2OfJYisHbkI
         Music(3.0)
+        MusicConsumedProgress("0:36")
         OsuSong(personal = 6.0, community = 8.0)
     }
 }
