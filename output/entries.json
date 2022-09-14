@@ -677,7 +677,7 @@
             "DAH_entry_progress": {
                 "length_seconds": 8400,
                 "episode": 7,
-                "status": "TempOnHold"
+                "status": "Temporarily On-Hold"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 41169,
@@ -2390,13 +2390,10 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_validator_suppress": [
-                "dah-uncompleted-no-progress"
-            ],
             "DAH_entry_title": "ATRI -My Dear Moments-",
             "DAH_entry_progress": {
                 "length_seconds": 36000,
-                "status": "TempOnHold"
+                "status": "Temporarily On-Hold"
             },
             "DAH_entry_bestGirl": "Atri"
         }
@@ -2762,9 +2759,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_validator_suppress": [
-                "dah-uncompleted-no-progress"
-            ],
             "DAH_entry_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
             "DAH_entry_progress": {
                 "length_seconds": 10800,
@@ -3686,7 +3680,7 @@
             "DAH_entry_progress": {
                 "length_seconds": 3600,
                 "episode": 3,
-                "status": "TempOnHold"
+                "status": "Temporarily On-Hold"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 35241,
@@ -5100,9 +5094,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_validator_suppress": [
-                "dah-uncompleted-no-progress"
-            ],
             "DAH_entry_title": "Karakai Jouzu no Takagi-san",
             "DAH_entry_progress": {
                 "length_seconds": 2400,
@@ -5476,7 +5467,7 @@
             "DAH_entry_title": "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~",
             "DAH_entry_progress": {
                 "length_seconds": 288000,
-                "status": "Completed"
+                "status": "Watching"
             },
             "DAH_entry_bestGirl": "Malier Escha"
         }
@@ -7246,7 +7237,7 @@
             "DAH_entry_progress": {
                 "length_seconds": 3600,
                 "episode": 3,
-                "status": "TempOnHold"
+                "status": "Temporarily On-Hold"
             },
             "DAH_additional_sources": {
                 "id_MyAnimeList": 39790,
@@ -7351,9 +7342,6 @@
         "children": {
         },
         "DAH_meta": {
-            "DAH_validator_suppress": [
-                "dah-uncompleted-no-progress"
-            ],
             "DAH_entry_title": "Hataraku Saibou",
             "DAH_entry_progress": {
                 "length_seconds": 6000,
@@ -8861,6 +8849,7 @@
             "DAH_entry_title": "Shelter (Music)",
             "DAH_entry_progress": {
                 "length_seconds": 366,
+                "episode": 1,
                 "status": "Completed"
             },
             "DAH_additional_sources": {
