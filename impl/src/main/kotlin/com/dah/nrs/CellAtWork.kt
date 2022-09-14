@@ -18,7 +18,6 @@ fun DSLScope.CellAtWork() {
             bestGirl = "Kesshouban" // i mean it's because the character design suck ass
 
             AnimeProgressOld(Boredom.Dropped, 5)
-            ValidatorSuppress("dah-uncompleted-no-progress")
             Visual(VisualKind.Animated, 0.4, 0.1)
             FeatureMusic("M-VGMDB-AL-77471-1")
         }

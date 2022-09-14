@@ -27,8 +27,8 @@ fun DSLEntry.Progress(status: EntryStatus, length: Duration, block: DSLMetaImpl.
     })
 }
 
-fun DSLEntry.AnimeProgress(status: EntryStatus, episodes: Int) {
-    Progress(status, AverageAnimeEpisode * episodes) {
+fun DSLEntry.AnimeProgress(status: EntryStatus, episodes: Int, episodeDuration: Duration = AverageAnimeEpisode) {
+    Progress(status, episodeDuration * episodes) {
         meta("episode", episodes)
     }
 }
@@ -66,7 +66,7 @@ fun DSLEntry.ConsumedProgress(status: EntryStatus, boredom: Double, length: Dura
     Progress(status, length)
 }
 
-fun DSLEntry.AnimeConsumedProgress(status: EntryStatus, boredom: Double, episodes: Int) {
-    AnimeConsumed(boredom, episodes)
-    AnimeProgress(status, episodes)
+fun DSLEntry.AnimeConsumedProgress(status: EntryStatus, boredom: Double, episodes: Int, episodeDuration: Duration = AverageAnimeEpisode) {
+    AnimeConsumed(boredom, episodes, episodeDuration)
+    AnimeProgress(status, episodes, episodeDuration)
 }

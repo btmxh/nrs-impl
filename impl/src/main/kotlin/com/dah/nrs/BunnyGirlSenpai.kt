@@ -18,7 +18,6 @@ fun DSLScope.BunnyGirlSenpai() {
             bestGirl = "Makinohara Shouko"
 
             AnimeProgressOld(Boredom.Dropped, 9)
-            ValidatorSuppress("dah-uncompleted-no-progress")
             // plot kinda ok
             NEI(5.0, Emotion.AP)
             Visual(VisualKind.Animated, 0.6, 0.15)

@@ -194,10 +194,8 @@ fun main() =
             // this is very sad guys
             // no pads tho
             Cry(Emotion.CU)
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
-
             // https://www.youtube.com/watch?v=fzQ6gRAEoy0
-            ConsumedProgress(EntryStatus.Completed, 1.0, 6.minutes + 6.seconds)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 6.minutes + 6.seconds)
             Visual(VisualKind.Animated, 0.65, 0.35)
         }
 
@@ -286,7 +284,6 @@ fun main() =
 
             // episodic ngl
             AnimeProgressOld(Boredom.Dropped, 2)
-            ValidatorSuppress("dah-uncompleted-no-progress")
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 

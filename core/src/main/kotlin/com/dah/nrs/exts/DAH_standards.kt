@@ -287,8 +287,8 @@ fun DSLEntry.Consumed(boredom: Double, length: Duration, block: DSLImpact.() -> 
     }
 }
 
-fun DSLEntry.AnimeConsumed(boredom: Double, episode: Int, block: DSLImpact.() -> Unit = {}) {
-    Consumed(boredom, AverageAnimeEpisode * episode, block)
+fun DSLEntry.AnimeConsumed(boredom: Double, episode: Int, episodeDuration: Duration = AverageAnimeEpisode, block: DSLImpact.() -> Unit = {}) {
+    Consumed(boredom, episodeDuration * episode, block)
 }
 
 fun DSLEntry.Dropped(block: DSLImpact.() -> Unit = {}) {
