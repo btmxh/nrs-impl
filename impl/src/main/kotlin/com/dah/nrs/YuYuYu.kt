@@ -231,5 +231,11 @@ fun DSLScope.YuYuYu() {
             AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
+
+        WaifuUnknownPeriod("Yuuki Yuuna", 20) {
+            contributors["A-MAL-25519"] = 0.4
+            contributors["A-MAL-34445"] = 0.4
+            contributors["A-MAL-42587"] = 0.2
+        }
     }
 }
