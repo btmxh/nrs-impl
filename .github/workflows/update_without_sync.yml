@@ -37,7 +37,7 @@ jobs:
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "latest-${{ GITHUB_REF_NAME }}"
-        title: Release ${{ github.run_number }}
+        title: "Release #${{ github.run_number }}"
         prerelease: false
         files: |
           output/entries.json
