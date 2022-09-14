@@ -95,7 +95,7 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            AnimeProgressOld(Boredom.Watching, 10)
+            AnimeProgressOld(Boredom.Watching, 11)
 
             // ep 10 is an absolute banger xdddddddddddddddddddd
             // (mc crying, ortensia incident, "the daughter of the life-skill god",
@@ -106,6 +106,13 @@ fun DSLScope.Atelier() {
             // (first ep)
             // NEI(3.0, Emotion.CP)
             // based atelier refused to suck rst's dick
+
+            // NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY
+            // AYESHA SCREENTIME NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY AYESHA
+            // SCREENTIME NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY AYESHA SCREENTIME
+            // NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY AYESHA SCREENTIME
+            // i love nio tạ so much wtf
+            // tfw you got called "tạ" but ended up literally carrying the franchise
 
             FeatureMusic("M-VGMDB-AL-45361-1")
 
