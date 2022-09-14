@@ -30,3 +30,19 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: 'chore(impl): :package: Update without sync'
+    - name: Upload generated files as a release
+      uses: marvinpinto/action-automatic-releases@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        title: ${{ Release github.ref }}
+        body: Auto-generated release by CI
+        prerelease: false
+        files: |
+          output/entries.json
+          output/scores.json
+          output/impacts.json
+          output/relations.json
+          output/nrs.csv
