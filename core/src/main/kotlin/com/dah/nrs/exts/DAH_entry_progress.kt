@@ -15,7 +15,7 @@ enum class EntryStatus(val oldBoredomLevelName: String) {
     Completed("Completed"),
     Watching("Watching"),
     Dropped("Dropped"),
-    OnHold("TempOnHold"),
+    OnHold("Temporarily On-Hold"),
     Unwatched("Unwatched")
 }
 
