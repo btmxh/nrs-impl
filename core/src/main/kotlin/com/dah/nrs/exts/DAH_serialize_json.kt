@@ -22,7 +22,7 @@ class DAH_serialize_json(builder: NRSContextBuilder) : Extension(builder) {
     }
 
     val json = Json {
-        prettyPrint = true
+        // prettyPrint = true
         serializersModule = SerializersModule {
             registerDAHJsonSerializers()
         }
