@@ -36,7 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "latest-${{ env.GITHUB_REF_NAME }}"
+        automatic_release_tag: "latest-${GITHUB_REF_NAME}"
         title: Release ${{ github.run_number }}
         prerelease: false
         files: |
