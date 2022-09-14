@@ -38,7 +38,6 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "latest"
         title: Release ${{ github.run_number }}
-        body: Auto-generated release by CI
         prerelease: false
         files: |
           output/entries.json
