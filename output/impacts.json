@@ -33307,13 +33307,13 @@
             0.0,
             0.0,
             0.0,
-            0.9909253476230754,
+            0.9956588811658944,
             0.0
         ],
         "DAH_meta": {
             "base_length_seconds": 14400,
             "base_score": 1.0,
-            "length_seconds": 12000,
+            "length_seconds": 13200,
             "type": "consumed"
         }
     },
