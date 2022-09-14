@@ -8,8 +8,7 @@ import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.*
 import java.time.LocalDate
 import java.time.ZoneId
-import kotlin.io.path.Path
-import kotlin.io.path.writeText
+import kotlin.io.path.*
 import kotlin.reflect.KProperty
 
 interface DSLMeta : IMeta {
@@ -196,6 +195,12 @@ fun generate(block: DSLScope.() -> Unit) {
 
     val result = ctx.process(scope.getData())
     val json = ctx.DAH_serialize_json!!.json
+    val outputDir = Path("output")
+    if (outputDir.exists() && !outputDir.isDirectory()) {
+        throw FileAlreadyExistsException(outputDir.toFile())
+    } else {
+        outputDir.createDirectory()
+    }
     json.output("impacts.json", scope.impacts.map { ctx.DAH_json_serialize(it) })
     json.output("relations.json", scope.relations.map { ctx.DAH_json_serialize(it) })
     json.output("entries.json", scope.entries.mapValues { (_, it) -> ctx.DAH_json_serialize(it) })
@@ -205,7 +210,7 @@ fun generate(block: DSLScope.() -> Unit) {
 fun stringMeta(vararg path: String) = StringMetaProperty(path.toList())
 fun intMeta(vararg path: String) = IntMetaProperty(path.toList())
 
-class StringMetaProperty(path: List<String>): MetaProperty<String>(path) {
+class StringMetaProperty(path: List<String>) : MetaProperty<String>(path) {
     override fun fromJSON(element: JsonElement): String? {
         return (element as? JsonPrimitive)?.contentOrNull
     }
@@ -215,7 +220,7 @@ class StringMetaProperty(path: List<String>): MetaProperty<String>(path) {
     }
 }
 
-class IntMetaProperty(path: List<String>): MetaProperty<Int>(path) {
+class IntMetaProperty(path: List<String>) : MetaProperty<Int>(path) {
     override fun fromJSON(element: JsonElement): Int? {
         return (element as? JsonPrimitive)?.intOrNull
     }
@@ -263,7 +268,7 @@ abstract class MetaProperty<T : Any>(private val path: List<String>) {
     }
 
     private fun getValue(j: JsonElement?, path: List<String>): JsonElement {
-        return if(path.isEmpty()) {
+        return if (path.isEmpty()) {
             j!!
         } else {
             require(j != null && j is JsonObject)
