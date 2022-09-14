@@ -781,7 +781,7 @@ fun DSLScope.SB69() {
         contributors["G-VGMDB-8429"] = 0.1
     }
 
-    AKMEraPart3(0.6) {
+    AKMEraPart3(0.4) {
         contributors["A-MAL-27441"] = 0.25
         contributors["A-MAL-32038"] = 0.3
         contributors["A-MAL-40763"] = 0.1

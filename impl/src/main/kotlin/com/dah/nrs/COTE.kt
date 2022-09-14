@@ -45,6 +45,7 @@ fun DSLScope.COTE() {
 
             bestGirl = "Sakayanagi Arisu"
             // no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl
+            // nice b8 m8
 
             // you love arisu because she's a loli
             // i love her because akm bs
