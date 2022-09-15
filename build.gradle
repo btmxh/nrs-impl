@@ -11,7 +11,8 @@ repositories {
 }
 
 task provideAdditionalAnimeIDs(type: Exec) {
-    commandLine 'python', 'scripts/anime_id_gen.py'
+    commandLine 'dart', 'run', 'scripts/fill_anime_metadata.dart', '..', '../anime-offline-database'
+    workingDir = 'nrs_mod'
 }
 
 task generate {
