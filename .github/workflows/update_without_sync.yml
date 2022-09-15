@@ -14,6 +14,9 @@ jobs:
       uses: gradle/gradle-build-action@v2
     - name: Setup Dart
       uses: dart-lang/setup-dart@v1
+    - name: Install Dart dependencies
+      run: dart pub get
+      working-directory: ./nrs_mod
     - name: Create (dummy) user-secrets.py
       run: "echo 'AOD_PATH=\"anime-offline-database/anime-offline-database-minified.json\"' > scripts/sync/services/user_secrets.py"
     - name: (Debug) cat user-secrets.py
