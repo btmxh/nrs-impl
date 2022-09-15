@@ -10,8 +10,13 @@ repositories {
     mavenCentral()
 }
 
-task provideAdditionalAnimeIDs(type: Exec) {
+task fillAnimeMetadata(type: Exec) {
     commandLine 'dart', 'run', 'scripts/fill_anime_metadata.dart', '..', '../anime-offline-database'
+    workingDir = 'nrs_mod'
+}
+
+task fillMusicMetadata(type: Exec) {
+    commandLine 'dart', 'run', 'scripts/fill_music_metadata.dart', '..'
     workingDir = 'nrs_mod'
 }
 
