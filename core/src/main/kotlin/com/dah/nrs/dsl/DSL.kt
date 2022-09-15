@@ -197,8 +197,10 @@ fun generate(block: DSLScope.() -> Unit) {
     val json = ctx.DAH_serialize_json!!.json
     val outputDir = Path("output")
     if (outputDir.exists() && !outputDir.isDirectory()) {
-        throw FileAlreadyExistsException(outputDir.toFile())
-    } else {
+        if(!outputDir.isDirectory()) {
+            throw FileAlreadyExistsException(outputDir.toFile())
+        }
+
         outputDir.createDirectory()
     }
     json.output("impacts.json", scope.impacts.map { ctx.DAH_json_serialize(it) })
