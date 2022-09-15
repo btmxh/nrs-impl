@@ -8,11 +8,6 @@ jobs:
     steps:
     - name: Checkout sources
       uses: actions/checkout@v2
-    - name: Checkout anime-offline-database
-      uses: actions/checkout@v2
-      with:
-        repository: manami-project/anime-offline-database
-        path: anime-offline-database
     - name: Setup Gradle
       uses: gradle/gradle-build-action@v2
     - name: Create (dummy) user-secrets.py
@@ -24,8 +19,6 @@ jobs:
       working-directory: ./scripts
     - name: Run Gradle task :updateWithoutSync
       run: ./gradlew updateWithoutSync
-    - name: Delete anime-offline-database
-      run: rm -rf anime-offline-database
     - name: Make commit
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
