@@ -12,4 +12,14 @@ The implementation of [nrs](https://github.com/ngoduyanh/nrs).
 nrs-impl-kt is an rating system for things like Anime, Manga, Novels, etc.
 
 This implementation also provides multiple utilities like progress tracking and syncing
-to MyAnimeList/AniList. 
+to MyAnimeList/AniList.
+
+## Structure
+
+nrs-impl-kt is divided into three modules.
+
+* `core`: This is where all of the calculation, JSON export, and NRS extensions are defined.
+* `impl`: The DSL code for this implementation. If you want to make your own NRS rankings, this is the place to do it.
+* `validator`: A program that will analyze the output JSON files, and make sure that they're all valid. This is used to detect any implementation errors.
+
+Some scripts are also provided, and they're in the `scripts/` directory.
