@@ -45,7 +45,7 @@ task syncAniList(type: Exec) {
 
 task makeCSV(type: Exec) {
     dependsOn generate
-    commandLine 'node', 'scripts/make_csv.js'
+    commandLine 'python', 'scripts/make_csv.py'
 }
 
 task updateWithoutSync {
