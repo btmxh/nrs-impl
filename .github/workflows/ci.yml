@@ -17,6 +17,8 @@ jobs:
     - name: Install Dart dependencies
       run: dart pub get
       working-directory: ./nrs_mod
+    - name: Install Python dependencies
+      run: pip install -r scripts/requirements.txt
     - name: Run Gradle task :updateWithoutSync
       run: ./gradlew updateWithoutSync
     - name: Make commit
