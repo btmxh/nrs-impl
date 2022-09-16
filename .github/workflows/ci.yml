@@ -19,6 +19,10 @@ jobs:
       with:
         python-version: '2.7'
         cache: 'pip'
+    - name: Setup VGMDB cache
+      uses: actions/cache@v3
+      with:
+        path: .vgmdb-cache
     - name: Create temp directory
       run: mkdir temp
     - name: Checkout hufman/vgmdb
