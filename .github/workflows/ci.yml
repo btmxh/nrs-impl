@@ -29,7 +29,7 @@ jobs:
     - name: Install vgmdb python dependencies
       run: pip install -r temp/vgmdb/requirements.txt
     - name: Run vgmdb API server
-      run: python run.py
+      run: python run.py &
       working-directory: temp/vgmdb
     - name: Run fill_music_metadata.dart
       run: dart run scripts/fill_music_metadata.dart .. http://0.0.0.0:9990
