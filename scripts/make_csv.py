@@ -1,6 +1,8 @@
 import unicodecsv as csv
 import json
 import sys
+if sys.version_info < (3, 0):
+    from codecs import open
 # Change this to change the CSV format
 labels = [
     "ID",
@@ -29,8 +31,6 @@ def output(id, entry, score): return [
 ] + score['overallVector']
 
 w = csv.writer(open('output/nrs.csv', 'wb'))
-if sys.version_info < (3, 0):
-    from codecs import open
 w.writerow(labels)
 entries = json.load(open('output/entries.json', encoding='utf-8'))
 scores = json.load(open('output/scores.json', encoding='utf-8'))
