@@ -14,6 +14,26 @@ jobs:
       uses: gradle/gradle-build-action@v2
     - name: Setup Dart
       uses: dart-lang/setup-dart@v1
+    - name: Setup Python 2.7
+      uses: actions/setup-python@v4
+      with:
+        python-version: '2.7'
+        cache: 'pip'
+    - name: Create temp directory
+      run: mkdir temp
+    - name: Checkout hufman/vgmdb
+      uses: actions/checkout@v2
+      with:
+        repository: 'hufman/vgmdb'
+        path: temp/vgmdb
+    - name: Install vgmdb python dependencies
+      run: pip install -r ../vgmdb/requirements.txt
+    - name: Run vgmdb API server
+      run: python run.py
+      working-directory: temp/vgmdb
+    - name: Run fill_music_metadata.dart
+      run: dart run scripts/fill_music_metadata.dart .. http://0.0.0.0:9990
+      working-directory: nrs_mod
     - name: Install Dart dependencies
       run: dart pub get
       working-directory: ./nrs_mod
