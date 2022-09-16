@@ -23,6 +23,7 @@ jobs:
       uses: actions/cache@v3
       with:
         path: .vgmdb-cache
+        key: vgmdb-cache-key
     - name: Create temp directory
       run: mkdir temp
     - name: Checkout hufman/vgmdb
