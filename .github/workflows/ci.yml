@@ -31,12 +31,12 @@ jobs:
     - name: Run vgmdb API server
       run: python run.py &
       working-directory: temp/vgmdb
-    - name: Run fill_music_metadata.dart
-      run: dart run scripts/fill_music_metadata.dart .. http://0.0.0.0:9990
-      working-directory: nrs_mod
     - name: Install Dart dependencies
       run: dart pub get
       working-directory: ./nrs_mod
+    - name: Run fill_music_metadata.dart
+      run: dart run scripts/fill_music_metadata.dart .. http://0.0.0.0:9990
+      working-directory: nrs_mod
     - name: Install Python dependencies
       run: pip install -r scripts/requirements.txt
     - name: Run Gradle task :updateWithoutSync
