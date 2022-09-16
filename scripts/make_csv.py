@@ -1,4 +1,4 @@
-import csv
+import unicodecsv as csv
 import json
 import sys
 # Change this to change the CSV format
