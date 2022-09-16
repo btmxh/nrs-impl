@@ -636,7 +636,7 @@ fun DSLScope.SB69() {
                 // "morbius is a movie of all time"
                 AKMEraPart1(1.0)
                 AKMEraPart2(1.0)
-                AKMEraPart3(0.8)
+                AKMEraPart3(0.6)
             }
         }
 

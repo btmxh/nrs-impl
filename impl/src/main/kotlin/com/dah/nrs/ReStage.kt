@@ -88,7 +88,7 @@ fun DSLScope.ReStage() {
         contributors["F-VGMDB-7059"] = 0.4
     }
 
-    AKMEraPart3(0.6) {
+    AKMEraPart3(0.8) {
         contributors["A-MAL-38009"] = 0.25
         contributors["GF-VGMDB-7059"] = 0.15
         contributors["M-VGMDB-AR-29249"] = 0.2
