@@ -588,6 +588,7 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
+                title = "ループしてる" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:45") // generated(fill_music_metadata.dart v0.1.1)
                 // :tf:
                 FesALiveMusic(2.5)
