@@ -15,6 +15,11 @@ fun DSLScope.SoraMethod() {
 
         Entry {
             id = "A-MAL-23209"
+            title = "Sora no Method" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 23209 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8337 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20672 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 23209 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Komiya Nonoka"
 
             // Drama in this anime is executed pretty well.
@@ -36,9 +41,12 @@ fun DSLScope.SoraMethod() {
 
         Entry {
             id = "M-VGMDB-AL-47402"
+            title = "Stargazer / Larval Stage Planning" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
             SubIDEntry("1") {
+                MusicConsumedProgress("5:06") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Stargazer" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }

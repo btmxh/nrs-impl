@@ -17,6 +17,7 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "M-VGMDB-AL-37999"
+            title = "Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -26,16 +27,21 @@ fun DSLScope.Oregairu() {
             }
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hello Alone" // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("2") {
+                MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hello Alone -Yui Ballade-" // generated(fill_music_metadata.dart v0.1.1)
 
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-51394"
+            title = "Everyday World / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
@@ -45,20 +51,27 @@ fun DSLScope.Oregairu() {
             }
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
+                title = "エブリデイワールド" // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("3") {
+                MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
+                title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." // generated(fill_music_metadata.dart v0.1.1)
                 
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-96290"
+            title = "Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) & Yui Yuigahama (CV: Nao Toyama)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("3:27") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Diamond no Jundo" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -95,6 +108,11 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "A-MAL-14813"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru." // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 14813 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7169 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 14813 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 14813 // generated(fill_anime_metadata.dart v0.1.1)
 
             // Brain's Base drew Yukino better than Yui
             bestGirl = "Yukinoshita Yukino"
@@ -110,6 +128,11 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "A-MAL-23847"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 23847 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8478 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20698 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 23847 // generated(fill_anime_metadata.dart v0.1.1)
 
             // feel. drew Yui better
             bestGirl = "Yuigahama Yui"
@@ -131,6 +154,11 @@ fun DSLScope.Oregairu() {
 
         Entry {
             id = "A-MAL-39547"
+            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 39547 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42194 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 108489 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 39547 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Yuigahama Yui"
             seasonal = true

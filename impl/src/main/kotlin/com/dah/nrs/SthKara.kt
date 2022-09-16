@@ -10,6 +10,11 @@ fun DSLScope.SthKara() {
 
         Entry {
             id = "A-MAL-37497"
+            title = "Irozuku Sekai no Ashita kara" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37497 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41101 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 101316 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37497 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Tsukishiro Hitomi"
 
             AnimeProgressOld(Boredom.Completed, 13)
@@ -25,10 +30,13 @@ fun DSLScope.SthKara() {
 
     Entry {
         id = "M-VGMDB-AL-80341"
+        title = "17-sai / Haruka to Miyuki" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
 
         SubIDEntry("1") {
+            MusicConsumedProgress("4:33") // generated(fill_music_metadata.dart v0.1.1)
+            title = "17-sai" // generated(fill_music_metadata.dart v0.1.1)
             Music(5.0)
         }
     }

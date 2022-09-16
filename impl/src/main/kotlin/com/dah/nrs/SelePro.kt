@@ -12,6 +12,11 @@ fun DSLScope.SelePro() {
 
         Entry {
             id = "A-MAL-44275"
+            title = "Selection Project" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 44275 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44211 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 126790 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 44275 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Koizumi Uta"
 
             Cry(Emotion.CU)
@@ -34,9 +39,12 @@ fun DSLScope.SelePro() {
 
         Entry {
             id = "M-VGMDB-AL-114102"
+            title = "SELECTION PROJECT Main Theme Song CD" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Glorious Days" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }

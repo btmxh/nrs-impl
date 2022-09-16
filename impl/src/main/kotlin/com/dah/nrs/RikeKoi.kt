@@ -13,6 +13,11 @@ fun DSLScope.RikeKoi() {
         // i'm impressed that they survived tho
         Entry {
             id = "A-MAL-38992"
+            title = "Rikei ga Koi ni Ochita no de Shoumei shitemita." // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38992 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42297 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 107067 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38992 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kotonoha Kanade" // kanaded lol
 
@@ -25,6 +30,11 @@ fun DSLScope.RikeKoi() {
         // rip
         Entry {
             id = "A-MAL-43470"
+            title = "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 43470 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43681 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 125124 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 43470 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kotonoha Kanade"
 

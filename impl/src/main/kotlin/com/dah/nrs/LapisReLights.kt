@@ -17,6 +17,11 @@ fun DSLScope.LapisReLights() {
         // (k-on sucks so it doesn't count keep coping keionfags)
         Entry {
             id = "A-MAL-37587"
+            title = "Lapis Re:LiGHTs" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37587 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41115 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 104937 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37587 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Tiara"
 
             // funny af, love live stands no chance
@@ -38,10 +43,13 @@ fun DSLScope.LapisReLights() {
 
         Entry {
             id = "M-VGMDB-AL-104957"
+            title = "700,000,000,000,000,000,000,000 no Sora de / LiGHTs" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.2)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
+                title = "700,000,000,000,000,000,000,000 no Sora de" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

@@ -18,15 +18,23 @@ fun DSLScope.NagiAsu() {
 
         Entry {
             id = "M-VGMDB-AL-45187"
+            title = "Nagi no Asukara Character Song CD3" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
             SubIDEntry("1") {
+                MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
+                title = "ripple ~my first love~" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
 
         Entry {
             id = "A-MAL-16067"
+            title = "Nagi no Asu kara" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 16067 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7370 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 16067 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 16067 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Shiodome Miuna"
             // poor best girl

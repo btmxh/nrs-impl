@@ -11,6 +11,11 @@ fun DSLScope.TariTari() {
 
         Entry {
             id = "A-MAL-13333"
+            title = "Tari Tari" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 13333 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 6941 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 13333 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 13333 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Miyamoto Konatsu"
 
