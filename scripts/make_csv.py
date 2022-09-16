@@ -1,5 +1,6 @@
 import csv
 import json
+import sys
 # Change this to change the CSV format
 labels = [
     "ID",
@@ -25,10 +26,13 @@ def output(id, entry, score): return [
     entry['DAH_meta']['DAH_entry_title'],
     score['DAH_meta']['DAH_anime_normalize']['score'],
     score['DAH_meta']['DAH_overall_score'],
-    *score['overallVector']
-]
+] + score['overallVector']
 
-w = csv.writer(open('output/nrs.csv', 'w', encoding='utf-8', newline=''))
+if sys.version_info >= (3, 0):
+    w = csv.writer(open('output/nrs.csv', 'w', encoding='utf-8', newline=''))
+else:
+    from codecs import open
+    w = csv.writer(open('output/nrs.csv', 'wb', encoding='utf-8'))
 w.writerow(labels)
 entries = json.load(open('output/entries.json', encoding='utf-8'))
 scores = json.load(open('output/scores.json', encoding='utf-8'))
