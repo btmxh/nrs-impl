@@ -11,8 +11,7 @@ The implementation of [nrs](https://github.com/ngoduyanh/nrs).
 
 nrs-impl-kt is an rating system for things like Anime, Manga, Novels, etc.
 
-This implementation also provides multiple utilities like progress tracking and syncing
-to MyAnimeList/AniList.
+To sync your NRS list with MyAnimeList/AniList, use [nrs_app](https://github.com/ngoduyanh/nrs_app)
 
 ## Structure
 
