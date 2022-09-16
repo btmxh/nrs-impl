@@ -17,10 +17,6 @@ jobs:
     - name: Install Dart dependencies
       run: dart pub get
       working-directory: ./nrs_mod
-    - name: Create (dummy) user-secrets.py
-      run: "echo 'AOD_PATH=\"anime-offline-database/anime-offline-database-minified.json\"' > scripts/sync/services/user_secrets.py"
-    - name: (Debug) cat user-secrets.py
-      run: cat scripts/sync/services/user_secrets.py
     - name: Run Gradle task :updateWithoutSync
       run: ./gradlew updateWithoutSync
     - name: Make commit
