@@ -9,17 +9,13 @@ import com.dah.nrs.exts.*
 fun DSLScope.JMetal() {
     Entry {
         id = "M-VGMDB-AR-8482"
-        title = "Foreground Eclipse" // generated(fill_music_metadata.dart v0.1.1)
 
         Entry {
             id = "M-VGMDB-AL-97601"
-            title = "Truths, Ironies, The Secret Lyrics" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.15, 0.3)
 
             SubIDEntry("1") {
-                title = "Truths, Ironies, The Secret Lyrics" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:37") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 Impact {
                     description = """this song is a cover of the famous is she owen u.n
@@ -53,27 +49,20 @@ fun DSLScope.JMetal() {
 
         Entry {
             id = "M-VGMDB-AL-43320"
-            title = "Stories That Last Through The Sleepless Nights" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains("M-VGMDB-AL-97601-1")
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("4") {
-                title = "Wandering, Never Wondering (There Exists A Shade)" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:33") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("7") {
-                title = "From Under Cover (Caught Up In A Love Song)" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:27") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
 
             // the second ayumu-era theme song
             SubIDEntry("8") {
-                title = "Storytellers" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:57") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }

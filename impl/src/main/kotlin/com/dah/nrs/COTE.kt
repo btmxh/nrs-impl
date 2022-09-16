@@ -20,16 +20,10 @@ fun DSLScope.COTE() {
 
         Entry {
             id = "A-MAL-35507"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 35507 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 13503 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 98659 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 35507 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Horikita Suzune"
             // no fuckign way she is VA'd by the glorious akari kito
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.75, 0.2)
             // plot pretty good
             AEI(5.0, Emotion.AP)
@@ -37,11 +31,6 @@ fun DSLScope.COTE() {
 
         Entry {
             id = "A-MAL-51096"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 51096 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 45925 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 145545 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 51096 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Sakayanagi Arisu"
             // no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl

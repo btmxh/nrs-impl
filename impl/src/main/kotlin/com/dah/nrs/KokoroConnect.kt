@@ -12,13 +12,10 @@ fun DSLScope.KokoroConnect() {
 
         Entry {
             id = "M-VGMDB-AL-35431"
-            title = "Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song \"Kimochi Signal\" / Kizu Random Ending Theme Song \"Cry out\"" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
             SubIDEntry("1") {
-                title = "Kimochi Signal" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -43,14 +40,8 @@ fun DSLScope.KokoroConnect() {
 
         Entry {
             id = "A-MAL-11887"
-            title = "Kokoro Connect" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 11887 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 6626 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 11887 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 11887 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagase Iori"
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
 
@@ -59,13 +50,8 @@ fun DSLScope.KokoroConnect() {
 
         Entry {
             id = "A-MAL-16001"
-            title = "Kokoro Connect: Michi Random" // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 7355 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 16001 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 16001 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagase Iori"
 
-            AnimeProgressOld(Boredom.Completed, 4) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
     }

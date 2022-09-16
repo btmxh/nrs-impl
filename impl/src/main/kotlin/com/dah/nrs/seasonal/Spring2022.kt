@@ -6,11 +6,6 @@ import com.dah.nrs.exts.*
 fun DSLScope.Spring2022() {
     Entry {
         id = "A-MAL-48363"
-        title = "RPG Fudousan" // generated(fill_anime_metadata.dart v0.1.1)
-        idAniDB = 48363 // generated(fill_anime_metadata.dart v0.1.1)
-        idKitsu = 44376 // generated(fill_anime_metadata.dart v0.1.1)
-        idAniList = 130319 // generated(fill_anime_metadata.dart v0.1.1)
-        idMAL = 48363 // generated(fill_anime_metadata.dart v0.1.1)
 
         bestGirl = "Kotone Kazairo"
 
@@ -21,11 +16,6 @@ fun DSLScope.Spring2022() {
     }
     Entry {
         id = "A-MAL-48415"
-        title = "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru" // generated(fill_anime_metadata.dart v0.1.1)
-        idAniDB = 48415 // generated(fill_anime_metadata.dart v0.1.1)
-        idKitsu = 44187 // generated(fill_anime_metadata.dart v0.1.1)
-        idAniList = 130586 // generated(fill_anime_metadata.dart v0.1.1)
-        idMAL = 48415 // generated(fill_anime_metadata.dart v0.1.1)
 
         bestGirl = "Ireena Litz de Olhyde"
 
@@ -35,11 +25,6 @@ fun DSLScope.Spring2022() {
     }
     Entry {
         id = "A-MAL-50265"
-        title = "Spy x Family" // generated(fill_anime_metadata.dart v0.1.1)
-        idAniDB = 50265 // generated(fill_anime_metadata.dart v0.1.1)
-        idKitsu = 45398 // generated(fill_anime_metadata.dart v0.1.1)
-        idAniList = 140960 // generated(fill_anime_metadata.dart v0.1.1)
-        idMAL = 50265 // generated(fill_anime_metadata.dart v0.1.1)
 
         ValidatorSuppress("dah-no-best-girl")
 
@@ -67,14 +52,8 @@ fun DSLScope.Spring2022() {
     }
     Entry {
         id = "A-MAL-50273"
-        title = "Tomodachi Game" // generated(fill_anime_metadata.dart v0.1.1)
-        idAniDB = 50273 // generated(fill_anime_metadata.dart v0.1.1)
-        idKitsu = 45401 // generated(fill_anime_metadata.dart v0.1.1)
-        idAniList = 141014 // generated(fill_anime_metadata.dart v0.1.1)
-        idMAL = 50273 // generated(fill_anime_metadata.dart v0.1.1)
         bestGirl = "Maria Mizuse"
 
-        AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         // unique art because manga, but chara design sucks (p2)
         Visual(VisualKind.Animated, 0.2, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)

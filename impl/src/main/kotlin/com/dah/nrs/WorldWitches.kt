@@ -10,29 +10,17 @@ fun DSLScope.WorldWitches() {
 
         Entry {
             id = "A-MAL-3667"
-            title = "Strike Witches" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 3667 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 3179 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 3667 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 3667 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Eila Ilmatar Juutilainen"
             // "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..."
             // haha 15 funny amirite
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.2, 0.75)
         }
 
         Entry {
             id = "A-MAL-38006"
-            title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
-                "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 38006 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44227 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 103118 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 38006 // generated(fill_anime_metadata.dart v0.1.1)
 
             // mc is cute
             // ngl this is a treat for our eyes
@@ -57,31 +45,23 @@ fun DSLScope.WorldWitches() {
 
         Entry {
             id = "M-VGMDB-AL-116433"
-            title = "My Shining Light / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
             SubIDEntry("1") {
-                title = "My Shining Light" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:40") // generated(fill_music_metadata.dart v0.1.1)
                 // the "azure reunion" of asuiro clear sky
                 Music(7.0)
             }
 
             SubIDEntry("2") {
-                title = "Luminossense" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-120491"
-            title = "WONDERFUL WORLD / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.75, 0.15)
 
             SubIDEntry("1") {
-                title = "WONDERFUL WORLD" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:58") // generated(fill_music_metadata.dart v0.1.1)
 
                 Music(4.0)
             }
@@ -89,12 +69,9 @@ fun DSLScope.WorldWitches() {
 
         Entry {
             id = "M-VGMDB-AL-120492"
-            title = "Watashi to Minna no Uta / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             SubIDEntry("1") {
-                title = "Watashi to Minna no Uta" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:24") // generated(fill_music_metadata.dart v0.1.1)
 
                 Music(4.0)
             }

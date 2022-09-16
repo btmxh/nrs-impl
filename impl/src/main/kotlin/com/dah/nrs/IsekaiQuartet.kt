@@ -10,11 +10,6 @@ fun DSLScope.IsekaiQuartet() {
 
         Entry {
             id = "A-MAL-38472"
-            title = "Isekai Quartet" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 38472 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 42032 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 104454 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 38472 // generated(fill_anime_metadata.dart v0.1.1)
             // selecting bestGirl of this anime be like
             // template: https://imgflip.com/memetemplate/294461925/Two-Guys-Fighting-then-One-Guy-Kills-Them
             // caption:
@@ -24,16 +19,10 @@ fun DSLScope.IsekaiQuartet() {
             bestGirl = "Ram"
 
             Visual(VisualKind.Animated, 0.3, 0.5)
-            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
             id = "A-MAL-39988"
-            title = "Isekai Quartet 2" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 39988 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 42410 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 110178 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 39988 // generated(fill_anime_metadata.dart v0.1.1)
 
             // if there is someone that murakawa rie loses to,
             // then it must be 𝐓𝐇𝐄 𝐆𝐈𝐆𝐀𝐂𝐇𝐀𝐃 𝐒𝐄𝐈𝐘𝐔𝐔,

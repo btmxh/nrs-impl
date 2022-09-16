@@ -11,17 +11,11 @@ fun DSLScope.TariTari() {
 
         Entry {
             id = "A-MAL-13333"
-            title = "Tari Tari" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 13333 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 6941 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 13333 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 13333 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Miyamoto Konatsu"
 
             // pa works is the best atmospheric farmer
             Cry(Emotion.CU)
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 0.5)

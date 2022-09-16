@@ -16,28 +16,22 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "M-VGMDB-AL-47678"
-            title = "Aurora Days / Sanshuu Chuugaku Yuushabu" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1") {
-                title = "Aurora Days" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-114186"
-            title = "Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
             // the glorious udon stream map
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
             SubIDEntry("2") {
-                title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:12") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 3.0)
             }
@@ -82,11 +76,6 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "A-MAL-25519"
-            title = "Yuuki Yuuna wa Yuusha de Aru" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 25519 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 8638 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 20800 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 25519 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuuki Yuuna"
             // The Itsuki thing made me cry I guess, but there's no PADS.
             // YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE
@@ -106,7 +95,6 @@ fun DSLScope.YuYuYu() {
             // (only the ending tho)
             AEI(2.5, Emotion.CU)
             Visual(VisualKind.Animated, 0.3, 0.5)
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
         }
 
         Entry {
@@ -157,11 +145,6 @@ fun DSLScope.YuYuYu() {
 
         Entry {
             id = "A-MAL-34284"
-            title = "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 34284 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 12678 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 100791 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 34284 // generated(fill_anime_metadata.dart v0.1.1)
             // this was not taken very seriously
 
             // she looked like best girl ngl
@@ -173,17 +156,11 @@ fun DSLScope.YuYuYu() {
             // but my pepega ass doesn't watch this shit properly ffs
             NEI(5.0, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 6) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
         Entry {
             id = "A-MAL-34445"
-            title = "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 34445 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 13160 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 97769 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 34445 // generated(fill_anime_metadata.dart v0.1.1)
             // "The Michi Random of Yuuki Yuuna"
             bestGirl = "Yuuki Yuuna"
 
@@ -198,17 +175,11 @@ fun DSLScope.YuYuYu() {
             //                  yuyuyu reference !!!11!!1
             AEI(3.0, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 6) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
         Entry {
             id = "A-MAL-42587"
-            title = "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 42587 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44333 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 122292 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 42587 // generated(fill_anime_metadata.dart v0.1.1)
 
             seasonal = true
             bestGirl = "Yuuki Yuuna"
@@ -228,7 +199,6 @@ fun DSLScope.YuYuYu() {
 
             FeatureMusic("M-VGMDB-AL-114186-2")
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 

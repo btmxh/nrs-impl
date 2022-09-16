@@ -17,13 +17,10 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-34051"
-            title = "Snow halation / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.1, 0.5)
 
             SubIDEntry("1") {
-                title = "Snow halation" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 Meme(0.1, 6)
                 // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
@@ -33,46 +30,36 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-36547"
-            title = "Bokura wa Ima no Naka de / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Bokura wa Ima no Naka de" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-75504"
-            title = "Music S.T.A.R.T!! / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("2") {
-                title = "LOVELESS WORLD" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("5:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-93532"
-            title = "A song for You! You? You!! / μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "A song for You! You? You!!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("5:53") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-13719"
-            title = "μ's" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-34051")
@@ -84,78 +71,60 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-58147"
-            title = "Aozora Jumping Heart / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Aozora Jumping Heart" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-58750"
-            title = "Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu! / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Kimeta yo Hand in Hand" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-70622"
-            title = "Yuuki wa Doko ni? Kimi no Mune ni! / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Yuuki wa Doko ni? Kimi no Mune ni!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-71404"
-            title = "MY MAI☆TONIGHT/MIRACLE WAVE / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("2") {
-                title = "MIRACLE WAVE" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-78378"
-            title = "Thank you, FRIENDS!! / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Thank you, FRIENDS!!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("6:23") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-87199"
-            title = "Mitaiken HORIZON / Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Mitaiken HORIZON" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("5:19") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -163,7 +132,6 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AR-17153"
-            title = "Aqours" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-58147")
@@ -177,46 +145,36 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-97692"
-            title = "LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
-                title = "Beginner's Sailing" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-102276"
-            title = "Nijiiro Passions! / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
-                title = "Nijiiro Passions!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-102277"
-            title = "NEO SKY, NEO MAP! / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
-                title = "NEO SKY, NEO MAP!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-29922"
-            title = "Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-102276")
@@ -230,87 +188,62 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-80802"
-            title = "TOKIMEKI Runners / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("1") {
-                title = "TOKIMEKI Runners" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("2") {
-                title = "Yume e no Ippo" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
             }
 
             SubIDEntry("8") {
-                title = "CHASE!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
 
             SubIDEntry("10") {
-                title = "Dokipipo☆Emotion" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-87198"
-            title = "Love U my friends / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("10") {
-                title = "Love U my friends" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
 
             SubIDEntry("1") {
-                title = "Kaika Sengen" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:19") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
 
             SubIDEntry("7") {
-                title = "MELODY" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-99272"
-            title = "Just Believe!!! / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("12") {
-                title = "Just Believe!!!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
 
             SubIDEntry("1") {
-                title = "Say Good-Bye Namida" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("3") {
-                title = "Yagate Hitotsu no Monogatari" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
 
             SubIDEntry("7") {
-                title = "LIKE IT! LOVE IT!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:21") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.5)
                 OsuSong(personal = 3.0)
             }
@@ -318,20 +251,16 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-112929"
-            title = "L!L!L! (Love the Life We Live) / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
             SubIDEntry("2") {
-                title = "Break The System" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:44") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-102281"
-            title = "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Setsuna Yuki Edition]" // generated(fill_music_metadata.dart v0.1.1)
                     " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
                     " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
 
@@ -339,8 +268,6 @@ fun DSLScope.LoveLive() {
 
             // the first ayumu-era theme song
             SubIDEntry("1") {
-                title = "Dream with You" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.0)
                 Impact {
                     // the song is shit
@@ -356,20 +283,16 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-104783"
-            title = "Awakening Promise/Yume ga Koko kara Hajimaru yo / Nijigasaki High School Idol Club" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
             SubIDEntry("1") {
-                title = "Awakening Promise" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.25)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-37385"
-            title = "Liella!" // generated(fill_music_metadata.dart v0.1.1)
             // Liella hasn't got any notable songs
             // also they got fucked in the rst-sb69 duopoly era because
             // rst is a fucking nazi
@@ -415,88 +338,52 @@ fun DSLScope.LoveLive() {
         // Anime
         Entry {
             id = "A-MAL-15051"
-            title = "Love Live! School Idol Project" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 15051 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 7203 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 15051 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 15051 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-36547-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-19111"
-            title = "Love Live! School Idol Project 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 19111 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 7871 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 19111 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 19111 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-34051-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-24997"
-            title = "Love Live! The School Idol Movie" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 24997 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 8531 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 20766 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 24997 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-32526"
-            title = "Love Live! Sunshine!!" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 32526 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 11745 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 21584 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 32526 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-34973"
-            title = "Love Live! Sunshine!! 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 34973 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 13299 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 98349 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 34973 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-37027"
-            title = "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 37027 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 14188 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 100965 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 37027 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -536,17 +423,11 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-40879"
-            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 40879 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 42872 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 113970 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 40879 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Uehara Ayumu"
             seasonal = true
 
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(4.0, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
@@ -562,11 +443,6 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-41169"
-            title = "Love Live! Superstar!!" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 41169 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44124 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 114979 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 41169 // generated(fill_anime_metadata.dart v0.1.1)
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Arashi Chisato"
             seasonal = true
@@ -608,11 +484,6 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-48916"
-            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 48916 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44537 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 133891 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 48916 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kanata Konoe"
 
@@ -627,18 +498,12 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-50203"
-            title = "Love Live! Superstar!! 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 50203 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 45360 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 140642 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 50203 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Arashi Chisato"
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
             ValidatorSuppress("dah-entry-no-consumed")
-            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
         }
     }
 
