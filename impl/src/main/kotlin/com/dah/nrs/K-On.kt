@@ -96,7 +96,7 @@ fun DSLScope.`K-On`() {
             idMAL = 5680 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
-            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 13)
             `K-OnVisual`(VisualKind.Animated)
         }
 
@@ -109,7 +109,7 @@ fun DSLScope.`K-On`() {
             idMAL = 7791 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
-            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 26) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 26)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
             `K-OnVisual`(VisualKind.Animated)
@@ -124,7 +124,7 @@ fun DSLScope.`K-On`() {
             idMAL = 9617 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nakano Azusa"
 
-            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 1)
             FeatureMusic("M-VGMDB-AL-21146-9")
             `K-OnVisual`(VisualKind.Animated)
         }

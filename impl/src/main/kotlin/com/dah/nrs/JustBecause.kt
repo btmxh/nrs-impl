@@ -17,7 +17,7 @@ fun DSLScope.JustBecause() {
             idMAL = 35639 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Natsume Mio"
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             // Pretty decent drama
             AEI(5.0, Emotion.CU)
             FeatureMusic("M-VGMDB-AL-70716-1")

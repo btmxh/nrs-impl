@@ -52,7 +52,7 @@ fun DSLScope.Saekano() {
 
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -65,7 +65,7 @@ fun DSLScope.Saekano() {
             idAniList = 21180 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30727 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Megumi Kato"
-            AnimeProgressOld(Boredom.Completed, 11) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 11)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -80,7 +80,7 @@ fun DSLScope.Saekano() {
             bestGirl = "Megumi Kato"
             // humor
             NEI(2.5, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             Visual(VisualKind.Animated, 0.55, 0.3)
         }
     }

@@ -17,7 +17,7 @@ fun DSLScope.Arifureta() {
             idMAL = 36882 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yue"
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
 
             // MC got dumped by his friends made me kinda angry
             NEI(2.5, Emotion.AU)

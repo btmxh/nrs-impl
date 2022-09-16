@@ -32,7 +32,7 @@ fun DSLScope.Sakurasou() {
             // inspiration for me to learn programming
             // (see NewGame.kt)
 
-            AnimeProgressOld(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 24)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             FeatureMusic("M-VGMDB-AL-35015-1")

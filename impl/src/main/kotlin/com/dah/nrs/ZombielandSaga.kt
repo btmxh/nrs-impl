@@ -18,7 +18,7 @@ fun DSLScope.ZombielandSaga() {
 
             // kinda funny
             AEI(5.0, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 

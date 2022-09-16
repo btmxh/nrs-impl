@@ -53,7 +53,7 @@ fun DSLScope.Chuunibyou() {
             // idk why
             // this is taken from NRS1
             Meme(0.15, 2)
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
         }
 
         Entry {
@@ -69,7 +69,7 @@ fun DSLScope.Chuunibyou() {
             AEI(10.0, Emotion.CU)
             // Shichimiya memes
             Meme(0.4, 10)
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.6, 0.2)
 
             FeatureMusic("M-VGMDB-AL-42762-1")
@@ -83,7 +83,7 @@ fun DSLScope.Chuunibyou() {
             idAniList = 98762 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35608 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nibutani Shinka"
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later
             NEI(7.5, Emotion.AP)

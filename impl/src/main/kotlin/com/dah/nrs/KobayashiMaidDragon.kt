@@ -53,7 +53,7 @@ fun DSLScope.KobayashiMaidDragon() {
 
             Visual(VisualKind.Animated, 0.6, 0.3)
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             FeatureMusic("M-VGMDB-AL-62516-1")
         }
     }

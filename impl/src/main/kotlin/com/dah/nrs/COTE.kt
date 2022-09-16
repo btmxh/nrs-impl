@@ -29,7 +29,7 @@ fun DSLScope.COTE() {
             bestGirl = "Horikita Suzune"
             // no fuckign way she is VA'd by the glorious akari kito
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.75, 0.2)
             // plot pretty good
             AEI(5.0, Emotion.AP)

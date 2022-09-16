@@ -45,7 +45,7 @@ fun DSLScope.YLIA() {
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 
-            AnimeProgressOld(Boredom.Completed, 22) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 22)
         }
 
         Entry {

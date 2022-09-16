@@ -20,7 +20,7 @@ fun DSLScope.WorldWitches() {
             // "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..."
             // haha 15 funny amirite
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.2, 0.75)
         }

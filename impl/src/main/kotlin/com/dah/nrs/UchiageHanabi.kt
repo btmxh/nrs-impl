@@ -22,7 +22,7 @@ fun DSLScope.UchiageHanabi() {
 
             bestGirl = "Oikawa Nazuna"
 
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
 
             FeatureMusic("M-VGMDB-AL-69257-1")
             Visual(VisualKind.Animated, 0.4, 0.5)
