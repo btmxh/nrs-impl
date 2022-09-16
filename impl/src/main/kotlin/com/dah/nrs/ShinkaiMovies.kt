@@ -11,11 +11,6 @@ fun DSLScope.ShinkaiMovies() {
 
         Entry {
             id = "A-MAL-32281"
-            title = "Kimi no Na wa." // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 32281 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 11614 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 21519 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 32281 // generated(fill_anime_metadata.dart v0.1.1)
 
             Visual(VisualKind.Animated, 0.75, 0.75)
 
@@ -31,11 +26,6 @@ fun DSLScope.ShinkaiMovies() {
 
         Entry {
             id = "A-MAL-38826"
-            title = "Tenki no Ko" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 38826 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 42028 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 106286 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 38826 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Amano Hina"
 
             Visual(VisualKind.Animated, 0.75, 0.75)
@@ -45,12 +35,9 @@ fun DSLScope.ShinkaiMovies() {
 
         Entry {
             id = "M-VGMDB-AL-87003"
-            title = "Tenki no Ko / RADWIMPS" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
             SubIDEntry("28") {
-                title = "Grand Escape (Movie edit) feat, Miura Toko" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:08") // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
                 OsuSong(personal = 4.0)
             }

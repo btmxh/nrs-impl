@@ -10,11 +10,6 @@ fun DSLScope.JustBecause() {
 
         Entry {
             id = "A-MAL-35639"
-            title = "Just Because!" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 35639 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 13530 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 98820 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 35639 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Natsume Mio"
 
             AnimeProgressOld(Boredom.Completed, 12)

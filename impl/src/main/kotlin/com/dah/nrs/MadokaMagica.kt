@@ -14,36 +14,27 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "M-VGMDB-AL-30302"
-            title = "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
-                title = "Mata Ashita" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:27") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-24725"
-            title = "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("4") {
-                title = "Believing in Justice" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("1:56") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-39170"
-            title = "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             SubIDEntry("2") {
-                title = "and I'm home" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("2:50") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -53,13 +44,10 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "M-VGMDB-AL-113295"
-            title = "TV Anime \"Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
-                title = "ケアレス" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -68,26 +56,20 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "M-VGMDB-AL-95029"
-            title = "Gomakashi / TrySail" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
-                title = "Gomakashi" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:11") // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-91985"
-            title = "Utsuroi / TrySail" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             SubIDEntry("1") {
-                title = "Utsuroi" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:49") // generated(fill_music_metadata.dart v0.1.1)
                 // the game
                 // browiec's Wisdom
                 // Misunderstanding
@@ -105,11 +87,6 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-9756"
-            title = "Mahou Shoujo Madoka★Magica" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 9756 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 5853 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 9756 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 9756 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kaname Madoka"
 
@@ -131,10 +108,6 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-11981"
-            title = "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari" // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 6638 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 11981 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 11981 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kaname Madoka"
             // I can't understand this movie lol
@@ -196,11 +169,6 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-38256"
-            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 38256 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 42016 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 104051 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 38256 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Tamaki Iroha"
             seasonal = true
@@ -221,11 +189,6 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-41530"
-            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 41530 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 43090 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 117002 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 41530 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Tamaki Iroha"
             seasonal = true
@@ -248,11 +211,6 @@ fun DSLScope.MadokaMagica() {
 
         Entry {
             id = "A-MAL-49291"
-            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 49291 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44813 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 136080 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 49291 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Tamaki Iroha"
             seasonal = true

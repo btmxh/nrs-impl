@@ -29,11 +29,6 @@ fun DSLScope.NewGame() {
 
         Entry {
             id = "A-MAL-31953"
-            title = "New Game!" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 31953 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 11467 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 21455 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 31953 // generated(fill_anime_metadata.dart v0.1.1)
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Iijima Yun"
 
@@ -45,11 +40,6 @@ fun DSLScope.NewGame() {
 
         Entry {
             id = "A-MAL-34914"
-            title = "New Game!!" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 34914 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 13236 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 98292 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 34914 // generated(fill_anime_metadata.dart v0.1.1)
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Suzukaze Aoba"
 
@@ -72,12 +62,9 @@ fun DSLScope.NewGame() {
 
         Entry {
             id = "M-VGMDB-AL-58627"
-            title = "Now Loading!!!! / fourfolium" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             SubIDEntry("1") {
-                title = "Now Loading!!!!" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 4.0)
             }
@@ -85,12 +72,9 @@ fun DSLScope.NewGame() {
 
         Entry {
             id = "M-VGMDB-AL-68225"
-            title = "STEP by STEP UP↑↑↑↑ / fourfolium" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             SubIDEntry("1") {
-                title = "STEP by STEP UP↑↑↑↑" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
                 // mankai step by step
                 // this song is legendary af
                 Music(5.0)
