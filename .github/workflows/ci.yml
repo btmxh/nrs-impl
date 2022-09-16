@@ -1,4 +1,4 @@
-name: Update without sync
+name: Fill metadata & Release output files
 
 on: [push, workflow_dispatch]
 
@@ -28,10 +28,12 @@ jobs:
       run: ./gradlew updateWithoutSync
     - name: Make commit
       uses: stefanzweifel/git-auto-commit-action@v4
+      if: ${{ !contains(github.ref, 'refs/pull') }}
       with:
-        commit_message: 'chore(impl): :package: Update without sync'
+        commit_message: 'chore(impl): :bookmark: Filled metadata'
     - name: Upload generated files as a release
       uses: marvinpinto/action-automatic-releases@latest
+      if: ${{ !contains(github.ref, 'refs/pull') }}
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
