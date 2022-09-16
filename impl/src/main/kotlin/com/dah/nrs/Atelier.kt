@@ -59,6 +59,11 @@ fun DSLScope.Atelier() {
 
         Entry {
             id = "A-MAL-21167"
+            title = "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 21167 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8091 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20506 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 21167 // generated(fill_anime_metadata.dart v0.1.1)
             // aka "Escha & Logy no Atelier: Akogare no Future no Sign"
 
             // I really love Kano. Like, a lot. Like, a whole lot. You have no idea.
@@ -119,9 +124,12 @@ fun DSLScope.Atelier() {
 
         Entry {
             id = "M-VGMDB-AL-45361"
+            title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
             SubIDEntry("1") {
+                title = "アスイロ" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:45") // generated(fill_music_metadata.dart v0.1.1)
                 // STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT!
                 // MY FRIENDS ON TIKTOK SEND ME Rina Hidaka, ON DISCORD IT'S FUCKING Rie Marukawa!
                 // I was in a server, right? and ALL OF THE CHANNELS were just Criticrista stuff.

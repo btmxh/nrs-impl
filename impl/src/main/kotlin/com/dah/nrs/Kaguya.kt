@@ -13,9 +13,12 @@ fun DSLScope.Kaguya() {
 
         Entry {
             id = "M-VGMDB-AL-83397"
+            title = "Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
+                title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("2:58") // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0, community = 4.0)
             }
@@ -23,10 +26,13 @@ fun DSLScope.Kaguya() {
 
         Entry {
             id = "M-VGMDB-AL-116977"
+            title = "KAGUYA ♡ ULTRA BEST" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("11") {
+                title = "ありがとう。" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 // the grass-touching experience
                 Music(3.5)
             }
@@ -45,6 +51,11 @@ fun DSLScope.Kaguya() {
 
         Entry {
             id = "A-MAL-37999"
+            title = "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37999 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41373 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 101921 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37999 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hayasaka Ai"
             // https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury.
 
@@ -59,16 +70,27 @@ fun DSLScope.Kaguya() {
         // also the funny rina hidaka girl too lmfao
         Entry {
             id = "A-MAL-40591"
+            title = "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 40591 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42632 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 112641 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 40591 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kobachi Osaragi" // aka the mf who 'first learned why “Love is War”'
             // tatoe asu de sekai ga owattemo
             // koukai shinai yo kimi ni deaeta koto
 
             Visual(VisualKind.Animated, 0.5, 0.4)
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
             ValidatorSuppress("dah-entry-no-consumed")
         }
 
         Entry {
             id = "A-MAL-43608"
+            title = "Kaguya-sama wa Kokurasetai: Ultra Romantic" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 43608 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43691 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 125367 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 43608 // generated(fill_anime_metadata.dart v0.1.1)
             // imagine almost every anime losing to this shit lol y'all sucks (the MAL top 2 thing)
             // (rst still better copium)
 
@@ -78,6 +100,7 @@ fun DSLScope.Kaguya() {
             // Just for now I’ll say “goodbye” to my cowardly heart
 
             Visual(VisualKind.Animated, 0.5, 0.4)
+            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
             ValidatorSuppress("dah-entry-no-consumed")
         }
     }

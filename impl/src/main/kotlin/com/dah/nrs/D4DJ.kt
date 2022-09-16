@@ -10,9 +10,15 @@ fun DSLScope.D4DJ() {
 
         Entry {
             id = "A-MAL-39681"
+            title = "D4DJ: First Mix" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 39681 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43557 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 115069 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 39681 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Aimoto Rinku"
 
+            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.4, 0.75)
             FeatureMusic("M-VGMDB-AL-107257")
             FeatureMusic("M-VGMDB-AL-108580-2")
@@ -32,9 +38,12 @@ fun DSLScope.D4DJ() {
 
         Entry {
             id = "M-VGMDB-AL-107257"
+            title = "Guruguru DJ TURN!! / Happy Around!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
             SubIDEntry("3") {
+                title = "Guruguru DJ TURN!!" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -42,9 +51,11 @@ fun DSLScope.D4DJ() {
         // wtf
         Entry {
             id = "M-VGMDB-AL-108580"
+            title = "D4DJ Special Disc Photon Maiden Ver." // generated(fill_music_metadata.dart v0.1.1)
 
             ValidatorSuppress("dah-visualless-entry")
             SubIDEntry("2") {
+                title = "Brand New World" // generated(fill_music_metadata.dart v0.1.1)
                 // Length source: https://d4dj.fandom.com/wiki/Brand_New_World
                 MusicConsumedProgress("4:06") // impl_overridden
                 Music(4.0)

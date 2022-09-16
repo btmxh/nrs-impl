@@ -11,6 +11,11 @@ fun DSLScope.ToniKawa() {
 
         Entry {
             id = "A-MAL-41389"
+            title = "Tonikaku Kawaii" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 41389 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 43034 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 116267 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 41389 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzaki Tsukasa"
 
             Visual(VisualKind.Animated, 0.4, 0.6)
@@ -21,9 +26,12 @@ fun DSLScope.ToniKawa() {
 
         Entry {
             id = "M-VGMDB-AL-104618"
+            title = "Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
             SubIDEntry("1") {
+                title = "Koi no Uta (feat. Yuzaki Tsukasa)" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:29") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }

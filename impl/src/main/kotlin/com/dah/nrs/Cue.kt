@@ -16,6 +16,11 @@ fun DSLScope.Cue() {
         // the futuRe: of gen2
         Entry {
             id = "A-MAL-43735"
+            title = "Cue!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 43735 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44979 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 125682 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 43735 // generated(fill_anime_metadata.dart v0.1.1)
             // rst has re:lighted the stage
             // and now, its juniors will take the stage to the next level
             // introducing, sb69 stars and cue!
@@ -38,6 +43,7 @@ fun DSLScope.Cue() {
             // comedy was weak ngl
             NEI(5.0, Emotion.AP)
 
+            AnimeProgressOld(Boredom.Completed, 24) // generated(fill_anime_metadata.dart v0.1.1)
             Visual(VisualKind.Animated, 0.5, 0.2)
 
             FeatureMusic("M-VGMDB-AL-115724")
@@ -49,20 +55,26 @@ fun DSLScope.Cue() {
 
         Entry {
             id = "M-VGMDB-AL-115724"
+            title = "Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
             SubIDEntry("1") {
+                title = "スタートライン" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("5:42") // generated(fill_music_metadata.dart v0.1.1)
                 Music(7.0)
             }
 
             SubIDEntry("2") {
+                title = "はじまりの鐘の音が鳴り響く空" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
 
         Entry {
             id = "M-VGMDB-AR-33857"
+            title = "AiRBLUE" // generated(fill_music_metadata.dart v0.1.1)
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-115724")

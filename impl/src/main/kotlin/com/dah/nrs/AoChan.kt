@@ -10,6 +10,11 @@ fun DSLScope.AoChan() {
 
         Entry {
             id = "A-MAL-38778"
+            title = "Midara na Ao-chan wa Benkyou ga Dekinai" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38778 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42024 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 105989 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38778 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Horie Ao"
             AnimeProgressOld(Boredom.Dropped, 3)
             Visual(VisualKind.AnimatedShort, 0.6, 0.4)
@@ -18,10 +23,13 @@ fun DSLScope.AoChan() {
 
         Entry{
             id = "M-VGMDB-AL-85759"
+            title = "WONDERFUL WONDER / EDOGA-SULLIVAN" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
             // simple heart dt
             SubIDEntry("1") {
+                title = "WONDERFUL WONDER" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:03") // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
                 OsuSong(personal = 4.0, community = 2.0)
             }
