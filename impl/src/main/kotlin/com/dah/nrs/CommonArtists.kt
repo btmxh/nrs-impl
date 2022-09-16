@@ -298,7 +298,7 @@ fun DSLScope.CommonArtists() {
                 title = "Colorful (tamame's apostate remix)"
 
                 // Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393
-                MusicConsumedProgress("5:21")
+                MusicConsumedProgress("5:21") // impl_overridden
                 Music(6.5)
             }
 
@@ -307,7 +307,7 @@ fun DSLScope.CommonArtists() {
                 title = "Tamame - Ebb and Flow (5 years after remix)"
 
                 // Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882
-                MusicConsumedProgress("6:19")
+                MusicConsumedProgress("6:19") // impl_overridden
                 Music(3.0)
             }
         }
@@ -753,7 +753,7 @@ fun DSLScope.CommonArtists() {
             Entry {
                 id = "M-64"
                 title = "Shoujotachi no Owaranai Yoru"
-                MusicConsumedProgress("4:08")
+                MusicConsumedProgress("4:08") // impl_overridden
                 Music(6.0)
             }
 

@@ -266,7 +266,7 @@ fun DSLScope.Bandori() {
                 title = "Cherry Bomb"
 
                 // Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP
-                MusicConsumedProgress("4:05")
+                MusicConsumedProgress("4:05") // impl_overridden
                 Music(2.5)
                 Remix("M-VGMDB-AL-106577-1")
             }
@@ -294,7 +294,7 @@ fun DSLScope.Bandori() {
         title = "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
 
         // Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138
-        MusicConsumedProgress("2:15")
+        MusicConsumedProgress("2:15") // impl_overridden
         Music(2.5)
     }
 }

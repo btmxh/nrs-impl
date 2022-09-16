@@ -332,7 +332,7 @@ fun DSLScope.SB69() {
 
             // Length source: (rip db.showbyrock.net)
             FesALiveMusic(4.0)
-            MusicConsumedProgress("1:34")
+            MusicConsumedProgress("1:34") // impl_overridden
         }
 
         Entry {
@@ -640,7 +640,7 @@ fun DSLScope.SB69() {
 
         // Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix
         Music(6.0)
-        MusicConsumedProgress("5:02")
+        MusicConsumedProgress("5:02") // impl_overridden
         OsuSong(personal = 7.5)
     }
 

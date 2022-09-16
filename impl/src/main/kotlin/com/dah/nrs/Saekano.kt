@@ -70,7 +70,7 @@ fun DSLScope.Saekano() {
 
         // Length source: https://osu.ppy.sh/beatmapsets/299454
         Music(2.75)
-        MusicConsumedProgress("5:12")
+        MusicConsumedProgress("5:12") // impl_overridden
     }
 
     Entry {
@@ -79,6 +79,6 @@ fun DSLScope.Saekano() {
 
         // Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw
         Music(3.0)
-        MusicConsumedProgress("5:04")
+        MusicConsumedProgress("5:04") // impl_overridden
     }
 }

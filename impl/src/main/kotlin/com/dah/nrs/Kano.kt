@@ -153,7 +153,7 @@ fun DSLScope.Kano() {
 
                 // Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352
                 Music(6.0)
-                MusicConsumedProgress("4:19")
+                MusicConsumedProgress("4:19") // impl_overridden
                 NEI(5.0, Emotion.CP)
             }
 
@@ -234,7 +234,7 @@ fun DSLScope.Kano() {
 
                 // Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg
                 Music(5.0)
-                MusicConsumedProgress("3:29")
+                MusicConsumedProgress("3:29") // impl_overridden
             }
         }
 

@@ -34,6 +34,7 @@ fun DSLScope.Tenshi3P() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
                 // Length source: https://music.apple.com/jp/album/e6-a5-94-single/1268529061?l=en
+                MusicConsumedProgress("4:26") // impl_overridden
                 Music(3.0)
             }
         }

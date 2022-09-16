@@ -40,6 +40,6 @@ fun DSLScope.OsuGame() {
 
         // Length source: https://www.youtube.com/watch?v=rnWXN8m6drc
         Music(4.0)
-        MusicConsumedProgress("4:42")
+        MusicConsumedProgress("4:42") // impl_overridden
     }
 }

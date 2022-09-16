@@ -518,7 +518,7 @@ fun DSLScope.LoveLive() {
 
         // hmm should i pick the dt length or the normal length :tf:
         // Length source: https://www.youtube.com/watch?v=m6bYJ17psmg
-        MusicConsumedProgress("1:56")
+        MusicConsumedProgress("1:56") // impl_overridden
     }
 }
 
