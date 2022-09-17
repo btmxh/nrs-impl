@@ -3,7 +3,7 @@ name: Fill metadata & Release output files
 on: [push, workflow_dispatch]
 
 jobs:
-  Do CI thing:
+  do-ci-thing:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout sources
