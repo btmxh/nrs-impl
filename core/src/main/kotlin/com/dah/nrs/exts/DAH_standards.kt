@@ -434,14 +434,14 @@ enum class VisualKind(val baseScore: Double) {
     // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
     GachaCardArt(0.8),
 
-    // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
-    LightNovel(0.8),
+    // V-VNDB-12849: https://danbooru.donmai.us/posts/2234064
+    VisualNovel(0.8),
 
     // L-MAL-126146 (unranked): https://en.wikipedia.org/wiki/Oshi_no_Ko#/media/File:Oshi_no_Ko_Volume_1.jpg
     Manga(0.8),
 
-    // V-VNDB-12849: https://danbooru.donmai.us/posts/2234064
-    VisualNovel(0.5),
+    // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
+    LightNovel(0.5),
 
     // M-VGMDB-AL-121168 (not canon): https://www.youtube.com/watch?v=hj_4YAVmmuI
     StaticMV(0.25),
