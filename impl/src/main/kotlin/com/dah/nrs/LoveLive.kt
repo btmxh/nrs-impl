@@ -115,8 +115,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Yuuki wa Doko ni? Kimi no Mune ni!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Yuuki wa Doko ni? Kimi no Mune ni!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -128,8 +128,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("2") {
-                title = "MIRACLE WAVE" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
+                title = "MIRACLE WAVE" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -141,8 +141,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Thank you, FRIENDS!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("6:23") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Thank you, FRIENDS!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -154,8 +154,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
-                title = "Mitaiken HORIZON" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:19") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Mitaiken HORIZON" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -182,8 +182,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
-                title = "Beginner's Sailing" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Beginner's Sailing" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -195,8 +195,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
-                title = "Nijiiro Passions!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Nijiiro Passions!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -208,8 +208,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
-                title = "NEO SKY, NEO MAP!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
+                title = "NEO SKY, NEO MAP!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.5)
             }
         }
@@ -361,8 +361,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
             SubIDEntry("1") {
-                title = "Awakening Promise" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Awakening Promise" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.25)
             }
         }
@@ -415,59 +415,59 @@ fun DSLScope.LoveLive() {
         // Anime
         Entry {
             id = "A-MAL-15051"
-            title = "Love Live! School Idol Project" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 15051 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 7203 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 15051 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 15051 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 15051 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7203 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 15051 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! School Idol Project" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-36547-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-19111"
-            title = "Love Live! School Idol Project 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 19111 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 7871 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 19111 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 19111 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 19111 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7871 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 19111 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! School Idol Project 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
             FeatureMusic("M-VGMDB-AL-34051-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-24997"
-            title = "Love Live! The School Idol Movie" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 24997 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 8531 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 20766 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 24997 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20766 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8531 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 24997 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! The School Idol Movie" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nishikino Maki"
 
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
 
         Entry {
             id = "A-MAL-32526"
+            idAniList = 21584 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 32526 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! Sunshine!!" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 32526 // generated(fill_anime_metadata.dart v0.1.1)
             idKitsu = 11745 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 21584 // generated(fill_anime_metadata.dart v0.1.1)
-            idMAL = 32526 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -483,7 +483,7 @@ fun DSLScope.LoveLive() {
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -496,7 +496,7 @@ fun DSLScope.LoveLive() {
             idAniList = 100965 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37027 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Sakurauchi Riko"
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -536,17 +536,17 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-40879"
-            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 40879 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 42872 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 113970 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40879 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai" // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42872 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Uehara Ayumu"
             seasonal = true
 
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(4.0, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
@@ -562,11 +562,11 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-41169"
-            title = "Love Live! Superstar!!" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 41169 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44124 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 114979 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 41169 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 114979 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44124 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 41169 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! Superstar!!" // generated(fill_anime_metadata.dart v0.1.1)
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Arashi Chisato"
             seasonal = true
@@ -608,11 +608,11 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-48916"
-            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 48916 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 44537 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 133891 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 48916 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 133891 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44537 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 48916 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Kanata Konoe"
 
@@ -627,18 +627,18 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "A-MAL-50203"
-            title = "Love Live! Superstar!! 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            idAniDB = 50203 // generated(fill_anime_metadata.dart v0.1.1)
-            idKitsu = 45360 // generated(fill_anime_metadata.dart v0.1.1)
-            idAniList = 140642 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 50203 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 140642 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 45360 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 50203 // generated(fill_anime_metadata.dart v0.1.1)
+            title = "Love Live! Superstar!! 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Arashi Chisato"
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
             ValidatorSuppress("dah-entry-no-consumed")
-            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Unwatched, 0)
         }
     }
 
@@ -653,7 +653,7 @@ fun DSLScope.LoveLive() {
 
         // hmm should i pick the dt length or the normal length :tf:
         // Length source: https://www.youtube.com/watch?v=m6bYJ17psmg
-        MusicConsumedProgress("1:56")
+        MusicConsumedProgress("1:56") // impl_overridden
     }
 }
 

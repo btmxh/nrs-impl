@@ -17,8 +17,8 @@ fun DSLScope.GakkouGurashi() {
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
             SubIDEntry("1") {
-                title = "Friend Shitai" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:38") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Friend Shitai" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 OsuSong(personal = 5.0)
             }
@@ -41,8 +41,8 @@ fun DSLScope.GakkouGurashi() {
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
             SubIDEntry("1") {
-                title = "アンハッピーエンドワールド" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
+                title = "アンハッピーエンドワールド" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }
@@ -63,7 +63,7 @@ fun DSLScope.GakkouGurashi() {
 
             Visual(VisualKind.Animated, 0.6, 0.25)
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
         }
     }
 }

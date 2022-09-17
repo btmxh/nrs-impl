@@ -18,7 +18,7 @@ fun DSLScope.D4DJ() {
 
             bestGirl = "Aimoto Rinku"
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.4, 0.75)
             FeatureMusic("M-VGMDB-AL-107257")
             FeatureMusic("M-VGMDB-AL-108580-2")
@@ -42,8 +42,8 @@ fun DSLScope.D4DJ() {
 
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
             SubIDEntry("3") {
-                title = "Guruguru DJ TURN!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Guruguru DJ TURN!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }

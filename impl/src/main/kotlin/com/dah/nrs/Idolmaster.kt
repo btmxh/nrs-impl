@@ -25,8 +25,8 @@ fun DSLScope.Idolmaster() {
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
-                title = "Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 8.0)
             }
@@ -38,8 +38,8 @@ fun DSLScope.Idolmaster() {
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
-                title = "EVERMORE (M@STER VERSION)" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("6:05") // generated(fill_music_metadata.dart v0.1.1)
+                title = "EVERMORE (M@STER VERSION)" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
             }
         }
@@ -51,8 +51,8 @@ fun DSLScope.Idolmaster() {
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
             SubIDEntry("1") {
-                title = "UNION!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
+                title = "UNION!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
                 OsuSong(personal = 5.0, community = 2.0)
             }
@@ -74,7 +74,7 @@ fun DSLScope.Idolmaster() {
 
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)
-            AnimeProgressOld(Boredom.Completed, 25) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 25)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
 
@@ -91,7 +91,7 @@ fun DSLScope.Idolmaster() {
             idAniList = 20693 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 23587 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ogata Chieri"
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
 
@@ -103,7 +103,7 @@ fun DSLScope.Idolmaster() {
             idAniList = 21094 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30344 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ogata Chieri"
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
     }

@@ -45,7 +45,7 @@ fun DSLScope.YLIA() {
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 
-            AnimeProgressOld(Boredom.Completed, 22) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 22)
         }
 
         Entry {
@@ -54,15 +54,15 @@ fun DSLScope.YLIA() {
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             SubIDEntry("1") {
-                title = "Kimi wa Wasurerareru no" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("1:34") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Kimi wa Wasurerareru no" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 AEI(5.0, Emotion.CU)
             }
 
             SubIDEntry("18") {
-                title = "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("2:26") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
                 AEI(5.0, Emotion.CU)
             }

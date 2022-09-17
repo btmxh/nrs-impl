@@ -74,7 +74,7 @@ fun DSLScope.Spring2022() {
         idMAL = 50273 // generated(fill_anime_metadata.dart v0.1.1)
         bestGirl = "Maria Mizuse"
 
-        AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+        AnimeProgressOld(Boredom.Completed, 12)
         // unique art because manga, but chara design sucks (p2)
         Visual(VisualKind.Animated, 0.2, 0.5)
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)

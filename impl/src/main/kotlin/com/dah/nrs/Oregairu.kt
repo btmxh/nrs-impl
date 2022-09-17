@@ -27,14 +27,14 @@ fun DSLScope.Oregairu() {
             }
 
             SubIDEntry("1") {
-                title = "Hello Alone" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hello Alone" // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("2") {
-                title = "Hello Alone -Yui Ballade-" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hello Alone -Yui Ballade-" // generated(fill_music_metadata.dart v0.1.1)
 
             }
         }
@@ -51,14 +51,14 @@ fun DSLScope.Oregairu() {
             }
 
             SubIDEntry("1") {
-                title = "エブリデイワールド" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
+                title = "エブリデイワールド" // generated(fill_music_metadata.dart v0.1.1)
 
             }
 
             SubIDEntry("3") {
-                title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
+                title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." // generated(fill_music_metadata.dart v0.1.1)
                 
             }
         }
@@ -70,8 +70,8 @@ fun DSLScope.Oregairu() {
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
             SubIDEntry("1") {
-                title = "Diamond no Jundo" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:27") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Diamond no Jundo" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
             }
         }
@@ -123,7 +123,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-37932-1")
             FeatureMusic("M-VGMDB-AL-37999")
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
         }
 
         Entry {
@@ -149,7 +149,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-51394-1")
             FeatureMusic("M-VGMDB-AL-51394-3")
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
         }
 
         Entry {
@@ -178,7 +178,7 @@ fun DSLScope.Oregairu() {
             FeatureMusic("M-VGMDB-AL-96288-1")
             FeatureMusic("M-VGMDB-AL-96290-1")
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
         }
     }
 }

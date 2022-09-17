@@ -49,7 +49,7 @@ fun DSLScope.Aipura() {
 
             bestGirl = "Kawasaki Sakura"
             Visual(VisualKind.Animated, 0.6, 0.3)
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
         }
 
         Entry {
@@ -58,8 +58,8 @@ fun DSLScope.Aipura() {
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
             SubIDEntry("1") {
-                title = "IDOLY PRIDE" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:38") // generated(fill_music_metadata.dart v0.1.1)
+                title = "IDOLY PRIDE" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
 

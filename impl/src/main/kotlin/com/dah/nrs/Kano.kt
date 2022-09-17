@@ -38,8 +38,8 @@ fun DSLScope.Kano() {
                 Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
                 SubIDEntry("6") {
-                    title = "インタビュア" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:27") // generated(fill_music_metadata.dart v0.1.1)
+                    title = "インタビュア" // generated(fill_music_metadata.dart v0.1.1)
                     Music(4.0)
                     NEI(1.5, Emotion.CU)
                 }
@@ -73,8 +73,8 @@ fun DSLScope.Kano() {
                 }
 
                 SubIDEntry("9") {
-                    title = "World on Color" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
+                    title = "World on Color" // generated(fill_music_metadata.dart v0.1.1)
                     Music(6.0)
                     NEI(2.0, Emotion.MP)
                     OsuSong(personal = 1.0, community = 0.0)
@@ -95,8 +95,8 @@ fun DSLScope.Kano() {
                 }
 
                 SubIDEntry("8") {
-                    title = "decide" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("5:54") // generated(fill_music_metadata.dart v0.1.1)
+                    title = "decide" // generated(fill_music_metadata.dart v0.1.1)
                     Music(2.0)
                     NEI(2.5, Emotion.CU)
                 }
@@ -110,8 +110,8 @@ fun DSLScope.Kano() {
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
 
                 SubIDEntry("1") {
-                    title = "Stella-rium" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
+                    title = "Stella-rium" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                     NEI(0.5, Emotion.MP)
                 }
@@ -184,7 +184,7 @@ fun DSLScope.Kano() {
 
                 // Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352
                 Music(6.0)
-                MusicConsumedProgress("4:19")
+                MusicConsumedProgress("4:19") // impl_overridden
                 NEI(5.0, Emotion.CP)
             }
 
@@ -235,8 +235,8 @@ fun DSLScope.Kano() {
                 // the best kano song ever. period.
                 // also the fourth ayumu-era theme song
                 SubIDEntry("3") {
-                    title = "[It's not] World's end" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("5:36") // generated(fill_music_metadata.dart v0.1.1)
+                    title = "[It's not] World's end" // generated(fill_music_metadata.dart v0.1.1)
                     Music(5.0)
                     NEI(5.0, Emotion.CU)
                 }
@@ -278,7 +278,7 @@ fun DSLScope.Kano() {
 
                 // Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg
                 Music(5.0)
-                MusicConsumedProgress("3:29")
+                MusicConsumedProgress("3:29") // impl_overridden
             }
         }
 

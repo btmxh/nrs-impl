@@ -40,8 +40,8 @@ fun DSLScope.WakeUpGirls() {
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             SubIDEntry("1") {
-                title = "Tachiagare!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:54") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Tachiagare!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(6.0)
             }
         }
@@ -53,8 +53,8 @@ fun DSLScope.WakeUpGirls() {
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             SubIDEntry("1") {
-                title = "7 Girls War" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:07") // generated(fill_music_metadata.dart v0.1.1)
+                title = "7 Girls War" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.5)
             }
         }
@@ -69,7 +69,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             // partially benefitted from rst
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
 
@@ -87,7 +87,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             FeatureMusic("M-VGMDB-AL-42945-1")
             Visual(VisualKind.Animated, 0.4, 0.6)
@@ -102,7 +102,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
         }
@@ -116,7 +116,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            AnimeProgressOld(Boredom.Completed, 1) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
         }
@@ -131,7 +131,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Shimada Mayu"
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.3, 0.6)
         }
@@ -146,8 +146,8 @@ fun DSLScope.WakeUpGirls() {
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         SubIDEntry("1") {
-            title = "One In A Billion" // generated(fill_music_metadata.dart v0.1.1)
             MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
+            title = "One In A Billion" // generated(fill_music_metadata.dart v0.1.1)
             OsuSong(personal = 5.0, community = 1.0)
             Music(6.0)
         }

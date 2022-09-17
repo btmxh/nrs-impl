@@ -19,7 +19,7 @@ fun DSLScope.TateYuusha() {
             // And yes, it's watched in the Reddit-era
             bestGirl = "Raphtalia"
 
-            AnimeProgressOld(Boredom.Completed, 25) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 25)
 
             // Anger when MC is treated unfairly (like Oregairu's 8man)
             NEI(5.0, Emotion.AU)

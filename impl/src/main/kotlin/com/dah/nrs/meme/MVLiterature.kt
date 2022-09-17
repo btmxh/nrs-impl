@@ -70,8 +70,8 @@ fun DSLScope.MVLiterature() {
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
         SubIDEntry("10") {
-            title = "あすいろClearSky (Bouquet Ver.)" // generated(fill_music_metadata.dart v0.1.1)
             MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
+            title = "あすいろClearSky (Bouquet Ver.)" // generated(fill_music_metadata.dart v0.1.1)
             // asuiro koi moyou and its consequences
             // hololiveshit stole rst & sb69 composer
             // hololiveshit stole rst & sb69 composer

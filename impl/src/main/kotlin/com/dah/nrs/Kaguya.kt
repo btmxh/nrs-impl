@@ -17,8 +17,8 @@ fun DSLScope.Kaguya() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
-                title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("2:58") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
                 Music(2.5)
                 OsuSong(personal = 5.0, community = 4.0)
             }
@@ -31,8 +31,8 @@ fun DSLScope.Kaguya() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("11") {
-                title = "ありがとう。" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
+                title = "ありがとう。" // generated(fill_music_metadata.dart v0.1.1)
                 // the grass-touching experience
                 Music(3.5)
             }
@@ -80,7 +80,7 @@ fun DSLScope.Kaguya() {
             // koukai shinai yo kimi ni deaeta koto
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Unwatched, 0)
             ValidatorSuppress("dah-entry-no-consumed")
         }
 
@@ -100,7 +100,7 @@ fun DSLScope.Kaguya() {
             // Just for now I’ll say “goodbye” to my cowardly heart
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            AnimeProgressOld(Boredom.Unwatched, 0) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Unwatched, 0)
             ValidatorSuppress("dah-entry-no-consumed")
         }
     }

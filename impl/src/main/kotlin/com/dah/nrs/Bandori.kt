@@ -31,8 +31,8 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.AlbumArt, 0.25, 0.2)
 
             SubIDEntry("1") {
-                title = "Tokimeki Experience!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Tokimeki Experience!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
 
@@ -77,8 +77,8 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.AlbumArt, 0.6, 0.15)
 
             SubIDEntry("5") {
-                title = "Koko kara Saki wa Uta ni Naranai" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:37") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Koko kara Saki wa Uta ni Naranai" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.5)
             }
         }
@@ -90,8 +90,8 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.AlbumArt, 0.35, 0.15)
 
             SubIDEntry("2") {
-                title = "Light Delight" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:09") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Light Delight" // generated(fill_music_metadata.dart v0.1.1)
                 // naite naite
                 // daite daite
                 Music(6.0)
@@ -276,7 +276,7 @@ fun DSLScope.Bandori() {
             AEI(2.0, Emotion.CU)
             // nrs1
             Meme(0.2, 6)
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
 
             Visual(VisualKind.Animated, 0.4, 0.4)
 
@@ -321,7 +321,7 @@ fun DSLScope.Bandori() {
                 title = "Cherry Bomb"
 
                 // Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP
-                MusicConsumedProgress("4:05")
+                MusicConsumedProgress("4:05") // impl_overridden
                 Music(2.5)
                 Remix("M-VGMDB-AL-106577-1")
             }
@@ -353,7 +353,7 @@ fun DSLScope.Bandori() {
         title = "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
 
         // Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138
-        MusicConsumedProgress("2:15")
+        MusicConsumedProgress("2:15") // impl_overridden
         Music(2.5)
     }
 }

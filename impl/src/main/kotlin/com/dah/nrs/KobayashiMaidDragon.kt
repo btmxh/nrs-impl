@@ -31,8 +31,8 @@ fun DSLScope.KobayashiMaidDragon() {
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
             SubIDEntry("1") {
-                title = "Ai no Supreme!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Ai no Supreme!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 // "why is the dude singing???" - some pp mapper
                 Meme(0.05, 6)
@@ -53,7 +53,7 @@ fun DSLScope.KobayashiMaidDragon() {
 
             Visual(VisualKind.Animated, 0.6, 0.3)
 
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             FeatureMusic("M-VGMDB-AL-62516-1")
         }
     }

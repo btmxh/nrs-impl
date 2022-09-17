@@ -21,8 +21,8 @@ fun DSLScope.YuYuYu() {
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("1") {
-                title = "Aurora Days" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Aurora Days" // generated(fill_music_metadata.dart v0.1.1)
                 Music(1.5)
             }
         }
@@ -36,8 +36,8 @@ fun DSLScope.YuYuYu() {
             // the glorious udon stream map
             // sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure
             SubIDEntry("2") {
-                title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:12") // generated(fill_music_metadata.dart v0.1.1)
+                title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
                 Music(4.0)
                 OsuSong(personal = 3.0)
             }
@@ -106,7 +106,7 @@ fun DSLScope.YuYuYu() {
             // (only the ending tho)
             AEI(2.5, Emotion.CU)
             Visual(VisualKind.Animated, 0.3, 0.5)
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
         }
 
         Entry {
@@ -173,7 +173,7 @@ fun DSLScope.YuYuYu() {
             // but my pepega ass doesn't watch this shit properly ffs
             NEI(5.0, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 6) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -198,7 +198,7 @@ fun DSLScope.YuYuYu() {
             //                  yuyuyu reference !!!11!!1
             AEI(3.0, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 6) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -228,7 +228,7 @@ fun DSLScope.YuYuYu() {
 
             FeatureMusic("M-VGMDB-AL-114186-2")
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 

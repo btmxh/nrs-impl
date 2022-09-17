@@ -23,8 +23,8 @@ fun DSLScope.OneRoom() {
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             SubIDEntry("1") {
-                title = "Harumachi Clover" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:06") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Harumachi Clover" // generated(fill_music_metadata.dart v0.1.1)
                 // ME NO MAE NO TOBIRA O AKETARA HARU KAZE
                 // TORI TACHI MO KIGI DE MACHIAWASE
                 // KIMI E MUKAU SHINGOU AOZORA IRO
@@ -61,7 +61,7 @@ fun DSLScope.OneRoom() {
 
         // Length source: https://www.youtube.com/watch?v=2OfJYisHbkI
         Music(3.0)
-        MusicConsumedProgress("0:36")
+        MusicConsumedProgress("0:36") // impl_overriden
         OsuSong(personal = 6.0, community = 8.0)
     }
 }

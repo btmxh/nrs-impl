@@ -20,7 +20,7 @@ fun DSLScope.SelePro() {
             bestGirl = "Koizumi Uta"
 
             Cry(Emotion.CU)
-            AnimeProgressOld(Boredom.Completed, 13) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.5, 0.3)
 
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
@@ -43,8 +43,8 @@ fun DSLScope.SelePro() {
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
-                title = "Glorious Days" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Glorious Days" // generated(fill_music_metadata.dart v0.1.1)
                 Music(5.0)
             }
         }

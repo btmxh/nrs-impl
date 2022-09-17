@@ -95,7 +95,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-51706-1")
             FeatureMusic("M-VGMDB-AL-51706-2")
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -121,7 +121,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-61981-1")
             FeatureMusic("M-VGMDB-AL-61981-3")
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -152,7 +152,7 @@ fun DSLScope.SB69() {
             KilledBy("M-18", potential = 0.75, effect = 0.75)
             Visual(VisualKind.Animated, 0.65, 0.4)
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
         }
 
         Entry {
@@ -193,7 +193,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-104267-5")
             FeatureMusic("M-VGMDB-AL-100087-1")
 
-            AnimeProgressOld(Boredom.Completed, 12) // generated(fill_anime_metadata.dart v0.1.1)
+            AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.65, 0.4)
         }
 
@@ -320,14 +320,14 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             SubIDEntry("1") {
-                title = "My Resolution ～未来への絆～" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:03") // generated(fill_music_metadata.dart v0.1.1)
+                title = "My Resolution ～未来への絆～" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(5.0)
             }
 
             SubIDEntry("3") {
-                title = "Close to you (詩杏 ver.)" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Close to you (詩杏 ver.)" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(3.5)
 
                 NEI(2.5, Emotion.MP)
@@ -341,8 +341,8 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.35, 0.5)
 
             SubIDEntry("1") {
-                title = "ドレミファPARTY" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
+                title = "ドレミファPARTY" // generated(fill_music_metadata.dart v0.1.1)
                 // xd
                 FesALiveMusic(2.0)
                 Meme(0.1, 2)
@@ -367,14 +367,14 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
             SubIDEntry("1") {
-                title = "Hiromenes" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hiromenes" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.0)
             }
 
             SubIDEntry("2") {
-                title = "Kimi no Rhapsody" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:36") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Kimi no Rhapsody" // generated(fill_music_metadata.dart v0.1.1)
                 // hahahahahaaha the howan tinh song
                 FesALiveMusic(2.5)
                 Meme(0.01, numDays("2022-04-01"))
@@ -382,8 +382,8 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("3") {
-                title = "Masshiro Start Line" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Masshiro Start Line" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(6.0)
             }
         }
@@ -395,7 +395,7 @@ fun DSLScope.SB69() {
 
             // Length source: (rip db.showbyrock.net)
             FesALiveMusic(4.0)
-            MusicConsumedProgress("1:34")
+            MusicConsumedProgress("1:34") // impl_overridden
         }
 
         Entry {
@@ -405,8 +405,8 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
             SubIDEntry("1") {
-                title = "エールアンドレスポンス" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:46") // generated(fill_music_metadata.dart v0.1.1)
+                title = "エールアンドレスポンス" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(2.0)
             }
         }
@@ -418,8 +418,8 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
             SubIDEntry("1") {
-                title = "Do Re Mi Fa STARS!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:06") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Do Re Mi Fa STARS!!" // generated(fill_music_metadata.dart v0.1.1)
                 // aka ceui - colorful days (mp-based franchise ver.)
                 // or the counting song
                 FesALiveMusic(5.0)
@@ -439,8 +439,8 @@ fun DSLScope.SB69() {
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
             SubIDEntry("3") {
-                title = "Do! It! Happy Daibouken!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Do! It! Happy Daibouken!" // generated(fill_music_metadata.dart v0.1.1)
                 // do it party reference lmfao
                 FesALiveMusic(6.5)
             }
@@ -753,7 +753,7 @@ fun DSLScope.SB69() {
 
         // Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix
         Music(6.0)
-        MusicConsumedProgress("5:02")
+        MusicConsumedProgress("5:02") // impl_overridden
         OsuSong(personal = 7.5)
     }
 

@@ -34,6 +34,12 @@ fun DSLEntry.AnimeProgress(status: EntryStatus, episodes: Int, episodeDuration: 
 }
 
 fun DSLEntry.MusicConsumedProgress(lengthString: String) {
+    if(lengthString == "Unknown") {
+        // the implementor must set the length themselves
+        // ValidatorSuppress("dah-entry-no-consumed", "dah-no-progress")
+        return
+    }
+
     val tokens = lengthString.split(':').map { it.toIntOrNull() }
     if(null in tokens) {
         error("unsupported lengthString")
