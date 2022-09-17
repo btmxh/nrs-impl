@@ -93,6 +93,10 @@ fun DSLScope.Atelier() {
             // fuck miharuists, they're taking over modern culture
             bestGirl = "Malier Escha"
 
+            // https://www.facebook.com/photo?fbid=5382806931808771&set=a.109501952472655
+            // me watching NAP fucking up literally everything they did
+            // tl notes: NAP is Neo-Autist Party
+
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
             AnimeProgressOld(Boredom.Watching, 11)
