@@ -48,12 +48,12 @@ jobs:
       run: ./gradlew updateWithoutSync
     - name: Make commit
       uses: stefanzweifel/git-auto-commit-action@v4
-      if: ${{ !contains(github.ref, 'refs/pull') }}
+      if: ${{ contains(github.ref, 'refs/heads') }}
       with:
         commit_message: 'chore(impl): :bookmark: Filled metadata'
     - name: Upload generated files as a release
       uses: marvinpinto/action-automatic-releases@latest
-      if: ${{ !contains(github.ref, 'refs/pull') }}
+      if: ${{ contains(github.ref, 'refs/heads') }}
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
