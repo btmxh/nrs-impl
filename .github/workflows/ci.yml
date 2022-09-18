@@ -48,7 +48,7 @@ jobs:
       run: ./gradlew updateWithoutSync
     - name: Make commit
       uses: stefanzweifel/git-auto-commit-action@v4
-      if: ${{ contains(github.ref, 'refs/heads') }}
+      if: ${{ !contains(github.ref, 'dependabot') }}
       with:
         commit_message: 'chore(impl): :bookmark: Filled metadata'
     - name: Split branch name
@@ -58,7 +58,7 @@ jobs:
         BRANCH: ${{ github.ref_name }}
     - name: Upload generated files as a release
       uses: marvinpinto/action-automatic-releases@latest
-      if: ${{ contains(github.ref, 'refs/heads') }}
+      if: ${{ !contains(github.ref, 'dependabot') }}
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
