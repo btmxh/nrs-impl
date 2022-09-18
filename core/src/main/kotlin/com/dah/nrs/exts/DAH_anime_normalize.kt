@@ -128,28 +128,28 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "M-1"
                 title = "MAL-10 base anime sample music"
 
-                Music(5.0)
+                Music(0.5)
             }
 
             Entry {
                 id = "M-2"
                 title = "MAL-10 base anime sample music"
 
-                Music(6.0)
+                Music(0.6)
             }
 
             Entry {
                 id = "M-3"
                 title = "MAL-10 base anime sample music"
 
-                Music(7.0)
+                Music(0.7)
             }
 
             Entry {
                 id = "M-4"
                 title = "MAL-10 base anime sample music"
 
-                Music(8.0)
+                Music(0.8)
             }
         }
 
