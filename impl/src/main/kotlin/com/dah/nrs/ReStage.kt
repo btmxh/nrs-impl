@@ -314,6 +314,8 @@ fun DSLScope.ReStage() {
                 title = "憧れFuture Sign" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(0.3)
+
+                // thank you based atelier, very cool
             }
 
             // track 2
