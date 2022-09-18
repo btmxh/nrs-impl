@@ -19,7 +19,7 @@ fun DSLScope.JustBecause() {
 
             AnimeProgressOld(Boredom.Completed, 12)
             // Pretty decent drama
-            AEI(5.0, Emotion.CU)
+            AEI(0.5, Emotion.CU)
             FeatureMusic("M-VGMDB-AL-70716-1")
             Visual(VisualKind.Animated, 0.4, 0.6)
         }

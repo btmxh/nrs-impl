@@ -70,7 +70,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 title = "MAL-6 base anime (Fine)"
 
                 AnimeProgressOld(Boredom.Completed, 12)
-                AEI(1.0, Emotion.AP)
+                AEI(0.1, Emotion.AP)
                 Visual(VisualKind.Animated, 0.5, 0.3)
             }
 
@@ -114,7 +114,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 Cry(Emotion.CU)
                 PADS(5, Emotion.CU)
                 PADS(5, Emotion.CP)
-                AEI(7.5, Emotion.MP)
+                AEI(0.75, Emotion.MP)
                 EHI()
                 EPI(10.0)
                 FeatureMusic("M-1")

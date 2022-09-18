@@ -22,7 +22,7 @@ fun DSLScope.TateYuusha() {
             AnimeProgressOld(Boredom.Completed, 25)
 
             // Anger when MC is treated unfairly (like Oregairu's 8man)
-            NEI(5.0, Emotion.AU)
+            NEI(0.5, Emotion.AU)
             Meme(0.5, 6)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }

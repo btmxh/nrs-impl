@@ -19,7 +19,7 @@ fun DSLScope.SthKara() {
 
             AnimeProgressOld(Boredom.Completed, 13)
             // ending was good
-            AEI(2.5, Emotion.CU to 0.9, Emotion.AP to 0.1)
+            AEI(0.25, Emotion.CU to 0.9, Emotion.AP to 0.1)
 
             Visual(VisualKind.Animated, 0.6, 0.5)
             FeatureMusic("M-VGMDB-AL-80341-1")

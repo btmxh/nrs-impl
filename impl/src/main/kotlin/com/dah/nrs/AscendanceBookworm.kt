@@ -9,7 +9,7 @@ fun DSLScope.AscendanceBookworm() {
         title = "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen"
 
         // world-building ig
-        AEI(3.0, Emotion.AP) {
+        AEI(0.3, Emotion.AP) {
             contributors["A-MAL-39468"] = 0.3
             contributors["A-MAL-40815"] = 0.3
             contributors["A-MAL-42429"] = 0.4

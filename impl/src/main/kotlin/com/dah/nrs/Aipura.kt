@@ -44,8 +44,8 @@ fun DSLScope.Aipura() {
 
             // vaxei_osu
 
-            // the memes was funny
-            NEI(8.0, Emotion.AP)
+            // the memes were funny
+            NEI(0.8, Emotion.AP)
 
             bestGirl = "Kawasaki Sakura"
             Visual(VisualKind.Animated, 0.6, 0.3)

@@ -12,7 +12,7 @@ fun DSLScope.AOT() {
 
         // please fuck off (look at the comment section)
         // https://www.youtube.com/watch?v=kbYoJNLQEiU
-        NEI(-1.0, Emotion.AP) {
+        NEI(-0.1, Emotion.AP) {
             contributors["A-MAL-16498"] = 0.25
             contributors["A-MAL-25777"] = 0.25
             contributors["A-MAL-35760"] = 0.25
@@ -69,7 +69,7 @@ fun DSLScope.AOT() {
             idMAL = 38524 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ackerman Mikasa"
             AnimeProgressOld(Boredom.Completed, 10)
-            AEI(5.0, Emotion.AP)
+            AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
     }

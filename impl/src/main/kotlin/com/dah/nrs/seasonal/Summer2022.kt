@@ -70,7 +70,7 @@ fun DSLScope.Summer2022() {
         // but still good luck with that -1.0 boredom lol xddddddddddd
         Visual(VisualKind.Animated, 0.75, 0.3)
 
-        NEI(-1.0, Emotion.AU)
+        NEI(-0.1, Emotion.AU)
 
         // well this is not killed by AKM and SB69, it's more like
         // kusunoki tomori ruined the anime

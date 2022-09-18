@@ -24,19 +24,19 @@ fun DSLScope.KokoroConnect() {
         }
 
         // drama
-        AEI(9.0, Emotion.CU) {
+        AEI(0.9, Emotion.CU) {
             contributors["A-MAL-11887"] = 0.5
             contributors["A-MAL-16001"] = 0.5
         }
 
         // comfy compoly
-        NEI(1.0, Emotion.MP) {
+        NEI(0.1, Emotion.MP) {
             contributors["A-MAL-11887"] = 0.75
             contributors["A-MAL-16001"] = 0.25
         }
 
         // plot
-        AEI(5.0, Emotion.AP) {
+        AEI(0.5, Emotion.AP) {
             contributors["A-MAL-11887"] = 0.6
             contributors["A-MAL-16001"] = 0.4
         }

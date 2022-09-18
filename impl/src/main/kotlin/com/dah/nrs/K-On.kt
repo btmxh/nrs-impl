@@ -67,14 +67,14 @@ fun DSLScope.`K-On`() {
         }
 
         // Kinda comfy. But not that much.
-        NEI(5.0, Emotion.MP) {
+        NEI(0.5, Emotion.MP) {
             contributors["A-MAL-5680"] = 0.4
             contributors["A-MAL-7791"] = 0.4
             contributors["A-MAL-9617"] = 0.2
         }
 
         // humor
-        NEI(2.5, Emotion.AP) {
+        NEI(0.25, Emotion.AP) {
             contributors["A-MAL-5680"] = 0.4
             contributors["A-MAL-7791"] = 0.4
             contributors["A-MAL-9617"] = 0.2

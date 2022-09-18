@@ -400,13 +400,13 @@ fun DSLScope.LoveLive() {
         }
 
         // SIP humor
-        AEI(8.0, Emotion.AP) {
+        AEI(0.8, Emotion.AP) {
             contributors["A-MAL-15051"] = 0.4
             contributors["A-MAL-19111"] = 0.4
             contributors["A-MAL-24997"] = 0.2
         }
 
-        AEI(2.5, Emotion.AP) {
+        AEI(0.25, Emotion.AP) {
             contributors["A-MAL-32526"] = 0.4
             contributors["A-MAL-34973"] = 0.4
             contributors["A-MAL-37027"] = 0.2
@@ -510,7 +510,7 @@ fun DSLScope.LoveLive() {
         }
 
         // arc 2 - the girl without screentime
-        NEI(8.0, Emotion.AU to 0.5, Emotion.CU to 0.4, Emotion.AP to 0.1) {
+        NEI(0.8, Emotion.AU to 0.5, Emotion.CU to 0.4, Emotion.AP to 0.1) {
             contributors["A-MAL-40879"] = 0.8
             contributors["M-VGMDB-AL-43320-8"] = 0.1
             contributors["M-VGMDB-AL-34269-7"] = 0.1
@@ -545,7 +545,7 @@ fun DSLScope.LoveLive() {
             seasonal = true
 
             // pretty funny ngl, but overshadowed by the ayumu shit
-            AEI(4.0, Emotion.AP)
+            AEI(0.4, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
@@ -577,7 +577,7 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.Animated, 0.6, 0.25)
         }
 
-        NEI(7.5, Emotion.AP) {
+        NEI(0.75, Emotion.AP) {
             // guys did you see that, it's her, my favorite school idol of all time,
             // tsukisaka sayu! wdym by kanata konoe, who tf is that? i only know sayu!
             // sayu is my love, she saved me from my one-year-old depression and showed
@@ -595,7 +595,7 @@ fun DSLScope.LoveLive() {
         // i tried to watch niji in peace, but i failed
         // the leftover hate from s1 and the heisenberg bs from s2 is just too much
         // update: the azuna episode kinda did its thing
-        NEI(-5.0, Emotion.MU to 0.5, Emotion.AU to 0.5) {
+        NEI(-0.5, Emotion.MU to 0.5, Emotion.AU to 0.5) {
             contributors["A-MAL-40879"] = 0.3
             contributors["A-MAL-48916"] = 0.6
             contributors["A-MAL-15051"] = 0.1 / 6

@@ -21,7 +21,7 @@ fun DSLScope.Gotoubun() {
 
             AnimeProgressOld(Boredom.Completed, 12)
             // fuwa fuwa doki doki
-            AEI(5.0, Emotion.AP)
+            AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.5)
             FeatureMusic("M-VGMDB-AL-82284")
         }
@@ -40,7 +40,7 @@ fun DSLScope.Gotoubun() {
             AnimeProgressOld(Boredom.Completed, 12)
             // at first I doubted that S2 will be as good as S1
             // but it actually is
-            AEI(2.5, Emotion.AP)
+            AEI(0.25, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 

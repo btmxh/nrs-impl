@@ -67,10 +67,10 @@ fun DSLScope.Idolmaster() {
             idMAL = 10278 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Minase Iori"
             // ending pretty sadge
-            NEI(6.0, Emotion.CU)
+            NEI(0.6, Emotion.CU)
 
             // funny ig
-            NEI(7.5, Emotion.AP)
+            NEI(0.75, Emotion.AP)
 
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
             Music(0.3)
@@ -78,7 +78,7 @@ fun DSLScope.Idolmaster() {
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
 
-        NEI(2.5, Emotion.AP) {
+        NEI(0.25, Emotion.AP) {
             contributors["A-MAL-23587"] = 0.5
             contributors["A-MAL-30344"] = 0.5
         }

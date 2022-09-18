@@ -21,7 +21,7 @@ fun DSLScope.Vocaloid() {
 
             // for some reason, this almost made me cry
             // (somewhat unrelated to ayumu shit)
-            AEI(5.0, Emotion.CU)
+            AEI(0.5, Emotion.CU)
 
             // Length source: https://www.nicovideo.jp/watch/sm18198019
             Music(4.25)

@@ -49,7 +49,7 @@ fun DSLScope.KobayashiMaidDragon() {
             bestGirl = "Tohru"
 
             // funny ig idk tbh
-            NEI(7.5, Emotion.AP)
+            NEI(0.75, Emotion.AP)
 
             Visual(VisualKind.Animated, 0.6, 0.3)
 

@@ -101,7 +101,7 @@ fun DSLScope.Oregairu() {
         }
 
         // VSCC is pretty comfy (before Yui Depression)
-        NEI(6.0, Emotion.MP) {
+        NEI(0.6, Emotion.MP) {
             contributors["A-MAL-14813"] = 0.3
             contributors["A-MAL-23847"] = 0.7
         }
@@ -118,7 +118,7 @@ fun DSLScope.Oregairu() {
             bestGirl = "Yukinoshita Yukino"
 
             Visual(VisualKind.Animated, 0.25, 0.4)
-            NEI(7.5, Emotion.AP)
+            NEI(0.75, Emotion.AP)
 
             FeatureMusic("M-VGMDB-AL-37932-1")
             FeatureMusic("M-VGMDB-AL-37999")
@@ -138,12 +138,12 @@ fun DSLScope.Oregairu() {
             bestGirl = "Yuigahama Yui"
 
             Visual(VisualKind.Animated, 0.4, 0.25)
-            NEI(2.5, Emotion.AP)
+            NEI(0.25, Emotion.AP)
 
             // Oregairu S2 has a lot of drama that I don't even
             // understand. But it's pretty good ngl.
             // (basically atmospheric-CU farm)
-            AEI(9.0, Emotion.CU)
+            AEI(0.9, Emotion.CU)
 
             FeatureMusic("M-VGMDB-AL-51516-1")
             FeatureMusic("M-VGMDB-AL-51394-1")
@@ -169,8 +169,8 @@ fun DSLScope.Oregairu() {
             // Yui dead people arc was kinda good
             // but Oregairu is just dead
             // you can't do much about it
-            AEI(4.0, Emotion.CU)
-            NEI(1.0, Emotion.AP)
+            AEI(0.4, Emotion.CU)
+            NEI(0.1, Emotion.AP)
 
             // killed by lapis re lights lmao xd
             KilledBy("A-MAL-37587", potential = 0.75, effect = 0.5)

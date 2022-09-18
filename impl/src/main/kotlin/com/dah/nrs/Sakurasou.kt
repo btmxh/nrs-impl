@@ -23,10 +23,10 @@ fun DSLScope.Sakurasou() {
             // there are a lot of truly sad moments in this
             // anime. But a lot of records have been lost and
             // idk why I'm sad. The previous impl gave AEI(5)
-            AEI(7.5, Emotion.CU)
+            AEI(0.75, Emotion.CU)
 
             // The group is kinda comfy ig
-            NEI(5.0, Emotion.MP)
+            NEI(0.5, Emotion.MP)
 
             // This and New Game! is recorded to be the
             // inspiration for me to learn programming

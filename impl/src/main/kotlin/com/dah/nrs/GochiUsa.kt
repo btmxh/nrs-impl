@@ -76,7 +76,7 @@ fun DSLScope.GochiUsa() {
             idMAL = 21273 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kafuu Chino"
             // humor not that good tho
-            NEI(3.0, Emotion.AP)
+            NEI(0.3, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.4, 0.15)
         }

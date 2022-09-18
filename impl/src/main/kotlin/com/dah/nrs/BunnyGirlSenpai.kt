@@ -19,7 +19,7 @@ fun DSLScope.BunnyGirlSenpai() {
 
             AnimeProgressOld(Boredom.Dropped, 9)
             // plot kinda ok
-            NEI(5.0, Emotion.AP)
+            NEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.6, 0.15)
             FeatureMusic("M-VGMDB-AL-80253-1")
         }

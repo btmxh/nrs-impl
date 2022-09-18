@@ -52,7 +52,7 @@ fun DSLScope.YuYuYu() {
         }
 
         // yuyuyu's world building is somewhat scary ngl
-        AEI(2.5, Emotion.MU) {
+        AEI(0.25, Emotion.MU) {
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.4
             contributors["A-MAL-34284"] = 0.05
@@ -104,7 +104,7 @@ fun DSLScope.YuYuYu() {
             // Second anime (after Sora no Method) to (be able to)
             // use OP/ED visual + music to strengthen the sadness.
             // (only the ending tho)
-            AEI(2.5, Emotion.CU)
+            AEI(0.25, Emotion.CU)
             Visual(VisualKind.Animated, 0.3, 0.5)
             AnimeProgressOld(Boredom.Completed, 12)
         }
@@ -149,7 +149,7 @@ fun DSLScope.YuYuYu() {
             // Overall, this LN spams sad shit everywhere,
             // <strikethrough>(inb4 yuuna got fucked and i cried)</strikethrough>
             // that didn't happen pog
-            AEI(3.0, Emotion.CU)
+            AEI(0.3, Emotion.CU)
 
             ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
             Visual(VisualKind.LightNovel, 0.15, 0.5)
@@ -171,7 +171,7 @@ fun DSLScope.YuYuYu() {
             // gin's death (the consequences of the ortensia incident)
             // and sonoko spamming magia are sad
             // but my pepega ass doesn't watch this shit properly ffs
-            NEI(5.0, Emotion.CU)
+            NEI(0.5, Emotion.CU)
 
             AnimeProgressOld(Boredom.Completed, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
@@ -196,7 +196,7 @@ fun DSLScope.YuYuYu() {
             // literally the vertex of drama wtf
             //                  ^
             //                  yuyuyu reference !!!11!!1
-            AEI(3.0, Emotion.CU)
+            AEI(0.3, Emotion.CU)
 
             AnimeProgressOld(Boredom.Completed, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
@@ -224,7 +224,7 @@ fun DSLScope.YuYuYu() {
 
             // E5-20:17
             // YLIA flashbacks
-            NEI(7.5, Emotion.CU)
+            NEI(0.75, Emotion.CU)
 
             FeatureMusic("M-VGMDB-AL-114186-2")
 

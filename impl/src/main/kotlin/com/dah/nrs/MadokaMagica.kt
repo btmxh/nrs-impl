@@ -118,7 +118,7 @@ fun DSLScope.MadokaMagica() {
             PADS(1, Emotion.CU)
 
             // Kyoko's backstory
-            AEI(9.0, Emotion.CU)
+            AEI(0.9, Emotion.CU)
 
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.35, 0.6)
@@ -162,7 +162,7 @@ fun DSLScope.MadokaMagica() {
         }
 
         // magireco is kinda comfy
-        NEI(7.5, Emotion.MP) {
+        NEI(0.75, Emotion.MP) {
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.4
             contributors["A-MAL-41530"] = 0.2
@@ -261,7 +261,7 @@ fun DSLScope.MadokaMagica() {
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // :troll-despair:
-            AEI(5.0, Emotion.CU to 0.9, Emotion.MP to 0.1)
+            AEI(0.5, Emotion.CU to 0.9, Emotion.MP to 0.1)
 
             // OP
             FeatureMusic("M-VGMDB-AL-113295-1")

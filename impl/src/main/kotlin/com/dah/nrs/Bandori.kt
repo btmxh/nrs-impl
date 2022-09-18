@@ -258,7 +258,7 @@ fun DSLScope.Bandori() {
         }
 
         // bandori has some good comedy shit
-        AEI(2.0, Emotion.AP) {
+        AEI(0.2, Emotion.AP) {
             contributors["A-MAL-33573"] = 0.5
             contributors["A-MAL-37869"] = 0.3
             contributors["G-VGMDB-5172 [null entry]"] = 0.2
@@ -273,7 +273,7 @@ fun DSLScope.Bandori() {
             idMAL = 33573 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ichigaya Arisa"
             // Ending pretty sadge
-            AEI(2.0, Emotion.CU)
+            AEI(0.2, Emotion.CU)
             // nrs1
             Meme(0.2, 6)
             AnimeProgressOld(Boredom.Completed, 13)

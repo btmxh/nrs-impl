@@ -43,7 +43,7 @@ fun DSLScope.NagiAsu() {
             // there are other relationships other than the
             // love triangle of best girl and they did make
             // an impact
-            NEI(7.5, Emotion.CU)
+            NEI(0.75, Emotion.CU)
 
             WaifuUnknownPeriod("Shiodome Miuna", 90)
             Visual(VisualKind.Animated, 0.6, 0.6)

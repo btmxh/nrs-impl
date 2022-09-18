@@ -32,7 +32,7 @@ fun DSLScope.COTE() {
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.75, 0.2)
             // plot pretty good
-            AEI(5.0, Emotion.AP)
+            AEI(0.5, Emotion.AP)
         }
 
         Entry {
@@ -57,7 +57,7 @@ fun DSLScope.COTE() {
             Visual(VisualKind.Animated, 0.6, 0.2)
 
             // plot will be good
-            AEI(1.0, Emotion.AP)
+            AEI(0.1, Emotion.AP)
             KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
             KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
         }

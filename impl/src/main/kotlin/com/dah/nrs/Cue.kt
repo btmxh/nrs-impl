@@ -38,10 +38,10 @@ fun DSLScope.Cue() {
             // ok airi and yuzuha is wholesome af
             // ep 11 almost made me cry
             // and i was somewhat moved by ep 10
-            AEI(2.0, Emotion.MP to 0.9, Emotion.CP to 0.1)
+            AEI(0.2, Emotion.MP to 0.9, Emotion.CP to 0.1)
 
             // comedy was weak ngl
-            NEI(5.0, Emotion.AP)
+            NEI(0.5, Emotion.AP)
 
             AnimeProgressOld(Boredom.Completed, 24)
             Visual(VisualKind.Animated, 0.5, 0.2)

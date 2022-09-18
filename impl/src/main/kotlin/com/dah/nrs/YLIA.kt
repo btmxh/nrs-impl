@@ -57,14 +57,14 @@ fun DSLScope.YLIA() {
                 MusicConsumedProgress("1:34") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Kimi wa Wasurerareru no" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
-                AEI(5.0, Emotion.CU)
+                AEI(0.5, Emotion.CU)
             }
 
             SubIDEntry("18") {
                 MusicConsumedProgress("2:26") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu" // generated(fill_music_metadata.dart v0.1.1)
                 Music(3.0)
-                AEI(5.0, Emotion.CU)
+                AEI(0.5, Emotion.CU)
             }
         }
     }

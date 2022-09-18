@@ -21,7 +21,7 @@ fun DSLScope.ShichiseiSubaru() {
 
             // The drama in this anime is executed fairly well.
             // (It only exists in the first episodes tho)
-            AEI(1.0, Emotion.CU)
+            AEI(0.1, Emotion.CU)
 
             Visual(VisualKind.Animated, 0.6, 0.2)
 

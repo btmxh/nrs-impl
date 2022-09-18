@@ -80,6 +80,6 @@ fun DSLScope.Spring2022() {
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)
 
         // nice plot desu
-        AEI(5.0, Emotion.AP)
+        AEI(0.5, Emotion.AP)
     }
 }

@@ -20,7 +20,7 @@ fun DSLScope.DrStone() {
             AnimeProgressOld(Boredom.Completed, 24)
             Visual(VisualKind.Animated, 0.3, 0.75)
             // "plot is good"
-            AEI(2.5, Emotion.AP)
+            AEI(0.25, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-87927-1")
         }
 
@@ -36,7 +36,7 @@ fun DSLScope.DrStone() {
             bestGirl = "Yuzuriha Ogawa"
             AnimeProgressOld(Boredom.Completed, 11)
             Visual(VisualKind.Animated, 0.3, 0.75)
-            AEI(1.0, Emotion.AP)
+            AEI(0.1, Emotion.AP)
         }
 
         Entry {
@@ -49,7 +49,7 @@ fun DSLScope.DrStone() {
             bestGirl = "Yuzuriha Ogawa"
             AnimeProgressOld(Boredom.Completed, 1)
             Visual(VisualKind.Animated, 0.3, 0.75)
-            NEI(6.0, Emotion.AP)
+            NEI(0.6, Emotion.AP)
         }
     }
 

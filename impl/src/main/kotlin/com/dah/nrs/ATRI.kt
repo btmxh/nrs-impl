@@ -20,7 +20,7 @@ fun DSLScope.ATRI() {
             // based rst reference
 
             // sad plot twist thingy
-            AEI(8.0, Emotion.CU to 0.8, Emotion.AP to 0.2)
+            AEI(0.8, Emotion.CU to 0.8, Emotion.AP to 0.2)
             ConsumedProgress(EntryStatus.OnHold, 0.8, 10.hours)
 
             Visual(VisualKind.VisualNovel, 0.7, 0.15)

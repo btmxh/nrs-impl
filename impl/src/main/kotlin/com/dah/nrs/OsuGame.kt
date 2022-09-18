@@ -29,7 +29,7 @@ fun DSLScope.OsuGame() {
                 // not gonna rate all of the backgrounds and shit
                 Music(1.5)
                 // i'm not overstreaming 222 bpm
-                NEI(5.0, Emotion.AP)
+                NEI(0.5, Emotion.AP)
                 OsuSong(personal = 2.0, community = 8.0)
             }
         }

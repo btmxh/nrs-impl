@@ -20,7 +20,7 @@ fun DSLScope.Arifureta() {
             AnimeProgressOld(Boredom.Completed, 13)
 
             // MC got dumped by his friends made me kinda angry
-            NEI(2.5, Emotion.AU)
+            NEI(0.25, Emotion.AU)
             Visual(VisualKind.Animated, 0.5, 0.1)
 
             FeatureMusic("M-VGMDB-AL-86592-1")

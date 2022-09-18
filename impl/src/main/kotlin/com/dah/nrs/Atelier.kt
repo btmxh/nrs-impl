@@ -182,7 +182,7 @@ fun DSLScope.Atelier() {
             ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
 
             // i hate "bủ nio" (it's a meme lol)
-            NEI(8.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
+            NEI(0.8, Emotion.AU to 0.5, Emotion.AP to 0.5)
         }
 
         Entry {

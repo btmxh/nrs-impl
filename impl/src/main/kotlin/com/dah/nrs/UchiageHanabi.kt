@@ -18,7 +18,7 @@ fun DSLScope.UchiageHanabi() {
             idMAL = 34498 // generated(fill_anime_metadata.dart v0.1.1)
 
             // SLN rng
-            AEI(1.0, Emotion.CU)
+            AEI(0.1, Emotion.CU)
 
             bestGirl = "Oikawa Nazuna"
 

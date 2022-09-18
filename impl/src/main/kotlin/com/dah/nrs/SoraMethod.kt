@@ -23,13 +23,13 @@ fun DSLScope.SoraMethod() {
             bestGirl = "Komiya Nonoka"
 
             // Drama in this anime is executed pretty well.
-            AEI(7.5, Emotion.CU)
+            AEI(0.75, Emotion.CU)
 
             // beasttrollminecraft
             Meme(0.3, 6)
 
             // First anime to (be able to) use OP/ED visual + music to strengthen the sadness.
-            AEI(5.0, Emotion.CU)
+            AEI(0.5, Emotion.CU)
 
             // OP/ED very good too.
             FeatureMusic("M-VGMDB-AL-47402-1")

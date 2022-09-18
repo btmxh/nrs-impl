@@ -47,12 +47,12 @@ fun DSLScope.SB69() {
             contributors["A-MAL-32038"] = 0.25
         }
 
-        AEI(5.0, Emotion.AP) {
+        AEI(0.5, Emotion.AP) {
             contributors["A-MAL-27441"] = 0.5
             contributors["A-MAL-32038"] = 0.5
         }
 
-        AEI(2.0, Emotion.AP) {
+        AEI(0.2, Emotion.AP) {
             contributors["A-MAL-40763"] = 0.6
             contributors["A-MAL-41520"] = 0.4
         }
@@ -109,12 +109,12 @@ fun DSLScope.SB69() {
             bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
 
             // the lesson thingy was pretty cool ig
-            AEI(2.0, Emotion.MP)
+            AEI(0.2, Emotion.MP)
 
             // I almost cried at the ailane thing
             // <strikethrough>but NEI because gigachad animes don't farm tears</strikethrough>
             // didn't care didn't ask, and the NEI/AEI rework is here either way
-            AEI(7.0, Emotion.MP)
+            AEI(0.7, Emotion.MP)
 
             FeatureMusic("M-VGMDB-AL-61217-1")
             FeatureMusic("M-VGMDB-AL-61940-1")
@@ -140,7 +140,7 @@ fun DSLScope.SB69() {
             // my heart skipped a beat when the cat
             // appeared in last ep
             // keking
-            NEI(7.5, Emotion.MP)
+            NEI(0.75, Emotion.MP)
 
             FeatureMusic("M-VGMDB-AL-93440-1")
             FeatureMusic("M-VGMDB-AL-93440-3")
@@ -179,7 +179,7 @@ fun DSLScope.SB69() {
             // basically in ep 1&2, the cat has little screentime,
             // and considering i have to wait 2 long weeks to watch
             // this, it's frustrating af.
-            NEI(5.0, Emotion.AU)
+            NEI(0.5, Emotion.AU)
 
             // basically the cat va in s4 focuses on moe more
             // than the fact that the cat is kinda reserved and shit
@@ -330,7 +330,7 @@ fun DSLScope.SB69() {
                 title = "Close to you (詩杏 ver.)" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(3.5)
 
-                NEI(2.5, Emotion.MP)
+                NEI(0.25, Emotion.MP)
             }
         }
 
@@ -350,12 +350,12 @@ fun DSLScope.SB69() {
         }
 
         // "visual"s of hiromemes and mashiro start line are good
-        NEI(5.0, Emotion.MP) {
+        NEI(0.5, Emotion.MP) {
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-1"] = 0.25
         }
 
-        AEI(5.0, Emotion.CP) {
+        AEI(0.5, Emotion.CP) {
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-3"] = 0.25
         }
@@ -614,7 +614,7 @@ fun DSLScope.SB69() {
                 // ^ clueless mfs
 
                 FesALiveMusic(8.0)
-                NEI(5.0, Emotion.MP)
+                NEI(0.5, Emotion.MP)
 
                 // (the love song parody lyrics shit of me to rst, translated to english)
 

@@ -28,10 +28,10 @@ fun DSLScope.SoraYori() {
             AnimeProgressOld(Boredom.Dropped, 9)
 
             // first anime to do cp-farming
-            AEI(8.0, Emotion.CP)
+            AEI(0.8, Emotion.CP)
 
             // the girls are comfy too
-            NEI(7.5, Emotion.MP)
+            NEI(0.75, Emotion.MP)
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 

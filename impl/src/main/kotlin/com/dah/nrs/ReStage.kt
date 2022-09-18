@@ -100,13 +100,13 @@ fun DSLScope.ReStage() {
     }
 
     // overture: shelter incident
-    AEI(5.0, Emotion.CP) {
+    AEI(0.5, Emotion.CP) {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
     }
 
     // ed visual slaps
-    AEI(2.5, Emotion.CP) {
+    AEI(0.25, Emotion.CP) {
         contributors["M-VGMDB-AL-78532-1"] = 0.25
         contributors["A-MAL-38009"] = 0.75
     }
@@ -989,7 +989,7 @@ fun DSLScope.ReStage() {
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
     }
 
-    AEI(10.0, Emotion.CP to 0.9, Emotion.MP to 0.1) {
+    AEI(1.0, Emotion.CP to 0.9, Emotion.MP to 0.1) {
         contributors["A-MAL-37890"] = 0.5
         contributors["A-MAL-38009"] = 0.45
         contributors["GF-VGMDB-7059"] = 0.05

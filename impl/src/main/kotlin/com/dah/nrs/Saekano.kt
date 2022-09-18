@@ -79,7 +79,7 @@ fun DSLScope.Saekano() {
             idMAL = 36885 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Megumi Kato"
             // humor
-            NEI(2.5, Emotion.AP)
+            NEI(0.25, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 1)
             Visual(VisualKind.Animated, 0.55, 0.3)
         }

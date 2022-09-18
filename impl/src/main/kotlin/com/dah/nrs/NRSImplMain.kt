@@ -43,7 +43,7 @@ fun main() =
             bestGirl = "Chisato Sumiyoshi"
 
             // iirc i liked this anime's plot
-            AEI(3.0, Emotion.AP)
+            AEI(0.3, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
@@ -58,7 +58,7 @@ fun main() =
             bestGirl = "Chitanda Eru"
 
             // ig it's kinda good
-            NEI(3.0, Emotion.AP)
+            NEI(0.3, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 22)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
@@ -82,7 +82,7 @@ fun main() =
             // kaomeme
             bestGirl = "Sasaki Kaori"
             // Ending did hit me
-            NEI(5.0, Emotion.CU)
+            NEI(0.5, Emotion.CU)
             // osuhow memes
             // This anime saved me in the Math Qualifiers lmao,
             // and VMO2020 too.
@@ -113,7 +113,7 @@ fun main() =
             // Koe no Katachi has solid drama
             // But sadly, it's the first anime so there's no PADS
             // or tears
-            AEI(3.0, Emotion.CU)
+            AEI(0.3, Emotion.CU)
 
             // the first anime + Giap-Ngoc match = unlimited memes
             Meme(1.0, numDays("2017-05-12" /*vietnamese premiere date*/, "2017-09-15" /*sln*/))
@@ -151,7 +151,7 @@ fun main() =
             bestGirl = "Takamiya Naho"
 
             // from nrs1
-            AEI(2.5, Emotion.CU)
+            AEI(0.25, Emotion.CU)
             AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
@@ -228,7 +228,7 @@ fun main() =
 
             bestGirl = "Mizuno Akane"
             // ending sadge
-            AEI(2.5, Emotion.CU)
+            AEI(0.25, Emotion.CU)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
@@ -265,7 +265,7 @@ fun main() =
             bestGirl = "Kaoruko Moeta"
 
             AnimeProgressOld(Boredom.Completed, 12)
-            NEI(2.0, Emotion.AP)
+            NEI(0.2, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -314,7 +314,7 @@ fun main() =
             bestGirl = "Yamauchi Sakura"
 
             AnimeProgressOld(Boredom.Completed, 1)
-            AEI(1.0, Emotion.CU)
+            AEI(0.1, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
@@ -329,10 +329,10 @@ fun main() =
             bestGirl = "Asagiri Aya"
 
             // poor best girl
-            AEI(2.0, Emotion.CU)
+            AEI(0.2, Emotion.CU)
 
             // sad ending (i don't remember now lmfao)
-            AEI(5.0, Emotion.CU)
+            AEI(0.5, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
             AnimeProgressOld(Boredom.Completed, 12)
         }
@@ -373,7 +373,7 @@ fun main() =
 
             AnimeProgressOld(Boredom.Completed, 12)
             // this was funny af (iirc), really enjoyed it
-            AEI(6.0, Emotion.AP)
+            AEI(0.6, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -411,7 +411,7 @@ fun main() =
             AnimeProgressOld(Boredom.Completed, 11)
             Visual(VisualKind.Animated, 0.3, 0.4)
             // "plot is good"
-            AEI(5.0, Emotion.AP)
+            AEI(0.5, Emotion.AP)
         }
 
         Entry {
@@ -422,7 +422,7 @@ fun main() =
             idAniList = 105156 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38659 // generated(fill_anime_metadata.dart v0.1.1)
             // very funny lmao
-            AEI(5.0, Emotion.AP)
+            AEI(0.5, Emotion.AP)
             // restep sequel leaked no way
             bestGirl = "Ristarte"
             AnimeProgressOld(Boredom.Completed, 12)
@@ -549,7 +549,7 @@ fun main() =
             bestGirl = "Akari"
 
             // the hatsune miku method
-            AEI(2.0, Emotion.AP)
+            AEI(0.2, Emotion.AP)
             Visual(VisualKind.Animated, 0.3, 0.3)
             AnimeProgressOld(Boredom.Completed, 12)
         }
@@ -570,7 +570,7 @@ fun main() =
             AnimeProgressOld(Boredom.Completed, 13)
             KilledBy("F-VGMDB-2588", 0.5, 0.3)
             // plot is very good
-            AEI(4.0, Emotion.AP)
+            AEI(0.4, Emotion.AP)
         }
 
         Entry {
@@ -662,7 +662,7 @@ fun main() =
             KilledBy("A-MAL-41530", 0.1, 0.3)
 
             // lol
-            AEI(5.0, Emotion.AU to 0.5, Emotion.AP to 0.5)
+            AEI(0.5, Emotion.AU to 0.5, Emotion.AP to 0.5)
         }
 
         Entry {
@@ -678,7 +678,7 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.4)
             KilledBy("F-VGMDB-3245", 0.1, 0.2)
             KilledBy("F-VGMDB-7059", 0.1, 0.2)
-            NEI(8.0, Emotion.AP to 1.0)
+            NEI(0.8, Emotion.AP to 1.0)
         }
 
         Entry {
@@ -709,7 +709,7 @@ fun main() =
             bestGirl = "Akagi Rin"
 
             // denchi shoujo my fucking beloved wtf i love this so fking much
-            AEI(5.0, Emotion.MP to 0.5, Emotion.AP to 0.5)
+            AEI(0.5, Emotion.MP to 0.5, Emotion.AP to 0.5)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.4, 0.3)
             KilledBy("F-VGMDB-3245", 0.3, 0.15)
@@ -765,7 +765,7 @@ fun main() =
             AnimeProgressOld(Boredom.Completed, 24)
 
             // decent plot ngl
-            NEI(8.0, Emotion.AP)
+            NEI(0.8, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.4)
         }
 

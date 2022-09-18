@@ -34,7 +34,7 @@ fun DSLScope.HelloWorld() {
         Visual(VisualKind.Animated, 0.4, 0.6)
     }
 
-    AEI(9.0, Emotion.CU) {
+    AEI(0.9, Emotion.CU) {
         contributors["A-MAL-38816"] = 0.4
         contributors["A-MAL-40295"] = 0.6
     }

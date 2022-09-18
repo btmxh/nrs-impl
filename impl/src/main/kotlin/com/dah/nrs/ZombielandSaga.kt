@@ -17,7 +17,7 @@ fun DSLScope.ZombielandSaga() {
             bestGirl = "Minamoto Sakura"
 
             // kinda funny
-            AEI(5.0, Emotion.AP)
+            AEI(0.5, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
