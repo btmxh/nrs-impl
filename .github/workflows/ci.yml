@@ -51,6 +51,11 @@ jobs:
       if: ${{ contains(github.ref, 'refs/heads') }}
       with:
         commit_message: 'chore(impl): :bookmark: Filled metadata'
+    - name: Split branch name
+      id: split
+      run: echo "::set-output name=fragment::${BRANCH##*/}"
+      env:
+        BRANCH: ${{ github.ref_name }}
     - name: Upload generated files as a release
       uses: marvinpinto/action-automatic-releases@latest
       if: ${{ contains(github.ref, 'refs/heads') }}
@@ -58,7 +63,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "latest-${{ github.ref_name }}"
+        automatic_release_tag: "latest-${{ steps.split.outputs.fragment }}"
         title: "Release #${{ github.run_number }}"
         prerelease: false
         files: |
