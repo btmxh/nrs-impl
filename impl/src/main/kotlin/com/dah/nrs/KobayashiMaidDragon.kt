@@ -46,7 +46,7 @@ fun DSLScope.KobayashiMaidDragon() {
             idKitsu = 12243 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 21776 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 33206 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Tohru"
+            bestGirl = "Tohru" // impl_overridden
 
             // funny ig idk tbh
             NEI(0.75, Emotion.AP)
