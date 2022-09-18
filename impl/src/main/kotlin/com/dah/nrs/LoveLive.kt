@@ -312,7 +312,7 @@ fun DSLScope.LoveLive() {
                 title = "LIKE IT! LOVE IT!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:21") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.55)
-                OsuSong(personal = 3.0)
+                OsuSong(personal = 0.3)
             }
         }
 

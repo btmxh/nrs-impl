@@ -20,7 +20,7 @@ fun DSLScope.Saekano() {
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 title = "M♭" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.2)
-                OsuSong(personal = 1.0)
+                OsuSong(personal = 0.1)
             }
         }
 

@@ -318,7 +318,7 @@ fun DSLScope.CommonArtists() {
                     MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                     title = "CheerS" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.4)
-                    OsuSong(personal = 4.0, community = 0.0)
+                    OsuSong(personal = 0.4, community = 0.0)
                 }
             }
         }
@@ -727,7 +727,7 @@ fun DSLScope.CommonArtists() {
                     title = "Kuchizuke Diamond" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("3:57") // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.35)
-                    OsuSong(personal = 4.0, community = 5.0)
+                    OsuSong(personal = 0.4, community = 0.5)
                 }
             }
         }
@@ -766,7 +766,7 @@ fun DSLScope.CommonArtists() {
                     MusicConsumedProgress("3:38") // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.4)
 
-                    OsuSong(personal = 6.0, community = 3.0)
+                    OsuSong(personal = 0.6, community = 0.3)
                 }
 
                 SubIDEntry("3") {
@@ -933,7 +933,7 @@ fun DSLScope.CommonArtists() {
                         // Insane
                         // osugame
                         Music(0.25)
-                        OsuSong(personal = 6.0, community = 0.0)
+                        OsuSong(personal = 0.6, community = 0.0)
                     }
                 }
             }

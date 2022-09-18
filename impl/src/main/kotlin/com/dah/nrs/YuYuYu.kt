@@ -39,7 +39,7 @@ fun DSLScope.YuYuYu() {
                 MusicConsumedProgress("3:12") // generated(fill_music_metadata.dart v0.1.1)
                 title = "U・D・N" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.4)
-                OsuSong(personal = 3.0)
+                OsuSong(personal = 0.3)
             }
         }
 

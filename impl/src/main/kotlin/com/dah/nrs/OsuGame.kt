@@ -30,7 +30,7 @@ fun DSLScope.OsuGame() {
                 Music(0.15)
                 // i'm not overstreaming 222 bpm
                 NEI(0.5, Emotion.AP)
-                OsuSong(personal = 2.0, community = 8.0)
+                OsuSong(personal = 0.2, community = 0.8)
             }
         }
     }
@@ -42,7 +42,7 @@ fun DSLScope.OsuGame() {
         // we kicked a kid, united
         // r/osuplace stuff
         Meme(0.5, 6)
-        OsuSong(personal = 2.0, community = 8.0)
+        OsuSong(personal = 0.2, community = 0.8)
 
         // Length source: https://www.youtube.com/watch?v=rnWXN8m6drc
         Music(0.4)

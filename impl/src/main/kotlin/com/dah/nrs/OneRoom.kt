@@ -34,7 +34,7 @@ fun DSLScope.OneRoom() {
                 // OSHIETE KURETA KIMI TO SAGASHI NI YUKOU
                 // H A R U M A C H I   K U R O B A A A
                 Music(0.35)
-                OsuSong(personal = 6.0, community = 8.0)
+                OsuSong(personal = 0.6, community = 0.8)
                 Remix("M-37")
             }
         }
@@ -62,6 +62,6 @@ fun DSLScope.OneRoom() {
         // Length source: https://www.youtube.com/watch?v=2OfJYisHbkI
         Music(0.3)
         MusicConsumedProgress("0:36") // impl_overriden
-        OsuSong(personal = 6.0, community = 8.0)
+        OsuSong(personal = 0.6, community = 0.8)
     }
 }

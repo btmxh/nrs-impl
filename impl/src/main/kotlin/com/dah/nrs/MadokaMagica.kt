@@ -92,7 +92,7 @@ fun DSLScope.MadokaMagica() {
                 // browiec's Wisdom
                 // Misunderstanding
                 // osu! 9.97⭐UTSUROI +HDDTHR 1108pp | WhiteCat
-                OsuSong(personal = 6.5, community = 1.0)
+                OsuSong(personal = 0.65, community = 0.1)
 
                 Music(0.5)
             }

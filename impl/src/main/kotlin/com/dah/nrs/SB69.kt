@@ -754,7 +754,7 @@ fun DSLScope.SB69() {
         // Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix
         Music(0.6)
         MusicConsumedProgress("5:02") // impl_overridden
-        OsuSong(personal = 7.5)
+        OsuSong(personal = 0.75)
     }
 
     RSTSB69DuopolyEra(0.8) {

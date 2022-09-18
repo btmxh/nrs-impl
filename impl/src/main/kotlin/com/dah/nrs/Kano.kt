@@ -77,7 +77,7 @@ fun DSLScope.Kano() {
                     title = "World on Color" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.6)
                     NEI(0.2, Emotion.MP)
-                    OsuSong(personal = 1.0, community = 0.0)
+                    OsuSong(personal = 0.1, community = 0.0)
                 }
             }
 
@@ -274,7 +274,7 @@ fun DSLScope.Kano() {
 
                 Visual(VisualKind.AnimatedMV, 0.35, 0.7)
                 // 210 bpm spaced bursts
-                OsuSong(personal = 5.0)
+                OsuSong(personal = 0.5)
 
                 // Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg
                 Music(0.5)

@@ -44,7 +44,7 @@ fun DSLScope.KoisuruAsteroid() {
             // https://osu.ppy.sh/beatmapsets/1256770#osu/2611562
 
             Music(0.5)
-            OsuSong(personal = 4.0)
+            OsuSong(personal = 0.4)
         }
     }
 }

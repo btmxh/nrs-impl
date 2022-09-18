@@ -54,7 +54,7 @@ fun DSLScope.Bokuben() {
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Seishun Seminar" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.25)
-                OsuSong(personal = 2.0)
+                OsuSong(personal = 0.2)
             }
         }
 
@@ -68,7 +68,7 @@ fun DSLScope.Bokuben() {
                 MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Can now, Can now" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.25)
-                OsuSong(personal = 1.0)
+                OsuSong(personal = 0.1)
             }
         }
     }

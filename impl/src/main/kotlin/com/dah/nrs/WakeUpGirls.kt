@@ -148,7 +148,7 @@ fun DSLScope.WakeUpGirls() {
         SubIDEntry("1") {
             MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
             title = "One In A Billion" // generated(fill_music_metadata.dart v0.1.1)
-            OsuSong(personal = 5.0, community = 1.0)
+            OsuSong(personal = 0.5, community = 0.1)
             Music(0.6)
         }
     }

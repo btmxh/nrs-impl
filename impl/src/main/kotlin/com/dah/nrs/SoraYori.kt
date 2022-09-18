@@ -57,7 +57,7 @@ fun DSLScope.SoraYori() {
                 MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 title = "One Step" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.3)
-                OsuSong(personal = 4.0, community = 0.0)
+                OsuSong(personal = 0.4, community = 0.0)
             }
         }
     }

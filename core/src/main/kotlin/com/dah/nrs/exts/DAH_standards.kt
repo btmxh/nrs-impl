@@ -473,12 +473,12 @@ fun MusicContainFactor(numEntries: Int, numContributeEntries: Int) =
     MusicContainFactor(numEntries.toDouble() / numContributeEntries)
 
 fun AcceptImpact.OsuSong(personal: Double = 0.0, community: Double = 0.0) {
-    val personalFactor = mapClampThrow(personal, 0.0..10.0, 0.0..0.5) {
-        "$personal not in range 0..10"
+    val personalFactor = mapClampThrow(personal, 0.0..1.0, 0.0..0.5) {
+        "$personal not in range 0..1"
     }
 
-    val communityFactor = mapClampThrow(community, 0.0..10.0, 0.0..0.2) {
-        "$community not in range 0..10"
+    val communityFactor = mapClampThrow(community, 0.0..1.0, 0.0..0.2) {
+        "$community not in range 0..1"
     }
 
     Impact {

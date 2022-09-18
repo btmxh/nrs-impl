@@ -350,7 +350,7 @@ fun DSLScope.ReStage() {
                 MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
                 // [plasmagunstepgica]
                 ReStepMusic(0.3)
-                OsuSong(personal = 2.0)
+                OsuSong(personal = 0.2)
             }
         }
 
@@ -371,7 +371,7 @@ fun DSLScope.ReStage() {
                 // the song that started it all
                 // https://www.youtube.com/watch?v=9nbo5smhj8M
                 // [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu!
-                OsuSong(personal = 5.0)
+                OsuSong(personal = 0.5)
 
                 ReStepMusic(0.5)
             }
@@ -469,7 +469,7 @@ fun DSLScope.ReStage() {
                 // ty based _kotachi_ and [Karcher] (and other mapsets too, but i haven't played them)
                 // for [It's KiRaRe!!!!], [G11K's Insane] and [Cute Mana]
                 // also my cut ver. sucks KEKW
-                OsuSong(personal = 6.0)
+                OsuSong(personal = 0.6)
 
                 // one day, just like KiRaRe with this song,
                 // the girls will shine and overtake the number 1 of Oricon ranking

@@ -28,7 +28,7 @@ fun DSLScope.Idolmaster() {
                 MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.35)
-                OsuSong(personal = 8.0)
+                OsuSong(personal = 0.8)
             }
         }
         Entry {
@@ -54,7 +54,7 @@ fun DSLScope.Idolmaster() {
                 MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
                 title = "UNION!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.35)
-                OsuSong(personal = 5.0, community = 2.0)
+                OsuSong(personal = 0.5, community = 0.2)
             }
         }
 

@@ -20,7 +20,7 @@ fun DSLScope.Kaguya() {
                 MusicConsumedProgress("2:58") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Chikatto Chika Chika♡" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.25)
-                OsuSong(personal = 5.0, community = 4.0)
+                OsuSong(personal = 0.5, community = 0.4)
             }
         }
 

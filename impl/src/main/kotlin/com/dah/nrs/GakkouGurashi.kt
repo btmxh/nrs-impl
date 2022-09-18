@@ -20,7 +20,7 @@ fun DSLScope.GakkouGurashi() {
                 MusicConsumedProgress("3:38") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Friend Shitai" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.3)
-                OsuSong(personal = 5.0)
+                OsuSong(personal = 0.5)
             }
         }
 

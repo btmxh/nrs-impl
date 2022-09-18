@@ -185,7 +185,7 @@ fun DSLScope.Bandori() {
                 title = "Y.O.L.O!!!!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.35)
-                OsuSong(personal = 7.0)
+                OsuSong(personal = 0.7)
             }
         }
 
@@ -209,14 +209,14 @@ fun DSLScope.Bandori() {
                 title = "Cherry Bomb" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:07") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.3)
-                OsuSong(personal = 6.0)
+                OsuSong(personal = 0.6)
             }
 
             SubIDEntry("6") {
                 title = "Harumodoki" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.25)
-                OsuSong(personal = 5.0)
+                OsuSong(personal = 0.5)
 
                 Remix("M-35")
             }
@@ -232,7 +232,7 @@ fun DSLScope.Bandori() {
                 title = "Silhouette" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
-                OsuSong(personal = 5.5)
+                OsuSong(personal = 0.55)
             }
         }
 
