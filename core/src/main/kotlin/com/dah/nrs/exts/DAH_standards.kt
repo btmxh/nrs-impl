@@ -104,7 +104,7 @@ fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>
 
 fun AcceptImpact.AEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
     val mappedScore = mapClampThrow(abs(score), 0.0..1.0, 2.0..3.0) {
-        "$score not in range 0..10"
+        "$score not in range 0..1"
     }.withSign(score)
 
     Impact {
@@ -119,7 +119,7 @@ fun AcceptImpact.AEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double
 
 fun AcceptImpact.NEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
     val mappedScore = mapClampThrow(abs(score), 0.0..1.0, 0.0..2.0) {
-        "$score not in range 0..10"
+        "$score not in range 0..1"
     }.withSign(score)
 
     Impact {
