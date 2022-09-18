@@ -7,6 +7,7 @@ if sys.version_info < (3, 0):
 labels = [
     "ID",
     "Title",
+    "Status",
     "MAL normalized score",
     "Overall",
     "AU",
@@ -26,6 +27,7 @@ labels = [
 def output(id, entry, score): return [
     id,
     entry['DAH_meta']['DAH_entry_title'],
+    entry['DAH_meta'].get('DAH_entry_progress', {}).get('status', 'Unknown'),
     score['DAH_meta']['DAH_anime_normalize']['score'],
     score['DAH_meta']['DAH_overall_score'],
 ] + score['overallVector']
