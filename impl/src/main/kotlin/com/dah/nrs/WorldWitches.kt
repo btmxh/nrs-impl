@@ -45,7 +45,9 @@ fun DSLScope.WorldWitches() {
             // atmospheric farming than the supposed-to-be-realistic-
             // and-stuff one (meme post)
             // lolololololol
-            NEI(0.8, Emotion.CU to 0.75, Emotion.CP to 0.25)
+
+            // the "selection project" of summer 2022
+            AEI(0.8, Emotion.CU to 0.9, Emotion.CP to 0.1)
 
             AnimeProgressOld(Boredom.Watching, 11)
             KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
