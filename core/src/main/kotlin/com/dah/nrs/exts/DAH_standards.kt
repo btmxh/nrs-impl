@@ -205,7 +205,7 @@ fun AcceptImpact.EPI(plotScore: Double, block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "EPI"
         score = vector {
-            set(Emotion.AP, mapClampThrow(plotScore, 0.0..10.0, 3.5..4.5) {
+            set(Emotion.AP, mapClampThrow(plotScore, 0.0..1.0, 3.5..4.5) {
                 "$score not in range 0..10"
             })
         }

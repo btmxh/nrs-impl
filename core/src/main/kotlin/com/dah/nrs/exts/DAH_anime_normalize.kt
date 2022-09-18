@@ -90,7 +90,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 AnimeProgressOld(Boredom.Completed, 12)
                 Cry(Emotion.CU)
                 PADS(1, Emotion.CU)
-                EPI(5.0)
+                EPI(0.5)
                 Visual(VisualKind.Animated, 0.6, 0.5)
             }
 
@@ -102,7 +102,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 Cry(Emotion.CU)
                 PADS(5, Emotion.CU)
                 EHI()
-                EPI(10.0)
+                EPI(1.0)
                 Visual(VisualKind.Animated, 0.7, 0.5)
             }
 
@@ -116,7 +116,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 PADS(5, Emotion.CP)
                 AEI(0.75, Emotion.MP)
                 EHI()
-                EPI(10.0)
+                EPI(1.0)
                 FeatureMusic("M-1")
                 FeatureMusic("M-2")
                 FeatureMusic("M-3")
