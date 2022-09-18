@@ -358,7 +358,7 @@ fun AcceptImpact.AdditionalImpact(description: String, value: Double, block: DSL
     }
 }
 
-// temporary standard: 5.0 is Re:Rays' level
+// temporary standard: 0.5 is Re:Rays' level
 fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "Music"
