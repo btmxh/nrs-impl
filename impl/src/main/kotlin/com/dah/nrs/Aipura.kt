@@ -68,5 +68,16 @@ fun DSLScope.Aipura() {
             // https://www.youtube.com/watch?v=bw3UygAi2oo
             // lmfao
         }
+
+        // a little bit off topic but the Rie Murakawa girl
+        // https://idoly-pride.fandom.com/wiki/Miho
+        // "miho used to be a member of a popular two-member idol group that suddenly
+        // disbanded just before they could reach the BIG 4. She is the brains of the
+        // group, and is mild-mannered, but has a vindictive side."
+        // clearly the "two-member idol group" is an AKM reference,
+        // BIG 4 is Criticrista, "the brains" is somewhat an
+        // Atelier-Chemistry reference (?)
+        // the gigachad mapper sure know their stuff
+        // sasuga le gigachad mapper
     }
 }
