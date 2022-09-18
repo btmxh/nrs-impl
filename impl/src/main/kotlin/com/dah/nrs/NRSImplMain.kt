@@ -40,7 +40,7 @@ fun main() =
             idKitsu = 6682 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 12175 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Koi to Senkyo to Chocolate" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Chisato Sumiyoshi"
+            bestGirl = "Chisato Sumiyoshi" // generated(generate_best_girls.dart v0.1.0)
 
             // iirc i liked this anime's plot
             AEI(0.3, Emotion.AP)
@@ -55,7 +55,7 @@ fun main() =
             idKitsu = 6686 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 12189 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Hyouka" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Chitanda Eru"
+            bestGirl = "Eru Chitanda" // generated(generate_best_girls.dart v0.1.0)
 
             // ig it's kinda good
             NEI(0.3, Emotion.AP)
@@ -80,7 +80,7 @@ fun main() =
             title = "Ushinawareta Mirai wo Motomete" // generated(fill_anime_metadata.dart v0.1.1)
 
             // kaomeme
-            bestGirl = "Sasaki Kaori"
+            bestGirl = "Kaori Sasaki" // generated(generate_best_girls.dart v0.1.0)
             // Ending did hit me
             NEI(0.5, Emotion.CU)
             // osuhow memes
@@ -109,7 +109,7 @@ fun main() =
             idAniDB = 28851 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Koe no Katachi" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Nishimiya Shouko"
+            bestGirl = "Shouko Nishimiya" // generated(generate_best_girls.dart v0.1.0)
             // Koe no Katachi has solid drama
             // But sadly, it's the first anime so there's no PADS
             // or tears
@@ -133,7 +133,7 @@ fun main() =
             idAniDB = 31952 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Kono Bijutsubu ni wa Mondai ga Aru!" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Usami Mizuki"
+            bestGirl = "Mizuki Usami" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -148,7 +148,7 @@ fun main() =
             idAniDB = 32729 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Orange" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Takamiya Naho"
+            bestGirl = "Naho Takamiya" // generated(generate_best_girls.dart v0.1.0)
 
             // from nrs1
             AEI(0.25, Emotion.CU)
@@ -168,7 +168,7 @@ fun main() =
             idAniDB = 33731 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Gabriel DropOut" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Satanichia Kurumizawa McDowell"
+            bestGirl = "Satanichia Kurumizawa McDowell" // generated(generate_best_girls.dart v0.1.0)
             // iToddlers BTFO
             Meme(0.4, 25)
 
@@ -184,7 +184,7 @@ fun main() =
             idAniDB = 34240 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Shelter (Music)" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Rin"
+            bestGirl = "Rin" // impl_overridden
 
             // catJAM
             Music(0.6)
@@ -209,7 +209,7 @@ fun main() =
 
             seasonal = true // iirc
 
-            bestGirl = "Tendou Karen"
+            bestGirl = "Karen Tendou" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.6, 0.3)
@@ -226,7 +226,7 @@ fun main() =
             idAniDB = 34822 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Tsuki ga Kirei" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Mizuno Akane"
+            bestGirl = "Akane Mizuno" // generated(generate_best_girls.dart v0.1.0)
             // ending sadge
             AEI(0.25, Emotion.CU)
             AnimeProgressOld(Boredom.Completed, 12)
@@ -240,7 +240,7 @@ fun main() =
             idKitsu = 13752 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 35241 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Konohana Kitan" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Natsume" // rst girl my beloved
+            bestGirl = "Natsume" // generated(generate_best_girls.dart v0.1.0)
 
             // definitely not reminding me of mashu mashu from sb69
 
@@ -262,7 +262,7 @@ fun main() =
             idKitsu = 13722 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 35756 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Comic Girls" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Kaoruko Moeta"
+            bestGirl = "Kaoruko Moeta" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             NEI(0.2, Emotion.AP)
@@ -280,7 +280,7 @@ fun main() =
             idAniDB = 35860 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Karakai Jouzu no Takagi-san" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Takagi"
+            bestGirl = "Takagi" // generated(generate_best_girls.dart v0.1.0)
 
             // episodic ngl
             AnimeProgressOld(Boredom.Dropped, 2)
@@ -296,7 +296,7 @@ fun main() =
             title = "Net-juu no Susume" // generated(fill_anime_metadata.dart v0.1.1)
 
             // lmfao
-            bestGirl = "Washing Machine"
+            bestGirl = "Washing Machine" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 10)
             Visual(VisualKind.Animated, 0.3, 0.4)
@@ -311,7 +311,7 @@ fun main() =
             title = "Kimi no Suizou wo Tabetai" // generated(fill_anime_metadata.dart v0.1.1)
 
             // facebook anime lmfao
-            bestGirl = "Yamauchi Sakura"
+            bestGirl = "Sakura Yamauchi" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
             AEI(0.1, Emotion.CU)
@@ -326,7 +326,7 @@ fun main() =
             idAniDB = 36266 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Mahou Shoujo Site" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Asagiri Aya"
+            bestGirl = "Aya Asagiri" // generated(generate_best_girls.dart v0.1.0)
 
             // poor best girl
             AEI(0.2, Emotion.CU)
@@ -355,7 +355,7 @@ fun main() =
             idKitsu = 42319 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 37744 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Isekai Cheat Magician" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Azuma Rin"
+            bestGirl = "Azuma Rin" // impl_overridden
 
             AnimeProgressOld(Boredom.Dropped, 8)
             Visual(VisualKind.Animated, 0.6, 0.2)
@@ -368,7 +368,7 @@ fun main() =
             title = "Nakanohito Genome [Jikkyouchuu]" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 37926 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 102926 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Sarayashiki Karin"
+            bestGirl = "Karin Sarayashiki" // generated(generate_best_girls.dart v0.1.0)
             // akari kito va lmfao
 
             AnimeProgressOld(Boredom.Completed, 12)
@@ -386,7 +386,7 @@ fun main() =
             idKitsu = 41479 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 103139 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37982 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Tachibana Hina"
+            bestGirl = "Hina Tachibana" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
@@ -407,7 +407,7 @@ fun main() =
             idKitsu = 42260 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 105190 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38656 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Karino Shuka"
+            bestGirl = "Shuka Karino" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 11)
             Visual(VisualKind.Animated, 0.3, 0.4)
             // "plot is good"
@@ -424,7 +424,7 @@ fun main() =
             // very funny lmao
             AEI(0.5, Emotion.AP)
             // restep sequel leaked no way
-            bestGirl = "Ristarte"
+            bestGirl = "Ristarte" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
@@ -438,7 +438,7 @@ fun main() =
             idMAL = 38790 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu." // generated(fill_anime_metadata.dart v0.1.1)
             idKitsu = 42043 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Maple"
+            bestGirl = "Maple" // generated(generate_best_girls.dart v0.1.0)
 
             KilledBy("F-VGMDB-1945", 0.2, 0.5)
             AnimeProgressOld(Boredom.Dropped, 2)
@@ -455,7 +455,7 @@ fun main() =
             idKitsu = 42203 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 39324 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai." // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Latina"
+            bestGirl = "Latina" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 4)
             Visual(VisualKind.Animated, 0.4, 0.4)
@@ -473,7 +473,7 @@ fun main() =
             title = "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!" // generated(fill_anime_metadata.dart v0.1.1)
 
             // rst girl vs akm girl lol
-            bestGirl = "Sarutobi Shinobu"
+            bestGirl = "Shinobu Sarutobi" // generated(generate_best_girls.dart v0.1.0)
 
             // also akari kito ed wtf
             // and the op is that osu song
@@ -492,7 +492,7 @@ fun main() =
             idKitsu = 42342 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 39790 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Adachi to Shimamura" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Shimamura Hougetsu"
+            bestGirl = "Hougetsu Shimamura" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.TempOnHold, 3)
             Visual(VisualKind.Animated, 0.65, 0.3)
@@ -514,7 +514,7 @@ fun main() =
             title = "Assault Lily: Bouquet" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Shirai Yuyu" // himekek my beloved
             bestGirl = "Wang Yujia" // noway it's the kimi no rhapsody girl
-            bestGirl = "Yoshimura Thi Mai" // top kek
+            bestGirl = "Thi Mai Yoshimura" // generated(generate_best_girls.dart v0.1.0)
 
             // in all seriousness, this is quite good.
             // the 2 main girls are pretty match
@@ -531,7 +531,7 @@ fun main() =
             idKitsu = 42627 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 40571 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Majo no Tabitabi" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Elaina"
+            bestGirl = "Elaina" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
             AnimeProgressOld(Boredom.Dropped, 6)
@@ -546,7 +546,7 @@ fun main() =
             idAniDB = 40783 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Shachou, Battle no Jikan Desu!" // generated(fill_anime_metadata.dart v0.1.1)
             // insert hatsune miku joke here
-            bestGirl = "Akari"
+            bestGirl = "Akari" // generated(generate_best_girls.dart v0.1.0)
 
             // the hatsune miku method
             AEI(0.2, Emotion.AP)
@@ -564,7 +564,7 @@ fun main() =
             idKitsu = 43534 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 41619 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Munou na Nana" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Hiiragi Nana"
+            bestGirl = "Nana Hiiragi" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.5)
             AnimeProgressOld(Boredom.Completed, 13)
@@ -580,7 +580,7 @@ fun main() =
             idKitsu = 43204 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 41930 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Kamisama ni Natta Hi" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Izanami Kyouko"
+            bestGirl = "Kyouko Izanami" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.6, 0.4)
             AnimeProgressOld(Boredom.Dropped, 4)
@@ -602,7 +602,7 @@ fun main() =
             // already impressive
             // but that's not enough because MagiReco S2
             // is just too good
-            bestGirl = "Saki Saki"
+            bestGirl = "Saki Saki" // generated(generate_best_girls.dart v0.1.0)
             Visual(VisualKind.Animated, 0.4, 0.4)
             AnimeProgressOld(Boredom.Dropped, 5)
             KilledBy("A-MAL-41530", 0.2, 0.5)
@@ -615,7 +615,7 @@ fun main() =
             idKitsu = 44116 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 46093 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Shiroi Suna no Aquatope" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Miyazawa Fuuka"
+            bestGirl = "Fuuka Miyazawa" // generated(generate_best_girls.dart v0.1.0)
 
             // idk tf this anime is talking about lol
             Visual(VisualKind.Animated, 0.3, 0.7)
@@ -630,7 +630,7 @@ fun main() =
             idKitsu = 42924 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 40904 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Bokutachi no Remake" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Kawasegawa Eiko"
+            bestGirl = "Eiko Kawasegawa" // generated(generate_best_girls.dart v0.1.0)
             // this was expected to be a good compoly
             // anime, but it doesn't care about that
             // and just march on with its plot
@@ -648,7 +648,7 @@ fun main() =
             idAniDB = 44203 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Seirei Gensouki" // generated(fill_anime_metadata.dart v0.1.1)
             // kimi no rhapsody girl
-            bestGirl = "Claire Celia"
+            bestGirl = "Celia Claire" // generated(generate_best_girls.dart v0.1.0)
 
             // the hoan tinh anime pt.1
             // from ep 5 to 10 there's no hoan tinh madge
@@ -672,7 +672,7 @@ fun main() =
             title = "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 47790 // generated(fill_anime_metadata.dart v0.1.1)
             idKitsu = 44393 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Dia" // *insert love live sunshine joke*
+            bestGirl = "Dia" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 6)
             Visual(VisualKind.Animated, 0.5, 0.4)
@@ -691,7 +691,7 @@ fun main() =
 
             // "babe pls have sex with me im so horny"
             // "haha the ortensia incident"
-            bestGirl = "Yotsuya Kyousuke"
+            bestGirl = "Kyousuke Yotsuya" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 5)
             Visual(VisualKind.Animated, 0.3, 0.6)
@@ -706,7 +706,7 @@ fun main() =
             idKitsu = 44300 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 48644 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Gyakuten Sekai no Denchi Shoujo" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Akagi Rin"
+            bestGirl = "Akagi Rin" // impl_overridden
 
             // denchi shoujo my fucking beloved wtf i love this so fking much
             AEI(0.5, Emotion.MP to 0.5, Emotion.AP to 0.5)
@@ -725,7 +725,7 @@ fun main() =
             idKitsu = 7713 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 17919 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Houkago no Pleiades (TV)" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Subaru" // ofc it has to be mc
+            bestGirl = "Subaru" // generated(generate_best_girls.dart v0.1.0)
 
             // didn't expect mc to fall in love tho
             AnimeProgressOld(Boredom.Completed, 12)
@@ -759,7 +759,7 @@ fun main() =
             idAniDB = 35589 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Toji no Miko" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Tagitsuhime"
+            bestGirl = "Tagitsuhime" // generated(generate_best_girls.dart v0.1.0)
             // i hate my life
 
             AnimeProgressOld(Boredom.Completed, 24)

@@ -49,7 +49,7 @@ fun DSLScope.Chuunibyou() {
 
             Visual(VisualKind.Animated, 0.6, 0.2)
 
-            bestGirl = "Nibutani Shinka"
+            bestGirl = "Shinka Nibutani" // generated(generate_best_girls.dart v0.1.0)
             // idk why
             // this is taken from NRS1
             Meme(0.15, 2)
@@ -63,7 +63,7 @@ fun DSLScope.Chuunibyou() {
             idKitsu = 7705 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 18671 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 18671 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nibutani Shinka"
+            bestGirl = "Shinka Nibutani" // generated(generate_best_girls.dart v0.1.0)
             // Shichimiya dead people almost made me cry
             // YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI
             AEI(1.0, Emotion.CU)
@@ -82,7 +82,7 @@ fun DSLScope.Chuunibyou() {
             idKitsu = 13524 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 98762 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35608 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nibutani Shinka"
+            bestGirl = "Shinka Nibutani" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 1)
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later

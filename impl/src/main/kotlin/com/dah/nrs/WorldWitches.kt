@@ -16,7 +16,7 @@ fun DSLScope.WorldWitches() {
             idAniList = 3667 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 3667 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Eila Ilmatar Juutilainen"
+            bestGirl = "Eila Ilmatar Juutilainen" // generated(generate_best_girls.dart v0.1.0)
             // "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..."
             // haha 15 funny amirite
 
@@ -37,7 +37,7 @@ fun DSLScope.WorldWitches() {
             // ngl this is a treat for our eyes
             Visual(VisualKind.Animated, 0.8, 0.05)
 //        bestGirl = "Robertson Virginia"
-            bestGirl = "Shibuya Inori"
+            bestGirl = "Inori Shibuya" // generated(generate_best_girls.dart v0.1.0)
             // inori is cuter fuck u
 
             // the ultimate L moment

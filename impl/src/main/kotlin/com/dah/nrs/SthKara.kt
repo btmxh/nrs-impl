@@ -15,7 +15,7 @@ fun DSLScope.SthKara() {
             idKitsu = 41101 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 101316 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37497 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Tsukishiro Hitomi"
+            bestGirl = "Hitomi Tsukishiro" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 13)
             // ending was good

@@ -17,7 +17,7 @@ fun DSLScope.Sakurasou() {
             idKitsu = 7023 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 13759 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 13759 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Mashiro Shiina"
+            bestGirl = "Mashiro Shiina" // generated(generate_best_girls.dart v0.1.0)
 
             // This is a very good compoly story, meaning
             // there are a lot of truly sad moments in this

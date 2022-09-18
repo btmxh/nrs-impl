@@ -29,7 +29,7 @@ fun DSLScope.Cue() {
             // tbh there are some other girls who are decent contestants
             // for best girl, like airi, yuzuha, etc. idk
             // there is also a girl named kano lmao
-            bestGirl = "Mutsuishi Haruna"
+            bestGirl = "Haruna Mutsuishi" // generated(generate_best_girls.dart v0.1.0)
 
             // the character interaction was lacking in ep1 and ep2
             // in ep3 iirc there is some

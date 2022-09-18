@@ -21,7 +21,7 @@ fun DSLScope.IsekaiQuartet() {
             // "darkness (ai kayano cricri girl va)"
             // "chris + eris (suwa ayaka rst girl va)"
             // "ram (fuck re:zero tho) (murakawa rie akm girl va)
-            bestGirl = "Ram"
+            bestGirl = "Ram" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.3, 0.5)
             AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 12)
@@ -39,7 +39,7 @@ fun DSLScope.IsekaiQuartet() {
             // then it must be 𝐓𝐇𝐄 𝐆𝐈𝐆𝐀𝐂𝐇𝐀𝐃 𝐒𝐄𝐈𝐘𝐔𝐔,
             // or the other akm girl, i'll let rina hidaka have this just
             // to make the thing balanced
-            bestGirl = "Filo"
+            bestGirl = "Filo" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.3, 0.5)
             AnimeProgressOld(Boredom.Dropped, 4)

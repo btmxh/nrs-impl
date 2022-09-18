@@ -17,7 +17,7 @@ fun DSLScope.SelePro() {
             idKitsu = 44211 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 126790 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 44275 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Koizumi Uta"
+            bestGirl = "Uta Koizumi" // generated(generate_best_girls.dart v0.1.0)
 
             Cry(Emotion.CU)
             AnimeProgressOld(Boredom.Completed, 13)

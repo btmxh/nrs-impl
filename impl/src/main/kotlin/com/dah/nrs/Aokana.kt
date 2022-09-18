@@ -17,7 +17,7 @@ fun DSLScope.Aokana() {
             // i still use her skin in osugame lmfao
             // (because all of the best girls post-aokana
             // lives in unpopular franchises like rst and sb69)
-            bestGirl = "Kurashina Asuka"
+            bestGirl = "Asuka Kurashina" // generated(generate_best_girls.dart v0.1.0)
             // bestGirl = "Satouin Reiko" // the sango/rosia of aokana
 
             // the asuka route is completed

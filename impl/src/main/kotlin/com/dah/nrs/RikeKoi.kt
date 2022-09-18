@@ -19,7 +19,7 @@ fun DSLScope.RikeKoi() {
             idAniList = 107067 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38992 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Kotonoha Kanade" // kanaded lol
+            bestGirl = "Kotonoha Kanade" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.25, 0.5)
@@ -36,7 +36,7 @@ fun DSLScope.RikeKoi() {
             idAniList = 125124 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 43470 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Kotonoha Kanade"
+            bestGirl = "Kotonoha Kanade" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 2)
             Visual(VisualKind.Animated, 0.25, 0.5)

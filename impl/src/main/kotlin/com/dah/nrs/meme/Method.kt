@@ -8,7 +8,7 @@ fun DSLScope.Method() {
     Entry {
         id = "O-1"
         title = "Kizuna Method"
-        bestGirl = "method"
+        bestGirl = "method" // impl_overridden
 
         RSTSB69DuopolyEra(0.5)
         IdolDystopia(0.2)

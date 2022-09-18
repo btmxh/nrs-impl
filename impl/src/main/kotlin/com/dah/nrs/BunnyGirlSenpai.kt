@@ -15,7 +15,7 @@ fun DSLScope.BunnyGirlSenpai() {
             idKitsu = 41056 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 101291 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37450 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Makinohara Shouko"
+            bestGirl = "Shouko Makinohara" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 9)
             // plot kinda ok

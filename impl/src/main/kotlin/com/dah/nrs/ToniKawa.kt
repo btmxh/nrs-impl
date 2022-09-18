@@ -16,7 +16,7 @@ fun DSLScope.ToniKawa() {
             idKitsu = 43034 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 116267 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 41389 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Yuzaki Tsukasa"
+            bestGirl = "Tsukasa Yuzaki" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.6)
             AnimeProgressOld(Boredom.Dropped, 1)

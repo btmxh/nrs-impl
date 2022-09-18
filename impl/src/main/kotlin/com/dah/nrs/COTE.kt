@@ -26,7 +26,7 @@ fun DSLScope.COTE() {
             idAniList = 98659 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35507 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Horikita Suzune"
+            bestGirl = "Suzune Horikita" // generated(generate_best_girls.dart v0.1.0)
             // no fuckign way she is VA'd by the glorious akari kito
 
             AnimeProgressOld(Boredom.Completed, 12)
@@ -43,7 +43,7 @@ fun DSLScope.COTE() {
             idAniList = 145545 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 51096 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Sakayanagi Arisu"
+            bestGirl = "Arisu Sakayanagi" // generated(generate_best_girls.dart v0.1.0)
             // no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl
             // nice b8 m8
 

@@ -36,7 +36,7 @@ fun DSLScope.NagiAsu() {
             idAniList = 16067 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 16067 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Shiodome Miuna"
+            bestGirl = "Miuna Shiodome" // generated(generate_best_girls.dart v0.1.0)
             // poor best girl
             PADS(2, Emotion.CU)
 

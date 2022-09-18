@@ -15,7 +15,7 @@ fun DSLScope.JustBecause() {
             idKitsu = 13530 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 98820 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35639 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Natsume Mio"
+            bestGirl = "Mio Natsume" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             // Pretty decent drama

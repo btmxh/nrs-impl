@@ -67,7 +67,7 @@ fun DSLScope.WakeUpGirls() {
             idAniList = 20512 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 21189 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Shimada Mayu"
+            bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
             // partially benefitted from rst
@@ -85,7 +85,7 @@ fun DSLScope.WakeUpGirls() {
             idAniList = 19023 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 19023 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Shimada Mayu"
+            bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
@@ -100,7 +100,7 @@ fun DSLScope.WakeUpGirls() {
             idAniList = 20989 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 28841 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Shimada Mayu"
+            bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
@@ -114,7 +114,7 @@ fun DSLScope.WakeUpGirls() {
             idAniList = 21107 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30419 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Shimada Mayu"
+            bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
@@ -129,7 +129,7 @@ fun DSLScope.WakeUpGirls() {
             idAniList = 97933 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 34522 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Shimada Mayu"
+            bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)

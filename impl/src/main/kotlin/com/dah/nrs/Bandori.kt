@@ -271,7 +271,7 @@ fun DSLScope.Bandori() {
             idKitsu = 12330 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 87435 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 33573 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ichigaya Arisa"
+            bestGirl = "Arisa Ichigaya" // generated(generate_best_girls.dart v0.1.0)
             // Ending pretty sadge
             AEI(0.2, Emotion.CU)
             // nrs1
@@ -291,7 +291,7 @@ fun DSLScope.Bandori() {
             idKitsu = 41289 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 101633 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37869 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ichigaya Arisa"
+            bestGirl = "Arisa Ichigaya" // generated(generate_best_girls.dart v0.1.0)
             // nrs1
             Meme(0.15, 2)
 

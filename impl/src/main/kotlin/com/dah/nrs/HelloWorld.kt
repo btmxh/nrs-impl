@@ -13,7 +13,7 @@ fun DSLScope.HelloWorld() {
         idMAL = 38816 // generated(fill_anime_metadata.dart v0.1.1)
         bestGirl = "Ichijou Ruka"
         // oh fuck
-        bestGirl = "Ichigyou Ruri"
+        bestGirl = "Ruri Ichigyou" // generated(generate_best_girls.dart v0.1.0)
 
         AnimeProgressOld(Boredom.Completed, 1)
         // the cg kinda help with making the anime unique lol
@@ -27,7 +27,7 @@ fun DSLScope.HelloWorld() {
         idKitsu = 42527 // generated(fill_anime_metadata.dart v0.1.1)
         idAniList = 111733 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 40295 // generated(fill_anime_metadata.dart v0.1.1)
-        bestGirl = "Ichigyou Ruri"
+        bestGirl = "Ruri Ichigyou" // generated(generate_best_girls.dart v0.1.0)
 
         AnimeProgressOld(Boredom.Completed, 3)
         // the cg kinda help with making the anime unique lol

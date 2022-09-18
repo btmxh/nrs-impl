@@ -88,7 +88,7 @@ fun DSLScope.SB69() {
             idKitsu = 9729 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20843 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 27441 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
+            bestGirl = "Cyan Hijirikawa" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-51276-1")
             FeatureMusic("M-VGMDB-AL-51278-1")
@@ -106,7 +106,7 @@ fun DSLScope.SB69() {
             idKitsu = 11494 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 21476 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 32038 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Hijirikawa Cyan" // aka the ayumu cat
+            bestGirl = "Cyan Hijirikawa" // generated(generate_best_girls.dart v0.1.0)
 
             // the lesson thingy was pretty cool ig
             AEI(0.2, Emotion.MP)
@@ -132,7 +132,7 @@ fun DSLScope.SB69() {
             idKitsu = 42885 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 113470 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40763 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Mashima Himeko" // aka himekek
+            bestGirl = "Himeko Mashima" // generated(generate_best_girls.dart v0.1.0)
             // main girl is hoan tinh xdddddddddd
             // chao em co gai howan tinh
             // actually the cat appeared in last ep but idc
@@ -173,7 +173,7 @@ fun DSLScope.SB69() {
             // update: shit happened and no more seasonal
             seasonal = false
 
-            bestGirl = "Hijirikawa Cyan" // cats can fly
+            bestGirl = "Cyan Hijirikawa" // generated(generate_best_girls.dart v0.1.0)
 
             // bro the ayumu shit happened again xddddddddddd
             // basically in ep 1&2, the cat has little screentime,

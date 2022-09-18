@@ -16,7 +16,7 @@ fun DSLScope.Charlotte() {
             idKitsu = 10103 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20997 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 28999 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nao Tomori" // ai mapper lmao
+            bestGirl = "Nao Tomori" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.5, 0.1)
 

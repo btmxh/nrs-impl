@@ -16,7 +16,7 @@ fun DSLScope.YamadaKun() {
             idKitsu = 10042 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20966 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 28677 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Shiraishi Urara"
+            bestGirl = "Urara Shiraishi" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-51918-1")
             FeatureMusic("M-VGMDB-AL-52045-1")

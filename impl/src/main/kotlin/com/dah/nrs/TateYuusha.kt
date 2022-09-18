@@ -17,7 +17,7 @@ fun DSLScope.TateYuusha() {
             idMAL = 35790 // generated(fill_anime_metadata.dart v0.1.1)
             // This became popular thanks to Reddit.
             // And yes, it's watched in the Reddit-era
-            bestGirl = "Raphtalia"
+            bestGirl = "Raphtalia" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 25)
 
@@ -34,7 +34,7 @@ fun DSLScope.TateYuusha() {
             idKitsu = 42530 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 111321 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40356 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Raphtalia"
+            bestGirl = "Raphtalia" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 3)
             KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)

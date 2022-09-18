@@ -420,7 +420,7 @@ fun DSLScope.LoveLive() {
             idKitsu = 7203 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 15051 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! School Idol Project" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nishikino Maki"
+            bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-36547-1")
             AnimeProgressOld(Boredom.Completed, 13)
@@ -435,7 +435,7 @@ fun DSLScope.LoveLive() {
             idKitsu = 7871 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 19111 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! School Idol Project 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nishikino Maki"
+            bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-34051-1")
             AnimeProgressOld(Boredom.Completed, 13)
@@ -450,7 +450,7 @@ fun DSLScope.LoveLive() {
             idKitsu = 8531 // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 24997 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! The School Idol Movie" // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nishikino Maki"
+            bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
@@ -464,7 +464,7 @@ fun DSLScope.LoveLive() {
             title = "Love Live! Sunshine!!" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 32526 // generated(fill_anime_metadata.dart v0.1.1)
             idKitsu = 11745 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Sakurauchi Riko"
+            bestGirl = "Riko Sakurauchi" // generated(generate_best_girls.dart v0.1.0)
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
             AnimeProgressOld(Boredom.Completed, 13)
@@ -479,7 +479,7 @@ fun DSLScope.LoveLive() {
             idKitsu = 13299 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 98349 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 34973 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Sakurauchi Riko"
+            bestGirl = "Riko Sakurauchi" // generated(generate_best_girls.dart v0.1.0)
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
@@ -495,7 +495,7 @@ fun DSLScope.LoveLive() {
             idKitsu = 14188 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 100965 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37027 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Sakurauchi Riko"
+            bestGirl = "Riko Sakurauchi" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 1)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
@@ -541,7 +541,7 @@ fun DSLScope.LoveLive() {
             idMAL = 40879 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! Nijigasaki Gakuen School Idol Doukoukai" // generated(fill_anime_metadata.dart v0.1.1)
             idKitsu = 42872 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Uehara Ayumu"
+            bestGirl = "Ayumu Uehara" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
             // pretty funny ngl, but overshadowed by the ayumu shit
@@ -568,7 +568,7 @@ fun DSLScope.LoveLive() {
             idAniDB = 41169 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! Superstar!!" // generated(fill_anime_metadata.dart v0.1.1)
             // insert wakeshima kanon is shibuya kanon joke here
-            bestGirl = "Arashi Chisato"
+            bestGirl = "Chisato Arashi" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
             AnimeProgressOld(Boredom.TempOnHold, 7)
             Meme(0.3, 6)
@@ -617,7 +617,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Kanata Konoe"
 
             // jk
-            bestGirl = "Uehara Ayumu"
+            bestGirl = "Ayumu Uehara" // generated(generate_best_girls.dart v0.1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             // lol after all this time xddddddddddd
@@ -633,7 +633,7 @@ fun DSLScope.LoveLive() {
             idAniDB = 50203 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Love Live! Superstar!! 2nd Season" // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Arashi Chisato"
+            bestGirl = "Chisato Arashi" // generated(generate_best_girls.dart v0.1.0)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)

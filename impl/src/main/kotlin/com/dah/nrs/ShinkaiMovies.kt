@@ -19,7 +19,7 @@ fun DSLScope.ShinkaiMovies() {
 
             Visual(VisualKind.Animated, 0.75, 0.75)
 
-            bestGirl = "Miki Okudera"
+            bestGirl = "Miki Okudera" // generated(generate_best_girls.dart v0.1.0)
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
             AnimeProgressOld(Boredom.Completed, 1)
         }
@@ -36,7 +36,7 @@ fun DSLScope.ShinkaiMovies() {
             idKitsu = 42028 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 106286 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38826 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Amano Hina"
+            bestGirl = "Hina Amano" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.75, 0.75)
             AnimeProgressOld(Boredom.Completed, 1)

@@ -87,7 +87,7 @@ fun DSLScope.YuYuYu() {
             idKitsu = 8638 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20800 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 25519 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Yuuki Yuuna"
+            bestGirl = "Yuuna Yuuki" // generated(generate_best_girls.dart v0.1.0)
             // The Itsuki thing made me cry I guess, but there's no PADS.
             // YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE
             // ye it's the shelter of yuri yuna now lmao
@@ -126,7 +126,7 @@ fun DSLScope.YuYuYu() {
             // well, at least chikage koori is still a meme
 
             // based best girl
-            bestGirl = "Koori Chikage"
+            bestGirl = "Chikage Koori" // generated(generate_best_girls.dart v0.1.0)
 //            status = EntryStatus.Watching
 
             // There are a lot of sad things in this LN
@@ -165,7 +165,7 @@ fun DSLScope.YuYuYu() {
             // this was not taken very seriously
 
             // she looked like best girl ngl
-            bestGirl = "Tougou Mimori" // or Sumi Washio
+            bestGirl = "Mimori Tougou" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-69821-1")
             // gin's death (the consequences of the ortensia incident)
@@ -185,7 +185,7 @@ fun DSLScope.YuYuYu() {
             idAniList = 97769 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 34445 // generated(fill_anime_metadata.dart v0.1.1)
             // "The Michi Random of Yuuki Yuuna"
-            bestGirl = "Yuuki Yuuna"
+            bestGirl = "Yuuna Yuuki" // generated(generate_best_girls.dart v0.1.0)
 
             // that conversation is peak drama
             // it captures my heart and does make
@@ -211,7 +211,7 @@ fun DSLScope.YuYuYu() {
             idMAL = 42587 // generated(fill_anime_metadata.dart v0.1.1)
 
             seasonal = true
-            bestGirl = "Yuuki Yuuna"
+            bestGirl = "Yuuna Yuuki" // generated(generate_best_girls.dart v0.1.0)
 
             // I expected this to make a new Ayumu-era (something like
             // Yuuna-era or some dumb shit like that), but it doesn't

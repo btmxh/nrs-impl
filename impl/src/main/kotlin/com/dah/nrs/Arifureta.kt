@@ -15,7 +15,7 @@ fun DSLScope.Arifureta() {
             idKitsu = 14043 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 100668 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 36882 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Yue"
+            bestGirl = "Yue" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 13)
 

@@ -15,7 +15,7 @@ fun DSLScope.ShichiseiSubaru() {
             idKitsu = 40893 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 100085 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 36316 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Kuga Asahi"
+            bestGirl = "Asahi Kuga" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
 

@@ -20,7 +20,7 @@ fun DSLScope.UchiageHanabi() {
             // SLN rng
             AEI(0.1, Emotion.CU)
 
-            bestGirl = "Oikawa Nazuna"
+            bestGirl = "Nazuna Oikawa" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
 

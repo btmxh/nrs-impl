@@ -55,7 +55,7 @@ fun DSLScope.GakkouGurashi() {
             idAniList = 20754 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 24765 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Sakura Megumi"
+            bestGirl = "Megumi Sakura" // generated(generate_best_girls.dart v0.1.0)
             // rip Megu-nee
             Cry(Emotion.CU)
             Meme(0.2, 6)

@@ -20,7 +20,7 @@ fun DSLScope.SoraMethod() {
             idKitsu = 8337 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20672 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 23209 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Komiya Nonoka"
+            bestGirl = "Nonoka Komiya" // generated(generate_best_girls.dart v0.1.0)
 
             // Drama in this anime is executed pretty well.
             AEI(0.75, Emotion.CU)

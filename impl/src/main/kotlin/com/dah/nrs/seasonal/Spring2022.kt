@@ -12,7 +12,7 @@ fun DSLScope.Spring2022() {
         idAniList = 130319 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 48363 // generated(fill_anime_metadata.dart v0.1.1)
 
-        bestGirl = "Kotone Kazairo"
+        bestGirl = "Kotone Kazairo" // generated(generate_best_girls.dart v0.1.0)
 
         AnimeProgressOld(Boredom.Dropped, 5)
         // weak character design, but the thing still looks cute
@@ -27,7 +27,7 @@ fun DSLScope.Spring2022() {
         idAniList = 130586 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 48415 // generated(fill_anime_metadata.dart v0.1.1)
 
-        bestGirl = "Ireena Litz de Olhyde"
+        bestGirl = "Ireena Litz de Olhyde" // generated(generate_best_girls.dart v0.1.0)
 
         AnimeProgressOld(Boredom.Dropped, 2)
         Visual(VisualKind.Animated, 0.5, 0.2)
@@ -72,7 +72,7 @@ fun DSLScope.Spring2022() {
         idKitsu = 45401 // generated(fill_anime_metadata.dart v0.1.1)
         idAniList = 141014 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 50273 // generated(fill_anime_metadata.dart v0.1.1)
-        bestGirl = "Maria Mizuse"
+        bestGirl = "Maria Mizuse" // generated(generate_best_girls.dart v0.1.0)
 
         AnimeProgressOld(Boredom.Completed, 12)
         // unique art because manga, but chara design sucks (p2)

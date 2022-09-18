@@ -115,7 +115,7 @@ fun DSLScope.Oregairu() {
             idMAL = 14813 // generated(fill_anime_metadata.dart v0.1.1)
 
             // Brain's Base drew Yukino better than Yui
-            bestGirl = "Yukinoshita Yukino"
+            bestGirl = "Yukino Yukinoshita" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.25, 0.4)
             NEI(0.75, Emotion.AP)
@@ -135,7 +135,7 @@ fun DSLScope.Oregairu() {
             idMAL = 23847 // generated(fill_anime_metadata.dart v0.1.1)
 
             // feel. drew Yui better
-            bestGirl = "Yuigahama Yui"
+            bestGirl = "Yui Yuigahama" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.25)
             NEI(0.25, Emotion.AP)
@@ -160,7 +160,7 @@ fun DSLScope.Oregairu() {
             idAniList = 108489 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 39547 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Yuigahama Yui"
+            bestGirl = "Yui Yuigahama" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
             Visual(VisualKind.Animated, 0.4, 0.25)

@@ -14,7 +14,7 @@ fun DSLScope.ZombielandSaga() {
             idKitsu = 41459 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 103871 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37976 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Minamoto Sakura"
+            bestGirl = "Sakura Minamoto" // generated(generate_best_girls.dart v0.1.0)
 
             // kinda funny
             AEI(0.5, Emotion.AP)
@@ -29,7 +29,7 @@ fun DSLScope.ZombielandSaga() {
             idKitsu = 42467 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 110733 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40174 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Minamoto Sakura"
+            bestGirl = "Sakura Minamoto" // generated(generate_best_girls.dart v0.1.0)
 
             // the zombieland saga incident
             AnimeProgressOld(Boredom.Dropped, 7)

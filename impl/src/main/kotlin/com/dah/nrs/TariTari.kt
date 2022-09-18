@@ -17,7 +17,7 @@ fun DSLScope.TariTari() {
             idAniList = 13333 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 13333 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Miyamoto Konatsu"
+            bestGirl = "Konatsu Miyamoto" // generated(generate_best_girls.dart v0.1.0)
 
             // pa works is the best atmospheric farmer
             Cry(Emotion.CU)

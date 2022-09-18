@@ -46,7 +46,7 @@ fun DSLScope.OneRoom() {
             idKitsu = 12758 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 97857 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 34392 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Hanasaka Yui"
+            bestGirl = "Yui Hanasaka" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
             AnimeProgressOld(Boredom.Dropped, 4)

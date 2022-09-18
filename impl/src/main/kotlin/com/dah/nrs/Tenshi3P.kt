@@ -15,7 +15,7 @@ fun DSLScope.Tenshi3P() {
             idKitsu = 12624 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 97683 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 34177 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Toriumi Sakura"
+            bestGirl = "Sakura Toriumi" // generated(generate_best_girls.dart v0.1.0)
             // OP is catJAM osugame
             // the map was made by the gigachad mapper: https://www.youtube.com/watch?v=QJJYpsA5tv8
             // fuck the ED i hate that map

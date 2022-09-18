@@ -14,7 +14,7 @@ fun DSLScope.ATRI() {
             id = "V-VNDB-27448"
             title = "ATRI -My Dear Moments-"
 
-            bestGirl = "Atri"
+            bestGirl = "Atri" // generated(generate_best_girls.dart v0.1.0)
             // wait wtf
             // minamo's va is the same person as aone's va
             // based rst reference

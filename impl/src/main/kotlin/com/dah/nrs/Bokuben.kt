@@ -16,7 +16,7 @@ fun DSLScope.Bokuben() {
             idAniList = 103900 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38186 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Mafuyu Kirisu"
+            bestGirl = "Mafuyu Kirisu" // generated(generate_best_girls.dart v0.1.0)
             // le bang bang zenryoku i love you girl lol
             // "this is a little bit better than gotoubun"
             AEI(0.75, Emotion.AP)
@@ -33,7 +33,7 @@ fun DSLScope.Bokuben() {
             idAniList = 110229 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40004 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Furuhashi Fumino"
+            bestGirl = "Fumino Furuhashi" // generated(generate_best_girls.dart v0.1.0)
             // va jokes aside, fumino is best girl
 
             // "this is a little bit better than gotoubun" lmfao copy paste error

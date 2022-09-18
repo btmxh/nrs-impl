@@ -16,7 +16,7 @@ fun DSLScope.DrStone() {
             idKitsu = 42080 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 105333 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38691 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Yuzuriha Ogawa"
+            bestGirl = "Yuzuriha Ogawa" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 24)
             Visual(VisualKind.Animated, 0.3, 0.75)
             // "plot is good"
@@ -33,7 +33,7 @@ fun DSLScope.DrStone() {
             idKitsu = 42867 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 113936 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40852 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Yuzuriha Ogawa"
+            bestGirl = "Yuzuriha Ogawa" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 11)
             Visual(VisualKind.Animated, 0.3, 0.75)
             AEI(0.1, Emotion.AP)
@@ -46,7 +46,7 @@ fun DSLScope.DrStone() {
             idKitsu = 45615 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 142876 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 50612 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Yuzuriha Ogawa"
+            bestGirl = "Yuzuriha Ogawa" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 1)
             Visual(VisualKind.Animated, 0.3, 0.75)
             NEI(0.6, Emotion.AP)

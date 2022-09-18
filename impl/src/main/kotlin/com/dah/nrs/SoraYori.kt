@@ -18,7 +18,7 @@ fun DSLScope.SoraYori() {
             idKitsu = 13615 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 99426 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35839 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Shiraishi Yuzuki"
+            bestGirl = "Yuzuki Shiraishi" // generated(generate_best_girls.dart v0.1.0)
 
             // the beginning was good, since they're making progress
             // but the last episodes (like from ep 6,7 onwards) suck

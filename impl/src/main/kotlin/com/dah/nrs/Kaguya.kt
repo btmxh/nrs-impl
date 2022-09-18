@@ -56,7 +56,7 @@ fun DSLScope.Kaguya() {
             idKitsu = 41373 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 101921 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37999 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Hayasaka Ai"
+            bestGirl = "Ai Hayasaka" // generated(generate_best_girls.dart v0.1.0)
             // https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury.
 
             AnimeProgressOld(Boredom.Dropped, 9)
@@ -75,7 +75,7 @@ fun DSLScope.Kaguya() {
             idKitsu = 42632 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 112641 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40591 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Kobachi Osaragi" // aka the mf who 'first learned why “Love is War”'
+            bestGirl = "Kobachi Osaragi" // generated(generate_best_girls.dart v0.1.0)
             // tatoe asu de sekai ga owattemo
             // koukai shinai yo kimi ni deaeta koto
 
@@ -94,7 +94,7 @@ fun DSLScope.Kaguya() {
             // imagine almost every anime losing to this shit lol y'all sucks (the MAL top 2 thing)
             // (rst still better copium)
 
-            bestGirl = "Kobachi Osaragi" // aka the mf who 'heard somewhere that “Love strikes so suddenly”'
+            bestGirl = "Kobachi Osaragi" // generated(generate_best_girls.dart v0.1.0)
             // It happened so suddenly, but from now on
             // I want you to quietly listen to what I’ll say
             // Just for now I’ll say “goodbye” to my cowardly heart

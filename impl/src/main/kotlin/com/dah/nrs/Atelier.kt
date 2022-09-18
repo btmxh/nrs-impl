@@ -91,7 +91,7 @@ fun DSLScope.Atelier() {
             // anyways, it seems that "the father analogy" might have a sequel,
             // which is "the wife analogy"
             // fuck miharuists, they're taking over modern culture
-            bestGirl = "Malier Escha"
+            bestGirl = "Escha Malier" // generated(generate_best_girls.dart v0.1.0)
 
             // https://www.facebook.com/photo?fbid=5382806931808771&set=a.109501952472655
             // me watching NAP fucking up literally everything they did
@@ -157,7 +157,7 @@ fun DSLScope.Atelier() {
             // Romaji name is canon
 //            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~"
 
-            bestGirl = "Wise Spirit"
+            bestGirl = "Wise Spirit" // impl_overridden
             // "sach cho" my beloved
             // also i forgor rosia-chan :skull:
 
@@ -190,7 +190,7 @@ fun DSLScope.Atelier() {
             title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~"
             // fucking finally
 
-            bestGirl = "Malier Escha"
+            bestGirl = "Escha Malier" // generated(generate_best_girls.dart v0.1.0)
             // I heard somewhere that “Love strikes so suddenly”
             // I thought I was indifferent and I held back my feelings
 

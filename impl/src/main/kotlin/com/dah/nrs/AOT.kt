@@ -26,7 +26,7 @@ fun DSLScope.AOT() {
             idKitsu = 7442 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 16498 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 16498 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ackerman Mikasa"
+            bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 25)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
@@ -38,7 +38,7 @@ fun DSLScope.AOT() {
             idKitsu = 8671 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20958 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 25777 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ackerman Mikasa"
+            bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
@@ -50,7 +50,7 @@ fun DSLScope.AOT() {
             idKitsu = 13569 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 99147 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35760 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ackerman Mikasa"
+            bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
@@ -67,7 +67,7 @@ fun DSLScope.AOT() {
             idKitsu = 41982 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 104578 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38524 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ackerman Mikasa"
+            bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 10)
             AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.2, 0.6)

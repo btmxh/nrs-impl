@@ -74,7 +74,7 @@ fun DSLScope.GochiUsa() {
             idKitsu = 8095 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20517 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 21273 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Kafuu Chino"
+            bestGirl = "Chino Kafuu" // generated(generate_best_girls.dart v0.1.0)
             // humor not that good tho
             NEI(0.3, Emotion.AP)
             AnimeProgressOld(Boredom.Completed, 12)

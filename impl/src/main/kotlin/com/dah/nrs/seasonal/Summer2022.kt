@@ -18,7 +18,7 @@ fun DSLScope.Summer2022() {
         idAniList = 143417 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 50760 // generated(fill_anime_metadata.dart v0.1.1)
 
-        bestGirl = "Hosono Yuzu"
+        bestGirl = "Yuzu Hosono" // generated(generate_best_girls.dart v0.1.0)
 
         // art has some flaws, but whatever
         Visual(VisualKind.Animated, 0.4, 0.4)
@@ -36,7 +36,7 @@ fun DSLScope.Summer2022() {
         idAniList = 117196 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 41589 // generated(fill_anime_metadata.dart v0.1.1)
 
-        bestGirl = "Momomiya Ichigo"
+        bestGirl = "Ichigo Momomiya" // generated(generate_best_girls.dart v0.1.0)
 
         // obligatory rst-cue studio(s) anime
         // art is "interesting" ngl
@@ -60,7 +60,7 @@ fun DSLScope.Summer2022() {
         // yep, ep 1 was ruined because of that bullcrap
         // yep, the whole anime was ruined because of that girl
 
-        bestGirl = "Okumiya Otome"
+        bestGirl = "Otome Okumiya" // generated(generate_best_girls.dart v0.1.0)
         // ichijou ruka my beloved (she can't save this anime sadge)
 
         // the prima doll incident
@@ -96,7 +96,7 @@ fun DSLScope.Summer2022() {
         // > Main                           Japanese
         // oh i see
 
-        bestGirl = "Irido Yume"
+        bestGirl = "Yume Irido" // generated(generate_best_girls.dart v0.1.0)
         // self-explanatory
 
         // good art (the rosia girl looks breedable af)
@@ -120,7 +120,7 @@ fun DSLScope.Summer2022() {
         idAniList = 145001 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 50999 // generated(fill_anime_metadata.dart v0.1.1)
 
-        bestGirl = "Kodaka Saki"
+        bestGirl = "Saki Kodaka" // generated(generate_best_girls.dart v0.1.0)
         // saki is someone that we need but we don't deserve
 
         // no fucking way ari ozawa and totomi mineuchi in the same anime
@@ -155,7 +155,7 @@ fun DSLScope.Summer2022() {
         idAniList = 140753 // generated(fill_anime_metadata.dart v0.1.1)
         idMAL = 50221 // generated(fill_anime_metadata.dart v0.1.1)
 
-        bestGirl = "Seibu Rio"
+        bestGirl = "Rio Seibu" // generated(generate_best_girls.dart v0.1.0)
         // lmfao himekek VA
         // they even got her to sing a ballad omegalul
         // (they know about her songs in sb69 these cheeky mfs)

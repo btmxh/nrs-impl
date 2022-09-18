@@ -18,7 +18,7 @@ fun DSLScope.YLIA() {
             idAniList = 20665 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 23273 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Miyazono Kaori"
+            bestGirl = "Kaori Miyazono" // generated(generate_best_girls.dart v0.1.0)
 
             // YLIA is watched during the SLN days (Second-Love-Ngoc era),
             // this has lead to the connection between myself and the

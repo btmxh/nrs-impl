@@ -16,7 +16,7 @@ fun DSLScope.D4DJ() {
             idAniList = 115069 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 39681 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Aimoto Rinku"
+            bestGirl = "Rinku Aimoto" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.4, 0.75)

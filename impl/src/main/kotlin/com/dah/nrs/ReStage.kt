@@ -182,7 +182,7 @@ fun DSLScope.ReStage() {
             // https://srgym.official.ec/p/00001
 
             // for rst shills <3: https://www.google.com/search?q=grass&tbm=isch
-            bestGirl = "Shikimiya Mana" // aka the kano destroyer
+            bestGirl = "Mana Shikimiya" // generated(generate_best_girls.dart v0.1.0)
             // her seiyuu is the GINGACHAD seiyuu amane makino btw
             // play this: https://www.youtube.com/watch?v=QJJYpsA5tv8
             // follow her pls: https://twitter.com/makinoamane
@@ -980,7 +980,7 @@ fun DSLScope.ReStage() {
         // aka "If RST can overtake Love Live in the Oricon ranking, I can die happy"
         bestGirl = "Shikimiya Maina"
         // oops
-        bestGirl = "Ichii Maina"
+        bestGirl = "Maina Ichii" // generated(generate_best_girls.dart v0.1.0)
 
         Visual(VisualKind.Animated, 0.2, 0.5)
 

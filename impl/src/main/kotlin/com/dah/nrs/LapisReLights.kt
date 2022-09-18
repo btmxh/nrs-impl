@@ -22,7 +22,7 @@ fun DSLScope.LapisReLights() {
             idKitsu = 41115 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 104937 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37587 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Tiara"
+            bestGirl = "Tiara" // generated(generate_best_girls.dart v0.1.0)
 
             // funny af, love live stands no chance
             EHI()

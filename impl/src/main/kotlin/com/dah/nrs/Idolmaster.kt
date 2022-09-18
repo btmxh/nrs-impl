@@ -65,7 +65,7 @@ fun DSLScope.Idolmaster() {
             idKitsu = 6111 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 10278 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 10278 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Minase Iori"
+            bestGirl = "Iori Minase" // generated(generate_best_girls.dart v0.1.0)
             // ending pretty sadge
             NEI(0.6, Emotion.CU)
 
@@ -90,7 +90,7 @@ fun DSLScope.Idolmaster() {
             idKitsu = 8777 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 20693 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 23587 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ogata Chieri"
+            bestGirl = "Chieri Ogata" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 13)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
@@ -102,7 +102,7 @@ fun DSLScope.Idolmaster() {
             idKitsu = 10760 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 21094 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30344 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Ogata Chieri"
+            bestGirl = "Chieri Ogata" // generated(generate_best_girls.dart v0.1.0)
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
         }

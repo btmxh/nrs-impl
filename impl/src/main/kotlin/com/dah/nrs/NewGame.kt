@@ -35,7 +35,7 @@ fun DSLScope.NewGame() {
             idAniList = 21455 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 31953 // generated(fill_anime_metadata.dart v0.1.1)
             // idk who is better, aoba or yun, so one girl each season
-            bestGirl = "Iijima Yun"
+            bestGirl = "Iijima Yun" // impl_overridden
 
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.7, 0.3)
@@ -51,7 +51,7 @@ fun DSLScope.NewGame() {
             idAniList = 98292 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 34914 // generated(fill_anime_metadata.dart v0.1.1)
             // idk who is better, aoba or yun, so one girl each season
-            bestGirl = "Suzukaze Aoba"
+            bestGirl = "Aoba Suzukaze" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             Visual(VisualKind.Animated, 0.7, 0.3)

@@ -111,7 +111,7 @@ fun DSLScope.MadokaMagica() {
             idAniList = 9756 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 9756 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Kaname Madoka"
+            bestGirl = "Madoka Kaname" // generated(generate_best_girls.dart v0.1.0)
 
             // 32k got killed over and over, and her lover has to
             // time-travel everytime it happens
@@ -136,7 +136,7 @@ fun DSLScope.MadokaMagica() {
             idAniList = 11981 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 11981 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Kaname Madoka"
+            bestGirl = "Madoka Kaname" // generated(generate_best_girls.dart v0.1.0)
             // I can't understand this movie lol
 
             AnimeProgressOld(Boredom.Completed, 1)
@@ -172,7 +172,7 @@ fun DSLScope.MadokaMagica() {
             id = "G-VGMDB-5237"
             title = "Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
 
-            bestGirl = "Tamaki Iroha"
+            bestGirl = "Iroha Tamaki" // generated(generate_best_girls.dart v0.1.0)
             // Madokami's MGS
             // It's revealed that in 99% other universes,
             // Tamaki Ui and her friends are dead, leaving
@@ -202,7 +202,7 @@ fun DSLScope.MadokaMagica() {
             idAniList = 104051 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38256 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Tamaki Iroha"
+            bestGirl = "Iroha Tamaki" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
             // MagiReco-era is one of the most important eras in autism history
             // This is the anime that brought it to life
@@ -227,7 +227,7 @@ fun DSLScope.MadokaMagica() {
             idAniList = 117002 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 41530 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Tamaki Iroha"
+            bestGirl = "Iroha Tamaki" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
             AnimeProgressOld(Boredom.Completed, 8)
@@ -254,7 +254,7 @@ fun DSLScope.MadokaMagica() {
             idAniList = 136080 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 49291 // generated(fill_anime_metadata.dart v0.1.1)
 
-            bestGirl = "Tamaki Iroha"
+            bestGirl = "Iroha Tamaki" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
             AnimeProgressOld(Boredom.Completed, 4)

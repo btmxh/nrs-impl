@@ -15,7 +15,7 @@ fun DSLScope.CellAtWork() {
             idKitsu = 14212 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 100977 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37141 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Kesshouban" // i mean it's because the character design suck ass
+            bestGirl = "Kesshouban" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Dropped, 5)
             Visual(VisualKind.Animated, 0.4, 0.1)

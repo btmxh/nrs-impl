@@ -17,7 +17,7 @@ fun DSLScope.Gotoubun() {
             idMAL = 38101 // generated(fill_anime_metadata.dart v0.1.1)
 
             // i miss yuyuyu's idke memes
-            bestGirl = "Nakano Itsuki"
+            bestGirl = "Itsuki Nakano" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             // fuwa fuwa doki doki
@@ -35,7 +35,7 @@ fun DSLScope.Gotoubun() {
             idMAL = 39783 // generated(fill_anime_metadata.dart v0.1.1)
 
             // lmfao "muh yuyuyu idc"
-            bestGirl = "Nakano Itsuki"
+            bestGirl = "Itsuki Nakano" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 12)
             // at first I doubted that S2 will be as good as S1

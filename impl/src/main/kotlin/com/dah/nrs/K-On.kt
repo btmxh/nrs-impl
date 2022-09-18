@@ -94,7 +94,7 @@ fun DSLScope.`K-On`() {
             idKitsu = 4240 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 5680 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 5680 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nakano Azusa"
+            bestGirl = "Azusa Nakano" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 13)
             `K-OnVisual`(VisualKind.Animated)
@@ -107,7 +107,7 @@ fun DSLScope.`K-On`() {
             idKitsu = 5124 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 7791 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 7791 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nakano Azusa"
+            bestGirl = "Azusa Nakano" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 26)
             FeatureMusic("M-VGMDB-AL-21146-9")
@@ -122,7 +122,7 @@ fun DSLScope.`K-On`() {
             idKitsu = 5810 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 9617 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 9617 // generated(fill_anime_metadata.dart v0.1.1)
-            bestGirl = "Nakano Azusa"
+            bestGirl = "Azusa Nakano" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 1)
             FeatureMusic("M-VGMDB-AL-21146-9")
