@@ -37,7 +37,7 @@ fun DSLScope.Arifureta() {
         SubIDEntry("1") {
             MusicConsumedProgress("4:37") // generated(fill_music_metadata.dart v0.1.1)
             title = "FLARE" // generated(fill_music_metadata.dart v0.1.1)
-            Music(1.0)
+            Music(0.1)
             OsuSong(personal = 1.0, community = 0.5)
         }
     }

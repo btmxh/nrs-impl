@@ -23,7 +23,7 @@ fun DSLScope.Irodori() {
         SubIDEntry("35") {
             MusicConsumedProgress("2:51") // generated(fill_music_metadata.dart v0.1.1)
             title = "エンドマークに希望と涙を添えて" // generated(fill_music_metadata.dart v0.1.1)
-            Music(3.5)
+            Music(0.35)
             Remix("M-VGMDB-AL-93299-2")
         }
     }
@@ -56,7 +56,7 @@ fun DSLScope.Irodori() {
                 // Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc
                 MusicConsumedProgress("4:35") // impl_overridden
 
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -74,7 +74,7 @@ fun DSLScope.Irodori() {
                 Visual(VisualKind.AlbumArt, 0.4, 0.45)
 
                 // Length source: https://osu.ppy.sh/beatmapsets/1667264
-                Music(3.0)
+                Music(0.3)
                 MusicConsumedProgress("5:16") // impl_overridden
             }
 
@@ -83,7 +83,7 @@ fun DSLScope.Irodori() {
                 title = "Zero kara hajimeru Brain Power"
 
                 // Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc
-                Music(2.5)
+                Music(0.25)
                 MusicConsumedProgress("5:15") // impl_overridden
             }
         }

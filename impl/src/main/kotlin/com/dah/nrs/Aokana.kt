@@ -42,7 +42,7 @@ fun DSLScope.Aokana() {
             id = "M-VGMDB-AL-52834"
             title = "Ao no Kanata no Four Rhythm Vocal & Sound Collection" // generated(fill_music_metadata.dart v0.1.1)
             // too lazy to rate every single track
-            Music(8.0)
+            Music(0.8)
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
         }
     }

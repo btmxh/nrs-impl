@@ -46,7 +46,7 @@ fun DSLScope.ZombielandSaga() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:29") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Taiga yo Tomo ni Naite Kure" // generated(fill_music_metadata.dart v0.1.1)
-                Music(5.5)
+                Music(0.55)
             }
         }
     }

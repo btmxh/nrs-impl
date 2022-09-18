@@ -20,7 +20,7 @@ fun DSLScope.JMetal() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:37") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Truths, Ironies, The Secret Lyrics" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
                 Impact {
                     description = """this song is a cover of the famous is she owen u.n
                     i was strongly impressed when i listened to the covers by
@@ -61,20 +61,20 @@ fun DSLScope.JMetal() {
             SubIDEntry("4") {
                 MusicConsumedProgress("4:33") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Wandering, Never Wondering (There Exists A Shade)" // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.5)
+                Music(0.25)
             }
 
             SubIDEntry("7") {
                 MusicConsumedProgress("3:27") // generated(fill_music_metadata.dart v0.1.1)
                 title = "From Under Cover (Caught Up In A Love Song)" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
 
             // the second ayumu-era theme song
             SubIDEntry("8") {
                 MusicConsumedProgress("3:57") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Storytellers" // generated(fill_music_metadata.dart v0.1.1)
-                Music(5.0)
+                Music(0.5)
             }
         }
     }

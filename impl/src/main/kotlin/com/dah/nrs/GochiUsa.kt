@@ -23,7 +23,7 @@ fun DSLScope.GochiUsa() {
                 // dong do la max do
                 // duy bua ham l
                 // duy bua ngao l
-                Music(2.0)
+                Music(0.2)
             }
         }
 
@@ -51,7 +51,7 @@ fun DSLScope.GochiUsa() {
                 // dan dan kikoeru
                 // lets go i fced the son's insane diff with dt
                 // fuck sekai's insane tho
-                Music(3.0)
+                Music(0.3)
             }
         }
 
@@ -63,7 +63,7 @@ fun DSLScope.GochiUsa() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:52") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Mahou Shoujo Chino" // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.0)
+                Music(0.2)
             }
         }
 

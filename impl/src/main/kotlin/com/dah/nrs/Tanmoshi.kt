@@ -35,7 +35,7 @@ fun DSLScope.Tanmoshi() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:31") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Kodou" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -47,7 +47,7 @@ fun DSLScope.Tanmoshi() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:22") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Koko de Ikiteru" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
     }

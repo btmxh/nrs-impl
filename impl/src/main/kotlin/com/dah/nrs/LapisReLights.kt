@@ -50,7 +50,7 @@ fun DSLScope.LapisReLights() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 title = "700,000,000,000,000,000,000,000 no Sora de" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
     }

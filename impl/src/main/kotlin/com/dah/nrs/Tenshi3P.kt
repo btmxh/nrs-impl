@@ -34,7 +34,7 @@ fun DSLScope.Tenshi3P() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Habataki no Birthday" // generated(fill_music_metadata.dart v0.1.1)
-                Music(6.0)
+                Music(0.6)
             }
         }
 
@@ -46,7 +46,7 @@ fun DSLScope.Tenshi3P() {
                 title = "Kusabi" // generated(fill_music_metadata.dart v0.1.1)
                 // Length source: https://music.apple.com/jp/album/e6-a5-94-single/1268529061?l=en
                 MusicConsumedProgress("4:26") // impl_overridden
-                Music(3.0)
+                Music(0.3)
             }
         }
     }

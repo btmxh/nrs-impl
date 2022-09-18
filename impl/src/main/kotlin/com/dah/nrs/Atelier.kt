@@ -145,7 +145,7 @@ fun DSLScope.Atelier() {
                 // and I go "Arisu? More like Asuir" AAAAAAAAAAAAAAHGESFG
 
                 // all of that aside, this song slaps
-                Music(6.0)
+                Music(0.6)
             }
         }
 

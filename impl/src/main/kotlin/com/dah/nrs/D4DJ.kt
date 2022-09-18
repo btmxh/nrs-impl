@@ -44,7 +44,7 @@ fun DSLScope.D4DJ() {
             SubIDEntry("3") {
                 MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Guruguru DJ TURN!!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.5)
+                Music(0.35)
             }
         }
 
@@ -58,7 +58,7 @@ fun DSLScope.D4DJ() {
                 title = "Brand New World" // generated(fill_music_metadata.dart v0.1.1)
                 // Length source: https://d4dj.fandom.com/wiki/Brand_New_World
                 MusicConsumedProgress("4:06") // impl_overridden
-                Music(4.0)
+                Music(0.4)
             }
         }
     }

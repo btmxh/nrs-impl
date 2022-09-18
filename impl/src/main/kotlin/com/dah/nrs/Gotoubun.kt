@@ -52,7 +52,7 @@ fun DSLScope.Gotoubun() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Gotoubun no Kimochi" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
     }

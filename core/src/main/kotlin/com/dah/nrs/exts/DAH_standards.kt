@@ -363,8 +363,8 @@ fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "Music"
         score = vector {
-            set(Art.Music, mapClampThrow(musicScore, 0.0..10.0, 0.0..3.0) {
-                "$musicScore not in range 0..10"
+            set(Art.Music, mapClampThrow(musicScore, 0.0..1.0, 0.0..3.0) {
+                "$musicScore not in range 0..1"
             })
         }
         meta("type", "DAH_nonstandard_music")

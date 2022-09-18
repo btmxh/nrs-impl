@@ -21,7 +21,7 @@ fun DSLScope.Oregairu() {
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
-            Music(3.0) {
+            Music(0.3) {
                 contributors["M-VGMDB-AL-37999-1"] = 0.5
                 contributors["M-VGMDB-AL-37999-2"] = 0.5
             }
@@ -45,7 +45,7 @@ fun DSLScope.Oregairu() {
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
-            Music(3.5) {
+            Music(0.35) {
                 contributors["M-VGMDB-AL-51394-1"] = 0.5
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
             }
@@ -72,7 +72,7 @@ fun DSLScope.Oregairu() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:27") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Diamond no Jundo" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 

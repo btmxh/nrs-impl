@@ -24,7 +24,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "Snow halation" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.5)
+                Music(0.25)
                 Meme(0.1, 6)
                 // osu! | Will Stetson - Snow Halation (feat. BeasttrollMC)
                 // [Reform's Expert] +HDDT FC 417pp
@@ -40,7 +40,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "Bokura wa Ima no Naka de" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 
@@ -53,7 +53,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("2") {
                 title = "LOVELESS WORLD" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:18") // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -66,7 +66,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "A song for You! You? You!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:53") // generated(fill_music_metadata.dart v0.1.1)
-                Music(5.0)
+                Music(0.5)
             }
         }
 
@@ -91,7 +91,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "Aozora Jumping Heart" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -104,7 +104,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "Kimeta yo Hand in Hand" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.5)
+                Music(0.35)
             }
         }
 
@@ -117,7 +117,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Yuuki wa Doko ni? Kimi no Mune ni!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(6.0)
+                Music(0.6)
             }
         }
 
@@ -130,7 +130,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("2") {
                 MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
                 title = "MIRACLE WAVE" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 
@@ -143,7 +143,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("6:23") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Thank you, FRIENDS!!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.5)
+                Music(0.35)
             }
         }
 
@@ -156,7 +156,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("5:19") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Mitaiken HORIZON" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.5)
+                Music(0.45)
             }
         }
 
@@ -184,7 +184,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Beginner's Sailing" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -197,7 +197,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Nijiiro Passions!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 
@@ -210,7 +210,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
                 title = "NEO SKY, NEO MAP!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(6.5)
+                Music(0.65)
             }
         }
 
@@ -237,25 +237,25 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "TOKIMEKI Runners" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
 
             SubIDEntry("2") {
                 title = "Yume e no Ippo" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:47") // generated(fill_music_metadata.dart v0.1.1)
-                Music(0.5)
+                Music(0.05)
             }
 
             SubIDEntry("8") {
                 title = "CHASE!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
-                Music(1.5)
+                Music(0.15)
             }
 
             SubIDEntry("10") {
                 title = "Dokipipo☆Emotion" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 
@@ -268,19 +268,19 @@ fun DSLScope.LoveLive() {
             SubIDEntry("10") {
                 title = "Love U my friends" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
 
             SubIDEntry("1") {
                 title = "Kaika Sengen" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:19") // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.0)
+                Music(0.2)
             }
 
             SubIDEntry("7") {
                 title = "MELODY" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.5)
+                Music(0.45)
             }
         }
 
@@ -293,25 +293,25 @@ fun DSLScope.LoveLive() {
             SubIDEntry("12") {
                 title = "Just Believe!!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
 
             SubIDEntry("1") {
                 title = "Say Good-Bye Namida" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.5)
+                Music(0.25)
             }
 
             SubIDEntry("3") {
                 title = "Yagate Hitotsu no Monogatari" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.5)
+                Music(0.25)
             }
 
             SubIDEntry("7") {
                 title = "LIKE IT! LOVE IT!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:21") // generated(fill_music_metadata.dart v0.1.1)
-                Music(5.5)
+                Music(0.55)
                 OsuSong(personal = 3.0)
             }
         }
@@ -325,7 +325,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("2") {
                 title = "Break The System" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:44") // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -341,7 +341,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 title = "Dream with You" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
-                Music(1.0)
+                Music(0.1)
                 Impact {
                     // the song is shit
                     // but it started the most colorful era in autism history
@@ -363,7 +363,7 @@ fun DSLScope.LoveLive() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Awakening Promise" // generated(fill_music_metadata.dart v0.1.1)
-                Music(1.25)
+                Music(0.125)
             }
         }
 

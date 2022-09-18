@@ -20,7 +20,7 @@ fun DSLScope.MadokaMagica() {
             SubIDEntry("2") {
                 MusicConsumedProgress("4:27") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Mata Ashita" // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.0)
+                Music(0.2)
             }
         }
 
@@ -32,7 +32,7 @@ fun DSLScope.MadokaMagica() {
             SubIDEntry("4") {
                 MusicConsumedProgress("1:56") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Believing in Justice" // generated(fill_music_metadata.dart v0.1.1)
-                Music(2.5)
+                Music(0.25)
             }
         }
 
@@ -44,7 +44,7 @@ fun DSLScope.MadokaMagica() {
             SubIDEntry("2") {
                 MusicConsumedProgress("2:50") // generated(fill_music_metadata.dart v0.1.1)
                 title = "and I'm home" // generated(fill_music_metadata.dart v0.1.1)
-                Music(1.5)
+                Music(0.15)
             }
         }
 
@@ -60,7 +60,7 @@ fun DSLScope.MadokaMagica() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 title = "ケアレス" // generated(fill_music_metadata.dart v0.1.1)
-                Music(6.0)
+                Music(0.6)
             }
         }
 
@@ -75,7 +75,7 @@ fun DSLScope.MadokaMagica() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:11") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Gomakashi" // generated(fill_music_metadata.dart v0.1.1)
-                Music(6.5)
+                Music(0.65)
             }
         }
 
@@ -94,7 +94,7 @@ fun DSLScope.MadokaMagica() {
                 // osu! 9.97⭐UTSUROI +HDDTHR 1108pp | WhiteCat
                 OsuSong(personal = 6.5, community = 1.0)
 
-                Music(5.0)
+                Music(0.5)
             }
         }
 
@@ -281,7 +281,7 @@ fun DSLScope.MadokaMagica() {
                 title = "Colorful - Magibeat Remix"
 
                 // Length source: https://www.nicovideo.jp/watch/sm22151925
-                Music(3.5)
+                Music(0.35)
                 MusicConsumedProgress("4:35")
             }
         }

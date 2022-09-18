@@ -20,14 +20,14 @@ fun DSLScope.OsuGame() {
             SubIDEntry("7") {
                 MusicConsumedProgress("5:11") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Ascension to Heaven" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
 
             SubIDEntry("12") {
                 MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                 title = "FREEDOM DiVE↓" // generated(fill_music_metadata.dart v0.1.1)
                 // not gonna rate all of the backgrounds and shit
-                Music(1.5)
+                Music(0.15)
                 // i'm not overstreaming 222 bpm
                 NEI(0.5, Emotion.AP)
                 OsuSong(personal = 2.0, community = 8.0)
@@ -45,7 +45,7 @@ fun DSLScope.OsuGame() {
         OsuSong(personal = 2.0, community = 8.0)
 
         // Length source: https://www.youtube.com/watch?v=rnWXN8m6drc
-        Music(4.0)
+        Music(0.4)
         MusicConsumedProgress("4:42") // impl_overridden
     }
 }

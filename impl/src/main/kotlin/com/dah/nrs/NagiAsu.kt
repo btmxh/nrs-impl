@@ -24,7 +24,7 @@ fun DSLScope.NagiAsu() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
                 title = "ripple ~my first love~" // generated(fill_music_metadata.dart v0.1.1)
-                Music(6.0)
+                Music(0.6)
             }
         }
 

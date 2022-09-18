@@ -19,7 +19,7 @@ fun DSLScope.OnsenMusume() {
             SubIDEntry("1") {
                 title = "Hop Step Jump!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:59") // impl_overridden
-                Music(6.0)
+                Music(0.6)
             }
         }
 
@@ -46,32 +46,32 @@ fun DSLScope.OnsenMusume() {
                 MusicConsumedProgress("3:44") // impl_overridden
                 // https://www.youtube.com/watch?v=X2Q-bCS_IRs
                 Visual(VisualKind.AnimatedMV, 0.75, 0.25)
-                Music(5.0)
+                Music(0.5)
             }
 
             // 2-4 are subunit songs
             SubIDEntry("2") {
                 title = "ロマンスの林檎" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:20") // impl_overridden
-                Music(7.0)
+                Music(0.7)
             }
 
             SubIDEntry("3") {
                 title = "SILENT VOICES" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:58") // impl_overridden
-                Music(4.5)
+                Music(0.45)
             }
 
             SubIDEntry("4") {
                 title = "おはようジャポニカ" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:26") // impl_overridden
-                Music(6.0)
+                Music(0.6)
             }
 
             SubIDEntry("5") {
                 title = "さよなら花火" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:01") // impl_overridden
-                Music(2.0)
+                Music(0.2)
             }
         }
 

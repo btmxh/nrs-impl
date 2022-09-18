@@ -24,7 +24,7 @@ fun DSLScope.`K-On`() {
 
                 // binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD
                 Meme(0.1, 6)
-                Music(2.5)
+                Music(0.25)
             }
         }
 
@@ -38,7 +38,7 @@ fun DSLScope.`K-On`() {
                 MusicConsumedProgress("4:42") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Tenshi ni Fureta yo!" // generated(fill_music_metadata.dart v0.1.1)
 
-                Music(0.5)
+                Music(0.05)
             }
         }
 
@@ -51,7 +51,7 @@ fun DSLScope.`K-On`() {
             SubIDEntry("2") {
                 MusicConsumedProgress("4:36") // generated(fill_music_metadata.dart v0.1.1)
                 title = "U&I" // generated(fill_music_metadata.dart v0.1.1)
-                Music(1.0)
+                Music(0.1)
             }
         }
 

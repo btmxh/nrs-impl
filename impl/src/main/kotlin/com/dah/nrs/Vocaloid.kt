@@ -24,7 +24,7 @@ fun DSLScope.Vocaloid() {
             AEI(0.5, Emotion.CU)
 
             // Length source: https://www.nicovideo.jp/watch/sm18198019
-            Music(4.25)
+            Music(0.425)
             MusicConsumedProgress("4:32") // impl_overridden
             Remix("M-41")
             Remix("M-43")
@@ -37,7 +37,7 @@ fun DSLScope.Vocaloid() {
 
         // yuiko version is probably the best, music-wise
         // Length source: https://www.nicovideo.jp/watch/sm20429546
-        Music(6.5)
+        Music(0.65)
         MusicConsumedProgress("4:32") // impl_overridden
     }
 
@@ -47,7 +47,7 @@ fun DSLScope.Vocaloid() {
 
         // quite good, but they didn't keep the orig. inst.
         // Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx
-        Music(5.0)
+        Music(0.5)
         MusicConsumedProgress("4:23") // impl_overridden
     }
 }

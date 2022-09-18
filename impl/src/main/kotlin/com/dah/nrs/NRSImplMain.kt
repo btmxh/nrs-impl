@@ -187,7 +187,7 @@ fun main() =
             bestGirl = "Rin"
 
             // catJAM
-            Music(6.0)
+            Music(0.6)
 
             AdditionalImpact("Short anime buff", 0.75)
 

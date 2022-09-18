@@ -30,7 +30,7 @@ fun DSLScope.AoChan() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:03") // generated(fill_music_metadata.dart v0.1.1)
                 title = "WONDERFUL WONDER" // generated(fill_music_metadata.dart v0.1.1)
-                Music(1.5)
+                Music(0.15)
                 OsuSong(personal = 4.0, community = 2.0)
             }
         }

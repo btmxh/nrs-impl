@@ -45,7 +45,7 @@ fun DSLScope.SelePro() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Glorious Days" // generated(fill_music_metadata.dart v0.1.1)
-                Music(5.0)
+                Music(0.5)
             }
         }
     }

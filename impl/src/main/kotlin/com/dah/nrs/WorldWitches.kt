@@ -63,13 +63,13 @@ fun DSLScope.WorldWitches() {
                 MusicConsumedProgress("4:40") // generated(fill_music_metadata.dart v0.1.1)
                 title = "My Shining Light" // generated(fill_music_metadata.dart v0.1.1)
                 // the "azure reunion" of asuiro clear sky
-                Music(7.0)
+                Music(0.7)
             }
 
             SubIDEntry("2") {
                 MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Luminossense" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 
@@ -82,7 +82,7 @@ fun DSLScope.WorldWitches() {
                 MusicConsumedProgress("3:58") // generated(fill_music_metadata.dart v0.1.1)
                 title = "WONDERFUL WORLD" // generated(fill_music_metadata.dart v0.1.1)
 
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -95,7 +95,7 @@ fun DSLScope.WorldWitches() {
                 MusicConsumedProgress("4:24") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Watashi to Minna no Uta" // generated(fill_music_metadata.dart v0.1.1)
 
-                Music(4.0)
+                Music(0.4)
             }
         }
     }

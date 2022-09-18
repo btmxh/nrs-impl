@@ -33,7 +33,7 @@ fun DSLScope.OneRoom() {
                 // ICHI PURASU ICHI GA MUGEN TOKA
                 // OSHIETE KURETA KIMI TO SAGASHI NI YUKOU
                 // H A R U M A C H I   K U R O B A A A
-                Music(3.5)
+                Music(0.35)
                 OsuSong(personal = 6.0, community = 8.0)
                 Remix("M-37")
             }
@@ -60,7 +60,7 @@ fun DSLScope.OneRoom() {
         title = "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
 
         // Length source: https://www.youtube.com/watch?v=2OfJYisHbkI
-        Music(3.0)
+        Music(0.3)
         MusicConsumedProgress("0:36") // impl_overriden
         OsuSong(personal = 6.0, community = 8.0)
     }

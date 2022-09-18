@@ -47,7 +47,7 @@ fun DSLScope.SoraMethod() {
             SubIDEntry("1") {
                 MusicConsumedProgress("5:06") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Stargazer" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.0)
+                Music(0.3)
             }
         }
 

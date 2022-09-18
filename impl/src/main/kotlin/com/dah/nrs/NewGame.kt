@@ -78,7 +78,7 @@ fun DSLScope.NewGame() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Now Loading!!!!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
                 OsuSong(personal = 4.0)
             }
         }
@@ -93,7 +93,7 @@ fun DSLScope.NewGame() {
                 title = "STEP by STEP UP↑↑↑↑" // generated(fill_music_metadata.dart v0.1.1)
                 // mankai step by step
                 // this song is legendary af
-                Music(5.0)
+                Music(0.5)
                 OsuSong(personal = 8.0)
             }
         }

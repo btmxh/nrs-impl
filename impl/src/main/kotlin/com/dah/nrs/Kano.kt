@@ -25,7 +25,7 @@ fun DSLScope.Kano() {
                 SubIDEntry("1") {
                     title = "ハロ/ハワユ" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:48") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(2.0)
+                    Music(0.2)
                     NEI(0.1, Emotion.MP)
                     Remix("M-VGMDB-AL-37130-1")
                 }
@@ -40,14 +40,14 @@ fun DSLScope.Kano() {
                 SubIDEntry("6") {
                     MusicConsumedProgress("4:27") // generated(fill_music_metadata.dart v0.1.1)
                     title = "インタビュア" // generated(fill_music_metadata.dart v0.1.1)
-                    Music(4.0)
+                    Music(0.4)
                     NEI(0.15, Emotion.CU)
                 }
 
                 SubIDEntry("11") {
                     title = "アイロニ" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(1.75)
+                    Music(0.175)
                     NEI(0.15, Emotion.CU)
                 }
             }
@@ -68,14 +68,14 @@ fun DSLScope.Kano() {
                 SubIDEntry("6") {
                     title = "メリーメリー álbum ver." // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:35") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(4.0)
+                    Music(0.4)
                     NEI(0.25, Emotion.MP)
                 }
 
                 SubIDEntry("9") {
                     MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
                     title = "World on Color" // generated(fill_music_metadata.dart v0.1.1)
-                    Music(6.0)
+                    Music(0.6)
                     NEI(0.2, Emotion.MP)
                     OsuSong(personal = 1.0, community = 0.0)
                 }
@@ -90,14 +90,14 @@ fun DSLScope.Kano() {
                 SubIDEntry("1") {
                     title = "グッドナイトエヴリワン" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("5:49") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(4.0)
+                    Music(0.4)
                     NEI(0.2, Emotion.CU)
                 }
 
                 SubIDEntry("8") {
                     MusicConsumedProgress("5:54") // generated(fill_music_metadata.dart v0.1.1)
                     title = "decide" // generated(fill_music_metadata.dart v0.1.1)
-                    Music(2.0)
+                    Music(0.2)
                     NEI(0.25, Emotion.CU)
                 }
             }
@@ -112,7 +112,7 @@ fun DSLScope.Kano() {
                 SubIDEntry("1") {
                     MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
                     title = "Stella-rium" // generated(fill_music_metadata.dart v0.1.1)
-                    Music(5.0)
+                    Music(0.5)
                     NEI(0.5, Emotion.MP)
                 }
             }
@@ -127,7 +127,7 @@ fun DSLScope.Kano() {
                 SubIDEntry("1") {
                     title = "ディアブレイブ" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:19") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(5.0)
+                    Music(0.5)
                     NEI(0.1, Emotion.CU)
                 }
             }
@@ -142,7 +142,7 @@ fun DSLScope.Kano() {
                     title = "Prima Stella" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
                     Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
-                    Music(5.0)
+                    Music(0.5)
                     NEI(0.1, Emotion.CU)
                 }
 
@@ -169,7 +169,7 @@ fun DSLScope.Kano() {
                     title = "地球最後の告白を" // generated(fill_music_metadata.dart v0.1.1)
                     // https://www.youtube.com/watch?v=paVYNlZ5Xuk
                     MusicConsumedProgress("4:33") // impl_overridden
-                    Music(3.0)
+                    Music(0.3)
                     NEI(0.1, Emotion.CU)
 
                     Remix("M-MAL-36631-6")
@@ -183,7 +183,7 @@ fun DSLScope.Kano() {
                 title = "Kimiiro Hanabi -album version-"
 
                 // Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352
-                Music(6.0)
+                Music(0.6)
                 MusicConsumedProgress("4:19") // impl_overridden
                 NEI(0.5, Emotion.CP)
             }
@@ -221,14 +221,14 @@ fun DSLScope.Kano() {
                     // the original MV is for the mix version
                     // https://www.nicovideo.jp/watch/sm19687208
                     Visual(VisualKind.SemiAnimatedMV, 0.35, 0.6)
-                    Music(2.5)
+                    Music(0.25)
                     NEI(0.125, Emotion.MP)
                 }
 
                 SubIDEntry("2") {
                     title = "うたうたいのうた" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(8.0)
+                    Music(0.8)
                     NEI(0.15, Emotion.MP)
                 }
 
@@ -237,21 +237,21 @@ fun DSLScope.Kano() {
                 SubIDEntry("3") {
                     MusicConsumedProgress("5:36") // generated(fill_music_metadata.dart v0.1.1)
                     title = "[It's not] World's end" // generated(fill_music_metadata.dart v0.1.1)
-                    Music(5.0)
+                    Music(0.5)
                     NEI(0.5, Emotion.CU)
                 }
 
                 SubIDEntry("4") {
                     title = "「ねぇ。」" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("6:23") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(2.0)
+                    Music(0.2)
                     NEI(0.25, Emotion.CU)
                 }
 
                 SubIDEntry("5") {
                     title = "朝焼け、君の唄。" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("5:08") // generated(fill_music_metadata.dart v0.1.1)
-                    Music(2.0)
+                    Music(0.2)
                     NEI(0.2, Emotion.MP)
                 }
 
@@ -259,7 +259,7 @@ fun DSLScope.Kano() {
                     title = "サクラノ前夜" // generated(fill_music_metadata.dart v0.1.1)
                     MusicConsumedProgress("6:00") // generated(fill_music_metadata.dart v0.1.1)
                     Visual(VisualKind.AnimatedMV, 0.35, 0.6)
-                    Music(7.0)
+                    Music(0.7)
                     NEI(0.25, Emotion.CU)
                 }
             }
@@ -277,7 +277,7 @@ fun DSLScope.Kano() {
                 OsuSong(personal = 5.0)
 
                 // Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg
-                Music(5.0)
+                Music(0.5)
                 MusicConsumedProgress("3:29") // impl_overridden
             }
         }

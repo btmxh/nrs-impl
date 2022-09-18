@@ -27,7 +27,7 @@ fun DSLScope.Idolmaster() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:38") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Dreaming!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.5)
+                Music(0.35)
                 OsuSong(personal = 8.0)
             }
         }
@@ -40,7 +40,7 @@ fun DSLScope.Idolmaster() {
             SubIDEntry("1") {
                 MusicConsumedProgress("6:05") // generated(fill_music_metadata.dart v0.1.1)
                 title = "EVERMORE (M@STER VERSION)" // generated(fill_music_metadata.dart v0.1.1)
-                Music(4.0)
+                Music(0.4)
             }
         }
 
@@ -53,7 +53,7 @@ fun DSLScope.Idolmaster() {
             SubIDEntry("1") {
                 MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
                 title = "UNION!!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(3.5)
+                Music(0.35)
                 OsuSong(personal = 5.0, community = 2.0)
             }
         }
@@ -73,7 +73,7 @@ fun DSLScope.Idolmaster() {
             NEI(0.75, Emotion.AP)
 
             // idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig.
-            Music(0.3)
+            Music(0.03)
             AnimeProgressOld(Boredom.Completed, 25)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }

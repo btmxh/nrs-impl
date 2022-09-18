@@ -86,7 +86,7 @@ fun DSLScope.MVLiterature() {
             // how dare hololiveshit sit between two glorious franchises (or three idk)
             // these mfs need to touch grass and realize how shitty they are
             // compared to rst and sb69, "the franchises of all time"
-            Music(6.5)
+            Music(0.65)
             // the girls look CG af, but at least the other things are good
             Visual(VisualKind.SemiAnimatedMV, 0.3, 0.2)
             AKMEraPart1(0.4)

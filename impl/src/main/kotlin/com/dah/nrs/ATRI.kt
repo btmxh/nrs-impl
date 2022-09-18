@@ -36,7 +36,7 @@ fun DSLScope.ATRI() {
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             // like the aokana soundtrack album
-            Music(6.0)
+            Music(0.6)
         }
     }
 }

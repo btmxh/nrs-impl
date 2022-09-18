@@ -211,7 +211,7 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 // fes a live art looks a little bit weird ngl
                 Visual(VisualKind.AnimatedMV, 0.45, 0.3)
-                FesALiveMusic(3.5)
+                FesALiveMusic(0.35)
             }
         }
 
@@ -226,7 +226,7 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 // really interesting vocal
                 // (somewhat resemble kano)
-                FesALiveMusic(2.5)
+                FesALiveMusic(0.25)
             }
         }
 
@@ -239,7 +239,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Seishun wa Non-Stop!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(2.5)
+                FesALiveMusic(0.25)
 
                 Remix("M-22")
             }
@@ -247,7 +247,7 @@ fun DSLScope.SB69() {
             SubIDEntry("2") {
                 title = "Close to you" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(4.0)
+                FesALiveMusic(0.4)
 
                 Remix("M-VGMDB-AL-61981-3")
             }
@@ -262,7 +262,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Tabimichi Yoiyoi Yume Hanabi" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:21") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(3.0)
+                FesALiveMusic(0.3)
             }
         }
 
@@ -275,14 +275,14 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Meikyuu DESTINY" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:04") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
 
             SubIDEntry("2") {
                 title = "Ryuusei Dreamline" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                 // kekekekekekek
-                FesALiveMusic(2.25)
+                FesALiveMusic(0.225)
             }
         }
 
@@ -296,7 +296,7 @@ fun DSLScope.SB69() {
                 title = "Heart wo Rock!!" // generated(fill_music_metadata.dart v0.1.1)
                 // Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf
                 MusicConsumedProgress("4:12") // impl_overridden
-                FesALiveMusic(7.0)
+                FesALiveMusic(0.7)
             }
         }
 
@@ -309,7 +309,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Schlehit Melodie" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:46") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(4.0)
+                FesALiveMusic(0.4)
             }
         }
 
@@ -322,13 +322,13 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 MusicConsumedProgress("5:03") // generated(fill_music_metadata.dart v0.1.1)
                 title = "My Resolution ～未来への絆～" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
 
             SubIDEntry("3") {
                 MusicConsumedProgress("4:02") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Close to you (詩杏 ver.)" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(3.5)
+                FesALiveMusic(0.35)
 
                 NEI(0.25, Emotion.MP)
             }
@@ -344,7 +344,7 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
                 title = "ドレミファPARTY" // generated(fill_music_metadata.dart v0.1.1)
                 // xd
-                FesALiveMusic(2.0)
+                FesALiveMusic(0.2)
                 Meme(0.1, 2)
             }
         }
@@ -369,14 +369,14 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:14") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Hiromenes" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(6.0)
+                FesALiveMusic(0.6)
             }
 
             SubIDEntry("2") {
                 MusicConsumedProgress("3:36") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Kimi no Rhapsody" // generated(fill_music_metadata.dart v0.1.1)
                 // hahahahahaaha the howan tinh song
-                FesALiveMusic(2.5)
+                FesALiveMusic(0.25)
                 Meme(0.01, numDays("2022-04-01"))
                 Remix("M-62")
             }
@@ -384,7 +384,7 @@ fun DSLScope.SB69() {
             SubIDEntry("3") {
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Masshiro Start Line" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(6.0)
+                FesALiveMusic(0.6)
             }
         }
 
@@ -394,7 +394,7 @@ fun DSLScope.SB69() {
             // aka hoantinh theme song
 
             // Length source: (rip db.showbyrock.net)
-            FesALiveMusic(4.0)
+            FesALiveMusic(0.4)
             MusicConsumedProgress("1:34") // impl_overridden
         }
 
@@ -407,7 +407,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:46") // generated(fill_music_metadata.dart v0.1.1)
                 title = "エールアンドレスポンス" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(2.0)
+                FesALiveMusic(0.2)
             }
         }
 
@@ -422,13 +422,13 @@ fun DSLScope.SB69() {
                 title = "Do Re Mi Fa STARS!!" // generated(fill_music_metadata.dart v0.1.1)
                 // aka ceui - colorful days (mp-based franchise ver.)
                 // or the counting song
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
 
             SubIDEntry("2") {
                 title = "Hoshizora Light Story" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(3.5)
+                FesALiveMusic(0.35)
             }
         }
 
@@ -442,7 +442,7 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Do! It! Happy Daibouken!" // generated(fill_music_metadata.dart v0.1.1)
                 // do it party reference lmfao
-                FesALiveMusic(6.5)
+                FesALiveMusic(0.65)
             }
 
             SubIDEntry("6") {
@@ -453,7 +453,7 @@ fun DSLScope.SB69() {
                 // ngau loi nhat ca doi tuyen toan
                 // do co le la em toi
 
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
         }
 
@@ -466,7 +466,7 @@ fun DSLScope.SB69() {
             SubIDEntry("5") {
                 title = "EMPIRE DOMINATOR" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(2.5)
+                FesALiveMusic(0.25)
             }
 
             SubIDEntry("8") {
@@ -474,7 +474,7 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:46") // generated(fill_music_metadata.dart v0.1.1)
                 // this was unranked all this time?????
                 // lmfao
-                FesALiveMusic(6.5)
+                FesALiveMusic(0.65)
 
                 // there's no one who is cooler
                 // there's no one who's like him
@@ -492,7 +492,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Hanate! Dododon!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:00") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
         }
 
@@ -505,7 +505,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Taikakusen wo Tsunaideyo" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:44") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(6.5)
+                FesALiveMusic(0.65)
             }
         }
 
@@ -522,7 +522,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "グッデイバイデイ" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(3.5)
+                FesALiveMusic(0.35)
             }
 
             // if u understand, u understand
@@ -538,7 +538,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Mirai Wanted" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:23") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
         }
 
@@ -552,7 +552,7 @@ fun DSLScope.SB69() {
                 title = "Bokura no Neiro" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:23") // generated(fill_music_metadata.dart v0.1.1)
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.6)
-                FesALiveMusic(3.5)
+                FesALiveMusic(0.35)
             }
         }
 
@@ -565,7 +565,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Mot Mot Mot" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(6.5)
+                FesALiveMusic(0.65)
             }
         }
 
@@ -577,7 +577,7 @@ fun DSLScope.SB69() {
             SubIDEntry("3") {
                 title = "Nyumber One! Zettai Saikyou!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:23") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(7.0)
+                FesALiveMusic(0.7)
             }
         }
 
@@ -591,7 +591,7 @@ fun DSLScope.SB69() {
                 title = "ループしてる" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:45") // generated(fill_music_metadata.dart v0.1.1)
                 // :tf:
-                FesALiveMusic(2.5)
+                FesALiveMusic(0.25)
             }
 
             SubIDEntry("2") {
@@ -613,7 +613,7 @@ fun DSLScope.SB69() {
                 // which marks the continuation of the duopoly era
                 // ^ clueless mfs
 
-                FesALiveMusic(8.0)
+                FesALiveMusic(0.8)
                 NEI(0.5, Emotion.MP)
 
                 // (the love song parody lyrics shit of me to rst, translated to english)
@@ -650,7 +650,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "はうあーゆー？" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(6.0)
+                FesALiveMusic(0.6)
             }
         }
 
@@ -662,7 +662,7 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Happy Happy Jump" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:44") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(5.0)
+                FesALiveMusic(0.5)
             }
         }
 
@@ -752,7 +752,7 @@ fun DSLScope.SB69() {
         title = "Seishun wa Non-Stop! (Asterisk DnB Remix)"
 
         // Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix
-        Music(6.0)
+        Music(0.6)
         MusicConsumedProgress("5:02") // impl_overridden
         OsuSong(personal = 7.5)
     }
