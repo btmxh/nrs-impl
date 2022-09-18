@@ -196,7 +196,7 @@ fun DSLScope.ReStage() {
             PADS(1, Emotion.MP)
 
             // 4chan loved rst, which is heartwarming af
-            AEI(3.0, Emotion.MP)
+            AEI(0.3, Emotion.MP)
 
             // rst lore
 //            NEI(9.0, Emotion.AP)
@@ -206,11 +206,11 @@ fun DSLScope.ReStage() {
             // broken legs" bs, look at the iceberg for more shit like that)
             // (AU is from the anime's "Heisenberg Uncertainty Principle", which states that
             // the more popular an anime is, the more hated it is by me)
-            AEI(2.5, Emotion.MU to 0.5, Emotion.AU to 0.5)
+            AEI(0.25, Emotion.MU to 0.5, Emotion.AU to 0.5)
 
             // this was funny af
             // expected from a purely mpap-based idol anime
-            AEI(6.0, Emotion.AP)
+            AEI(0.6, Emotion.AP)
 
             // for the first time, i felt like i'm actually holding a glowstick,
             // waving it, and wish the best for the girls performing
@@ -219,7 +219,7 @@ fun DSLScope.ReStage() {
             // but after this glorious franchise, it's also MP-farm, and more importantly
             // it's what all idol fans feel, the feeling of wanting the girls to success
             // tl;dr: the father analogy
-            AEI(10.0, Emotion.CU to 0.5, Emotion.CP to 0.5)
+            AEI(1.0, Emotion.CU to 0.5, Emotion.CP to 0.5)
 
             Visual(VisualKind.Animated, 0.6, 0.2)
 
