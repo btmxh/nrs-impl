@@ -27,6 +27,11 @@ fun DSLScope.WorldWitches() {
 
         Entry {
             id = "A-MAL-32866"
+            title = "Brave Witches" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 32866 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 11887 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20454 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 32866 // generated(fill_anime_metadata.dart v0.1.1)
 
             // featuring Rie "moshimoasudesekaiga" Murakawa and
             // Hiromi "con người dao kiếm" Igarashi
