@@ -39,11 +39,11 @@ fun DSLScope.WorldWitches() {
             // stfu
             // bestGirl = "Naoe Kanno"
             // bestGirl = "Edytha Rossmann"
-            bestGirl = "Takami Karibuchi"
+            bestGirl = "Georgette Lemare"
             // MC and her sister somewhat ressembles Mana Shikimiya
             // and Aone Shikimiya
 
-            AnimeProgressOld(Boredom.Watching, 4)
+            AnimeProgressOld(Boredom.Watching, 5)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
