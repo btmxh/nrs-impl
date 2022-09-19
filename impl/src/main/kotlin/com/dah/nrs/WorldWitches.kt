@@ -26,6 +26,24 @@ fun DSLScope.WorldWitches() {
         }
 
         Entry {
+            id = "A-MAL-32866"
+
+            // featuring Rie "moshimoasudesekaiga" Murakawa and
+            // Hiromi "con người dao kiếm" Igarashi
+
+            // stfu
+            // bestGirl = "Naoe Kanno"
+            // bestGirl = "Edytha Rossmann"
+            bestGirl = "Takami Karibuchi"
+            // MC and her sister somewhat ressembles Mana Shikimiya
+            // and Aone Shikimiya
+
+            AnimeProgressOld(Boredom.Watching, 1)
+            KilledBy("F-VGMDB-694", 0.25, 0.5)
+            Visual(VisualKind.Animated, 0.3, 0.5)
+        }
+
+        Entry {
             id = "A-MAL-38006"
             title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" // generated(fill_anime_metadata.dart v0.1.1)
             idAniDB = 38006 // generated(fill_anime_metadata.dart v0.1.1)
