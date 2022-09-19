@@ -43,7 +43,7 @@ fun DSLScope.WorldWitches() {
             // MC and her sister somewhat ressembles Mana Shikimiya
             // and Aone Shikimiya
 
-            AnimeProgressOld(Boredom.Watching, 2)
+            AnimeProgressOld(Boredom.Watching, 3)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
