@@ -42,8 +42,10 @@ fun DSLScope.WorldWitches() {
             bestGirl = "Georgette Lemare"
             // MC and her sister somewhat ressembles Mana Shikimiya
             // and Aone Shikimiya
+            // haha "tạ kami"
+            NEI(0.75, Emotion.AP)
 
-            AnimeProgressOld(Boredom.Watching, 10)
+            AnimeProgressOld(Boredom.Completed, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
