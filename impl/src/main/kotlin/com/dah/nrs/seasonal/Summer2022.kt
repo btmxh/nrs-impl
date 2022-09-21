@@ -104,7 +104,7 @@ fun DSLScope.Summer2022() {
 
         // still shit anime anyways
         // lmfao they used "inverse-killedby" method to not be dropped
-        AnimeProgressOld(Boredom.Watching, 11)
+        AnimeProgressOld(Boredom.Completed, 12)
         // no way they made an reference to the "mc cried" atelier bs
         // based rosia-chan and her baits
         // brb watching the anime of the season
