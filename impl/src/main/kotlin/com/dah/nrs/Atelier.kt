@@ -199,5 +199,13 @@ fun DSLScope.Atelier() {
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
             ConsumedProgress(EntryStatus.Watching, 1.0, 80.hours)
         }
+
+        Entry {
+            id = "M-VGMDB-AL-45607"
+
+            SubIDEntry("4") {
+                Music(5.0)
+            }
+        }
     }
 }
