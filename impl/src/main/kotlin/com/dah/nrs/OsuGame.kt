@@ -52,6 +52,7 @@ fun DSLScope.OsuGame() {
     Entry {
         id = "M-VGMDB-AL-49508"
 
+        Visual(VisualKind.AlbumArt, 0.25, 0.5)
         SubIDEntry("2") {
             Music(0.4)
             // Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396

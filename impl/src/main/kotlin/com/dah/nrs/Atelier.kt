@@ -203,6 +203,7 @@ fun DSLScope.Atelier() {
         Entry {
             id = "M-VGMDB-AL-45607"
 
+            Visual(VisualKind.AlbumArt, 0.35, 0.3)
             SubIDEntry("4") {
                 Music(0.5)
             }
