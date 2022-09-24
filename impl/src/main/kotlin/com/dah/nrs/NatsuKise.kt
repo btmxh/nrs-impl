@@ -11,6 +11,11 @@ fun DSLScope.NatsuKise() {
         
         Entry {
             id = "A-MAL-12119"
+            title = "Natsu-iro Kiseki" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 12119 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 6667 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 12119 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 12119 // generated(fill_anime_metadata.dart v0.1.1)
             
             bestGirl = "Saki Mizukoshi"
 
@@ -22,6 +27,10 @@ fun DSLScope.NatsuKise() {
 
         Entry {
             id = "A-MAL-15431"
+            title = "Natsu-iro Kiseki: 15-kaime no Natsuyasumi" // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7255 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 15431 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 15431 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Saki Mizukoshi"
 
