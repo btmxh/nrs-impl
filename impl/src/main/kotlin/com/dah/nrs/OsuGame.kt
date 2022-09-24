@@ -61,4 +61,13 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("4:44") // impl_overridden
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AL-79187"
+
+        Visual(VisualKind.AlbumArt, 0.1, 0.2)
+        SubIDEntry("1") {
+            Music(0.4)
+        }
+    }
 }
