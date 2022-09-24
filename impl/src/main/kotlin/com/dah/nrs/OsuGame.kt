@@ -64,9 +64,12 @@ fun DSLScope.OsuGame() {
 
     Entry {
         id = "M-VGMDB-AL-79187"
+        title = "Kisses and Kills / THE ORAL CIGARETTES" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
         SubIDEntry("1") {
+            MusicConsumedProgress("2:19") // generated(fill_music_metadata.dart v0.1.1)
+            title = "もういいかい?" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
         }
     }
