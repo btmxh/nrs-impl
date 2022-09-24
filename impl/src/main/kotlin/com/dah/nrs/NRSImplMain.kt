@@ -769,6 +769,18 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.4)
         }
 
+        Entry {
+            id = "A-MAL-38091"
+
+            // haha chuchu analogy ahaha yes we are ahahdajd
+            bestGirl = "Akane Ukita"
+
+            // risuteji xi jin ping
+            NEI(0.3, Emotion.CP)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            Visual(VisualKind.Animated, 0.4, 0.5)
+        }
+
         Summer2022()
         WorldWitches()
     }.run {}
