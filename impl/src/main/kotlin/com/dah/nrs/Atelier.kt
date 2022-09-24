@@ -204,7 +204,7 @@ fun DSLScope.Atelier() {
             id = "M-VGMDB-AL-45607"
 
             SubIDEntry("4") {
-                Music(5.0)
+                Music(0.5)
             }
         }
     }

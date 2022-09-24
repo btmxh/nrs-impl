@@ -53,7 +53,7 @@ fun DSLScope.OsuGame() {
         id = "M-VGMDB-AL-49508"
 
         SubIDEntry("2") {
-            Music(4.0)
+            Music(0.4)
         }
     }
 }
