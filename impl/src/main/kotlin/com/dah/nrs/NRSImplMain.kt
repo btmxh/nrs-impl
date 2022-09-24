@@ -771,6 +771,11 @@ fun main() =
 
         Entry {
             id = "A-MAL-38091"
+            title = "Hachigatsu no Cinderella Nine (TV)" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38091 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42144 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 104989 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38091 // generated(fill_anime_metadata.dart v0.1.1)
 
             // haha chuchu analogy ahaha yes we are ahahdajd
             bestGirl = "Akane Ukita"
