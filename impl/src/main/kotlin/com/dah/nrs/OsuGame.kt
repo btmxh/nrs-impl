@@ -48,4 +48,12 @@ fun DSLScope.OsuGame() {
         Music(0.4)
         MusicConsumedProgress("4:42") // impl_overridden
     }
+
+    Entry {
+        id = "M-VGMDB-AL-49508"
+
+        SubIDEntry("2") {
+            Music(4.0)
+        }
+    }
 }
