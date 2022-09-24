@@ -788,6 +788,11 @@ fun main() =
 
         Entry {
             id = "A-MAL-37481"
+            title = "Ongaku Shoujo (TV)" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 37481 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 41066 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 101309 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 37481 // generated(fill_anime_metadata.dart v0.1.1)
 
             // gyze it's the chuchu analogy girl amirite hahahaha
             bestGirl = "Kiri Mukae"
