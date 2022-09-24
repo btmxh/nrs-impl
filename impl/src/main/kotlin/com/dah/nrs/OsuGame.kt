@@ -51,9 +51,11 @@ fun DSLScope.OsuGame() {
 
     Entry {
         id = "M-VGMDB-AL-49508"
+        title = "Tsukinami / Kanon Wakeshima" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.25, 0.5)
         SubIDEntry("2") {
+            title = "ツキナミ" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
             // Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396
             MusicConsumedProgress("4:44") // impl_overridden
