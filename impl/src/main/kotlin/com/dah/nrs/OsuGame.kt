@@ -54,6 +54,8 @@ fun DSLScope.OsuGame() {
 
         SubIDEntry("2") {
             Music(0.4)
+            // Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396
+            MusicConsumedProgress("4:44") // impl_overridden
         }
     }
 }
