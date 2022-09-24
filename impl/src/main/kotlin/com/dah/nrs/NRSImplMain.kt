@@ -786,6 +786,16 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
+        Entry {
+            id = "A-MAL-37481"
+
+            // gyze it's the chuchu analogy girl amirite hahahaha
+            bestGirl = "Kiri Mukae"
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            Visual(VisualKind.Animated, 0.5, 0.3)
+        }
+
         Summer2022()
         WorldWitches()
     }.run {}
