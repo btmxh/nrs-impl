@@ -56,6 +56,9 @@ jobs:
       run: echo "::set-output name=fragment::${BRANCH##*/}"
       env:
         BRANCH: ${{ github.ref_name }}
+    - name: Get release tag suffix
+      id: release_tag_name
+      run: echo "::set-output name=fragment::$(date +'%Y%m%d-%H%M')"
     - name: Create release
       uses: marvinpinto/action-automatic-releases@latest
       if: ${{ !contains(github.ref, 'dependabot') }}
@@ -63,6 +66,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "${{ steps.release_tag_name.outputs.fragment }}-${{ steps.split.outputs.fragment }}"
         title: "Release #${{ github.run_number }}"
         prerelease: false
         files: |
