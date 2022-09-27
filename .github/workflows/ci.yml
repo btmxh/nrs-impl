@@ -67,7 +67,7 @@ jobs:
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "${{ steps.release_tag_name.outputs.fragment }}-${{ steps.split.outputs.fragment }}"
-        title: "Release #${{ github.run_number }}"
+        title: " ${{ steps.split.outputs.fragment }} #${{ github.run_number }}"
         prerelease: false
         files: |
           output/entries.json
@@ -83,7 +83,7 @@ jobs:
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "latest-${{ steps.split.outputs.fragment }}"
-        title: "Latest NRS output files"
+        title: "Latest NRS output files (branch ${{ steps.split.outputs.fragment }})"
         prerelease: false
         files: |
           output/entries.json
