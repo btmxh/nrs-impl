@@ -52,6 +52,8 @@ fun DSLScope.Atelier() {
         // fuck
         // fuck
         // truly one of the anime girls of all time
+        // although modern culture died, she's still gaming
+        // truly one of the NAP mascots of all time (wtf i hate sk now)
         Waifu("Malier Escha", "2022-08-31" to today()) {
             contributors["A-MAL-21167"] = 0.2
             contributors["G-VGMDB-1880"] = 0.8
@@ -197,7 +199,8 @@ fun DSLScope.Atelier() {
             // obligatory potential waifu buff
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
-            ConsumedProgress(EntryStatus.Watching, 1.0, 80.hours)
+            // NOZS (Nyumber One! Zettai Saikyou!) Act
+            ConsumedProgress(EntryStatus.OnHold, 1.0, 80.hours)
         }
 
         Entry {

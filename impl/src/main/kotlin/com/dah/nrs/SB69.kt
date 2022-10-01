@@ -876,5 +876,17 @@ fun AcceptImpact.AKMEraPart3(strength: Double, block: DSLImpact.() -> Unit = {})
     // so, post-rst culture will have another shot with waifu meta, after failing
     // with le cat because of 'lack of content'. let's hope for the best for miss
     // 15-year-old escha malier to turn this culture into absolute chaos.
-    Meme(strength, numDays("2022-09-01"), block)
+    Meme(strength, numDays("2022-09-01", "2022-10-01"), block)
+
+    // rip modern culture
+    // surely this is a way for rst to force me to study calc 1 and shit
+    // flags:
+    // atelier dusk series being post-apocalyptic
+    // https://twitter.com/SB69F/status/1575350648966479873 (sb69f dead)
+    // fall 2022 shit anime season
+    // me getting into uni and the rise of post-modern politics (i love NAP)
+
+    // after the glorious days of modern culture, we will live in a society
+    // where only rst and sb69 are able to benefit from it (more idol dystopia
+    // let's gooooooooo)
 }
