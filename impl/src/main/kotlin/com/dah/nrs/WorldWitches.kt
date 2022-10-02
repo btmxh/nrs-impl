@@ -79,6 +79,7 @@ fun DSLScope.WorldWitches() {
             KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
             FeatureMusic("M-VGMDB-AL-120491")
             FeatureMusic("M-VGMDB-AL-120492")
+            FeatureMusic("M-VGMDB-AL-121418")
         }
 
         Entry {
