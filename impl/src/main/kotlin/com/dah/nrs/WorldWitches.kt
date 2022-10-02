@@ -134,7 +134,7 @@ fun DSLScope.WorldWitches() {
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             SubIDEntry("2") {
-                Music(6.0)
+                Music(0.6)
             }
         }
     }
