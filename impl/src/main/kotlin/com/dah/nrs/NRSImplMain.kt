@@ -803,5 +803,6 @@ fun main() =
 
         Summer2022()
         WorldWitches()
+        Fall2022()
     }.run {}
 
