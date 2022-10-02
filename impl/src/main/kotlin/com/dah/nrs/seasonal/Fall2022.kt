@@ -3,7 +3,7 @@ package com.dah.nrs.seasonal
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
-fun DSLScope.Summer2022() {
+fun DSLScope.Fall2022() {
     // one of the anime seasons of all time
     // (why is boatshit everywhere i hate my life)
 
