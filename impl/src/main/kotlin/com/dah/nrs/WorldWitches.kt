@@ -125,5 +125,20 @@ fun DSLScope.WorldWitches() {
                 Music(0.4)
             }
         }
+
+        // W witches
+        // the carrier (not atelier reference) of post-modern culture
+        // (sasuga the mfs who are living rent-free in rst territory)
+        Entry {
+            id = "M-VGMDB-AL-121418"
+            title = "LUMINOUS WITCHES CHARACTER SONG CD vol.3" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.7, 0.15)
+
+            SubIDEntry("5") {
+                MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
+                title = "歌を歌おう (finale)" // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.6)
+            }
+        }
     }
 }
