@@ -125,5 +125,17 @@ fun DSLScope.WorldWitches() {
                 Music(0.4)
             }
         }
+
+        // W witches
+        // the carrier (not atelier reference) of post-modern culture
+        // (sasuga the mfs who are living rent-free in rst territory)
+        Entry {
+            id = "M-VGMDB-AL-121418"
+            Visual(VisualKind.AlbumArt, 0.7, 0.15)
+
+            SubIDEntry("2") {
+                Music(6.0)
+            }
+        }
     }
 }
