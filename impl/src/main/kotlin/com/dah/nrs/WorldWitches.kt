@@ -135,6 +135,8 @@ fun DSLScope.WorldWitches() {
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             SubIDEntry("5") {
+                MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
+                title = "歌を歌おう (finale)" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.6)
             }
         }
