@@ -134,9 +134,7 @@ fun DSLScope.WorldWitches() {
             title = "LUMINOUS WITCHES CHARACTER SONG CD vol.3" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
-            SubIDEntry("2") {
-                MusicConsumedProgress("2:02") // generated(fill_music_metadata.dart v0.1.1)
-                title = "永久の寄す処" // generated(fill_music_metadata.dart v0.1.1)
+            SubIDEntry("5") {
                 Music(0.6)
             }
         }
