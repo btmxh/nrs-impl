@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import com.dah.nrs.meme.*
 
 private val AllSB69Tracks = mutableListOf<String>()
 
@@ -578,6 +579,10 @@ fun DSLScope.SB69() {
                 title = "Nyumber One! Zettai Saikyou!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:23") // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(0.7)
+                // welcome to the post-modern shithole where everything is political
+                // NOZSP is truly the party of all time
+                // chair gaming
+                PostModernMeme(0.1)
             }
         }
 

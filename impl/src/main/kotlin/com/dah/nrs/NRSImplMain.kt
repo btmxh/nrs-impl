@@ -22,7 +22,7 @@ import kotlin.time.Duration.Companion.seconds
 // L-1
 // G-1
 // F-2
-// O-5
+// O-7
 
 fun main() =
     generate {
