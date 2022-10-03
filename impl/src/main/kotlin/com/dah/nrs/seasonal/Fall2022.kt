@@ -21,8 +21,17 @@ fun DSLScope.Fall2022() {
         bestGirl = "Reisalin Stout" // impl_overridden
         // mi ưhen lô ve li ve vi ây
 
-        ValidatorSuppress("dah-visualless-entry")
-        AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
+        // NOZSP (Number One Zettai Saikyou Party) the anime
+        // average post-modern anime lol:
+        // mc literally graduated from hust
+        // dusk reference in that parents last words thingy
+        // mc has autism (average NOZSP mf)
+        // "Yes, since they want alchemists out in the country as well." - my fucking ass
+        // i hate sk (and bk too lol)
+
+
+        Visual(VisualKind.Animated, 0.6, 0.2)
+        AnimeConsumedProgress(EntryStatus.Watching, 0.5, 1)
     }
 
     Entry {
