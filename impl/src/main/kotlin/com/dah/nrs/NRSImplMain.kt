@@ -804,6 +804,7 @@ fun main() =
 
         Summer2022()
         WorldWitches()
+        PostModern()
         Fall2022()
     }.run {}
 
