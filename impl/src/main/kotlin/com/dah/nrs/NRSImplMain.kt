@@ -10,6 +10,7 @@ import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 import com.dah.nrs.meme.MVLiterature
 import com.dah.nrs.meme.Method
+import com.dah.nrs.meme.PostModern
 import com.dah.nrs.seasonal.Spring2022
 import com.dah.nrs.seasonal.Summer2022
 import com.dah.nrs.seasonal.Fall2022
