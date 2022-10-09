@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout sources
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3.1.0
       with:
         submodules: recursive
     - name: Setup Gradle
@@ -27,7 +27,7 @@ jobs:
     - name: Create temp directory
       run: mkdir temp
     - name: Checkout hufman/vgmdb
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3.1.0
       with:
         repository: 'hufman/vgmdb'
         path: temp/vgmdb
