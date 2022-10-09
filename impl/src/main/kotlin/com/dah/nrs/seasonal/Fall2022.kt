@@ -43,10 +43,11 @@ fun DSLScope.Fall2022() {
         idMAL = 47917 // generated(fill_anime_metadata.dart v0.1.1)
 
         // le cat is back noway!!1!1!
+        // average NAP/NOZSP member
         bestGirl = "Hitori Gotou"
         // mi ưhen cloverworks
 
         ValidatorSuppress("dah-visualless-entry")
-        AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
+        AnimeConsumedProgress(EntryStatus.Watching, 0.8, 1)
     }
 }
