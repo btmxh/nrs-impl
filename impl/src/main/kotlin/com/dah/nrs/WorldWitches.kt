@@ -159,5 +159,7 @@ fun DSLScope.WorldWitches() {
         title = "- 約束の空へ ～私のいた場所～(Soleily Remix)"
 
         Music(0.6)
+        // Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0
+        MusicConsumedProgress("5:48")
     }
 }
