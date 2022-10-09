@@ -141,5 +141,28 @@ fun DSLScope.WorldWitches() {
                 Music(0.6)
             }
         }
+
+        Entry {
+            id = "M-VGMDB-AL-31409"
+            title = "Strike Witches Gekijouban Original Soundtrack" // generated(fill_music_metadata.dart v0.1.1)
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.4)
+
+            SubIDEntry("34") {
+                MusicConsumedProgress("4:09") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Yakusoku no Sora e ~Watashi no Ita Basho~" // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.4)
+                Remix("M-67")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-67"
+        title = "- 約束の空へ ～私のいた場所～(Soleily Remix)"
+
+        Music(0.6)
+        // Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0
+        MusicConsumedProgress("5:48")
     }
 }
