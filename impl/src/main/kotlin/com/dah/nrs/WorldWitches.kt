@@ -141,5 +141,23 @@ fun DSLScope.WorldWitches() {
                 Music(0.6)
             }
         }
+
+        Entry {
+            id = "M-VGMDB-AL-31409"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.4)
+
+            SubIDEntry("34") {
+                Music(0.4)
+                Remix("M-67")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-67"
+        title = "- 約束の空へ ～私のいた場所～(Soleily Remix)"
+
+        Music(0.6)
     }
 }
