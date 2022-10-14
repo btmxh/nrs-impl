@@ -287,6 +287,8 @@ fun DSLScope.ReStage() {
                 // the angel yell incident
                 ReStepMusic(0.75)
                 Meme(0.2, 10)
+                // "Amazing saikou no Brilliant (HEY!!)"
+                // wtf this song is nozsist i hate rst now
             }
         }
 
