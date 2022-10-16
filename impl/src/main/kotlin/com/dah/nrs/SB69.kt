@@ -618,7 +618,7 @@ fun DSLScope.SB69() {
                 // which marks the continuation of the duopoly era
                 // ^ clueless mfs
 
-                FesALiveMusic(0.8)
+                FesALiveMusic(0.9)
                 NEI(0.5, Emotion.MP)
 
                 // (the love song parody lyrics shit of me to rst, translated to english)
