@@ -73,4 +73,15 @@ fun DSLScope.OsuGame() {
             Music(0.4)
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AL-52234"
+
+        Visual(VisualKind.AlbumArt, 0.5, 0.5)
+        SubIDEntry("1") {
+            Music(0.5)
+            // haha tranny duy bua
+            Meme(0.01, numDays("2021-06-01"))
+        }
+    }
 }
