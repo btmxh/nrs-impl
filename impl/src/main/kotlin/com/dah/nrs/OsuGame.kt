@@ -1,8 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 fun DSLScope.OsuGame() {
@@ -71,6 +69,20 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("2:19") // generated(fill_music_metadata.dart v0.1.1)
             title = "もういいかい?" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-52234"
+        title = "HANASAKI WORK SPRING! COMPLETE SOUNDTRACK" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.5, 0.5)
+        SubIDEntry("1") {
+            MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Girl meets Love" // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.5)
+            // haha tranny duy bua
+            Meme(0.01, numDays("2021-06-01"))
         }
     }
 }
