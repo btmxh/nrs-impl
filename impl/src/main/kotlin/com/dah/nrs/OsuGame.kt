@@ -1,8 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.dsl.DSLScope
-import com.dah.nrs.dsl.Entry
-import com.dah.nrs.dsl.SubIDEntry
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 
 fun DSLScope.OsuGame() {
