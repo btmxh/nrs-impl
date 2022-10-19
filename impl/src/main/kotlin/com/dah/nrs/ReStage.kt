@@ -694,6 +694,16 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-78528"
+
+            Visual(VisualKind.AlbumArt, 0.45, 0.4)
+
+            SubIDEntry("2") {
+                Music(0.75)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AL-78515"
             title = "Raise Your Fist / Tetrarkhia" // generated(fill_music_metadata.dart v0.1.1)
 
@@ -704,6 +714,8 @@ fun DSLScope.ReStage() {
                 MusicConsumedProgress("3:16") // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(0.6)
             }
+
+            Contains("M-VGMDB-AL-78528-2")
         }
 
         Entry {
