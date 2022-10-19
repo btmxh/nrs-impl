@@ -685,9 +685,12 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-81655"
+            title = "Lumiere / TROIS ANGES" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
             SubIDEntry("2") {
+                MusicConsumedProgress("5:21") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Silent Dystopia" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.8)
             }
         }
