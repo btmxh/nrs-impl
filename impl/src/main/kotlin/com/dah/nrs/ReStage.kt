@@ -691,7 +691,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("2") {
                 MusicConsumedProgress("5:21") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Silent Dystopia" // generated(fill_music_metadata.dart v0.1.1)
-                Music(0.8)
+                ReStepMusic(0.8)
             }
         }
 
