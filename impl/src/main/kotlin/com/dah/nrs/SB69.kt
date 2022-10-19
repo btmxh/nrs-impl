@@ -497,6 +497,8 @@ fun DSLScope.SB69() {
             }
 
             SubIDEntry("2") {
+                MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Colorful Snow Drop" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(0.8)
             }
         }
