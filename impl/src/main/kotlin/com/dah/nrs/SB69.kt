@@ -495,6 +495,10 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("5:00") // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(0.5)
             }
+
+            SubIDEntry("2") {
+                FesALiveMusic(0.8)
+            }
         }
 
         Entry {
