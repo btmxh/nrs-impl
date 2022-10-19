@@ -702,7 +702,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("2") {
                 MusicConsumedProgress("3:34") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Shine on Me!!" // generated(fill_music_metadata.dart v0.1.1)
-                Music(0.75)
+                ReStepMusic(0.75)
             }
         }
 
