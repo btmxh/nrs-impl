@@ -684,12 +684,22 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-81655"
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+
+            SubIDEntry("2") {
+                Music(0.8)
+            }
+        }
+
+        Entry {
             id = "M-15"
             title = "TROIS ANGES"
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104673-3")
+                Contains("M-VGMDB-AL-81655")
             }
         }
 
