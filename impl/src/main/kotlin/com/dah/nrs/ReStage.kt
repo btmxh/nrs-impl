@@ -695,10 +695,13 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-78528"
+            title = "Fearless Girl / Tetrarkhia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             SubIDEntry("2") {
+                MusicConsumedProgress("3:34") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Shine on Me!!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.75)
             }
         }
