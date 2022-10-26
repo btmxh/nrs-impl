@@ -31,7 +31,7 @@ fun DSLScope.Fall2022() {
 
 
         Visual(VisualKind.Animated, 0.6, 0.2)
-        AnimeConsumedProgress(EntryStatus.Watching, 0.7, 2)
+        AnimeConsumedProgress(EntryStatus.Watching, 0.7, 4)
     }
 
     Entry {
