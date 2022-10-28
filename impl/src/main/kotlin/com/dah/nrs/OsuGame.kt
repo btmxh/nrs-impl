@@ -85,4 +85,13 @@ fun DSLScope.OsuGame() {
             Meme(0.01, numDays("2021-06-01"))
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AL-33518"
+
+        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+        SubIDEntry("2") {
+            Music(0.7)
+        }
+    }
 }
