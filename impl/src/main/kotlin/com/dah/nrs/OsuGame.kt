@@ -88,9 +88,12 @@ fun DSLScope.OsuGame() {
 
     Entry {
         id = "M-VGMDB-AL-33518"
+        title = "Irotoridori no Hikari Theme Songs Plus" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
         SubIDEntry("2") {
+            MusicConsumedProgress("4:31") // generated(fill_music_metadata.dart v0.1.1)
+            title = "COLORFUL DAYS!!" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.7)
         }
     }
