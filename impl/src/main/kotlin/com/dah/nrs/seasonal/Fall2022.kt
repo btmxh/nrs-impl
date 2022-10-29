@@ -31,7 +31,7 @@ fun DSLScope.Fall2022() {
 
 
         Visual(VisualKind.Animated, 0.6, 0.2)
-        AnimeConsumedProgress(EntryStatus.Watching, 0.7, 2)
+        AnimeConsumedProgress(EntryStatus.Watching, 0.7, 4)
     }
 
     Entry {
@@ -48,6 +48,6 @@ fun DSLScope.Fall2022() {
         // mi ưhen cloverworks
 
         ValidatorSuppress("dah-visualless-entry")
-        AnimeConsumedProgress(EntryStatus.Watching, 0.5, 2)
+        AnimeConsumedProgress(EntryStatus.Watching, 0.5, 3)
     }
 }

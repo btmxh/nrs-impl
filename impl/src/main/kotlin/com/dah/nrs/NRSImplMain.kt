@@ -67,6 +67,7 @@ fun main() =
 
         Sakurasou()
         Chuunibyou()
+        ImoutoIreba()
         Oregairu()
         LoveLive()
         AOT()
