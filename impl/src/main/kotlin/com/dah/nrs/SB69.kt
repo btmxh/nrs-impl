@@ -413,6 +413,18 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-112509"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.5)
+
+            SubIDEntry("2") {
+                // and we will fly beyond the sky
+                // let's death, you will pay
+                FesALiveMusic(0.6)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AL-104341"
             title = "Do Re Mi Fa STARS!!/Hoshizora Light Story" // generated(fill_music_metadata.dart v0.1.1)
 
