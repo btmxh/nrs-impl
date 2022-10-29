@@ -102,6 +102,15 @@ fun DSLScope.WorldWitches() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-108019"
+            Visual(VisualKind.AlbumArt, 0.6, 0.2)
+
+            SubIDEntry("1") {
+                Music(0.4)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AL-120491"
             title = "WONDERFUL WORLD / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.75, 0.15)
