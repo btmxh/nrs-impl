@@ -103,9 +103,12 @@ fun DSLScope.WorldWitches() {
 
         Entry {
             id = "M-VGMDB-AL-108019"
+            title = "Sora ni Chikau kara / Luminous Witches" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Sora ni Chikau kara" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.4)
             }
         }
