@@ -558,6 +558,15 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-102277-1")
             FeatureMusic("M-VGMDB-AL-102281-1")
             FeatureMusic("M-VGMDB-AL-104783-1")
+
+            // NO FUCKING WAY
+            // ANOTHER CONSEQUENCE OF THE ORTENSIA INCIDENT
+            // https://twitter.com/tomori_kusunoki/status/1587370653367250944
+            // https://twitter.com/tomori_kusunoki/status/1587370653367250944
+            // https://twitter.com/tomori_kusunoki/status/1587370653367250944
+            // https://twitter.com/tomori_kusunoki/status/1587370653367250944
+            // https://twitter.com/tomori_kusunoki/status/1587370653367250944
+            // https://twitter.com/tomori_kusunoki/status/1587370653367250944
         }
 
         Entry {
