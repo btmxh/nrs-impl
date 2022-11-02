@@ -568,7 +568,7 @@ fun DSLScope.LoveLive() {
             // https://twitter.com/tomori_kusunoki/status/1587370653367250944
             // https://twitter.com/tomori_kusunoki/status/1587370653367250944
             // LITERALLY EXACTLY 3 YEARS AFTER THE THING
-            // YOU CAN' FUCKING MAKE THIS UP
+            // YOU CAN'T FUCKING MAKE THIS UP
             // KJHJFDIUFHSIUFHSIOFJDSKFDSKJFSKJFJDSFSKJF
         }
 
