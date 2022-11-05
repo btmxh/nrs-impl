@@ -221,9 +221,12 @@ fun DSLScope.Atelier() {
 
         Entry {
             id = "M-VGMDB-AL-59535"
+            title = "Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
             SubIDEntry("9") {
+                MusicConsumedProgress("5:22") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Into the Journey" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.6)
                 // the cp contest of Oct 4th
                 // aka the first win of the ROD in uni
