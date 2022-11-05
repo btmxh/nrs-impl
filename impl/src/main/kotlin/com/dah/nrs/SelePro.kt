@@ -48,5 +48,18 @@ fun DSLScope.SelePro() {
                 Music(0.5)
             }
         }
+
+        Entry {
+            id = "M-VGMDB-AL-115010"
+            title = "SELECTION PROJECT CHARACTER SONG CD 03" // generated(fill_music_metadata.dart v0.1.1)
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("Unknown") // generated(fill_music_metadata.dart v0.1.1)
+                title = "ENDROLL" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:53")
+                Music(0.4)
+            }
+        }
     }
 }
