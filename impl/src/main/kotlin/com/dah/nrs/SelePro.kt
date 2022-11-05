@@ -56,7 +56,7 @@ fun DSLScope.SelePro() {
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
             SubIDEntry("1") {
                 title = "ENDROLL" // generated(fill_music_metadata.dart v0.1.1)
-                MusicConsumedProgress("3:53") // impl_overriden
+                MusicConsumedProgress("3:53") // impl_overridden
                 Music(0.4)
             }
         }

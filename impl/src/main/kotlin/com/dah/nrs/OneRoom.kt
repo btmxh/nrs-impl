@@ -61,7 +61,7 @@ fun DSLScope.OneRoom() {
 
         // Length source: https://www.youtube.com/watch?v=2OfJYisHbkI
         Music(0.3)
-        MusicConsumedProgress("0:36") // impl_overriden
+        MusicConsumedProgress("0:36") // impl_overridden
         OsuSong(personal = 0.6, community = 0.8)
     }
 }
