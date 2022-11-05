@@ -1084,4 +1084,12 @@ fun DSLScope.CommonArtists() {
             MusicInstContainFactor + MusicImageContainFactor * MusicMainArtistFactor
         )
     }
+
+    Entry {
+        id = "M-VGMDB-AR-3240"
+        
+        Contains("M-VGMDB-AL-59535-9", MusicVocalImageContainFactor)
+        Contains("M-VGMDB-AL-78595-16", MusicVocalImageContainFactor)
+        Contains("M-VGMDB-AL-33518-2", MusicVocalImageContainFactor)
+    }
 }
