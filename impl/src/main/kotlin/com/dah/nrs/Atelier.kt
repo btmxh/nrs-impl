@@ -218,5 +218,17 @@ fun DSLScope.Atelier() {
                 Music(0.5)
             }
         }
+
+        Entry {
+            id = "M-VGMDB-AL-59535"
+
+            Visual(VisualKind.AlbumArt, 0.2, 0.5)
+            SubIDEntry("9") {
+                Music(0.6)
+                // the cp contest of Oct 4th
+                // aka the first win of the ROD in uni
+                AEI(0.25, Emotion.CP)
+            }
+        }
     }
 }
