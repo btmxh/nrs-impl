@@ -97,4 +97,16 @@ fun DSLScope.OsuGame() {
             Music(0.7)
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AL-78595"
+        title = "AstralAir no Shiroki Towa - ETERNAL BEST -" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+        SubIDEntry("16") {
+            MusicConsumedProgress("6:10") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-" // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.55)
+        }
+    }
 }
