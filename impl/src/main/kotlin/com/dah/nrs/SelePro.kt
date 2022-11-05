@@ -48,5 +48,15 @@ fun DSLScope.SelePro() {
                 Music(0.5)
             }
         }
+
+        Entry {
+            id = "M-VGMDB-AL-115010"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("3:53")
+                Music(0.4)
+            }
+        }
     }
 }
