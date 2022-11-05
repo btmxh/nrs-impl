@@ -97,4 +97,13 @@ fun DSLScope.OsuGame() {
             Music(0.7)
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AL-78595"
+
+        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+        SubIDEntry("16") {
+            Music(0.55)
+        }
+    }
 }
