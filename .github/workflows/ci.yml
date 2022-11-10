@@ -55,12 +55,12 @@ jobs:
         commit_message: 'chore(impl): :bookmark: Filled metadata'
     - name: Split branch name
       id: split
-      run: echo "::set-output name=fragment::${BRANCH##*/}"
+      run: echo "fragment=${BRANCH##*/}" >> $GITHUB_OUTPUT
       env:
         BRANCH: ${{ github.ref_name }}
     - name: Get release tag suffix
       id: release_tag_name
-      run: echo "::set-output name=fragment::$(date +'%Y%m%d-%H%M')"
+      run: echo "fragment=$(date +'%Y%m%d-%H%M')" >> $GITHUB_OUTPUT
     - name: Create release
       uses: marvinpinto/action-automatic-releases@latest
       if: ${{ !contains(github.ref, 'dependabot') }}
