@@ -26,6 +26,8 @@ jobs:
         key: vgmdb-cache-key
     - name: Create temp directory
       run: mkdir temp
+    - name: Download anime-offline-database-minified.json
+      run: curl https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database-minified.json -o temp/anime-offline-database-minified.json
     - name: Checkout hufman/vgmdb
       uses: actions/checkout@v3.1.0
       with:
