@@ -11,7 +11,7 @@ repositories {
 }
 
 task fillAnimeMetadata(type: Exec) {
-    commandLine 'dart', 'run', 'scripts/fill_anime_metadata.dart', '..', '../anime-offline-database'
+    commandLine 'dart', 'run', 'scripts/fill_anime_metadata.dart', '..', '../temp'
     workingDir = 'nrs_mod'
 }
 
