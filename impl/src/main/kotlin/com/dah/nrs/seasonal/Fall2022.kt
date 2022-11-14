@@ -47,7 +47,8 @@ fun DSLScope.Fall2022() {
         bestGirl = "Hitori Gotou"
         // mi ưhen cloverworks
 
-        ValidatorSuppress("dah-visualless-entry")
+        // ValidatorSuppress("dah-visualless-entry")
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 3)
+        Visual(VisualKind.Animated, 0.4, 0.3)
     }
 }
