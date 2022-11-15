@@ -112,9 +112,12 @@ fun DSLScope.OsuGame() {
 
     Entry {
         id = "M-VGMDB-AL-66742"
+        title = "HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
         SubIDEntry("1") {
+            MusicConsumedProgress("4:24") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Haruoto＊Bell fullver." // generated(fill_music_metadata.dart v0.1.1)
             Music(0.65)
         }
     }
