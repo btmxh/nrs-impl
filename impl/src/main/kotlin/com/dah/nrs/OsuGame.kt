@@ -114,7 +114,7 @@ fun DSLScope.OsuGame() {
         id = "M-VGMDB-AL-66742"
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
-        SubIDEntry("2") {
+        SubIDEntry("1") {
             Music(0.65)
         }
     }
