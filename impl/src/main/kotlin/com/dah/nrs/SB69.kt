@@ -732,7 +732,7 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "M-21"
+            id = "M-20220125T063355-5"
             title = "BUD VIRGIN LOGIC"
             ValidatorSuppress("dah-entry-no-consumed")
 
