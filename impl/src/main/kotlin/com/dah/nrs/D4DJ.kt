@@ -26,7 +26,7 @@ fun DSLScope.D4DJ() {
         }
 
         Entry {
-            id = "M-66"
+            id = "M-20220823T115611"
             title = "Happy Around!"
             ValidatorSuppress("dah-entry-no-consumed")
 

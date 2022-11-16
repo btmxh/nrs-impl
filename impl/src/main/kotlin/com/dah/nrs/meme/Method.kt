@@ -6,7 +6,7 @@ import com.dah.nrs.exts.*
 
 fun DSLScope.Method() {
     Entry {
-        id = "O-1"
+        id = "O-20220415T155427"
         title = "Kizuna Method"
         bestGirl = "method" // impl_overridden
 

@@ -529,8 +529,8 @@ fun DSLScope.LoveLive() {
         PADS(5, Emotion.CU) {
             contributors["A-MAL-40879"] = 0.7
             contributors["M-MAL-36631-6"] = 0.15
-            contributors["M-41"] = 0.075
-            contributors["M-43"] = 0.05
+            contributors["M-20220205T023322-1"] = 0.075
+            contributors["M-20220205T023322-3"] = 0.05
             contributors["M-VGMDB-AL-89290-6"] = 0.025
         }
 
@@ -655,7 +655,7 @@ fun DSLScope.LoveLive() {
     }
 
     Entry {
-        id = "M-45"
+        id = "M-20220317T064137-1"
         title = "Snow Halation (feat. BeasttrollMC)"
 
         Meme(0.03, 6)

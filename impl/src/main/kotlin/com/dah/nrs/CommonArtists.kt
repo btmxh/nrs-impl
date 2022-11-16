@@ -7,29 +7,30 @@ import com.dah.nrs.exts.*
 
 fun DSLScope.CommonArtists() {
     Entry {
-        id = "M-1"
+        // "Initial commit" - 2022-01-13T15:42:28Z
+        id = "M-20220113T154228"
         title = "Asterisk"
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains("M-35", 1.0 / 3)
-        Contains("M-10", 0.5)
-        Contains("M-22", 0.5)
+        Contains("M-20220130T183728-4", 1.0 / 3)
+        Contains("M-20220117T170733-1", 0.5)
+        Contains("M-20220125T063355-6", 0.5)
     }
 
     Entry {
-        id = "M-34"
+        id = "M-20220130T183728-3"
         title = "Rakakun"
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains("M-35", 1.0 / 3)
+        Contains("M-20220130T183728-4", 1.0 / 3)
     }
 
     Entry {
         id = "M-VGMDB-AR-15361"
         title = "Inori Minase" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-9", 1.0 / 5)
-        Contains("M-44", 1.0 / 4)
+        Contains("M-20220116T062502", 1.0 / 5)
+        Contains("M-20220211T055120", 1.0 / 4)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-54418-1")
@@ -48,7 +49,7 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-15350"
         title = "M·A·O" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-44", 1.0 / 4)
+        Contains("M-20220211T055120", 1.0 / 4)
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-63666")
         }
@@ -58,7 +59,7 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-16380"
         title = "Rie Takahashi" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-44", 1.0 / 4)
+        Contains("M-20220211T055120", 1.0 / 4)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-53719-1")
@@ -69,8 +70,8 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-15998"
         title = "Ari Ozawa" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-13", 1.0 / 2)
-        Contains("M-44", 1.0 / 4)
+        Contains("M-20220117T170733-4", 1.0 / 2)
+        Contains("M-20220211T055120", 1.0 / 4)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-53719-1", 0.5)
@@ -82,8 +83,8 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-12726"
         title = "Ayane Sakura" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-9", 1.0 / 5)
-        Contains("M-18", 1.0 / 4)
+        Contains("M-20220116T062502", 1.0 / 5)
+        Contains("M-20220125T063355-2", 1.0 / 4)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-82284", 1.0 / 5.0)
@@ -94,21 +95,21 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-13211"
         title = "Risa Taneda" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-9", 1.0 / 5)
+        Contains("M-20220116T062502", 1.0 / 5)
     }
 
     Entry {
         id = "M-VGMDB-AR-8874"
         title = "Satomi Sato" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-9", 1.0 / 5)
+        Contains("M-20220116T062502", 1.0 / 5)
     }
 
     Entry {
         id = "M-VGMDB-AR-13289"
         title = "Maaya Uchida" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-9", 1.0 / 5)
+        Contains("M-20220116T062502", 1.0 / 5)
     }
 
     Entry {
@@ -265,8 +266,8 @@ fun DSLScope.CommonArtists() {
 
             // colorful remixes
             Contains(0.5) {
-                Contains("M-7")
-                Contains("M-8")
+                Contains("M-20220113T184042-3")
+                Contains("M-20220113T184042-4")
             }
 
             Entry {
@@ -291,8 +292,8 @@ fun DSLScope.CommonArtists() {
                     title = "カラフル" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.5)
 
-                    Remix("M-7")
-                    Remix("M-8")
+                    Remix("M-20220113T184042-3")
+                    Remix("M-20220113T184042-4")
                 }
             }
 
@@ -325,13 +326,13 @@ fun DSLScope.CommonArtists() {
     }
 
     Entry {
-        id = "M-6"
+        id = "M-20220113T184042-2"
         title = "tamame"
         ValidatorSuppress("dah-entry-no-consumed")
 
         Contains(0.5) {
             Entry {
-                id = "M-8"
+                id = "M-20220113T184042-4"
                 title = "Colorful (tamame's apostate remix)"
 
                 // Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393
@@ -340,7 +341,7 @@ fun DSLScope.CommonArtists() {
             }
 
             Entry {
-                id = "M-47"
+                id = "M-20220317T064137-3"
                 title = "Tamame - Ebb and Flow (5 years after remix)"
 
                 // Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882
@@ -378,7 +379,7 @@ fun DSLScope.CommonArtists() {
                     MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                     title = "ebb and flow" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.35)
-                    Remix("M-47")
+                    Remix("M-20220317T064137-3")
                 }
 
                 SubIDEntry("3") {
@@ -389,7 +390,7 @@ fun DSLScope.CommonArtists() {
             }
 
             Contains(0.5) {
-                Contains("M-47")
+                Contains("M-20220317T064137-3")
             }
         }
     }
@@ -493,8 +494,8 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-18208"
         title = "Yuuki Takada" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-46", 0.25)
-        Contains("M-17", 1.0 / 9.0)
+        Contains("M-20220317T064137-2", 0.25)
+        Contains("M-20220125T063355-1", 1.0 / 9.0)
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-75344-4", 1.0 / 3.0)
         }
@@ -504,30 +505,30 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-18231"
         title = "Megumi Yamaguchi" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-46", 0.25)
+        Contains("M-20220317T064137-2", 0.25)
     }
 
     Entry {
         id = "M-VGMDB-AR-16233"
         title = "Megumi Toda" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-46", 0.25)
+        Contains("M-20220317T064137-2", 0.25)
     }
 
     Entry {
         id = "M-VGMDB-AR-18205"
         title = "Ayumi Takeo" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-46", 0.25)
+        Contains("M-20220317T064137-2", 0.25)
     }
 
     Entry {
-        id = "M-36"
+        id = "M-20220130T185336-1"
         title = "Will Stetson"
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains("M-37", 0.3)
-        Contains("M-45", 0.45)
+        Contains("M-20220130T185336-2", 0.3)
+        Contains("M-20220317T064137-1", 0.45)
     }
 
     Entry {
@@ -604,7 +605,7 @@ fun DSLScope.CommonArtists() {
         id = "M-VGMDB-AR-10934"
         title = "Ai Kayano" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-23", 1.0 / 4.0)
+        Contains("M-20220125T063355-7", 1.0 / 4.0)
         AKMEraPart1(0.05)
         AKMEraPart2(0.1)
         AKMEraPart2(0.05)
@@ -628,17 +629,17 @@ fun DSLScope.CommonArtists() {
                 }
             }
 
-            Contains("M-10", 0.5)
-            Contains("M-11", 0.5)
+            Contains("M-20220117T170733-1", 0.5)
+            Contains("M-20220117T170733-2", 0.5)
         }
     }
 
     Entry {
-        id = "M-12"
+        id = "M-20220117T170733-3"
         title = "kamaboko"
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains("M-11", 0.5)
+        Contains("M-20220117T170733-2", 0.5)
     }
 
     Entry {
@@ -696,7 +697,7 @@ fun DSLScope.CommonArtists() {
 
         // le cat va
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-18", 1.0 / 4.0)
+            Contains("M-20220125T063355-2", 1.0 / 4.0)
             Contains("M-VGMDB-AR-32295", 1.0 / 51.0)
         }
     }
@@ -707,7 +708,7 @@ fun DSLScope.CommonArtists() {
 
         // chao e co gai hoan tinh
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-20", 1.0 / 4.0)
+            Contains("M-20220125T063355-4", 1.0 / 4.0)
         }
     }
 
@@ -835,42 +836,42 @@ fun DSLScope.CommonArtists() {
         title = "kemu" // generated(fill_music_metadata.dart v0.1.1)
 
         Contains("M-MAL-36631")
-        Contains("M-41", 0.5)
-        Contains("M-43", 0.25)
+        Contains("M-20220205T023322-1", 0.5)
+        Contains("M-20220205T023322-3", 0.25)
     }
 
     Entry {
         id = "M-VGMDB-AR-4276"
         title = "yuiko" // generated(fill_music_metadata.dart v0.1.1)
 
-        Contains("M-41", 0.5)
+        Contains("M-20220205T023322-1", 0.5)
 
         // backing vocal for akogare future sign (piano arrange ver.)
         Contains("M-VGMDB-AL-86622-2", 0.05)
     }
 
     Entry {
-        id = "M-42"
+        id = "M-20220205T023322-2"
         title = "H△G"
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains("M-43", 0.75)
+        Contains("M-20220205T023322-3", 0.75)
 
         Entry {
-            id = "M-63"
+            id = "M-20220818T163913-1"
             title = "Everlasting Night of Teenage Girls"
             ValidatorSuppress("dah-entry-no-consumed")
 
             // Length source: https://open.spotify.com/album/2ztJCuDBki1rNOEi2TrH2W
             Entry {
-                id = "M-64"
+                id = "M-20220818T163913-2"
                 title = "Shoujotachi no Owaranai Yoru"
                 MusicConsumedProgress("4:08") // impl_overridden
                 Music(0.6)
             }
 
             Entry {
-                id = "M-65"
+                id = "M-20220818T163913-3"
                 title = "Colorful"
                 // [prismatic]
                 // 1-2 1-2 1-2 1-2
@@ -883,11 +884,11 @@ fun DSLScope.CommonArtists() {
     }
 
     Entry {
-        id = "M-44"
+        id = "M-20220211T055120"
         title = "Chiho"
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains("M-42", 0.5)
+        Contains("M-20220205T023322-2", 0.5)
     }
 
     Entry {
@@ -904,7 +905,7 @@ fun DSLScope.CommonArtists() {
         title = "Yuka Iwahashi" // generated(fill_music_metadata.dart v0.1.1)
 
         // t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐
-        Contains("M-50", 1.0 / 9.0)
+        Contains("M-20220319T061727", 1.0 / 9.0)
         Contains("M-VGMDB-AR-30829", 1.0 / 6.0)
     }
 
@@ -960,7 +961,7 @@ fun DSLScope.CommonArtists() {
         // rst shills are truly on another level of stupidity
         Contains(0.5) {
             Entry {
-                id = "M-60"
+                id = "M-20220623T082620"
                 title = "Cobalt Memories (Amane Makino ver.)"
                 // https://www.youtube.com/watch?v=_IWGubxbp1k
 
@@ -986,7 +987,7 @@ fun DSLScope.CommonArtists() {
         AKMEraPart2(0.35)
         AKMEraPart3(0.3)
         // (not the whole cricri unit)
-        Contains("M-23", 0.25)
+        Contains("M-20220125T063355-7", 0.25)
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-95314")
@@ -1008,7 +1009,7 @@ fun DSLScope.CommonArtists() {
         AKMEraPart3(0.3)
         // additional 0.25 because akm is sung by rosia and jacklyn
         // (not the whole cricri unit)
-        Contains("M-23", 0.25)
+        Contains("M-20220125T063355-7", 0.25)
         // 765
         Contains("M-VGMDB-AR-32295", 1.0 / 51.0)
 

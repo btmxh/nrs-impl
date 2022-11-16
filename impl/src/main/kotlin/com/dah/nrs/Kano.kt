@@ -179,7 +179,7 @@ fun DSLScope.Kano() {
             Entry {
                 // from the album "Colorful Wonder Note", track number 8
                 // and yes this is from osugame too
-                id = "M-24"
+                id = "M-20220130T032649"
                 title = "Kimiiro Hanabi -album version-"
 
                 // Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352
@@ -269,7 +269,7 @@ fun DSLScope.Kano() {
 
             // oh except for this, i forgor
             Entry {
-                id = "M-49"
+                id = "M-20220317T064137-5"
                 title = "Sore wa Kitto Natsudatta"
 
                 Visual(VisualKind.AnimatedMV, 0.35, 0.7)

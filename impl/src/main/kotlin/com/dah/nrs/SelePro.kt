@@ -28,7 +28,7 @@ fun DSLScope.SelePro() {
         }
 
         Entry {
-            id = "M-50"
+            id = "M-20220319T061727"
             title = "9-tie"
             ValidatorSuppress("dah-entry-no-consumed")
 
