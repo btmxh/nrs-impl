@@ -86,7 +86,7 @@ fun DSLScope.Saekano() {
     }
 
     Entry {
-        id = "M-10"
+        id = "M-20220117T170733-1"
         title = "Colorful. (Asterisk DnB Remix)"
 
         // Length source: https://osu.ppy.sh/beatmapsets/299454
@@ -95,7 +95,7 @@ fun DSLScope.Saekano() {
     }
 
     Entry {
-        id = "M-11"
+        id = "M-20220117T170733-2"
         title = "Colorful. (kamaboko remix)"
 
         // Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw

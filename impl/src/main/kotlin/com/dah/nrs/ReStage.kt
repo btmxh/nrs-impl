@@ -582,7 +582,7 @@ fun DSLScope.ReStage() {
         Entry {
             // cri-cri of rst
             // not even close tho
-            id = "M-13"
+            id = "M-20220117T170733-4"
             title = "ortensia"
 
             // # The ortensia incident
@@ -673,7 +673,7 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
-            id = "M-14"
+            id = "M-20220117T170733-5"
             title = "Stellamaris"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -684,7 +684,7 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
-            id = "M-15"
+            id = "M-20220117T170733-6"
             title = "TROIS ANGES"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -707,7 +707,7 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
-            id = "M-16"
+            id = "M-20220117T170733-7"
             title = "Tetrarkhia"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -886,7 +886,7 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
-            id = "M-48"
+            id = "M-20220317T064137-4"
             title = "Re:STAGE! ALL IDOL"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -950,12 +950,12 @@ fun DSLScope.ReStage() {
         }
 
         // r/osuplace stuff
-        KilledBy("M-52", potential = 0.4, effect = 0.9) {
+        KilledBy("M-20220410T181408", potential = 0.4, effect = 0.9) {
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
         }
 
-        KilledBy("O-1", potential = 0.2, effect = 0.75) {
+        KilledBy("O-20220415T155427", potential = 0.2, effect = 0.75) {
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
         }
@@ -1000,7 +1000,7 @@ fun DSLScope.ReStage() {
     }
 
     Entry {
-        id = "M-53"
+        id = "M-20220507T131634"
         title = "Re:STAGE! Songs Compilation"
         // kek 69 min song comp
         // TODO: add the 48 songs here

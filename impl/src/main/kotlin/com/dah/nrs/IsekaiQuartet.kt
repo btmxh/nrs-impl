@@ -5,7 +5,7 @@ import com.dah.nrs.exts.*
 
 fun DSLScope.IsekaiQuartet() {
     Entry {
-        id = "F-1"
+        id = "F-20220823T083245"
         title = "Isekai Quartet"
 
         Entry {

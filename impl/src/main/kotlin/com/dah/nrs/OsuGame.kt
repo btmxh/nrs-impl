@@ -34,7 +34,7 @@ fun DSLScope.OsuGame() {
     }
 
     Entry {
-        id = "M-52"
+        id = "M-20220410T181408"
         title = "United (L.A.O.S Remix)"
 
         // we kicked a kid, united

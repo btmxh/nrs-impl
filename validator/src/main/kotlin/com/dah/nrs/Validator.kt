@@ -60,6 +60,7 @@ fun main() {
         dah_no_progress(data),
         dah_invalid_id(data),
         dah_no_title(data),
+        dah_check_custom_id(data),
     )) {
         rule.run()
     }

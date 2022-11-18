@@ -24,7 +24,7 @@ fun DSLScope.OnsenMusume() {
         }
 
         Entry {
-            id = "M-17"
+            id = "M-20220125T063355-1"
             title = "SPRiNGS"
             ValidatorSuppress("dah-entry-no-consumed")
 

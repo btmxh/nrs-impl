@@ -17,14 +17,6 @@ import com.dah.nrs.seasonal.Fall2022
 import kotlin.time.Duration.Companion.minutes
 import kotlin.time.Duration.Companion.seconds
 
-// custom id counters:
-// M-68
-// A-1
-// L-1
-// G-1
-// F-2
-// O-7
-
 fun main() =
     generate {
         CommonArtists()

@@ -25,7 +25,7 @@ fun DSLScope.GakkouGurashi() {
         }
 
         Entry {
-            id = "M-44"
+            id = "M-20220211T055120"
             title = "Gakuen Seikatsubu"
             ValidatorSuppress("dah-entry-no-consumed")
 

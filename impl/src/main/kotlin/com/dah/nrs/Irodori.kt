@@ -61,14 +61,14 @@ fun DSLScope.Irodori() {
         }
 
         Entry {
-            id = "M-29"
+            id = "M-20220130T165739-2"
             title = "Maware! GO! GO! CHUNITHM"
             ValidatorSuppress("dah-entry-no-consumed")
 
             Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
             Entry {
-                id = "M-30"
+                id = "M-20220130T165739-3"
                 title = "Bokura no Freedom DiVE↓"
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.45)
@@ -79,7 +79,7 @@ fun DSLScope.Irodori() {
             }
 
             Entry {
-                id = "M-31"
+                id = "M-20220130T165739-4"
                 title = "Zero kara hajimeru Brain Power"
 
                 // Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc
@@ -89,14 +89,14 @@ fun DSLScope.Irodori() {
         }
 
         Entry {
-            id = "M-26"
+            id = "M-20220130T165739-1"
             title = "Irodorimidori"
             ValidatorSuppress("dah-entry-no-consumed")
 
             // times 0.6 because they are all covers
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-93299")
-                Contains("M-29")
+                Contains("M-20220130T165739-2")
             }
         }
     }

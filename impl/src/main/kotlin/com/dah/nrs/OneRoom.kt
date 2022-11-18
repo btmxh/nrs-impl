@@ -35,7 +35,7 @@ fun DSLScope.OneRoom() {
                 // H A R U M A C H I   K U R O B A A A
                 Music(0.35)
                 OsuSong(personal = 0.6, community = 0.8)
-                Remix("M-37")
+                Remix("M-20220130T185336-2")
             }
         }
 
@@ -56,7 +56,7 @@ fun DSLScope.OneRoom() {
     }
 
     Entry {
-        id = "M-37"
+        id = "M-20220130T185336-2"
         title = "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
 
         // Length source: https://www.youtube.com/watch?v=2OfJYisHbkI
