@@ -52,7 +52,7 @@ fun DSLScope.Vocaloid() {
     }
 
     Entry {
-        id = "M-68"
+        id = "M-20221115T105859"
         title = "AI"
 
         Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
