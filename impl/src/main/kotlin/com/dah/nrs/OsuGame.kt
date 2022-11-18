@@ -34,7 +34,7 @@ fun DSLScope.OsuGame() {
     }
 
     Entry {
-        id = "M-52"
+        id = "M-20220410T181408"
         title = "United (L.A.O.S Remix)"
 
         // we kicked a kid, united
@@ -107,6 +107,18 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("6:10") // generated(fill_music_metadata.dart v0.1.1)
             title = "Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.55)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-66742"
+        title = "HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.5, 0.3)
+        SubIDEntry("1") {
+            MusicConsumedProgress("4:24") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Haruoto＊Bell fullver." // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.65)
         }
     }
 }

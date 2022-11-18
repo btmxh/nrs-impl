@@ -164,13 +164,13 @@ fun DSLScope.WorldWitches() {
                 MusicConsumedProgress("4:09") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Yakusoku no Sora e ~Watashi no Ita Basho~" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.4)
-                Remix("M-67")
+                Remix("M-20221009T085407")
             }
         }
     }
 
     Entry {
-        id = "M-67"
+        id = "M-20221009T085407"
         title = "- 約束の空へ ～私のいた場所～(Soleily Remix)"
 
         Music(0.6)

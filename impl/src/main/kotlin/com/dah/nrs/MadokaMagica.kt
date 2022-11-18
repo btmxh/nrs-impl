@@ -271,13 +271,13 @@ fun DSLScope.MadokaMagica() {
     }
 
     Entry {
-        id = "M-5"
+        id = "M-20220113T184042-1"
         title = "Magibeat"
         ValidatorSuppress("dah-entry-no-consumed")
 
         Contains(0.5) {
             Entry {
-                id = "M-7"
+                id = "M-20220113T184042-3"
                 title = "Colorful - Magibeat Remix"
 
                 // Length source: https://www.nicovideo.jp/watch/sm22151925
