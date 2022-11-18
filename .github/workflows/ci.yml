@@ -4,7 +4,7 @@ on: [push, workflow_dispatch]
 
 jobs:
   do-ci-thing:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - name: Checkout sources
       uses: actions/checkout@v3.1.0
