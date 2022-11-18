@@ -17,7 +17,7 @@ jobs:
     - name: Setup Python 2.7
       uses: actions/setup-python@v4
       with:
-        python-version: '2.7'
+        python-version: '2.7.18'
         cache: 'pip'
     - name: Setup VGMDB cache
       uses: actions/cache@v3
