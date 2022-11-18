@@ -50,4 +50,15 @@ fun DSLScope.Vocaloid() {
         Music(0.5)
         MusicConsumedProgress("4:23") // impl_overridden
     }
+
+    Entry {
+        id = "M-20221115T105859"
+        title = "AI"
+
+        Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
+        // Length source: https://osu.ppy.sh/beatmapsets/955580
+        MusicConsumedProgress("4:23")
+        Music(0.65)
+        OsuSong(personal = 0.8, community = 0.0)
+    }
 }
