@@ -26,13 +26,13 @@ fun DSLScope.Vocaloid() {
             // Length source: https://www.nicovideo.jp/watch/sm18198019
             Music(0.425)
             MusicConsumedProgress("4:32") // impl_overridden
-            Remix("M-41")
-            Remix("M-43")
+            Remix("M-20220205T023322-1")
+            Remix("M-20220205T023322-3")
         }
     }
 
     Entry {
-        id = "M-41"
+        id = "M-20220205T023322-1"
         title = "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
 
         // yuiko version is probably the best, music-wise
@@ -42,12 +42,23 @@ fun DSLScope.Vocaloid() {
     }
 
     Entry {
-        id = "M-43"
+        id = "M-20220205T023322-3"
         title = "Chikyuu Saigo no Kokuhaku wo (HAG)"
 
         // quite good, but they didn't keep the orig. inst.
         // Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx
         Music(0.5)
         MusicConsumedProgress("4:23") // impl_overridden
+    }
+
+    Entry {
+        id = "M-20221115T105859"
+        title = "AI"
+
+        Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
+        // Length source: https://osu.ppy.sh/beatmapsets/955580
+        MusicConsumedProgress("4:23")
+        Music(0.65)
+        OsuSong(personal = 0.8, community = 0.0)
     }
 }

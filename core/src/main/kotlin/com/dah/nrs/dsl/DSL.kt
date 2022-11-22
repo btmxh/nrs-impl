@@ -45,12 +45,14 @@ class DSLImpact(override val context: NRSContext) : DSLMetaImpl(), IImpact, HasC
     override val contributors = mutableMapOf<String, Double>()
     override var score = context.zeroVector()
     val stackTrace = Thread.currentThread().stackTrace.map { "${it.fileName}:${it.lineNumber}" }
+    val completed get() = true
 }
 
 class DSLRelation(override val context: NRSContext) : DSLMetaImpl(), IRelation, HasContext {
     override val contributors = mutableMapOf<String, Double>()
     override val references = mutableMapOf<String, ScoreMatrix>()
     val stackTrace = Thread.currentThread().stackTrace.map { "${it.fileName}:${it.lineNumber}" }
+    val completed get() = true
 }
 
 interface HasContext {
@@ -104,18 +106,61 @@ class DSLScope(override val context: NRSContext) : AcceptIRE {
     val entries = hashMapOf<ID, DSLEntry>()
     val impacts = arrayListOf<DSLImpact>()
     val relations = arrayListOf<DSLRelation>()
+    val pendingEntries = arrayListOf<DSLEntry>()
+    val pendingImpacts = arrayListOf<DSLImpact>()
+    val pendingRelations = arrayListOf<DSLRelation>()
     override val root: DSLScope get() = this
 
     override fun acceptImpact(impact: DSLImpact) {
-        impacts.add(impact)
+        (if(impact.completed) impacts else pendingImpacts).add(impact)
     }
 
     override fun acceptRelation(relation: DSLRelation) {
-        relations.add(relation)
+        (if(relation.completed) relations else pendingRelations).add(relation)
     }
 
     override fun acceptEntry(entry: DSLEntry) {
-        entries[entry.id] = entry
+        if(entry.completed) {
+            entries[entry.id] = entry
+        } else {
+            pendingEntries.add(entry)
+        }
+    }
+
+    fun preprocess(): Boolean {
+        if(!runPreprocessor()) {
+            return false
+        }
+        var failed = false
+        for(pendingImpact in pendingImpacts) {
+            if(!pendingImpact.completed) {
+                failed = true
+                System.err.println("Uncompleted impact: ${pendingImpact.stackTrace.joinToString("\n")}")
+            }
+            impacts.add(pendingImpact)
+        }
+
+        for(pendingRelation in pendingRelations) {
+            if(!pendingRelation.completed) {
+                failed = true
+                System.err.println("Uncompleted relation: ${pendingRelation.stackTrace.joinToString("\n")}")
+            }
+            relations.add(pendingRelation)
+        }
+
+        for(pendingEntry in pendingEntries) {
+            if(!pendingEntry.completed) {
+                failed = true
+                System.err.println("Uncompleted entry: ${pendingEntry.title}")
+            }
+            entries[pendingEntry.entry.id] = pendingEntry
+        }
+
+        return !failed
+    }
+
+    private fun runPreprocessor(): Boolean {
+        return true
     }
 
     fun getData(): NRSData {
@@ -127,6 +172,7 @@ class DSLEntry(override val root: DSLScope) : AcceptIRE, AcceptEntryContains, DS
     override val context: NRSContext get() = root.context
     override var id: String = ""
     var seasonal: Boolean = false
+    val completed get() = id.isNotBlank()
     override val children = mutableMapOf<String, Double>()
 
     override val entry: DSLEntry get() = this
@@ -193,6 +239,9 @@ fun generate(block: DSLScope.() -> Unit) {
         println("Impact #$relationIdx stacktrace: ${scope.relations[relationIdx].stackTrace}")
     }
 
+    if(!scope.preprocess()) {
+        error("Preprocessing errors")
+    }
     val result = ctx.process(scope.getData())
     val json = ctx.DAH_serialize_json!!.json
     val outputDir = Path("output")

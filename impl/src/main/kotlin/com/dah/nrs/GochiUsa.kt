@@ -28,7 +28,7 @@ fun DSLScope.GochiUsa() {
         }
 
         Entry {
-            id = "M-9"
+            id = "M-20220116T062502"
             title = "Petit Rabbit's"
             ValidatorSuppress("dah-entry-no-consumed")
 

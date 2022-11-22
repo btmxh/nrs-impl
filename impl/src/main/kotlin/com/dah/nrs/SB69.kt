@@ -74,7 +74,7 @@ fun DSLScope.SB69() {
             contributors["G-VGMDB-8429"] = 0.2
         }
 
-        KilledBy("O-1", potential = 0.2, effect = 0.75) {
+        KilledBy("O-20220415T155427", potential = 0.2, effect = 0.75) {
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2
             contributors["A-MAL-40763"] = 0.2
@@ -150,7 +150,7 @@ fun DSLScope.SB69() {
             // the screentime thing
             // mashu mp farm got fucked by the existence of the cat
             // and pmgc
-            KilledBy("M-18", potential = 0.75, effect = 0.75)
+            KilledBy("M-20220125T063355-2", potential = 0.75, effect = 0.75)
             Visual(VisualKind.Animated, 0.65, 0.4)
 
             AnimeProgressOld(Boredom.Completed, 12)
@@ -242,7 +242,7 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(0.25)
 
-                Remix("M-22")
+                Remix("M-20220125T063355-6")
             }
 
             SubIDEntry("2") {
@@ -379,7 +379,7 @@ fun DSLScope.SB69() {
                 // hahahahahaaha the howan tinh song
                 FesALiveMusic(0.25)
                 Meme(0.01, numDays("2022-04-01"))
-                Remix("M-62")
+                Remix("M-20220702T030659")
             }
 
             SubIDEntry("3") {
@@ -390,7 +390,7 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "M-62"
+            id = "M-20220702T030659"
             title = "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
             // aka hoantinh theme song
 
@@ -687,14 +687,14 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "M-18"
+            id = "M-20220125T063355-2"
             title = "Plasmagica"
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-94913")
                 Contains("M-VGMDB-AL-51276")
-                Contains("M-22", 0.5)
+                Contains("M-20220125T063355-6", 0.5)
                 Contains("M-VGMDB-AL-51706")
                 Contains("M-VGMDB-AL-61217")
                 Contains("M-VGMDB-AL-61981")
@@ -707,7 +707,7 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "M-19"
+            id = "M-20220125T063355-3"
             title = "Tsurezurenaru Ayatsuri Mugenan"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -717,7 +717,7 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "M-20"
+            id = "M-20220125T063355-4"
             title = "Mashumairesh!!"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -727,12 +727,12 @@ fun DSLScope.SB69() {
                 Contains("M-VGMDB-AL-104341-1", 0.5)
                 Contains("M-VGMDB-AL-104341-2", 1.0)
                 Contains("M-VGMDB-AL-104267-8", 1.0)
-                Contains("M-62", 0.5)
+                Contains("M-20220702T030659", 0.5)
             }
         }
 
         Entry {
-            id = "M-21"
+            id = "M-20220125T063355-5"
             title = "BUD VIRGIN LOGIC"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -743,7 +743,7 @@ fun DSLScope.SB69() {
         }
 
         Entry {
-            id = "M-23"
+            id = "M-20220125T063355-7"
             title = "Criticrista"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -768,7 +768,7 @@ fun DSLScope.SB69() {
 
     // the famous speed-finger control map
     Entry {
-        id = "M-22"
+        id = "M-20220125T063355-6"
         title = "Seishun wa Non-Stop! (Asterisk DnB Remix)"
 
         // Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix

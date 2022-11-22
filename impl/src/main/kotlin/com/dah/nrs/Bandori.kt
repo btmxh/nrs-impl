@@ -162,7 +162,7 @@ fun DSLScope.Bandori() {
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-106577-6")
-                Contains("M-35", 1.0 / 3)
+                Contains("M-20220130T183728-4", 1.0 / 3)
             }
         }
 
@@ -218,7 +218,7 @@ fun DSLScope.Bandori() {
                 Music(0.25)
                 OsuSong(personal = 0.5)
 
-                Remix("M-35")
+                Remix("M-20220130T183728-4")
             }
         }
 
@@ -309,7 +309,7 @@ fun DSLScope.Bandori() {
         title = "SILENT SIREN" // generated(fill_music_metadata.dart v0.1.1)
 
         Entry {
-            id = "M-32"
+            id = "M-20220130T183728-1"
             title = "S"
             ValidatorSuppress("dah-entry-no-consumed")
 
@@ -317,7 +317,7 @@ fun DSLScope.Bandori() {
             Visual(VisualKind.AlbumArt, 0.1, 0.15)
 
             Entry {
-                id = "M-33"
+                id = "M-20220130T183728-2"
                 title = "Cherry Bomb"
 
                 // Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP
@@ -349,7 +349,7 @@ fun DSLScope.Bandori() {
     }
 
     Entry {
-        id = "M-35"
+        id = "M-20220130T183728-4"
         title = "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
 
         // Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138

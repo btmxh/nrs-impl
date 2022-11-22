@@ -60,7 +60,7 @@ fun DSLScope.NewGame() {
         }
 
         Entry {
-            id = "M-46"
+            id = "M-20220317T064137-2"
             title = "fourfolium"
             ValidatorSuppress("dah-entry-no-consumed")
 

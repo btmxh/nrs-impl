@@ -32,7 +32,7 @@ fun DSLScope.LapisReLights() {
         }
 
         Entry {
-            id = "M-51"
+            id = "M-20220324T055811"
             title = "LiGHTs"
             ValidatorSuppress("dah-entry-no-consumed")
 

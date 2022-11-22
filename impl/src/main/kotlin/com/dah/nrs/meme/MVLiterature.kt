@@ -9,7 +9,7 @@ fun DSLScope.MVLiterature() {
     // based rst turning literally everything into a meme
     // (those texts getting their own entries is a way to nerf rst/sb69 btw)
     Entry {
-        id = "O-2"
+        id = "O-20220702T030659-1"
         title = "Người lái đò Sông Đà"
 
         // the river analogy states that the love live franchise is our opponents/enemies
@@ -18,7 +18,7 @@ fun DSLScope.MVLiterature() {
     }
 
     Entry {
-        id = "O-3"
+        id = "O-20220702T030659-2"
         title = "Vợ chồng A Phủ"
 
         // there are several analogies for this
@@ -38,7 +38,7 @@ fun DSLScope.MVLiterature() {
     }
 
     Entry {
-        id = "O-4"
+        id = "O-20220702T030659-3"
         title = "Chiếc thuyền ngoài xa"
         // https://vi.wikipedia.org/wiki/Chi%E1%BA%BFc_thuy%E1%BB%81n_ngo%C3%A0i_xa
 
