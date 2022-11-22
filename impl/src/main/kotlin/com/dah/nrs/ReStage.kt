@@ -641,6 +641,11 @@ fun DSLScope.ReStage() {
             // 
             // Literally anything that had gone wrong after 2020 can be traced back to the incident, and therefore, this event has shaped the world as we know it.
 
+            // # The ortensia incident 2: electric boogaloo
+            // im not even depressed lmfao (like the ayumu dead people thing)
+            // this is just too funny xdddddddddddddddddd
+            // lesson: you can never predict rst lore
+
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
