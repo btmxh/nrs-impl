@@ -932,6 +932,42 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-124585"
+            title = "Glass Wings / Sango Misaki & Kanade Hokaze" // generated(fill_music_metadata.dart v0.1.1)
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            SubIDEntry("1") {
+                MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Glass Wings" // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.3)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-124586"
+            title = "Artemis / Ruka Ichijou & Nagisa Himura" // generated(fill_music_metadata.dart v0.1.1)
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            SubIDEntry("1") {
+                MusicConsumedProgress("Unknown") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Artemis" // generated(fill_music_metadata.dart v0.1.1)
+                ValidatorSuppress("dah-entry-no-consumed")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-124587"
+            title = "Imperial Stage / Aone Shikimiya & Amaha Shiratori" // generated(fill_music_metadata.dart v0.1.1)
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            SubIDEntry("1") {
+                MusicConsumedProgress("Unknown") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Imperial Stage" // generated(fill_music_metadata.dart v0.1.1)
+                ValidatorSuppress("dah-entry-no-consumed")
+            }
+        }
+
+        Entry {
             id = "GF-VGMDB-7059"
             title = "Re:Stage! Prism Step"
 
