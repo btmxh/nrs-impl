@@ -23,5 +23,16 @@ fun DSLScope.CloverDays() {
             NEI(0.5, Emotion.MP)
             NEI(0.25, Emotion.AP)
         }
+
+        Entry {
+            id = "M-VGMDB-AL-45544"
+
+            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+
+            SubIDEntry("40") {
+                Music(0.5)
+                OsuSong(personal = 0.8, community = 0.2)
+            }
+        }
     }
 }
