@@ -800,5 +800,7 @@ fun main() =
         WorldWitches()
         PostModern()
         Fall2022()
+
+        WagamamaHighSpec()
     }.run {}
 
