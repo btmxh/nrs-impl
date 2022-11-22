@@ -834,6 +834,11 @@ fun DSLScope.ReStage() {
             // aka the 330 bpm song but actually an alt-165 bpm one
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
+            // https://www.youtube.com/watch?v=XkxmxSxsZmA&lc=Ugwfv5If8A-WEc5M7kh4AaABAg
+            // not that good tbh, but i appreciate the effort
+            // also rst chads keep winning
+            // TODO: put this in the track entry or the album entry?
+            Visual(VisualKind.SemiAnimatedMV, 0.2, 0.6)
             SubIDEntry("1") {
                 title = "ユニゾンモノローグ" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:49") // generated(fill_music_metadata.dart v0.1.1)
