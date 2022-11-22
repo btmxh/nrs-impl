@@ -22,6 +22,7 @@ fun DSLScope.CloverDays() {
             Visual(VisualKind.VisualNovel, 0.6, 0.4)
             NEI(0.5, Emotion.MP)
             NEI(0.25, Emotion.AP)
+            FeatureMusic("M-VGMDB-AL-45544-40")
         }
 
         Entry {
