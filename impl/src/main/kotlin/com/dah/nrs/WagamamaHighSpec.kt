@@ -25,10 +25,13 @@ fun DSLScope.WagamamaHighSpec() {
 
         Entry {
             id = "M-VGMDB-AL-67632"
+            title = "WAGAMAMA HIGHSPEC OC VOCAL ALBUM" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("3:35") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hey Darling!" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.65)
             }
         }
