@@ -1,6 +1,6 @@
 package com.dah.nrs
 
-import com.dah.nrs.core.*
+import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 import kotlin.time.Duration.Companion.hours
 
