@@ -2,7 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
-import kotlin.time.Duration.Companion.*
+import kotlin.time.Duration.Companion.hours
 
 fun DSLScope.CloverDays() {
     Entry {
