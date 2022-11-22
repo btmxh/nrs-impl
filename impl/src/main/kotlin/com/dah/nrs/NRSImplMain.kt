@@ -802,5 +802,6 @@ fun main() =
         Fall2022()
 
         WagamamaHighSpec()
+        CloverDays()
     }.run {}
 
