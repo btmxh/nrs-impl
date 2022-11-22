@@ -26,10 +26,13 @@ fun DSLScope.CloverDays() {
 
         Entry {
             id = "M-VGMDB-AL-45544"
+            title = "Clover Day's ORIGINAL SOUNDTRACKS" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
             SubIDEntry("40") {
+                MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Clover Day's full ver." // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
                 OsuSong(personal = 0.8, community = 0.2)
             }
