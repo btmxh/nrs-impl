@@ -932,6 +932,33 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-124585"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            SubIDEntry("1") {
+                Music(0.3)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-124586"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            SubIDEntry("1") {
+                ValidatorSuppress("dah-entry-no-consumed")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-124587"
+
+            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            SubIDEntry("1") {
+                ValidatorSuppress("dah-entry-no-consumed")
+            }
+        }
+
+        Entry {
             id = "GF-VGMDB-7059"
             title = "Re:Stage! Prism Step"
 
