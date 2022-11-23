@@ -740,6 +740,8 @@ fun main() =
         TariTari()
         SelePro()
 
+        NatsuKise()
+
         Spring2022()
         WakeUpGirls()
         Method()
