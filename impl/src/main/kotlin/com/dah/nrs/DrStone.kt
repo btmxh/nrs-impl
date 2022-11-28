@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.DrStone() {
     Entry {
@@ -47,7 +48,7 @@ fun DSLScope.DrStone() {
             idAniList = 142876 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 50612 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzuriha Ogawa" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 54.minutes)
             Visual(VisualKind.Animated, 0.3, 0.75)
             NEI(0.6, Emotion.AP)
         }

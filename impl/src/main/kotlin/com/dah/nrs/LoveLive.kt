@@ -2,6 +2,8 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 // niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12
 // so the contain factor of the 9 original girls will be 1.5x the new girls
@@ -453,6 +455,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
             AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -496,7 +499,7 @@ fun DSLScope.LoveLive() {
             idAniList = 100965 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 37027 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Riko Sakurauchi" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 40.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }

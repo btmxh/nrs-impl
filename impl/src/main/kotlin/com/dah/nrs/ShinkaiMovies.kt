@@ -2,6 +2,8 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.ShinkaiMovies() {
     Entry {
@@ -21,7 +23,7 @@ fun DSLScope.ShinkaiMovies() {
 
             bestGirl = "Miki Okudera" // generated(generate_best_girls.dart v0.1.0)
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 46.minutes)
         }
     }
 
@@ -39,7 +41,7 @@ fun DSLScope.ShinkaiMovies() {
             bestGirl = "Hina Amano" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.75, 0.75)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 52.minutes)
             FeatureMusic("M-VGMDB-AL-87003")
         }
 

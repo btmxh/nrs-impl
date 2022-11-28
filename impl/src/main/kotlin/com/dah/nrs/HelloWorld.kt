@@ -2,6 +2,8 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.HelloWorld() {
     Entry {
@@ -15,7 +17,7 @@ fun DSLScope.HelloWorld() {
         // oh fuck
         bestGirl = "Ruri Ichigyou" // generated(generate_best_girls.dart v0.1.0)
 
-        AnimeProgressOld(Boredom.Completed, 1)
+        AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 37.minutes)
         // the cg kinda help with making the anime unique lol
         Visual(VisualKind.Animated, 0.4, 0.6)
     }

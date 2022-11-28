@@ -14,6 +14,7 @@ import com.dah.nrs.meme.PostModern
 import com.dah.nrs.seasonal.Spring2022
 import com.dah.nrs.seasonal.Summer2022
 import com.dah.nrs.seasonal.Fall2022
+import kotlin.time.Duration.Companion.hours
 import kotlin.time.Duration.Companion.minutes
 import kotlin.time.Duration.Companion.seconds
 
@@ -116,7 +117,7 @@ fun main() =
             // gate-open literally all NRS entries
             // but it's too overkill so an impact instead
             AdditionalImpact("Gate-open anime", 1.0)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 2.hours + 10.minutes)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
@@ -308,7 +309,7 @@ fun main() =
             // facebook anime lmfao
             bestGirl = "Sakura Yamauchi" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 48.minutes)
             AEI(0.1, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }

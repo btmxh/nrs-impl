@@ -3,6 +3,8 @@ package com.dah.nrs
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.UchiageHanabi() {
     Entry {
@@ -22,7 +24,7 @@ fun DSLScope.UchiageHanabi() {
 
             bestGirl = "Nazuna Oikawa" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 30.minutes)
 
             FeatureMusic("M-VGMDB-AL-69257-1")
             Visual(VisualKind.Animated, 0.4, 0.5)

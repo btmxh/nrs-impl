@@ -4,6 +4,8 @@ import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.Chuunibyou() {
     Entry {
@@ -83,7 +85,7 @@ fun DSLScope.Chuunibyou() {
             idAniList = 98762 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35608 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Shinka Nibutani" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 1, 1.hours + 33.minutes)
             // movie is funny, but less content than s1 and s2
             // separate from s1/2 because it was watched later
             NEI(0.75, Emotion.AP)

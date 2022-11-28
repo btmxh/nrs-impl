@@ -3,6 +3,8 @@ package com.dah.nrs
 import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.SwordArtOnline() {
     Entry {
@@ -45,7 +47,7 @@ fun DSLScope.SwordArtOnline() {
             idMAL = 31765 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Asuna Yuuki" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 59.minutes)
             Visual(VisualKind.Animated, 0.6, 0.25)
         }
 

@@ -4,6 +4,8 @@ import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.Saekano() {
     Entry {
@@ -80,7 +82,7 @@ fun DSLScope.Saekano() {
             bestGirl = "Megumi Kato" // impl_overridden
             // humor
             NEI(0.25, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 54.minutes)
             Visual(VisualKind.Animated, 0.55, 0.3)
         }
     }

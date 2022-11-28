@@ -2,6 +2,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.WakeUpGirls() {
     // A wise man once said:
@@ -87,7 +88,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             FeatureMusic("M-VGMDB-AL-42945-1")
             Visual(VisualKind.Animated, 0.4, 0.6)
@@ -102,7 +103,7 @@ fun DSLScope.WakeUpGirls() {
 
             bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
         }
@@ -115,8 +116,8 @@ fun DSLScope.WakeUpGirls() {
             idMAL = 30419 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
-
-            AnimeProgressOld(Boredom.Completed, 1)
+            
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
         }

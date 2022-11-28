@@ -2,6 +2,8 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 
 private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
     Visual(kind, 0.65, 0.2)
@@ -124,7 +126,7 @@ fun DSLScope.`K-On`() {
             idMAL = 9617 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Azusa Nakano" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.CompletedWithNoticeableBoredom, 1)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
             FeatureMusic("M-VGMDB-AL-21146-9")
             `K-OnVisual`(VisualKind.Animated)
         }
