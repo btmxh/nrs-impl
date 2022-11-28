@@ -805,5 +805,6 @@ fun main() =
 
         WagamamaHighSpec()
         CloverDays()
+        Koikake()
     }.run {}
 
