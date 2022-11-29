@@ -687,6 +687,18 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-124217"
+            
+            VisualKind(VisualKind.AlbumArt, 0.25, 0.4)
+
+            SubIDEntry("1") {
+                FesALiveMusic(0.7)
+                // cleaning koikake :tf: 
+                AEI(0.3, Emotion.MP)
+            }
+        }
+
+        Entry {
             id = "M-20220125T063355-2"
             title = "Plasmagica"
             ValidatorSuppress("dah-entry-no-consumed")
