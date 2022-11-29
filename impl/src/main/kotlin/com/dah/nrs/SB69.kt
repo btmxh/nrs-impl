@@ -689,7 +689,7 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-124217"
             
-            VisualKind(VisualKind.AlbumArt, 0.25, 0.4)
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
                 FesALiveMusic(0.7)
