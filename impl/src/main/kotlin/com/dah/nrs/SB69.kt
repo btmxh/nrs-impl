@@ -702,6 +702,18 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-124215"
+            title = "Koishichatta! / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
+            
+            Visual(VisualKind.AlbumArt, 0.2, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Koishichatta!" // generated(fill_music_metadata.dart v0.1.1)
+                FesALiveMusic(0.3)
+            }
+        }
+
+        Entry {
             id = "M-20220125T063355-2"
             title = "Plasmagica"
             ValidatorSuppress("dah-entry-no-consumed")
