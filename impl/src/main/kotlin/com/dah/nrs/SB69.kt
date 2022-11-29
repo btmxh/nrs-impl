@@ -687,6 +687,15 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-124215"
+            
+            Visual(VisualKind.AlbumArt, 0.2, 0.3)
+            SubIDEntry("1") {
+                FesALiveMusic(0.3)
+            }
+        }
+
+        Entry {
             id = "M-20220125T063355-2"
             title = "Plasmagica"
             ValidatorSuppress("dah-entry-no-consumed")
