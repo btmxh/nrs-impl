@@ -458,7 +458,7 @@ fun AcceptImpact.Visual(kind: VisualKind, base: Double, uniqueness: Double, bloc
     Impact {
         description = "Generic visual"
         score = vector {
-            set(Art.Visual, calcVisualScore(base, uniqueness) * kind.baseScore)
+            set(Art.Visual, calcVisualScore(base, uniqueness) * kind.baseScore * 2)
         }
         meta("type", "DAH_nonstandard_generic_visual")
         meta("base", base)
