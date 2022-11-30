@@ -414,25 +414,16 @@ private fun calcVisualScore(b: Double, u: Double): Double {
 
 enum class VisualKind(val baseScore: Double) {
     // A-MAL-38009: https://animixplay.to/v1/restage-dream-days
-    Animated(3.0),
+    Animated(1.0),
 
     // G-VGMDB-1880: https://store.steampowered.com/app/1152310/Atelier_Escha__Logy_Alchemists_of_the_Dusk_Sky_DX/
-    RPG3DGame(2.0),
+    RPG3DGame(1.0),
 
     // A-MAL-34240: https://www.youtube.com/watch?v=fzQ6gRAEoy0
-    AnimatedShort(1.0),
-
-    // (unranked): https://twitter.com/lapi_staff/status/1555750517887975425
-    AnimatedGachaCardArt(1.0),
+    AnimatedShort(0.8),
 
     // M-VGMDB-AL-100087-1: https://www.youtube.com/watch?v=IqdpYyaLnNc
-    AnimatedMV(1.0),
-
-    // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
-    SemiAnimatedMV(0.8),
-
-    // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
-    GachaCardArt(0.8),
+    AnimatedMV(0.8),
 
     // V-VNDB-12849: https://danbooru.donmai.us/posts/2234064
     VisualNovel(0.8),
@@ -440,11 +431,20 @@ enum class VisualKind(val baseScore: Double) {
     // L-MAL-126146 (unranked): https://en.wikipedia.org/wiki/Oshi_no_Ko#/media/File:Oshi_no_Ko_Volume_1.jpg
     Manga(0.8),
 
+    // (unranked): https://twitter.com/lapi_staff/status/1555750517887975425
+    AnimatedGachaCardArt(0.7),
+
+    // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
+    GachaCardArt(0.6),
+
     // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
     LightNovel(0.5),
 
+    // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
+    SemiAnimatedMV(0.5),
+
     // M-VGMDB-AL-121168 (not canon): https://www.youtube.com/watch?v=hj_4YAVmmuI
-    StaticMV(0.25),
+    StaticMV(0.3),
 
     // M-VGMDB-AL-121168 (canon): https://medium-media.vgm.io/albums/86/121168/121168-de8dcf1b4ceb.jpg
     AlbumArt(0.25),
