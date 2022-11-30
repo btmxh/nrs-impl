@@ -697,8 +697,13 @@ fun DSLScope.SB69() {
                 title = "Hoshitachi no Orchestra Parade" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(0.7)
                 // cleaning koikake :tf: 
-                AEI(0.3, Emotion.MP)
+                // AEI(0.3, Emotion.MP)
             }
+        }
+
+        AEI(0.3, Emotion.MP) {
+            contributors["M-VGMDB-AL-124217-1"] = 0.5
+            contributors["V-VNDB-17516"] = 0.5
         }
 
         Entry {
