@@ -425,9 +425,6 @@ enum class VisualKind(val baseScore: Double) {
     // M-VGMDB-AL-100087-1: https://www.youtube.com/watch?v=IqdpYyaLnNc
     AnimatedMV(0.8),
 
-    // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
-    GachaCardArt(0.8),
-
     // V-VNDB-12849: https://danbooru.donmai.us/posts/2234064
     VisualNovel(0.8),
 
@@ -437,8 +434,11 @@ enum class VisualKind(val baseScore: Double) {
     // (unranked): https://twitter.com/lapi_staff/status/1555750517887975425
     AnimatedGachaCardArt(0.7),
 
+    // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
+    GachaCardArt(0.6),
+
     // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
-    LightNovel(0.6),
+    LightNovel(0.5),
 
     // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
     SemiAnimatedMV(0.5),
