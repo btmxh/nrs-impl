@@ -422,8 +422,8 @@ enum class VisualKind(val baseScore: Double) {
     // A-MAL-34240: https://www.youtube.com/watch?v=fzQ6gRAEoy0
     AnimatedShort(0.8),
 
-    // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
-    SemiAnimatedMV(0.8),
+    // M-VGMDB-AL-100087-1: https://www.youtube.com/watch?v=IqdpYyaLnNc
+    AnimatedMV(0.8),
 
     // GF-VGMDB-7059: https://lldetail.ml/Restage/card/index_secret.php
     GachaCardArt(0.8),
@@ -437,14 +437,14 @@ enum class VisualKind(val baseScore: Double) {
     // (unranked): https://twitter.com/lapi_staff/status/1555750517887975425
     AnimatedGachaCardArt(0.7),
 
-    // M-VGMDB-AL-100087-1: https://www.youtube.com/watch?v=IqdpYyaLnNc
-    AnimatedMV(0.5),
-
     // L-MAL-89357 (unranked): https://danbooru.donmai.us/posts/2905913
     LightNovel(0.6),
 
+    // M-VGMDB-AL-116297-1: https://www.youtube.com/watch?v=vyaGNvuVDuM
+    SemiAnimatedMV(0.5),
+
     // M-VGMDB-AL-121168 (not canon): https://www.youtube.com/watch?v=hj_4YAVmmuI
-    StaticMV(0.4),
+    StaticMV(0.3),
 
     // M-VGMDB-AL-121168 (canon): https://medium-media.vgm.io/albums/86/121168/121168-de8dcf1b4ceb.jpg
     AlbumArt(0.25),
