@@ -288,6 +288,16 @@ fun DSLScope.Kano() {
             }
         }
 
+        Entry {
+            id = "M-20221202T204728"
+            title = "Sukisuki Zecchoushou"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.4)
+            OsuSong(personal = 0.6, community = 0.4)
+            // Length source: https://osu.ppy.sh/beatmapsets/484532
+            MusicConsumedProgress("3:33")
+        }
+
         // kano-era
         Meme(0.8, numDays("2020-11-01", "2021-04-01"))
     }

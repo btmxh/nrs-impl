@@ -57,6 +57,16 @@ fun DSLScope.Aokana() {
                 OsuSong(personal = 0.75, community = 0.3)
             }
         }
+
+        Entry {
+            id = "M-20221202T205008"
+            title = "Wings of Courage -Sora o Koete- (Epsilon Remix)"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.6)
+            OsuSong(personal = 0.3, community = 0.0)
+            // Length source: https://osu.ppy.sh/beatmapsets/1358513
+            MusicConsumedProgress("4:58")
+        }
     }
 }
 
