@@ -44,6 +44,7 @@ fun DSLScope.Aokana() {
             // too lazy to rate every single track
             Music(0.8)
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
+            Remix("M-20221202T205008")
         }
         
         Entry {
@@ -55,6 +56,7 @@ fun DSLScope.Aokana() {
                 MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.45)
                 OsuSong(personal = 0.75, community = 0.3)
+                Remix("M-20221202T210558")
             }
         }
     }

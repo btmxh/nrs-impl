@@ -298,6 +298,26 @@ fun DSLScope.Kano() {
             MusicConsumedProgress("3:33")
         }
 
+        Entry {
+            id = "M-20221202T203758"
+            title = "Sayonara, Adam to Eve"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.55)
+            OsuSong(personal = 0.7, community = 0.0)
+            // Length source: https://osu.ppy.sh/beatmapsets/981282
+            MusicConsumedProgress("4:17")
+        }
+
+        Entry {
+            id = "M-20221202T202421"
+            title = "Natsu no Owari, Koi no Hajimari (Kano)"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.65)
+            OsuSong(personal = 0.0, community = 0.0)
+            // Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM
+            MusicConsumedProgress("4:08")
+        }
+
         // kano-era
         Meme(0.8, numDays("2020-11-01", "2021-04-01"))
     }

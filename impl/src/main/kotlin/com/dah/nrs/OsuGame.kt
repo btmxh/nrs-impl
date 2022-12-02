@@ -220,17 +220,6 @@ fun DSLScope.OsuGame() {
         }
     }
     Entry {
-        id = "M-VGMDB-AL-71405"
-        title = "Awaken the power / Saint Aqours Snow" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.25, 0.4)
-        SubIDEntry("3") {
-            title = "DROPOUT!?" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("3:56") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.4)
-            OsuSong(personal = 0.4, community = 0.0)
-        }
-    }
-    Entry {
         id = "M-VGMDB-AL-81448"
         title = "Egao no Kanata / Chiho feat. majiko" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
@@ -297,6 +286,11 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
             OsuSong(personal = 0.25, community = 0.5)
+
+            // Remix("M-VGMDB-AL-78764-1")
+            // me when people associate 367days absolute rst catjammer
+            // to lantis cocksucker isekai bullcrap /s
+            // jk this song is cool 
         }
     }
     Entry {
@@ -421,17 +415,6 @@ fun DSLScope.OsuGame() {
         }
     }
     Entry {
-        id = "M-VGMDB-AL-66840"
-        title = "Saenai Heroine no Sodatekata Character Song Collection" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.3, 0.6)
-        SubIDEntry("6") {
-            title = "M♭" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.25)
-            OsuSong(personal = 0.4, community = 0.0)
-        }
-    }
-    Entry {
         id = "M-VGMDB-AL-86010"
         title = "CLARITY / PassCode" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
@@ -463,17 +446,6 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("4:45") // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
             OsuSong(personal = 0.75, community = 0.2)
-        }
-    }
-    Entry {
-        id = "M-VGMDB-AL-38558"
-        title = "Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.4, 0.5)
-        SubIDEntry("8") {
-            title = "Sky of Twilight" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("6:21") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.45)
-            OsuSong(personal = 0.5, community = 0.0)
         }
     }
     Entry {
@@ -648,15 +620,6 @@ fun DSLScope.OsuGame() {
         MusicConsumedProgress("4:21")
     }
     Entry {
-        id = "M-20221202T203758"
-        title = "Sayonara, Adam to Eve"
-        ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.55)
-        OsuSong(personal = 0.7, community = 0.0)
-        // Length source: https://osu.ppy.sh/beatmapsets/981282
-        MusicConsumedProgress("4:17")
-    }
-    Entry {
         id = "M-20221202T203633"
         title = "Sakurairo Time Capsule"
         ValidatorSuppress("dah-entry-no-consumed")
@@ -749,15 +712,6 @@ fun DSLScope.OsuGame() {
         MusicConsumedProgress("4:41")
     }
     Entry {
-        id = "M-20221202T202421"
-        title = "Natsu no Owari, Koi no Hajimari (Kano)"
-        ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.65)
-        OsuSong(personal = 0.0, community = 0.0)
-        // Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM
-        MusicConsumedProgress("4:08")
-    }
-    Entry {
         id = "M-20221202T202405"
         title = "Natsu no Owari, Koi no Hajimari (yuikonnu)"
         ValidatorSuppress("dah-entry-no-consumed")
@@ -822,7 +776,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T201031"
-        title = "Kinou ni Kanaderu Ashita no Uta (Cut Ver.)"
+        title = "Kinou ni Kanaderu Ashita no Uta"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.3, community = 0.6)
@@ -985,6 +939,7 @@ fun DSLScope.OsuGame() {
         OsuSong(personal = 0.6, community = 0.75)
         // Length source: https://osu.ppy.sh/beatmapsets/855677
         MusicConsumedProgress("6:31")
+        Remix("M-VGMDB-AL-60678-11")
     }
     Entry {
         id = "M-20221202T190955"
