@@ -948,10 +948,13 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-VGMDB-AL-106436"
+        title = "Ganbare! Kumoko san no Theme / \"Watashi\" (CV: Aoi Yuki)" // generated(fill_music_metadata.dart v0.1.1)
         
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
         SubIDEntry("1") {
+            title = "Ganbare! Kumoko san no Theme" // generated(fill_music_metadata.dart v0.1.1)
+            MusicConsumedProgress("4:03") // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
             OsuSong(personal = 0.2, community = 0.3)
         }
