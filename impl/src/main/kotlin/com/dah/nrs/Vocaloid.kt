@@ -61,4 +61,10 @@ fun DSLScope.Vocaloid() {
         Music(0.65)
         OsuSong(personal = 0.8, community = 0.0)
     }
+
+    Entry {
+        id = "M-VGMDB-AL-97732"
+        title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.3)
+    }
 }

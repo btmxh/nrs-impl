@@ -121,4 +121,199 @@ fun DSLScope.OsuGame() {
             Music(0.65)
         }
     }
+    Entry {
+        id = "M-VGMDB-AL-99204"
+        title = "SMASH The PAINT!! / Nijisanji" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-60475"
+        title = "1HOPE SNIPER / Azusa Tadokoro [Anime Jacket Edition]" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-81136"
+        title = "ADAMAS/Akai Wana (who loves it?) / LiSA [Limited Edition]" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.5, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-5135"
+        title = "AIR MAN GA TAOSENAI" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-43788"
+        title = "Innocent Girl Theme Song & Soundtrack" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.4, 0.75)
+    }
+    Entry {
+        id = "M-VGMDB-AL-40263"
+        title = "Love Lab Vol.2 Bonus CD" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.1, 0.2)
+    }
+    Entry {
+        id = "M-VGMDB-AL-79122"
+        title = "BLACK CLOVER MUSIC COLLECTION Vol.2" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-71831"
+        title = "COLORS POWER NI OMAKASERO! / COLORS☆SLASH [Limited Edition]" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.2)
+    }
+    Entry {
+        id = "M-VGMDB-AL-82981"
+        title = "PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.5, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-71405"
+        title = "Awaken the power / Saint Aqours Snow" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.25, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-81448"
+        title = "Egao no Kanata / Chiho feat. majiko" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.5, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-121238"
+        title = "Shade of Mythology" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-60678"
+        title = "PLANET//SHAPER" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-43924"
+        title = "TOHO COMPLETE BOX" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-60899"
+        title = "God Save The Girls / Shino Shimoji" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.2)
+    }
+    Entry {
+        id = "M-VGMDB-AL-66456"
+        title = "Hakkensha wa Watashi / Tapimiru" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.2)
+    }
+    Entry {
+        id = "M-VGMDB-AL-43075"
+        title = "Heart Realize / Tia [Limited Edition]" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.5, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-43222"
+        title = "HIKARI / ViViD" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.1, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-95204"
+        title = "TV Animation \"Hatena ☆ Illusion\" Original Soundtrack" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.6, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-103004"
+        title = "One Day / SPYAIR" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-59355"
+        title = "DJ'TEKINA//SOMETHING" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-81535"
+        title = "Duca Works 15th Anniversary BEST" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.15, 0.2)
+    }
+    Entry {
+        id = "M-VGMDB-AL-62350"
+        title = "TV ANIMATION LONGRIDERS! ORIGINAL SOUNDTRACK" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-67908"
+        title = "Hoshizora TeaParty Extra ~\"Ai\" Hajimarimashita!~ Hoshizora Ongakukai -ORIGINAL SOUNDTRACK-" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.7, 0.7)
+    }
+    Entry {
+        id = "M-VGMDB-AL-62477"
+        title = "Senketsu no Chikai / Yousei Teikoku" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-54932"
+        title = "UNDERTALE Soundtrack" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-116264"
+        title = "LEVEL / yanaginagi × THE SIXTH LIE" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-66840"
+        title = "Saenai Heroine no Sodatekata Character Song Collection" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-86010"
+        title = "CLARITY / PassCode" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-53986"
+        title = "Sendan Life / Remo Prototype (CV: Yumiri Hanamori)" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.4, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-31638"
+        title = "Ongaku / wac" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.2)
+    }
+    Entry {
+        id = "M-VGMDB-AL-38558"
+        title = "Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.4, 0.5)
+    }
+    Entry {
+        id = "M-VGMDB-AL-67439"
+        title = "crossbeats REV. Limited Premium BOX" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.2, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-46812"
+        title = "The Glory Days / Tia" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-62503"
+        title = "Wagamama MIRROR HEART / Ayaka Ohashi [Aki Edition]" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.5, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-85759"
+        title = "WONDERFUL WONDER / EDOGA-SULLIVAN" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.6, 0.4)
+    }
+    Entry {
+        id = "M-VGMDB-AL-103012"
+        title = "CHUNITHM ALL JUSTICE COLLECTION ep. II" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.1, 0.3)
+    }
+    Entry {
+        id = "M-VGMDB-AL-50020"
+        title = "Yomi Yori Kikoyu, Koukoku no Tou to Honoo no Shoujo." // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.3, 0.6)
+    }
+    Entry {
+        id = "M-VGMDB-AL-43511"
+        title = "yuima-ru★world / Rie Ayase" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.25, 0.5)
+    }
 }

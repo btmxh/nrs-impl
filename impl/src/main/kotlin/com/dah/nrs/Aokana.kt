@@ -45,6 +45,12 @@ fun DSLScope.Aokana() {
             Music(0.8)
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
         }
+        
+        Entry {
+            id = "M-VGMDB-AL-55828"
+            title = "Contrail ~Kiseki~ / Mami Kawada" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+        }
     }
 }
 

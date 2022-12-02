@@ -485,6 +485,12 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-90208"
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.6, 0.2)
+        }
+
+        Entry {
             id = "M-VGMDB-AR-30829"
             title = "KiRaRe" // generated(fill_music_metadata.dart v0.1.1)
 
