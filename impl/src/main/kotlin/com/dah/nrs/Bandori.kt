@@ -237,6 +237,18 @@ fun DSLScope.Bandori() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-104105"
+            title = "Garupa Vocalo Cover Collection" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            SubIDEntry("3") {
+                title = "Melancholic" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.3)
+                OsuSong(personal = 0.75, community = 0.0)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AR-31336"
             title = "RAISE A SUILEN" // generated(fill_music_metadata.dart v0.1.1)
 

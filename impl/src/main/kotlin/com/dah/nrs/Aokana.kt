@@ -44,7 +44,40 @@ fun DSLScope.Aokana() {
             // too lazy to rate every single track
             Music(0.8)
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
+            Remix("M-20221202T205008")
         }
+        
+        Entry {
+            id = "M-VGMDB-AL-55828"
+            title = "Contrail ~Kiseki~ / Mami Kawada" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            SubIDEntry("1") {
+                title = "Contrail ~Kiseki~" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.45)
+                OsuSong(personal = 0.75, community = 0.3)
+                Remix("M-20221202T210558")
+            }
+        }
+    }
+
+    Entry {
+        id = "M-20221202T205008"
+        title = "Wings of Courage -Sora o Koete- (Epsilon Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.3, community = 0.0)
+        // Length source: https://osu.ppy.sh/beatmapsets/1358513
+        MusicConsumedProgress("4:58")
+    }
+
+    Entry {
+        id = "M-20221202T210558"
+        title = "Contrail ~Kiseki~ (Epsilon Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        // Length source: https://osu.ppy.sh/beatmapsets/461966
+        MusicConsumedProgress("5:50")
     }
 }
 

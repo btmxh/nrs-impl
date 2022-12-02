@@ -233,5 +233,17 @@ fun DSLScope.Atelier() {
                 AEI(0.25, Emotion.CP)
             }
         }
+
+        Entry {
+            id = "M-VGMDB-AL-38558"
+            title = "Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            SubIDEntry("8") {
+                title = "Sky of Twilight" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("6:21") // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.45)
+                OsuSong(personal = 0.5, community = 0.0)
+            }
+        }
     }
 }

@@ -162,6 +162,17 @@ fun DSLScope.LoveLive() {
             }
         }
 
+        Entry {
+            id = "M-VGMDB-AL-71405"
+            title = "Awaken the power / Saint Aqours Snow" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            SubIDEntry("3") {
+                title = "DROPOUT!?" // generated(fill_music_metadata.dart v0.1.1)
+                MusicConsumedProgress("3:56") // generated(fill_music_metadata.dart v0.1.1)
+                Music(0.4)
+                OsuSong(personal = 0.4, community = 0.0)
+            }
+        }
 
         Entry {
             id = "M-VGMDB-AR-17153"

@@ -840,6 +840,15 @@ fun DSLScope.SB69() {
         contributors["A-MAL-41520"] = 0.25
         contributors["G-VGMDB-8429"] = 0.1
     }
+
+    Entry {
+        id = "M-20221127T140645"
+        title = "Bibibeach Bibibibeach! (411 Socacore Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.7)
+        // Length source: https://osu.ppy.sh/beatmapsets/1092567
+        MusicConsumedProgress("4:32")
+    }
 }
 
 fun AcceptImpact.AKMEraPart1(strength: Double, block: DSLImpact.() -> Unit = {}) {

@@ -148,6 +148,12 @@ fun DSLScope.Kano() {
 
                 Contains("M-VGMDB-AL-51254-1")
                 Contains("M-VGMDB-AL-54307-1")
+                SubIDEntry("7") {
+                    title = "Walk This Way!" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
+                    Music(0.4)
+                    OsuSong(personal = 0.6, community = 0.3)
+                }
             }
 
             Entry {
@@ -280,6 +286,36 @@ fun DSLScope.Kano() {
                 Music(0.5)
                 MusicConsumedProgress("3:29") // impl_overridden
             }
+        }
+
+        Entry {
+            id = "M-20221202T204728"
+            title = "Sukisuki Zecchoushou"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.4)
+            OsuSong(personal = 0.6, community = 0.4)
+            // Length source: https://osu.ppy.sh/beatmapsets/484532
+            MusicConsumedProgress("3:33")
+        }
+
+        Entry {
+            id = "M-20221202T203758"
+            title = "Sayonara, Adam to Eve"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.55)
+            OsuSong(personal = 0.7, community = 0.0)
+            // Length source: https://osu.ppy.sh/beatmapsets/981282
+            MusicConsumedProgress("4:17")
+        }
+
+        Entry {
+            id = "M-20221202T202421"
+            title = "Natsu no Owari, Koi no Hajimari (Kano)"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.65)
+            OsuSong(personal = 0.0, community = 0.0)
+            // Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM
+            MusicConsumedProgress("4:08")
         }
 
         // kano-era
