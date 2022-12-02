@@ -251,6 +251,12 @@ fun DSLScope.CommonArtists() {
                 id = "M-VGMDB-AL-66901"
                 title = "adrenaline!!! / TrySail" // generated(fill_music_metadata.dart v0.1.1)
                 Visual(VisualKind.AlbumArt, 0.2, 0.3)
+                SubIDEntry("1") {
+                    title = "adrenaline!!!" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:34") // generated(fill_music_metadata.dart v0.1.1)
+                    Music(0.4)
+                    OsuSong(personal = 0.15, community = 0.0)
+                }
             }
 
             Contains("M-VGMDB-AL-89431")
@@ -280,6 +286,12 @@ fun DSLScope.CommonArtists() {
                 id = "M-VGMDB-AL-69319"
                 title = "SHIORI / ClariS" // generated(fill_music_metadata.dart v0.1.1)
                 Visual(VisualKind.AlbumArt, 0.2, 0.2)
+                SubIDEntry("1") {
+                    title = "SHIORI" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:09") // generated(fill_music_metadata.dart v0.1.1)
+                    Music(0.45)
+                    OsuSong(personal = 0.75, community = 0.8)
+                }
             }
 
             Entry {

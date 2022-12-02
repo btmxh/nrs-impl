@@ -148,6 +148,12 @@ fun DSLScope.Kano() {
 
                 Contains("M-VGMDB-AL-51254-1")
                 Contains("M-VGMDB-AL-54307-1")
+                SubIDEntry("7") {
+                    title = "Walk This Way!" // generated(fill_music_metadata.dart v0.1.1)
+                    MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
+                    Music(0.4)
+                    OsuSong(personal = 0.6, community = 0.3)
+                }
             }
 
             Entry {
