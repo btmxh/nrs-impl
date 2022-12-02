@@ -21,6 +21,7 @@ fun DSLScope.WagamamaHighSpec() {
             Visual(VisualKind.VisualNovel, 0.7, 0.3)
             NEI(0.3, Emotion.MP)
             NEI(0.4, Emotion.AP)
+            KilledBy("F-20221128T123502", potential = 0.25, effect = 0.5)
         }
 
         Entry {
