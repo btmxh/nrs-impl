@@ -548,4 +548,552 @@ fun DSLScope.OsuGame() {
             OsuSong(personal = 0.3, community = 0.75)
         }
     }
+    Entry {
+        id = "M-20221202T205325"
+        title = "yuikonnu - Yume Chizu"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.7)
+        OsuSong(personal = 0.75, community = 0.25)
+        MusicConsumedProgress("1:40")
+    }
+    Entry {
+        id = "M-20221202T205227"
+        title = "Nogizaka46 - Yubi Bouenkyou (TV Size)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.65)
+        OsuSong(personal = 1.0, community = 0.8)
+        MusicConsumedProgress("1:26")
+    }
+    Entry {
+        id = "M-20221202T205118"
+        title = "Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.7)
+        OsuSong(personal = 0.75, community = 0.8)
+        MusicConsumedProgress("5:42")
+    }
+    Entry {
+        id = "M-20221202T205043"
+        title = "Loki - Wizard's Tower"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.3)
+        OsuSong(personal = 0.75, community = 0.8)
+        MusicConsumedProgress("2:40")
+    }
+    Entry {
+        id = "M-20221202T205008"
+        title = "Kawada Mami - Wings of Courage -Sora o Koete- (Epsilon Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.3, community = 0.0)
+        MusicConsumedProgress("4:58")
+    }
+    Entry {
+        id = "M-20221202T204908"
+        title = "AliA - utopia"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.8, community = 0.7)
+        MusicConsumedProgress("4:21")
+    }
+    Entry {
+        id = "M-20221202T204859"
+        title = "Imperial Circus Dead Decadence - Uta"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.7, community = 0.9)
+        MusicConsumedProgress("8:48")
+    }
+    Entry {
+        id = "M-20221202T204820"
+        title = "The Quick Brown Fox - The Big Black"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 1.0, community = 1.0)
+        MusicConsumedProgress("2:19")
+    }
+    Entry {
+        id = "M-20221202T204728"
+        title = "Kano - Sukisuki Zecchoushou"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.6, community = 0.4)
+        MusicConsumedProgress("3:33")
+    }
+    Entry {
+        id = "M-20221202T204712"
+        title = "ONE OK ROCK - Start Again"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 1.0, community = 0.6)
+        MusicConsumedProgress("2:02")
+    }
+    Entry {
+        id = "M-20221202T204553"
+        title = "Foreground Eclipse - Songs Compilation"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.7)
+        OsuSong(personal = 0.7, community = 0.9)
+        MusicConsumedProgress("6:39")
+    }
+    Entry {
+        id = "M-20221202T204342"
+        title = "VINXIS - Sidetracked Day"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.9, community = 0.9)
+        MusicConsumedProgress("5:35")
+    }
+    Entry {
+        id = "M-20221202T203918"
+        title = "Luna - Shinsekai no Alpha"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.75, community = 0.0)
+        MusicConsumedProgress("1:46")
+    }
+    Entry {
+        id = "M-20221202T203758"
+        title = "Kano - Sayonara, Adam to Eve"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.55)
+        OsuSong(personal = 0.7, community = 0.0)
+        MusicConsumedProgress("4:17")
+    }
+    Entry {
+        id = "M-20221202T203633"
+        title = "*namirin - Sakurairo Time Capsule"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.7, community = 0.0)
+        MusicConsumedProgress("4:20")
+    }
+    Entry {
+        id = "M-20221202T203615"
+        title = "HAG - Rokugatsu no Himitsu Kichi"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.6, community = 0.0)
+        MusicConsumedProgress("4:52")
+    }
+    Entry {
+        id = "M-20221202T203601"
+        title = "BABYMETAL - Road of Resistance"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.55)
+        OsuSong(personal = 0.6, community = 0.8)
+        MusicConsumedProgress("5:00")
+    }
+    Entry {
+        id = "M-20221202T202818"
+        title = "Himeringo - Ringo Uri no Utakata Shoujo"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.65)
+        OsuSong(personal = 0.7, community = 0.0)
+        MusicConsumedProgress("5:32")
+    }
+    Entry {
+        id = "M-20221202T202803"
+        title = "SYU (from GALNERYUS) - REASON"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.5, community = 0.7)
+        MusicConsumedProgress("5:27")
+    }
+    Entry {
+        id = "M-20221202T202709"
+        title = "GALNERYUS - RAISE MY SWORD"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.7, community = 0.9)
+        MusicConsumedProgress("7:02")
+    }
+    Entry {
+        id = "M-20221202T202651"
+        title = "Memme - Plasma Gun"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.9, community = 0.9)
+        MusicConsumedProgress("0:58")
+    }
+    Entry {
+        id = "M-20221202T202626"
+        title = "ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita."
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.25, community = 0.0)
+        MusicConsumedProgress("3:49")
+    }
+    Entry {
+        id = "M-20221202T202617"
+        title = "a_hisa - Pastel Subliminal & Synesthesia"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.4, community = 0.6)
+        MusicConsumedProgress("8:00")
+    }
+    Entry {
+        id = "M-20221202T202453"
+        title = "Turbo - PADORU / PADORU"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.25)
+        OsuSong(personal = 0.75, community = 0.75)
+        MusicConsumedProgress("0:32")
+    }
+    Entry {
+        id = "M-20221202T202443"
+        title = "chano & 40mP - Natsukoi Hanabi"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.7, community = 0.3)
+        MusicConsumedProgress("1:32")
+    }
+    Entry {
+        id = "M-20221202T202421"
+        title = "Kano - Natsu no Owari, Koi no Hajimari"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.65)
+        OsuSong(personal = 0.0, community = 0.0)
+        MusicConsumedProgress("0:49")
+    }
+    Entry {
+        id = "M-20221202T202405"
+        title = "yuikonnu - Natsu no Owari, Koi no Hajimari"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.6, community = 0.1)
+        MusicConsumedProgress("2:48")
+    }
+    Entry {
+        id = "M-20221202T202350"
+        title = "Shinonome Natsuhi (CV: Hinami Yuri) - Moratorium no Oto"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.7, community = 0.0)
+        MusicConsumedProgress("2:04")
+    }
+    Entry {
+        id = "M-20221202T202334"
+        title = "LeaF - Mopemope"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.6, community = 0.7)
+        MusicConsumedProgress("1:50")
+    }
+    Entry {
+        id = "M-20221202T202313"
+        title = "MIMI feat. Hatsune Miku - Mizuoto to Curtain"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.7, community = 0.0)
+        MusicConsumedProgress("2:47")
+    }
+    Entry {
+        id = "M-20221202T202258"
+        title = "nameless - Milk Crown on Sonnetica"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.6, community = 0.3)
+        MusicConsumedProgress("3:33")
+    }
+    Entry {
+        id = "M-20221202T201347"
+        title = "Rin'ca - Koisuru MODE"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.5, community = 0.0)
+        MusicConsumedProgress("3:56")
+    }
+    Entry {
+        id = "M-20221202T201210"
+        title = "*namirin - Koi no Hime Hime Pettanko"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.75, community = 0.75)
+        MusicConsumedProgress("1:34")
+    }
+    Entry {
+        id = "M-20221202T201031"
+        title = "YURiMental - Kinou ni Kanaderu Ashita no Uta (Cut Ver.)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.3, community = 0.6)
+        MusicConsumedProgress("2:03")
+    }
+    Entry {
+        id = "M-20221202T194352"
+        title = "AliA - Kakurenbo"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.7)
+        OsuSong(personal = 0.5, community = 0.25)
+        MusicConsumedProgress("4:52")
+    }
+    Entry {
+        id = "M-20221202T210619"
+        title = "Tatsh - IMAGE -MATERIAL- <Version 0>"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.7, community = 0.9)
+        MusicConsumedProgress("6:25")
+    }
+    Entry {
+        id = "M-20221202T194015"
+        title = "HAG - Hoshikuzu Orchestra"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.55)
+        OsuSong(personal = 0.5, community = 0.0)
+        MusicConsumedProgress("4:48")
+    }
+    Entry {
+        id = "M-20221202T193932"
+        title = "Minase Inori - Hoshikuzu no Contrail"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.65)
+        OsuSong(personal = 0.6, community = 0.0)
+        MusicConsumedProgress("4:21")
+    }
+    Entry {
+        id = "M-20221202T193824"
+        title = "Set It Off - Horrible Kids"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.5, community = 0.6)
+        MusicConsumedProgress("0:58")
+    }
+    Entry {
+        id = "M-20221202T193801"
+        title = "GYZE - HONESTY"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.6, community = 0.9)
+        MusicConsumedProgress("5:02")
+    }
+    Entry {
+        id = "M-20221202T193602"
+        title = "*namirin - Hitokoto no Kyori"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.5, community = 0.0)
+        MusicConsumedProgress("3:48")
+    }
+    Entry {
+        id = "M-20221202T193402"
+        title = "Fukunaga Yoru - Hitohira no, Daisuki o,"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.65)
+        OsuSong(personal = 0.1, community = 0.0)
+        MusicConsumedProgress("4:34")
+    }
+    Entry {
+        id = "M-20221202T192736"
+        title = "Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.6, community = 0.75)
+        MusicConsumedProgress("3:19")
+    }
+    Entry {
+        id = "M-20221202T192642"
+        title = "TrySail & TRUE - High Free Spirits vs. DREAM SOLISTER"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        OsuSong(personal = 0.4, community = 0.3)
+        MusicConsumedProgress("1:51")
+    }
+    Entry {
+        id = "M-20221202T192505"
+        title = "cosMo@BousouP feat.Hatsune Miku - Hatsune Miku no Shoushitsu"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.4, community = 0.0)
+        MusicConsumedProgress("4:35")
+    }
+    Entry {
+        id = "M-20221202T192314"
+        title = "SOOOO - Happppy song"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.75, community = 0.75)
+        MusicConsumedProgress("5:19")
+    }
+    Entry {
+        id = "M-20221202T192116"
+        title = "Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.5, community = 0.5)
+        MusicConsumedProgress("2:45")
+    }
+    Entry {
+        id = "M-20221202T191926"
+        title = "Carlito - Go Go Carlito (Who's That Boy?)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.3, community = 0.6)
+        MusicConsumedProgress("3:11")
+    }
+    Entry {
+        id = "M-20221202T191729"
+        title = "Watashi (CV: Yuuki Aoi) - Ganbare! Kumoko-san no Thema (TV Size)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.2, community = 0.3)
+        MusicConsumedProgress("1:29")
+    }
+    Entry {
+        id = "M-20221202T191703"
+        title = "Kurokotei - Galaxy Collapse"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.3)
+        OsuSong(personal = 0.3, community = 0.75)
+        MusicConsumedProgress("5:54")
+    }
+    Entry {
+        id = "M-20221202T191512"
+        title = "DECO*27 - First Storm feat. Hatsune Miku"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.75, community = 0.5)
+        MusicConsumedProgress("3:48")
+    }
+    Entry {
+        id = "M-20221202T191455"
+        title = "Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        OsuSong(personal = 0.6, community = 0.75)
+        MusicConsumedProgress("6:31")
+    }
+    Entry {
+        id = "M-20221202T190955"
+        title = "Aline Barros - Eu Li Na Biblia (Sped Up & Cut Ver.)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.1, community = 0.2)
+        MusicConsumedProgress("1:36")
+    }
+    Entry {
+        id = "M-20221202T184056"
+        title = "Aitsuki Nakuru - Dramatic Star (Cut Ver.)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.6, community = 0.0)
+        MusicConsumedProgress("1:44")
+    }
+    Entry {
+        id = "M-20221202T184040"
+        title = "Amatsuki - DORAEMON"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.3)
+        OsuSong(personal = 0.5, community = 0.25)
+        MusicConsumedProgress("1:34")
+    }
+    Entry {
+        id = "M-20221202T210602"
+        title = "KASAI HARCORES - Cycle Hit"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.5)
+        MusicConsumedProgress("5:07")
+    }
+    Entry {
+        id = "M-20221202T210558"
+        title = "Mami Kawada - Contrail ~Kiseki~ (Epsilon Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.6)
+        MusicConsumedProgress("5:50")
+    }
+    Entry {
+        id = "M-20221202T182526"
+        title = "HAG - Colorful"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.75, community = 0.6)
+        MusicConsumedProgress("2:09")
+    }
+    Entry {
+        id = "M-20221202T182453"
+        title = "Zedd - Clarity feat. Foxes (IOSYS uno DENPA Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        MusicConsumedProgress("3:24")
+    }
+    Entry {
+        id = "M-20221127T140645"
+        title = "Criticrista - Bibibeach Bibibibeach! (411 Socacore Remix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.7)
+        MusicConsumedProgress("4:32")
+    }
+    Entry {
+        id = "M-20221127T140609"
+        title = "S3RL - Bass Slut (Original Mix)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.25)
+        OsuSong(personal = 0.4, community = 0.1)
+        MusicConsumedProgress("2:18")
+    }
+    Entry {
+        id = "M-20221127T140415"
+        title = "Mrs. GREEN APPLE - Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.55)
+        OsuSong(personal = 0.6, community = 0.75)
+        MusicConsumedProgress("3:32")
+    }
+    Entry {
+        id = "M-20221127T140402"
+        title = "Maya(CV.Minase Inori) & Erika(CV.Inami Anju) - Anime o Katare! ~Animegatari Doukoukai no Thema~"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.4, community = 0.0)
+        MusicConsumedProgress("1:27")
+    }
+    Entry {
+        id = "M-20221127T140333"
+        title = "ke-ji feat. Nanahira - Ange du Blanc Pur"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.75, community = 0.25)
+        MusicConsumedProgress("3:57")
+    }
+    Entry {
+        id = "M-20221127T140303"
+        title = "Falconnect feat. Hatsune Miku - Akaneiro no Mahou"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.55)
+        OsuSong(personal = 0.1, community = 0.0)
+        MusicConsumedProgress("0:28")
+    }
+    Entry {
+        id = "M-20221202T210523"
+        title = "MIMI feat. Hatsune Miku - Ai no Sukima (Rock Cover)"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.45)
+        OsuSong(personal = 0.3, community = 0.0)
+        MusicConsumedProgress("1:31")
+    }
+    Entry {
+        id = "M-20221127T140129"
+        title = "MIMI feat. Hatsune Miku - Ai no Sukima"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.4)
+        OsuSong(personal = 0.4, community = 0.0)
+        MusicConsumedProgress("3:37")
+    }
+    Entry {
+        id = "M-20221127T140107"
+        title = "sana x 000 x mary - Ai Kotoba III"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.35)
+        OsuSong(personal = 0.05, community = 0.0)
+        MusicConsumedProgress("4:05")
+    }
+    Entry {
+        id = "M-20221127T135748"
+        title = "Nashimoto Ui - AaAaAaAAaAaAAa"
+        ValidatorSuppress("dah-entry-no-consumed")
+        Music(0.25)
+        OsuSong(personal = 0.2, community = 0.0)
+        MusicConsumedProgress("1:45")
+    }
 }
