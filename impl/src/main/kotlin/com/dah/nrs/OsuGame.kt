@@ -1071,26 +1071,30 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-VGMDB-AL-74120"
+        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
         SubIDEntry("1") {
+            title = "アニメを語レ!～アニメガタリ同好会のテーマ～" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
             OsuSong(personal = 0.4, community = 0.0)
             // Length source: https://osu.ppy.sh/beatmapsets/644332
-            MusicConsumedProgress("1:27")
+            MusicConsumedProgress("3:36") // generated(fill_music_metadata.dart v0.1.1)
         }
     }
     Entry {
         id = "M-VGMDB-AL-54237"
+        title = "Colory Starry / Nanahira" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
         SubIDEntry("7") {
+            title = "Ange du Blanc Pur" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.45)
             OsuSong(personal = 0.75, community = 0.25)
             // Length source: https://osu.ppy.sh/beatmapsets/1188740
-            MusicConsumedProgress("3:57")
+            MusicConsumedProgress("4:03") // generated(fill_music_metadata.dart v0.1.1)
         }
     }
     Entry {
