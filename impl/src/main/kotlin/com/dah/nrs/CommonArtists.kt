@@ -904,16 +904,26 @@ fun DSLScope.CommonArtists() {
                 Music(0.45)
                 // cringeworthy material: https://www.youtube.com/watch?v=_3aqQaH9AWM (it's me who made that)
             }
+        }
 
-            Entry {
-                id = "M-20221202T203615"
-                title = "Rokugatsu no Himitsu Kichi"
-                ValidatorSuppress("dah-entry-no-consumed")
-                Music(0.45)
-                OsuSong(personal = 0.6, community = 0.0)
-                // Length source: https://osu.ppy.sh/beatmapsets/1094362
-                MusicConsumedProgress("4:52")
-            }
+        Entry {
+            id = "M-20221202T203615"
+            title = "Rokugatsu no Himitsu Kichi"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.45)
+            OsuSong(personal = 0.6, community = 0.0)
+            // Length source: https://osu.ppy.sh/beatmapsets/1094362
+            MusicConsumedProgress("4:52")
+        }
+
+        Entry {
+            id = "M-20221202T194015"
+            title = "HAG - Hoshikuzu Orchestra"
+            ValidatorSuppress("dah-entry-no-consumed")
+            Music(0.55)
+            OsuSong(personal = 0.5, community = 0.0)
+            // Length source: https://osu.ppy.sh/beatmapsets/804193
+            MusicConsumedProgress("4:48")
         }
     }
 

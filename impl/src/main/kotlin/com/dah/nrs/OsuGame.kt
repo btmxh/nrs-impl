@@ -676,7 +676,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202818"
-        title = "Himeringo - Ringo Uri no Utakata Shoujo"
+        title = "Ringo Uri no Utakata Shoujo"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.65)
         OsuSong(personal = 0.7, community = 0.0)
@@ -741,7 +741,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202443"
-        title = "chano & 40mP - Natsukoi Hanabi"
+        title = "Natsukoi Hanabi"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.7, community = 0.3)
@@ -750,7 +750,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202421"
-        title = "Kano - Natsu no Owari, Koi no Hajimari"
+        title = "Natsu no Owari, Koi no Hajimari (Kano)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.65)
         OsuSong(personal = 0.0, community = 0.0)
@@ -759,7 +759,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202405"
-        title = "yuikonnu - Natsu no Owari, Koi no Hajimari"
+        title = "Natsu no Owari, Koi no Hajimari (yuikonnu)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         OsuSong(personal = 0.6, community = 0.1)
@@ -768,7 +768,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202350"
-        title = "Shinonome Natsuhi (CV: Hinami Yuri) - Moratorium no Oto"
+        title = "Moratorium no Oto"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.7, community = 0.0)
@@ -777,7 +777,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202334"
-        title = "LeaF - Mopemope"
+        title = "Mopemope"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.6, community = 0.7)
@@ -786,7 +786,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202313"
-        title = "MIMI feat. Hatsune Miku - Mizuoto to Curtain"
+        title = "Mizuoto to Curtain"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.45)
         OsuSong(personal = 0.7, community = 0.0)
@@ -795,7 +795,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T202258"
-        title = "nameless - Milk Crown on Sonnetica"
+        title = "Milk Crown on Sonnetica"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         OsuSong(personal = 0.6, community = 0.3)
@@ -804,7 +804,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T201347"
-        title = "Rin'ca - Koisuru MODE"
+        title = "Koisuru MODE"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         OsuSong(personal = 0.5, community = 0.0)
@@ -813,7 +813,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T201210"
-        title = "*namirin - Koi no Hime Hime Pettanko"
+        title = "Koi no Hime Hime Pettanko"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.75, community = 0.75)
@@ -822,7 +822,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T201031"
-        title = "YURiMental - Kinou ni Kanaderu Ashita no Uta (Cut Ver.)"
+        title = "Kinou ni Kanaderu Ashita no Uta (Cut Ver.)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.3, community = 0.6)
@@ -831,7 +831,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T194352"
-        title = "AliA - Kakurenbo"
+        title = "Kakurenbo"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.7)
         OsuSong(personal = 0.5, community = 0.25)
@@ -840,7 +840,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T210619"
-        title = "Tatsh - IMAGE -MATERIAL- <Version 0>"
+        title = "IMAGE -MATERIAL- <Version 0>"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.7, community = 0.9)
@@ -848,17 +848,8 @@ fun DSLScope.OsuGame() {
         MusicConsumedProgress("6:25")
     }
     Entry {
-        id = "M-20221202T194015"
-        title = "HAG - Hoshikuzu Orchestra"
-        ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.55)
-        OsuSong(personal = 0.5, community = 0.0)
-        // Length source: https://osu.ppy.sh/beatmapsets/804193
-        MusicConsumedProgress("4:48")
-    }
-    Entry {
         id = "M-20221202T193932"
-        title = "Minase Inori - Hoshikuzu no Contrail"
+        title = "Hoshikuzu no Contrail"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.65)
         OsuSong(personal = 0.6, community = 0.0)
@@ -867,7 +858,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T193824"
-        title = "Set It Off - Horrible Kids"
+        title = "Horrible Kids"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.5, community = 0.6)
@@ -876,7 +867,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T193801"
-        title = "GYZE - HONESTY"
+        title = "HONESTY"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.6, community = 0.9)
@@ -885,7 +876,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T193602"
-        title = "*namirin - Hitokoto no Kyori"
+        title = "Hitokoto no Kyori"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.45)
         OsuSong(personal = 0.5, community = 0.0)
@@ -894,7 +885,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T193402"
-        title = "Fukunaga Yoru - Hitohira no, Daisuki o,"
+        title = "Hitohira no, Daisuki o,"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.65)
         OsuSong(personal = 0.1, community = 0.0)
@@ -903,7 +894,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T192736"
-        title = "Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?"
+        title = "Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         OsuSong(personal = 0.6, community = 0.75)
@@ -912,7 +903,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T192642"
-        title = "TrySail & TRUE - High Free Spirits vs. DREAM SOLISTER"
+        title = "High Free Spirits vs. DREAM SOLISTER"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         OsuSong(personal = 0.4, community = 0.3)
@@ -921,7 +912,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T192505"
-        title = "cosMo@BousouP feat.Hatsune Miku - Hatsune Miku no Shoushitsu"
+        title = "Hatsune Miku no Shoushitsu"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.4, community = 0.0)
@@ -930,7 +921,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T192314"
-        title = "SOOOO - Happppy song"
+        title = "Happppy song"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.45)
         OsuSong(personal = 0.75, community = 0.75)
@@ -939,7 +930,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T192116"
-        title = "Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster)"
+        title = "Hanatachi ni Kibou o (2020 Remaster)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.5, community = 0.5)
@@ -948,7 +939,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T191926"
-        title = "Carlito - Go Go Carlito (Who's That Boy?)"
+        title = "Go Go Carlito (Who's That Boy?)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.3, community = 0.6)
@@ -956,17 +947,18 @@ fun DSLScope.OsuGame() {
         MusicConsumedProgress("3:11")
     }
     Entry {
-        id = "M-20221202T191729"
-        title = "Watashi (CV: Yuuki Aoi) - Ganbare! Kumoko-san no Thema (TV Size)"
-        ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.4)
-        OsuSong(personal = 0.2, community = 0.3)
-        // Length source: https://www.youtube.com/watch?v=lZqbgn3SvmU
-        MusicConsumedProgress("4:35")
+        id = "M-VGMDB-AL-106436"
+        
+        Visual(VisualKind.AlbumArt, 0.3, 0.6)
+
+        SubIDEntry("1") {
+            Music(0.4)
+            OsuSong(personal = 0.2, community = 0.3)
+        }
     }
     Entry {
         id = "M-20221202T191703"
-        title = "Kurokotei - Galaxy Collapse"
+        title = "Galaxy Collapse"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.3)
         OsuSong(personal = 0.3, community = 0.75)
@@ -975,7 +967,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T191512"
-        title = "DECO*27 - First Storm feat. Hatsune Miku"
+        title = "First Storm"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.75, community = 0.5)
@@ -984,7 +976,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T191455"
-        title = "Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)"
+        title = "Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.6, community = 0.75)
@@ -993,7 +985,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T190955"
-        title = "Aline Barros - Eu Li Na Biblia (Sped Up & Cut Ver.)"
+        title = "Eu Li Na Biblia (Sped Up & Cut Ver.)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.1, community = 0.2)
@@ -1003,7 +995,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T184056"
-        title = "Aitsuki Nakuru - Dramatic Star (Cut Ver.)"
+        title = "Dramatic Star"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.45)
         OsuSong(personal = 0.6, community = 0.0)
@@ -1012,7 +1004,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T184040"
-        title = "Amatsuki - DORAEMON"
+        title = "DORAEMON"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.3)
         OsuSong(personal = 0.5, community = 0.25)
@@ -1021,39 +1013,23 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T210602"
-        title = "KASAI HARCORES - Cycle Hit"
+        title = "Cycle Hit"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         // Length source: https://osu.ppy.sh/beatmapsets/636839
         MusicConsumedProgress("5:07")
     }
     Entry {
-        id = "M-20221202T210558"
-        title = "Mami Kawada - Contrail ~Kiseki~ (Epsilon Remix)"
-        ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.6)
-        // Length source: https://osu.ppy.sh/beatmapsets/461966
-        MusicConsumedProgress("5:50")
-    }
-    Entry {
         id = "M-20221202T182453"
-        title = "Zedd - Clarity feat. Foxes (IOSYS uno DENPA Remix)"
+        title = "Clarity feat. Foxes (IOSYS uno DENPA Remix)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         // Length source: https://osu.ppy.sh/beatmapsets/615644
         MusicConsumedProgress("3:24")
     }
     Entry {
-        id = "M-20221127T140645"
-        title = "Criticrista - Bibibeach Bibibibeach! (411 Socacore Remix)"
-        ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.7)
-        // Length source: https://osu.ppy.sh/beatmapsets/1092567
-        MusicConsumedProgress("4:32")
-    }
-    Entry {
         id = "M-20221127T140609"
-        title = "S3RL - Bass Slut (Original Mix)"
+        title = "Bass Slut (Original Mix)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.25)
         OsuSong(personal = 0.4, community = 0.1)
@@ -1062,7 +1038,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221127T140415"
-        title = "Mrs. GREEN APPLE - Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)"
+        title = "Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.55)
         OsuSong(personal = 0.6, community = 0.75)
@@ -1099,7 +1075,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221127T140303"
-        title = "Falconnect feat. Hatsune Miku - Akaneiro no Mahou"
+        title = "Akaneiro no Mahou"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.55)
         OsuSong(personal = 0.1, community = 0.0)
@@ -1108,7 +1084,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221202T210523"
-        title = "MIMI feat. Hatsune Miku - Ai no Sukima (Rock Cover)"
+        title = "Ai no Sukima (Rock Cover)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.45)
         OsuSong(personal = 0.3, community = 0.0)
@@ -1117,16 +1093,17 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221127T140129"
-        title = "MIMI feat. Hatsune Miku - Ai no Sukima"
+        title = "Ai no Sukima"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.4)
         OsuSong(personal = 0.4, community = 0.0)
         // Length source: https://osu.ppy.sh/beatmapsets/1323207
         MusicConsumedProgress("3:37")
+        Remix("M-20221202T210523")
     }
     Entry {
         id = "M-20221127T140107"
-        title = "sana x 000 x mary - Ai Kotoba III"
+        title = "Ai Kotoba III"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.35)
         OsuSong(personal = 0.05, community = 0.0)
@@ -1135,7 +1112,7 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-20221127T135748"
-        title = "Nashimoto Ui - AaAaAaAAaAaAAa"
+        title = "AaAaAaAAaAaAAa"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.25)
         OsuSong(personal = 0.2, community = 0.0)
