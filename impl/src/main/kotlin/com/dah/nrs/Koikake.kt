@@ -7,6 +7,7 @@ import kotlin.time.Duration.Companion.minutes
 import kotlin.time.Duration.Companion.seconds
 
 fun DSLScope.Koikake() {
+    // Winter is when love comes    
     Entry {
         id = "F-20221128T123502"
         title = "Koi x Shin Ai Kanojo"
@@ -60,6 +61,18 @@ fun DSLScope.Koikake() {
                 // gyze i found the mv for this song :skull:
                 // https://www.youtube.com/watch?v=e_IIORCnBxI
                 Music(0.35)
+            }
+
+            SubIDEntry("25") {
+                MusicConsumedProgress("4:16") // generated(fill_music_metadata.dart v0.1.1)
+                title = "GLORIOUS DAYS" // generated(fill_music_metadata.dart v0.1.1)
+                // Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️
+                // I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you
+                // Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞
+                // This blue 🟦 sky ☁️ will always ♾️ be right 👉 here 👇
+                Music(0.75)
+                // NEI(Emotion.CU, 0.2)
+                // :Pause: :pepeLaugh:
             }
 
             // classic "too lazy to rank all of the tracks"
