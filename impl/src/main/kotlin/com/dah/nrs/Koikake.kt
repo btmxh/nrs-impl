@@ -41,6 +41,8 @@ fun DSLScope.Koikake() {
 
             // eroge love ig
             AEI(0.5, Emotion.MP)
+
+            Meme(0.6, numDays("2022-11-25"))
             FeatureMusic("M-VGMDB-AL-58596")
         }
 
