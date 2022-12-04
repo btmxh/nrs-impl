@@ -160,6 +160,20 @@ fun DSLScope.Bandori() {
             id = "M-VGMDB-AR-31328"
             title = "Pastel*Palettes" // generated(fill_music_metadata.dart v0.1.1)
 
+            // HAHAHAHAHAHAHHAHAHAHA GET FUCKED THE ORTENSIA INCIDENT PART 2 STRIKED
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // https://bang-dream.bushimo.jp/news/20221130/post-303
+            // REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS
+            // REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS
+            // REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS
+            // REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS
+            // REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS
+
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-106577-6")
                 Contains("M-20220130T183728-4", 1.0 / 3)
