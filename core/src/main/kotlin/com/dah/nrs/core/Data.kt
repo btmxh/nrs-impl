@@ -24,4 +24,3 @@ interface IRelation {
 interface IMeta {
     val meta: JsonObject
 }
-

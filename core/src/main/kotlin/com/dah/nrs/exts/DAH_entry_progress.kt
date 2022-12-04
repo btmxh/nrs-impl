@@ -20,11 +20,14 @@ enum class EntryStatus(val oldBoredomLevelName: String) {
 }
 
 fun DSLEntry.Progress(status: EntryStatus, length: Duration, block: DSLMetaImpl.() -> Unit = {}) {
-    meta("DAH_entry_progress", DSLMetaImpl().apply {
-        meta("status", status.oldBoredomLevelName)
-        meta("length_seconds", length.inWholeSeconds)
-        block()
-    })
+    meta(
+        "DAH_entry_progress",
+        DSLMetaImpl().apply {
+            meta("status", status.oldBoredomLevelName)
+            meta("length_seconds", length.inWholeSeconds)
+            block()
+        }
+    )
 }
 
 fun DSLEntry.AnimeProgress(status: EntryStatus, episodes: Int, episodeDuration: Duration = AverageAnimeEpisode) {
@@ -34,33 +37,33 @@ fun DSLEntry.AnimeProgress(status: EntryStatus, episodes: Int, episodeDuration: 
 }
 
 fun DSLEntry.MusicConsumedProgress(lengthString: String) {
-    if(lengthString == "Unknown") {
+    if (lengthString == "Unknown") {
         // the implementor must set the length themselves
         // ValidatorSuppress("dah-entry-no-consumed", "dah-no-progress")
         return
     }
 
     val tokens = lengthString.split(':').map { it.toIntOrNull() }
-    if(null in tokens) {
+    if (null in tokens) {
         error("unsupported lengthString")
     }
 
     val nums = tokens.mapNotNull { it }.reversed()
     var length = Duration.ZERO
-    if(nums.size > 4) {
+    if (nums.size > 4) {
         error("unsupported lengthString")
     }
 
-    if(nums.isNotEmpty()) {
+    if (nums.isNotEmpty()) {
         length += nums[0].seconds
     }
-    if(nums.size >= 2) {
+    if (nums.size >= 2) {
         length += nums[1].minutes
     }
-    if(nums.size >= 3) {
+    if (nums.size >= 3) {
         length += nums[2].hours
     }
-    if(nums.size >= 4) {
+    if (nums.size >= 4) {
         length += nums[3].days
     }
 

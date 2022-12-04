@@ -31,7 +31,8 @@ sealed class SubscoreImpl(override val weight: Double = 1.0) : Subscore {
     abstract override val factors: List<FactorScore>
 }
 
-sealed class OneFactorSubscore(override val vectorIndex: Int, override val weight: Double = 1.0) : FactorScore,
+sealed class OneFactorSubscore(override val vectorIndex: Int, override val weight: Double = 1.0) :
+    FactorScore,
     Subscore {
     override val name: String get() = super<Subscore>.name
     override val factors: List<FactorScore> get() = listOf(this)

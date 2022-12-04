@@ -8,11 +8,13 @@ import com.dah.nrs.dsl.Entry
 
 class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
     init {
-        dependencies.addAll(listOf(
-            DAH_factors::class.simpleName!!,
-            DAH_overall_score::class.simpleName!!,
-            DAH_standards::class.simpleName!!
-        ))
+        dependencies.addAll(
+            listOf(
+                DAH_factors::class.simpleName!!,
+                DAH_overall_score::class.simpleName!!,
+                DAH_standards::class.simpleName!!
+            )
+        )
     }
 
     val baseAnimeScores = let {

@@ -2,7 +2,6 @@ package com.dah.nrs.core
 
 import com.dah.nrs.exts.*
 import kotlin.reflect.KMutableProperty1
-import kotlin.reflect.KProperty
 import kotlin.reflect.full.memberProperties
 
 @Suppress("PropertyName")
@@ -67,7 +66,7 @@ class NRSContextBuilder {
     }
 
     private fun checkExtensions(vararg exts: Extension?) {
-        for(ext in exts) {
+        for (ext in exts) {
             ext?.dependencies?.forEach { require(isEnabled(it)) { "dependency $it of $ext is not enabled" } }
         }
     }

@@ -13,8 +13,8 @@ import kotlin.math.abs
 import kotlin.math.pow
 import kotlin.math.withSign
 import kotlin.time.Duration
-import kotlin.time.Duration.Companion.minutes
 import kotlin.time.Duration.Companion.hours
+import kotlin.time.Duration.Companion.minutes
 import kotlin.time.DurationUnit
 
 class DAH_standards(builder: NRSContextBuilder) : Extension(builder) {
@@ -43,7 +43,7 @@ val Boredom.Watching
     get() = BoredomLevel(4, "Watching", EntryStatus.Watching)
 val Boredom.TempOnHold
     get() = BoredomLevel(5, "Temporarily On-Hold", EntryStatus.OnHold)
-//fun Boredom.PartiallyDropped(value: Double) = BoredomLevel(6, "Partially dropped")
+// fun Boredom.PartiallyDropped(value: Double) = BoredomLevel(6, "Partially dropped")
 
 fun AcceptImpact.Impact(block: DSLImpact.() -> Unit) {
     acceptImpact(DSLImpact(context).also(block))
@@ -73,9 +73,12 @@ private fun emotionVector(context: NRSContext, vararg emotions: Pair<Emotion.Fac
 
 private fun DSLImpact.emotion(baseScore: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
     score = emotionVector(context, *emotions) * baseScore
-    meta("emotions", buildJsonObject {
-        emotions.forEach { (factor, weight) -> put(factor.name, weight) }
-    })
+    meta(
+        "emotions",
+        buildJsonObject {
+            emotions.forEach { (factor, weight) -> put(factor.name, weight) }
+        }
+    )
 }
 
 fun AcceptImpact.Cry(vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
@@ -162,14 +165,17 @@ fun AcceptImpact.Waifu(name: String, vararg periods: Pair<String, String>, block
     }
 
     WaifuUnknownPeriod(name, days.toInt()) {
-        meta("periods", buildJsonArray {
-            periods.forEach {
-                addJsonObject {
-                    put("from", it.first)
-                    put("to", it.second)
+        meta(
+            "periods",
+            buildJsonArray {
+                periods.forEach {
+                    addJsonObject {
+                        put("from", it.first)
+                        put("to", it.second)
+                    }
                 }
             }
-        })
+        )
         block()
     }
 }
@@ -205,9 +211,12 @@ fun AcceptImpact.EPI(plotScore: Double, block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "EPI"
         score = vector {
-            set(Emotion.AP, mapClampThrow(plotScore, 0.0..1.0, 3.5..4.5) {
-                "$score not in range 0..10"
-            })
+            set(
+                Emotion.AP,
+                mapClampThrow(plotScore, 0.0..1.0, 3.5..4.5) {
+                    "$score not in range 0..10"
+                }
+            )
         }
         meta("type", "epi")
         meta("input_score", plotScore)
@@ -363,9 +372,12 @@ fun AcceptImpact.Music(musicScore: Double, block: DSLImpact.() -> Unit = {}) {
     Impact {
         description = "Music"
         score = vector {
-            set(Art.Music, mapClampThrow(musicScore, 0.0..1.0, 0.0..3.0) {
-                "$musicScore not in range 0..1"
-            })
+            set(
+                Art.Music,
+                mapClampThrow(musicScore, 0.0..1.0, 0.0..3.0) {
+                    "$musicScore not in range 0..1"
+                }
+            )
         }
         meta("type", "DAH_nonstandard_music")
         meta("input_score", musicScore)
@@ -410,7 +422,6 @@ private fun calcVisualScore(b: Double, u: Double): Double {
 
     return b * (2 + u) / 3
 }
-
 
 enum class VisualKind(val baseScore: Double) {
     // A-MAL-38009: https://animixplay.to/v1/restage-dream-days
@@ -512,21 +523,23 @@ fun AcceptRelation.FeatureMusic(id: String, block: DSLRelation.() -> Unit = {}) 
 
 fun AcceptRelation.KilledBy(id: String, potential: Double, effect: Double, block: DSLRelation.() -> Unit = {}) {
     Relation {
-        references[id] = (vector {
-            set(Emotion.AP, 0.2)
-            set(Emotion.AU, 0.1)
-            set(Emotion.CP, 0.05)
-            set(Emotion.CU, 0.05)
-            set(Emotion.MP, 0.2)
-            set(Emotion.MU, 0.1)
+        references[id] = (
+            vector {
+                set(Emotion.AP, 0.2)
+                set(Emotion.AU, 0.1)
+                set(Emotion.CP, 0.05)
+                set(Emotion.CU, 0.05)
+                set(Emotion.MP, 0.2)
+                set(Emotion.MU, 0.1)
 
-            set(Art.Visual, 0.0)
-            set(Art.Language, 0.1)
-            set(Art.Music, 0.1)
+                set(Art.Visual, 0.0)
+                set(Art.Language, 0.1)
+                set(Art.Music, 0.1)
 
-            set(Boredom, 0.1)
-            set(Additional, 0.0)
-        } * potential * effect * 2.0).toDiagonalMatrix()
+                set(Boredom, 0.1)
+                set(Additional, 0.0)
+            } * potential * effect * 2.0
+            ).toDiagonalMatrix()
         block()
     }
 }

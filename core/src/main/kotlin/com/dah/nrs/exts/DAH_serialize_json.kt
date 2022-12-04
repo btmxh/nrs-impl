@@ -105,19 +105,22 @@ fun NRSContext.DAH_json_serialize(result: EntryResult): JsonObject {
         put("totalRelation", DAH_serialize_json.json.encodeToJsonElement(result.totalRelation))
         put("overallVector", DAH_serialize_json.json.encodeToJsonElement(result.overallVector))
 
-        put("DAH_meta", buildJsonObject {
-            DAH_overall_score.ifEnabled {
-                put("DAH_overall_score", result.DAH_overall_score_overallScore)
-            }
+        put(
+            "DAH_meta",
+            buildJsonObject {
+                DAH_overall_score.ifEnabled {
+                    put("DAH_overall_score", result.DAH_overall_score_overallScore)
+                }
 
-            DAH_anime_normalize.ifEnabled {
-                put(
-                    "DAH_anime_normalize",
-                    buildJsonObject {
-                        put("score", result.DAH_anime_normalize_score!!)
-                    }
-                )
+                DAH_anime_normalize.ifEnabled {
+                    put(
+                        "DAH_anime_normalize",
+                        buildJsonObject {
+                            put("score", result.DAH_anime_normalize_score!!)
+                        }
+                    )
+                }
             }
-        })
+        )
     }
 }

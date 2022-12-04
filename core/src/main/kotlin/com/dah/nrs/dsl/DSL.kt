@@ -112,15 +112,15 @@ class DSLScope(override val context: NRSContext) : AcceptIRE {
     override val root: DSLScope get() = this
 
     override fun acceptImpact(impact: DSLImpact) {
-        (if(impact.completed) impacts else pendingImpacts).add(impact)
+        (if (impact.completed) impacts else pendingImpacts).add(impact)
     }
 
     override fun acceptRelation(relation: DSLRelation) {
-        (if(relation.completed) relations else pendingRelations).add(relation)
+        (if (relation.completed) relations else pendingRelations).add(relation)
     }
 
     override fun acceptEntry(entry: DSLEntry) {
-        if(entry.completed) {
+        if (entry.completed) {
             entries[entry.id] = entry
         } else {
             pendingEntries.add(entry)
@@ -128,28 +128,28 @@ class DSLScope(override val context: NRSContext) : AcceptIRE {
     }
 
     fun preprocess(): Boolean {
-        if(!runPreprocessor()) {
+        if (!runPreprocessor()) {
             return false
         }
         var failed = false
-        for(pendingImpact in pendingImpacts) {
-            if(!pendingImpact.completed) {
+        for (pendingImpact in pendingImpacts) {
+            if (!pendingImpact.completed) {
                 failed = true
                 System.err.println("Uncompleted impact: ${pendingImpact.stackTrace.joinToString("\n")}")
             }
             impacts.add(pendingImpact)
         }
 
-        for(pendingRelation in pendingRelations) {
-            if(!pendingRelation.completed) {
+        for (pendingRelation in pendingRelations) {
+            if (!pendingRelation.completed) {
                 failed = true
                 System.err.println("Uncompleted relation: ${pendingRelation.stackTrace.joinToString("\n")}")
             }
             relations.add(pendingRelation)
         }
 
-        for(pendingEntry in pendingEntries) {
-            if(!pendingEntry.completed) {
+        for (pendingEntry in pendingEntries) {
+            if (!pendingEntry.completed) {
                 failed = true
                 System.err.println("Uncompleted entry: ${pendingEntry.title}")
             }
@@ -239,15 +239,15 @@ fun generate(block: DSLScope.() -> Unit) {
         println("Impact #$relationIdx stacktrace: ${scope.relations[relationIdx].stackTrace}")
     }
 
-    if(!scope.preprocess()) {
+    if (!scope.preprocess()) {
         error("Preprocessing errors")
     }
     val result = ctx.process(scope.getData())
     val json = ctx.DAH_serialize_json!!.json
     val outputDir = Path("output")
-    if(!outputDir.exists()) {
+    if (!outputDir.exists()) {
         outputDir.createDirectory()
-    } else if(!outputDir.isDirectory()) {
+    } else if (!outputDir.isDirectory()) {
         throw FileAlreadyExistsException(outputDir.toFile())
     }
     json.output("impacts.json", scope.impacts.map { ctx.DAH_json_serialize(it) })
@@ -277,7 +277,6 @@ class IntMetaProperty(path: List<String>) : MetaProperty<Int>(path) {
     override fun toJSON(value: Int?): JsonElement {
         return JsonPrimitive(value)
     }
-
 }
 
 abstract class MetaProperty<T : Any>(private val path: List<String>) {

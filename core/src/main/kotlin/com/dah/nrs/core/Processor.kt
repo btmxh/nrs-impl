@@ -122,8 +122,10 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
             return null
         }
 
-        return ScoreVector(context.combineVector.toDoubleArray().map {
-            weight.pow(it)
-        }.toDoubleArray())
+        return ScoreVector(
+            context.combineVector.toDoubleArray().map {
+                weight.pow(it)
+            }.toDoubleArray()
+        )
     }
 }

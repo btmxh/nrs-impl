@@ -117,7 +117,7 @@ private fun Collection<Double>.toScoreVector() = ScoreVector(toDoubleArray())
 private fun Array<Double>.toScoreVector() = ScoreVector(toDoubleArray())
 private fun DoubleArray.toScoreVector() = ScoreVector(this)
 
-//fun DoubleArray.toScoreMatrix(): ScoreMatrix = DefaultScoreMatrix(window)
+// fun DoubleArray.toScoreMatrix(): ScoreMatrix = DefaultScoreMatrix(window)
 
 fun combine(arr: Collection<Double>, weight: Double): Double {
     val pos = arr.filter { it > 0 }

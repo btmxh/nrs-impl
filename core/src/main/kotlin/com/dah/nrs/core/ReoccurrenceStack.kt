@@ -26,5 +26,4 @@ class ReoccurrenceStack<T : Any>(private val maxOccurrences: Int = 8) {
     private fun error(): Nothing {
         throw RuntimeException("push/pop not match")
     }
-
 }
