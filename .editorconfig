@@ -13,3 +13,4 @@ indent_style = space
 charset = utf-8
 indent_size = 4
 indent_style = space
+disabled_rules = no-wildcard-imports

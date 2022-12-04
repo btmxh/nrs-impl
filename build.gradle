@@ -1,6 +1,7 @@
 plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.6.10'
     id 'org.jetbrains.kotlin.plugin.serialization' version '1.6.10'
+    id 'org.jlleitschuh.gradle.ktlint' version '11.0.0'
 }
 
 group 'com.dah'
@@ -8,6 +9,25 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
+}
+
+subprojects {
+    apply plugin: "org.jlleitschuh.gradle.ktlint" // Version should be inherited from parent
+
+    repositories {
+        // Required to download KtLint
+        mavenCentral()
+    }
+
+    ktlint {
+        outputToConsole = true
+        outputColorName = "RED"
+        reporters {
+            reporter "plain"
+            reporter "checkstyle"
+            reporter "sarif"
+        }
+    }
 }
 
 task fillAnimeMetadata(type: Exec) {
