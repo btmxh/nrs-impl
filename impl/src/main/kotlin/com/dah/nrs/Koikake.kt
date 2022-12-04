@@ -56,6 +56,9 @@ fun DSLScope.Koikake() {
                 // chorus sucks but
                 // the inst is atm-farm-pilled af
                 // unironically can be meta soon :eyes:
+
+                // gyze i found the mv for this song :skull:
+                // https://www.youtube.com/watch?v=e_IIORCnBxI
                 Music(0.35)
             }
 
