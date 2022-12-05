@@ -15,6 +15,7 @@ fun DSLScope.CommonArtists() {
         Contains("M-20220130T183728-4", 1.0 / 3)
         Contains("M-20220117T170733-1", 0.5)
         Contains("M-20220125T063355-6", 0.5)
+        Contains("M-20221202T205118", MusicInstContainFactor)
     }
 
     Entry {
@@ -874,6 +875,8 @@ fun DSLScope.CommonArtists() {
         Contains("M-VGMDB-AL-86622-2", 0.05)
 
         Contains("M-VGMDB-AL-58596-25", MusicVocalContainFactor)
+        Contains("M-20221202T202405", MusicVocalContainFactor)
+        Contains("M-20221202T205325", MusicVocalContainFactor)
     }
 
     Entry {
