@@ -872,6 +872,8 @@ fun DSLScope.CommonArtists() {
 
         // backing vocal for akogare future sign (piano arrange ver.)
         Contains("M-VGMDB-AL-86622-2", 0.05)
+
+        Contains("M-VGMDB-AL-58596-25", MusicVocalContainFactor)
     }
 
     Entry {
