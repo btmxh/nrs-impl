@@ -116,7 +116,7 @@ fun DSLScope.WakeUpGirls() {
             idMAL = 30419 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Mayu Shimada" // generated(generate_best_girls.dart v0.1.0)
-            
+
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)

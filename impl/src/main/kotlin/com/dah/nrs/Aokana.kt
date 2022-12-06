@@ -46,7 +46,7 @@ fun DSLScope.Aokana() {
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
             Remix("M-20221202T205008")
         }
-        
+
         Entry {
             id = "M-VGMDB-AL-55828"
             title = "Contrail ~Kiseki~ / Mami Kawada" // generated(fill_music_metadata.dart v0.1.1)

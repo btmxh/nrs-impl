@@ -7,7 +7,7 @@ import kotlin.time.Duration.Companion.minutes
 import kotlin.time.Duration.Companion.seconds
 
 fun DSLScope.Koikake() {
-    // Winter is when love comes    
+    // Winter is when love comes
     Entry {
         id = "F-20221128T123502"
         title = "Koi x Shin Ai Kanojo"
@@ -50,7 +50,7 @@ fun DSLScope.Koikake() {
         Entry {
             id = "M-VGMDB-AL-58596"
             title = "KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks" // generated(fill_music_metadata.dart v0.1.1)
-            
+
             Visual(VisualKind.AlbumArt, 1.0, 0.3)
 
             SubIDEntry("2") {

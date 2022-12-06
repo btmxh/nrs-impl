@@ -689,14 +689,14 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-124217"
             title = "Hoshitachi no Orchestra Parade / Mashumairesh!!" // generated(fill_music_metadata.dart v0.1.1)
-            
+
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             SubIDEntry("1") {
                 MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Hoshitachi no Orchestra Parade" // generated(fill_music_metadata.dart v0.1.1)
                 FesALiveMusic(0.7)
-                // cleaning koikake :tf: 
+                // cleaning koikake :tf:
                 // AEI(0.3, Emotion.MP)
             }
         }
@@ -709,7 +709,7 @@ fun DSLScope.SB69() {
         Entry {
             id = "M-VGMDB-AL-124215"
             title = "Koishichatta! / Criticrista" // generated(fill_music_metadata.dart v0.1.1)
-            
+
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
             SubIDEntry("1") {
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
