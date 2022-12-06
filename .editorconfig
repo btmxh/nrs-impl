@@ -13,3 +13,6 @@ indent_style = space
 [*.kt]
 indent_size = 4
 indent_style = space
+
+[*.md]
+trim_trailing_whitespace = false
