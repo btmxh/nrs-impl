@@ -43,7 +43,7 @@ fun DSLScope.Koikake() {
             // eroge love ig
             AEI(0.5, Emotion.MP)
 
-            Meme(0.6, numDays("2022-11-25"))
+            NeoErogeEra(0.7)
             FeatureMusic("M-VGMDB-AL-58596")
         }
 
@@ -86,4 +86,8 @@ fun DSLScope.Koikake() {
             contributors["V-VNDB-17516"] = 0.9
         }
     }
+}
+
+fun AcceptImpact.NeoErogeEra(strength: Double) {
+    Meme(strength, numDays("2022-11-25"))
 }

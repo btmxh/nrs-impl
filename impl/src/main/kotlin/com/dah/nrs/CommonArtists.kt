@@ -877,6 +877,8 @@ fun DSLScope.CommonArtists() {
         Contains("M-VGMDB-AL-58596-25", MusicVocalContainFactor)
         Contains("M-20221202T202405", MusicVocalContainFactor)
         Contains("M-20221202T205325", MusicVocalContainFactor)
+
+        NeoErogeEra(0.05)
     }
 
     Entry {
