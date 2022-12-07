@@ -2,15 +2,73 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
+import kotlin.properties.ReadWriteProperty
+import kotlin.reflect.KProperty
 
 // gee-zay honesty
 // where is the glorious rst
 
 // watch rst and buy the bluray
-private val AllRstTracks = mutableListOf<String>()
-private fun DSLEntry.ReStepMusic(score: Double) {
+private val AllRstTracks = hashMapOf<String, ReStageMusicContext>()
+private fun DSLEntry.ReStepMusic(score: Double, block: ReStageMusicContext.() -> Unit = {}) {
     Music(score)
-    AllRstTracks.add(id)
+    val ctx = ReStageMusicContext()
+    block(ctx)
+    AllRstTracks[id] = ctx
+}
+
+private class ReStageMusicContext {
+    // multiplier for song meme contribution factors
+    val multipliers = mutableListOf<Double>().apply { repeat(8) { add(1.0) } }
+    var arc1 by multiplier(0) // idol renaissance arc
+    var arc2 by multiplier(1) // rst-sb69 duopoly arc
+    var arc3 by multiplier(2) // idol dystopia arc
+    var akm by multiplier(3, 4, 5) // akm arc
+    var akm1 by multiplier(3)
+    var akm2 by multiplier(4)
+    var akm3 by multiplier(5)
+    var pme by multiplier(6) // post-modern (pre-neo-eroge)
+    var nee by multiplier(7) // neo-eroge era
+
+    enum class CultureEra {
+        Arc1,
+        Arc2,
+        Arc3,
+        AKM1,
+        AKM2,
+        AKM3,
+        PME,
+        NEE
+    }
+
+    fun from(era: CultureEra) {
+        val index = era.ordinal
+        multipliers.subList(0, index).fill(0.0)
+    }
+
+    companion object {
+        private fun multiplier(vararg index: Int): ReadWriteProperty<ReStageMusicContext, Double> {
+            return object : ReadWriteProperty<ReStageMusicContext, Double> {
+                override fun getValue(thisRef: ReStageMusicContext, property: KProperty<*>): Double {
+                    return thisRef.multipliers[index.first()]
+                }
+
+                override fun setValue(thisRef: ReStageMusicContext, property: KProperty<*>, value: Double) {
+                    index.forEach { thisRef.multipliers[it] = value }
+                }
+            }
+        }
+    }
+}
+
+private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.CultureEra) {
+    val sum = AllRstTracks.values.sumOf { it.multipliers[era.ordinal] }
+    for ((id, value) in AllRstTracks) {
+        val factor = value.multipliers[era.ordinal] / sum * total
+        if (factor > 0) {
+            contributors[id] = factor
+        }
+    }
 }
 
 // only 0.15 NRS score from Love Live Niji
@@ -34,70 +92,6 @@ fun DSLScope.ReStage() {
     // But,
     // Like a book that was closed opened up
     // rst has changed da world.
-
-    // idol renaissance arc
-    Meme(1.0, numDays("2021-11-20", "2022-01-10")) {
-        contributors["A-MAL-38009"] = 0.75
-        contributors["GF-VGMDB-7059"] = 0.05
-        contributors["F-VGMDB-7059"] = 0.2
-    }
-
-    RSTSB69DuopolyEra(0.6) {
-        contributors["A-MAL-38009"] = 0.5
-        contributors["GF-VGMDB-7059"] = 0.05
-        // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
-        contributors["M-VGMDB-AR-29249"] = 0.15
-        // the remaining amount of contribution is because of rst songs,
-        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
-        // it'd be unfair advantage for rst (on second thought it is still somewhat
-        // fair tho)
-        contributors["F-VGMDB-7059"] = 0.3
-    }
-
-    // idol dystopia arc
-    IdolDystopia(0.9) {
-        contributors["A-MAL-38009"] = 0.6 // this got rewatched
-        contributors["GF-VGMDB-7059"] = 0.1
-        contributors["M-VGMDB-AR-29249"] = 0.1
-        // the remaining amount of contribution is because of rst songs,
-        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
-        // it'd be unfair advantage for rst (on second thought it is still somewhat
-        // fair tho)
-        contributors["F-VGMDB-7059"] = 0.2
-    }
-
-    AKMEraPart1(0.8) {
-        contributors["A-MAL-38009"] = 0.25
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.2
-        // the remaining amount of contribution is because of rst songs,
-        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
-        // it'd be unfair advantage for rst (on second thought it is still somewhat
-        // fair tho)
-        contributors["F-VGMDB-7059"] = 0.4
-    }
-
-    AKMEraPart2(0.2) {
-        contributors["A-MAL-38009"] = 0.25
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.2
-        // the remaining amount of contribution is because of rst songs,
-        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
-        // it'd be unfair advantage for rst (on second thought it is still somewhat
-        // fair tho)
-        contributors["F-VGMDB-7059"] = 0.4
-    }
-
-    AKMEraPart3(0.8) {
-        contributors["A-MAL-38009"] = 0.25
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.2
-        // the remaining amount of contribution is because of rst songs,
-        // if we do contributors["song 1"] = ..., contributors["song 2" = ..., etc.
-        // it'd be unfair advantage for rst (on second thought it is still somewhat
-        // fair tho)
-        contributors["F-VGMDB-7059"] = 0.4
-    }
 
     // overture: shelter incident
     AEI(0.5, Emotion.CP) {
@@ -999,7 +993,7 @@ fun DSLScope.ReStage() {
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
 
-            AllRstTracks.forEach { FeatureMusic(it) }
+            AllRstTracks.keys.forEach { FeatureMusic(it) }
         }
 
         KilledBy("F-VGMDB-4499", potential = 0.4, effect = 0.9) {
@@ -1066,6 +1060,50 @@ fun DSLScope.ReStage() {
         // the ultimate mapping project, aka the 367000pp project
         // https://osu.ppy.sh/beatmapsets/1716294#osu/3506938
         MusicConsumedProgress("01:09:00")
+    }
+
+    // idol renaissance arc
+    Meme(1.0, numDays("2021-11-20", "2022-01-10")) {
+        contributors["A-MAL-38009"] = 0.75
+        contributors["GF-VGMDB-7059"] = 0.05
+        TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1)
+    }
+
+    RSTSB69DuopolyEra(0.6) {
+        contributors["A-MAL-38009"] = 0.5
+        contributors["GF-VGMDB-7059"] = 0.05
+        // her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw
+        contributors["M-VGMDB-AR-29249"] = 0.15
+        TrackMemeImpact(0.3, ReStageMusicContext.CultureEra.Arc2)
+    }
+
+    // idol dystopia arc
+    IdolDystopia(0.9) {
+        contributors["A-MAL-38009"] = 0.6 // this got rewatched
+        contributors["GF-VGMDB-7059"] = 0.1
+        contributors["M-VGMDB-AR-29249"] = 0.1
+        TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc3)
+    }
+
+    AKMEraPart1(0.8) {
+        contributors["A-MAL-38009"] = 0.25
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.2
+        TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM1)
+    }
+
+    AKMEraPart2(0.2) {
+        contributors["A-MAL-38009"] = 0.25
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.2
+        TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM2)
+    }
+
+    AKMEraPart3(0.8) {
+        contributors["A-MAL-38009"] = 0.25
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.2
+        TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3)
     }
 }
 
