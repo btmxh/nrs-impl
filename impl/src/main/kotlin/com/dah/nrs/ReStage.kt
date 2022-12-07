@@ -1017,6 +1017,8 @@ fun DSLScope.ReStage() {
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
         }
+
+        NeoErogeEra(0.1)
     }
 
     // the "watch rst" anime
