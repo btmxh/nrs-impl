@@ -491,7 +491,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("5") {
                 title = "Invisible Diamond" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:53") // generated(fill_music_metadata.dart v0.1.1)
-                Music(0.65)
+                ReStepMusic(0.65)
                 OsuSong(personal = 0.25, community = 0.0)
             }
         }
@@ -598,59 +598,59 @@ fun DSLScope.ReStage() {
             title = "ortensia"
 
             // # The ortensia incident
-            // 
+            //
             // **The ortensia incident** is an event that happened on November 1st, 2019. [Yumiri Hanamori](https://en.wikipedia.org/wiki/Yumiri_Hanamori), the voice actress for the rst girl Haruka Itsumura, was announced to be *graduating* from rst due to a knee injury. This incident happened right after the rst anime was finished. This has led to multiple *conspiracy theorists* and *rst lore enjoyers* raising their concerns with the future of the franchise.
-            // 
+            //
             // This piece of rst lore spreaded like wildfire and as a result, it became one of the best memes of rst, with rst copyright-claiming both of the words "accident" and "incident". As a result, whenever something bad happen, it's an rst reference, like the airship incident in [Atelier Escha & Logy: Alchemists of the Dusk Sky](https://en.wikipedia.org/wiki/Atelier_Escha_%26_Logy:_Alchemists_of_the_Dusk_Sky), or that time [Akari Kitō](https://en.wikipedia.org/wiki/Akari_Kit%C5%8D) was unable to show up at the Love Live Niji's 5th live.
-            // 
+            //
             // ## Background
-            // 
+            //
             // In Summer 2019, [Re:Stage! Dream Days♪](https://en.wikipedia.org/wiki/Re:Stage!#Anime), one of the anime of all time, was aired. It was pretty underrated, since people are llfags who are unable to comprehend the superiority of the glorious franchise. After the end of the anime, several albums were released in October and November (after the incident), before the franchise goes on hiatus for a year.
-            // 
+            //
             // Yumiri Hanamori is one of the eighteen main voice actresses for rst. She has a pretty major role in the anime, and was paired with [Ari Ozawa](https://en.wikipedia.org/wiki/Ari_Ozawa) in the unit [ortensia](https://projectrst.fandom.com/wiki/Ortensia). The unit name is where the incident gets its name from.
-            // 
+            //
             // ## The incident
-            // 
+            //
             // On November 1, 2019, a notice regarding the *graduation* of Yumiri Hanamori in rst's homepage. It referenced a more detailed notice from her affiliation, which also contains her feelings with the incident. Although Yumiri Hanamori would still take part in rst 3rd live on November 17th, it would be her last time standing on the stage with the role of Haruka Itsumura's voice actress. It was also briefly mentioned that the cast of Haruka Itsumura would be announced later.
-            // 
+            //
             // The reason for Hanamori's graduation was announced to be due to a knee injury, or to be exact, *patellar subluxation and meniscal tear*. She was advised not to take part in any performances that could put strain on her knees.
-            // 
+            //
             // On December 10, 2019, the replacement for Hanamori's role was announced. Tomomi Mineuchi, who is known for her voice in [Slow Start](https://myanimelist.net/anime/35540/Slow_Start), and [Summer Pockets](https://en.wikipedia.org/wiki/Summer_Pockets), would be the cast for Haruka Itsumura.
-            // 
+            //
             // ## Conspiracy theories
-            // 
+            //
             // Although Hanamori's thoughts were included in the m&i's graduation notice, people were still skeptical.
-            // 
+            //
             // ### Potentially true reason #1: The anime flopped
-            // 
+            //
             // rst was Pony Canyon's first step into the anime idol industry. They did gave rst a lot of help, including anime BGM from [Shingeki no Kyojin](https://en.wikipedia.org/wiki/Attack_on_Titan)'s composer, Kohta Yamamoto, as well as a wide range of famous VOCALOID producers, like [keeno](https://vocaloid.fandom.com/wiki/keeno), DECO*27, yuyoyuppe, etc. This clearly had shown the vision that Pony Canyon once had with the franchise.
-            // 
+            //
             // But after the anime finished airing, rst enjoyers had to wait more than one year to get their new album, which was now in a brand new form: *Concept Album*. The next year, they got a compilation album, which only included a new song titled *Watashitachi, Shiki o Asobun Desu!!*, and some new versions of ortensia songs (because the cast has changed). This made people skeptical of the fact that Pony Canyon had dropped their plans with rst, and realized that the anime had flopped.
-            // 
+            //
             // Knowing about Pony Canyon's vision, Yumiri Hanamori might sensed that rst was not going to make it, and decided to leave, since she couldn't change anything if this happen.
-            // 
+            //
             // ### Potential true reason #2: ChuChu analogy
-            // 
+            //
             // The ChuChu analogy is an explanation for several voice actresses actions and their motives under the hood. It was based on the character ChuChu from the anime [Show by Rock!!](https://en.wikipedia.org/wiki/Show_by_Rock!!), a girl with great ambition, who would consider her current band merely a stepping stone to reach her dreams.
-            // 
+            //
             // The analogy stated that in rst, there are several voice actresses with a similar mindset. They don't care about the franchise, and just wanted to fill a slot in their portfolios. If this was the case for Totomi Mineuchi, after realizing that the anime was going to be unpopular till the end of time, quiting and spending her time for better roles should clearly be the superior choice.
-            // 
+            //
             // ### Potential true reason #3: Displeasure
-            // 
+            //
             // An anon from 4chan has stated that Hanamori leaving rst was partly due to her disinterest with the job in this franchise. This is somewhat widespread, but it doesn't have a good backing evidence.
-            // 
+            //
             // ### Potential true reason #4: Bullying
-            // 
+            //
             // Prior to the airing of rst anime, Yumiri had a major role in kaguyashit anime, which is Hayasaka Ai's voice actress. This may be the reason why she got bullied by her companions, which are loyal to the franchise and would never sell their souls to shit franchises.
-            // 
+            //
             // (This was just anti-kaguyashit propaganda.)
-            // 
+            //
             // ## Consequences
-            // 
+            //
             // Every major incident after rst were the consequences of the ortensia incident. Many people believed that this event has triggered some sort of universal shifts that had forever changed the world as we know it. Similarly to the Harambe's incident, a butterfly effect was believed to happen in early 2020. One of the most recognizable consequences of the event is the COVID-19 pandemic. This had led to the stagnation of multiple multimedia franchises, including rst itself.
-            // 
+            //
             // The event also was considered triggering point of multiple fictional events, such as Gin Minowa's death in the [Yuusha series](https://en.wikipedia.org/wiki/Yuki_Yuna_is_a_Hero) and the aforementioned airship incident.
-            // 
+            //
             // Literally anything that had gone wrong after 2020 can be traced back to the incident, and therefore, this event has shaped the world as we know it.
 
             // # The ortensia incident 2: electric boogaloo
@@ -934,17 +934,17 @@ fun DSLScope.ReStage() {
             SubIDEntry("6") {
                 MusicConsumedProgress("4:37") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Amaoto Fanfare" // generated(fill_music_metadata.dart v0.1.1)
-            // inb4 ortensia banger
-            // based ortensia is back with an absolute catjammer
-            // https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s
+                // inb4 ortensia banger
+                // based ortensia is back with an absolute catjammer
+                // https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s
 
-            // will be decided after full song release
-            // not in game rn
+                // will be decided after full song release
+                // not in game rn
 
-            // me waiting for ameko be like
-            // https://knowyourmeme.com/memes/pablo-escobar-waiting
+                // me waiting for ameko be like
+                // https://knowyourmeme.com/memes/pablo-escobar-waiting
 
-            ReStepMusic(0.5)
+                ReStepMusic(0.5)
             }
         }
 
@@ -956,7 +956,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Glass Wings" // generated(fill_music_metadata.dart v0.1.1)
-                Music(0.3)
+                ReStepMusic(0.3)
             }
         }
 
@@ -968,7 +968,7 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Artemis" // generated(fill_music_metadata.dart v0.1.1)
-                Music(0.25)
+                ReStepMusic(0.25)
             }
         }
 
