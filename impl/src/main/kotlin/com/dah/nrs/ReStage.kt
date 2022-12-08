@@ -419,7 +419,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-86622"
-            title =
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
@@ -443,7 +443,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-89363"
-            title =
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." // generated(fill_music_metadata.dart v0.1.1)
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." // generated(fill_music_metadata.dart v0.1.1)
 
             Contains("M-VGMDB-AL-78516-1")
@@ -514,7 +514,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-90208"
-            title =
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." // generated(fill_music_metadata.dart v0.1.1)
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("5") {
@@ -549,7 +549,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-89364"
-            title =
+            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." // generated(fill_music_metadata.dart v0.1.1)
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
@@ -875,7 +875,7 @@ fun DSLScope.ReStage() {
         // (except for the absolute banger clematis)
         Entry {
             id = "M-VGMDB-AL-120845"
-            title =
+            title = "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" // generated(fill_music_metadata.dart v0.1.1)
                 "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/5XDmDcHp
             // aka sussin city
@@ -894,7 +894,7 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-120844"
-            title =
+            title = "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" // generated(fill_music_metadata.dart v0.1.1)
                 "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/AM0HVHA5
             // aka mismatched melody
