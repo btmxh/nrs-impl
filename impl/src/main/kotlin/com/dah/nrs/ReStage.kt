@@ -256,8 +256,11 @@ fun DSLScope.ReStage() {
             SubIDEntry("2") {
                 title = "Startin' My Re:STAGE!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
-                // watayuki grimoi-reference (M6.0 unranked lmfao)
-                ReStepMusic(0.1)
+                ReStepMusic(0.1) {
+                    // watayuki grimoi-reference (M6.0 unranked lmfao)
+                    akm1 = 5.0
+                    akm2 = 5.0
+                }
             }
         }
 
@@ -270,17 +273,20 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "リメンバーズ!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.3)
-                // haha funny centuRe: reference
-                Meme(0.05, 6)
+                ReStepMusic(0.3) {
+                    // haha funny centuRe: reference
+                    arc2 = 20.0 // the century man
+                    arc3 = 10.0 // rst song comp
+                }
             }
 
             SubIDEntry("2") {
                 title = "君に贈るAngel Yell" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
                 // the angel yell incident
-                ReStepMusic(0.75)
-                Meme(0.2, 10)
+                ReStepMusic(0.75) {
+                    arc1 = 25.0
+                }
                 // "Amazing saikou no Brilliant (HEY!!)"
                 // wtf this song is nozsist i hate rst now
             }
@@ -309,9 +315,13 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "憧れFuture Sign" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.3)
+                ReStepMusic(0.3) {
+                    arc1 = 1.5
+                    nee = 2.5
+                }
 
                 // thank you based atelier, very cool
+                // thank you based yuiko, very cool
             }
 
             // track 2
@@ -328,7 +338,10 @@ fun DSLScope.ReStage() {
                 title = "Do it!! PARTY!!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:33") // generated(fill_music_metadata.dart v0.1.1)
                 // do it happy daibouken reference
-                ReStepMusic(0.5)
+                ReStepMusic(0.5) {
+                    arc1 = 10.0
+                    arc2 = 5.0
+                }
             }
 
             Contains("M-VGMDB-AL-78534-1")
@@ -347,7 +360,9 @@ fun DSLScope.ReStage() {
                 title = "宣誓センセーション" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:20") // generated(fill_music_metadata.dart v0.1.1)
                 // [plasmagunstepgica]
-                ReStepMusic(0.3)
+                ReStepMusic(0.3) {
+                    arc3 = 5.0
+                }
                 OsuSong(personal = 0.2)
             }
         }
@@ -371,7 +386,10 @@ fun DSLScope.ReStage() {
                 // [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu!
                 OsuSong(personal = 0.5)
 
-                ReStepMusic(0.5)
+                ReStepMusic(0.5) {
+                    arc1 = 15.0
+                    arc2 = 10.0
+                }
             }
         }
 
@@ -383,7 +401,9 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "ハッピータイフーン" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:34") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.08)
+                ReStepMusic(0.08) {
+                    arc1 = 2.5
+                }
             }
 
             SubIDEntry("2") {
@@ -391,31 +411,40 @@ fun DSLScope.ReStage() {
                 title = "ステレオライフ" // generated(fill_music_metadata.dart v0.1.1)
                 // yozora ni kagayaku yume no ryuusei wa
                 // kek
-                ReStepMusic(0.1)
+                ReStepMusic(0.1) {
+                    arc2 = 5.0
+                }
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-86622"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
+            title =
+                "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("1") {
                 MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Don't think, smile!!" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.25)
+                ReStepMusic(0.25) {
+                    arc1 = 7.5
+                }
             }
 
             SubIDEntry("2") {
                 MusicConsumedProgress("4:56") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Akogare Future Sign (Piano Strings Arrange)" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.2)
+                ReStepMusic(0.2) {
+                    arc1 = 10.0
+                    nee = 15.0
+                }
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-89363"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." // generated(fill_music_metadata.dart v0.1.1)
+            title =
+                "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." // generated(fill_music_metadata.dart v0.1.1)
 
             Contains("M-VGMDB-AL-78516-1")
             Contains("M-VGMDB-AL-78764-1")
@@ -428,7 +457,9 @@ fun DSLScope.ReStage() {
                 // mot nguoi diet het moi tuong lai uoc mo
                 // xinh dep bac nhat tren thai binh que to
                 // co gai hoan love luon khien cho ca truong chuyen don dau
-                ReStepMusic(0.45)
+                ReStepMusic(0.45) {
+                    arc1 = 25.0
+                }
             }
 
             SubIDEntry("2") {
@@ -474,18 +505,24 @@ fun DSLScope.ReStage() {
                 // demon slayer? more like got slayed by rst lmao xddddd
                 // love live? more like love die because you got cucked by rst xddddddd KEKW ING
                 // we will be on the top and people will have to smoke COPIUM just like me rn
-                ReStepMusic(0.8)
+                ReStepMusic(0.8) {
+                    arc1 = 25.0
+                    arc3 = 25.0
+                }
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-90208"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." // generated(fill_music_metadata.dart v0.1.1)
+            title =
+                "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             SubIDEntry("5") {
                 title = "Invisible Diamond" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:53") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.65)
+                ReStepMusic(0.65) {
+                    arc3 = 10.0
+                }
                 OsuSong(personal = 0.25, community = 0.0)
             }
         }
@@ -512,7 +549,8 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-89364"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." // generated(fill_music_metadata.dart v0.1.1)
+            title =
+                "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             Contains("M-VGMDB-AL-89363-1")
@@ -522,7 +560,9 @@ fun DSLScope.ReStage() {
             SubIDEntry("3") {
                 MusicConsumedProgress("4:08") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Yes, We Are!!!" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.35)
+                ReStepMusic(0.35) {
+                    arc1 = 20.0
+                }
             }
         }
 
@@ -541,7 +581,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("2") {
                 MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Dear マイフレンド" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.4)
+                ReStepMusic(0.4) {
+                    arc1 = 2.5
+                    arc3 = 2.5
+                }
             }
         }
 
@@ -564,7 +607,9 @@ fun DSLScope.ReStage() {
                 // >still makes a song for rst anyway, but other franchises get none
                 // >refuses to elaborate further
                 // >leaves
-                ReStepMusic(0.25)
+                ReStepMusic(0.25) {
+                    arc1 = 5.0
+                }
             }
         }
 
@@ -581,7 +626,9 @@ fun DSLScope.ReStage() {
             SubIDEntry("5") {
                 MusicConsumedProgress("3:45") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Ano ne" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.2)
+                ReStepMusic(0.2) {
+                    arc1 = 5.0
+                }
             }
         }
 
@@ -673,13 +720,17 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "InFiction" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:30") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.45)
+                ReStepMusic(0.45) {
+                    arc3 = 2.5
+                }
             }
 
             SubIDEntry("8") {
                 title = "DESERT BLACK FLOWER" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.75)
+                ReStepMusic(0.75) {
+                    arc3 = 10.0
+                }
             }
         }
 
@@ -713,7 +764,9 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "カナリア" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:16") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.6)
+                ReStepMusic(0.6) {
+                    arc1 = 5.0
+                }
             }
         }
 
@@ -737,7 +790,10 @@ fun DSLScope.ReStage() {
             // - sotarks map roasting
             // - btmc map requests
             // (both failed lmfao)
-            ReStepMusic(0.8)
+            ReStepMusic(0.8) {
+                arc1 = 10.0
+                arc2 = 2.5
+            }
 
             // hige driver composed and arranged this btw
             // (ye the dude who make dadadadadada)
@@ -761,13 +817,19 @@ fun DSLScope.ReStage() {
                 // la nguoi mang niem tin hi vong cho toi
                 // se mang lai biet bao su huy hoang
 
-                ReStepMusic(0.7)
+                ReStepMusic(0.7) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 10.0
+                }
             }
 
             SubIDEntry("2") {
                 title = "Re:Rays" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.5)
+                ReStepMusic(0.5) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 10.0
+                }
             }
 
             SubIDEntry("3") {
@@ -777,13 +839,19 @@ fun DSLScope.ReStage() {
                 // nguoi dan ong da khien ca truong,
                 // ca truong chuyen da luon lo so
 
-                ReStepMusic(0.7)
+                ReStepMusic(0.7) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 10.0
+                }
             }
 
             SubIDEntry("4") {
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Pins&Needles" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.45)
+                ReStepMusic(0.45) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 2.0
+                }
             }
 
             SubIDEntry("5") {
@@ -794,7 +862,10 @@ fun DSLScope.ReStage() {
                 // tai vi sao a qua ngau
                 // (the gian d ai sanh bang)
 
-                ReStepMusic(0.3)
+                ReStepMusic(0.3) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 1.5
+                }
             }
         }
 
@@ -804,7 +875,8 @@ fun DSLScope.ReStage() {
         // (except for the absolute banger clematis)
         Entry {
             id = "M-VGMDB-AL-120845"
-            title = "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" // generated(fill_music_metadata.dart v0.1.1)
+            title =
+                "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/5XDmDcHp
             // aka sussin city
 
@@ -813,13 +885,17 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "Sin City" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:52") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.35)
+                ReStepMusic(0.35) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 10.0
+                }
             }
         }
 
         Entry {
             id = "M-VGMDB-AL-120844"
-            title = "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" // generated(fill_music_metadata.dart v0.1.1)
+            title =
+                "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" // generated(fill_music_metadata.dart v0.1.1)
             // https://linkco.re/AM0HVHA5
             // aka mismatched melody
 
@@ -829,7 +905,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "Chiguhagu Melody" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:55") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.2)
+                ReStepMusic(0.2) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 3.0
+                }
             }
         }
 
@@ -848,7 +927,11 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "ユニゾンモノローグ" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:49") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.3)
+                ReStepMusic(0.3) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                    arc3 = 3.0
+                    nee = 3.0
+                }
             }
         }
 
@@ -861,7 +944,9 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "Ginga no Shizuku" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:49") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.15)
+                ReStepMusic(0.15) {
+                    from(ReStageMusicContext.CultureEra.Arc3)
+                }
             }
         }
 
@@ -882,7 +967,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "Clematis" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:30") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.65)
+                ReStepMusic(0.65) {
+                    from(ReStageMusicContext.CultureEra.AKM1)
+                    akm1 = 10.0
+                }
             }
         }
 
@@ -897,7 +985,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 title = "Ideal/Idol" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:07") // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.15)
+                ReStepMusic(0.15) {
+                    from(ReStageMusicContext.CultureEra.AKM2)
+                    akm2 = 3.0
+                }
             }
         }
 
@@ -938,7 +1029,10 @@ fun DSLScope.ReStage() {
                 // me waiting for ameko be like
                 // https://knowyourmeme.com/memes/pablo-escobar-waiting
 
-                ReStepMusic(0.5)
+                ReStepMusic(0.5) {
+                    from(ReStageMusicContext.CultureEra.AKM3)
+                    akm3 = 5.0
+                }
             }
         }
 
@@ -950,7 +1044,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Glass Wings" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.3)
+                ReStepMusic(0.3) {
+                    from(ReStageMusicContext.CultureEra.NEE)
+                    nee = 3.0
+                }
             }
         }
 
@@ -962,7 +1059,10 @@ fun DSLScope.ReStage() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:39") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Artemis" // generated(fill_music_metadata.dart v0.1.1)
-                ReStepMusic(0.25)
+                ReStepMusic(0.25) {
+                    from(ReStageMusicContext.CultureEra.NEE)
+                    nee = 3.0
+                }
             }
         }
 
