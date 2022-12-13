@@ -479,6 +479,26 @@ fun DSLScope.SB69() {
 
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
+            SubIDEntry("3") {
+                MusicConsumedProgress("4:22") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Runner's High!!" // generated(fill_music_metadata.dart v0.1.1)
+                FesALiveMusic(0.5)
+                // Và bước đi, và bước đi
+                // Con đường đầy máu, bao chông gai, đớn buồn
+                // Có sao! Em chịu đau đớn băng qua nơi này
+                // Về nơi biển xanh, về chân trời cao, hàng ngàn vì sao soi sáng con đường
+
+                // hippity hoppity, this is now koikake property
+                // truly the cultural era of all time
+
+                // "run with all our might"
+                NEI(0.8, Emotion.CP) {
+                    contributors["M-VGMDB-AL-104267-3"] = 0.2
+                    contributors["O-20221003T175501-2"] = 0.2
+                    contributors["V-VNDB-17516"] = 0.6
+                }
+            }
+
             SubIDEntry("5") {
                 title = "EMPIRE DOMINATOR" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
