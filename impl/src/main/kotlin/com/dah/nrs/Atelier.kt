@@ -56,9 +56,10 @@ fun DSLScope.Atelier() {
         // truly one of the NAP mascots of all time (wtf i hate sk now)
         // "sen"aka osu!kaze
         // mc fanart >>>>>> le cat, ayumu, yuriyuna fanart
+        // but <<<<<<<<<<<<<<< ortensia dark lore 1.0 visual waifu
         // me when mc is literally going to live longer than le cat
         // the post-modern culture meta lmfaooooooooooooo
-        Waifu("Malier Escha", "2022-08-31" to today()) {
+        Waifu("Malier Escha", "2022-08-31" to "2022-11-25") {
             contributors["A-MAL-21167"] = 0.2
             contributors["G-VGMDB-1880"] = 0.8
         }
