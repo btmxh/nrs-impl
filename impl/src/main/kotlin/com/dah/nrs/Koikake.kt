@@ -7,6 +7,11 @@ import kotlin.time.Duration.Companion.minutes
 import kotlin.time.Duration.Companion.seconds
 
 fun DSLScope.Koikake() {
+    // THE ORTENSIA INCIDENT <<<<<<<<<<<<<<<<<< KOIKAKE DARK LORE
+    // HOLY FUCK THIS IS AN ABSOLUTE BANGER
+    // I LOVE THIS EROGE SO FUCKING MUCH
+    // THE GREATEST EROGE OF ALL TIME
+
     // Winter is when love comes
     Entry {
         id = "F-20221128T123502"
@@ -15,47 +20,67 @@ fun DSLScope.Koikake() {
         Entry {
             id = "V-VNDB-17516"
             title = "Koi x Shin Ai Kanojo"
-            // unironically better than all drama romance anime lmfao
-            // we do be living in a society tho
+            // unironically better than all drama romance anime lmfao :clueless:
+            // we do be living in a society tho :clueless:
 
-            // "the cutest girl in all anime history"
-            // like what the actual fuck you can't be this cute wtf
-            // THISSHOULDNOTBEPOSSIBLE
+            // "the cutest girl in all anime history" :clueless:
+            // like what the actual fuck you can't be this cute wtf :clueless:
+            // THISSHOULDNOTBEPOSSIBLE :clueless:
             bestGirl = "Himekek Sena"
-            bestGirl = "Himeno Sena" // oops
-            // eroge waifu
+            bestGirl = "Himeno Sena" // oops :clueless:
+            // eroge waifu :clueless:
             Waifu("Himeno Sena", "2022-11-25" to today())
 
-            // first 1.0 yay!!! the waifu method
+            // first 1.0 yay!!! the waifu method :clueless:
             Visual(VisualKind.VisualNovel, 1.0, 0.3)
 
-            // what a ride (the ride hasn't ended btw)
-            // really enjoyed the thing
-            // i guess i will finish it in one month
-            // (mid-term coming soon monkaW)
-            ConsumedProgress(EntryStatus.Watching, 1.0, 20.hours)
+            // what a ride :clueless:
+            // really enjoyed the thing :clueless:
+            // i guess i will finish it in one month :clueless:
+            // (mid-term coming soon monkaW) :clueless:
+            ConsumedProgress(EntryStatus.Completed, 1.0, 24.hours)
 
-            // time to spam ei boys
-            // really good atmospheric farming ngl
-            // funnychamp
-            // ayane route omegalul + good story ngl
+            // time to spam ei boys :clueless:
+            // really good atmospheric farming ngl :clueless:
+            // funnychamp :clueless:
+            // ayane route omegalul + good story ngl :clueless:
             AEI(0.3, Emotion.AP)
 
-            // eroge love ig
-            AEI(0.5, Emotion.MP)
+            // eroge love ig :clueless:
+            // AEI(0.5, Emotion.MP)
 
             NeoErogeEra(0.7)
             FeatureMusic("M-VGMDB-AL-58596")
 
-            // sena route was so sudden wtf :sadge:
-            // Once again, Asuiro Koi Moyou predicted the future.
-            // "But our paces don’t suit each other; you’ve become even more distant"
-            // "It happened so suddenly, but from now on"
+            // sena route was so sudden wtf :sadge: :clueless:
+            // Once again, Asuiro Koi Moyou predicted the future. :clueless:
+            // "But our paces don’t suit each other; you’ve become even more distant" :clueless:
+            // "It happened so suddenly, but from now on" :clueless:
 
-            // "Even if our paces do not match,
-            //  If I ran with all my might,
-            //  We may be able to meet again."
+            // "Even if our paces do not match, :clueless:
+            //  If I ran with all my might, :clueless:
+            //  We may be able to meet again." :clueless:
             AEI(0.8, Emotion.CU)
+
+            // the :aware: part
+
+            // last episode is one of the best piece of story i've ever seen
+            // absolute masterpiece, i was about to cry like 10 times or sth
+
+            // the twists
+            EPI(1.0)
+
+            // realization of the fact that main girl didn't love mc
+            AEI(0.2, Emotion.AU)
+
+            // main girl's music career, darker than the childplay "ortensia incident"
+            AEI(0.2, Emotion.AU to 0.5, Emotion.MP to 0.5)
+
+            // eroge love ig :aware:
+            AEI(0.8, Emotion.MP)
+
+            // the sadness of the story
+            AEI(1.0, Emotion.CU)
         }
 
         Entry {
