@@ -24,7 +24,7 @@ fun DSLScope.Koikake() {
             bestGirl = "Himekek Sena"
             bestGirl = "Himeno Sena" // oops
             // eroge waifu
-            Waifu("Himeno Sena", "2022-11-25" to "2022-11-27")
+            Waifu("Himeno Sena", "2022-11-25" to today())
 
             // first 1.0 yay!!! the waifu method
             Visual(VisualKind.VisualNovel, 1.0, 0.3)
@@ -33,18 +33,29 @@ fun DSLScope.Koikake() {
             // really enjoyed the thing
             // i guess i will finish it in one month
             // (mid-term coming soon monkaW)
-            ConsumedProgress(EntryStatus.Watching, 1.0, 10.hours)
+            ConsumedProgress(EntryStatus.Watching, 1.0, 20.hours)
 
             // time to spam ei boys
             // really good atmospheric farming ngl
             // funnychamp
-            NEI(0.8, Emotion.AP)
+            // ayane route omegalul + good story ngl
+            AEI(0.3, Emotion.AP)
 
             // eroge love ig
             AEI(0.5, Emotion.MP)
 
             NeoErogeEra(0.7)
             FeatureMusic("M-VGMDB-AL-58596")
+
+            // sena route was so sudden wtf :sadge:
+            // Once again, Asuiro Koi Moyou predicted the future.
+            // "But our paces don’t suit each other; you’ve become even more distant"
+            // "It happened so suddenly, but from now on"
+
+            // "Even if our paces do not match,
+            //  If I ran with all my might,
+            //  We may be able to meet again."
+            AEI(0.8, Emotion.CU)
         }
 
         Entry {
