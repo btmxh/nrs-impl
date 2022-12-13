@@ -80,7 +80,10 @@ fun DSLScope.Koikake() {
             AEI(0.8, Emotion.MP)
 
             // the sadness of the story
-            AEI(1.0, Emotion.CU)
+            Cry(Emotion.CU) {
+                contributors["V-VNDB-17516"] = 0.8
+                contributors["M-VGMDB-AL-58596-14"] = 0.2
+            }
         }
 
         Entry {
@@ -99,6 +102,10 @@ fun DSLScope.Koikake() {
                 // gyze i found the mv for this song :skull:
                 // https://www.youtube.com/watch?v=e_IIORCnBxI
                 Music(0.35)
+            }
+
+            SubIDEntry("14") {
+                Music(0.6)
             }
 
             SubIDEntry("25") {
