@@ -224,7 +224,7 @@ fun DSLScope.OsuGame() {
         title = "Egao no Kanata / Chiho feat. majiko" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
         SubIDEntry("1") {
-            title = "Egao no Kanata" // generated(fill_music_metadata.dart v0.1.1)    
+            title = "Egao no Kanata" // generated(fill_music_metadata.dart v0.1.1)
             // Length source: https://osu.ppy.sh/beatmapsets/1048878#osu/2192351
             MusicConsumedProgress("3:50") // impl_overridden
             Music(0.5)
@@ -290,7 +290,7 @@ fun DSLScope.OsuGame() {
             // Remix("M-VGMDB-AL-78764-1")
             // me when people associate 367days absolute rst catjammer
             // to lantis cocksucker isekai bullcrap /s
-            // jk this song is cool 
+            // jk this song is cool
         }
     }
     Entry {
@@ -903,7 +903,7 @@ fun DSLScope.OsuGame() {
     Entry {
         id = "M-VGMDB-AL-106436"
         title = "Ganbare! Kumoko san no Theme / \"Watashi\" (CV: Aoi Yuki)" // generated(fill_music_metadata.dart v0.1.1)
-        
+
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
         SubIDEntry("1") {
@@ -1076,5 +1076,19 @@ fun DSLScope.OsuGame() {
         OsuSong(personal = 0.2, community = 0.0)
         // Length source: https://www.nicovideo.jp/watch/sm6816232
         MusicConsumedProgress("3:40")
+    }
+    Entry {
+        id = "M-VGMDB-AL-95569"
+        title = "Riririn' / Rin'ca" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.2, 0.2)
+
+        SubIDEntry("12") {
+            MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
+            title = "奇跡メロディ" // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.4)
+            // haha segs
+            NEI(0.5, Emotion.AP)
+        }
     }
 }
