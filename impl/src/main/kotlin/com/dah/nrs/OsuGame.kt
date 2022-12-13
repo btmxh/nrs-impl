@@ -1079,10 +1079,13 @@ fun DSLScope.OsuGame() {
     }
     Entry {
         id = "M-VGMDB-AL-95569"
+        title = "Riririn' / Rin'ca" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.2, 0.2)
 
         SubIDEntry("12") {
+            MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
+            title = "奇跡メロディ" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
             // haha segs
             NEI(0.5, Emotion.AP)
