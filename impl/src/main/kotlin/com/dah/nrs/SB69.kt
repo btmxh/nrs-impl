@@ -3,12 +3,68 @@ package com.dah.nrs
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
 import com.dah.nrs.meme.*
+import kotlin.properties.ReadWriteProperty
+import kotlin.reflect.KProperty
 
-private val AllSB69Tracks = mutableListOf<String>()
+private val AllSB69Tracks = hashMapOf<String, SB69MusicContext>()
 
-private fun DSLEntry.FesALiveMusic(score: Double) {
+private fun DSLEntry.FesALiveMusic(score: Double, block: SB69MusicContext.() -> Unit = {}) {
     Music(score)
-    AllSB69Tracks.add(id)
+    val ctx = SB69MusicContext()
+    block(ctx)
+    AllSB69Tracks[id] = ctx
+}
+
+private class SB69MusicContext {
+    // multiplier for song meme contribution factors
+    val multipliers = mutableListOf<Double>().apply { repeat(7) { add(1.0) } }
+    var arc2 by multiplier(0) // rst-sb69 duopoly arc
+    var arc3 by multiplier(1) // idol dystopia arc
+    var akm by multiplier(2, 3, 4) // akm arc
+    var akm1 by multiplier(2)
+    var akm2 by multiplier(3)
+    var akm3 by multiplier(4)
+    var pme by multiplier(5) // post-modern (pre-neo-eroge)
+    var nee by multiplier(6) // neo-eroge era
+
+    enum class CultureEra {
+        Arc2,
+        Arc3,
+        AKM1,
+        AKM2,
+        AKM3,
+        PME,
+        NEE
+    }
+
+    fun from(era: CultureEra) {
+        val index = era.ordinal
+        multipliers.subList(0, index).fill(0.0)
+    }
+
+    companion object {
+        private fun multiplier(vararg index: Int): ReadWriteProperty<SB69MusicContext, Double> {
+            return object : ReadWriteProperty<SB69MusicContext, Double> {
+                override fun getValue(thisRef: SB69MusicContext, property: KProperty<*>): Double {
+                    return thisRef.multipliers[index.first()]
+                }
+
+                override fun setValue(thisRef: SB69MusicContext, property: KProperty<*>, value: Double) {
+                    index.forEach { thisRef.multipliers[it] = value }
+                }
+            }
+        }
+    }
+}
+
+private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.CultureEra) {
+    val sum = AllSB69Tracks.values.sumOf { it.multipliers[era.ordinal] }
+    for ((id, value) in AllSB69Tracks) {
+        val factor = value.multipliers[era.ordinal] / sum * total
+        if (factor > 0) {
+            contributors[id] = factor
+        }
+    }
 }
 
 fun DSLScope.SB69() {
@@ -212,7 +268,9 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
                 // fes a live art looks a little bit weird ngl
                 Visual(VisualKind.AnimatedMV, 0.45, 0.3)
-                FesALiveMusic(0.35)
+                FesALiveMusic(0.35) {
+                    arc2 = 10.0
+                }
             }
         }
 
@@ -227,7 +285,9 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:15") // generated(fill_music_metadata.dart v0.1.1)
                 // really interesting vocal
                 // (somewhat resemble kano)
-                FesALiveMusic(0.25)
+                FesALiveMusic(0.25) {
+                    arc2 = 5.0
+                }
             }
         }
 
@@ -240,7 +300,9 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Seishun wa Non-Stop!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.25)
+                FesALiveMusic(0.25) {
+                    arc2 = 20.0
+                }
 
                 Remix("M-20220125T063355-6")
             }
@@ -248,7 +310,9 @@ fun DSLScope.SB69() {
             SubIDEntry("2") {
                 title = "Close to you" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:43") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.4)
+                FesALiveMusic(0.4) {
+                    arc2 = 10.0
+                }
 
                 Remix("M-VGMDB-AL-61981-3")
             }
@@ -283,7 +347,9 @@ fun DSLScope.SB69() {
                 title = "Ryuusei Dreamline" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                 // kekekekekekek
-                FesALiveMusic(0.225)
+                FesALiveMusic(0.225) {
+                    arc2 = 15.0
+                }
             }
         }
 
@@ -297,7 +363,9 @@ fun DSLScope.SB69() {
                 title = "Heart wo Rock!!" // generated(fill_music_metadata.dart v0.1.1)
                 // Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf
                 MusicConsumedProgress("4:12") // impl_overridden
-                FesALiveMusic(0.7)
+                FesALiveMusic(0.7) {
+                    arc2 = 2.5
+                }
             }
         }
 
@@ -345,7 +413,9 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("3:41") // generated(fill_music_metadata.dart v0.1.1)
                 title = "ドレミファPARTY" // generated(fill_music_metadata.dart v0.1.1)
                 // xd
-                FesALiveMusic(0.2)
+                FesALiveMusic(0.2) {
+                    arc2 = 2.5
+                }
                 Meme(0.1, 2)
             }
         }
@@ -377,7 +447,10 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("3:36") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Kimi no Rhapsody" // generated(fill_music_metadata.dart v0.1.1)
                 // hahahahahaaha the howan tinh song
-                FesALiveMusic(0.25)
+                FesALiveMusic(0.25) {
+                    arc2 = 20.0
+                    arc3 = 10.0
+                }
                 Meme(0.01, numDays("2022-04-01"))
                 Remix("M-20220702T030659")
             }
@@ -395,7 +468,10 @@ fun DSLScope.SB69() {
             // aka hoantinh theme song
 
             // Length source: (rip db.showbyrock.net)
-            FesALiveMusic(0.4)
+            FesALiveMusic(0.4) {
+                arc2 = 20.0
+                arc3 = 10.0
+            }
             MusicConsumedProgress("1:34") // impl_overridden
         }
 
@@ -423,7 +499,10 @@ fun DSLScope.SB69() {
                 title = "イントロダクション" // generated(fill_music_metadata.dart v0.1.1)
                 // and we will fly beyond the sky
                 // let's death, you will pay
-                FesALiveMusic(0.6)
+                FesALiveMusic(0.6) {
+                    pme = 10.0
+                    nee = 2.0
+                }
             }
         }
 
@@ -438,7 +517,9 @@ fun DSLScope.SB69() {
                 title = "Do Re Mi Fa STARS!!" // generated(fill_music_metadata.dart v0.1.1)
                 // aka ceui - colorful days (mp-based franchise ver.)
                 // or the counting song
-                FesALiveMusic(0.5)
+                FesALiveMusic(0.5) {
+                    arc2 = 10.0
+                }
             }
 
             SubIDEntry("2") {
@@ -458,7 +539,9 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Do! It! Happy Daibouken!" // generated(fill_music_metadata.dart v0.1.1)
                 // do it party reference lmfao
-                FesALiveMusic(0.65)
+                FesALiveMusic(0.65) {
+                    arc2 = 2.5
+                }
             }
 
             SubIDEntry("6") {
@@ -469,7 +552,9 @@ fun DSLScope.SB69() {
                 // ngau loi nhat ca doi tuyen toan
                 // do co le la em toi
 
-                FesALiveMusic(0.5)
+                FesALiveMusic(0.5) {
+                    akm1 = 10.0
+                }
             }
         }
 
@@ -510,7 +595,9 @@ fun DSLScope.SB69() {
                 MusicConsumedProgress("4:46") // generated(fill_music_metadata.dart v0.1.1)
                 // this was unranked all this time?????
                 // lmfao
-                FesALiveMusic(0.65)
+                FesALiveMusic(0.65) {
+                    arc2 = 10.0
+                }
 
                 // there's no one who is cooler
                 // there's no one who's like him
@@ -528,7 +615,9 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Hanate! Dododon!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("5:00") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.5)
+                FesALiveMusic(0.5) {
+                    akm1 = 10.0
+                }
             }
         }
 
@@ -558,7 +647,9 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "グッデイバイデイ" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:26") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.35)
+                FesALiveMusic(0.35) {
+                    arc2 = 5.0
+                }
             }
 
             // if u understand, u understand
@@ -601,7 +692,9 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Mot Mot Mot" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:42") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.65)
+                FesALiveMusic(0.65) {
+                    akm1 = 10.0
+                }
             }
         }
 
@@ -613,11 +706,13 @@ fun DSLScope.SB69() {
             SubIDEntry("3") {
                 title = "Nyumber One! Zettai Saikyou!" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:23") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.7)
+                FesALiveMusic(0.7) {
+                    // what else do you expect xddddddddddddd
+                    nee = 100.0
+                }
                 // welcome to the post-modern shithole where everything is political
                 // NOZSP is truly the party of all time
                 // chair gaming
-                PostModernMeme(0.1)
             }
         }
 
@@ -653,7 +748,9 @@ fun DSLScope.SB69() {
                 // which marks the continuation of the duopoly era
                 // ^ clueless mfs
 
-                FesALiveMusic(0.8)
+                FesALiveMusic(0.8) {
+                    arc2 = 3.0
+                }
                 NEI(0.5, Emotion.MP)
 
                 // (the love song parody lyrics shit of me to rst, translated to english)
@@ -690,7 +787,10 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "はうあーゆー？" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.6)
+                FesALiveMusic(0.6) {
+                    from(SB69MusicContext.CultureEra.AKM1)
+                    akm1 = 5.0
+                }
             }
         }
 
@@ -702,7 +802,10 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 title = "Happy Happy Jump" // generated(fill_music_metadata.dart v0.1.1)
                 MusicConsumedProgress("3:44") // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.5)
+                FesALiveMusic(0.5) {
+                    from(SB69MusicContext.CultureEra.AKM1)
+                    akm1 = 5.0
+                }
             }
         }
 
@@ -715,7 +818,10 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 MusicConsumedProgress("3:54") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Hoshitachi no Orchestra Parade" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.7)
+                FesALiveMusic(0.7) {
+                    from(SB69MusicContext.CultureEra.NEE)
+                    nee = 5.0
+                }
                 // cleaning koikake :tf:
                 // AEI(0.3, Emotion.MP)
             }
@@ -734,7 +840,9 @@ fun DSLScope.SB69() {
             SubIDEntry("1") {
                 MusicConsumedProgress("4:17") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Koishichatta!" // generated(fill_music_metadata.dart v0.1.1)
-                FesALiveMusic(0.3)
+                FesALiveMusic(0.3) {
+                    from(SB69MusicContext.CultureEra.NEE)
+                }
             }
         }
 
@@ -813,7 +921,7 @@ fun DSLScope.SB69() {
             id = "G-VGMDB-8429"
             title = "SHOW BY ROCK!! Fes A Live"
 
-            AllSB69Tracks.forEach { FeatureMusic(it) }
+            AllSB69Tracks.keys.forEach { FeatureMusic(it) }
             Visual(VisualKind.GachaCardArt, 0.4, 0.3)
         }
     }
@@ -830,35 +938,39 @@ fun DSLScope.SB69() {
     }
 
     RSTSB69DuopolyEra(0.8) {
-        contributors["A-MAL-27441"] = 0.25
-        contributors["A-MAL-32038"] = 0.3
-        contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.25
+        contributors["A-MAL-27441"] = 0.2
+        contributors["A-MAL-32038"] = 0.25
+        contributors["A-MAL-40763"] = 0.05
+        contributors["A-MAL-41520"] = 0.2
         contributors["G-VGMDB-8429"] = 0.1
+        TrackMemeImpact(0.2, SB69MusicContext.CultureEra.Arc2)
     }
 
     AKMEraPart1(0.3) {
-        contributors["A-MAL-27441"] = 0.25
-        contributors["A-MAL-32038"] = 0.3
+        contributors["A-MAL-27441"] = 0.2
+        contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.25
-        contributors["G-VGMDB-8429"] = 0.1
+        contributors["A-MAL-41520"] = 0.2
+        contributors["G-VGMDB-8429"] = 0.05
+        TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM1)
     }
 
     AKMEraPart2(0.75) {
-        contributors["A-MAL-27441"] = 0.25
-        contributors["A-MAL-32038"] = 0.3
+        contributors["A-MAL-27441"] = 0.2
+        contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.25
-        contributors["G-VGMDB-8429"] = 0.1
+        contributors["A-MAL-41520"] = 0.2
+        contributors["G-VGMDB-8429"] = 0.05
+        TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM2)
     }
 
     AKMEraPart3(0.4) {
-        contributors["A-MAL-27441"] = 0.25
-        contributors["A-MAL-32038"] = 0.3
+        contributors["A-MAL-27441"] = 0.2
+        contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.25
-        contributors["G-VGMDB-8429"] = 0.1
+        contributors["A-MAL-41520"] = 0.2
+        contributors["G-VGMDB-8429"] = 0.05
+        TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM3)
     }
 
     Entry {
