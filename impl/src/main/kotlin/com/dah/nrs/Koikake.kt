@@ -105,6 +105,8 @@ fun DSLScope.Koikake() {
             }
 
             SubIDEntry("14") {
+                MusicConsumedProgress("4:01") // generated(fill_music_metadata.dart v0.1.1)
+                title = "東の空から始まる世界" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.6)
             }
 
