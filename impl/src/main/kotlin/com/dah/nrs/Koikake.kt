@@ -49,7 +49,7 @@ fun DSLScope.Koikake() {
             // eroge love ig :clueless:
             // AEI(0.5, Emotion.MP)
 
-            NeoErogeEra(0.7)
+            NeoErogeEra(1.0)
             FeatureMusic("M-VGMDB-AL-58596")
 
             // sena route was so sudden wtf :sadge: :clueless:
