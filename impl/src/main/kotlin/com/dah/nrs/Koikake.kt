@@ -84,6 +84,15 @@ fun DSLScope.Koikake() {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }
+
+            PADS(2, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
+                contributors["V-VNDB-17516"] = 0.8
+                contributors["M-VGMDB-AL-104267-3"] = 0.05
+                contributors["M-VGMDB-AL-58596-14"] = 0.05
+                contributors["M-VGMDB-AL-43320-8"] = 0.05
+                contributors["M-VGMDB-AL-78595-16"] = 0.05
+                // pack up boys, eroge is ending #ggwp
+            }
         }
 
         Entry {
