@@ -192,6 +192,17 @@ fun DSLScope.Kano() {
                 Music(0.6)
                 MusicConsumedProgress("4:19") // impl_overridden
                 NEI(0.5, Emotion.CP)
+
+                // I HATE HIMENO SENA
+                // I HATE HIMENO SENA
+                // I HATE HIMENO SENA
+                // I HATE HIMENO SENA
+                // I HATE HIMENO SENA
+                // https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011
+                Cry(Emotion.CU) {
+                    contributors["M-20220130T032649"] = 0.65
+                    contributors["V-VNDB-17516"] = 0.35
+                }
             }
 
             Entry {
