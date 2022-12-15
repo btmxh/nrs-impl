@@ -48,7 +48,7 @@ fun DSLScope.Fall2022() {
         // mi ưhen cloverworks
 
         // pls die shit anime not even close to the glorious koikake
-        AEI(-3.0, Emotion.AU to 0.5, Emotion.MU to 0.5)
+        AEI(-0.3, Emotion.AU to 0.5, Emotion.MU to 0.5)
 
         // ValidatorSuppress("dah-visualless-entry")
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 3)
