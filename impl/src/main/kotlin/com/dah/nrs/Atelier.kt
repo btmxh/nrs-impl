@@ -54,7 +54,7 @@ fun DSLScope.Atelier() {
         // truly one of the anime girls of all time
         // although modern culture died, she's still gaming
         // truly one of the NAP mascots of all time (wtf i hate sk now)
-        // "sen"aka osu!kaze
+        // "sena"ka osu!kaze
         // mc fanart >>>>>> le cat, ayumu, yuriyuna fanart
         // but <<<<<<<<<<<<<<< ortensia dark lore 1.0 visual waifu
         // me when mc is literally going to live longer than le cat
