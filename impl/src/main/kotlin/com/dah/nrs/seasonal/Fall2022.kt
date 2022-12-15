@@ -47,6 +47,9 @@ fun DSLScope.Fall2022() {
         bestGirl = "Hitori Gotou"
         // mi ưhen cloverworks
 
+        // pls die shit anime not even close to the glorious koikake
+        AEI(-3.0, Emotion.AU to 0.5, Emotion.MU to 0.5)
+
         // ValidatorSuppress("dah-visualless-entry")
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 3)
         Visual(VisualKind.Animated, 0.4, 0.3)
