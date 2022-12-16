@@ -209,17 +209,6 @@ fun DSLScope.OsuGame() {
         }
     }
     Entry {
-        id = "M-VGMDB-AL-82981"
-        title = "PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.5, 0.4)
-        SubIDEntry("2") {
-            title = "Ding Dong Holy Night♪" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("4:18") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.45)
-            OsuSong(personal = 0.5, community = 0.0)
-        }
-    }
-    Entry {
         id = "M-VGMDB-AL-81448"
         title = "Egao no Kanata / Chiho feat. majiko" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.5, 0.3)

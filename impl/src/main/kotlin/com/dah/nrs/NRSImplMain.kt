@@ -62,6 +62,7 @@ fun main() =
         Chuunibyou()
         ImoutoIreba()
         Oregairu()
+        Priconne()
         LoveLive()
         AOT()
         NagiAsu()
