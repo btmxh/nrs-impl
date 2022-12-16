@@ -23,7 +23,7 @@ fun DSLScope.CloverDays() {
             NEI(0.5, Emotion.MP)
             NEI(0.25, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-45544-40")
-            KilledBy("F-20221128T123502", potential = 0.5, effect = 0.5)
+            KilledBy("F-20221128T123502", potential = 0.5, effect = 1.0)
         }
 
         Entry {
