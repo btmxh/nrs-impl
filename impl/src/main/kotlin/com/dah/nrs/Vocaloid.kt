@@ -102,7 +102,7 @@ fun DSLScope.Vocaloid() {
         // https://www.youtube.com/watch?v=H_rOo9HNF3w
         Visual(VisualKind.AnimatedMV, 0.5, 0.6)
         Music(0.45) // a bit dull at times but...
-        /*Koikake*/Cry(0.85, Emotion.MP to 0.5, Emotion.CU to 0.5)
+        /*Koikake*/Cry(Emotion.MP to 0.5, Emotion.CU to 0.5)
         // the part though wtf
         // did not expect to be that good ??????????
 
