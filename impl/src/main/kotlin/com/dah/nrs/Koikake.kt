@@ -85,7 +85,7 @@ fun DSLScope.Koikake() {
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }
 
-            PADS(3, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
+            PADS(4, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-104267-3"] = 0.05
                 contributors["M-VGMDB-AL-58596-14"] = 0.05
@@ -138,6 +138,20 @@ fun DSLScope.Koikake() {
         AEI(0.5, Emotion.CU to 0.8, Emotion.CP to 0.2) {
             contributors["M-VGMDB-AL-58596"] = 0.1
             contributors["V-VNDB-17516"] = 0.9
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-123896"
+        title = "Starry Avenue" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.6, 0.4)
+        // NEE music :skull:
+
+        SubIDEntry("5") {
+            MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
+            title = "彗光、星空通りにて (feat.nayuta)" // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.7)
         }
     }
 }

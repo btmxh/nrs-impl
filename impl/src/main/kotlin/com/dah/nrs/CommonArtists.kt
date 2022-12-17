@@ -1104,6 +1104,10 @@ fun DSLScope.CommonArtists() {
             Contains("M-VGMDB-AL-74440-6")
             Contains("M-VGMDB-AL-108194-5")
         }
+
+        Contains(MusicVocalContainFactor) {
+            Contains("M-VGMDB-AL-123896-5")
+        }
     }
 
     Entry {
