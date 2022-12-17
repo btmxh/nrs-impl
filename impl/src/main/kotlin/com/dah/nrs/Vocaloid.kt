@@ -114,5 +114,8 @@ fun DSLScope.Vocaloid() {
         // It was a dream I shouldn’t have had,
         // for it’s something that can never come true again.
         // Aah, why, oh why did we ever meet?"
+
+        // Length source: https://www.youtube.com/watch?v=H_rOo9HNF3w
+        MusicConsumedProgress("4:53")
     }
 }
