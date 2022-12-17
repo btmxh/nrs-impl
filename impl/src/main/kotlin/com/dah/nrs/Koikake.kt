@@ -32,7 +32,7 @@ fun DSLScope.Koikake() {
             Waifu("Himeno Sena", "2022-11-25" to today())
 
             // first 1.0 yay!!! the waifu method :clueless:
-            Visual(VisualKind.VisualNovel, 1.0, 0.3)
+            Visual(VisualKind.VisualNovel, 1.0, 0.5)
 
             // what a ride :clueless:
             // really enjoyed the thing :clueless:
@@ -99,7 +99,7 @@ fun DSLScope.Koikake() {
             id = "M-VGMDB-AL-58596"
             title = "KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks" // generated(fill_music_metadata.dart v0.1.1)
 
-            Visual(VisualKind.AlbumArt, 1.0, 0.3)
+            Visual(VisualKind.AlbumArt, 1.0, 0.5)
 
             SubIDEntry("2") {
                 MusicConsumedProgress("4:23") // generated(fill_music_metadata.dart v0.1.1)
