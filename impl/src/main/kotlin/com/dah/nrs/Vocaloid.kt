@@ -86,9 +86,12 @@ fun DSLScope.Vocaloid() {
     }
     Entry {
         id = "M-VGMDB-AL-31377"
+        title = "Hajimete no Koi ga Owaru Toki / supercell" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
         SubIDEntry("1") {
+            MusicConsumedProgress("5:15") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Hajimete no Koi ga Owaru Toki" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.5)
         }
     }
