@@ -84,4 +84,38 @@ fun DSLScope.Vocaloid() {
             OsuSong(personal = 0.5, community = 0.5)
         }
     }
+    Entry {
+        id = "M-VGMDB-AL-31377"
+        title = "Hajimete no Koi ga Owaru Toki / supercell" // generated(fill_music_metadata.dart v0.1.1)
+        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+
+        SubIDEntry("1") {
+            MusicConsumedProgress("5:15") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Hajimete no Koi ga Owaru Toki" // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.5)
+        }
+    }
+
+    Entry {
+        id = "M-20221217T174507"
+        title = "Kutsumigaki to Maria"
+        // https://www.youtube.com/watch?v=H_rOo9HNF3w
+        Visual(VisualKind.AnimatedMV, 0.5, 0.6)
+        Music(0.45) // a bit dull at times but...
+        /*Koikake*/Cry(Emotion.MP to 0.5, Emotion.CU to 0.5)
+        // the part though wtf
+        // did not expect to be that good ??????????
+
+        // "I had a very happy dream.
+        // In my dream, I was taking a stroll with her, hand in hand.
+        // When I looked to my side, her face was lit up with smiles.
+
+        // Upon waking up, I ended up crying on my filthy bed.
+        // It was a dream I shouldn’t have had,
+        // for it’s something that can never come true again.
+        // Aah, why, oh why did we ever meet?"
+
+        // Length source: https://www.youtube.com/watch?v=H_rOo9HNF3w
+        MusicConsumedProgress("4:53")
+    }
 }

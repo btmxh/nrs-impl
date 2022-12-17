@@ -148,6 +148,7 @@ fun DSLScope.CommonArtists() {
         Contains("M-VGMDB-AL-37130-6", 0.1)
 
         Contains("M-VGMDB-AL-49423-1", 0.2)
+        Contains("M-20221217T174507")
     }
 
     Entry {
