@@ -145,3 +145,14 @@ fun DSLScope.Koikake() {
 fun AcceptImpact.NeoErogeEra(strength: Double) {
     Meme(strength, numDays("2022-11-25"))
 }
+
+fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
+    AEI(strength, *emotions) {
+        contributors[id] = contribution
+        contributors["V-VNDB-17516"] = 1.0 - contribution
+    }
+}
+
+fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
+    KoikakeAEI(strength, contribution, emotion to 1.0)
+}
