@@ -199,10 +199,7 @@ fun DSLScope.Kano() {
                 // I HATE HIMENO SENA
                 // I HATE HIMENO SENA
                 // https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011
-                Cry(Emotion.CU) {
-                    contributors["M-20220130T032649"] = 0.65
-                    contributors["V-VNDB-17516"] = 0.35
-                }
+                KoikakeCry(0.7, Emotion.CU)
             }
 
             Entry {
@@ -256,6 +253,7 @@ fun DSLScope.Kano() {
                     title = "[It's not] World's end" // generated(fill_music_metadata.dart v0.1.1)
                     Music(0.5)
                     NEI(0.5, Emotion.CU)
+                    KoikakeNEI(0.4, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
                 }
 
                 SubIDEntry("4") {
@@ -278,6 +276,7 @@ fun DSLScope.Kano() {
                     Visual(VisualKind.AnimatedMV, 0.35, 0.6)
                     Music(0.7)
                     NEI(0.25, Emotion.CU)
+                    KoikakeNEI(0.5, 0.8, Emotion.CU to 0.5, Emotion.MP to 0.4, Emotion.CP to 0.1)
                 }
             }
             // after this, almost all of kano's songs suck

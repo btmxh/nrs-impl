@@ -133,11 +133,7 @@ fun DSLScope.Koikake() {
 
             // classic "too lazy to rank all of the tracks"
             Music(0.6)
-        }
-
-        AEI(0.5, Emotion.CU to 0.8, Emotion.CP to 0.2) {
-            contributors["M-VGMDB-AL-58596"] = 0.1
-            contributors["V-VNDB-17516"] = 0.9
+            KoikakeAEI(0.5, 0.1, Emotion.CU to 0.8, Emotion.CP to 0.2)
         }
     }
 
@@ -153,6 +149,8 @@ fun DSLScope.Koikake() {
             title = "彗光、星空通りにて (feat.nayuta)" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.7)
         }
+
+        KoikakeCry(0.75, Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25)
     }
 }
 
