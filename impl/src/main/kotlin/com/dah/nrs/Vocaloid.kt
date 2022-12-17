@@ -84,4 +84,12 @@ fun DSLScope.Vocaloid() {
             OsuSong(personal = 0.5, community = 0.5)
         }
     }
+    Entry {
+        id = "M-VGMDB-AL-31377"
+        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+
+        SubIDEntry("1") {
+            Music(0.5)
+        }
+    }
 }
