@@ -93,6 +93,18 @@ fun DSLScope.Vocaloid() {
             MusicConsumedProgress("5:15") // generated(fill_music_metadata.dart v0.1.1)
             title = "Hajimete no Koi ga Owaru Toki" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.5)
+
+            // interesting bit of history:
+            // i found out this song from nayuta's cover
+            // at that time i was playing ayane's route in koikake
+            // and like they do the segs and nakadashi
+            // i realized that there was no nakadashi in sena's route
+            // it looked like a bad end flag or some shit
+            // "i love hentai"
+
+            // anyways, this song is sad now for a different reason
+            // (that is not segs fuck u)
+            KoikakeNEI(0.5, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
         }
     }
 
@@ -102,7 +114,7 @@ fun DSLScope.Vocaloid() {
         // https://www.youtube.com/watch?v=H_rOo9HNF3w
         Visual(VisualKind.AnimatedMV, 0.5, 0.6)
         Music(0.45) // a bit dull at times but...
-        /*Koikake*/Cry(Emotion.MP to 0.5, Emotion.CU to 0.5)
+        KoikakeCry(0.85, Emotion.MP to 0.5, Emotion.CU to 0.5)
         // the part though wtf
         // did not expect to be that good ??????????
 
