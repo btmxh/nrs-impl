@@ -148,9 +148,8 @@ fun DSLScope.Koikake() {
             MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
             title = "彗光、星空通りにて (feat.nayuta)" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.7)
+            KoikakeCry(0.75, Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25)
         }
-
-        KoikakeCry(0.75, Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25)
     }
 }
 
