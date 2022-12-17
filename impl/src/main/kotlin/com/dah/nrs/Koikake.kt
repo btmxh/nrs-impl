@@ -156,3 +156,14 @@ fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, vararg emotions:
 fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
     KoikakeAEI(strength, contribution, emotion to 1.0)
 }
+
+fun DSLEntry.KoikakeNEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
+    NEI(strength, *emotions) {
+        contributors[id] = contribution
+        contributors["V-VNDB-17516"] = 1.0 - contribution
+    }
+}
+
+fun DSLEntry.KoikakeNEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
+    KoikakeNEI(strength, contribution, emotion to 1.0)
+}
