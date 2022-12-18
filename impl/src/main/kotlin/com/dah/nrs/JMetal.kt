@@ -75,6 +75,8 @@ fun DSLScope.JMetal() {
                 MusicConsumedProgress("3:57") // generated(fill_music_metadata.dart v0.1.1)
                 title = "Storytellers" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
+
+                KoikakeNEI(0.8, 0.75, Emotion.AU to 0.5, Emotion.MP to 0.5)
             }
         }
     }

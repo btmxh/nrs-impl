@@ -107,6 +107,10 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("6:10") // generated(fill_music_metadata.dart v0.1.1)
             title = "Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.55)
+            KoikakeNEI(0.8, 0.8, Emotion.CP to 0.75, Emotion.MP to 0.25)
+
+            // "khi chân trời đầy nước mắt
+            // nước mắt sẽ hóa thành ước mơ"
         }
     }
 
@@ -919,6 +923,7 @@ fun DSLScope.OsuGame() {
         OsuSong(personal = 0.75, community = 0.5)
         // Length source: https://osu.ppy.sh/beatmapsets/696175
         MusicConsumedProgress("3:48")
+        KoikakeNEI(0.5, 0.8, Emotion.CP to 0.5, Emotion.MP to 0.5)
     }
     Entry {
         id = "M-20221202T191455"

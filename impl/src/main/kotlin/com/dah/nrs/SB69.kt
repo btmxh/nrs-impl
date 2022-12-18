@@ -824,12 +824,8 @@ fun DSLScope.SB69() {
                 }
                 // cleaning koikake :tf:
                 // AEI(0.3, Emotion.MP)
+                KoikakeAEI(0.3, 0.7, Emotion.MP)
             }
-        }
-
-        AEI(0.3, Emotion.MP) {
-            contributors["M-VGMDB-AL-124217-1"] = 0.5
-            contributors["V-VNDB-17516"] = 0.5
         }
 
         Entry {

@@ -133,11 +133,7 @@ fun DSLScope.Koikake() {
 
             // classic "too lazy to rank all of the tracks"
             Music(0.6)
-        }
-
-        AEI(0.5, Emotion.CU to 0.8, Emotion.CP to 0.2) {
-            contributors["M-VGMDB-AL-58596"] = 0.1
-            contributors["V-VNDB-17516"] = 0.9
+            KoikakeAEI(0.5, 0.1, Emotion.CU to 0.8, Emotion.CP to 0.2)
         }
     }
 
@@ -152,10 +148,44 @@ fun DSLScope.Koikake() {
             MusicConsumedProgress("4:53") // generated(fill_music_metadata.dart v0.1.1)
             title = "彗光、星空通りにて (feat.nayuta)" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.7)
+            KoikakeCry(0.75, Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25)
         }
     }
 }
 
 fun AcceptImpact.NeoErogeEra(strength: Double) {
     Meme(strength, numDays("2022-11-25"))
+}
+
+fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
+    AEI(strength, *emotions) {
+        contributors[id] = contribution
+        contributors["V-VNDB-17516"] = 1.0 - contribution
+    }
+}
+
+fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
+    KoikakeAEI(strength, contribution, emotion to 1.0)
+}
+
+fun DSLEntry.KoikakeNEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
+    NEI(strength, *emotions) {
+        contributors[id] = contribution
+        contributors["V-VNDB-17516"] = 1.0 - contribution
+    }
+}
+
+fun DSLEntry.KoikakeNEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
+    KoikakeNEI(strength, contribution, emotion to 1.0)
+}
+
+fun DSLEntry.KoikakeCry(contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
+    Cry(*emotions) {
+        contributors[id] = contribution
+        contributors["V-VNDB-17516"] = 1.0 - contribution
+    }
+}
+
+fun DSLEntry.KoikakeCry(contribution: Double, emotion: Emotion.Factor) {
+    KoikakeCry(contribution, emotion to 1.0)
 }
