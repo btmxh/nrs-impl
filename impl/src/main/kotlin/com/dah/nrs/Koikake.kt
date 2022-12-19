@@ -135,6 +135,14 @@ fun DSLScope.Koikake() {
             Music(0.6)
             KoikakeAEI(0.5, 0.1, Emotion.CU to 0.8, Emotion.CP to 0.2)
         }
+
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
     }
 
     Entry {
