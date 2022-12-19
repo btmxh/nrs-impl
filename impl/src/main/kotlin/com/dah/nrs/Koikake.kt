@@ -85,7 +85,7 @@ fun DSLScope.Koikake() {
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }
 
-            PADS(5, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
+            PADS(6, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-104267-3"] = 0.05
                 contributors["M-VGMDB-AL-58596-14"] = 0.05
@@ -135,6 +135,14 @@ fun DSLScope.Koikake() {
             Music(0.6)
             KoikakeAEI(0.5, 0.1, Emotion.CU to 0.8, Emotion.CP to 0.2)
         }
+
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
+        // THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair:
     }
 
     Entry {

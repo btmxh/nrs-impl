@@ -20,7 +20,7 @@ class EntryResult(context: NRSContext, val totalImpact: ScoreVector, val totalRe
             val scoreLevels = baseAnimeScores.size
 
             if (overallScore < baseAnimeScores.first()) {
-                0.0
+                1.0
             } else if (overallScore > baseAnimeScores.last()) {
                 (scoreLevels - 1).toDouble()
             } else {
