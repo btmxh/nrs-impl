@@ -63,9 +63,36 @@ fun DSLScope.Vocaloid() {
     }
 
     Entry {
+        id = "M-20221219T233957"
+        title = "Calc."
+
+        Visual(VisualKind.StaticMV, 0.2, 0.4)
+        // Length source: https://www.nicovideo.jp/watch/sm12050471
+        MusicConsumedProgress("3:56")
+        Music(0.6)
+        KoikakeNEI(0.3, 0.7, Emotion.CU)
+    }
+
+    Entry {
         id = "M-VGMDB-AL-97732"
         title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
+        SubIDEntry("22") {
+            MusicConsumedProgress("3:16") // generated(fill_music_metadata.dart v0.1.1)
+            title = "from Y to Y" // generated(fill_music_metadata.dart v0.1.1)
+            // "the pads won't stop at the seventh day"
+            // most happy himeno sena mf be like
+            // :skull:
+            // "sena"ka wo mukete kimi wa arukidashita
+            // "sena"ka wo mukete boku wa arukidashita
+
+            // wake up, it's your daily dose of "crying to
+            // ayumu-era vocaloid songs while thinking about
+            // main girl"
+
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        }
         SubIDEntry("73") {
             title = "shake it!" // generated(fill_music_metadata.dart v0.1.1)
             MusicConsumedProgress("3:47") // generated(fill_music_metadata.dart v0.1.1)
