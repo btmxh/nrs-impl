@@ -88,9 +88,9 @@ fun AcceptImpact.Cry(vararg emotions: Pair<Emotion.Factor, Double>, block: DSLIm
 }
 
 fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
-    val padsScore = mapClampThrow(length.toDouble().coerceAtMost(5.0), 1.0..5.0, 3.0..5.0) {
-        "PADS too short"
-    }
+    val a = 1.6
+    val p = 0.5
+    val padsScore = a * length.toDouble().coerceAtMost(10.0).pow(p)
 
     Impact {
         description = "PADS"
