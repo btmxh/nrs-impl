@@ -93,16 +93,14 @@ fun DSLScope.Vocaloid() {
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
         }
-        SubIDEntry("73") {
-            title = "shake it!" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("3:47") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.3)
-            OsuSong(personal = 0.6, community = 0.6)
-        }
         SubIDEntry("90") {
             title = "Hand in Hand" // generated(fill_music_metadata.dart v0.1.1)
             MusicConsumedProgress("2:57") // generated(fill_music_metadata.dart v0.1.1)
             Music(0.4)
+        }
+        SubIDEntry("91") {
+            Music(0.3)
+            OsuSong(personal = 0.6, community = 0.6)
         }
         SubIDEntry("95") {
             title = "ヒバナ" // generated(fill_music_metadata.dart v0.1.1)
