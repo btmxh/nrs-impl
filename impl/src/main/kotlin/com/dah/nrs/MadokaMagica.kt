@@ -181,7 +181,7 @@ fun DSLScope.MadokaMagica() {
             // Tamaki Iroha alone and (probably) depressed.
             // This made me cry
             Cry(Emotion.CU)
-            PADS(999, Emotion.CU)
+            PADS(5, Emotion.CU)
 
             // Sana's backstory
             // Basically it's very tragic.

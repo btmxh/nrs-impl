@@ -59,7 +59,7 @@ fun DSLScope.Oregairu() {
             SubIDEntry("3") {
                 MusicConsumedProgress("5:29") // generated(fill_music_metadata.dart v0.1.1)
                 title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." // generated(fill_music_metadata.dart v0.1.1)
-                
+
             }
         }
 
@@ -82,7 +82,7 @@ fun DSLScope.Oregairu() {
         // Read here for more details:
         // http://yaharianalysis.x10host.com/
         // (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php)
-        PADS(999, Emotion.CU) {
+        PADS(5, Emotion.CU) {
             contributors["M-VGMDB-AL-51394-3"] = 0.05
             contributors["M-VGMDB-AL-37999-2"] = 0.05
             contributors["A-MAL-14813"] = 0.1
