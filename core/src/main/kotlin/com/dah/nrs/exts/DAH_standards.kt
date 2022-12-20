@@ -88,8 +88,8 @@ fun AcceptImpact.Cry(vararg emotions: Pair<Emotion.Factor, Double>, block: DSLIm
 }
 
 fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
-    val a = 1.6
-    val p = 0.5
+    val a = 0.2
+    val p = 1.5
     val padsScore = a * length.toDouble().coerceAtMost(10.0).pow(p)
 
     Impact {
