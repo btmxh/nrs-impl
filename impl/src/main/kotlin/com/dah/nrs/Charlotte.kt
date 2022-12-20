@@ -20,7 +20,8 @@ fun DSLScope.Charlotte() {
 
             Visual(VisualKind.Animated, 0.5, 0.1)
 
-            PADS(3, Emotion.CU)
+            // max AEI debatable
+            MaxAEIPADS(3, Emotion.CU)
             AnimeProgressOld(Boredom.Completed, 13)
         }
     }

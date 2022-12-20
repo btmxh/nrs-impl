@@ -38,7 +38,7 @@ fun DSLScope.NagiAsu() {
 
             bestGirl = "Miuna Shiodome" // generated(generate_best_girls.dart v0.1.0)
             // poor best girl
-            PADS(2, Emotion.CU)
+            MaxAEIPADS(2, Emotion.CU)
 
             // there are other relationships other than the
             // love triangle of best girl and they did make

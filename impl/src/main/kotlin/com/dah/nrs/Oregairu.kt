@@ -82,7 +82,7 @@ fun DSLScope.Oregairu() {
         // Read here for more details:
         // http://yaharianalysis.x10host.com/
         // (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php)
-        PADS(5, Emotion.CU) {
+        MaxAEIPADS(5, Emotion.CU) {
             contributors["M-VGMDB-AL-51394-3"] = 0.05
             contributors["M-VGMDB-AL-37999-2"] = 0.05
             contributors["A-MAL-14813"] = 0.1

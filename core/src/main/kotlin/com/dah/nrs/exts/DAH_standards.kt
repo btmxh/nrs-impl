@@ -102,6 +102,34 @@ fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>
     }
 }
 
+fun AcceptImpact.MaxAEIPADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
+    AEI(1.0, *emotions) {
+        block()
+    }
+    PADS(length, *emotions) {
+        ValidatorSuppress("dah-lone-pads")
+        block()
+    }
+}
+
+fun AcceptImpact.MaxAEIPADS(length: Int, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) {
+    MaxAEIPADS(length, emotion to 1.0) { block() }
+}
+
+fun AcceptImpact.CryPADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
+    Cry(*emotions) {
+        block()
+    }
+    PADS(length, *emotions) {
+        ValidatorSuppress("dah-lone-pads")
+        block()
+    }
+}
+
+fun AcceptImpact.CryPADS(length: Int, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) {
+    CryPADS(length, emotion to 1.0) { block() }
+}
+
 fun AcceptImpact.AEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
     val mappedScore = mapClampThrow(abs(score), 0.0..1.0, 2.0..3.0) {
         "$score not in range 0..1"

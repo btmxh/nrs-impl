@@ -117,7 +117,7 @@ fun DSLScope.MadokaMagica() {
 
             // 32k got killed over and over, and her lover has to
             // time-travel everytime it happens
-            PADS(1, Emotion.CU)
+            MaxAEIPADS(1, Emotion.CU)
 
             // Kyoko's backstory
             AEI(0.9, Emotion.CU)
@@ -180,8 +180,7 @@ fun DSLScope.MadokaMagica() {
             // Tamaki Ui and her friends are dead, leaving
             // Tamaki Iroha alone and (probably) depressed.
             // This made me cry
-            Cry(Emotion.CU)
-            PADS(5, Emotion.CU)
+            CryPADS(5, Emotion.CU)
 
             // Sana's backstory
             // Basically it's very tragic.

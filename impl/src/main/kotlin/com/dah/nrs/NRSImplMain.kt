@@ -498,7 +498,7 @@ fun main() =
             // (basically I want to be like the girls,
             // skipping out class etc.)"
             // ADA foreshadowing lol
-            PADS(2, Emotion.CP)
+            MaxAEIPADS(2, Emotion.CP)
             KilledBy("F-VGMDB-2588", 0.75, 0.3)
         }
 

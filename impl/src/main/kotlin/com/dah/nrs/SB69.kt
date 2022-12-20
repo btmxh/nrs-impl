@@ -102,6 +102,7 @@ fun DSLScope.SB69() {
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.25
             contributors["A-MAL-32038"] = 0.25
+            ValidatorSuppress("dah-lone-pads")
         }
 
         AEI(0.5, Emotion.AP) {

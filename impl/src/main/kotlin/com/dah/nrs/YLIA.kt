@@ -25,8 +25,7 @@ fun DSLScope.YLIA() {
             // characters.
             // This is why this anime is so sad that it achieve the maximum
             // score for an impact (weighted ofc)
-            PADS(7, Emotion.CU)
-            Cry(Emotion.CU)
+            CryPADS(7, Emotion.CU)
 
             // The character development of Kousei Arima is connected to the
             // Personality Revolution (a result of SLN). This is why I also
