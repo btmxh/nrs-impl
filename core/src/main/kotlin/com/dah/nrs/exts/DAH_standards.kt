@@ -88,9 +88,9 @@ fun AcceptImpact.Cry(vararg emotions: Pair<Emotion.Factor, Double>, block: DSLIm
 }
 
 fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
-    val padsScore = mapClampThrow(length.toDouble().coerceAtMost(5.0), 1.0..5.0, 3.0..5.0) {
-        "PADS too short"
-    }
+    val a = 0.3
+    val p = 1.3
+    val padsScore = a * length.toDouble().coerceAtMost(10.0).pow(p)
 
     Impact {
         description = "PADS"
@@ -100,6 +100,34 @@ fun AcceptImpact.PADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>
         meta("pads_score", padsScore)
         block()
     }
+}
+
+fun AcceptImpact.MaxAEIPADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
+    AEI(1.0, *emotions) {
+        block()
+    }
+    PADS(length, *emotions) {
+        ValidatorSuppress("dah-lone-pads")
+        block()
+    }
+}
+
+fun AcceptImpact.MaxAEIPADS(length: Int, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) {
+    MaxAEIPADS(length, emotion to 1.0) { block() }
+}
+
+fun AcceptImpact.CryPADS(length: Int, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {
+    Cry(*emotions) {
+        block()
+    }
+    PADS(length, *emotions) {
+        ValidatorSuppress("dah-lone-pads")
+        block()
+    }
+}
+
+fun AcceptImpact.CryPADS(length: Int, emotion: Emotion.Factor, block: DSLImpact.() -> Unit = {}) {
+    CryPADS(length, emotion to 1.0) { block() }
 }
 
 fun AcceptImpact.AEI(score: Double, vararg emotions: Pair<Emotion.Factor, Double>, block: DSLImpact.() -> Unit = {}) {

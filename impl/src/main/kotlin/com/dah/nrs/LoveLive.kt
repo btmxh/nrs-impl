@@ -532,7 +532,7 @@ fun DSLScope.LoveLive() {
 
         // arc 3 - the ayumu dead people arc
         // niji got carried hard by kano in this arc
-        PADS(7, Emotion.CU) {
+        MaxAEIPADS(7, Emotion.CU) {
             contributors["A-MAL-40879"] = 0.6
             contributors["M-VGMDB-AL-37130-3"] = 0.4
         }
@@ -540,7 +540,7 @@ fun DSLScope.LoveLive() {
         // arc 4 - and then, the world has ended
         // "Soshite kimi ga shirazu ni"
         // When Ayumu-era ends, I felt depressed
-        PADS(5, Emotion.CU) {
+        MaxAEIPADS(5, Emotion.CU) {
             contributors["A-MAL-40879"] = 0.7
             contributors["M-MAL-36631-6"] = 0.15
             contributors["M-20220205T023322-1"] = 0.075

@@ -92,6 +92,8 @@ fun DSLScope.Koikake() {
                 contributors["M-VGMDB-AL-43320-8"] = 0.05
                 contributors["M-VGMDB-AL-78595-16"] = 0.05
                 // pack up boys, eroge is ending #ggwp
+                // accompanying eis are all of the above, the Koikake* impacts of vocaloid, etc.
+                ValidatorSuppress("dah-lone-pads")
             }
         }
 

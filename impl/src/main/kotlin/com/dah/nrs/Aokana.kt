@@ -26,7 +26,9 @@ fun DSLScope.Aokana() {
             // Aokana made me love Asuka for like 2 weeks
             // which is good
             // also there was a PADS
-            PADS(1, Emotion.MP)
+            PADS(1, Emotion.MP) {
+                ValidatorSuppress("dah-lone-pads")
+            }
             Waifu("Kurashina Asuka", "2021-06-02" to "2021-06-16")
 
             FeatureMusic("M-VGMDB-AL-52834")
