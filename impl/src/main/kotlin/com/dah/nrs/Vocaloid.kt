@@ -99,6 +99,8 @@ fun DSLScope.Vocaloid() {
             Music(0.4)
         }
         SubIDEntry("91") {
+            MusicConsumedProgress("3:30") // generated(fill_music_metadata.dart v0.1.1)
+            title = "ゴーストルール" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.3)
             OsuSong(personal = 0.6, community = 0.6)
         }
