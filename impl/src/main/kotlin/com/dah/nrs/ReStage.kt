@@ -188,7 +188,9 @@ fun DSLScope.ReStage() {
             // the re stage niji incident
 //            PADS(5, Emotion.MP)
             // rare occurrence of a PADS without accompanying AEI
-            PADS(1, Emotion.MP)
+            PADS(1, Emotion.MP) {
+                ValidatorSuppress("dah-lone-pads")
+            }
 
             // 4chan loved rst, which is heartwarming af
             AEI(0.3, Emotion.MP)
