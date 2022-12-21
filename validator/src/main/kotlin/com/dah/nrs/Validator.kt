@@ -61,6 +61,7 @@ fun main() {
         dah_invalid_id(data),
         dah_no_title(data),
         dah_check_custom_id(data),
+        dah_lone_pads(data),
     )) {
         rule.run()
     }
