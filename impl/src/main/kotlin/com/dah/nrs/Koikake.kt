@@ -85,7 +85,7 @@ fun DSLScope.Koikake() {
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }
 
-            PADS(8, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
+            PADS(9, Emotion.CU to 0.5, Emotion.MP to 0.3, Emotion.AU to 0.1, Emotion.CP to 0.1) {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-104267-3"] = 0.05
                 contributors["M-VGMDB-AL-58596-14"] = 0.05
