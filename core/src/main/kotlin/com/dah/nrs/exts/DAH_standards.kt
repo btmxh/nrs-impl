@@ -67,7 +67,7 @@ private fun emotionVector(context: NRSContext, vararg emotions: Pair<Emotion.Fac
     val baseScore = 1.0 / combinedFactor
 
     return context.vector {
-        emotions.forEach { (factor, weight) -> set(factor, baseScore * weight) }
+        emotions.forEach { (factor, weight) -> set(factor, baseScore * weight.pow(0.9)) }
     }
 }
 
