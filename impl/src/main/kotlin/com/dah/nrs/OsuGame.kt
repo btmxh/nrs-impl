@@ -134,6 +134,32 @@ fun DSLScope.OsuGame() {
             Music(0.65)
         }
     }
+
+    Entry {
+        id = "M-VGMDB-AL-79717"
+        title = "Shirokoi Sakura*Gram THEME SONG COLLECTION! 4" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.5, 0.3)
+        SubIDEntry("1") {
+            MusicConsumedProgress("4:29") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Have a live day fullver." // generated(fill_music_metadata.dart v0.1.1)
+            Music(0.55)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-117099"
+        title = "HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5" // generated(fill_music_metadata.dart v0.1.1)
+
+        Visual(VisualKind.AlbumArt, 0.5, 0.3)
+        SubIDEntry("1") {
+            title = "Ringing＊Days fullver." // generated(fill_music_metadata.dart v0.1.1)
+            // Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4
+            MusicConsumedProgress("5:07") // impl_overridden
+            Music(0.6)
+        }
+    }
+
     Entry {
         id = "M-VGMDB-AL-99204"
         title = "SMASH The PAINT!! / Nijisanji" // generated(fill_music_metadata.dart v0.1.1)
