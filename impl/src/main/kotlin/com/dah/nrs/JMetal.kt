@@ -87,9 +87,11 @@ fun DSLScope.JMetal() {
 
         Entry {
             id = "M-VGMDB-AL-80229"
+            title = "Chronostasis" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
+                title = "Chronostasis" // generated(fill_music_metadata.dart v0.1.1)
                 // Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9
                 MusicConsumedProgress("6:22") // impl_overridden
                 Music(0.4)
