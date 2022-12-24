@@ -13,6 +13,11 @@ fun DSLScope.EgaoDaika() {
 
         Entry {
             id = "A-MAL-38544"
+            title = "Egao no Daika" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 38544 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42001 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 104674 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 38544 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Yuuki Soleil"
             // no way it's the
@@ -36,9 +41,12 @@ fun DSLScope.EgaoDaika() {
 
         Entry {
             id = "M-VGMDB-AL-81448"
+            title = "Egao no Kanata / Chiho feat. majiko" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             SubIDEntry("1") {
+                MusicConsumedProgress("Unknown") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Egao no Kanata" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
                 OsuSong(personal = 0.2, community = 0.1)
             }
