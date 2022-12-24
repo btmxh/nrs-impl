@@ -1075,9 +1075,10 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             SubIDEntry("1") {
-                MusicConsumedProgress("Unknown") // generated(fill_music_metadata.dart v0.1.1)
-                title = "Imperial Stage" // generated(fill_music_metadata.dart v0.1.1)
-                ValidatorSuppress("dah-entry-no-consumed")
+                ReStepMusic(0.2) {
+                    from(ReStageMusicContext.CultureEra.NEE)
+                    nee = 3.0
+                }
             }
         }
 
