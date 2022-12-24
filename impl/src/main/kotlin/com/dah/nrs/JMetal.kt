@@ -80,4 +80,36 @@ fun DSLScope.JMetal() {
             }
         }
     }
+
+    Entry {
+        id = "M-20221224T220452"
+        title = "Release Hallucination"
+
+        Entry {
+            id = "M-VGMDB-AL-80229"
+            title = "Chronostasis" // generated(fill_music_metadata.dart v0.1.1)
+            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+
+            SubIDEntry("1") {
+                title = "Chronostasis" // generated(fill_music_metadata.dart v0.1.1)
+                // Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9
+                MusicConsumedProgress("6:22") // impl_overridden
+                Music(0.4)
+                OsuSong(0.0, 0.3)
+            }
+        }
+
+        Entry {
+            id = "M-20221224T220636"
+            title = "Imperfection of Imaginary Number"
+
+            SubIDEntry("3") {
+                title = "I.F."
+                // Length source: https://open.spotify.com/album/71Im3HkxyIk8OypYiE9aBR
+                MusicConsumedProgress("6:58")
+                Music(0.5)
+                OsuSong(0.1, 0.4)
+            }
+        }
+    }
 }
