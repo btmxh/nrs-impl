@@ -13,6 +13,11 @@ fun DSLScope.TensaiOuji() {
 
         Entry {
             id = "A-MAL-47159"
+            title = "Tensai Ouji no Akaji Kokka Saisei Jutsu" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 47159 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44020 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 129190 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 47159 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Tensai Ouji no Akaji Kokka Saisei Jutsu"
 
             bestGirl = "Ninym Ralei"
@@ -34,10 +39,13 @@ fun DSLScope.TensaiOuji() {
 
         Entry {
             id = "M-VGMDB-AL-116264"
+            title = "LEVEL / yanaginagi × THE SIXTH LIE" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:13") // generated(fill_music_metadata.dart v0.1.1)
+                title = "LEVEL" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
             }
         }
