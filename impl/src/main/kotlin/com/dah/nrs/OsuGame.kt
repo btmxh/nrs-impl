@@ -222,18 +222,6 @@ fun DSLScope.OsuGame() {
         }
     }
     Entry {
-        id = "M-VGMDB-AL-81448"
-        title = "Egao no Kanata / Chiho feat. majiko" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.5, 0.3)
-        SubIDEntry("1") {
-            title = "Egao no Kanata" // generated(fill_music_metadata.dart v0.1.1)
-            // Length source: https://osu.ppy.sh/beatmapsets/1048878#osu/2192351
-            MusicConsumedProgress("3:50") // impl_overridden
-            Music(0.5)
-            OsuSong(personal = 0.25, community = 0.0)
-        }
-    }
-    Entry {
         id = "M-VGMDB-AL-121238"
         title = "Shade of Mythology" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
