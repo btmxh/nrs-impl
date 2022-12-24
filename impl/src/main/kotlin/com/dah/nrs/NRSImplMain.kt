@@ -743,6 +743,7 @@ fun main() =
         OsuGame()
         TariTari()
         SelePro()
+        TensaiOuji()
 
         NatsuKise()
 
