@@ -14,6 +14,11 @@ fun DSLScope.Nakineko() {
 
         Entry {
             id = "A-MAL-41168"
+            title = "Nakitai Watashi wa Neko wo Kaburu" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 41168 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 42965 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 114963 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 41168 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Nakitai Watashi wa Neko wo Kaburu"
 
             bestGirl = "Miyo Sasaki"
@@ -29,9 +34,12 @@ fun DSLScope.Nakineko() {
 
         Entry {
             id = "M-VGMDB-AL-99082"
+            title = "Hana ni Bourei / Yorushika" // generated(fill_music_metadata.dart v0.1.1)
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:00") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hana ni Bourei" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.6)
             }
         }
