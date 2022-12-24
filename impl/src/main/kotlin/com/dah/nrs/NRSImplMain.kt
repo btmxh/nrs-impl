@@ -735,6 +735,7 @@ fun main() =
 
         Aokana()
         ATRI()
+        MiaZora()
 
         Cue()
         Irodori()
