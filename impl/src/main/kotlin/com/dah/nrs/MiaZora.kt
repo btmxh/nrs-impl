@@ -36,10 +36,13 @@ fun DSLScope.MiaZora() {
 
         Entry {
             id = "M-VGMDB-AL-57788"
+            title = "Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD \"and Little Planets\"" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("3:48") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Finest Sky" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.35)
                 // [albireo princess]
                 // hddt
