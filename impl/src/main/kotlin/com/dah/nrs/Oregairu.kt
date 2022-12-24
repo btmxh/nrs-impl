@@ -106,6 +106,14 @@ fun DSLScope.Oregairu() {
             contributors["A-MAL-23847"] = 0.7
         }
 
+        // https://github.com/ngoduyanh/nrs-impl-kt/issues/285
+        // tldr
+        // yui was gonna be waifu but yui depression etc etc
+        WaifuUnknownPeriod("Yui Yuigahama", 30) {
+            contributors["A-MAL-14813"] = 0.1
+            contributors["A-MAL-23847"] = 0.9
+        }
+
         Entry {
             id = "A-MAL-14813"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru." // generated(fill_anime_metadata.dart v0.1.1)
