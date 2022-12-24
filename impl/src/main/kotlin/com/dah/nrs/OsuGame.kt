@@ -1085,4 +1085,30 @@ fun DSLScope.OsuGame() {
             NEI(0.5, Emotion.AP)
         }
     }
+
+    Entry {
+        id = "M-20221224T221424"
+        title = "Lionheart"
+
+        // Length source: https://open.spotify.com/album/6CqNBwcHMterjF1qMiNmcY
+        MusicConsumedProgress("4:38")
+        Music(0.3)
+        OsuSong(personal = 0.2, community = 0.8)
+        // Like a lion 🦁 we fight 👊 Together we will die 💀
+        // For the glory of our god 😇 Justice on our side ✝️
+        // This cross will lead to light 💡 Follow Richard Lionheart 🙏
+    }
+
+    Entry {
+        id = "M-20221224T221533"
+        title = "Glory Days"
+
+        // Length source: https://fellowshipmetal.bandcamp.com/album/the-saberlight-chronicles
+        MusicConsumedProgress("4:53")
+        Music(0.5)
+        OsuSong(personal = 0.2, community = 0.8)
+        // Like a lion 🦁 we fight 👊 Together we will die 💀
+        // For the glory of our god 😇 Justice on our side ✝️
+        // This cross will lead to light 💡 Follow Richard Lionheart 🙏
+    }
 }
