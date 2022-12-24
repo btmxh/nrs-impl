@@ -1130,8 +1130,9 @@ fun DSLScope.OsuGame() {
         MusicConsumedProgress("4:53")
         Music(0.5)
         OsuSong(personal = 0.2, community = 0.8)
-        // Like a lion 🦁 we fight 👊 Together we will die 💀
-        // For the glory of our god 😇 Justice on our side ✝️
-        // This cross will lead to light 💡 Follow Richard Lionheart 🙏
+        // To seek the glory days 🌅 we'll fight the lion's way 🦁
+        // then let the rain wash 🌧️ all of your pride away 😇
+        // so if this victory 🏆 is our last odyssey 🚗
+        // then let the POWER within us decide 💪
     }
 }
