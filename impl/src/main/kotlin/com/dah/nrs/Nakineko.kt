@@ -19,7 +19,7 @@ fun DSLScope.Nakineko() {
             idKitsu = 42965 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 114963 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 41168 // generated(fill_anime_metadata.dart v0.1.1)
-            title = "Nakitai Watashi wa Neko wo Kaburu"
+            title = "Nakitai Watashi wa Neko wo Kaburu" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Miyo Sasaki"
             // main girl pretty pog btw
