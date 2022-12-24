@@ -1075,6 +1075,9 @@ fun DSLScope.ReStage() {
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             SubIDEntry("1") {
+                // Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8
+                MusicConsumedProgress("3:24") // impl_overridden
+                title = "Imperial Stage" // generated(fill_music_metadata.dart v0.1.1)
                 ReStepMusic(0.2) {
                     from(ReStageMusicContext.CultureEra.NEE)
                     nee = 3.0
