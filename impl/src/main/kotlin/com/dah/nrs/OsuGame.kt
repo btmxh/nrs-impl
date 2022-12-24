@@ -103,6 +103,13 @@ fun DSLScope.OsuGame() {
         title = "AstralAir no Shiroki Towa - ETERNAL BEST -" // generated(fill_music_metadata.dart v0.1.1)
 
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
+
+        SubIDEntry("9") {
+            Music(0.45)
+            OsuSong(personal = 0.3, community = 0.3)
+            // mrekk pp haha
+        }
+
         SubIDEntry("16") {
             MusicConsumedProgress("6:10") // generated(fill_music_metadata.dart v0.1.1)
             title = "Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-" // generated(fill_music_metadata.dart v0.1.1)
