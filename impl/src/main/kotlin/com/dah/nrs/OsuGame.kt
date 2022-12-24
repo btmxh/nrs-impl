@@ -149,6 +149,8 @@ fun DSLScope.OsuGame() {
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
         SubIDEntry("1") {
+            // Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4
+            MusicConsumedProgress("5:07") // impl_overridden
             Music(0.6)
         }
     }
