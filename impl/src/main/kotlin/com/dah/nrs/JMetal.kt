@@ -90,6 +90,8 @@ fun DSLScope.JMetal() {
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
+                // Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9
+                MusicConsumedProgress("6:22")
                 Music(0.4)
                 OsuSong(0.0, 0.3)
             }
