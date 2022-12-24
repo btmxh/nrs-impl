@@ -1083,9 +1083,12 @@ fun DSLScope.ReStage() {
 
         Entry {
             id = "M-VGMDB-AL-125354"
+            title = "Rainbow FlowerS / ortensia" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
             SubIDEntry("1") {
+                MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Rainbow FlowerS" // generated(fill_music_metadata.dart v0.1.1)
                 // farewell ~sena-chan get the fuck out wtf
                 // are the koikake fuckers doing here it's
                 // arc 3 idol dystopia not nee~ mineuchi totomi
