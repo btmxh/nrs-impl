@@ -157,4 +157,23 @@ fun DSLScope.Vocaloid() {
         // Length source: https://www.youtube.com/watch?v=H_rOo9HNF3w
         MusicConsumedProgress("4:53")
     }
+
+    Entry {
+        id = "M-20221224T223044"
+        title = "Hitori no Kimi to Hitori no Boku ni"
+
+        // suzumu the goat
+        // obligatory honokaCLAP and catJAM
+        // https://github.com/ngoduyanh/gifs/blob/master/gif/honokaCLAP.gif
+
+        // i miss ayumu-era
+        // now love live is "bottom of society" (đáy xh) rip
+        // the song still slaps tho
+        // no ei in nee sadge
+
+        Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
+        Music(0.5)
+        // Length source: https://www.youtube.com/watch?v=EHxFEHPBDP8
+        MusicConsumedProgress("4:28")
+    }
 }
