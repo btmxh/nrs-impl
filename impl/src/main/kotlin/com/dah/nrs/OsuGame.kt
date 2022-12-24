@@ -105,6 +105,8 @@ fun DSLScope.OsuGame() {
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
         SubIDEntry("9") {
+            MusicConsumedProgress("4:44") // generated(fill_music_metadata.dart v0.1.1)
+            title = "Euphorium" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.45)
             OsuSong(personal = 0.3, community = 0.3)
             // mrekk pp haha
