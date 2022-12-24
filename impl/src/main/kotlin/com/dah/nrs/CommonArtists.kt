@@ -266,6 +266,8 @@ fun DSLScope.CommonArtists() {
 
             // 765 MILLION ALLSTARS
             Contains("M-VGMDB-AR-32295", 3.0 / 51.0)
+
+            Contains("M-VGMDB-AL-61577", MusicVocalContainFactor + MusicImageContainFactor * 0.5)
         }
     }
 
