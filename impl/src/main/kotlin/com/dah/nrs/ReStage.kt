@@ -1082,6 +1082,30 @@ fun DSLScope.ReStage() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-125354"
+            title = "Rainbow FlowerS / ortensia" // generated(fill_music_metadata.dart v0.1.1)
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:25") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Rainbow FlowerS" // generated(fill_music_metadata.dart v0.1.1)
+                // farewell ~sena-chan get the fuck out wtf
+                // are the koikake fuckers doing here it's
+                // arc 3 idol dystopia not nee~ mineuchi totomi
+
+                // "gyze mineuchi totomi read koikake and realized
+                // that she would like to devote her seiyuu life
+                // to banger eroge as such, not something as shallow
+                // as 'the ortensia incident'" - mfs who don't even know
+                // the true depth of the ortensia incident
+                ReStepMusic(0.45) {
+                    from(ReStageMusicContext.CultureEra.NEE)
+                    nee = 3.0
+                }
+            }
+        }
+
+        Entry {
             id = "GF-VGMDB-7059"
             title = "Re:Stage! Prism Step"
 
