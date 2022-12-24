@@ -18,7 +18,7 @@ fun DSLScope.TensaiOuji() {
             idKitsu = 44020 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 129190 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 47159 // generated(fill_anime_metadata.dart v0.1.1)
-            title = "Tensai Ouji no Akaji Kokka Saisei Jutsu"
+            title = "Tensai Ouji no Akaji Kokka Saisei Jutsu" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Ninym Ralei"
 
