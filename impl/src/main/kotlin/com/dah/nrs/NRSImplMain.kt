@@ -29,6 +29,20 @@ fun main() =
         KokoroConnect()
 
         Entry {
+            id = "A-MAL-21995"
+            title = "Ao Haru Ride" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 21995 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8246 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20596 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 21995 // generated(fill_anime_metadata.dart v0.1.1)
+
+            bestGirl = "Futaba Yoshioka"
+            // old af and nothing special iirc
+            AnimeProgressOld(Boredom.Completed, 12)
+            Visual(VisualKind.Animated, 0.3, 0.4)
+        }
+
+        Entry {
             id = "A-MAL-12175"
             idMAL = 12175 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 12175 // generated(fill_anime_metadata.dart v0.1.1)
