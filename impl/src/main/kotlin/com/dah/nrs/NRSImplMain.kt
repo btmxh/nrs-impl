@@ -29,6 +29,15 @@ fun main() =
         KokoroConnect()
 
         Entry {
+            id = "A-MAL-21995"
+
+            bestGirl = "Futaba Yoshioka"
+            // old af and nothing special iirc
+            AnimeProgressOld(Boredom.Completed, 12)
+            Visual(VisualKind.Animated, 0.3, 0.4)
+        }
+
+        Entry {
             id = "A-MAL-12175"
             idMAL = 12175 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 12175 // generated(fill_anime_metadata.dart v0.1.1)
