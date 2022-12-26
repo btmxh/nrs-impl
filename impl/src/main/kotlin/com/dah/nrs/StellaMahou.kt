@@ -13,6 +13,11 @@ fun DSLScope.StellaMahou() {
 
         Entry {
             id = "A-MAL-32555"
+            title = "Stella no Mahou" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 32555 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 11756 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 21597 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 32555 // generated(fill_anime_metadata.dart v0.1.1)
 
             // i love music composers
             bestGirl = "Kayo Fujikawa"
