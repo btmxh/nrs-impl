@@ -268,5 +268,40 @@ fun DSLScope.KokuhakuJikkouIinkai() {
             AEI(0.3, Emotion.MP to 0.3, Emotion.CU to 0.7)
             FeatureMusic("M-VGMDB-AL-120871-5")
         }
+
+        Entry {
+            id = "A-MAL-49692"
+            title = "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 49692 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 45031 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 138459 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 49692 // generated(fill_anime_metadata.dart v0.1.1)
+
+            // who is best girl gyze?
+
+            // is it the "no way himeno sena osu skin" girl?
+            // context: https://www.youtube.com/watch?v=BqHqZN9hoNo
+            bestGirl = "Setoguchi Hina"
+
+            // is it the "no way (not himeno) sena from koikakerushinaikanojo" girl?
+            bestGirl = "Narumi Sena"
+
+            // jk main girl it is then
+            // (she run and what a coincidence the nozsp is supposed to run too!)
+            bestGirl = "Hiyori Suzumi"
+
+            // speedrun this in one night lol
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            Visual(VisualKind.Animated, 0.4, 0.6)
+
+            // main girl's friend betraying her was somewhat unexpected ig
+            NEI(0.1, Emotion.AP)
+
+            // funnychamp
+            NEI(0.8, Emotion.AP)
+
+            // no way post-modern (not rst-inspired) cp-based anime!1!
+            NEI(0.5, Emotion.CP)
+        }
     }
 }
