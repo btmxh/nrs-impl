@@ -216,17 +216,6 @@ fun DSLScope.OsuGame() {
         }
     }
     Entry {
-        id = "M-VGMDB-AL-40263"
-        title = "Love Lab Vol.2 Bonus CD" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.1, 0.2)
-        SubIDEntry("1") {
-            title = "Best FriendS" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("4:32") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.4)
-            OsuSong(personal = 0.7, community = 0.8)
-        }
-    }
-    Entry {
         id = "M-VGMDB-AL-79122"
         title = "BLACK CLOVER MUSIC COLLECTION Vol.2" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
@@ -280,17 +269,6 @@ fun DSLScope.OsuGame() {
             MusicConsumedProgress("3:20") // generated(fill_music_metadata.dart v0.1.1)
             Music(0.45)
             OsuSong(personal = 0.5, community = 0.1)
-        }
-    }
-    Entry {
-        id = "M-VGMDB-AL-60899"
-        title = "God Save The Girls / Shino Shimoji" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.2, 0.2)
-        SubIDEntry("1") {
-            title = "God Save The Girls" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("4:19") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.45)
-            OsuSong(personal = 0.25, community = 0.0)
         }
     }
     Entry {
