@@ -17,6 +17,11 @@ fun DSLScope.Hanayamata() {
 
         Entry {
             id = "A-MAL-21681"
+            title = "Hanayamata" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 21681 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 8138 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 20575 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 21681 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Naru Sekiya"
 
@@ -30,10 +35,13 @@ fun DSLScope.Hanayamata() {
 
         Entry {
             id = "M-VGMDB-AL-46235"
+            title = "Hana ha odore ya irohani ho / Team \"Hanayamata\"" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:10") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Hana wa Odore ya Irohaniho" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.6)
             }
         }
