@@ -272,17 +272,6 @@ fun DSLScope.OsuGame() {
         }
     }
     Entry {
-        id = "M-VGMDB-AL-60899"
-        title = "God Save The Girls / Shino Shimoji" // generated(fill_music_metadata.dart v0.1.1)
-        Visual(VisualKind.AlbumArt, 0.2, 0.2)
-        SubIDEntry("1") {
-            title = "God Save The Girls" // generated(fill_music_metadata.dart v0.1.1)
-            MusicConsumedProgress("4:19") // generated(fill_music_metadata.dart v0.1.1)
-            Music(0.45)
-            OsuSong(personal = 0.25, community = 0.0)
-        }
-    }
-    Entry {
         id = "M-VGMDB-AL-66456"
         title = "Hakkensha wa Watashi / Tapimiru" // generated(fill_music_metadata.dart v0.1.1)
         Visual(VisualKind.AlbumArt, 0.2, 0.2)

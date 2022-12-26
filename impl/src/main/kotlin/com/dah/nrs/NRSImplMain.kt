@@ -360,6 +360,7 @@ fun main() =
         LapisReLights()
 
         LoveLab()
+        StellaMahou()
 
         Entry {
             id = "A-MAL-37744"
