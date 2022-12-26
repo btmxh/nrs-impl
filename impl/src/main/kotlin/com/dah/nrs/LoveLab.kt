@@ -13,6 +13,11 @@ fun DSLScope.LoveLab() {
 
         Entry {
             id = "A-MAL-16353"
+            title = "Love Lab" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 16353 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 7410 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 16353 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 16353 // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Riko Kurahashi"
 
