@@ -359,6 +359,7 @@ fun main() =
         OnsenMusume()
         LapisReLights()
 
+        LoveLab()
         StellaMahou()
 
         Entry {
