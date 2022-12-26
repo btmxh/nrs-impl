@@ -271,6 +271,11 @@ fun DSLScope.KokuhakuJikkouIinkai() {
 
         Entry {
             id = "A-MAL-49692"
+            title = "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 49692 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 45031 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 138459 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 49692 // generated(fill_anime_metadata.dart v0.1.1)
 
             // who is best girl gyze?
 
