@@ -359,6 +359,8 @@ fun main() =
         OnsenMusume()
         LapisReLights()
 
+        StellaMahou()
+
         Entry {
             id = "A-MAL-37744"
             idMAL = 37744 // generated(fill_anime_metadata.dart v0.1.1)
