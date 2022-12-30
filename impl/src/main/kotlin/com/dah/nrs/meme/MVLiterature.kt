@@ -90,7 +90,7 @@ fun DSLScope.MVLiterature() {
             // the girls look CG af, but at least the other things are good
             Visual(VisualKind.SemiAnimatedMV, 0.3, 0.2)
             AKMEraPart1(0.4)
-            AKMEraPart1(0.1)
+            AKMEraPart2(0.1)
         }
     }
 }
