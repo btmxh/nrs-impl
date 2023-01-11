@@ -159,6 +159,51 @@ fun DSLScope.Koikake() {
             title = "彗光、星空通りにて (feat.nayuta)" // generated(fill_music_metadata.dart v0.1.1)
             Music(0.7)
             KoikakeCry(0.75, Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25)
+            // Đó chính là, đoạn đường mà em đi
+            // That is, the path that you've chosen
+
+            // Đoạn đường đầy những vì sao
+            // The path that is filled with stars
+
+            // Với bao điều mơ ước trong tim mình
+            // And full of dreams in your heart
+
+            // Ngày mai, mặc dù tình yêu đã chết
+            // Tomorrow, even though our love has died
+
+            // Ước mơ trong em luôn còn
+            // The dream within you is still there
+
+            // Và lại cùng em bước đi
+            // And once again, you will continue to walk
+
+
+            // Đó chính là, đoạn đường đầy chông gai
+            // That is, the path full of thorns.
+
+            // Đoạn đường đầy những khổ đau
+            // A path that is filled with pain
+
+            // Với bao điều đau đớn trong tim mình
+            // Full of wounds in your heart
+
+            // Ngày mai, mặc dù bầu trời xanh đã chết
+            // Tomorrow, even if the blue sky has died
+
+            // Nước mắt trong em rơi dài
+            // Tears in your eyes fall down
+
+            // Thì dù sao, em vẫn sẽ, luôn bước đi
+            // Even so, you will continue to go
+
+            // Ah, bản tình ca, của 1 ngày xưa đã chết ở trong bóng đêm
+            // Ah, a love song, of a past, died in the night
+
+            // La la la la, trở thành niềm tin mới
+            // La la la la, will become the faith
+
+            // Để trái tim này bước đi...
+            // For this heart to keep going forward...
         }
     }
 }

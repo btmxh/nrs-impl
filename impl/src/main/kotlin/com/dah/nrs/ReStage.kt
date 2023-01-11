@@ -587,6 +587,8 @@ fun DSLScope.ReStage() {
                 ReStepMusic(0.4) {
                     arc1 = 2.5
                     arc3 = 2.5
+                    // blame localism
+                    nee = 20.0
                 }
             }
         }
@@ -713,6 +715,11 @@ fun DSLScope.ReStage() {
                 Contains("M-VGMDB-AL-122926-6")
             }
         }
+
+        // the ortensia incident lore
+        // it is already known from arc 1, but idk the details
+        // (like 20-30 days won't do much for something that's longer than 300 days)
+        Meme(0.3, numDays("2022-01-01"))
 
         Entry {
             id = "M-VGMDB-AL-82369"
@@ -1237,6 +1244,13 @@ fun DSLScope.ReStage() {
         contributors["GF-VGMDB-7059"] = 0.15
         contributors["M-VGMDB-AR-29249"] = 0.2
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3)
+    }
+
+    NeoErogeEra(0.25) {
+        contributors["A-MAL-38009"] = 0.1
+        contributors["GF-VGMDB-7059"] = 0.15
+        contributors["M-VGMDB-AR-29249"] = 0.05
+        TrackMemeImpact(0.7, ReStageMusicContext.CultureEra.NEE)
     }
 }
 
