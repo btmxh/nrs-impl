@@ -163,8 +163,8 @@ fun DSLScope.Koikake() {
     }
 }
 
-fun AcceptImpact.NeoErogeEra(strength: Double) {
-    Meme(strength, numDays("2022-11-25"))
+fun AcceptImpact.NeoErogeEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
+    Meme(strength, numDays("2022-11-25"), block)
 }
 
 fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
