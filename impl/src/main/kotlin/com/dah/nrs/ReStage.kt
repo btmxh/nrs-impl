@@ -587,6 +587,8 @@ fun DSLScope.ReStage() {
                 ReStepMusic(0.4) {
                     arc1 = 2.5
                     arc3 = 2.5
+                    // blame localism
+                    nee = 20.0
                 }
             }
         }
