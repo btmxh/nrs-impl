@@ -15,6 +15,11 @@ fun DSLScope.Winter2023() {
 
     Entry {
         id = "A-MAL-52736"
+        title = "Tensei Oujo to Tensai Reijou no Mahou Kakumei" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 52736 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 46335 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 153629 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 52736 // generated(fill_anime_metadata.dart v0.1.1)
 
         // pogpega it's le cat !!1!1!!
         bestGirl = "Lainie Cyan"
@@ -31,6 +36,11 @@ fun DSLScope.Winter2023() {
 
     Entry {
         id = "A-MAL-49980"
+        title = "Sugar Apple Fairy Tale" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 49980 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 45270 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 139821 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 49980 // generated(fill_anime_metadata.dart v0.1.1)
 
         // lmfao "escha 2023"
         bestGirl = "Ann Halford"
@@ -41,6 +51,11 @@ fun DSLScope.Winter2023() {
 
     Entry {
         id = "A-MAL-49612"
+        title = "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu" // generated(fill_anime_metadata.dart v0.1.1)
+        idAniDB = 49612 // generated(fill_anime_metadata.dart v0.1.1)
+        idKitsu = 44982 // generated(fill_anime_metadata.dart v0.1.1)
+        idAniList = 137909 // generated(fill_anime_metadata.dart v0.1.1)
+        idMAL = 49612 // generated(fill_anime_metadata.dart v0.1.1)
 
         // lmfao "wilbell 2023"
         // jk lol
