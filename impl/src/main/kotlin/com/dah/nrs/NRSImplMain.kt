@@ -831,5 +831,6 @@ fun main() =
         Koikake()
 
         KokuhakuJikkouIinkai()
+        Winter2023()
     }.run {}
 
