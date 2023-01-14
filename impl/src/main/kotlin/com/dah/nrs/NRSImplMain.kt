@@ -550,6 +550,8 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.3)
             AnimeProgressOld(Boredom.Dropped, 6)
             KilledBy("F-VGMDB-2588", 0.5, 0.5)
+            // observism and the COP
+            Politics {}
         }
 
         Entry {

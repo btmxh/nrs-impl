@@ -22,6 +22,7 @@ fun DSLScope.MiaZora() {
             bestGirl = "Saotome Miharu"
             // legends said that ffp was born because of this woman
             // if so she's worst girl /s
+            Politics {}
 
             // also the girls in this vn suck ngl
             // idk maybe the albireo princess girl is cute
