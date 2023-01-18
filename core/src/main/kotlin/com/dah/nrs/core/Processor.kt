@@ -45,7 +45,7 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
             val child = entries[childId]!!
             solveContainWeightSingle(child, stack)
             assert(child.containMapInit)
-            calcEntry.containMap[childId] = childWeight
+            calcEntry.containMap[childId] = min(1.0, (calcEntry.containMap[childId] ?: 0.0) + childWeight)
             for ((grandchildId, grandchildWeight) in child.containMap) {
                 calcEntry.containMap[grandchildId] =
                     min(1.0, (calcEntry.containMap[grandchildId] ?: 0.0) + grandchildWeight * childWeight)
