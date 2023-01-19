@@ -27,11 +27,22 @@ fun DSLScope.Winter2023() {
         // like bruh himeno sena exists now you fucking dumbass
         bestGirl = "Anisphia Wynn Palletia"
 
-        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 1)
+        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 3)
         Visual(VisualKind.Animated, 0.5, 0.3)
 
         // the first ep already gave me chill :skull:
         AEI(0.2, Emotion.CP to 0.8, Emotion.MP to 0.2)
+
+        // clueless mfs ^^^^
+        // thank you based localism
+        // thank you based localism
+        // thank you based localism
+        // thank you based localism
+        // thank you based localism
+        Cry(Emotion.CP to 0.8, Emotion.MP to 0.2) {
+            contributors["A-MAL-52736"] = 0.5
+            contributors["localism [null entry]"] = 0.5
+        }
     }
 
     Entry {
@@ -45,7 +56,7 @@ fun DSLScope.Winter2023() {
         // lmfao "escha 2023"
         bestGirl = "Ann Halford"
 
-        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 1)
+        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
         Visual(VisualKind.Animated, 0.4, 0.6)
     }
 
@@ -61,7 +72,7 @@ fun DSLScope.Winter2023() {
         // jk lol
         bestGirl = "Tiana"
 
-        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 1)
+        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
         Visual(VisualKind.Animated, 0.3, 0.6)
 
         // focus on [trust], somewhat interesting
