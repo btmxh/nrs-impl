@@ -573,6 +573,12 @@ fun DSLScope.LoveLive() {
             FeatureMusic("M-VGMDB-AL-102281-1")
             FeatureMusic("M-VGMDB-AL-104783-1")
 
+            // FUCK YOU SHIT FRANCHISE
+            // YOU CAUSED THE RINA-CHAN BOARDO INCIDENT
+            // THANKS TO YOU MY "FRIEND" HATED ME NOW
+            // love live đáy xã hội
+            AEI(-0.1, Emotion.MU)
+
             // NO FUCKING WAY
             // ANOTHER CONSEQUENCE OF THE ORTENSIA INCIDENT
             // https://twitter.com/tomori_kusunoki/status/1587370653367250944
