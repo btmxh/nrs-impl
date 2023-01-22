@@ -123,7 +123,7 @@ fun DSLScope.Summer2022() {
         bestGirl = "Saki Kodaka" // generated(generate_best_girls.dart v0.1.0)
         // saki is someone that we need but we don't deserve
 
-        // no fucking way ari ozawa and totomi mineuchi in the same anime
+        // no fucking way ari ozawa and tomomi mineuchi in the same anime
         // is this an ortensia incident reference????????????????????????
         // (more '?' than teppen let's go)
 

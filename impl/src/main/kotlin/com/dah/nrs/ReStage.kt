@@ -679,7 +679,7 @@ fun DSLScope.ReStage() {
             //
             // The ChuChu analogy is an explanation for several voice actresses actions and their motives under the hood. It was based on the character ChuChu from the anime [Show by Rock!!](https://en.wikipedia.org/wiki/Show_by_Rock!!), a girl with great ambition, who would consider her current band merely a stepping stone to reach her dreams.
             //
-            // The analogy stated that in rst, there are several voice actresses with a similar mindset. They don't care about the franchise, and just wanted to fill a slot in their portfolios. If this was the case for Totomi Mineuchi, after realizing that the anime was going to be unpopular till the end of time, quiting and spending her time for better roles should clearly be the superior choice.
+            // The analogy stated that in rst, there are several voice actresses with a similar mindset. They don't care about the franchise, and just wanted to fill a slot in their portfolios. If this was the case for Tomomi Mineuchi, after realizing that the anime was going to be unpopular till the end of time, quiting and spending her time for better roles should clearly be the superior choice.
             //
             // ### Potential true reason #3: Displeasure
             //
@@ -1102,9 +1102,9 @@ fun DSLScope.ReStage() {
                 title = "Rainbow FlowerS" // generated(fill_music_metadata.dart v0.1.1)
                 // farewell ~sena-chan get the fuck out wtf
                 // are the koikake fuckers doing here it's
-                // arc 3 idol dystopia not nee~ mineuchi totomi
+                // arc 3 idol dystopia not nee~ mineuchi tomomi
 
-                // "gyze mineuchi totomi read koikake and realized
+                // "gyze mineuchi tomomi read koikake and realized
                 // that she would like to devote her seiyuu life
                 // to banger eroge as such, not something as shallow
                 // as 'the ortensia incident'" - mfs who don't even know
