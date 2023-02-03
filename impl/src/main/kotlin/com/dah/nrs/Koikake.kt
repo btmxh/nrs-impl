@@ -29,6 +29,7 @@ fun DSLScope.Koikake() {
             bestGirl = "Himekek Sena"
             bestGirl = "Himeno Sena" // oops :clueless:
             // eroge waifu :clueless:
+            // dead?
             Waifu("Himeno Sena", "2022-11-25" to today())
 
             // first 1.0 yay!!! the waifu method :clueless:
@@ -209,7 +210,8 @@ fun DSLScope.Koikake() {
 }
 
 fun AcceptImpact.NeoErogeEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
-    Meme(strength, numDays("2022-11-25"), block)
+
+    Meme(strength, numDays("2022-11-25", "2022-12-31"), block)
 }
 
 fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {

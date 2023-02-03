@@ -831,5 +831,6 @@ fun main() =
         KokuhakuJikkouIinkai()
         Winter2023()
         Bird()
+        BlueArchive()
     }.run {}
 
