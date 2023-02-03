@@ -8,9 +8,7 @@ package com.dah.nrs
 
 import com.dah.nrs.dsl.*
 import com.dah.nrs.exts.*
-import com.dah.nrs.meme.MVLiterature
-import com.dah.nrs.meme.Method
-import com.dah.nrs.meme.PostModern
+import com.dah.nrs.meme.*
 import com.dah.nrs.seasonal.*
 import kotlin.time.Duration.Companion.hours
 import kotlin.time.Duration.Companion.minutes
@@ -832,5 +830,6 @@ fun main() =
 
         KokuhakuJikkouIinkai()
         Winter2023()
+        Bird()
     }.run {}
 
