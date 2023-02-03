@@ -144,6 +144,16 @@ fun DSLScope.KokuhakuJikkouIinkai() {
 
             Contains(MusicInstContainFactor + MusicImageContainFactor) {
                 Entry {
+                    id = "M-VGMDB-AL-80437"
+
+                    Visual(VisualKind.AlbumArt, 0.3, 0.5)
+                    SubIDEntry("1") {
+                        Music(0.5)
+                        Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
+                    }
+                }
+
+                Entry {
                     // https://lovecommittee.fandom.com/wiki/Boku_Ja_Dame_Desu_ka%3F_~Kokuhaku_Jikkou_Iinkai_Character_Song_Collection~
                     id = "M-20221225T010305"
                     title = "Boku Ja Dame Desu ka? ~Kokuhaku Jikkou Iinkai Character Song Collection~"
