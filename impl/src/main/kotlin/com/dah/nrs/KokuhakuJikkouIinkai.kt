@@ -145,9 +145,12 @@ fun DSLScope.KokuhakuJikkouIinkai() {
             Contains(MusicInstContainFactor + MusicImageContainFactor) {
                 Entry {
                     id = "M-VGMDB-AL-80437"
+                    title = "Zutto Mae kara Suki deshita. / HoneyWorks" // generated(fill_music_metadata.dart v0.1.1)
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
                     SubIDEntry("1") {
+                        MusicConsumedProgress("3:37") // generated(fill_music_metadata.dart v0.1.1)
+                        title = "Yakimochi no Kotae" // generated(fill_music_metadata.dart v0.1.1)
                         Music(0.5)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
                     }
