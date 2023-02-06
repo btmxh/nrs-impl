@@ -736,10 +736,10 @@ fun DSLScope.SB69() {
                 // absolute catjammer
                 // cricri is just too fking based
 
-                // Even if the world was to end in the morning
-                // I wouldn’t have any regrets, because I was able to meet you
-                // That’s the most of my feelings I can express
-                // But it’s fine if you’re too thick to understand
+                // Even if the world were to ends tomorrow,
+                // I wouldn't have any regrets, because I was able to meet you.
+                // These are my true and genuine feelings
+                // I want to convey that to the you who is densetrollmc af
 
                 // btw kaguyashit pls fuck off from this beautiful lyrics
                 // this is also known as "A-Sử-iro Koi Moyou"
