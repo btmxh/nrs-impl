@@ -19,6 +19,11 @@ fun DSLScope.KageJitsu() {
 
         Entry {
             id = "A-MAL-48316"
+            title = "Kage no Jitsuryokusha ni Naritakute!" // generated(fill_anime_metadata.dart v0.1.1)
+            idAniDB = 48316 // generated(fill_anime_metadata.dart v0.1.1)
+            idKitsu = 44107 // generated(fill_anime_metadata.dart v0.1.1)
+            idAniList = 130298 // generated(fill_anime_metadata.dart v0.1.1)
+            idMAL = 48316 // generated(fill_anime_metadata.dart v0.1.1)
             title = "Kage no Jitsuryokusha ni Naritakute!"
 
             bestGirl = "Sherry Barnett"
@@ -53,10 +58,13 @@ fun DSLScope.KageJitsu() {
 
         Entry {
             id = "M-VGMDB-AL-122851"
+            title = "Darling in the Night / Shichikage" // generated(fill_music_metadata.dart v0.1.1)
             // not anime girls :anger:, this needs correction
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:12") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Darling in the Night" // generated(fill_music_metadata.dart v0.1.1)
                 // same composer as "WONDERFUL WORLD", "Watashi to Minna no Uta"
                 // (luminous witches song W), new game's step by step up
                 // :arrow_up: :arrow_up: :arrow_up: and especially :skull:
