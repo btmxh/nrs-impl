@@ -32,7 +32,9 @@ fun DSLScope.KageJitsu() {
             // funnyChamp)
 
             // also she brought the anime a relatively light one-day PADS kekw
-            PADS(1, Emotion.CU to 0.8, Emotion.MP to 0.2)
+            PADS(1, Emotion.CU to 0.8, Emotion.MP to 0.2) {
+                ValidatorSuppress("dah-lone-pads")
+            }
             AEI(0.8, Emotion.CU to 0.8, Emotion.MP to 0.2)
 
             // I AM atomic
