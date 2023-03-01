@@ -54,6 +54,22 @@ fun DSLScope.BlueArchive() {
             }
         }
 
+        Entry {
+            id = "G-VGMDB-9895"
+            title = "Blue Archive"
+
+            // yet another gacha game waiting to be dead xddd
+            // let enjoy it while it lasts
+            FeatureMusic("M-VGMDB-AL-126116")
+            // rob the bank xd
+            NEI(0.8, Emotion.AP)
+
+            // pretty weak char design
+            // somewhat good art tho
+            // (sherryposters gtfo)
+            Visual(VisualKind.AnimatedGachaCardArt, 0.5, 0.5)
+        }
+
         RemodernizationEra(0.8) {
             contributors["M-VGMDB-AL-126116-4"] = 0.4
             contributors["M-VGMDB-AL-108549-1"] = 0.1
