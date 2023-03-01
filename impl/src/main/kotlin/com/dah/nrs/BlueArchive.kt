@@ -34,6 +34,10 @@ fun DSLScope.BlueArchive() {
                 // i love leah kate
                 // https://osu.ppy.sh/beatmapsets/1933124#osu/3994310 :skull:
             }
+
+            SubIDEntry("24") {
+                Music(0.5)
+            }
         }
 
         Entry {
