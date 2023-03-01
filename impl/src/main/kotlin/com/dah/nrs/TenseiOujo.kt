@@ -48,10 +48,13 @@ fun DSLScope.TenseiOujo() {
 
         Entry {
             id = "M-VGMDB-AL-124465"
+            title = "Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:05") // generated(fill_music_metadata.dart v0.1.1)
+                title = "Only for you" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.4)
             }
         }
