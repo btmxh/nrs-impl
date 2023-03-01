@@ -1153,4 +1153,31 @@ fun DSLScope.CommonArtists() {
         Contains("M-VGMDB-AL-33518-2", MusicVocalImageContainFactor)
         Contains("M-VGMDB-AL-66742-1", MusicVocalImageContainFactor)
     }
+
+    // :skull:
+    Entry {
+        id = "M-20230301T210955"
+        title = "Leah Kate"
+
+        // HER SONGS ARE FIRE :fire: :fire: :fire:
+        // PLEASE EXTINGUISH THEM :fire: :fire: :fire:
+
+        Entry {
+            id = "M-20230301T211411"
+            title = "10 Things I Hate About You"
+            Music(0.3)
+        }
+
+        Entry {
+            id = "M-20230301T211421"
+            title = "Life Sux"
+            Music(0.2)
+        }
+
+        Entry {
+            id = "M-20230301T211430"
+            title = "Twinkle Twinkle"
+            Music(0.15)
+        }
+    }
 }
