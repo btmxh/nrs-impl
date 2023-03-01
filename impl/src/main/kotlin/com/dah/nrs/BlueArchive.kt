@@ -36,6 +36,8 @@ fun DSLScope.BlueArchive() {
             }
 
             SubIDEntry("24") {
+                MusicConsumedProgress("2:21") // generated(fill_music_metadata.dart v0.1.1)
+                title = "RE Aoharu" // generated(fill_music_metadata.dart v0.1.1)
                 Music(0.5)
             }
         }
