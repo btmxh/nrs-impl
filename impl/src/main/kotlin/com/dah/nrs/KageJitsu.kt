@@ -24,7 +24,7 @@ fun DSLScope.KageJitsu() {
             idKitsu = 44107 // generated(fill_anime_metadata.dart v0.1.1)
             idAniList = 130298 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 48316 // generated(fill_anime_metadata.dart v0.1.1)
-            title = "Kage no Jitsuryokusha ni Naritakute!"
+            title = "Kage no Jitsuryokusha ni Naritakute!" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Sherry Barnett"
             // worse life than sena FeelsStrongMan

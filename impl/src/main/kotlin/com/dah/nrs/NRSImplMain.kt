@@ -832,6 +832,7 @@ fun main() =
         Winter2023()
         Bird()
         BlueArchive()
+        TenseiOujo()
         KageJitsu()
     }.run {}
 
