@@ -72,7 +72,7 @@ fun DSLScope.BlueArchive() {
             Visual(VisualKind.AnimatedGachaCardArt, 0.5, 0.5)
         }
 
-        RemodernizationEra(0.8) {
+        RemodernizationEra(0.7) {
             contributors["M-VGMDB-AL-126116-4"] = 0.4
             contributors["M-VGMDB-AL-108549-1"] = 0.1
             contributors["F-VGMDB-9895"] = 0.5
@@ -81,6 +81,6 @@ fun DSLScope.BlueArchive() {
 }
 
 fun AcceptImpact.RemodernizationEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
-    Meme(strength, numDays("2022-11-25", "2023-01-01"), block)
+    Meme(strength, numDays("2023-01-01"), block)
 }
 

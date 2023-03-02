@@ -129,6 +129,8 @@ fun DSLScope.Vocaloid() {
             // it looked like a bad end flag or some shit
             // "i love hentai"
 
+            // remod blue archvie mfs be like: "omg this is so deep"
+
             // anyways, this song is sad now for a different reason
             // (that is not segs fuck u)
             KoikakeNEI(0.5, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
