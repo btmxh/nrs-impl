@@ -8,6 +8,8 @@ import kotlin.time.Duration.Companion.seconds
 
 fun DSLScope.Koikake() {
     // THE ORTENSIA INCIDENT <<<<<<<<<<<<<<<<<< KOIKAKE DARK LORE
+    // <<<<<<<<<<<<<<<<<< SHERRY BACKSTORY
+    // WTF WHO LET THE SHERRYPOSTERS OUT CATCH THEM BEFORE TOO LATE
     // HOLY FUCK THIS IS AN ABSOLUTE BANGER
     // I LOVE THIS EROGE SO FUCKING MUCH
     // THE GREATEST EROGE OF ALL TIME
