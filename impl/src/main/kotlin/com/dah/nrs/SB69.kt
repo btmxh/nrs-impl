@@ -623,6 +623,23 @@ fun DSLScope.SB69() {
         }
 
         Entry {
+            id = "M-VGMDB-AL-76149"
+
+            Visual(VisualKind.AlbumArt, 0.2, 0.5)
+
+            SubIDEntry("1") {
+                // skull bruh skill issue wtf osuhow pogpega pepejam
+                FesALiveMusic(0.5)
+            }
+
+            SubIDEntry("2") {
+                // skull bruh skill issue wtf osuhow pogpega pepejam
+                // himeno sena 2023 fascism neo-autism nozsism autism
+                FesALiveMusic(0.5)
+            }
+        }
+
+        Entry {
             id = "M-VGMDB-AL-118562"
             title = "Taikakusen wo Tsunaideyo / Uwasanopetals" // generated(fill_music_metadata.dart v0.1.1)
 

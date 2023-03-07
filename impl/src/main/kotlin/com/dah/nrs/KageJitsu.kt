@@ -27,6 +27,7 @@ fun DSLScope.KageJitsu() {
             title = "Kage no Jitsuryokusha ni Naritakute!" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Sherry Barnett"
+            // aka himeno sena 2023
             // worse life than sena FeelsStrongMan
             // best girl discussion: https://github.com/ngoduyanh/nrs-impl-kt/discussions/380
             // got fucked himeno sena: https://github.com/ngoduyanh/nrs-impl-kt/issues/260
@@ -37,10 +38,17 @@ fun DSLScope.KageJitsu() {
             // funnyChamp)
 
             // also she brought the anime a relatively light one-day PADS kekw
-            PADS(1, Emotion.CU to 0.8, Emotion.MP to 0.2) {
+            // but it kinda got out of hand :skull:
+            PADS(5, Emotion.CU to 0.9, Emotion.MP to 0.1) {
+                contributors["A-MAL-48316"] = 0.95
+                contributors["M-VGMDB-AL-76149-1"] = 0.05
+
                 ValidatorSuppress("dah-lone-pads")
             }
-            AEI(0.8, Emotion.CU to 0.8, Emotion.MP to 0.2)
+            AEI(0.8, Emotion.CU to 0.9, Emotion.MP to 0.1)
+
+            // i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759
+            Waifu("Sherry Barnett", "2023-03-01" to today())
 
             // I AM atomic
             EHI() // humor
