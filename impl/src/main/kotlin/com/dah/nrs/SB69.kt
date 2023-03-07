@@ -624,15 +624,20 @@ fun DSLScope.SB69() {
 
         Entry {
             id = "M-VGMDB-AL-76149"
+            title = "Saishuu Ressha/Hatsukoi no Oto / Uwasanopetals" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
 
             SubIDEntry("1") {
+                MusicConsumedProgress("4:11") // generated(fill_music_metadata.dart v0.1.1)
+                title = "最終列車" // generated(fill_music_metadata.dart v0.1.1)
                 // skull bruh skill issue wtf osuhow pogpega pepejam
                 FesALiveMusic(0.5)
             }
 
             SubIDEntry("2") {
+                MusicConsumedProgress("3:12") // generated(fill_music_metadata.dart v0.1.1)
+                title = "ハツコイノオト" // generated(fill_music_metadata.dart v0.1.1)
                 // skull bruh skill issue wtf osuhow pogpega pepejam
                 // himeno sena 2023 fascism neo-autism nozsism autism
                 FesALiveMusic(0.5)
