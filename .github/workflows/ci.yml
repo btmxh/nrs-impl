@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
     - name: Checkout sources
-      uses: actions/checkout@v3.3.0
+      uses: actions/checkout@v3.4.0
       with:
         submodules: recursive
     - name: Setup Gradle
@@ -29,7 +29,7 @@ jobs:
     - name: Download anime-offline-database-minified.json
       run: curl https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database-minified.json -o temp/anime-offline-database-minified.json
     - name: Checkout hufman/vgmdb
-      uses: actions/checkout@v3.3.0
+      uses: actions/checkout@v3.4.0
       with:
         repository: 'hufman/vgmdb'
         path: temp/vgmdb
