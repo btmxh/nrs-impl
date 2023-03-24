@@ -48,13 +48,13 @@ fun DSLScope.KageJitsu() {
             AEI(0.8, Emotion.CU to 0.9, Emotion.MP to 0.1)
 
             // i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759
-            Waifu("Sherry Barnett", "2023-03-01" to today())
+            Waifu("Sherry Barnett", "2023-03-01" to "2023-03-12")
 
             // I AM atomic
             EHI() // humor
             NEI(0.25, Emotion.AP) // plot
 
-            Meme(0.8, numDays("2023-03-01"))
+            Meme(0.8, numDays("2023-03-01", "2023-03-12"))
             FeatureMusic("M-VGMDB-AL-122851")
 
             // the 7 shadow art is meh but that individual saved the anime
