@@ -109,7 +109,9 @@ internal class Processor(private val context: NRSContext, private val data: NRSD
                     val referencedOverallScore = referenced.impactScore!! + referencedRelationScore
                     referenceWeight * referencedOverallScore
                 }.reduceOrNull { v1, v2 -> v1 + v2 }
-                relationScore?.let { relationScores.add(it * contributeWeight) }
+                buffWeight(contributeWeight)?.let { weight ->
+                    relationScore?.let { weight * it }
+                }
             }
         }
 
