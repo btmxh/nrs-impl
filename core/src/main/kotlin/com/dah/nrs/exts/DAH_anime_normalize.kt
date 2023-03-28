@@ -27,7 +27,8 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "1"
                 title = "MAL-1 base anime (Appalling)"
 
-                AnimeProgressOld(Boredom.Dropped, 12)
+                AnimeConsumedProgress(EntryStatus.Dropped, 0.2, 12)
+                Dropped()
                 AdditionalImpact("This shit sucks", -2.0)
                 Visual(VisualKind.Animated, 0.1, 0.2)
             }
@@ -36,7 +37,8 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "2"
                 title = "MAL-2 base anime (Horrible)"
 
-                AnimeProgressOld(Boredom.Dropped, 12)
+                AnimeConsumedProgress(EntryStatus.Dropped, 0.4, 12)
+                Dropped()
                 AdditionalImpact("This shit sucks", -1.0)
                 Visual(VisualKind.Animated, 0.2, 0.2)
             }
@@ -45,7 +47,8 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "3"
                 title = "MAL-3 base anime (Very Bad)"
 
-                AnimeProgressOld(Boredom.Dropped, 12)
+                AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 12)
+                Dropped()
                 Visual(VisualKind.Animated, 0.3, 0.2)
             }
 
@@ -53,7 +56,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "4"
                 title = "MAL-4 base anime (Bad)"
 
-                AnimeProgressOld(Boredom.TempOnHold, 12)
+                AnimeConsumedProgress(EntryStatus.OnHold, 0.6, 12)
                 Visual(VisualKind.Animated, 0.3, 0.3)
             }
 
@@ -61,7 +64,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "5"
                 title = "MAL-5 base anime (Average)"
 
-                AnimeProgressOld(Boredom.Completed, 12)
+                AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
                 Visual(VisualKind.Animated, 0.4, 0.3)
             }
 
@@ -69,7 +72,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "6"
                 title = "MAL-6 base anime (Fine)"
 
-                AnimeProgressOld(Boredom.Completed, 12)
+                AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
                 AEI(0.1, Emotion.AP)
                 Visual(VisualKind.Animated, 0.5, 0.3)
             }
@@ -78,7 +81,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "7"
                 title = "MAL-7 base anime (Good)"
 
-                AnimeProgressOld(Boredom.Completed, 12)
+                AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
                 EHI()
                 Visual(VisualKind.Animated, 0.5, 0.5)
             }
@@ -87,7 +90,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "8"
                 title = "MAL-8 base anime (Very Good)"
 
-                AnimeProgressOld(Boredom.Completed, 12)
+                AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
                 Cry(Emotion.CU)
                 PADS(3, Emotion.CU)
                 EPI(0.5)
@@ -98,7 +101,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "9"
                 title = "MAL-9 base anime (Great)"
 
-                AnimeProgressOld(Boredom.Completed, 12)
+                AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
                 Cry(Emotion.CU)
                 PADS(7, Emotion.CU)
                 EHI()
@@ -110,7 +113,7 @@ class DAH_anime_normalize(builder: NRSContextBuilder) : Extension(builder) {
                 id = "10"
                 title = "MAL-10 base anime (Masterpiece)"
 
-                AnimeProgressOld(Boredom.Completed, 12)
+                AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
                 Cry(Emotion.CU)
                 PADS(10, Emotion.CU)
                 PADS(5, Emotion.CP)
