@@ -54,7 +54,7 @@ fun DSLScope.Saekano() {
 
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -67,7 +67,7 @@ fun DSLScope.Saekano() {
             idAniList = 21180 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 30727 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Megumi Kato" // impl_overridden
-            AnimeProgressOld(Boredom.Completed, 11)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }

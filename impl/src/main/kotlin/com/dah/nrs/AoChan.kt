@@ -16,7 +16,8 @@ fun DSLScope.AoChan() {
             idAniList = 105989 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38778 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Ao Horie" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Dropped, 3)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
+            Dropped()
             Visual(VisualKind.AnimatedShort, 0.6, 0.4)
             FeatureMusic("M-VGMDB-AL-85759-1")
         }

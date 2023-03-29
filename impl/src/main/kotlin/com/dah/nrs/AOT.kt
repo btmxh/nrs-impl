@@ -27,7 +27,7 @@ fun DSLScope.AOT() {
             idAniList = 16498 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 16498 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 25)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
@@ -39,7 +39,7 @@ fun DSLScope.AOT() {
             idAniList = 20958 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 25777 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
@@ -51,7 +51,7 @@ fun DSLScope.AOT() {
             idAniList = 99147 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 35760 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }
 
@@ -68,7 +68,7 @@ fun DSLScope.AOT() {
             idAniList = 104578 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38524 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Mikasa Ackerman" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 10)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.2, 0.6)
         }

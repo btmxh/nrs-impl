@@ -77,7 +77,7 @@ fun DSLScope.GochiUsa() {
             bestGirl = "Chino Kafuu" // generated(generate_best_girls.dart v0.1.0)
             // humor not that good tho
             NEI(0.3, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
             Visual(VisualKind.Animated, 0.4, 0.15)
         }
     }

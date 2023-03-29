@@ -19,7 +19,8 @@ fun DSLScope.ToniKawa() {
             bestGirl = "Tsukasa Yuzaki" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.6)
-            AnimeProgressOld(Boredom.Dropped, 1)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 1)
+            Dropped()
             KilledBy("F-VGMDB-2588", 0.2, 0.5)
             FeatureMusic("M-VGMDB-AL-104618")
         }

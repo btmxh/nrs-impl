@@ -4,6 +4,7 @@ import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.OneRoom() {
     // (1) - - - - - - - (2)
@@ -49,7 +50,8 @@ fun DSLScope.OneRoom() {
             bestGirl = "Yui Hanasaka" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
-            AnimeProgressOld(Boredom.Dropped, 4)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 4, 4.minutes)
+            Dropped()
             Visual(VisualKind.Animated, 0.5, 0.25)
             FeatureMusic("M-VGMDB-AL-63666-1")
         }

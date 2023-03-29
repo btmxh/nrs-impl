@@ -106,7 +106,7 @@ fun DSLScope.YuYuYu() {
             // (only the ending tho)
             AEI(0.25, Emotion.CU)
             Visual(VisualKind.Animated, 0.3, 0.5)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         }
 
         Entry {
@@ -173,7 +173,7 @@ fun DSLScope.YuYuYu() {
             // but my pepega ass doesn't watch this shit properly ffs
             NEI(0.5, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 6)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -198,7 +198,7 @@ fun DSLScope.YuYuYu() {
             //                  yuyuyu reference !!!11!!1
             AEI(0.3, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 6)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -228,7 +228,7 @@ fun DSLScope.YuYuYu() {
 
             FeatureMusic("M-VGMDB-AL-114186-2")
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 

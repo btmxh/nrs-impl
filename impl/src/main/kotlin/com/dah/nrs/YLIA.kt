@@ -44,7 +44,7 @@ fun DSLScope.YLIA() {
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 
-            AnimeProgressOld(Boredom.Completed, 22)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 22)
         }
 
         Entry {

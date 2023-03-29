@@ -32,6 +32,7 @@ fun DSLScope.Fall2022() {
 
         Visual(VisualKind.Animated, 0.6, 0.2)
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 4)
+        Dropped()
     }
 
     Entry {
@@ -52,6 +53,7 @@ fun DSLScope.Fall2022() {
 
         // ValidatorSuppress("dah-visualless-entry")
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 3)
+        Dropped()
         Visual(VisualKind.Animated, 0.4, 0.3)
     }
 }

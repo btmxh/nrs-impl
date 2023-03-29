@@ -20,7 +20,7 @@ fun DSLScope.Bokuben() {
             // le bang bang zenryoku i love you girl lol
             // "this is a little bit better than gotoubun"
             AEI(0.75, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-85537-1")
         }
@@ -39,7 +39,7 @@ fun DSLScope.Bokuben() {
             // "this is a little bit better than gotoubun" lmfao copy paste error
             // is what i'm thinking but fall 2019 is just another trash season lol
             AEI(0.7, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-88884-1")
         }

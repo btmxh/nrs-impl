@@ -34,7 +34,7 @@ fun main() =
 
             bestGirl = "Futaba Yoshioka"
             // old af and nothing special iirc
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -49,7 +49,7 @@ fun main() =
 
             // iirc i liked this anime's plot
             AEI(0.3, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -64,7 +64,7 @@ fun main() =
 
             // ig it's kinda good
             NEI(0.3, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 22)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 22)
             Visual(VisualKind.Animated, 0.5, 0.5)
         }
 
@@ -95,7 +95,7 @@ fun main() =
             // and VMO2020 too.
             Meme(0.3, 10)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -141,7 +141,7 @@ fun main() =
             title = "Kono Bijutsubu ni wa Mondai ga Aru!" // generated(fill_anime_metadata.dart v0.1.1)
 
             bestGirl = "Mizuki Usami" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -159,7 +159,7 @@ fun main() =
 
             // from nrs1
             AEI(0.25, Emotion.CU)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -179,7 +179,7 @@ fun main() =
             // iToddlers BTFO
             Meme(0.4, 25)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -218,7 +218,7 @@ fun main() =
 
             bestGirl = "Karen Tendou" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.3)
         }
 
@@ -236,7 +236,7 @@ fun main() =
             bestGirl = "Akane Mizuno" // generated(generate_best_girls.dart v0.1.0)
             // ending sadge
             AEI(0.25, Emotion.CU)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
 
@@ -255,7 +255,8 @@ fun main() =
             // and now it's the duopoly era so
             // they got cucked
 //            status = EntryStatus.Watching
-            AnimeProgressOld(Boredom.TempOnHold, 3)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 3)
+            Dropped()
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -271,7 +272,7 @@ fun main() =
             title = "Comic Girls" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kaoruko Moeta" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             NEI(0.2, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
@@ -290,7 +291,8 @@ fun main() =
             bestGirl = "Takagi" // generated(generate_best_girls.dart v0.1.0)
 
             // episodic ngl
-            AnimeProgressOld(Boredom.Dropped, 2)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
+            Dropped()
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -305,7 +307,7 @@ fun main() =
             // lmfao
             bestGirl = "Washing Machine" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 10)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             Visual(VisualKind.Animated, 0.3, 0.4)
         }
 
@@ -341,7 +343,7 @@ fun main() =
             // sad ending (i don't remember now lmfao)
             AEI(0.5, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         }
 
         ShichiseiSubaru()
@@ -368,7 +370,8 @@ fun main() =
             title = "Isekai Cheat Magician" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Azuma Rin" // impl_overridden
 
-            AnimeProgressOld(Boredom.Dropped, 8)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 8)
+            Dropped()
             Visual(VisualKind.Animated, 0.6, 0.2)
         }
 
@@ -382,7 +385,7 @@ fun main() =
             bestGirl = "Karin Sarayashiki" // generated(generate_best_girls.dart v0.1.0)
             // akari kito va lmfao
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             // this was funny af (iirc), really enjoyed it
             AEI(0.6, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
@@ -399,7 +402,7 @@ fun main() =
             idMAL = 37982 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hina Tachibana" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
 
             // the domestic na kanojo war lmao
@@ -419,7 +422,7 @@ fun main() =
             idAniList = 105190 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38656 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Shuka Karino" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 11)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             Visual(VisualKind.Animated, 0.3, 0.4)
             // "plot is good"
             AEI(0.5, Emotion.AP)
@@ -436,7 +439,7 @@ fun main() =
             AEI(0.5, Emotion.AP)
             // restep sequel leaked no way
             bestGirl = "Ristarte" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
@@ -452,7 +455,8 @@ fun main() =
             bestGirl = "Maple" // generated(generate_best_girls.dart v0.1.0)
 
             KilledBy("F-VGMDB-1945", 0.2, 0.5)
-            AnimeProgressOld(Boredom.Dropped, 2)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 2)
+            Dropped()
             Visual(VisualKind.Animated, 0.5, 0.2)
         }
 
@@ -468,7 +472,8 @@ fun main() =
             title = "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai." // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Latina" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Dropped, 4)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
+            Dropped()
             Visual(VisualKind.Animated, 0.4, 0.4)
         }
 
@@ -490,7 +495,7 @@ fun main() =
             // and the op is that osu song
             // imagine if this was in summer 2022
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 
@@ -506,7 +511,8 @@ fun main() =
             title = "Adachi to Shimamura" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Hougetsu Shimamura" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.TempOnHold, 3)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 3)
+            Dropped()
             Visual(VisualKind.Animated, 0.65, 0.3)
 
             // "A PADS about freedomism
@@ -532,7 +538,7 @@ fun main() =
             // the 2 main girls are pretty match
             // thank you based shaft
             Visual(VisualKind.Animated, 0.6, 0.3)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             FeatureMusic("M-VGMDB-AL-101643-1")
         }
 
@@ -546,7 +552,8 @@ fun main() =
             bestGirl = "Elaina" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
-            AnimeProgressOld(Boredom.Dropped, 6)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 6)
+            Dropped()
             KilledBy("F-VGMDB-2588", 0.5, 0.5)
             // observism and the COP
             Politics {}
@@ -565,7 +572,7 @@ fun main() =
             // the hatsune miku method
             AEI(0.2, Emotion.AP)
             Visual(VisualKind.Animated, 0.3, 0.3)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         }
 
         RentAGirlfriend()
@@ -581,7 +588,7 @@ fun main() =
             bestGirl = "Nana Hiiragi" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.4, 0.5)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-2588", 0.5, 0.3)
             // plot is very good
             AEI(0.4, Emotion.AP)
@@ -597,7 +604,8 @@ fun main() =
             bestGirl = "Kyouko Izanami" // generated(generate_best_girls.dart v0.1.0)
 
             Visual(VisualKind.Animated, 0.6, 0.4)
-            AnimeProgressOld(Boredom.Dropped, 4)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
+            Dropped()
             KilledBy("F-VGMDB-2588", 0.6, 0.5)
         }
 
@@ -618,7 +626,8 @@ fun main() =
             // is just too good
             bestGirl = "Saki Saki" // generated(generate_best_girls.dart v0.1.0)
             Visual(VisualKind.Animated, 0.4, 0.4)
-            AnimeProgressOld(Boredom.Dropped, 5)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
+            Dropped()
             KilledBy("A-MAL-41530", 0.2, 0.5)
         }
 
@@ -633,7 +642,8 @@ fun main() =
 
             // idk tf this anime is talking about lol
             Visual(VisualKind.Animated, 0.3, 0.7)
-            AnimeProgressOld(Boredom.Dropped, 16)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 16)
+            Dropped()
             KilledBy("A-MAL-41530", 0.1, 0.4)
         }
 
@@ -649,7 +659,7 @@ fun main() =
             // anime, but it doesn't care about that
             // and just march on with its plot
             Visual(VisualKind.Animated, 0.5, 0.3)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             KilledBy("A-MAL-41530", 0.2, 0.2)
             FeatureMusic("M-VGMDB-AL-111089-5")
         }
@@ -688,7 +698,8 @@ fun main() =
             idKitsu = 44393 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Dia" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Dropped, 6)
+            // this initially was dropped, but rewatched in the remod era, hence the low boredom value
+            AnimeConsumedProgress(EntryStatus.Completed, 0.7, 12)
             Visual(VisualKind.Animated, 0.5, 0.4)
             KilledBy("F-VGMDB-3245", 0.1, 0.2)
             KilledBy("F-VGMDB-7059", 0.1, 0.2)
@@ -707,7 +718,8 @@ fun main() =
             // "haha the ortensia incident"
             bestGirl = "Kyousuke Yotsuya" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Dropped, 5)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
+            Dropped()
             Visual(VisualKind.Animated, 0.3, 0.6)
             KilledBy("F-VGMDB-3245", 0.2, 0.2)
             KilledBy("F-VGMDB-7059", 0.2, 0.2)
@@ -724,7 +736,7 @@ fun main() =
 
             // denchi shoujo my fucking beloved wtf i love this so fking much
             AEI(0.5, Emotion.MP to 0.5, Emotion.AP to 0.5)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.3)
             KilledBy("F-VGMDB-3245", 0.3, 0.15)
             KilledBy("F-VGMDB-7059", 0.3, 0.15)
@@ -742,7 +754,7 @@ fun main() =
             bestGirl = "Subaru" // generated(generate_best_girls.dart v0.1.0)
 
             // didn't expect mc to fall in love tho
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
             FeatureMusic("M-VGMDB-AL-51254-1")
         }
@@ -780,7 +792,7 @@ fun main() =
             bestGirl = "Tagitsuhime" // generated(generate_best_girls.dart v0.1.0)
             // i hate my life
 
-            AnimeProgressOld(Boredom.Completed, 24)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
 
             // decent plot ngl
             NEI(0.8, Emotion.AP)

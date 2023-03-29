@@ -55,7 +55,7 @@ fun DSLScope.Chuunibyou() {
             // idk why
             // this is taken from NRS1
             Meme(0.15, 2)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         }
 
         Entry {
@@ -71,7 +71,7 @@ fun DSLScope.Chuunibyou() {
             AEI(1.0, Emotion.CU)
             // Shichimiya memes
             Meme(0.4, 10)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.2)
 
             FeatureMusic("M-VGMDB-AL-42762-1")
