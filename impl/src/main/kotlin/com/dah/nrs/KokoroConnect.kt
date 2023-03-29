@@ -50,7 +50,7 @@ fun DSLScope.KokoroConnect() {
             idMAL = 11887 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Iori Nagase" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeConsumedProgress(EntryStatus.Completed,, 1.0, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
 
             Visual(VisualKind.Animated, 0.4, 0.3)
 
@@ -65,7 +65,7 @@ fun DSLScope.KokoroConnect() {
             idMAL = 16001 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Iori Nagase" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeConsumedProgress(EntryStatus.Completed,, 1.0, 4)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 4)
             Visual(VisualKind.Animated, 0.4, 0.3)
         }
     }

@@ -111,7 +111,7 @@ fun DSLScope.`K-On`() {
             idMAL = 7791 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Azusa Nakano" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26
+            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
             `K-OnVisual`(VisualKind.Animated)

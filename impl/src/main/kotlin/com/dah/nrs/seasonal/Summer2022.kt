@@ -66,7 +66,7 @@ fun DSLScope.Summer2022() {
         // ichijou ruka my beloved (she can't save this anime sadge)
 
         // the prima doll incident
-        AnimeConsumedProgress(EntryStatus.Dropped, 0.9. 4)
+        AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
         Dropped()
 
         // somewhat unique and cute at the same time ngl

@@ -20,7 +20,7 @@ fun DSLScope.Bokuben() {
             // le bang bang zenryoku i love you girl lol
             // "this is a little bit better than gotoubun"
             AEI(0.75, Emotion.AP)
-            AnimeConsumedProgress(EntryStatus.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-85537-1")
         }

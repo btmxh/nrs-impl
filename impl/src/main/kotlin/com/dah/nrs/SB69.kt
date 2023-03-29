@@ -179,7 +179,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-61981-1")
             FeatureMusic("M-VGMDB-AL-61981-3")
 
-            nimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 

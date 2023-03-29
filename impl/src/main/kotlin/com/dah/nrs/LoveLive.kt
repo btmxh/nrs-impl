@@ -665,6 +665,7 @@ fun DSLScope.LoveLive() {
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
             AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
+        }
     }
 
     Entry {
