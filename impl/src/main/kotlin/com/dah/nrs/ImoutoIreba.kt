@@ -17,7 +17,7 @@ fun DSLScope.ImoutoIreba() {
             idMAL = 35413 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Miyako Shirakawa" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.2)
             NEI(0.5, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-70621-1")

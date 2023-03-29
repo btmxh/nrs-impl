@@ -37,7 +37,7 @@ fun DSLScope.NewGame() {
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Iijima Yun" // impl_overridden
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.7, 0.3)
 
             FeatureMusic("M-VGMDB-AL-58627-1")
@@ -53,7 +53,7 @@ fun DSLScope.NewGame() {
             // idk who is better, aoba or yun, so one girl each season
             bestGirl = "Aoba Suzukaze" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.7, 0.3)
 
             FeatureMusic("M-VGMDB-AL-68225-1")

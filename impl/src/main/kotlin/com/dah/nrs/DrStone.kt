@@ -18,7 +18,7 @@ fun DSLScope.DrStone() {
             idAniList = 105333 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 38691 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzuriha Ogawa" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 24)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
             Visual(VisualKind.Animated, 0.3, 0.75)
             // "plot is good"
             AEI(0.25, Emotion.AP)
@@ -35,7 +35,7 @@ fun DSLScope.DrStone() {
             idAniList = 113936 // generated(fill_anime_metadata.dart v0.1.1)
             idMAL = 40852 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Yuzuriha Ogawa" // generated(generate_best_girls.dart v0.1.0)
-            AnimeProgressOld(Boredom.Completed, 11)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             Visual(VisualKind.Animated, 0.3, 0.75)
             AEI(0.1, Emotion.AP)
         }

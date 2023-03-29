@@ -31,7 +31,7 @@ fun DSLScope.HelloWorld() {
         idMAL = 40295 // generated(fill_anime_metadata.dart v0.1.1)
         bestGirl = "Ruri Ichigyou" // generated(generate_best_girls.dart v0.1.0)
 
-        AnimeProgressOld(Boredom.Completed, 3)
+        AnimeConsumedProgress(EntryStatus.Completed, 1.0, 3)
         // the cg kinda help with making the anime unique lol
         Visual(VisualKind.Animated, 0.4, 0.6)
     }

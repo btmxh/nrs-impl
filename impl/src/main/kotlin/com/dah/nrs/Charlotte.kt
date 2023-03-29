@@ -22,7 +22,7 @@ fun DSLScope.Charlotte() {
 
             // max AEI debatable
             MaxAEIPADS(3, Emotion.CU)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
         }
     }
 }

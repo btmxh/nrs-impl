@@ -18,7 +18,7 @@ fun DSLScope.ZombielandSaga() {
 
             // kinda funny
             AEI(0.5, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
         }
 
@@ -32,7 +32,8 @@ fun DSLScope.ZombielandSaga() {
             bestGirl = "Sakura Minamoto" // generated(generate_best_girls.dart v0.1.0)
 
             // the zombieland saga incident
-            AnimeProgressOld(Boredom.Dropped, 7)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 7)
+            Dropped()
             Visual(VisualKind.Animated, 0.4, 0.5)
             KilledBy("V-VNDB-12849", 0.3, 0.2)
             FeatureMusic("M-VGMDB-AL-109367")

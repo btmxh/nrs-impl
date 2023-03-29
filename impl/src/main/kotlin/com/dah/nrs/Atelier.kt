@@ -106,7 +106,7 @@ fun DSLScope.Atelier() {
 
             // this is watched in parallel with that hina ridaka romocom seasonal show
             // for the ultimate "aufripe ioek yoamou" experience
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
 
             // ep 10 is an absolute banger xdddddddddddddddddddd
             // (mc crying, ortensia incident, "the daughter of the life-skill god",

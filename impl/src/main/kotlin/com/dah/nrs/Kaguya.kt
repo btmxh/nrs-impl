@@ -59,7 +59,8 @@ fun DSLScope.Kaguya() {
             bestGirl = "Ai Hayasaka" // generated(generate_best_girls.dart v0.1.0)
             // https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury.
 
-            AnimeProgressOld(Boredom.Dropped, 9)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 9)
+            Dropped()
             Visual(VisualKind.Animated, 0.5, 0.4)
             FeatureMusic("M-VGMDB-AL-83397-1")
             // domestic kanojo war arc
@@ -80,7 +81,7 @@ fun DSLScope.Kaguya() {
             // koukai shinai yo kimi ni deaeta koto
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            AnimeProgressOld(Boredom.Unwatched, 0)
+            AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
             ValidatorSuppress("dah-entry-no-consumed")
         }
 
@@ -100,7 +101,7 @@ fun DSLScope.Kaguya() {
             // Just for now I’ll say “goodbye” to my cowardly heart
 
             Visual(VisualKind.Animated, 0.5, 0.4)
-            AnimeProgressOld(Boredom.Unwatched, 0)
+            AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
             ValidatorSuppress("dah-entry-no-consumed")
         }
     }

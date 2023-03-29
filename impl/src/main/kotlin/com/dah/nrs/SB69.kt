@@ -153,7 +153,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-51706-1")
             FeatureMusic("M-VGMDB-AL-51706-2")
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -179,7 +179,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-61981-1")
             FeatureMusic("M-VGMDB-AL-61981-3")
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
         }
 
@@ -210,7 +210,7 @@ fun DSLScope.SB69() {
             KilledBy("M-20220125T063355-2", potential = 0.75, effect = 0.75)
             Visual(VisualKind.Animated, 0.65, 0.4)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         }
 
         Entry {
@@ -251,7 +251,7 @@ fun DSLScope.SB69() {
             FeatureMusic("M-VGMDB-AL-104267-5")
             FeatureMusic("M-VGMDB-AL-100087-1")
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.65, 0.4)
         }
 

@@ -20,7 +20,7 @@ fun DSLScope.YamadaKun() {
 
             FeatureMusic("M-VGMDB-AL-51918-1")
             FeatureMusic("M-VGMDB-AL-52045-1")
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
         }
 

@@ -17,7 +17,8 @@ fun DSLScope.CellAtWork() {
             idMAL = 37141 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kesshouban" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Dropped, 5)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 5)
+            Dropped()
             Visual(VisualKind.Animated, 0.4, 0.1)
             FeatureMusic("M-VGMDB-AL-77471-1")
         }

@@ -20,7 +20,7 @@ fun DSLScope.Tanmoshi() {
             // siesta arc is shit
             // cope
             Visual(VisualKind.Animated, 0.5, 0.3)
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
             FeatureMusic("M-VGMDB-AL-113531")
             FeatureMusic("M-VGMDB-AL-113660")
             KilledBy("A-MAL-41530", 0.2, 0.5)

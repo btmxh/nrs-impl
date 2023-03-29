@@ -25,7 +25,7 @@ fun DSLScope.SoraYori() {
             // since they're just formulaic-episodic drama
             // (btw i haven't watch the last 3 episodes yet, so idk what
             // happened there)
-            AnimeProgressOld(Boredom.Dropped, 9)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 9)
 
             // first anime to do cp-farming
             AEI(0.8, Emotion.CP)

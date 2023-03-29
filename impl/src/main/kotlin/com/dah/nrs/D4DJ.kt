@@ -18,7 +18,7 @@ fun DSLScope.D4DJ() {
 
             bestGirl = "Rinku Aimoto" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.75)
             FeatureMusic("M-VGMDB-AL-107257")
             FeatureMusic("M-VGMDB-AL-108580-2")

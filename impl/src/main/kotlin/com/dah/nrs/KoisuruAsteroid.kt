@@ -17,7 +17,7 @@ fun DSLScope.KoisuruAsteroid() {
             idMAL = 39388 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Kotonoha Mira" // impl_overridden
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 00.8, 13)
             Visual(VisualKind.Animated, 0.8, 0.3)
             FeatureMusic("M-VGMDB-AL-93329-1")
             FeatureMusic("M-VGMDB-AL-93338-1")

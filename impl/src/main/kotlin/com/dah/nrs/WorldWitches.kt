@@ -20,7 +20,7 @@ fun DSLScope.WorldWitches() {
             // "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..."
             // haha 15 funny amirite
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.75, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.2, 0.75)
         }
@@ -45,7 +45,7 @@ fun DSLScope.WorldWitches() {
             // haha "tạ kami"
             NEI(0.75, Emotion.AP)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.3, 0.5)
         }
@@ -74,7 +74,7 @@ fun DSLScope.WorldWitches() {
             // the "selection project" of summer 2022
             AEI(0.8, Emotion.CU to 0.9, Emotion.CP to 0.1)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
             KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
             FeatureMusic("M-VGMDB-AL-120491")

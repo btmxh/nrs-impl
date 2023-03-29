@@ -21,7 +21,7 @@ fun DSLScope.RikeKoi() {
 
             bestGirl = "Kotonoha Kanade" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.75, 12)
             Visual(VisualKind.Animated, 0.25, 0.5)
             KilledBy("F-VGMDB-1945", potential = 0.5, effect = 0.75)
         }
@@ -38,7 +38,8 @@ fun DSLScope.RikeKoi() {
 
             bestGirl = "Kotonoha Kanade" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Dropped, 2)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
+            Dropped()
             Visual(VisualKind.Animated, 0.25, 0.5)
             KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
         }

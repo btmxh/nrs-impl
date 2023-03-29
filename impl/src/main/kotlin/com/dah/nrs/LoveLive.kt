@@ -436,7 +436,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-36547-1")
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -451,7 +451,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
             FeatureMusic("M-VGMDB-AL-34051-1")
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -465,7 +465,6 @@ fun DSLScope.LoveLive() {
             title = "Love Live! The School Idol Movie" // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Maki Nishikino" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 1)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
@@ -481,7 +480,7 @@ fun DSLScope.LoveLive() {
             bestGirl = "Riko Sakurauchi" // generated(generate_best_girls.dart v0.1.0)
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -497,7 +496,7 @@ fun DSLScope.LoveLive() {
             // aozora was featured in ep13
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-70622-1")
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
         }
@@ -560,7 +559,7 @@ fun DSLScope.LoveLive() {
 
             // pretty funny ngl, but overshadowed by the ayumu shit
             AEI(0.4, Emotion.AP)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
@@ -596,7 +595,8 @@ fun DSLScope.LoveLive() {
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Chisato Arashi" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
-            AnimeProgressOld(Boredom.TempOnHold, 7)
+            AnimeConsumedProgress(EntryStatus.OnHold, 0.9, 7)
+            Dropped()
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
@@ -647,7 +647,8 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             // lol after all this time xddddddddddd
-            AnimeProgressOld(Boredom.Dropped, 3)
+            AnimeConsumedProgress(EntryStatus.OnHold, 0.7, 3)
+            Dropped()
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         }
 
@@ -663,8 +664,7 @@ fun DSLScope.LoveLive() {
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             Visual(VisualKind.Animated, 0.6, 0.25)
-            ValidatorSuppress("dah-entry-no-consumed")
-            AnimeProgressOld(Boredom.Unwatched, 0)
+            AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
         }
     }
 

@@ -122,7 +122,7 @@ fun DSLScope.MadokaMagica() {
             // Kyoko's backstory
             AEI(0.9, Emotion.CU)
 
-            AnimeProgressOld(Boredom.Completed, 12)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
             FeatureMusic("M-VGMDB-AL-23391-1")
@@ -210,7 +210,7 @@ fun DSLScope.MadokaMagica() {
 
             // Emotional impacts are all in the game
             // (Madokami's MGS, Sana's backstory)
-            AnimeProgressOld(Boredom.Completed, 13)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // Gate-opened gacha games
@@ -231,7 +231,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Iroha Tamaki" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
-            AnimeProgressOld(Boredom.Completed, 8)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 8)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // the animation tho
@@ -258,7 +258,7 @@ fun DSLScope.MadokaMagica() {
             bestGirl = "Iroha Tamaki" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
 
-            AnimeProgressOld(Boredom.Completed, 4)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 4)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             // :troll-despair:

@@ -4,6 +4,7 @@ import com.dah.nrs.dsl.DSLScope
 import com.dah.nrs.dsl.Entry
 import com.dah.nrs.dsl.SubIDEntry
 import com.dah.nrs.exts.*
+import kotlin.time.Duration.Companion.minutes
 
 fun DSLScope.Irodori() {
     // original of irodori covers
@@ -41,7 +42,7 @@ fun DSLScope.Irodori() {
             idMAL = 50267 // generated(fill_anime_metadata.dart v0.1.1)
             bestGirl = "Nagi Kobotoke" // generated(generate_best_girls.dart v0.1.0)
 
-            AnimeProgressOld(Boredom.Completed, 8)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 8, 3.minutes)
             Visual(VisualKind.AnimatedShort, 0.4, 0.2)
         }
 
