@@ -330,31 +330,6 @@ fun DSLEntry.Dropped(block: DSLImpact.() -> Unit = {}) {
     }
 }
 
-@Deprecated("Use the Consumed/Dropped/Progress API instead")
-fun DSLEntry.AnimeProgressOld(boredomLevel: BoredomLevel, episode: Int) {
-    val length = AverageAnimeEpisode * episode
-    when (boredomLevel) {
-        Boredom.Completed, Boredom.Watching, Boredom.TempOnHold -> {
-            Consumed(1.0, length)
-        }
-        Boredom.CompletedWithNoticeableBoredom -> {
-            Consumed(0.5, length)
-        }
-        Boredom.Dropped -> {
-            // assuming a little bit of boredom (use the new api pls)
-            Consumed(0.75, length)
-            Dropped()
-        }
-        Boredom.Unwatched -> {
-            ValidatorSuppress("dah_entry_no_consumed")
-        }
-        else -> {
-            error("invalid boredom level")
-        }
-    }
-    AnimeProgress(boredomLevel.status, episode)
-}
-
 fun AcceptImpact.Meme(strength: Double, duration: Int, block: DSLImpact.() -> Unit = {}) {
     if (strength !in 0.0..2.0) {
         error("$strength not in range 0..2")
