@@ -28,13 +28,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-12175"
+        <entry id="A-MAL-12175" title="Koi to Senkyo to Chocolate">
             idMAL = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 6682 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Koi to Senkyo to Chocolate" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Chisato Sumiyoshi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- iirc i liked this anime's plot -->
@@ -43,13 +41,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-12189"
+        <entry id="A-MAL-12189" title="Hyouka">
             idMAL = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 6686 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Hyouka" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Eru Chitanda" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- ig it's kinda good -->
@@ -68,13 +64,11 @@ fun main() =
         NagiAsu()
         GochiUsa()
 
-        <entry>
-            id = "A-MAL-21845"
+        <entry id="A-MAL-21845" title="Ushinawareta Mirai wo Motomete">
             idMAL = 21845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20591 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8199 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 21845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Ushinawareta Mirai wo Motomete" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 21845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- kaomeme -->
             bestGirl = "Kaori Sasaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -98,13 +92,11 @@ fun main() =
         YamadaKun()
         Charlotte()
 
-        <entry>
-            id = "A-MAL-28851"
+        <entry id="A-MAL-28851" title="Koe no Katachi">
             idMAL = 28851 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20954 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 10028 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 28851 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Koe no Katachi" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 28851 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Shouko Nishimiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Koe no Katachi has solid drama -->
@@ -122,13 +114,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-31952"
+        <entry id="A-MAL-31952" title="Kono Bijutsubu ni wa Mondai ga Aru!">
             idKitsu = 11466 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21457 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 31952 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 31952 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Kono Bijutsubu ni wa Mondai ga Aru!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 31952 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Mizuki Usami" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
@@ -137,13 +127,11 @@ fun main() =
 
         ShinkaiMovies()
 
-        <entry>
-            id = "A-MAL-32729"
+        <entry id="A-MAL-32729" title="Orange">
             idMAL = 32729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21647 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 11844 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 32729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Orange" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 32729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Naho Takamiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -157,13 +145,11 @@ fun main() =
         NewGame()
         Bandori()
 
-        <entry>
-            id = "A-MAL-33731"
+        <entry id="A-MAL-33731" title="Gabriel DropOut">
             idMAL = 33731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21878 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12497 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 33731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Gabriel DropOut" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 33731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Satanichia Kurumizawa McDowell" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- iToddlers BTFO -->
@@ -173,13 +159,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.6, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-34240"
+        <entry id="A-MAL-34240" title="Shelter (Music)">
             idMAL = 34240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12668 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Shelter (Music)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 34240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Rin" <!-- impl_overridden -->
 
@@ -196,11 +180,9 @@ fun main() =
             Visual(VisualKind.Animated, 0.65, 0.35)
         </entry>
 
-        <entry>
-            id = "A-MAL-34280"
+        <entry id="A-MAL-34280" title="Gamers!">
             idMAL = 34280 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 97766 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Gamers!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 97766 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34280 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12754 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
@@ -215,13 +197,11 @@ fun main() =
         OneRoom()
         UchiageHanabi()
 
-        <entry>
-            id = "A-MAL-34822"
+        <entry id="A-MAL-34822" title="Tsuki ga Kirei">
             idMAL = 34822 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98202 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13234 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34822 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Tsuki ga Kirei" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 34822 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Akane Mizuno" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- ending sadge -->
@@ -230,13 +210,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-35241"
+        <entry id="A-MAL-35241" title="Konohana Kitan">
             idMAL = 35241 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98506 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13752 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35241 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Konohana Kitan" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 35241 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Natsume" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- definitely not reminding me of mashu mashu from sb69 -->
@@ -253,13 +231,11 @@ fun main() =
         COTE()
         JustBecause()
 
-        <entry>
-            id = "A-MAL-35756"
+        <entry id="A-MAL-35756" title="Comic Girls">
             idMAL = 35756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99131 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13722 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Comic Girls" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 35756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Kaoruko Moeta" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
@@ -270,13 +246,11 @@ fun main() =
         TateYuusha()
         SoraYori()
 
-        <entry>
-            id = "A-MAL-35860"
+        <entry id="A-MAL-35860" title="Karakai Jouzu no Takagi-san">
             idMAL = 35860 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99468 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13635 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35860 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Karakai Jouzu no Takagi-san" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 35860 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Takagi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -286,13 +260,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-36038"
+        <entry id="A-MAL-36038" title="Net-juu no Susume">
             idMAL = 36038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99726 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13703 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 36038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Net-juu no Susume" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 36038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- lmfao -->
             bestGirl = "Washing Machine" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -301,13 +273,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-36098"
+        <entry id="A-MAL-36098" title="Kimi no Suizou wo Tabetai">
             idMAL = 36098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99750 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13723 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 36098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Kimi no Suizou wo Tabetai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 36098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- facebook anime lmfao -->
             bestGirl = "Sakura Yamauchi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -317,13 +287,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-36266"
+        <entry id="A-MAL-36266" title="Mahou Shoujo Site">
             idMAL = 36266 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100010 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 14137 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 36266 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Mahou Shoujo Site" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 36266 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Aya Asagiri" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -351,13 +319,11 @@ fun main() =
         LoveLab()
         StellaMahou()
 
-        <entry>
-            id = "A-MAL-37744"
+        <entry id="A-MAL-37744" title="Isekai Cheat Magician">
             idMAL = 37744 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 101547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42319 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37744 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Isekai Cheat Magician" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 37744 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Azuma Rin" <!-- impl_overridden -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 8)
@@ -365,11 +331,9 @@ fun main() =
             Visual(VisualKind.Animated, 0.6, 0.2)
         </entry>
 
-        <entry>
-            id = "A-MAL-37926"
+        <entry id="A-MAL-37926" title="Nakanohito Genome [Jikkyouchuu]">
             idKitsu = 41336 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Nakanohito Genome [Jikkyouchuu]" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 37926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 102926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Karin Sarayashiki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -429,12 +393,10 @@ fun main() =
 
         AoChan()
 
-        <entry>
-            id = "A-MAL-38790"
+        <entry id="A-MAL-38790" title="Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.">
             idAniDB = 38790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 106479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 38790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42043 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Maple" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -447,13 +409,11 @@ fun main() =
         HelloWorld()
         RikeKoi()
 
-        <entry>
-            id = "A-MAL-39324"
+        <entry id="A-MAL-39324" title="Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.">
             idMAL = 39324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 107956 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 39324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 39324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Latina" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
@@ -464,13 +424,11 @@ fun main() =
         KoisuruAsteroid()
         AscendanceBookworm()
 
-        <entry>
-            id = "A-MAL-39523"
+        <entry id="A-MAL-39523" title="Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!">
             idMAL = 39523 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 108388 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42222 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 39523 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 39523 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- rst girl vs akm girl lol -->
             bestGirl = "Shinobu Sarutobi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -486,13 +444,11 @@ fun main() =
         EgaoDaika()
         D4DJ()
 
-        <entry>
-            id = "A-MAL-39790"
+        <entry id="A-MAL-39790" title="Adachi to Shimamura">
             idMAL = 39790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 109287 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42342 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 39790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Adachi to Shimamura" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 39790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Hougetsu Shimamura" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 3)
@@ -507,13 +463,11 @@ fun main() =
             KilledBy("F-VGMDB-2588", 0.75, 0.3)
         </entry>
 
-        <entry>
-            id = "A-MAL-40550"
+        <entry id="A-MAL-40550" title="Assault Lily: Bouquet">
             idMAL = 40550 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 112479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42625 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40550 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Assault Lily: Bouquet" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 40550 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Shirai Yuyu" <!-- himekek my beloved -->
             bestGirl = "Wang Yujia" <!-- noway it's the kimi no rhapsody girl -->
             bestGirl = "Thi Mai Yoshimura" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -526,13 +480,11 @@ fun main() =
             FeatureMusic("M-VGMDB-AL-101643-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-40571"
+        <entry id="A-MAL-40571" title="Majo no Tabitabi">
             idMAL = 40571 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 112609 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42627 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40571 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Majo no Tabitabi" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 40571 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Elaina" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.3)
@@ -543,13 +495,11 @@ fun main() =
             Politics {}
         </entry>
 
-        <entry>
-            id = "A-MAL-40783"
+        <entry id="A-MAL-40783" title="Shachou, Battle no Jikan Desu!">
             idMAL = 40783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113570 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42850 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Shachou, Battle no Jikan Desu!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 40783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- insert hatsune miku joke here -->
             bestGirl = "Akari" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -562,13 +512,11 @@ fun main() =
         RentAGirlfriend()
         ToniKawa()
 
-        <entry>
-            id = "A-MAL-41619"
+        <entry id="A-MAL-41619" title="Munou na Nana">
             idMAL = 41619 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 117343 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43534 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41619 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Munou na Nana" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 41619 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Nana Hiiragi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.5)
@@ -578,13 +526,11 @@ fun main() =
             AEI(0.4, Emotion.AP)
         </entry>
 
-        <entry>
-            id = "A-MAL-41930"
+        <entry id="A-MAL-41930" title="Kamisama ni Natta Hi">
             idMAL = 41930 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 118419 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43204 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41930 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Kamisama ni Natta Hi" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 41930 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Kyouko Izanami" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.6, 0.4)
@@ -596,13 +542,11 @@ fun main() =
         Aipura()
         Tanmoshi()
 
-        <entry>
-            id = "A-MAL-43969"
+        <entry id="A-MAL-43969" title="Kanojo mo Kanojo">
             idKitsu = 44165 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 126192 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 43969 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 43969 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Kanojo mo Kanojo" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 43969 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- this is one of the only rom-coms that is -->
             <!-- watched in the post-MagiReco era, which is -->
             <!-- already impressive -->
@@ -615,13 +559,11 @@ fun main() =
             KilledBy("A-MAL-41530", 0.2, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-46093"
+        <entry id="A-MAL-46093" title="Shiroi Suna no Aquatope">
             idMAL = 46093 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 128545 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44116 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 46093 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Shiroi Suna no Aquatope" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 46093 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Fuuka Miyazawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- idk tf this anime is talking about lol -->
@@ -631,13 +573,11 @@ fun main() =
             KilledBy("A-MAL-41530", 0.1, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-40904"
+        <entry id="A-MAL-40904" title="Bokutachi no Remake">
             idMAL = 40904 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 114065 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42924 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40904 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Bokutachi no Remake" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 40904 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Eiko Kawasegawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- this was expected to be a good compoly -->
             <!-- anime, but it doesn't care about that -->
@@ -648,13 +588,11 @@ fun main() =
             FeatureMusic("M-VGMDB-AL-111089-5")
         </entry>
 
-        <entry>
-            id = "A-MAL-44203"
+        <entry id="A-MAL-44203" title="Seirei Gensouki">
             idMAL = 44203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 126546 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 44203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Seirei Gensouki" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 44203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- kimi no rhapsody girl -->
             bestGirl = "Celia Claire" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -673,11 +611,9 @@ fun main() =
             AEI(0.5, Emotion.AU to 0.5, Emotion.AP to 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-47790"
+        <entry id="A-MAL-47790" title="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru">
             idMAL = 47790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 129898 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 129898 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 47790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44393 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Dia" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -690,13 +626,11 @@ fun main() =
             NEI(0.8, Emotion.AP to 1.0)
         </entry>
 
-        <entry>
-            id = "A-MAL-48483"
+        <entry id="A-MAL-48483" title="Mieruko-chan">
             idMAL = 48483 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 131083 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44185 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 48483 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Mieruko-chan" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 48483 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- "babe pls have sex with me im so horny" -->
             <!-- "haha the ortensia incident" -->
@@ -709,13 +643,11 @@ fun main() =
             KilledBy("F-VGMDB-7059", 0.2, 0.2)
         </entry>
 
-        <entry>
-            id = "A-MAL-48644"
+        <entry id="A-MAL-48644" title="Gyakuten Sekai no Denchi Shoujo">
             idMAL = 48644 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 131878 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44300 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 48644 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Gyakuten Sekai no Denchi Shoujo" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 48644 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Akagi Rin" <!-- impl_overridden -->
 
             <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
@@ -728,13 +660,11 @@ fun main() =
 
         Tenshi3P()
 
-        <entry>
-            id = "A-MAL-17919"
+        <entry id="A-MAL-17919" title="Houkago no Pleiades (TV)">
             idMAL = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7713 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Houkago no Pleiades (TV)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             bestGirl = "Subaru" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- didn't expect mc to fall in love tho -->
@@ -765,13 +695,11 @@ fun main() =
         MVLiterature()
         Atelier()
 
-        <entry>
-            id = "A-MAL-35589"
+        <entry id="A-MAL-35589" title="Toji no Miko">
             idMAL = 35589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98747 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13710 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            title = "Toji no Miko" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 35589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             bestGirl = "Tagitsuhime" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- i hate my life -->

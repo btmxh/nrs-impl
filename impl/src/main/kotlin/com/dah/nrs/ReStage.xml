@@ -738,10 +738,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-109271-48"
-            MusicConsumedProgress("4:34") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "私たち、四季を遊ぶんです!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-109271-48" title="私たち、四季を遊ぶんです!!">
+            MusicConsumedProgress("4:34") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <!-- i mapped and tried to shill it on: -->
             <!-- - sotarks map roasting -->

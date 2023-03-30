@@ -1,12 +1,10 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-2894"
+    <entry id="F-VGMDB-2894" title="Sora no Method">
         <!-- method!!!!!!! mot con nguoi dc xay dung mot -->
         <!-- cach khac biet: kizuna method daisuki no uta -->
         <!-- yakusoku no uta eien no uta todokeyou -->
-        title = "Sora no Method"
 
         <entry id="A-MAL-23209" title="Sora no Method"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23209 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
