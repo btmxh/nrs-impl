@@ -9,11 +9,11 @@
     <!-- THE GREATEST EROGE OF ALL TIME -->
 
     <!-- Winter is when love comes -->
-    Entry {
+    <entry>
         id = "F-20221128T123502"
         title = "Koi x Shin Ai Kanojo"
 
-        Entry {
+        <entry>
             id = "V-VNDB-17516"
             title = "Koi x Shin Ai Kanojo"
             <!-- unironically better than all drama romance anime lmfao :clueless: -->
@@ -92,9 +92,9 @@
                 <!-- accompanying eis are all of the above, the Koikake* impacts of vocaloid, etc. -->
                 ValidatorSuppress("dah-lone-pads")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-58596"
             title = "KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -133,7 +133,7 @@
             <!-- classic "too lazy to rank all of the tracks" -->
             Music(0.6)
             KoikakeAEI(0.5, 0.1, Emotion.CU to 0.8, Emotion.CP to 0.2)
-        }
+        </entry>
 
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
@@ -142,9 +142,9 @@
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-123896"
         title = "Starry Avenue" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -202,7 +202,7 @@
             <!-- Để trái tim này bước đi... -->
             <!-- For this heart to keep going forward... -->
         </entry>
-    }
+    </entry>
 </document>
 
 fun AcceptImpact.NeoErogeEra(strength: Double, block: DSLImpact.() -> Unit = {}) {

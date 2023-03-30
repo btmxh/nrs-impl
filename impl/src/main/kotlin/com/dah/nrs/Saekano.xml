@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-3305"
         title = "Saenai Heroine no Sodatekata"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-48199"
             title = "Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -17,7 +17,7 @@
                 Music(0.2)
                 OsuSong(personal = 0.1)
             </entry>
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-49446-1")
 
@@ -36,7 +36,7 @@
             contributors["A-MAL-30727"] = 0.5
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-23277"
             title = "Saenai Heroine no Sodatekata" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23277 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -50,9 +50,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-30727"
             title = "Saenai Heroine no Sodatekata ♭" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 30727 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -63,9 +63,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-36885"
             title = "Saenai Heroine no Sodatekata Fine" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 36885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -77,24 +77,24 @@
             NEI(0.25, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 54.minutes)
             Visual(VisualKind.Animated, 0.55, 0.3)
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20220117T170733-1"
         title = "Colorful. (Asterisk DnB Remix)"
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
         Music(0.275)
         MusicConsumedProgress("5:12") <!-- impl_overridden -->
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20220117T170733-2"
         title = "Colorful. (kamaboko remix)"
 
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
         Music(0.3)
         MusicConsumedProgress("5:04") <!-- impl_overridden -->
-    }
+    </entry>
 </document>

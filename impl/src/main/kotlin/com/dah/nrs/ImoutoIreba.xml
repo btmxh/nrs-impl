@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-5485"
         title = "Imouto sae Ireba Ii."
 
-        Entry {
+        <entry>
             id = "A-MAL-35413"
             title = "Imouto sae Ireba Ii." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -19,9 +19,9 @@
             NEI(0.5, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-70621-1")
             GateOpen("F-VGMDB-3275")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-70621"
             title = "Ashita no Kimi sae Ireba Ii. / ChouCho" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
@@ -32,6 +32,6 @@
                 Music(0.6);
                 OsuSong(personal = 0.5, community = 0.1)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

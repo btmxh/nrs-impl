@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "A-MAL-38816"
         title = "Hello World" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 38816 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -15,9 +15,9 @@
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 37.minutes)
         <!-- the cg kinda help with making the anime unique lol -->
         Visual(VisualKind.Animated, 0.4, 0.6)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "A-MAL-40295"
         title = "Another World" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 40295 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -29,7 +29,7 @@
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 3)
         <!-- the cg kinda help with making the anime unique lol -->
         Visual(VisualKind.Animated, 0.4, 0.6)
-    }
+    </entry>
 
     AEI(0.9, Emotion.CU) {
         contributors["A-MAL-38816"] = 0.4

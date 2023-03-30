@@ -2,11 +2,11 @@
 
 <document>
 
-    Entry {
+    <entry>
         id = "F-VGMDB-10135"
         title = "Tonikaku Kawaii"
 
-        Entry {
+        <entry>
             id = "A-MAL-41389"
             title = "Tonikaku Kawaii" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -20,9 +20,9 @@
             Dropped()
             KilledBy("F-VGMDB-2588", 0.2, 0.5)
             FeatureMusic("M-VGMDB-AL-104618")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104618"
             title = "Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -32,6 +32,6 @@
                 title = "Koi no Uta (feat. Yuzaki Tsukasa)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

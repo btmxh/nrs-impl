@@ -2,11 +2,11 @@
 
 <document>
     <!-- the funny visual novel that got fucked by e2e lmfao -->
-    Entry {
+    <entry>
         id = "F-VGMDB-8817"
         title = "ATRI -My Dear Moments-"
 
-        Entry {
+        <entry>
             id = "V-VNDB-27448"
             title = "ATRI -My Dear Moments-"
 
@@ -23,9 +23,9 @@
 
             Meme(0.5, 10)
             FeatureMusic("M-VGMDB-AL-100754")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-100754"
             title = "ATRI -My Dear Moments- Original Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -33,6 +33,6 @@
 
             <!-- like the aokana soundtrack album -->
             Music(0.6)
-        }
-    }
+        </entry>
+    </entry>
 </document>

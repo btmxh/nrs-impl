@@ -1,20 +1,20 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-3559"
         title = "THE IDOLM@STER"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-32295"
             title = "765 MILLION ALLSTARS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78253-1")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-53945"
             title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -25,21 +25,21 @@
                 Music(0.35)
                 OsuSong(personal = 0.8)
             </entry>
-        }
-        Entry {
-            id = "M-VGMDB-AL-64249"
-            title = "THE IDOLM@STER CINDERELLA MASTER EVERMORE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>        <entry>
+            id = "M-VGMDB-AL-53945"
+            title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
-
+            Visual(VisualKind.AlbumArt, 0.5, 0.25)
             <entry id="$-1">
-                MusicConsumedProgress("6:05") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "EVERMORE (M@STER VERSION)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                MusicConsumedProgress("4:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Dreaming!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.35)
+                OsuSong(personal = 0.8)
             </entry>
+        </entry>   </entry>
         }
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-78253"
             title = "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -51,9 +51,9 @@
                 Music(0.35)
                 OsuSong(personal = 0.5, community = 0.2)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-10278"
             title = "The iDOLM@STER" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 10278 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -71,14 +71,14 @@
             Music(0.03)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 25)
             Visual(VisualKind.Animated, 0.4, 0.3)
-        }
+        </entry>
 
         NEI(0.25, Emotion.AP) {
             contributors["A-MAL-23587"] = 0.5
             contributors["A-MAL-30344"] = 0.5
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-23587"
             title = "The iDOLM@STER Cinderella Girls" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -88,9 +88,9 @@
             bestGirl = "Chieri Ogata" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
             Visual(VisualKind.Animated, 0.5, 0.2)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-30344"
             title = "The iDOLM@STER Cinderella Girls 2nd Season" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 30344 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -100,6 +100,6 @@
             bestGirl = "Chieri Ogata" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
-        }
-    }
+        </entry>
+    </entry>
 </document>

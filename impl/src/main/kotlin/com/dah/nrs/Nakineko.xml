@@ -2,11 +2,11 @@
 
 <document>
     <!-- i hate himeno sena -->
-    Entry {
+    <entry>
         id = "F-VGMDB-8433"
         title = "Nakitai Watashi wa Neko wo Kaburu"
 
-        Entry {
+        <entry>
             id = "A-MAL-41168"
             title = "Nakitai Watashi wa Neko wo Kaburu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41168 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -24,9 +24,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 44.minutes)
             AEI(0.1, Emotion.MP to 0.5, Emotion.CU to 0.5)
             FeatureMusic("M-VGMDB-AL-99082-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-99082"
             title = "Hana ni Bourei / Yorushika" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
@@ -36,6 +36,6 @@
                 title = "Hana ni Bourei" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

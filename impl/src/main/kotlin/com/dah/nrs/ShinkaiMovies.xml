@@ -1,12 +1,12 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-4615"
         title = "Kimi no Na wa"
         <!-- TODO: add music ig, too lazy to do that tho (and the music sucks) -->
 
-        Entry {
+        <entry>
             id = "A-MAL-32281"
             title = "Kimi no Na wa." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 32281 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -19,14 +19,14 @@
             bestGirl = "Miki Okudera" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 46.minutes)
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "F-VGMDB-7292"
         title = "Tenki no Ko"
 
-        Entry {
+        <entry>
             id = "A-MAL-38826"
             title = "Tenki no Ko" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38826 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -38,9 +38,9 @@
             Visual(VisualKind.Animated, 0.6, 0.75)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 52.minutes)
             FeatureMusic("M-VGMDB-AL-87003")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-87003"
             title = "Tenki no Ko / RADWIMPS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -51,6 +51,6 @@
                 Music(0.5)
                 OsuSong(personal = 0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

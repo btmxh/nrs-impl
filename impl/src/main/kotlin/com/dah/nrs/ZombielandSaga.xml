@@ -1,10 +1,10 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-9825"
         title = "ZOMBIE LAND SAGA"
-        Entry {
+        <entry>
             id = "A-MAL-37976"
             title = "Zombieland Saga" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37976 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -17,9 +17,9 @@
             AEI(0.5, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40174"
             title = "Zombieland Saga: Revenge" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -34,9 +34,9 @@
             Visual(VisualKind.Animated, 0.4, 0.5)
             KilledBy("V-VNDB-12849", 0.3, 0.2)
             FeatureMusic("M-VGMDB-AL-109367")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-109367"
             title = "Taiga yo Tomo ni Naite Kure/Nope!!!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -46,6 +46,6 @@
                 title = "Taiga yo Tomo ni Naite Kure" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.55)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

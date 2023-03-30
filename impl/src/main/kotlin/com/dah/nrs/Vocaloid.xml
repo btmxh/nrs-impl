@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         <!-- there is no vgmdb entry for this -->
         <!-- but there is a mal one kek -->
         id = "M-MAL-36631"
@@ -24,9 +24,9 @@
             Remix("M-20220205T023322-1")
             Remix("M-20220205T023322-3")
         </entry>
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20220205T023322-1"
         title = "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
 
@@ -34,9 +34,9 @@
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
         Music(0.65)
         MusicConsumedProgress("4:32") <!-- impl_overridden -->
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20220205T023322-3"
         title = "Chikyuu Saigo no Kokuhaku wo (HAG)"
 
@@ -44,9 +44,9 @@
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
         Music(0.5)
         MusicConsumedProgress("4:23") <!-- impl_overridden -->
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20221115T105859"
         title = "AI"
 
@@ -55,9 +55,9 @@
         MusicConsumedProgress("4:23")
         Music(0.65)
         OsuSong(personal = 0.8, community = 0.0)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20221219T233957"
         title = "Calc."
 
@@ -66,9 +66,9 @@
         MusicConsumedProgress("3:56")
         Music(0.6)
         KoikakeNEI(0.3, 0.7, Emotion.CU)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-97732"
         title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
@@ -136,34 +136,78 @@
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
         }
-    }
-    Entry {
-        id = "M-VGMDB-AL-31377"
-        title = "Hajimete no Koi ga Owaru Toki / supercell" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        Visual(VisualKind.AlbumArt, 0.4, 0.6)
+    </entry>    <entry>
+        id = "M-VGMDB-AL-97732"
+        title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        Visual(VisualKind.AlbumArt, 0.3, 0.3)
+        <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
 
-        <entry id="$-1">
-            MusicConsumedProgress("5:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "Hajimete no Koi ga Owaru Toki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
+
             Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>        <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
 
-            <!-- interesting bit of history: -->
-            <!-- i found out this song from nayuta's cover -->
-            <!-- at that time i was playing ayane's route in koikake -->
-            <!-- and like they do the segs and nakadashi -->
-            <!-- i realized that there was no nakadashi in sena's route -->
-            <!-- it looked like a bad end flag or some shit -->
-            <!-- "i love hentai" -->
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
 
-            <!-- remod blue archvie mfs be like: "omg this is so deep" -->
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>          <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
 
-            <!-- anyways, this song is sad now for a different reason -->
-            <!-- (that is not segs fuck u) -->
-            KoikakeNEI(0.5, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
-        </entry>
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
+
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>          <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
+
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
+
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>   MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            Music(0.4)
+            OsuSong(personal = 0.5, community = 0.5)
+        }
+    </entry>   </entry>
     }
 
-    Entry {
+    <entry>
         id = "M-20221217T174507"
         title = "Kutsumigaki to Maria"
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
@@ -184,9 +228,9 @@
 
         <!-- Length source: https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         MusicConsumedProgress("4:53")
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20221224T223044"
         title = "Hitori no Kimi to Hitori no Boku ni"
 
@@ -203,5 +247,5 @@
         Music(0.5)
         <!-- Length source: https://www.youtube.com/watch?v=EHxFEHPBDP8 -->
         MusicConsumedProgress("4:28")
-    }
+    </entry>
 </document>

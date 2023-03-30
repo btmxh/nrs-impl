@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-3345"
         title = "Shigatsu wa Kimi no Uso"
 
-        Entry {
+        <entry>
             id = "A-MAL-23273"
             title = "Shigatsu wa Kimi no Uso" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -40,9 +40,9 @@
             Visual(VisualKind.Animated, 0.3, 0.5)
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 22)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-49046"
             title = "Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -60,13 +60,13 @@
                 Music(0.3)
                 AEI(0.5, Emotion.CU)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AR-9069"
         title = "Masaru Yokoyama" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains("M-VGMDB-AL-49046")
-    }
+    </entry>
 </document>

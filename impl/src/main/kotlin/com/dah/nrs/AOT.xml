@@ -2,7 +2,7 @@
 
 <!-- imagine losing to a contentless franchise xddddddddddddd -->
 <document>
-    Entry {
+    <entry>
         title = "Shingeki no Kyojin"
         id = "F-VGMDB-2931"
 
@@ -15,7 +15,7 @@
             contributors["A-MAL-38524"] = 0.25
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-16498"
             title = "Shingeki no Kyojin" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -25,9 +25,9 @@
             bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.2, 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-25777"
             title = "Shingeki no Kyojin Season 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 25777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -37,9 +37,9 @@
             bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-35760"
             title = "Shingeki no Kyojin Season 3" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -49,14 +49,14 @@
             bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
-        }
+        </entry>
 
         <!-- this has more score than almost all love live animes -->
         <!-- and almost the same score as sb69 stars wtf. -->
 
         <!-- aged well lmfao after the seishun wa non-stop incident -->
         <!-- xddddddddddddddddddddd -->
-        Entry {
+        <entry>
             id = "A-MAL-38524"
             title = "Shingeki no Kyojin Season 3 Part 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -67,6 +67,6 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.2, 0.6)
-        }
-    }
+        </entry>
+    </entry>
 </document>

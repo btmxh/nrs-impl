@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-5549"
         title = "Tenshi no 3P!"
 
-        Entry {
+        <entry>
             id = "A-MAL-34177"
             title = "Tenshi no 3P!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34177 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -21,9 +21,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             FeatureMusic("M-VGMDB-AL-68189-1")
             FeatureMusic("M-VGMDB-AL-69018-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-68189"
             title = "Habataki no Birthday / Baby's breath" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -33,9 +33,9 @@
                 title = "Habataki no Birthday" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-69018"
             title = "Kusabi / Baby's breath" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
@@ -45,6 +45,6 @@
                 MusicConsumedProgress("4:26") <!-- impl_overridden -->
                 Music(0.3)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

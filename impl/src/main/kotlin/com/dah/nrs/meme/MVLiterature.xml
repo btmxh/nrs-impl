@@ -4,16 +4,16 @@
 <document>
     <!-- based rst turning literally everything into a meme -->
     <!-- (those texts getting their own entries is a way to nerf rst/sb69 btw) -->
-    Entry {
+    <entry>
         id = "O-20220702T030659-1"
         title = "Người lái đò Sông Đà"
 
         <!-- the river analogy states that the love live franchise is our opponents/enemies -->
         <!-- (Sông Đà hung bạo) as well as our friends (Sông Đà trữ tình) -->
         AKMEraPart1(0.15)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "O-20220702T030659-2"
         title = "Vợ chồng A Phủ"
 
@@ -31,9 +31,9 @@
         <!-- also the character "A Sử" made the famous meme -->
         <!-- "A-Sử-iro Koi Moyou" -->
         AKMEraPart1(0.25)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "O-20220702T030659-3"
         title = "Chiếc thuyền ngoài xa"
         <!-- https://vi.wikipedia.org/wiki/Chi%E1%BA%BFc_thuy%E1%BB%81n_ngo%C3%A0i_xa -->
@@ -57,9 +57,9 @@
         <!-- 「国語はChiếc thuyền ngoài xaと思います」ってフェスブックで言ったことがあります。 -->
         <!-- 2年前、この人も2回正しい卒業試験の国語の答えを行った、 -->
         AKMEraPart1(0.3)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-111027"
         title = "hololive IDOL PROJECT / Bouquet" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -88,5 +88,5 @@
             AKMEraPart1(0.4)
             AKMEraPart2(0.1)
         </entry>
-    }
+    </entry>
 </document>

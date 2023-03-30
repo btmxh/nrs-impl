@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-7481"
         title = "Bokutachi wa Benkyou ga Dekinai"
 
-        Entry {
+        <entry>
             id = "A-MAL-38186"
             title = "Bokutachi wa Benkyou ga Dekinai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38186 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -20,9 +20,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-85537-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40004"
             title = "Bokutachi wa Benkyou ga Dekinai!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40004 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -39,9 +39,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
             FeatureMusic("M-VGMDB-AL-88884-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-85537"
             title = "Seishun Seminar/Never Give It Up!! / Study" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -53,9 +53,9 @@
                 Music(0.25)
                 OsuSong(personal = 0.2)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-88884"
             title = "Can now, Can now / Study" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -67,6 +67,6 @@
                 Music(0.25)
                 OsuSong(personal = 0.1)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

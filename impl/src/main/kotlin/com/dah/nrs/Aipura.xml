@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-9358"
         title = "Idoly Pride"
 
@@ -26,7 +26,7 @@
 
 
 
-        Entry {
+        <entry>
             id = "A-MAL-40842"
             title = "Idoly Pride" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40842 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -47,9 +47,9 @@
             bestGirl = "Sakura Kawasaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             Visual(VisualKind.Animated, 0.6, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-106487"
             title = "IDOLY PRIDE / Hoshimi Production" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -64,7 +64,7 @@
             <!-- which is clearly a reference to this osu song: -->
             <!-- https://www.youtube.com/watch?v=bw3UygAi2oo -->
             <!-- lmfao -->
-        }
+        </entry>
 
         <!-- a little bit off topic but the Rie Murakawa girl -->
         <!-- https://idoly-pride.fandom.com/wiki/Miho -->
@@ -76,5 +76,5 @@
         <!-- Atelier-Chemistry reference (?) -->
         <!-- the gigachad mapper sure know their stuff -->
         <!-- sasuga le gigachad mapper -->
-    }
+    </entry>
 </document>

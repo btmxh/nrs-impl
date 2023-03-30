@@ -8,12 +8,12 @@
     <!-- which is what a "kano impact" is -->
     <!-- (it will be represented as an NEI/AEI) -->
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AR-11666"
         title = "Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains(MusicVocalImageContainFactor) {
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-95369"
                 title = "Bambino / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -26,9 +26,9 @@
                     NEI(0.1, Emotion.MP)
                     Remix("M-VGMDB-AL-37130-1")
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-34411"
                 title = "Aimai Bambina / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -47,9 +47,9 @@
                     Music(0.175)
                     NEI(0.15, Emotion.CU)
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-42961"
                 title = "Aru Machi no Hakuchuumu / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -76,9 +76,9 @@
                     NEI(0.2, Emotion.MP)
                     OsuSong(personal = 0.1, community = 0.0)
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-49423"
                 title = "Good Hello / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -97,9 +97,9 @@
                     Music(0.2)
                     NEI(0.25, Emotion.CU)
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-51254"
                 title = "Stella-rium / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -112,9 +112,9 @@
                     Music(0.5)
                     NEI(0.5, Emotion.MP)
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-54307"
                 title = "Dear Brave / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -127,9 +127,9 @@
                     Music(0.5)
                     NEI(0.1, Emotion.CU)
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-57564"
                 title = "nowhere / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -151,18 +151,18 @@
                     Music(0.4)
                     OsuSong(personal = 0.6, community = 0.3)
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-73516"
                 title = "one / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
                 Contains("M-VGMDB-AL-34411-11")
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 id = "M-VGMDB-AL-89290"
                 title = "three / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -177,9 +177,9 @@
 
                     Remix("M-MAL-36631-6")
                 </entry>
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 <!-- from the album "Colorful Wonder Note", track number 8 -->
                 <!-- and yes this is from osugame too -->
                 id = "M-20220130T032649"
@@ -197,9 +197,9 @@
                 <!-- I HATE HIMENO SENA -->
                 <!-- https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
                 KoikakeCry(0.7, Emotion.CU)
-            }
+            </entry>
 
-            Entry {
+            <entry>
                 <!-- the best album of all time -->
                 <!-- literally the perfect combination of vocal and instrumental -->
                 id = "M-VGMDB-AL-37130"
@@ -275,13 +275,13 @@
                     NEI(0.25, Emotion.CU)
                     KoikakeNEI(0.5, 0.8, Emotion.CU to 0.5, Emotion.MP to 0.4, Emotion.CP to 0.1)
                 </entry>
-            }
+            </entry>
             <!-- after this, almost all of kano's songs suck -->
             <!-- (if kano sees this pls keep going on the -->
             <!-- path you've chosen, don't mind me) -->
 
             <!-- oh except for this, i forgor -->
-            Entry {
+            <entry>
                 id = "M-20220317T064137-5"
                 title = "Sore wa Kitto Natsudatta"
 
@@ -292,10 +292,10 @@
                 <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
                 Music(0.5)
                 MusicConsumedProgress("3:29") <!-- impl_overridden -->
-            }
+            </entry>
         }
 
-        Entry {
+        <entry>
             id = "M-20221202T204728"
             title = "Sukisuki Zecchoushou"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -303,9 +303,9 @@
             OsuSong(personal = 0.6, community = 0.4)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
             MusicConsumedProgress("3:33")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20221202T203758"
             title = "Sayonara, Adam to Eve"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -313,9 +313,9 @@
             OsuSong(personal = 0.7, community = 0.0)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
             MusicConsumedProgress("4:17")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20221202T202421"
             title = "Natsu no Owari, Koi no Hajimari (Kano)"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -323,9 +323,9 @@
             OsuSong(personal = 0.0, community = 0.0)
             <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
             MusicConsumedProgress("4:08")
-        }
+        </entry>
 
         <!-- kano-era -->
         Meme(0.8, numDays("2020-11-01", "2021-04-01"))
-    }
+    </entry>
 </document>

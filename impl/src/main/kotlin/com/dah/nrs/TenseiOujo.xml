@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-12258"
         title = "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
 
-        Entry {
+        <entry>
             id = "A-MAL-52736"
             title = "Tensei Oujo to Tensai Reijou no Mahou Kakumei" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -38,9 +38,9 @@
             }
 
             FeatureMusic("M-VGMDB-AL-124465-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-124465"
             title = "Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -51,6 +51,6 @@
                 title = "Only for you" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "O-20220415T155427"
         title = "Kizuna Method"
         bestGirl = "method" <!-- impl_overridden -->
@@ -11,5 +11,5 @@
         AKMEraPart1(0.1)
         AKMEraPart2(0.1)
         AKMEraPart3(0.1)
-    }
+    </entry>
 </document>

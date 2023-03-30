@@ -7,7 +7,7 @@
     <!-- remodernization, the return of romance and the weakening of -->
     <!-- the heisenberg uncertainty principle -->
 
-    Entry {
+    <entry>
         id = "A-MAL-52736"
         title = "Tensei Oujo to Tensai Reijou no Mahou Kakumei" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -37,9 +37,9 @@
             contributors["A-MAL-52736"] = 0.5
             contributors["localism [null entry]"] = 0.5
         }
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "A-MAL-49980"
         title = "Sugar Apple Fairy Tale" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 49980 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -52,9 +52,9 @@
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
         Visual(VisualKind.Animated, 0.4, 0.6)
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "A-MAL-49612"
         title = "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 49612 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -72,7 +72,7 @@
         <!-- focus on [trust], somewhat interesting -->
         <!-- idk will this be able to continued to other eps tho -->
         NEI(0.2, Emotion.AP)
-    }
+    </entry>
 
     <!-- ngl this is way better than previous season -->
     <!-- it's somewhat esoteric too, like it's full fantasy -->

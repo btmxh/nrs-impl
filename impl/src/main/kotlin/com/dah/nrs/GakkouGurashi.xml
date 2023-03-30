@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-4000"
         title = "Gakkougurashi!"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-52993"
             title = "Friend Shitai / Gakuen Seikatsubu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -17,9 +17,9 @@
                 Music(0.3)
                 OsuSong(personal = 0.5)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220211T055120"
             title = "Gakuen Seikatsubu"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -27,9 +27,9 @@
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-52993")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-53719"
             title = "TV Anime \"Gakkou Gurashi!\" Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -40,9 +40,9 @@
                 title = "アンハッピーエンドワールド" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-24765"
             title = "Gakkougurashi!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 24765 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -59,6 +59,6 @@
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
-    }
+        </entry>
+    </entry>
 </document>

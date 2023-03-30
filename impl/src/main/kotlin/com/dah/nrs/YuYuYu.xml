@@ -4,13 +4,13 @@
     <!-- kirare - happy typhoon and u's - a song for yuyuyu reference -->
     <!-- somewhat changed da world -->
     <!-- the start line of the "pleasant revolution" -->
-    Entry {
+    <entry>
         id = "F-VGMDB-3245"
         title = "Yuusha de Aru"
 
         Contains("M-VGMDB-AL-69821-1")
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-47678"
             title = "Aurora Days / Sanshuu Chuugaku Yuushabu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -21,9 +21,9 @@
                 title = "Aurora Days" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-114186"
             title = "Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -37,7 +37,7 @@
                 Music(0.4)
                 OsuSong(personal = 0.3)
             </entry>
-        }
+        </entry>
 
         Meme(0.8, numDays("2021-11-01", "2021-11-20")) {
             contributors["A-MAL-25519"] = 0.5
@@ -76,7 +76,7 @@
             contributors["A-MAL-42587"] = 0.06
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-25519"
             title = "Yuuki Yuuna wa Yuusha de Aru" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 25519 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -103,9 +103,9 @@
             AEI(0.25, Emotion.CU)
             Visual(VisualKind.Animated, 0.3, 0.5)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "L-MAL-90810"
             title = "Nogi Wakaba wa Yuusha de Aru"
             <!-- Update Nov 6, 2021: -->
@@ -149,9 +149,9 @@
 
             ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
             Visual(VisualKind.LightNovel, 0.15, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-34284"
             title = "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34284 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -171,9 +171,9 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-34445"
             title = "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34445 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -196,9 +196,9 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
             Visual(VisualKind.Animated, 0.3, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-42587"
             title = "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 42587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -226,12 +226,12 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
-        }
+        </entry>
 
         WaifuUnknownPeriod("Yuuki Yuuna", 20) {
             contributors["A-MAL-25519"] = 0.4
             contributors["A-MAL-34445"] = 0.4
             contributors["A-MAL-42587"] = 0.2
         }
-    }
+    </entry>
 </document>

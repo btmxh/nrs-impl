@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-3274"
         title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
 
@@ -9,7 +9,7 @@
         Contains("M-VGMDB-AL-51516-1")
         Contains("M-VGMDB-AL-96288-1")
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-37999"
             title = "Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -31,9 +31,9 @@
 
             </entry>
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-51394"
             title = "Everyday World / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -55,9 +55,9 @@
 
             </entry>
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-96290"
             title = "Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) & Yui Yuigahama (CV: Nao Toyama)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -68,7 +68,7 @@
                 title = "Diamond no Jundo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
-        }
+        </entry>
 
         <!-- The Yui Depression, when I realize that the VSCC -->
         <!-- (Volunteer Service Club Compoly) is not as good as -->
@@ -108,7 +108,7 @@
             contributors["A-MAL-23847"] = 0.9
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-14813"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -126,9 +126,9 @@
             FeatureMusic("M-VGMDB-AL-37999")
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-23847"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23847 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -152,9 +152,9 @@
             FeatureMusic("M-VGMDB-AL-51394-3")
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-39547"
             title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -181,6 +181,6 @@
             FeatureMusic("M-VGMDB-AL-96290-1")
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
-    }
+        </entry>
+    </entry>
 </document>

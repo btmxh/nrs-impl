@@ -1,14 +1,14 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-2894"
         <!-- method!!!!!!! mot con nguoi dc xay dung mot -->
         <!-- cach khac biet: kizuna method daisuki no uta -->
         <!-- yakusoku no uta eien no uta todokeyou -->
         title = "Sora no Method"
 
-        Entry {
+        <entry>
             id = "A-MAL-23209"
             title = "Sora no Method" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23209 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -32,9 +32,9 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.6, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-47402"
             title = "Stargazer / Larval Stage Planning" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -44,8 +44,8 @@
                 title = "Stargazer" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-47403-1")
-    }
+    </entry>
 </document>

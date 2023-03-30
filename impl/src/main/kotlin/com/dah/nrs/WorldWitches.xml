@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-4639"
         title = "World Witches Series"
 
-        Entry {
+        <entry>
             id = "A-MAL-3667"
             title = "Strike Witches" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -20,9 +20,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.2, 0.75)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-32866"
             title = "Brave Witches" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 32866 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -45,9 +45,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
             Visual(VisualKind.Animated, 0.3, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-38006"
             title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38006 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -77,9 +77,9 @@
             FeatureMusic("M-VGMDB-AL-120491")
             FeatureMusic("M-VGMDB-AL-120492")
             FeatureMusic("M-VGMDB-AL-121418")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-116433"
             title = "My Shining Light / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
@@ -96,9 +96,9 @@
                 title = "Luminossense" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-108019"
             title = "Sora ni Chikau kara / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
@@ -108,9 +108,9 @@
                 title = "Sora ni Chikau kara" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-120491"
             title = "WONDERFUL WORLD / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.75, 0.15)
@@ -121,9 +121,9 @@
 
                 Music(0.4)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-120492"
             title = "Watashi to Minna no Uta / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
@@ -134,12 +134,12 @@
 
                 Music(0.4)
             </entry>
-        }
+        </entry>
 
         <!-- W witches -->
         <!-- the carrier (not atelier reference) of post-modern culture -->
         <!-- (sasuga the mfs who are living rent-free in rst territory) -->
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-121418"
             title = "LUMINOUS WITCHES CHARACTER SONG CD vol.3" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
@@ -149,9 +149,9 @@
                 title = "歌を歌おう (finale)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-31409"
             title = "Strike Witches Gekijouban Original Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -163,15 +163,15 @@
                 Music(0.4)
                 Remix("M-20221009T085407")
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20221009T085407"
         title = "- 約束の空へ ～私のいた場所～(Soleily Remix)"
 
         Music(0.6)
         <!-- Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0 -->
         MusicConsumedProgress("5:48")
-    }
+    </entry>
 </document>

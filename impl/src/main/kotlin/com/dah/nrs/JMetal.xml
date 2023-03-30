@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "M-VGMDB-AR-8482"
         title = "Foreground Eclipse" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-97601"
             title = "Truths, Ironies, The Secret Lyrics" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -31,7 +31,7 @@
                     }
                 }
             </entry>
-        }
+        </entry>
 
         <!-- this and HAG - Shoujotachi no Owaranai Yoru (lit. Everlasting Night of Teenage Girls) -->
         <!-- somewhat reflect an image of "happy nights" in Ayumu-era -->
@@ -45,7 +45,7 @@
             contributors["M-20220818T163913-2"] = 0.6
         }
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-43320"
             title = "Stories That Last Through The Sleepless Nights" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -72,14 +72,14 @@
 
                 KoikakeNEI(0.8, 0.75, Emotion.AU to 0.5, Emotion.MP to 0.5)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20221224T220452"
         title = "Release Hallucination"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-80229"
             title = "Chronostasis" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
@@ -91,9 +91,9 @@
                 Music(0.4)
                 OsuSong(0.0, 0.3)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20221224T220636"
             title = "Imperfection of Imaginary Number"
 
@@ -104,6 +104,6 @@
                 Music(0.5)
                 OsuSong(0.1, 0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

@@ -16,7 +16,7 @@ fun main() =
         SwordArtOnline()
         KokoroConnect()
 
-        Entry {
+        <entry>
             id = "A-MAL-21995"
             title = "Ao Haru Ride" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21995 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -28,9 +28,9 @@ fun main() =
             <!-- old af and nothing special iirc -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-12175"
             idMAL = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -43,9 +43,9 @@ fun main() =
             AEI(0.3, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-12189"
             idMAL = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -58,7 +58,7 @@ fun main() =
             NEI(0.3, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 22)
             Visual(VisualKind.Animated, 0.5, 0.5)
-        }
+        </entry>
 
         Sakurasou()
         Chuunibyou()
@@ -70,7 +70,7 @@ fun main() =
         NagiAsu()
         GochiUsa()
 
-        Entry {
+        <entry>
             id = "A-MAL-21845"
             idMAL = 21845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20591 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -89,7 +89,7 @@ fun main() =
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
-        }
+        </entry>
 
         SoraMethod()
         YLIA()
@@ -100,7 +100,7 @@ fun main() =
         YamadaKun()
         Charlotte()
 
-        Entry {
+        <entry>
             id = "A-MAL-28851"
             idMAL = 28851 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20954 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -122,9 +122,9 @@ fun main() =
             AdditionalImpact("Gate-open anime", 1.0)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 2.hours + 10.minutes)
             Visual(VisualKind.Animated, 0.5, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-31952"
             idKitsu = 11466 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21457 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -135,11 +135,11 @@ fun main() =
             bestGirl = "Mizuki Usami" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
         ShinkaiMovies()
 
-        Entry {
+        <entry>
             id = "A-MAL-32729"
             idMAL = 32729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21647 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -153,13 +153,13 @@ fun main() =
             AEI(0.25, Emotion.CU)
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
             Visual(VisualKind.Animated, 0.3, 0.5)
-        }
+        </entry>
 
         KobayashiMaidDragon()
         NewGame()
         Bandori()
 
-        Entry {
+        <entry>
             id = "A-MAL-33731"
             idMAL = 33731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21878 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -173,9 +173,9 @@ fun main() =
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-34240"
             idMAL = 34240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -196,9 +196,9 @@ fun main() =
             <!-- https://www.youtube.com/watch?v=fzQ6gRAEoy0 -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 6.minutes + 6.seconds)
             Visual(VisualKind.Animated, 0.65, 0.35)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-34280"
             idMAL = 34280 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97766 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -212,12 +212,12 @@ fun main() =
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.3)
-        }
+        </entry>
 
         OneRoom()
         UchiageHanabi()
 
-        Entry {
+        <entry>
             id = "A-MAL-34822"
             idMAL = 34822 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98202 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -230,9 +230,9 @@ fun main() =
             AEI(0.25, Emotion.CU)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-35241"
             idMAL = 35241 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98506 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -250,12 +250,12 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 3)
             Dropped()
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
         COTE()
         JustBecause()
 
-        Entry {
+        <entry>
             id = "A-MAL-35756"
             idMAL = 35756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99131 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -267,12 +267,12 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             NEI(0.2, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
         TateYuusha()
         SoraYori()
 
-        Entry {
+        <entry>
             id = "A-MAL-35860"
             idMAL = 35860 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99468 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -286,9 +286,9 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
             Dropped()
             Visual(VisualKind.Animated, 0.3, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-36038"
             idMAL = 36038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99726 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -301,9 +301,9 @@ fun main() =
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             Visual(VisualKind.Animated, 0.3, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-36098"
             idMAL = 36098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99750 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -317,9 +317,9 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 48.minutes)
             AEI(0.1, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-36266"
             idMAL = 36266 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100010 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -336,7 +336,7 @@ fun main() =
             AEI(0.5, Emotion.CU)
             Visual(VisualKind.Animated, 0.4, 0.5)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
         ShichiseiSubaru()
         Arifureta()
@@ -353,7 +353,7 @@ fun main() =
         LoveLab()
         StellaMahou()
 
-        Entry {
+        <entry>
             id = "A-MAL-37744"
             idMAL = 37744 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 101547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -365,9 +365,9 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 8)
             Dropped()
             Visual(VisualKind.Animated, 0.6, 0.2)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-37926"
             idKitsu = 41336 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 37926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -381,11 +381,11 @@ fun main() =
             <!-- this was funny af (iirc), really enjoyed it -->
             AEI(0.6, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
         ZombielandSaga()
 
-        Entry {
+        <entry>
             id = "A-MAL-37982"
             title = "Domestic na Kanojo" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -399,14 +399,14 @@ fun main() =
 
             <!-- the domestic na kanojo war lmao -->
             Meme(0.8, 90)
-        }
+        </entry>
 
         Gotoubun()
         Bokuben()
         IsekaiQuartet()
         DrStone()
 
-        Entry {
+        <entry>
             id = "A-MAL-38656"
             title = "Darwin's Game" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38656 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -418,9 +418,9 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.4)
             <!-- "plot is good" -->
             AEI(0.5, Emotion.AP)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-38659"
             title = "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38659 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -433,11 +433,11 @@ fun main() =
             bestGirl = "Ristarte" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
-        }
+        </entry>
 
         AoChan()
 
-        Entry {
+        <entry>
             id = "A-MAL-38790"
             idAniDB = 38790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 106479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -450,12 +450,12 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 2)
             Dropped()
             Visual(VisualKind.Animated, 0.5, 0.2)
-        }
+        </entry>
 
         HelloWorld()
         RikeKoi()
 
-        Entry {
+        <entry>
             id = "A-MAL-39324"
             idMAL = 39324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 107956 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -467,12 +467,12 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
             Dropped()
             Visual(VisualKind.Animated, 0.4, 0.4)
-        }
+        </entry>
 
         KoisuruAsteroid()
         AscendanceBookworm()
 
-        Entry {
+        <entry>
             id = "A-MAL-39523"
             idMAL = 39523 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 108388 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -489,12 +489,12 @@ fun main() =
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
         EgaoDaika()
         D4DJ()
 
-        Entry {
+        <entry>
             id = "A-MAL-39790"
             idMAL = 39790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 109287 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -513,9 +513,9 @@ fun main() =
             <!-- ADA foreshadowing lol -->
             MaxAEIPADS(2, Emotion.CP)
             KilledBy("F-VGMDB-2588", 0.75, 0.3)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40550"
             idMAL = 40550 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 112479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -532,9 +532,9 @@ fun main() =
             Visual(VisualKind.Animated, 0.6, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             FeatureMusic("M-VGMDB-AL-101643-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40571"
             idMAL = 40571 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 112609 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -549,9 +549,9 @@ fun main() =
             KilledBy("F-VGMDB-2588", 0.5, 0.5)
             <!-- observism and the COP -->
             Politics {}
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40783"
             idMAL = 40783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113570 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -565,12 +565,12 @@ fun main() =
             AEI(0.2, Emotion.AP)
             Visual(VisualKind.Animated, 0.3, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
         RentAGirlfriend()
         ToniKawa()
 
-        Entry {
+        <entry>
             id = "A-MAL-41619"
             idMAL = 41619 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 117343 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -584,9 +584,9 @@ fun main() =
             KilledBy("F-VGMDB-2588", 0.5, 0.3)
             <!-- plot is very good -->
             AEI(0.4, Emotion.AP)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-41930"
             idMAL = 41930 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 118419 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -599,12 +599,12 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
             Dropped()
             KilledBy("F-VGMDB-2588", 0.6, 0.5)
-        }
+        </entry>
 
         Aipura()
         Tanmoshi()
 
-        Entry {
+        <entry>
             id = "A-MAL-43969"
             idKitsu = 44165 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 126192 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -621,9 +621,9 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
             Dropped()
             KilledBy("A-MAL-41530", 0.2, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-46093"
             idMAL = 46093 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 128545 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -637,9 +637,9 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 16)
             Dropped()
             KilledBy("A-MAL-41530", 0.1, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40904"
             idMAL = 40904 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 114065 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -654,9 +654,9 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             KilledBy("A-MAL-41530", 0.2, 0.2)
             FeatureMusic("M-VGMDB-AL-111089-5")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-44203"
             idMAL = 44203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 126546 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -679,9 +679,9 @@ fun main() =
 
             <!-- lol -->
             AEI(0.5, Emotion.AU to 0.5, Emotion.AP to 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-47790"
             idMAL = 47790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 129898 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -696,9 +696,9 @@ fun main() =
             KilledBy("F-VGMDB-3245", 0.1, 0.2)
             KilledBy("F-VGMDB-7059", 0.1, 0.2)
             NEI(0.8, Emotion.AP to 1.0)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-48483"
             idMAL = 48483 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 131083 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -715,9 +715,9 @@ fun main() =
             Visual(VisualKind.Animated, 0.3, 0.6)
             KilledBy("F-VGMDB-3245", 0.2, 0.2)
             KilledBy("F-VGMDB-7059", 0.2, 0.2)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-48644"
             idMAL = 48644 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 131878 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -732,11 +732,11 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.3)
             KilledBy("F-VGMDB-3245", 0.3, 0.15)
             KilledBy("F-VGMDB-7059", 0.3, 0.15)
-        }
+        </entry>
 
         Tenshi3P()
 
-        Entry {
+        <entry>
             id = "A-MAL-17919"
             idMAL = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -749,7 +749,7 @@ fun main() =
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
             FeatureMusic("M-VGMDB-AL-51254-1")
-        }
+        </entry>
 
         Kano()
 
@@ -773,7 +773,7 @@ fun main() =
         MVLiterature()
         Atelier()
 
-        Entry {
+        <entry>
             id = "A-MAL-35589"
             idMAL = 35589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98747 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -789,9 +789,9 @@ fun main() =
             <!-- decent plot ngl -->
             NEI(0.8, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-38091"
             title = "Hachigatsu no Cinderella Nine (TV)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38091 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -806,9 +806,9 @@ fun main() =
             NEI(0.3, Emotion.CP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-37481"
             title = "Ongaku Shoujo (TV)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37481 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -821,7 +821,7 @@ fun main() =
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
-        }
+        </entry>
 
         Summer2022()
         WorldWitches()

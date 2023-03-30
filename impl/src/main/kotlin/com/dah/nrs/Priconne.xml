@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-7086"
         title = "PRINCESS CONNECT!"
 
-        Entry {
+        <entry>
             id = "A-MAL-39292"
             title = "Princess Connect! Re:Dive" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -17,9 +17,9 @@
             Visual(VisualKind.Animated, 0.55, 0.25)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             NEI(0.9, Emotion.AP) <!-- funny ig -->
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-42670"
             title = "Princess Connect! Re:Dive Season 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 42670 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -32,9 +32,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.5, 5)
             NEI(0.5, Emotion.CP) <!-- idk lol -->
             NEI(0.75, Emotion.AP) <!-- funny ig -->
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-82981"
             title = "PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
@@ -44,6 +44,6 @@
                 Music(0.45)
                 OsuSong(personal = 0.5, community = 0.0)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

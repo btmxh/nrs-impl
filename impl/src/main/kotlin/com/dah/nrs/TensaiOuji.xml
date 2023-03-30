@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-10006"
         title = "Tensai Ouji no Akaji Kokka Saiseijutsu"
 
-        Entry {
+        <entry>
             id = "A-MAL-47159"
             title = "Tensai Ouji no Akaji Kokka Saisei Jutsu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 47159 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -29,9 +29,9 @@
             KilledBy("F-VGMDB-9540", 0.05, 0.05)
             KilledBy("F-VGMDB-7059", 0.05, 0.05)
             KilledBy("F-VGMDB-4499", 0.05, 0.2)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-116264"
             title = "LEVEL / yanaginagi × THE SIXTH LIE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -42,6 +42,6 @@
                 title = "LEVEL" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

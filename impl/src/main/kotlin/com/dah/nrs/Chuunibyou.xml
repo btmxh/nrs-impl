@@ -1,18 +1,18 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "M-VGMDB-AR-12516"
         title = "ZAQ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains("M-VGMDB-AL-42762")
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "F-VGMDB-2330"
         title = "Chuunibyou demo Koi ga Shitai!"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-42762"
             title = "VOICE / ZAQ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -24,7 +24,7 @@
                 Music(0.2)
                 OsuSong(personal = 0.2)
             </entry>
-        }
+        </entry>
 
         <!-- this made me laugh my ass off -->
         AEI(0.75, Emotion.AP) {
@@ -34,7 +34,7 @@
             contributors["A-MAL-18671"] = 0.25
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-14741"
             title = "Chuunibyou demo Koi ga Shitai!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 14741 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -49,9 +49,9 @@
             <!-- this is taken from NRS1 -->
             Meme(0.15, 2)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-18671"
             title = "Chuunibyou demo Koi ga Shitai! Ren" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 18671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -68,9 +68,9 @@
             Visual(VisualKind.Animated, 0.6, 0.2)
 
             FeatureMusic("M-VGMDB-AL-42762-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-35608"
             title = "Chuunibyou demo Koi ga Shitai! Movie: Take On Me" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35608 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -83,6 +83,6 @@
             <!-- separate from s1/2 because it was watched later -->
             NEI(0.75, Emotion.AP)
             Visual(VisualKind.Animated, 0.6, 0.2)
-        }
-    }
+        </entry>
+    </entry>
 </document>

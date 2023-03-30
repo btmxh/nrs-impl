@@ -1,12 +1,12 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-9159"
         title = "Dr. Stone"
         <!-- bac si da -->
 
-        Entry {
+        <entry>
             id = "A-MAL-38691"
             title = "Dr. Stone" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38691 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -19,11 +19,11 @@
             <!-- "plot is good" -->
             AEI(0.25, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-87927-1")
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-87927-1")
 
-        Entry {
+        <entry>
             id = "A-MAL-40852"
             title = "Dr. Stone: Stone Wars" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40852 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -34,9 +34,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             Visual(VisualKind.Animated, 0.3, 0.75)
             AEI(0.1, Emotion.AP)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-50612"
             title = "Dr. Stone: Ryuusui" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 50612 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -47,10 +47,10 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 54.minutes)
             Visual(VisualKind.Animated, 0.3, 0.75)
             NEI(0.6, Emotion.AP)
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-87927"
         title = "Good Morning World! / BURNOUT SYNDROMES" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -62,5 +62,5 @@
             Music(0.25)
             OsuSong(personal = 0.1)
         </entry>
-    }
+    </entry>
 </document>

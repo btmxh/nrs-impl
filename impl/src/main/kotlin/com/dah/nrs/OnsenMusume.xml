@@ -4,11 +4,11 @@
     <!-- le funny franchise, lack content therefore low score -->
     <!-- translate stuff for me if u want score to go up -->
 
-    Entry {
+    <entry>
         id = "F-VGMDB-6439"
         title = "Onsen Musume"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-75349"
             title = "Hop Step Jump! / SPRiNGS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -18,9 +18,9 @@
                 MusicConsumedProgress("4:59") <!-- impl_overridden -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220125T063355-1"
             title = "SPRiNGS"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -30,9 +30,9 @@
                 Contains("M-VGMDB-AL-75344-5")
                 Contains("M-VGMDB-AL-75349")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-75344"
             title = "Tsuioku Kaleidoscope / SPRiNGS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -70,8 +70,8 @@
                 MusicConsumedProgress("4:01") <!-- impl_overridden -->
                 Music(0.2)
             </entry>
-        }
+        </entry>
 
         Meme(0.3, 45)
-    }
+    </entry>
 </document>

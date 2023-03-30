@@ -2,11 +2,11 @@
 
 <document>
     <!-- gen1 sb69 -->
-    Entry {
+    <entry>
         id = "F-VGMDB-5173"
         title = "BanG Dream!"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-60358"
             title = "STAR BEAT! ~Hoshi no Kodou~ / Poppin'Party" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -17,9 +17,9 @@
                 MusicConsumedProgress("5:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-63624"
             title = "Tokimeki Experience! / Poppin'Party" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -36,9 +36,9 @@
                 MusicConsumedProgress("5:31") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-81504"
             title = "KIZUNA MUSIC♪ / Poppin'Party" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -63,9 +63,9 @@
                 <!-- bau... troi... mo... uoc -->
                 Music(0.5)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-111089"
             title = "Live Beyond!! / Poppin'Party" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -76,9 +76,9 @@
                 title = "Koko kara Saki wa Uta ni Naranai" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-74133"
             title = "CiRCLiNG / Poppin'Party" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -91,9 +91,9 @@
                 <!-- daite daite -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-95118"
             title = "Initial/Yume wo Uchinuku Shunkan ni! / Poppin'Party [Special Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -111,9 +111,9 @@
                 <!-- iykyk -->
                 Meme(0.05, 10)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-27992"
             title = "Poppin'Party" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -127,9 +127,9 @@
             }
 
             Contains("M-VGMDB-AL-106577-1", 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-85172"
             title = "FIRE BIRD / Roselia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -140,18 +140,18 @@
                 MusicConsumedProgress("5:25") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-27993"
             title = "Roselia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-85172")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-31328"
             title = "Pastel*Palettes" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -173,18 +173,18 @@
                 Contains("M-VGMDB-AL-106577-6")
                 Contains("M-20220130T183728-4", 1.0 / 3)
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-31329"
             title = "Hello, Happy World!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-114399-8")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-82743"
             title = "Y.O.L.O!!!!! / Afterglow" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -196,19 +196,19 @@
                 Music(0.35)
                 OsuSong(personal = 0.7)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-31326"
             title = "Afterglow" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-82743")
             }
-        }
+        </entry>
 
         <!-- mixed albums -->
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-106577"
             title = "BanG Dream! Girls Band Party! Cover collection vol.5" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -229,9 +229,9 @@
 
                 Remix("M-20220130T183728-4")
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-114399"
             title = "BanG Dream! Girls Band Party! Cover collection vol.6" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -243,9 +243,9 @@
                 Music(0.5)
                 OsuSong(personal = 0.55)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104105"
             title = "Garupa Vocalo Cover Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
@@ -255,18 +255,18 @@
                 Music(0.3)
                 OsuSong(personal = 0.75, community = 0.0)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-31336"
             title = "RAISE A SUILEN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-101643")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-101643"
             title = "Sacred world / RAISE A SUILEN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -276,7 +276,7 @@
                 MusicConsumedProgress("5:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
+        </entry>
 
         <!-- bandori has some good comedy shit -->
         AEI(0.2, Emotion.AP) {
@@ -285,7 +285,7 @@
             contributors["G-VGMDB-5172 [null entry]"] = 0.2
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-33573"
             title = "BanG Dream!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 33573 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -303,9 +303,9 @@
 
             FeatureMusic("M-VGMDB-AL-63624-1")
             KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-37869"
             title = "BanG Dream! 2nd Season" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37869 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -323,14 +323,14 @@
             Dropped()
             FeatureMusic("M-VGMDB-AL-81504-1")
             KilledBy("F-VGMDB-2588", potential = 0.2, effect = 0.5)
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AR-31509"
         title = "SILENT SIREN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Entry {
+        <entry>
             id = "M-20220130T183728-1"
             title = "S"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -338,7 +338,7 @@
             <!-- 3d girl ew /s -->
             Visual(VisualKind.AlbumArt, 0.1, 0.15)
 
-            Entry {
+            <entry>
                 id = "M-20220130T183728-2"
                 title = "Cherry Bomb"
 
@@ -346,15 +346,15 @@
                 MusicConsumedProgress("4:05") <!-- impl_overridden -->
                 Music(0.25)
                 Remix("M-VGMDB-AL-106577-1")
-            }
-        }
-    }
+            </entry>
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AR-25291"
         title = "KANA-BOON" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-50723"
             title = "Silhouette / KANA-BOON" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -367,15 +367,15 @@
                 Music(0.4)
                 Remix("M-VGMDB-AL-114399-8")
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20220130T183728-4"
         title = "Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138 -->
         MusicConsumedProgress("2:15") <!-- impl_overridden -->
         Music(0.25)
-    }
+    </entry>
 </document>

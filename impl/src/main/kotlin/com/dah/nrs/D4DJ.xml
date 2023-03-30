@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-8339"
         title = "D4DJ"
 
-        Entry {
+        <entry>
             id = "A-MAL-39681"
             title = "D4DJ: First Mix" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39681 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -20,9 +20,9 @@
             FeatureMusic("M-VGMDB-AL-107257")
             FeatureMusic("M-VGMDB-AL-108580-2")
             KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.2)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220823T115611"
             title = "Happy Around!"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -31,9 +31,9 @@
                 Contains("M-VGMDB-AL-107257")
                 Contains("M-VGMDB-AL-108580-2")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-107257"
             title = "Guruguru DJ TURN!! / Happy Around!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -43,10 +43,10 @@
                 title = "Guruguru DJ TURN!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
-        }
+        </entry>
 
         <!-- wtf -->
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-108580"
             title = "D4DJ Special Disc Photon Maiden Ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -57,6 +57,6 @@
                 MusicConsumedProgress("4:06") <!-- impl_overridden -->
                 Music(0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

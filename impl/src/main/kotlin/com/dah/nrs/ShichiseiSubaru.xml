@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-6418"
         title = "Shichisei no Subaru"
 
-        Entry {
+        <entry>
             id = "A-MAL-36316"
             title = "Shichisei no Subaru" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 36316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -23,8 +23,8 @@
             Visual(VisualKind.Animated, 0.6, 0.2)
 
             FeatureMusic("M-VGMDB-AL-78478-1")
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-78478-1")
-    }
+    </entry>
 </document>

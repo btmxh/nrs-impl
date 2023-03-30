@@ -2,7 +2,7 @@
 
 <document>
     <!-- Asuiro Koi Moyou and its consequences have been a disaster for our modern culture -->
-    Entry {
+    <entry>
         <!-- fuck this shit -->
         <!-- https://atelier.fandom.com/wiki/Miruca_Crotze -->
         <!-- https://atelier.fandom.com/wiki/Escha_Malier -->
@@ -60,7 +60,7 @@
             contributors["G-VGMDB-1880"] = 0.8
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-21167"
             title = "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21167 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -127,9 +127,9 @@
 
             <!-- ig this is killed somewhat similarly to luminous witches -->
             KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.25)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-45361"
             title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -150,9 +150,9 @@
                 <!-- all of that aside, this song slaps -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             <!-- i started the game oops -->
             id = "G-VGMDB-3499"
             title = "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~"
@@ -168,9 +168,9 @@
             Visual(VisualKind.VisualNovel, 0.4, 0.3)
             <!-- based on ayesha since i "deleted" atelier sophie -->
             ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "G-VGMDB-1090"
             title = "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi"
             <!-- "not even at the start line" -->
@@ -186,9 +186,9 @@
 
             <!-- i hate "bủ nio" (it's a meme lol) -->
             NEI(0.8, Emotion.AU to 0.5, Emotion.AP to 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "G-VGMDB-1880"
             title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~"
             <!-- fucking finally -->
@@ -202,9 +202,9 @@
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
             <!-- NOZS (Nyumber One! Zettai Saikyou!) Act -->
             ConsumedProgress(EntryStatus.OnHold, 1.0, 80.hours)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-45607"
             title = "Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -214,9 +214,9 @@
                 title = "Miruiro no Hoshi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-59535"
             title = "Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -229,9 +229,9 @@
                 <!-- aka the first win of the ROD in uni -->
                 AEI(0.25, Emotion.CP)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-38558"
             title = "Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
@@ -241,6 +241,6 @@
                 Music(0.45)
                 OsuSong(personal = 0.5, community = 0.0)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

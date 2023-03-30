@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-9342"
         title = "Gotoubun no Hanayome"
 
-        Entry {
+        <entry>
             id = "A-MAL-38101"
             title = "5-toubun no Hanayome" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -21,9 +21,9 @@
             AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.5)
             FeatureMusic("M-VGMDB-AL-82284")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-39783"
             title = "5-toubun no Hanayome ∬" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -39,9 +39,9 @@
             <!-- but it actually is -->
             AEI(0.25, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.5)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-82284"
             title = "Gotoubun no Kimochi / Nakano-ke no Itsutsugo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
@@ -51,6 +51,6 @@
                 title = "Gotoubun no Kimochi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

@@ -5,11 +5,11 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 }
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-504"
         title = "K-On!"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-20118"
             title = "Utauyo!!MIRACLE / HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -23,9 +23,9 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
                 Meme(0.1, 6)
                 Music(0.25)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-21146"
             title = "HO-KAGO TEA TIME Second / HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -37,9 +37,9 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
                 Music(0.05)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-22848"
             title = "Gohan wa Okazu/U&I / HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -50,9 +50,9 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
                 title = "U&I" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.1)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-8870"
             title = "HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -61,7 +61,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
                 Contains("M-VGMDB-AL-21146")
                 Contains("M-VGMDB-AL-22848")
             }
-        }
+        </entry>
 
         <!-- Kinda comfy. But not that much. -->
         NEI(0.5, Emotion.MP) {
@@ -84,7 +84,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             contributors["A-MAL-32281"] = 0.15
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-5680"
             title = "K-On!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -95,9 +95,9 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
             `K-OnVisual`(VisualKind.Animated)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-7791"
             title = "K-On!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -110,9 +110,9 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
             `K-OnVisual`(VisualKind.Animated)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-9617"
             title = "K-On! Movie" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -124,6 +124,6 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
             FeatureMusic("M-VGMDB-AL-21146-9")
             `K-OnVisual`(VisualKind.Animated)
-        }
-    }
+        </entry>
+    </entry>
 </document>

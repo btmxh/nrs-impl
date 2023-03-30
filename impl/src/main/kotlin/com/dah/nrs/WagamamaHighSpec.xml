@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-20221122T215201"
         title = "Wagamama High Spec"
 
-        Entry {
+        <entry>
             id = "V-VNDB-17823"
             title = "Wagamama High Spec"
 
@@ -18,9 +18,9 @@
             NEI(0.3, Emotion.MP)
             NEI(0.4, Emotion.AP)
             KilledBy("F-20221128T123502", potential = 0.25, effect = 1.0)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-67632"
             title = "WAGAMAMA HIGHSPEC OC VOCAL ALBUM" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -31,6 +31,6 @@
                 title = "Hey Darling!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.65)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-6852"
         title = "Seishun Buta Yarou Series"
 
-        Entry {
+        <entry>
             id = "A-MAL-37450"
             title = "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37450 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -20,12 +20,12 @@
             NEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.6, 0.15)
             FeatureMusic("M-VGMDB-AL-80253-1")
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-80253-1")
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-80253"
         title = "Kimi no Sei / the peggies" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -37,5 +37,5 @@
             title = "Kimi no Sei" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.1)
         </entry>
-    }
+    </entry>
 </document>

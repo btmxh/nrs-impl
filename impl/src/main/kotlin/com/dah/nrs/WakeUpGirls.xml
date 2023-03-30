@@ -5,7 +5,7 @@
     <!-- Every EI (emotional impact) post rst arc 1, -->
     <!-- is a direct consequence of the era -->
 
-    Entry {
+    <entry>
         id = "F-VGMDB-2645"
         title = "Wake Up, Girls!"
 
@@ -19,7 +19,7 @@
             contributors["GF-VGMDB-7059"] = 0.01
         }
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AR-15137"
             title = "Wake Up, Girls!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -28,9 +28,9 @@
                 Contains("M-VGMDB-AL-46042")
                 Contains("M-VGMDB-AL-68276", 0.5)
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-46042"
             title = "Tachiagare! / Wake Up, Girls!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -41,9 +41,9 @@
                 title = "Tachiagare!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-42945"
             title = "7 Girls War / Wake Up, Girls!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -54,9 +54,9 @@
                 title = "7 Girls War" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-21189"
             title = "Wake Up, Girls! Shichinin no Idol" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -72,9 +72,9 @@
 
             FeatureMusic("M-VGMDB-AL-46042-1")
             Visual(VisualKind.Animated, 0.4, 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-19023"
             title = "Wake Up, Girls!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 19023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -88,9 +88,9 @@
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             FeatureMusic("M-VGMDB-AL-42945-1")
             Visual(VisualKind.Animated, 0.4, 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-28841"
             title = "Wake Up, Girls! Seishun no Kage" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 10068 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -102,9 +102,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-30419"
             title = "Wake Up, Girls! Beyond the Bottom" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 10845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -116,9 +116,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.4, 0.6)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-34522"
             title = "Wake Up, Girls! Shin Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34522 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -131,10 +131,10 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             Visual(VisualKind.Animated, 0.3, 0.6)
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-68276"
         title = "One In A Billion / Wake Up, May'n! [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -148,5 +148,5 @@
             OsuSong(personal = 0.5, community = 0.1)
             Music(0.6)
         </entry>
-    }
+    </entry>
 </document>

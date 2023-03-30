@@ -5,11 +5,11 @@
     <!-- everything was in order -->
     <!-- no chaos, no unexpected meta, no neo-romance, -->
     <!-- no himeno sena, no culture-loving culture -->
-    Entry {
+    <entry>
         id = "F-VGMDB-2924"
         title = "Hanayamata"
 
-        Entry {
+        <entry>
             id = "A-MAL-21681"
             title = "Hanayamata" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21681 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -25,9 +25,9 @@
             <!-- first ep aei -->
             AEI(0.2, Emotion.MP to 0.3, Emotion.CP to 0.7)
             FeatureMusic("M-VGMDB-AL-46235-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-46235"
             title = "Hana ha odore ya irohani ho / Team \"Hanayamata\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -38,6 +38,6 @@
                 title = "Hana wa Odore ya Irohaniho" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

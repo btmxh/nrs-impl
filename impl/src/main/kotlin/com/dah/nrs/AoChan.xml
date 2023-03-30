@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-7175"
         title = "Midara na Ao-chan wa Benkyou ga Dekinai"
 
-        Entry {
+        <entry>
             id = "A-MAL-38778"
             title = "Midara na Ao-chan wa Benkyou ga Dekinai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38778 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -17,7 +17,7 @@
             Dropped()
             Visual(VisualKind.AnimatedShort, 0.6, 0.4)
             FeatureMusic("M-VGMDB-AL-85759-1")
-        }
+        </entry>
 
         Entry{
             id = "M-VGMDB-AL-85759"
@@ -32,6 +32,6 @@
                 OsuSong(personal = 0.4, community = 0.2)
             </entry>
         }
-    }
+    </entry>
 
 </document>

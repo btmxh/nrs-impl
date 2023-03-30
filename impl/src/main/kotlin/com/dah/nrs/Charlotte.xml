@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-3554"
         title = "Charlotte"
 
-        Entry {
+        <entry>
             id = "A-MAL-28999"
             title = "Charlotte" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 28999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -19,6 +19,6 @@
             <!-- max AEI debatable -->
             MaxAEIPADS(3, Emotion.CU)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-        }
-    }
+        </entry>
+    </entry>
 </document>

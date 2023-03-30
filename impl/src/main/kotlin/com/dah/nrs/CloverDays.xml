@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-20221122T195753"
         title = "Clover Day's"
 
-        Entry {
+        <entry>
             id = "V-VNDB-13325"
             title = "Clover Day's"
             bestGirl = "Rindou Tsubame"
@@ -20,9 +20,9 @@
             NEI(0.25, Emotion.AP)
             FeatureMusic("M-VGMDB-AL-45544-40")
             KilledBy("F-20221128T123502", potential = 0.5, effect = 1.0)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-45544"
             title = "Clover Day's ORIGINAL SOUNDTRACKS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -34,6 +34,6 @@
                 Music(0.5)
                 OsuSong(personal = 0.8, community = 0.2)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

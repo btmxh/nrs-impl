@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-2662"
         title = "Nagi no Asu kara"
 
@@ -11,7 +11,7 @@
         Contains("M-VGMDB-AL-42900-3")
         Contains("M-VGMDB-AL-43164-1")
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-45187"
             title = "Nagi no Asukara Character Song CD3" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -21,9 +21,9 @@
                 title = "ripple ~my first love~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-16067"
             title = "Nagi no Asu kara" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 16067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -53,6 +53,6 @@
             FeatureMusic("M-VGMDB-AL-42900-3")
             FeatureMusic("M-VGMDB-AL-43164-1")
             FeatureMusic("M-VGMDB-AL-45187")
-        }
-    }
+        </entry>
+    </entry>
 </document>

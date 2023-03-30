@@ -71,7 +71,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
     <!-- No one expected it to be able to soar through the clouds like a bird. -->
 
     <!-- Bunnies can fly, and so can cats. -->
-    Entry {
+    <entry>
         id = "F-VGMDB-4499"
         title = "Show By Rock!!"
 
@@ -133,7 +133,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             contributors["G-VGMDB-8429"] = 0.2
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-27441"
             title = "Show By Rock!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 27441 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -149,9 +149,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-32038"
             title = "Show By Rock!! #" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 32038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -175,9 +175,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-40763"
             title = "Show By Rock!! Mashumairesh!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40763 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -205,9 +205,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             Visual(VisualKind.Animated, 0.65, 0.4)
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-41520"
             title = "Show by Rock!! Stars!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41520 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -247,13 +247,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.65, 0.4)
-        }
+        </entry>
 
         <!-- fes a live has fhana songs lmao -->
         FeatureMusic("M-VGMDB-AL-62516-1")
         FeatureMusic("M-VGMDB-AL-110219-1")
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-100087"
             title = "How To Fly / Cyan & Howan" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -267,9 +267,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 10.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-94913"
             title = "My pace!! / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -284,9 +284,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 5.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-51276"
             title = "Seishun wa Non-Stop! / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -311,9 +311,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
                 Remix("M-VGMDB-AL-61981-3")
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-51278"
             title = "Tabimichi Yoiyoi Yume Hanabi / Tsurezurenaru Ayatsuri Mugenan" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -324,9 +324,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 MusicConsumedProgress("4:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.3)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-51706"
             title = "Meikyuu DESTINY/Ryuusei Dreamline / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -346,9 +346,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 15.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-61217"
             title = "Heart wo Rock!! / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -362,9 +362,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 2.5
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-61940"
             title = "Schlehit Melodie/Danzai no Solitude / BUD VIRGIN LOGIC" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -375,9 +375,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 MusicConsumedProgress("3:46") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.4)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-61981"
             title = "My Resolution ~Mirai e no Kizuna~ / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -396,9 +396,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
                 NEI(0.25, Emotion.MP)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-59914"
             title = "Do Re Mi Fa PARTY / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -413,7 +413,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 }
                 Meme(0.1, 2)
             </entry>
-        }
+        </entry>
 
         <!-- "visual"s of hiromemes and mashiro start line are good -->
         NEI(0.5, Emotion.MP) {
@@ -426,7 +426,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             contributors["M-VGMDB-AL-93440-3"] = 0.25
         }
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-93440"
             title = "Hiromenes/Kimi no Rhapsody / Mashumairesh!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -455,9 +455,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 title = "Masshiro Start Line" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220702T030659"
             title = "Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
             <!-- aka hoantinh theme song -->
@@ -468,9 +468,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 arc3 = 10.0
             }
             MusicConsumedProgress("1:34") <!-- impl_overridden -->
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-93441"
             title = "Yell and Response / Mashumairesh!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -481,9 +481,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 title = "エールアンドレスポンス" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.2)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-112509"
             title = "SHOW BY ROCK!! Trigger Rock / Mashumairesh!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -499,9 +499,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     nee = 2.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104341"
             title = "Do Re Mi Fa STARS!!/Hoshizora Light Story" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -522,9 +522,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 MusicConsumedProgress("4:05") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.35)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104266"
             title = "TV Anime \"SHOW BY ROCK!! STARS!!\" Sounyuuka Mini Album Vol.1" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -551,9 +551,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     akm1 = 10.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104267"
             title = "TV Anime \"SHOW BY ROCK!! STARS!!\" Sounyuuka Mini Album Vol.2" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -599,9 +599,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- the one who shines like the sun -->
                 <!-- forever shining is the method -->
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-61982"
             title = "Hanate! Dododon! / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -614,9 +614,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     akm1 = 10.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-76149"
             title = "Saishuu Ressha/Hatsukoi no Oto / Uwasanopetals" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -636,9 +636,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- himeno sena 2023 fascism neo-autism nozsism autism -->
                 FesALiveMusic(0.5)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-118562"
             title = "Taikakusen wo Tsunaideyo / Uwasanopetals" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -649,9 +649,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 MusicConsumedProgress("3:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.65)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104418"
             title = "Good Day by Day / Cyan (cv. Eri Inagawa), A (cv. Saori Hayami), Ailane (cv. Ruriko Noguchi), Shibarin (cv. Marika Kohno)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -671,9 +671,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             <!-- if u understand, u understand -->
             <!-- RemixOf("M-VGMDB-AL-97688-16") -->
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-100082"
             title = "Mirai Wanted / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -684,9 +684,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 MusicConsumedProgress("4:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-116297"
             title = "Bokura no Neiro / Plasmagica" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -698,9 +698,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.6)
                 FesALiveMusic(0.35)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-105612"
             title = "Mot Mot Mot / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -713,9 +713,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     akm1 = 10.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-86315"
             title = "P SHOW BY ROCK!! CD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.5)
@@ -731,9 +731,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- NOZSP is truly the party of all time -->
                 <!-- chair gaming -->
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-76155"
             title = "Loop Shiteru/Asuiro Koi Moyou / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -792,11 +792,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 AKMEraPart2(1.0)
                 AKMEraPart3(0.6)
             </entry>
-        }
+        </entry>
 
         <!-- adding these songs to increase Murakawa Rie and Hidaka Rina's score lol -->
         <!-- (i can't accept ayumu va to be higher than rina hidaka lol) -->
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-95313"
             title = "How Are You? / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
@@ -809,9 +809,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     akm1 = 5.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-95314"
             title = "Happy Happy Jump / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
@@ -824,9 +824,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     akm1 = 5.0
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-124217"
             title = "Hoshitachi no Orchestra Parade / Mashumairesh!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -843,9 +843,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- AEI(0.3, Emotion.MP) -->
                 KoikakeAEI(0.3, 0.7, Emotion.MP)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-124215"
             title = "Koishichatta! / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -857,9 +857,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     from(SB69MusicContext.CultureEra.NEE)
                 }
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220125T063355-2"
             title = "Plasmagica"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -877,9 +877,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 Contains("M-VGMDB-AL-100082")
                 Contains("M-VGMDB-AL-116297")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220125T063355-3"
             title = "Tsurezurenaru Ayatsuri Mugenan"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -887,9 +887,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-51278")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220125T063355-4"
             title = "Mashumairesh!!"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -902,9 +902,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 Contains("M-VGMDB-AL-104267-8", 1.0)
                 Contains("M-20220702T030659", 0.5)
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220125T063355-5"
             title = "BUD VIRGIN LOGIC"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -913,9 +913,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 Contains("M-VGMDB-AL-61940")
                 Contains("M-VGMDB-AL-104267-5")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220125T063355-7"
             title = "Criticrista"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -928,19 +928,19 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- when you realized that something is missing -->
                 Contains("M-VGMDB-AL-76155")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "G-VGMDB-8429"
             title = "SHOW BY ROCK!! Fes A Live"
 
             AllSB69Tracks.keys.forEach { FeatureMusic(it) }
             Visual(VisualKind.GachaCardArt, 0.4, 0.3)
-        }
-    }
+        </entry>
+    </entry>
 
     <!-- the famous speed-finger control map -->
-    Entry {
+    <entry>
         id = "M-20220125T063355-6"
         title = "Seishun wa Non-Stop! (Asterisk DnB Remix)"
 
@@ -948,7 +948,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         Music(0.6)
         MusicConsumedProgress("5:02") <!-- impl_overridden -->
         OsuSong(personal = 0.75)
-    }
+    </entry>
 
     RSTSB69DuopolyEra(0.8) {
         contributors["A-MAL-27441"] = 0.2
@@ -986,14 +986,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM3)
     }
 
-    Entry {
+    <entry>
         id = "M-20221127T140645"
         title = "Bibibeach Bibibibeach! (411 Socacore Remix)"
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.7)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092567 -->
         MusicConsumedProgress("4:32")
-    }
+    </entry>
 </document>
 
 fun AcceptImpact.AKMEraPart1(strength: Double, block: DSLImpact.() -> Unit = {}) {

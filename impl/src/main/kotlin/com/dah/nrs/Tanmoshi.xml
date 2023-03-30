@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-9850"
         title = "Tantei wa Mou, Shindeiru."
 
-        Entry {
+        <entry>
             id = "A-MAL-46471"
             title = "Tantei wa Mou, Shindeiru." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 46471 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -21,10 +21,10 @@
             FeatureMusic("M-VGMDB-AL-113531")
             FeatureMusic("M-VGMDB-AL-113660")
             KilledBy("A-MAL-41530", 0.2, 0.5)
-        }
+        </entry>
 
         <!-- Kano's friend's album lol -->
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-113531"
             title = "Kodou / Nanakagura" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -34,9 +34,9 @@
                 title = "Kodou" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-113660"
             title = "Koko de Ikiteru / mary & jon-YAKITORY" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -46,6 +46,6 @@
                 title = "Koko de Ikiteru" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

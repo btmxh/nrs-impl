@@ -2,7 +2,7 @@
 
 <document>
     <!-- 2023 is the year of isekai -->
-    Entry {
+    <entry>
         id = "F-VGMDB-9991"
         title = "Kage no Jitsuryokusha ni Naritakute!"
 
@@ -11,7 +11,7 @@
 
         <!-- ("... except for the fact that he is actually powerful, not like me xdddd") -->
 
-        Entry {
+        <entry>
             id = "A-MAL-48316"
             title = "Kage no Jitsuryokusha ni Naritakute!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -56,9 +56,9 @@
 
             <!-- binged ez clap -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 20)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-122851"
             title = "Darling in the Night / Shichikage" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- not anime girls :anger:, this needs correction -->
@@ -79,7 +79,7 @@
 
                 Music(0.5)
             </entry>
-        }
+        </entry>
 
-    }
+    </entry>
 </document>

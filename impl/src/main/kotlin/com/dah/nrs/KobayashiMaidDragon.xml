@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-8954"
         title = "Kobayashi-san Chi no Maid Dragon"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-62516"
             title = "Aozora no Rhapsody / fhána [Anime Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -17,9 +17,9 @@
                 MusicConsumedProgress("4:38") <!-- impl_overridden -->
                 Music(0.3)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-110219"
             title = "Ai no Supreme! / fhána [Anime Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -32,9 +32,9 @@
                 <!-- "why is the dude singing???" - some pp mapper -->
                 Meme(0.05, 6)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-33206"
             title = "Kobayashi-san Chi no Maid Dragon" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 33206 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -50,6 +50,6 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             FeatureMusic("M-VGMDB-AL-62516-1")
-        }
-    }
+        </entry>
+    </entry>
 </document>

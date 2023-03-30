@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-7865"
         title = "Koisuru Asteroid"
 
-        Entry {
+        <entry>
             id = "A-MAL-39388"
             title = "Koisuru Asteroid" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39388 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -18,13 +18,13 @@
             Visual(VisualKind.Animated, 0.8, 0.3)
             FeatureMusic("M-VGMDB-AL-93329-1")
             FeatureMusic("M-VGMDB-AL-93338-1")
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-93329-1")
         Contains("M-VGMDB-AL-93338-1")
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-93338"
         title = "Yozora / Minori Suzuki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -43,5 +43,5 @@
             Music(0.5)
             OsuSong(personal = 0.4)
         </entry>
-    }
+    </entry>
 </document>

@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-2633"
         title = "Sword Art Online"
 
-        Entry {
+        <entry>
             id = "A-MAL-11757"
             title = "Sword Art Online" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 11757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -17,9 +17,9 @@
             FeatureMusic("M-VGMDB-AL-33537-1")
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.4, 0.25)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-21881"
             title = "Sword Art Online II" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21881 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -30,9 +30,9 @@
             bestGirl = "Asuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
             Visual(VisualKind.Animated, 0.4, 0.25)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-31765"
             title = "Sword Art Online Movie: Ordinal Scale" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 31765 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -43,8 +43,8 @@
             bestGirl = "Asuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 59.minutes)
             Visual(VisualKind.Animated, 0.6, 0.25)
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-33537-1")
-    }
+    </entry>
 </document>

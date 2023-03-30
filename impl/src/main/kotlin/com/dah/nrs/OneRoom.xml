@@ -8,11 +8,11 @@
     <!--      \      |      / -->
     <!--      (2)   (2)   (2) -->
 
-    Entry {
+    <entry>
         id = "F-VGMDB-6434"
         title = "OneRoom"
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-63666"
             title = "harumachi clover / Yui Hanasaka (CV: M·A·O)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -32,9 +32,9 @@
                 OsuSong(personal = 0.6, community = 0.8)
                 Remix("M-20220130T185336-2")
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-34392"
             title = "One Room" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34392 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -48,10 +48,10 @@
             Dropped()
             Visual(VisualKind.Animated, 0.5, 0.25)
             FeatureMusic("M-VGMDB-AL-63666-1")
-        }
-    }
+        </entry>
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-20220130T185336-2"
         title = "Harumachi Clover (Swing Arrangement) [Dictate Edit]"
 
@@ -59,5 +59,5 @@
         Music(0.3)
         MusicConsumedProgress("0:36") <!-- impl_overridden -->
         OsuSong(personal = 0.6, community = 0.8)
-    }
+    </entry>
 </document>

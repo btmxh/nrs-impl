@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-11581"
         title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
 
@@ -15,7 +15,7 @@
             contributors["A-MAL-51096"] = 0.5
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-35507"
             title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35507 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -30,9 +30,9 @@
             Visual(VisualKind.Animated, 0.75, 0.2)
             <!-- plot pretty good -->
             AEI(0.5, Emotion.AP)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-51096"
             title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 51096 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -57,6 +57,6 @@
             AEI(0.1, Emotion.AP)
             KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
             KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
-        }
-    }
+        </entry>
+    </entry>
 </document>

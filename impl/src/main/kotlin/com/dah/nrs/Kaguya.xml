@@ -3,12 +3,12 @@
 <!-- 'That summer I first learned why “Love is War”' -->
 <document>
     <!-- i thought this was blacklisted, but it seems that was not the case -->
-    Entry {
+    <entry>
         id = "F-VGMDB-7021"
         title = "Kaguya-sama wa Kokurasetai ~Tensaitachi no Ren'ai Zunousen~"
         <!-- kaguyashit my behated -->
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-83397"
             title = "Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
@@ -19,9 +19,9 @@
                 Music(0.25)
                 OsuSong(personal = 0.5, community = 0.4)
             </entry>
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-116977"
             title = "KAGUYA ♡ ULTRA BEST" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -33,7 +33,7 @@
                 <!-- the grass-touching experience -->
                 Music(0.35)
             </entry>
-        }
+        </entry>
 
         <!-- but I got tired of the constant spamming of redditors -->
         <!-- (more like jealous with its popularity, so it got hated) -->
@@ -46,7 +46,7 @@
             contributors["A-MAL-43608"] = 0.25
         }
 
-        Entry {
+        <entry>
             id = "A-MAL-37999"
             title = "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -62,11 +62,11 @@
             FeatureMusic("M-VGMDB-AL-83397-1")
             <!-- domestic kanojo war arc -->
             Meme(0.25, 90)
-        }
+        </entry>
 
         <!-- these are ranked just to help to carry the AEI for s1 -->
         <!-- also the funny rina hidaka girl too lmfao -->
-        Entry {
+        <entry>
             id = "A-MAL-40591"
             title = "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40591 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -80,9 +80,9 @@
             Visual(VisualKind.Animated, 0.5, 0.4)
             AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
             ValidatorSuppress("dah-entry-no-consumed")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "A-MAL-43608"
             title = "Kaguya-sama wa Kokurasetai: Ultra Romantic" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 43608 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -100,6 +100,6 @@
             Visual(VisualKind.Animated, 0.5, 0.4)
             AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
             ValidatorSuppress("dah-entry-no-consumed")
-        }
-    }
+        </entry>
+    </entry>
 </document>

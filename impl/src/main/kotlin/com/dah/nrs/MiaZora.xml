@@ -1,7 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-5607"
         title = "Miagete Goran, Yozora no Hoshi wo"
 
@@ -9,7 +9,7 @@
         <!-- average "Rafis | Ceui - Finest Sky [Albireo Princess] (Shizuku-) -->
         <!-- +HD,DT (98.84) FC #1 | 987pp 67.99 cv. UR (His new top play)"" enjoyer -->
 
-        Entry {
+        <entry>
             id = "V-VNDB-16560"
             title = "Miagete Goran, Yozora no Hoshi o"
 
@@ -27,9 +27,9 @@
             ConsumedProgress(EntryStatus.Dropped, 0.8, 15.hours)
             <!-- obligatory eroge romcom humor -->
             NEI(0.8, Emotion.AP)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-57788"
             title = "Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD \"and Little Planets\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -44,6 +44,6 @@
                 <!-- haha -->
                 OsuSong(personal = 0.5, community = 0.1)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-2090"
         title = "Sakurasou no Pet na Kanojo"
 
-        Entry {
+        <entry>
             id = "A-MAL-13759"
             title = "Sakura-sou no Pet na Kanojo" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 13759 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -31,9 +31,9 @@
             Visual(VisualKind.Animated, 0.5, 0.4)
 
             FeatureMusic("M-VGMDB-AL-35015-1")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-35015"
             title = "Kimi ga Yume wo Tsuretekita / Pet na Kanojotachi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -43,6 +43,6 @@
                 title = "Kimi ga Yume wo Tsuretekita" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.225)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

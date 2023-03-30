@@ -1,11 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-6626"
         title = "Iroduku Sekai no Ashita kara"
 
-        Entry {
+        <entry>
             id = "A-MAL-37497"
             title = "Irozuku Sekai no Ashita kara" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37497 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -20,12 +20,12 @@
 
             Visual(VisualKind.Animated, 0.6, 0.5)
             FeatureMusic("M-VGMDB-AL-80341-1")
-        }
+        </entry>
 
         Contains("M-VGMDB-AL-80341-1")
-    }
+    </entry>
 
-    Entry {
+    <entry>
         id = "M-VGMDB-AL-80341"
         title = "17-sai / Haruka to Miyuki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -36,5 +36,5 @@
             title = "17-sai" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
         </entry>
-    }
+    </entry>
 </document>

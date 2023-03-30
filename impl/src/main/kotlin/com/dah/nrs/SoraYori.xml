@@ -4,11 +4,11 @@
     <!-- the first CP farmer in NRS -->
     <!-- but they got dropped sadge -->
 
-    Entry {
+    <entry>
         id = "F-VGMDB-7040"
         title = "Sora yori mo Tooi Basho"
 
-        Entry {
+        <entry>
             id = "A-MAL-35839"
             title = "Sora yori mo Tooi Basho" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35839 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -34,9 +34,9 @@
 
             FeatureMusic("M-VGMDB-AL-73544-1")
             FeatureMusic("M-VGMDB-AL-73544-2")
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-73544"
             title = "Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -56,6 +56,6 @@
                 Music(0.3)
                 OsuSong(personal = 0.4, community = 0.0)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>

@@ -3,14 +3,14 @@
 <!-- this got paired with rst a lot on /a/ -->
 <!-- which means that maybe my taste isn't that bad after all -->
 <document>
-    Entry {
+    <entry>
         id = "F-VGMDB-7970"
         title = "Lapis Re:LiGHTs"
 
         <!-- the first idol anime of history -->
         <!-- also first music cgdct except k-on -->
         <!-- (k-on sucks so it doesn't count keep coping keionfags) -->
-        Entry {
+        <entry>
             id = "A-MAL-37587"
             title = "Lapis Re:LiGHTs" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -24,9 +24,9 @@
             Visual(VisualKind.Animated, 0.4, 0.2)
             FeatureMusic("M-VGMDB-AL-104957")
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-20220324T055811"
             title = "LiGHTs"
             ValidatorSuppress("dah-entry-no-consumed")
@@ -34,9 +34,9 @@
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-104957")
             }
-        }
+        </entry>
 
-        Entry {
+        <entry>
             id = "M-VGMDB-AL-104957"
             title = "700,000,000,000,000,000,000,000 no Sora de / LiGHTs" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -47,6 +47,6 @@
                 title = "700,000,000,000,000,000,000,000 no Sora de" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
-        }
-    }
+        </entry>
+    </entry>
 </document>
