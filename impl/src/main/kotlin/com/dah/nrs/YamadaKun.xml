@@ -8,7 +8,7 @@
             idKitsu = 10042 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20966 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 28677 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Urara Shiraishi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Urara Shiraishi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             FeatureMusic("M-VGMDB-AL-51918-1")
             FeatureMusic("M-VGMDB-AL-52045-1")

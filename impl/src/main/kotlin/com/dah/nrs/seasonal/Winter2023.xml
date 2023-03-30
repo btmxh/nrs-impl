@@ -14,10 +14,10 @@
         idMAL = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
         <!-- pogpega it's le cat !!1!1!! -->
-        bestGirl = "Lainie Cyan"
+        <bestGirl name="Lainie Cyan" />
         <!-- imagine still talking about le cat like it was in arc 2 -->
         <!-- like bruh himeno sena exists now you fucking dumbass -->
-        bestGirl = "Anisphia Wynn Palletia"
+        <bestGirl name="Anisphia Wynn Palletia" />
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 3)
         Visual(VisualKind.Animated, 0.5, 0.3)
@@ -44,7 +44,7 @@
         idMAL = 49980 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
         <!-- lmfao "escha 2023" -->
-        bestGirl = "Ann Halford"
+        <bestGirl name="Ann Halford" />
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
         Visual(VisualKind.Animated, 0.4, 0.6)
@@ -58,7 +58,7 @@
 
         <!-- lmfao "wilbell 2023" -->
         <!-- jk lol -->
-        bestGirl = "Tiana"
+        <bestGirl name="Tiana" />
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
         Visual(VisualKind.Animated, 0.3, 0.6)

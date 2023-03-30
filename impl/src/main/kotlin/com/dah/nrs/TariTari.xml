@@ -9,7 +9,7 @@
             idAniList = 13333 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 13333 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Konatsu Miyamoto" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Konatsu Miyamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- pa works is the best atmospheric farmer -->
             Cry(Emotion.CU)

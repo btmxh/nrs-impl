@@ -16,7 +16,7 @@
             idMAL = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             title = "Kage no Jitsuryokusha ni Naritakute!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Sherry Barnett"
+            <bestGirl name="Sherry Barnett" />
             <!-- aka himeno sena 2023 -->
             <!-- worse life than sena FeelsStrongMan -->
             <!-- best girl discussion: https://github.com/ngoduyanh/nrs-impl-kt/discussions/380 -->

@@ -9,7 +9,7 @@
             idAniList = 104674 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38544 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Yuuki Soleil"
+            <bestGirl name="Yuuki Soleil" />
             <!-- no way it's the -->
             <!-- stfu it's nee we are supposed to cry about -->
             <!-- himeno sena, imagine still talking about the -->

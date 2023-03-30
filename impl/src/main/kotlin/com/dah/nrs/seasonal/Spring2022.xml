@@ -7,7 +7,7 @@
         idAniList = 130319 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 48363 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-        bestGirl = "Kotone Kazairo" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Kotone Kazairo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 5)
         <!-- weak character design, but the thing still looks cute -->
@@ -20,7 +20,7 @@
         idAniList = 130586 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 48415 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-        bestGirl = "Ireena Litz de Olhyde" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Ireena Litz de Olhyde" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
         Dropped()
@@ -63,7 +63,7 @@
         idKitsu = 45401 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 141014 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 50273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        bestGirl = "Maria Mizuse" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Maria Mizuse" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         <!-- unique art because manga, but chara design sucks (p2) -->

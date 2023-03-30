@@ -40,7 +40,7 @@
             <!-- the memes were funny -->
             NEI(0.8, Emotion.AP)
 
-            bestGirl = "Sakura Kawasaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Sakura Kawasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             Visual(VisualKind.Animated, 0.6, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>

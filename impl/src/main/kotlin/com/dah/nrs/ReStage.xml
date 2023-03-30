@@ -167,7 +167,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- https://srgym.official.ec/p/00001 -->
 
             <!-- for rst shills <3: https://www.google.com/search?q=grass&tbm=isch -->
-            bestGirl = "Mana Shikimiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mana Shikimiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- her seiyuu is the GINGACHAD seiyuu amane makino btw -->
             <!-- play this: https://www.youtube.com/watch?v=QJJYpsA5tv8 -->
             <!-- follow her pls: https://twitter.com/makinoamane -->
@@ -1047,9 +1047,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         idAniList = 104391 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 37890 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         <!-- aka "If RST can overtake Love Live in the Oricon ranking, I can die happy" -->
-        bestGirl = "Shikimiya Maina"
+        <bestGirl name="Shikimiya Maina" />
         <!-- oops -->
-        bestGirl = "Maina Ichii" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Maina Ichii" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         Visual(VisualKind.Animated, 0.2, 0.5)
 

@@ -9,7 +9,7 @@
             idAniList = 107871 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 39292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Karyl"
+            <bestGirl name="Karyl" />
             Visual(VisualKind.Animated, 0.55, 0.25)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             NEI(0.9, Emotion.AP) <!-- funny ig -->
@@ -21,7 +21,7 @@
             idAniList = 122808 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 42670 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Karyl"
+            <bestGirl name="Karyl" />
             Visual(VisualKind.Animated, 0.55, 0.25)
             AnimeConsumedProgress(EntryStatus.Completed, 0.5, 5)
             NEI(0.5, Emotion.CP) <!-- idk lol -->

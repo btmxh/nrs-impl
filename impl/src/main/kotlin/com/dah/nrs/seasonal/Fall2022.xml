@@ -13,7 +13,7 @@
 
         <!-- haha obligatory atelier reference -->
         <!-- i hate mc btw -->
-        bestGirl = "Reisalin Stout" <!-- impl_overridden -->
+        <bestGirl name="Reisalin Stout" /> <!-- impl_overridden -->
         <!-- mi ưhen lô ve li ve vi ây -->
 
         <!-- NOZSP (Number One Zettai Saikyou Party) the anime -->
@@ -38,7 +38,7 @@
 
         <!-- le cat is back noway!!1!1! -->
         <!-- average NAP/NOZSP member -->
-        bestGirl = "Hitori Gotou"
+        <bestGirl name="Hitori Gotou" />
         <!-- mi ưhen cloverworks -->
 
         <!-- pls die shit anime not even close to the glorious koikake -->

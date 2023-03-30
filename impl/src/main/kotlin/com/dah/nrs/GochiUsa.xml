@@ -54,7 +54,7 @@
             idKitsu = 8095 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20517 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 21273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Chino Kafuu" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Chino Kafuu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- humor not that good tho -->
             NEI(0.3, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)

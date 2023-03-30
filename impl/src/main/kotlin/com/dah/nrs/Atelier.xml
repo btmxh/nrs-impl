@@ -89,7 +89,7 @@
             <!-- anyways, it seems that "the father analogy" might have a sequel, -->
             <!-- which is "the wife analogy" -->
             <!-- fuck miharuists, they're taking over modern culture -->
-            bestGirl = "Escha Malier" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Escha Malier" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- https://www.facebook.com/photo?fbid=5382806931808771&set=a.109501952472655 -->
             <!-- me watching NAP fucking up literally everything they did -->
@@ -150,7 +150,7 @@
             <!-- Romaji name is canon -->
 <!--            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~" -->
 
-            bestGirl = "Wise Spirit" <!-- impl_overridden -->
+            <bestGirl name="Wise Spirit" /> <!-- impl_overridden -->
             <!-- "sach cho" my beloved -->
             <!-- also i forgor rosia-chan :skull: -->
 
@@ -163,8 +163,8 @@
         <entry id="G-VGMDB-1090" title="Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi">
             <!-- "not even at the start line" -->
 
-<!--            bestGirl = "Harry Maguire" -->
-<!--            bestGirl = "Fred dai de" -->
+<!--            <bestGirl name="Harry Maguire" /> -->
+<!--            <bestGirl name="Fred dai de" /> -->
             <!-- atelier games visual comes in two part -->
             Visual(VisualKind.RPG3DGame, 0.6, 0.4)
             Visual(VisualKind.VisualNovel, 0.5, 0.3)
@@ -179,7 +179,7 @@
         <entry id="G-VGMDB-1880" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~">
             <!-- fucking finally -->
 
-            bestGirl = "Escha Malier" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Escha Malier" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- I heard somewhere that “Love strikes so suddenly” -->
             <!-- I thought I was indifferent and I held back my feelings -->
 

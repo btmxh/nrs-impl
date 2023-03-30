@@ -8,7 +8,7 @@
             idKitsu = 42024 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 105989 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38778 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Ao Horie" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Ao Horie" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
             Dropped()
             Visual(VisualKind.AnimatedShort, 0.6, 0.4)

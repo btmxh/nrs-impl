@@ -13,7 +13,7 @@
             idAniList = 20575 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 21681 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Naru Sekiya"
+            <bestGirl name="Naru Sekiya" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.7)

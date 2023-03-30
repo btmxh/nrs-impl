@@ -7,7 +7,7 @@
             idKitsu = 41459 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103871 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 37976 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Sakura Minamoto" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- kinda funny -->
             AEI(0.5, Emotion.AP)
@@ -20,7 +20,7 @@
             idKitsu = 42467 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 110733 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 40174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Sakura Minamoto" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the zombieland saga incident -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 7)

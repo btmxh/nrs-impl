@@ -6,7 +6,7 @@
 
         <entry id="V-VNDB-27448" title="ATRI -My Dear Moments-">
 
-            bestGirl = "Atri" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Atri" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- wait wtf -->
             <!-- minamo's va is the same person as aone's va -->
             <!-- based rst reference -->

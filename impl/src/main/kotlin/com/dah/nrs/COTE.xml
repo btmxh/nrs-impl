@@ -19,7 +19,7 @@
             idAniList = 98659 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 35507 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Suzune Horikita" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Suzune Horikita" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- no fuckign way she is VA'd by the glorious akari kito -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
@@ -34,7 +34,7 @@
             idAniList = 145545 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 51096 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Arisu Sakayanagi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Arisu Sakayanagi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl -->
             <!-- nice b8 m8 -->
 

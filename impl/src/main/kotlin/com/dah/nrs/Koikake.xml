@@ -18,8 +18,8 @@
             <!-- "the cutest girl in all anime history" :clueless: -->
             <!-- like what the actual fuck you can't be this cute wtf :clueless: -->
             <!-- THISSHOULDNOTBEPOSSIBLE :clueless: -->
-            bestGirl = "Himekek Sena"
-            bestGirl = "Himeno Sena" <!-- oops :clueless: -->
+            <bestGirl name="Himekek Sena" />
+            <bestGirl name="Himeno Sena" /> <!-- oops :clueless: -->
             <!-- eroge waifu :clueless: -->
             <!-- dead? -->
             Waifu("Himeno Sena", "2022-11-25" to today())

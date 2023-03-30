@@ -8,7 +8,7 @@
             idKitsu = 44211 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 126790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 44275 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Uta Koizumi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Uta Koizumi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Cry(Emotion.CU)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)

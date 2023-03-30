@@ -9,7 +9,7 @@
 
         <entry id="V-VNDB-16560" title="Miagete Goran, Yozora no Hoshi o">
 
-            bestGirl = "Saotome Miharu"
+            <bestGirl name="Saotome Miharu" />
             <!-- legends said that ffp was born because of this woman -->
             <!-- if so she's worst girl /s -->
             Politics {}

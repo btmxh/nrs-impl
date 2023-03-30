@@ -102,7 +102,7 @@
             idMAL = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- Brain's Base drew Yukino better than Yui -->
-            bestGirl = "Yukino Yukinoshita" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yukino Yukinoshita" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.25, 0.4)
             NEI(0.75, Emotion.AP)
@@ -120,7 +120,7 @@
             idMAL = 23847 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- feel. drew Yui better -->
-            bestGirl = "Yui Yuigahama" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.25)
             NEI(0.25, Emotion.AP)
@@ -143,7 +143,7 @@
             idAniList = 108489 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 39547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Yui Yuigahama" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
             Visual(VisualKind.Animated, 0.4, 0.25)

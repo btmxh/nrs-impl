@@ -52,7 +52,7 @@
             idAniList = 20512 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 21189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 52.minutes)
             <!-- partially benefitted from rst -->
@@ -68,7 +68,7 @@
             idAniList = 19023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 19023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
@@ -81,7 +81,7 @@
             idAniList = 20989 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 28841 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
@@ -93,7 +93,7 @@
             idAniList = 21107 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 30419 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
@@ -106,7 +106,7 @@
             idAniList = 97933 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 34522 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)

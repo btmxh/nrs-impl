@@ -13,7 +13,7 @@
         idAniList = 143417 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 50760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-        bestGirl = "Yuzu Hosono" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Yuzu Hosono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         <!-- art has some flaws, but whatever -->
         Visual(VisualKind.Animated, 0.4, 0.4)
@@ -30,7 +30,7 @@
         idAniList = 117196 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 41589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-        bestGirl = "Ichigo Momomiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Ichigo Momomiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         <!-- obligatory rst-cue studio(s) anime -->
         <!-- art is "interesting" ngl -->
@@ -53,7 +53,7 @@
         <!-- yep, ep 1 was ruined because of that bullcrap -->
         <!-- yep, the whole anime was ruined because of that girl -->
 
-        bestGirl = "Otome Okumiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Otome Okumiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
         <!-- ichijou ruka my beloved (she can't save this anime sadge) -->
 
         <!-- the prima doll incident -->
@@ -88,7 +88,7 @@
         <!-- > Main                           Japanese -->
         <!-- oh i see -->
 
-        bestGirl = "Yume Irido" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Yume Irido" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
         <!-- self-explanatory -->
 
         <!-- good art (the rosia girl looks breedable af) -->
@@ -110,7 +110,7 @@
         idAniList = 145001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 50999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-        bestGirl = "Saki Kodaka" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Saki Kodaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
         <!-- saki is someone that we need but we don't deserve -->
 
         <!-- no fucking way ari ozawa and tomomi mineuchi in the same anime -->
@@ -143,7 +143,7 @@
         idAniList = 140753 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 50221 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-        bestGirl = "Rio Seibu" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Rio Seibu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
         <!-- lmfao himekek VA -->
         <!-- they even got her to sing a ballad omegalul -->
         <!-- (they know about her songs in sb69 these cheeky mfs) -->

@@ -136,7 +136,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             idKitsu = 9729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20843 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 27441 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Cyan Hijirikawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             FeatureMusic("M-VGMDB-AL-51276-1")
             FeatureMusic("M-VGMDB-AL-51278-1")
@@ -152,7 +152,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             idKitsu = 11494 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21476 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 32038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Cyan Hijirikawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the lesson thingy was pretty cool ig -->
             AEI(0.2, Emotion.MP)
@@ -176,7 +176,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             idKitsu = 42885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 40763 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Himeko Mashima" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Himeko Mashima" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- main girl is hoan tinh xdddddddddd -->
             <!-- chao em co gai howan tinh -->
             <!-- actually the cat appeared in last ep but idc -->
@@ -204,7 +204,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             idKitsu = 43590 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113476 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 41520 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Hijirikawa Cyan" <!-- aka the ayumu cat -->
+            <bestGirl name="Hijirikawa Cyan" /> <!-- aka the ayumu cat -->
             <!-- aka show by rock!! banded rocking records high school idol club -->
             <!-- the gen2 niji -->
 
@@ -215,7 +215,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- update: shit happened and no more seasonal -->
             seasonal = false
 
-            bestGirl = "Cyan Hijirikawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- bro the ayumu shit happened again xddddddddddd -->
             <!-- basically in ep 1&2, the cat has little screentime, -->

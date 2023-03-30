@@ -8,7 +8,7 @@
             idKitsu = 7023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 13759 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 13759 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Mashiro Shiina" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mashiro Shiina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- This is a very good compoly story, meaning -->
             <!-- there are a lot of truly sad moments in this -->

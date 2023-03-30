@@ -45,7 +45,7 @@
             idKitsu = 6111 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 10278 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 10278 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Iori Minase" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iori Minase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- ending pretty sadge -->
             NEI(0.6, Emotion.CU)
 
@@ -68,7 +68,7 @@
             idKitsu = 8777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20693 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 23587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Chieri Ogata" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Chieri Ogata" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
             Visual(VisualKind.Animated, 0.5, 0.2)
         </entry>
@@ -78,7 +78,7 @@
             idKitsu = 10760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21094 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 30344 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Chieri Ogata" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Chieri Ogata" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
         </entry>

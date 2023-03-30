@@ -12,7 +12,7 @@
 
             Visual(VisualKind.Animated, 0.5, 0.75)
 
-            bestGirl = "Miki Okudera" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Miki Okudera" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 46.minutes)
         </entry>
@@ -25,7 +25,7 @@
             idKitsu = 42028 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 106286 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38826 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Hina Amano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Hina Amano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.6, 0.75)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 52.minutes)

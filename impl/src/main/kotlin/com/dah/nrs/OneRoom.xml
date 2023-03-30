@@ -34,7 +34,7 @@
             idKitsu = 12758 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97857 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 34392 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Yui Hanasaka" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yui Hanasaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 4, 4.minutes)

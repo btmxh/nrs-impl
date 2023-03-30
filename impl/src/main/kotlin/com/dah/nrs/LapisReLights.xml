@@ -13,7 +13,7 @@
             idKitsu = 41115 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104937 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 37587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Tiara" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Tiara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- funny af, love live stands no chance -->
             EHI()

@@ -36,7 +36,7 @@
             idKitsu = 8406 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20657 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 23277 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Megumi Kato" <!-- impl_overridden -->
+            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
 
             FeatureMusic("M-VGMDB-AL-48199-1")
             FeatureMusic("M-VGMDB-AL-49446-1")
@@ -50,7 +50,7 @@
             idKitsu = 10909 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21180 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 30727 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Megumi Kato" <!-- impl_overridden -->
+            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             EHI()
             Visual(VisualKind.Animated, 0.5, 0.3)
@@ -61,7 +61,7 @@
             idKitsu = 14050 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100675 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 36885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Megumi Kato" <!-- impl_overridden -->
+            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             <!-- humor -->
             NEI(0.25, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 54.minutes)

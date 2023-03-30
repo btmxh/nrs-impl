@@ -86,7 +86,7 @@
             idAniList = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Madoka Kaname" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- 32k got killed over and over, and her lover has to -->
             <!-- time-travel everytime it happens -->
@@ -109,7 +109,7 @@
             idAniList = 11981 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 11981 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Madoka Kaname" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- I can't understand this movie lol -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.7, 1, 1.hours + 56.minutes)
@@ -143,7 +143,7 @@
 
         <entry id="G-VGMDB-5237" title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden">
 
-            bestGirl = "Iroha Tamaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Madokami's MGS -->
             <!-- It's revealed that in 99% other universes, -->
             <!-- Tamaki Ui and her friends are dead, leaving -->
@@ -170,7 +170,7 @@
             idAniList = 104051 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38256 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Iroha Tamaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
             <!-- MagiReco-era is one of the most important eras in autism history -->
             <!-- This is the anime that brought it to life -->
@@ -193,7 +193,7 @@
             idAniList = 117002 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 41530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Iroha Tamaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 8)
@@ -218,7 +218,7 @@
             idAniList = 136080 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 49291 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Iroha Tamaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 4)

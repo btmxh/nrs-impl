@@ -15,7 +15,7 @@
             idKitsu = 42241 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 108268 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 39468 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Myne" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 14)
             Visual(VisualKind.Animated, 0.4, 0.5)
@@ -26,7 +26,7 @@
             idKitsu = 42838 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113693 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 40815 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Myne" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
@@ -37,7 +37,7 @@
             idKitsu = 43607 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 121176 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 42429 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Myne" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 10)
             Visual(VisualKind.Animated, 0.4, 0.5)

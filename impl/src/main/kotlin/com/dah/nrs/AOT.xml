@@ -18,7 +18,7 @@
             idKitsu = 7442 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
@@ -28,7 +28,7 @@
             idKitsu = 8671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20958 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 25777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
@@ -38,7 +38,7 @@
             idKitsu = 13569 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99147 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 35760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
@@ -53,7 +53,7 @@
             idKitsu = 41982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104578 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Mikasa Ackerman" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.2, 0.6)

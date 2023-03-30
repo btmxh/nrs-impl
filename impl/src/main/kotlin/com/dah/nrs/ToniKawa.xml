@@ -9,7 +9,7 @@
             idKitsu = 43034 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 116267 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 41389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Tsukasa Yuzaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Tsukasa Yuzaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.6)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 1)

@@ -4,7 +4,7 @@
     <entry id="F-20221122T195753" title="Clover Day's">
 
         <entry id="V-VNDB-13325" title="Clover Day's">
-            bestGirl = "Rindou Tsubame"
+            <bestGirl name="Rindou Tsubame" />
             <!-- anri and [anzu] is cute too ig -->
             <!-- hekiru ngl is also good -->
             <!-- i think this is the best char design vn ever idk -->

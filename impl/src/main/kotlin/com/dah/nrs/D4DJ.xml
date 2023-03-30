@@ -9,7 +9,7 @@
             idAniList = 115069 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 39681 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Rinku Aimoto" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Rinku Aimoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.75)

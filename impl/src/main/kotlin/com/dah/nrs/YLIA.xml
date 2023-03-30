@@ -9,7 +9,7 @@
             idAniList = 20665 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 23273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Kaori Miyazono" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kaori Miyazono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- YLIA is watched during the SLN days (Second-Love-Ngoc era), -->
             <!-- this has lead to the connection between myself and the -->

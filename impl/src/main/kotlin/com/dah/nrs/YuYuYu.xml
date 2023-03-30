@@ -73,7 +73,7 @@
             idKitsu = 8638 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20800 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 25519 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Yuuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
             <!-- ye it's the shelter of yuri yuna now lmao -->
@@ -110,7 +110,7 @@
             <!-- well, at least chikage koori is still a meme -->
 
             <!-- based best girl -->
-            bestGirl = "Chikage Koori" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Chikage Koori" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 <!--            status = EntryStatus.Watching -->
 
             <!-- There are a lot of sad things in this LN -->
@@ -147,7 +147,7 @@
             <!-- this was not taken very seriously -->
 
             <!-- she looked like best girl ngl -->
-            bestGirl = "Mimori Tougou" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mimori Tougou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             FeatureMusic("M-VGMDB-AL-69821-1")
             <!-- gin's death (the consequences of the ortensia incident) -->
@@ -165,7 +165,7 @@
             idAniList = 97769 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 34445 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- "The Michi Random of Yuuki Yuuna" -->
-            bestGirl = "Yuuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- that conversation is peak drama -->
             <!-- it captures my heart and does make -->
@@ -189,7 +189,7 @@
             idMAL = 42587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             seasonal = true
-            bestGirl = "Yuuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- I expected this to make a new Ayumu-era (something like -->
             <!-- Yuuna-era or some dumb shit like that), but it doesn't -->

@@ -12,7 +12,7 @@
             idAniList = 107067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38992 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Kotonoha Kanade" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kotonoha Kanade" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 12)
             Visual(VisualKind.Animated, 0.25, 0.5)
@@ -27,7 +27,7 @@
             idAniList = 125124 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 43470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Kotonoha Kanade" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kotonoha Kanade" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
             Dropped()

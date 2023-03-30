@@ -10,7 +10,7 @@
             idMAL = 35790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- This became popular thanks to Reddit. -->
             <!-- And yes, it's watched in the Reddit-era -->
-            bestGirl = "Raphtalia" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Raphtalia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
 
@@ -25,7 +25,7 @@
             idKitsu = 42530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 111321 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 40356 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Raphtalia" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Raphtalia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
             Dropped()

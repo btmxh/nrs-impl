@@ -8,7 +8,7 @@
             idKitsu = 11207 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98596 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Miyako Shirakawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Miyako Shirakawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.2)

@@ -6,9 +6,9 @@
         idKitsu = 42030 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 106240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 38816 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        bestGirl = "Ichijou Ruka"
+        <bestGirl name="Ichijou Ruka" />
         <!-- oh fuck -->
-        bestGirl = "Ruri Ichigyou" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Ruri Ichigyou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 37.minutes)
         <!-- the cg kinda help with making the anime unique lol -->
@@ -20,7 +20,7 @@
         idKitsu = 42527 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 111733 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idMAL = 40295 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        bestGirl = "Ruri Ichigyou" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Ruri Ichigyou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 3)
         <!-- the cg kinda help with making the anime unique lol -->

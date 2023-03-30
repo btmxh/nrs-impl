@@ -4,7 +4,7 @@
     <!-- limit tanuki LMFAOOOOOOOO -->
     <entry id="O-20230203T141812" title="The Bird">
 
-        bestGirl = "Procellariiformes"
+        <bestGirl name="Procellariiformes" />
 
         RemodernizationEra(0.3)
     </entry>

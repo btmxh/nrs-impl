@@ -76,7 +76,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             idKitsu = 4240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Azusa Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
             `K-OnVisual`(VisualKind.Animated)
@@ -87,7 +87,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             idKitsu = 5124 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Azusa Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
             FeatureMusic("M-VGMDB-AL-21146-9")
@@ -100,7 +100,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             idKitsu = 5810 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Azusa Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
             FeatureMusic("M-VGMDB-AL-21146-9")

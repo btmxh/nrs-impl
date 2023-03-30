@@ -9,7 +9,7 @@
             idKitsu = 42080 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 105333 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38691 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Yuzuriha Ogawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
             Visual(VisualKind.Animated, 0.3, 0.75)
             <!-- "plot is good" -->
@@ -24,7 +24,7 @@
             idKitsu = 42867 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113936 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 40852 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Yuzuriha Ogawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             Visual(VisualKind.Animated, 0.3, 0.75)
             AEI(0.1, Emotion.AP)
@@ -35,7 +35,7 @@
             idKitsu = 45615 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 142876 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 50612 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Yuzuriha Ogawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 54.minutes)
             Visual(VisualKind.Animated, 0.3, 0.75)
             NEI(0.6, Emotion.AP)

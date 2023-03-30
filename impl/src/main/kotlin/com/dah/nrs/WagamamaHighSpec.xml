@@ -6,8 +6,8 @@
         <entry id="V-VNDB-17823" title="Wagamama High Spec">
 
             <!-- save this for OC -->
-            <!-- bestGirl = "Watanuki Karen" -->
-            bestGirl = "Rokuonji Kaoruko"
+            <!-- <bestGirl name="Watanuki Karen" /> -->
+            <bestGirl name="Rokuonji Kaoruko" />
 
             ConsumedProgress(EntryStatus.Watching, 0.9, 3.hours)
             Visual(VisualKind.VisualNovel, 0.7, 0.3)

@@ -38,7 +38,7 @@
             idAniList = 20754 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 24765 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Megumi Sakura" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Megumi Sakura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- rip Megu-nee -->
             Cry(Emotion.CU)
             Meme(0.2, 6)

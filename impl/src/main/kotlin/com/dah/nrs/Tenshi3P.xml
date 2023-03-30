@@ -8,7 +8,7 @@
             idKitsu = 12624 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97683 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 34177 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Sakura Toriumi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Sakura Toriumi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- OP is catJAM osugame -->
             <!-- the map was made by the gigachad mapper: https://www.youtube.com/watch?v=QJJYpsA5tv8 -->
             <!-- fuck the ED i hate that map -->

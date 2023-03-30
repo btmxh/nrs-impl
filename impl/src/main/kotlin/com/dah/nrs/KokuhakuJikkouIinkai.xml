@@ -187,7 +187,7 @@
             idAniList = 21296 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 31245 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Miou Aida"
+            <bestGirl name="Miou Aida" />
             Visual(VisualKind.Animated, 0.4, 0.7)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 3.minutes)
             NEI(0.5, Emotion.AP)
@@ -200,7 +200,7 @@
             idAniList = 21757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 33036 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Miou Aida"
+            <bestGirl name="Miou Aida" />
             Visual(VisualKind.Animated, 0.4, 0.7)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 3.minutes)
             NEI(0.2, Emotion.AP)
@@ -215,7 +215,7 @@
             idAniList = 98977 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 36220 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Miou Aida"
+            <bestGirl name="Miou Aida" />
             Visual(VisualKind.Animated, 0.4, 0.7)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
             NEI(0.2, Emotion.AP)
@@ -234,14 +234,14 @@
 
             <!-- is it the "no way himeno sena osu skin" girl? -->
             <!-- context: https://www.youtube.com/watch?v=BqHqZN9hoNo -->
-            bestGirl = "Setoguchi Hina"
+            <bestGirl name="Setoguchi Hina" />
 
             <!-- is it the "no way (not himeno) sena from koikakerushinaikanojo" girl? -->
-            bestGirl = "Narumi Sena"
+            <bestGirl name="Narumi Sena" />
 
             <!-- jk main girl it is then -->
             <!-- (she run and what a coincidence the nozsp is supposed to run too!) -->
-            bestGirl = "Hiyori Suzumi"
+            <bestGirl name="Hiyori Suzumi" />
 
             <!-- speedrun this in one night lol -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)

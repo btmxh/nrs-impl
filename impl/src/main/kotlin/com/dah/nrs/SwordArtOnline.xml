@@ -9,7 +9,7 @@
             idAniList = 11757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 11757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Asuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             FeatureMusic("M-VGMDB-AL-33537-1")
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.4, 0.25)
@@ -21,7 +21,7 @@
             idAniList = 20594 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 21881 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Asuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
             Visual(VisualKind.Animated, 0.4, 0.25)
         </entry>
@@ -32,7 +32,7 @@
             idAniList = 21403 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 31765 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Asuna Yuuki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 59.minutes)
             Visual(VisualKind.Animated, 0.6, 0.25)
         </entry>

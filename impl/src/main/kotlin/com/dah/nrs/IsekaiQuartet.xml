@@ -14,7 +14,7 @@
             <!-- "darkness (ai kayano cricri girl va)" -->
             <!-- "chris + eris (suwa ayaka rst girl va)" -->
             <!-- "ram (fuck re:zero tho) (murakawa rie akm girl va) -->
-            bestGirl = "Ram" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Ram" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.3, 0.5)
             AnimeConsumedProgress(EntryStatus.Completed, 0.5, 12)
@@ -30,7 +30,7 @@
             <!-- then it must be 𝐓𝐇𝐄 𝐆𝐈𝐆𝐀𝐂𝐇𝐀𝐃 𝐒𝐄𝐈𝐘𝐔𝐔, -->
             <!-- or the other akm girl, i'll let rina hidaka have this just -->
             <!-- to make the thing balanced -->
-            bestGirl = "Filo" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Filo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.3, 0.5)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 12)

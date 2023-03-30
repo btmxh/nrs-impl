@@ -24,7 +24,7 @@
             idAniList = 16067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 16067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Miuna Shiodome" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Miuna Shiodome" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- poor best girl -->
             MaxAEIPADS(2, Emotion.CU)
 

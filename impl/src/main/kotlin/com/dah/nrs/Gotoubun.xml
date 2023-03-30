@@ -10,7 +10,7 @@
             idMAL = 38101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- i miss yuyuyu's idke memes -->
-            bestGirl = "Itsuki Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Itsuki Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             <!-- fuwa fuwa doki doki -->
@@ -26,7 +26,7 @@
             idMAL = 39783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- lmfao "muh yuyuyu idc" -->
-            bestGirl = "Itsuki Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Itsuki Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             <!-- at first I doubted that S2 will be as good as S1 -->

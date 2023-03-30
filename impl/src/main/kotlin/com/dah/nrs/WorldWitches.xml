@@ -9,7 +9,7 @@
             idAniList = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Eila Ilmatar Juutilainen" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Eila Ilmatar Juutilainen" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..." -->
             <!-- haha 15 funny amirite -->
 
@@ -28,9 +28,9 @@
             <!-- Hiromi "con người dao kiếm" Igarashi -->
 
             <!-- stfu -->
-            <!-- bestGirl = "Naoe Kanno" -->
-            <!-- bestGirl = "Edytha Rossmann" -->
-            bestGirl = "Georgette Lemare"
+            <!-- <bestGirl name="Naoe Kanno" /> -->
+            <!-- <bestGirl name="Edytha Rossmann" /> -->
+            <bestGirl name="Georgette Lemare" />
             <!-- MC and her sister somewhat ressembles Mana Shikimiya -->
             <!-- and Aone Shikimiya -->
             <!-- haha "tạ kami" -->
@@ -50,8 +50,8 @@
             <!-- mc is cute -->
             <!-- ngl this is a treat for our eyes -->
             Visual(VisualKind.Animated, 0.8, 0.05)
-<!--        bestGirl = "Robertson Virginia" -->
-            bestGirl = "Inori Shibuya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+<!--        <bestGirl name="Robertson Virginia" /> -->
+            <bestGirl name="Inori Shibuya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- inori is cuter fuck u -->
 
             <!-- the ultimate L moment -->

@@ -22,7 +22,7 @@ fun main() =
             idAniList = 20596 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 21995 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Futaba Yoshioka"
+            <bestGirl name="Futaba Yoshioka" />
             <!-- old af and nothing special iirc -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.3, 0.4)
@@ -33,7 +33,7 @@ fun main() =
             idAniList = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 6682 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 12175 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Chisato Sumiyoshi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Chisato Sumiyoshi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- iirc i liked this anime's plot -->
             AEI(0.3, Emotion.AP)
@@ -46,7 +46,7 @@ fun main() =
             idAniList = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 6686 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 12189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Eru Chitanda" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Eru Chitanda" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- ig it's kinda good -->
             NEI(0.3, Emotion.AP)
@@ -71,7 +71,7 @@ fun main() =
             idAniDB = 21845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- kaomeme -->
-            bestGirl = "Kaori Sasaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kaori Sasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Ending did hit me -->
             NEI(0.5, Emotion.CU)
             <!-- osuhow memes -->
@@ -98,7 +98,7 @@ fun main() =
             idKitsu = 10028 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 28851 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Shouko Nishimiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Shouko Nishimiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Koe no Katachi has solid drama -->
             <!-- But sadly, it's the first anime so there's no PADS -->
             <!-- or tears -->
@@ -120,7 +120,7 @@ fun main() =
             idMAL = 31952 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 31952 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Mizuki Usami" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mizuki Usami" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
         </entry>
@@ -133,7 +133,7 @@ fun main() =
             idKitsu = 11844 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 32729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Naho Takamiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Naho Takamiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- from nrs1 -->
             AEI(0.25, Emotion.CU)
@@ -151,7 +151,7 @@ fun main() =
             idKitsu = 12497 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 33731 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Satanichia Kurumizawa McDowell" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Satanichia Kurumizawa McDowell" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- iToddlers BTFO -->
             Meme(0.4, 25)
 
@@ -165,7 +165,7 @@ fun main() =
             idKitsu = 12668 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Rin" <!-- impl_overridden -->
+            <bestGirl name="Rin" /> <!-- impl_overridden -->
 
             <!-- catJAM -->
             Music(0.6)
@@ -188,7 +188,7 @@ fun main() =
 
             seasonal = true <!-- iirc -->
 
-            bestGirl = "Karen Tendou" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Karen Tendou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.3)
@@ -203,7 +203,7 @@ fun main() =
             idKitsu = 13234 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34822 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Akane Mizuno" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Akane Mizuno" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- ending sadge -->
             AEI(0.25, Emotion.CU)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
@@ -215,7 +215,7 @@ fun main() =
             idAniList = 98506 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13752 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35241 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Natsume" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Natsume" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- definitely not reminding me of mashu mashu from sb69 -->
 
@@ -236,7 +236,7 @@ fun main() =
             idAniList = 99131 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13722 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Kaoruko Moeta" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kaoruko Moeta" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             NEI(0.2, Emotion.AP)
@@ -252,7 +252,7 @@ fun main() =
             idKitsu = 13635 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35860 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Takagi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Takagi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- episodic ngl -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
@@ -267,7 +267,7 @@ fun main() =
             idAniDB = 36038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- lmfao -->
-            bestGirl = "Washing Machine" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Washing Machine" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             Visual(VisualKind.Animated, 0.3, 0.4)
@@ -280,7 +280,7 @@ fun main() =
             idAniDB = 36098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- facebook anime lmfao -->
-            bestGirl = "Sakura Yamauchi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Sakura Yamauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 48.minutes)
             AEI(0.1, Emotion.CU)
@@ -293,7 +293,7 @@ fun main() =
             idKitsu = 14137 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 36266 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Aya Asagiri" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Aya Asagiri" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- poor best girl -->
             AEI(0.2, Emotion.CU)
@@ -324,7 +324,7 @@ fun main() =
             idAniList = 101547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42319 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37744 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Azuma Rin" <!-- impl_overridden -->
+            <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 8)
             Dropped()
@@ -336,7 +336,7 @@ fun main() =
             idMAL = 37926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 102926 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Karin Sarayashiki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Karin Sarayashiki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- akari kito va lmfao -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
@@ -352,7 +352,7 @@ fun main() =
             idKitsu = 41479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103139 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 37982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Hina Tachibana" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Hina Tachibana" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)
@@ -371,7 +371,7 @@ fun main() =
             idKitsu = 42260 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 105190 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38656 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Shuka Karino" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Shuka Karino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             Visual(VisualKind.Animated, 0.3, 0.4)
             <!-- "plot is good" -->
@@ -386,7 +386,7 @@ fun main() =
             <!-- very funny lmao -->
             AEI(0.5, Emotion.AP)
             <!-- restep sequel leaked no way -->
-            bestGirl = "Ristarte" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Ristarte" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.4, 0.5)
         </entry>
@@ -398,7 +398,7 @@ fun main() =
             idAniList = 106479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 38790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42043 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Maple" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Maple" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             KilledBy("F-VGMDB-1945", 0.2, 0.5)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 2)
@@ -414,7 +414,7 @@ fun main() =
             idAniList = 107956 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Latina" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Latina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
             Dropped()
@@ -431,7 +431,7 @@ fun main() =
             idAniDB = 39523 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- rst girl vs akm girl lol -->
-            bestGirl = "Shinobu Sarutobi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Shinobu Sarutobi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- also akari kito ed wtf -->
             <!-- and the op is that osu song -->
@@ -449,7 +449,7 @@ fun main() =
             idAniList = 109287 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42342 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Hougetsu Shimamura" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Hougetsu Shimamura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 3)
             Dropped()
@@ -468,9 +468,9 @@ fun main() =
             idAniList = 112479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42625 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40550 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Shirai Yuyu" <!-- himekek my beloved -->
-            bestGirl = "Wang Yujia" <!-- noway it's the kimi no rhapsody girl -->
-            bestGirl = "Thi Mai Yoshimura" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Shirai Yuyu" /> <!-- himekek my beloved -->
+            <bestGirl name="Wang Yujia" /> <!-- noway it's the kimi no rhapsody girl -->
+            <bestGirl name="Thi Mai Yoshimura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- in all seriousness, this is quite good. -->
             <!-- the 2 main girls are pretty match -->
@@ -485,7 +485,7 @@ fun main() =
             idAniList = 112609 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42627 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40571 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Elaina" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Elaina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.3)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 6)
@@ -501,7 +501,7 @@ fun main() =
             idKitsu = 42850 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- insert hatsune miku joke here -->
-            bestGirl = "Akari" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Akari" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the hatsune miku method -->
             AEI(0.2, Emotion.AP)
@@ -517,7 +517,7 @@ fun main() =
             idAniList = 117343 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43534 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41619 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Nana Hiiragi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Nana Hiiragi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.5)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
@@ -531,7 +531,7 @@ fun main() =
             idAniList = 118419 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43204 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41930 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Kyouko Izanami" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kyouko Izanami" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.6, 0.4)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
@@ -552,7 +552,7 @@ fun main() =
             <!-- already impressive -->
             <!-- but that's not enough because MagiReco S2 -->
             <!-- is just too good -->
-            bestGirl = "Saki Saki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Saki Saki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             Visual(VisualKind.Animated, 0.4, 0.4)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
             Dropped()
@@ -564,7 +564,7 @@ fun main() =
             idAniList = 128545 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44116 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 46093 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Fuuka Miyazawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Fuuka Miyazawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- idk tf this anime is talking about lol -->
             Visual(VisualKind.Animated, 0.3, 0.7)
@@ -578,7 +578,7 @@ fun main() =
             idAniList = 114065 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42924 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40904 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Eiko Kawasegawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Eiko Kawasegawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- this was expected to be a good compoly -->
             <!-- anime, but it doesn't care about that -->
             <!-- and just march on with its plot -->
@@ -594,7 +594,7 @@ fun main() =
             idKitsu = 44174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 44203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- kimi no rhapsody girl -->
-            bestGirl = "Celia Claire" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Celia Claire" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the hoan tinh anime pt.1 -->
             <!-- from ep 5 to 10 there's no hoan tinh madge -->
@@ -616,7 +616,7 @@ fun main() =
             idAniList = 129898 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 47790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44393 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Dia" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Dia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- this initially was dropped, but rewatched in the remod era, hence the low boredom value -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.7, 12)
@@ -634,7 +634,7 @@ fun main() =
 
             <!-- "babe pls have sex with me im so horny" -->
             <!-- "haha the ortensia incident" -->
-            bestGirl = "Kyousuke Yotsuya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kyousuke Yotsuya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
             Dropped()
@@ -648,7 +648,7 @@ fun main() =
             idAniList = 131878 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44300 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 48644 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Akagi Rin" <!-- impl_overridden -->
+            <bestGirl name="Akagi Rin" /> <!-- impl_overridden -->
 
             <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
             AEI(0.5, Emotion.MP to 0.5, Emotion.AP to 0.5)
@@ -665,7 +665,7 @@ fun main() =
             idAniList = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7713 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 17919 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Subaru" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Subaru" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- didn't expect mc to fall in love tho -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
@@ -701,7 +701,7 @@ fun main() =
             idKitsu = 13710 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Tagitsuhime" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Tagitsuhime" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- i hate my life -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
@@ -718,7 +718,7 @@ fun main() =
             idMAL = 38091 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- haha chuchu analogy ahaha yes we are ahahdajd -->
-            bestGirl = "Akane Ukita"
+            <bestGirl name="Akane Ukita" />
 
             <!-- risuteji xi jin ping -->
             NEI(0.3, Emotion.CP)
@@ -733,7 +733,7 @@ fun main() =
             idMAL = 37481 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <!-- gyze it's the chuchu analogy girl amirite hahahaha -->
-            bestGirl = "Kiri Mukae"
+            <bestGirl name="Kiri Mukae" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)

@@ -11,7 +11,7 @@
             idMAL = 41168 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             title = "Nakitai Watashi wa Neko wo Kaburu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            bestGirl = "Miyo Sasaki"
+            <bestGirl name="Miyo Sasaki" />
             <!-- main girl pretty pog btw -->
             <!-- i mean not as much as sena but whatever -->
 

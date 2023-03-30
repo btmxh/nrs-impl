@@ -8,7 +8,7 @@
             idKitsu = 41101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 101316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 37497 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            bestGirl = "Hitomi Tsukishiro" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Hitomi Tsukishiro" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.7, 13)
             <!-- ending was good -->
