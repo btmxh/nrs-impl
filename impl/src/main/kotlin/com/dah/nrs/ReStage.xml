@@ -1125,13 +1125,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         contributors["M-VGMDB-AR-29249"] = 0.05
         TrackMemeImpact(0.7, ReStageMusicContext.CultureEra.NEE)
     }
+
+    <def name="RSTSB69DuopolyEra" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-01-10" to="2022-03-10" />
+    </def>
+
+    <def name="IdolDystopia" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-03-10" to="2022-06-03" />
+    </def>
 </document>
-
-fun AcceptImpact.RSTSB69DuopolyEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
-    <!-- rst-sb69 dse (Jan 10 - Mar 10, 2022) -->
-    Meme(strength, numDays("2022-01-10", "2022-03-10"), block)
-}
-
-fun AcceptImpact.IdolDystopia(strength: Double, block: DSLImpact.() -> Unit = {}) {
-    Meme(strength, numDays("2022-03-10", "2022-06-03"), block)
-}

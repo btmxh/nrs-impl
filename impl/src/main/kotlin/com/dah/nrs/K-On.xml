@@ -1,15 +1,11 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
-private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
-    Visual(kind, 0.65, 0.2)
-}
-
 <document>
     <entry id="F-VGMDB-504" title="K-On!">
 
         <entry id="M-VGMDB-AL-20118" title="Utauyo!!MIRACLE / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            `K-OnVisual`(VisualKind.AlbumArt)
+            Visual(VisualKind.AlbumArt, 0.65, 0.2)
 
             <entry id="$-2" title="Kirakira Days">
                 MusicConsumedProgress("3:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -22,7 +18,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
         <entry id="M-VGMDB-AL-21146" title="HO-KAGO TEA TIME Second / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            `K-OnVisual`(VisualKind.AlbumArt)
+            Visual(VisualKind.AlbumArt, 0.65, 0.2)
 
             <entry id="$-9" title="Tenshi ni Fureta yo!">
                 MusicConsumedProgress("4:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -33,7 +29,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
         <entry id="M-VGMDB-AL-22848" title="Gohan wa Okazu/U&I / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            `K-OnVisual`(VisualKind.AlbumArt)
+            Visual(VisualKind.AlbumArt, 0.65, 0.2)
 
             <entry id="$-2" title="U&I">
                 MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -79,7 +75,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
-            `K-OnVisual`(VisualKind.Animated)
+            Visual(VisualKind.Animated, 0.65, 0.2)
         </entry>
 
         <entry id="A-MAL-7791" title="K-On!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -92,7 +88,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
             FeatureMusic("M-VGMDB-AL-21146-9")
             FeatureMusic("M-VGMDB-AL-22848-2")
-            `K-OnVisual`(VisualKind.Animated)
+            Visual(VisualKind.Animated, 0.65, 0.2)
         </entry>
 
         <entry id="A-MAL-9617" title="K-On! Movie"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -104,7 +100,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
             FeatureMusic("M-VGMDB-AL-21146-9")
-            `K-OnVisual`(VisualKind.Animated)
+            Visual(VisualKind.Animated, 0.65, 0.2)
         </entry>
     </entry>
 </document>

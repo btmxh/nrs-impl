@@ -191,42 +191,35 @@
             <!-- For this heart to keep going forward... -->
         </entry>
     </entry>
+
+    <def name="NeoErogeEra" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-11-25" to="2022-12-31" />
+    </def>
+
+    <def name="KoikakeAEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
+        <aei base="_.base" emotions="_.emotions">
+            <script>
+                this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
+                this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
+            </script>
+        </aei>
+    </def>
+
+    <def name="KoikakeNEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
+        <nei base="_.base" emotions="_.emotions">
+            <script>
+                this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
+                this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
+            </script>
+        </nei>
+    </def>
+
+    <def name="KoikakeCry" vars="_.contribution:double,_.emotions:string" visibility="public">
+        <cry emotions="_.emotions">
+            <script>
+                this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
+                this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
+            </script>
+        </cry>
+    </def>
 </document>
-
-fun AcceptImpact.NeoErogeEra(strength: Double, block: DSLImpact.() -> Unit = {}) {
-
-    Meme(strength, numDays("2022-11-25", "2022-12-31"), block)
-}
-
-fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
-    AEI(strength, *emotions) {
-        contributors[id] = contribution
-        contributors["V-VNDB-17516"] = 1.0 - contribution
-    }
-}
-
-fun DSLEntry.KoikakeAEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
-    KoikakeAEI(strength, contribution, emotion to 1.0)
-}
-
-fun DSLEntry.KoikakeNEI(strength: Double, contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
-    NEI(strength, *emotions) {
-        contributors[id] = contribution
-        contributors["V-VNDB-17516"] = 1.0 - contribution
-    }
-}
-
-fun DSLEntry.KoikakeNEI(strength: Double, contribution: Double, emotion: Emotion.Factor) {
-    KoikakeNEI(strength, contribution, emotion to 1.0)
-}
-
-fun DSLEntry.KoikakeCry(contribution: Double, vararg emotions: Pair<Emotion.Factor, Double>) {
-    Cry(*emotions) {
-        contributors[id] = contribution
-        contributors["V-VNDB-17516"] = 1.0 - contribution
-    }
-}
-
-fun DSLEntry.KoikakeCry(contribution: Double, emotion: Emotion.Factor) {
-    KoikakeCry(contribution, emotion to 1.0)
-}

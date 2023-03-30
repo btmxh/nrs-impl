@@ -871,9 +871,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092567 -->
         MusicConsumedProgress("4:32")
     </entry>
-</document>
 
-fun AcceptImpact.AKMEraPart1(strength: Double, block: DSLImpact.() -> Unit = {}) {
     <!-- " -->
     <!-- rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards) -->
     <!-- featuring modern vietnamese literature, esters, tien duc and more... -->
@@ -883,19 +881,19 @@ fun AcceptImpact.AKMEraPart1(strength: Double, block: DSLImpact.() -> Unit = {})
     <!-- AKM is basically the "child" of rst and sb69, -->
     <!-- inheriting rst's love and sb69's catjam af music -->
     <!-- This arc features dumb shit like MVL (modern vietnamese literature) -->
-    Meme(strength, numDays("2022-06-03", "2022-07-17"), block)
 
     <!-- all of this shit basically spits on all other anime -->
     <!-- that was unable to be meta'd for longer than a month -->
     <!-- while literally a song not even 5 minutes was able -->
     <!-- to turn modern culture into the shittiest hellhole ever. -->
-}
+    <def name="AKMEraPart1" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-06-03" to="2022-07-17" />
+    </def>
 
-fun AcceptImpact.AKMEraPart2(strength: Double, block: DSLImpact.() -> Unit = {}) {
     <!-- AKM era arc 2 -->
     <!-- seasonal anime now exists, le boat analogy is dying, etc. -->
     <!-- sb69 top 1 franchise now xd -->
-    Meme(strength, numDays("2022-07-21", "2022-08-31"), block)
+
     <!-- july then comes with a bunch of new seasonal anime, -->
     <!-- and some of them were infused with akm shit such as: -->
     <!-- - classroom of the elite: a girl with same VA as rosia -->
@@ -949,9 +947,10 @@ fun AcceptImpact.AKMEraPart2(strength: Double, block: DSLImpact.() -> Unit = {})
     <!-- i hate the mc -->
     <!-- fuck her -->
     <!-- (pls save me) -->
-}
+    <def name="AKMEraPart2" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-07-21" to="2022-08-31" />
+    </def>
 
-fun AcceptImpact.AKMEraPart3(strength: Double, block: DSLImpact.() -> Unit = {}) {
     <!-- I heard somewhere that “Love strikes so suddenly” -->
     <!-- and so suddenly it is, that atelier girl is now a fucking canon waifu -->
     <!-- rip arisu tho (she is probably just a bait anyways) -->
@@ -959,7 +958,6 @@ fun AcceptImpact.AKMEraPart3(strength: Double, block: DSLImpact.() -> Unit = {})
     <!-- so, post-rst culture will have another shot with waifu meta, after failing -->
     <!-- with le cat because of 'lack of content'. let's hope for the best for miss -->
     <!-- 15-year-old escha malier to turn this culture into absolute chaos. -->
-    Meme(strength, numDays("2022-09-01", "2022-10-01"), block)
 
     <!-- rip modern culture -->
     <!-- surely this is a way for rst to force me to study calc 1 and shit -->
@@ -972,4 +970,7 @@ fun AcceptImpact.AKMEraPart3(strength: Double, block: DSLImpact.() -> Unit = {})
     <!-- after the glorious days of modern culture, we will live in a society -->
     <!-- where only rst and sb69 are able to benefit from it (more idol dystopia -->
     <!-- let's gooooooooo) -->
-}
+    <def name="AKMEraPart3" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-09-01" to="2022-10-01" />
+    </def>
+</document>
