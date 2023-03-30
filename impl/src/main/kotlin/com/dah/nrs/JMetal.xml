@@ -60,7 +60,7 @@
                 MusicConsumedProgress("3:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
 
-                KoikakeNEI(0.8, 0.75, Emotion.AU to 0.5, Emotion.MP to 0.5)
+                <ref name="KoikakeNEI" _.base="0.8" _.contribution="0.75" _.emotions="Emotion.AU to 0.5, Emotion.MP to 0.5" />
             </entry>
         </entry>
     </entry>

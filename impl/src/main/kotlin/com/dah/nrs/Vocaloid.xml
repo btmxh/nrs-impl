@@ -54,7 +54,7 @@
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         MusicConsumedProgress("3:56")
         Music(0.6)
-        KoikakeNEI(0.3, 0.7, Emotion.CU)
+        <ref name="KoikakeNEI" _.base="0.3" _.contribution="0.7" _.emotions="Emotion.CU" />
     </entry>
 
     <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -72,7 +72,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -86,7 +86,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -100,7 +100,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -114,7 +114,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>   MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
@@ -134,7 +134,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -148,7 +148,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -162,7 +162,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -176,7 +176,7 @@
             <!-- main girl" -->
 
             Music(0.5)
-            KoikakeCry(0.6, Emotion.CU)
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>   MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
@@ -188,7 +188,7 @@
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         Visual(VisualKind.AnimatedMV, 0.5, 0.6)
         Music(0.45) <!-- a bit dull at times but... -->
-        KoikakeCry(0.85, Emotion.MP to 0.5, Emotion.CU to 0.5)
+        <ref name="KoikakeCry" _.contribution="0.85" _.emotions="Emotion.MP to 0.5, Emotion.CU to 0.5" />
         <!-- the part though wtf -->
         <!-- did not expect to be that good ?????????? -->
 

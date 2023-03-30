@@ -693,9 +693,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- And together we will [shine our dreams] (lmfao rst song comp diff name) -->
 
                 <!-- "morbius is a movie of all time" -->
-                AKMEraPart1(1.0)
-                AKMEraPart2(1.0)
-                AKMEraPart3(0.6)
+                <ref name="AKMEraPart1" _.strength="1.0"/>
+                <ref name="AKMEraPart2" _.strength="1.0"/>
+                <ref name="AKMEraPart3" _.strength="0.6"/>
             </entry>
         </entry>
 
@@ -737,7 +737,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 }
                 <!-- cleaning koikake :tf: -->
                 <!-- AEI(0.3, Emotion.MP) -->
-                KoikakeAEI(0.3, 0.7, Emotion.MP)
+                <ref name="KoikakeAEI" _.base="0.3" _.contribution="0.7" _.emotions="Emotion.MP" />
             </entry>
         </entry>
 
@@ -829,41 +829,41 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         OsuSong(personal = 0.75)
     </entry>
 
-    RSTSB69DuopolyEra(0.8) {
+    <ref name="RSTSB69DuopolyEra" _.strength="0.8">
         contributors["A-MAL-27441"] = 0.2
         contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.05
         contributors["A-MAL-41520"] = 0.2
         contributors["G-VGMDB-8429"] = 0.1
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.Arc2)
-    }
+    </ref>
 
-    AKMEraPart1(0.3) {
+    <ref name="AKMEraPart1" _.strength="0.3">
         contributors["A-MAL-27441"] = 0.2
         contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.1
         contributors["A-MAL-41520"] = 0.2
         contributors["G-VGMDB-8429"] = 0.05
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM1)
-    }
+    </ref>
 
-    AKMEraPart2(0.75) {
+    <ref name="AKMEraPart2" _.strength="0.75">
         contributors["A-MAL-27441"] = 0.2
         contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.1
         contributors["A-MAL-41520"] = 0.2
         contributors["G-VGMDB-8429"] = 0.05
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM2)
-    }
+    </ref>
 
-    AKMEraPart3(0.4) {
+    <ref name="AKMEraPart3" _.strength="0.4">
         contributors["A-MAL-27441"] = 0.2
         contributors["A-MAL-32038"] = 0.25
         contributors["A-MAL-40763"] = 0.1
         contributors["A-MAL-41520"] = 0.2
         contributors["G-VGMDB-8429"] = 0.05
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM3)
-    }
+    </ref>
 
     <entry id="M-20221127T140645" title="Bibibeach Bibibibeach! (411 Socacore Remix)">
         ValidatorSuppress("dah-entry-no-consumed")

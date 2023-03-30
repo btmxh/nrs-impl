@@ -316,7 +316,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         }
 
         <!-- le "song da" analogy -->
-        AKMEraPart1(0.05) {
+        <ref name="AKMEraPart1" _.strength="0.05">
             contributors["A-MAL-40879"] = 0.25
             contributors["A-MAL-48916"] = 0.35
             contributors["A-MAL-15051"] = 0.05
@@ -327,7 +327,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             contributors["A-MAL-50203"] = 0.05
             contributors["A-MAL-24997"] = 0.05
             contributors["A-MAL-37027"] = 0.05
-        }
+        </ref>
 
         <!-- SIP humor -->
         AEI(0.8, Emotion.AP) {

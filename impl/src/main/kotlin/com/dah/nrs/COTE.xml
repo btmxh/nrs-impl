@@ -3,15 +3,15 @@
 <document>
     <entry id="F-VGMDB-11581" title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e">
 
-        AKMEraPart2(0.6) {
+        <ref name="AKMEraPart2" _.strength="0.6">
             contributors["A-MAL-35507"] = 0.5
             contributors["A-MAL-51096"] = 0.5
-        }
+        </ref>
 
-        AKMEraPart3(0.3) {
+        <ref name="AKMEraPart3" _.strength="0.3">
             contributors["A-MAL-35507"] = 0.5
             contributors["A-MAL-51096"] = 0.5
-        }
+        </ref>
 
         <entry id="A-MAL-35507" title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35507 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

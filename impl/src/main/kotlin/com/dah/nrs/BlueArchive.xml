@@ -55,11 +55,11 @@
             Visual(VisualKind.AnimatedGachaCardArt, 0.5, 0.5)
         </entry>
 
-        RemodernizationEra(0.7) {
+        <ref name="RemodernizationEra" _.strength="0.7">
             contributors["M-VGMDB-AL-126116-4"] = 0.4
             contributors["M-VGMDB-AL-108549-1"] = 0.1
             contributors["F-VGMDB-9895"] = 0.5
-        }
+        </ref>
     </entry>
     <def name="RemodernizationEra" vars="_.strength:double" visibility="public">
         <meme strength="_.strength" from="2023-01-01" to="today" />

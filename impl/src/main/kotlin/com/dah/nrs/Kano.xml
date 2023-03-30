@@ -162,7 +162,7 @@
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
                 <!-- https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
-                KoikakeCry(0.7, Emotion.CU)
+                <ref name="KoikakeCry" _.contribution="0.7" _.emotions="Emotion.CU" />
             </entry>
 
             <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
@@ -211,7 +211,7 @@
                     MusicConsumedProgress("5:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.5)
                     NEI(0.5, Emotion.CU)
-                    KoikakeNEI(0.4, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
+                    <ref name="KoikakeNEI" _.base="0.4" _.contribution="0.7" _.emotions="Emotion.CU to 0.8, Emotion.MP to 0.2" />
                 </entry>
 
                 <entry id="$-4" title="「ねぇ。」"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -231,7 +231,7 @@
                     Visual(VisualKind.AnimatedMV, 0.35, 0.6)
                     Music(0.7)
                     NEI(0.25, Emotion.CU)
-                    KoikakeNEI(0.5, 0.8, Emotion.CU to 0.5, Emotion.MP to 0.4, Emotion.CP to 0.1)
+                    <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="Emotion.CU to 0.5, Emotion.MP to 0.4, Emotion.CP to 0.1" />
                 </entry>
             </entry>
             <!-- after this, almost all of kano's songs suck -->

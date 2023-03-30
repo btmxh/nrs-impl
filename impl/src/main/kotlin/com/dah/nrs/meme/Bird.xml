@@ -6,6 +6,6 @@
 
         <bestGirl name="Procellariiformes" />
 
-        RemodernizationEra(0.3)
+        <ref name="RemodernizationEra" _.strength="0.3" />
     </entry>
 </document>

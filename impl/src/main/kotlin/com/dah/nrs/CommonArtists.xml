@@ -499,15 +499,15 @@
         )
 
         <!-- the akari kito analogy lol -->
-        AKMEraPart1(0.05)
+        <ref name="AKMEraPart1" _.strength="0.05"/>
     </entry>
 
     <entry id="M-VGMDB-AR-10934" title="Ai Kayano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains("M-20220125T063355-7", 1.0 / 4.0)
-        AKMEraPart1(0.05)
-        AKMEraPart2(0.1)
-        AKMEraPart2(0.05)
+        <ref name="AKMEraPart1" _.strength="0.05"/>
+        <ref name="AKMEraPart2" _.strength="0.1"/>
+        <ref name="AKMEraPart2" _.strength="0.05"/>
     </entry>
 
     <entry id="M-VGMDB-AR-11958" title="Miku Sawai"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -831,9 +831,9 @@
     <!-- say goodbye to your sanity -->
     <entry id="M-VGMDB-AR-8480" title="Rina Hidaka"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        AKMEraPart1(0.3)
-        AKMEraPart2(0.35)
-        AKMEraPart3(0.3)
+        <ref name="AKMEraPart1" _.strength="0.3"/>
+        <ref name="AKMEraPart2" _.strength="0.35"/>
+        <ref name="AKMEraPart3" _.strength="0.3"/>
         <!-- (not the whole cricri unit) -->
         Contains("M-20220125T063355-7", 0.25)
 
@@ -850,9 +850,9 @@
         <!-- congrats u have escaped the fate of a cricri girl -->
         <!-- now prepare to be a new seasonal waifu va lol -->
 
-        AKMEraPart1(0.2)
-        AKMEraPart2(0.3)
-        AKMEraPart3(0.3)
+        <ref name="AKMEraPart1" _.strength="0.2"/>
+        <ref name="AKMEraPart2" _.strength="0.3"/>
+        <ref name="AKMEraPart3" _.strength="0.3"/>
         <!-- additional 0.25 because akm is sung by rosia and jacklyn -->
         <!-- (not the whole cricri unit) -->
         Contains("M-20220125T063355-7", 0.25)

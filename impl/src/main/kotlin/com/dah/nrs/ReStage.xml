@@ -1082,42 +1082,42 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1)
     }
 
-    RSTSB69DuopolyEra(0.6) {
+    <ref name="RSTSB69DuopolyEra" _.strikes="0.6">
         contributors["A-MAL-38009"] = 0.5
         contributors["GF-VGMDB-7059"] = 0.05
         <!-- her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw -->
         contributors["M-VGMDB-AR-29249"] = 0.15
         TrackMemeImpact(0.3, ReStageMusicContext.CultureEra.Arc2)
-    }
+    </ref>
 
     <!-- idol dystopia arc -->
-    IdolDystopia(0.9) {
+    <ref name="IdolDystopia" _.strength="0.9">
         contributors["A-MAL-38009"] = 0.6 <!-- this got rewatched -->
         contributors["GF-VGMDB-7059"] = 0.1
         contributors["M-VGMDB-AR-29249"] = 0.1
         TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc3)
-    }
+    </ref>
 
-    AKMEraPart1(0.8) {
+    <ref name="AKMEraPart1" _.strength="0.8">
         contributors["A-MAL-38009"] = 0.25
         contributors["GF-VGMDB-7059"] = 0.15
         contributors["M-VGMDB-AR-29249"] = 0.2
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM1)
-    }
+    </ref>
 
-    AKMEraPart2(0.2) {
+    <ref name="AKMEraPart2" _.strength="0.2">
         contributors["A-MAL-38009"] = 0.25
         contributors["GF-VGMDB-7059"] = 0.15
         contributors["M-VGMDB-AR-29249"] = 0.2
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM2)
-    }
+    </ref>
 
-    AKMEraPart3(0.8) {
+    <ref name="AKMEraPart3" _.strength="0.8">
         contributors["A-MAL-38009"] = 0.25
         contributors["GF-VGMDB-7059"] = 0.15
         contributors["M-VGMDB-AR-29249"] = 0.2
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3)
-    }
+    </ref>
 
     NeoErogeEra(0.25) {
         contributors["A-MAL-38009"] = 0.1
