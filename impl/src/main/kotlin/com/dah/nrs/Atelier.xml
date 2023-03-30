@@ -2,14 +2,11 @@
 
 <document>
     <!-- Asuiro Koi Moyou and its consequences have been a disaster for our modern culture -->
-    <entry>
+    <entry id="F-VGMDB-694" title="Atelier">
         <!-- fuck this shit -->
         <!-- https://atelier.fandom.com/wiki/Miruca_Crotze -->
         <!-- https://atelier.fandom.com/wiki/Escha_Malier -->
         <!-- https://atelier.fandom.com/wiki/Luis_Bester -->
-
-        id = "F-VGMDB-694"
-        title = "Atelier"
 
         AKMEraPart2(0.75) {
             contributors["A-MAL-21167"] = 0.4
@@ -148,10 +145,8 @@
             </entry>
         </entry>
 
-        <entry>
+        <entry id="G-VGMDB-3499" title="Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~">
             <!-- i started the game oops -->
-            id = "G-VGMDB-3499"
-            title = "Sophie no Atelier ~Fushigi na Hon no Renkinjutsushi~"
 
             <!-- Romaji name is canon -->
 <!--            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~" -->

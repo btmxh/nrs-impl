@@ -1,11 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
+    <entry id="M-MAL-36631" title="Pandora Voxx Complete">
         <!-- there is no vgmdb entry for this -->
         <!-- but there is a mal one kek -->
-        id = "M-MAL-36631"
-        title = "Pandora Voxx Complete"
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 

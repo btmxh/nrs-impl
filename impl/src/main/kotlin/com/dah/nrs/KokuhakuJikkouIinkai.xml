@@ -128,10 +128,8 @@
                     </entry>
                 </entry>
 
-                <entry>
+                <entry id="M-20221225T010305" title="Boku Ja Dame Desu ka? ~Kokuhaku Jikkou Iinkai Character Song Collection~">
                     <!-- https://lovecommittee.fandom.com/wiki/Boku_Ja_Dame_Desu_ka%3F_~Kokuhaku_Jikkou_Iinkai_Character_Song_Collection~ -->
-                    id = "M-20221225T010305"
-                    title = "Boku Ja Dame Desu ka? ~Kokuhaku Jikkou Iinkai Character Song Collection~"
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
                     <entry id="M-20221225T015443" title="Kokuhaku Rival Sengen">

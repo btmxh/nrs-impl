@@ -159,11 +159,9 @@
                 </entry>
             </entry>
 
-            <entry>
+            <entry id="M-20220130T032649" title="Kimiiro Hanabi -album version-">
                 <!-- from the album "Colorful Wonder Note", track number 8 -->
                 <!-- and yes this is from osugame too -->
-                id = "M-20220130T032649"
-                title = "Kimiiro Hanabi -album version-"
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
                 Music(0.6)
@@ -179,11 +177,9 @@
                 KoikakeCry(0.7, Emotion.CU)
             </entry>
 
-            <entry>
+            <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
                 <!-- the best album of all time -->
-                <!-- literally the perfect combination of vocal and instrumental -->
-                id = "M-VGMDB-AL-37130"
-                title = "Suki na no. / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- literally the perfect combination of vocal and instrumental --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <!-- the album art is kano sitting with some animals -->
                 <!-- which is MP-based, and it's a pretty good contrast to -->
