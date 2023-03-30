@@ -2,13 +2,9 @@
 
 <document>
     <!-- the funny visual novel that got fucked by e2e lmfao -->
-    <entry>
-        id = "F-VGMDB-8817"
-        title = "ATRI -My Dear Moments-"
+    <entry id="F-VGMDB-8817" title="ATRI -My Dear Moments-">
 
-        <entry>
-            id = "V-VNDB-27448"
-            title = "ATRI -My Dear Moments-"
+        <entry id="V-VNDB-27448" title="ATRI -My Dear Moments-">
 
             bestGirl = "Atri" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- wait wtf -->
@@ -25,9 +21,7 @@
             FeatureMusic("M-VGMDB-AL-100754")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-100754"
-            title = "ATRI -My Dear Moments- Original Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-100754" title="ATRI -My Dear Moments- Original Soundtrack"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 

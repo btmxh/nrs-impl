@@ -5,13 +5,9 @@
     <!-- everything was in order -->
     <!-- no chaos, no unexpected meta, no neo-romance, -->
     <!-- no himeno sena, no culture-loving culture -->
-    <entry>
-        id = "F-VGMDB-2924"
-        title = "Hanayamata"
+    <entry id="F-VGMDB-2924" title="Hanayamata">
 
-        <entry>
-            id = "A-MAL-21681"
-            title = "Hanayamata" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-21681" title="Hanayamata"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21681 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8138 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20575 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -27,9 +23,7 @@
             FeatureMusic("M-VGMDB-AL-46235-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-46235"
-            title = "Hana ha odore ya irohani ho / Team \"Hanayamata\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-46235" title="Hana ha odore ya irohani ho / Team \">Hanayamata\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 

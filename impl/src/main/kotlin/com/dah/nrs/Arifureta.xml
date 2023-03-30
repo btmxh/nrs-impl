@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-6083"
-        title = "Arifureta Shokugyou de Sekaisaikyou"
+    <entry id="F-VGMDB-6083" title="Arifureta Shokugyou de Sekaisaikyou">
 
-        <entry>
-            id = "A-MAL-36882"
-            title = "Arifureta Shokugyou de Sekai Saikyou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-36882" title="Arifureta Shokugyou de Sekai Saikyou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 36882 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 14043 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100668 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -26,9 +22,7 @@
         Contains("M-VGMDB-AL-86592-1")
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-86592"
-        title = "FLARE / Void_Chords feat.LIO" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-86592" title="FLARE / Void_Chords feat.LIO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.05, 0.5)
         <entry id="$-1">

@@ -2,16 +2,12 @@
 
 <!-- the futuRe: of gen2 -->
 <document>
-    <entry>
-        id = "F-VGMDB-9540"
-        title = "CUE!"
+    <entry id="F-VGMDB-9540" title="CUE!">
 
         <!-- this franchise was first discovered while i'm listening to -->
         <!-- rst songs on spotify (like onsen), therefore it's known as -->
         <!-- the futuRe: of gen2 -->
-        <entry>
-            id = "A-MAL-43735"
-            title = "Cue!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-43735" title="Cue!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 43735 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44979 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 125682 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -48,9 +44,7 @@
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-115724"
-            title = "Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-115724" title="Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
@@ -67,9 +61,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AR-33857"
-            title = "AiRBLUE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-33857" title="AiRBLUE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-115724")

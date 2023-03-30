@@ -1,20 +1,14 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "M-VGMDB-AR-12516"
-        title = "ZAQ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-12516" title="ZAQ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains("M-VGMDB-AL-42762")
     </entry>
 
-    <entry>
-        id = "F-VGMDB-2330"
-        title = "Chuunibyou demo Koi ga Shitai!"
+    <entry id="F-VGMDB-2330" title="Chuunibyou demo Koi ga Shitai!">
 
-        <entry>
-            id = "M-VGMDB-AL-42762"
-            title = "VOICE / ZAQ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-42762" title="VOICE / ZAQ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
@@ -34,9 +28,7 @@
             contributors["A-MAL-18671"] = 0.25
         }
 
-        <entry>
-            id = "A-MAL-14741"
-            title = "Chuunibyou demo Koi ga Shitai!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-14741" title="Chuunibyou demo Koi ga Shitai!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 14741 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7160 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 14741 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -51,9 +43,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
 
-        <entry>
-            id = "A-MAL-18671"
-            title = "Chuunibyou demo Koi ga Shitai! Ren" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-18671" title="Chuunibyou demo Koi ga Shitai! Ren"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 18671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7705 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 18671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -70,9 +60,7 @@
             FeatureMusic("M-VGMDB-AL-42762-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-35608"
-            title = "Chuunibyou demo Koi ga Shitai! Movie: Take On Me" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-35608" title="Chuunibyou demo Koi ga Shitai! Movie: Take On Me"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35608 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98762 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

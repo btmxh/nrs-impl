@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-5485"
-        title = "Imouto sae Ireba Ii."
+    <entry id="F-VGMDB-5485" title="Imouto sae Ireba Ii.">
 
-        <entry>
-            id = "A-MAL-35413"
-            title = "Imouto sae Ireba Ii." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-35413" title="Imouto sae Ireba Ii."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 11207 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98596 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -21,9 +17,7 @@
             GateOpen("F-VGMDB-3275")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-70621"
-            title = "Ashita no Kimi sae Ireba Ii. / ChouCho" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-70621" title="Ashita no Kimi sae Ireba Ii. / ChouCho"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
             <entry id="$-1">

@@ -2,13 +2,9 @@
 
 <document>
 
-    <entry>
-        id = "F-VGMDB-10135"
-        title = "Tonikaku Kawaii"
+    <entry id="F-VGMDB-10135" title="Tonikaku Kawaii">
 
-        <entry>
-            id = "A-MAL-41389"
-            title = "Tonikaku Kawaii" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-41389" title="Tonikaku Kawaii"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43034 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 116267 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -22,9 +18,7 @@
             FeatureMusic("M-VGMDB-AL-104618")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-104618"
-            title = "Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-104618" title="Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
             <entry id="$-1">

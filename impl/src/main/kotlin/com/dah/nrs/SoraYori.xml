@@ -4,13 +4,9 @@
     <!-- the first CP farmer in NRS -->
     <!-- but they got dropped sadge -->
 
-    <entry>
-        id = "F-VGMDB-7040"
-        title = "Sora yori mo Tooi Basho"
+    <entry id="F-VGMDB-7040" title="Sora yori mo Tooi Basho">
 
-        <entry>
-            id = "A-MAL-35839"
-            title = "Sora yori mo Tooi Basho" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-35839" title="Sora yori mo Tooi Basho"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35839 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13615 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99426 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -36,9 +32,7 @@
             FeatureMusic("M-VGMDB-AL-73544-2")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-73544"
-            title = "Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-73544" title="Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
             <entry id="$-1">

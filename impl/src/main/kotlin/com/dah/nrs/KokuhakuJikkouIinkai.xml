@@ -4,9 +4,7 @@
     <!-- holy fuck how many of these songs have been heard by me in osu! bro -->
     <!-- also i hate himeno sena -->
     <!-- (sena narumi is cool tho) -->
-    <entry>
-        id = "F-VGMDB-4192"
-        title = "Kokuhaku Jikkou Iinkai"
+    <entry id="F-VGMDB-4192" title="Kokuhaku Jikkou Iinkai">
 
         <!-- checkout this cool honeyworks map :tf: -->
         <!-- https://osu.ppy.sh/beatmapsets/1684004#mania/3440927 -->
@@ -15,16 +13,12 @@
         <!-- wtf they even made an eroge???? -->
         <!-- https://vndb.org/v17516 -->
 
-        <entry>
-            id = "M-VGMDB-AR-14655"
-            title = "HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-14655" title="HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- these ppl are responsible for so many osu! songs wtf -->
 
             <!-- * with honeyworks -->
             Contains(MusicInstContainFactor + MusicImageContainFactor * 0.5) {
-                <entry>
-                    id = "M-VGMDB-AL-53266"
-                    title = "Pride Kakumei / CHiCO with HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-53266" title="Pride Kakumei / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
                     <entry id="$-1">
@@ -36,9 +30,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-50202"
-                    title = "Ai no Scenario / CHiCO with HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-50202" title="Ai no Scenario / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
                     <entry id="$-1">
@@ -51,9 +43,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-61577"
-                    title = "Senpai. / HoneyWorks meets TrySail" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-61577" title="Senpai. / HoneyWorks meets TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.1, 0.3)
                     <entry id="$-1">
@@ -65,9 +55,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-73678"
-                    title = "Nostalgic Rainfall / CHiCO with HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-73678" title="Nostalgic Rainfall / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
                     <entry id="$-1">
@@ -79,9 +67,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-74820"
-                    title = "Watashi wo Someru I no Uta / CHiCO with HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-74820" title="Watashi wo Someru I no Uta / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
                     <entry id="$-1">
@@ -93,9 +79,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-54636"
-                    title = "Kotoba no Iranai Yakusoku/Akatsukizukuyo / sana/HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-54636" title="Kotoba no Iranai Yakusoku/Akatsukizukuyo / sana/HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
                     <entry id="$-2">
@@ -108,9 +92,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-46039"
-                    title = "Sekai wa Koi ni Ochiteiru / CHiCO with HoneyWorks [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-46039" title="Sekai wa Koi ni Ochiteiru / CHiCO with HoneyWorks [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.4, 0.4)
                     <entry id="$-2">
@@ -121,9 +103,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-92983"
-                    title = "Kessen Spirit / CHiCO with HoneyWorks [CHiCO with HoneyWorks Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-92983" title="Kessen Spirit / CHiCO with HoneyWorks [CHiCO with HoneyWorks Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
                     <entry id="$-1">
@@ -137,9 +117,7 @@
             }
 
             Contains(MusicInstContainFactor + MusicImageContainFactor) {
-                <entry>
-                    id = "M-VGMDB-AL-80437"
-                    title = "Zutto Mae kara Suki deshita. / HoneyWorks" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-80437" title="Zutto Mae kara Suki deshita. / HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
                     <entry id="$-1">
@@ -156,9 +134,7 @@
                     title = "Boku Ja Dame Desu ka? ~Kokuhaku Jikkou Iinkai Character Song Collection~"
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
-                    <entry>
-                        id = "M-20221225T015443"
-                        title = "Kokuhaku Rival Sengen"
+                    <entry id="M-20221225T015443" title="Kokuhaku Rival Sengen">
                         <!-- Length source: https://osu.ppy.sh/beatmapsets/301561#osu/676193 -->
                         MusicConsumedProgress("3:49")
                         Music(0.2)
@@ -166,9 +142,7 @@
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
                     </entry>
 
-                    <entry>
-                        id = "M-20221225T015456"
-                        title = "Ima Suki ni Naru."
+                    <entry id="M-20221225T015456" title="Ima Suki ni Naru.">
                         <!-- Length source: https://www.youtube.com/watch?v=WqlpuarOvq8 -->
                         MusicConsumedProgress("4:19")
                         Music(0.4)
@@ -177,9 +151,7 @@
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
                     </entry>
 
-                    <entry>
-                        id = "M-20221225T015505"
-                        title = "Miraizu"
+                    <entry id="M-20221225T015505" title="Miraizu">
                         <!-- Length source: https://open.spotify.com/track/08GL8ARBGmSFRMqj8oQbkZ -->
                         MusicConsumedProgress("3:29")
                         Music(0.45)
@@ -187,9 +159,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-91835"
-                    title = "Sukisugite Yabai. ~Kokuhaku Jikkou Iinkai Character Song Collection~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-91835" title="Sukisugite Yabai. ~Kokuhaku Jikkou Iinkai Character Song Collection~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -202,9 +172,7 @@
                     </entry>
                 </entry>
 
-                <entry>
-                    id = "M-VGMDB-AL-120871"
-                    title = "Docchi no kiss ka, Erabe yo. / LIP×LIP [COMPLETE BOX]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="M-VGMDB-AL-120871" title="Docchi no kiss ka, Erabe yo. / LIP×LIP [COMPLETE BOX]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.15, 0.5)
 
@@ -227,9 +195,7 @@
             }
         </entry>
 
-        <entry>
-            id = "A-MAL-31245"
-            title = "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-31245" title="Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 31245 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 11204 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21296 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -242,9 +208,7 @@
             NEI(0.2, Emotion.MP)
         </entry>
 
-        <entry>
-            id = "A-MAL-33036"
-            title = "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-33036" title="Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 33036 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -259,9 +223,7 @@
             FeatureMusic("M-20221225T015456")
         </entry>
 
-        <entry>
-            id = "A-MAL-36220"
-            title = "Itsudatte Bokura no Koi wa 10 cm Datta." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 36220 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13788 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98977 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -276,9 +238,7 @@
             FeatureMusic("M-VGMDB-AL-120871-5")
         </entry>
 
-        <entry>
-            id = "A-MAL-49692"
-            title = "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-49692" title="Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 49692 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 45031 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 138459 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

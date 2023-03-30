@@ -1,22 +1,16 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-3559"
-        title = "THE IDOLM@STER"
+    <entry id="F-VGMDB-3559" title="THE IDOLM@STER">
 
-        <entry>
-            id = "M-VGMDB-AR-32295"
-            title = "765 MILLION ALLSTARS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78253-1")
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-53945"
-            title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             <entry id="$-1">
@@ -25,9 +19,7 @@
                 Music(0.35)
                 OsuSong(personal = 0.8)
             </entry>
-        </entry>        <entry>
-            id = "M-VGMDB-AL-53945"
-            title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>        <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             <entry id="$-1">
@@ -39,9 +31,7 @@
         </entry>   </entry>
         }
 
-        <entry>
-            id = "M-VGMDB-AL-78253"
-            title = "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78253" title="THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
@@ -53,9 +43,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "A-MAL-10278"
-            title = "The iDOLM@STER" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-10278" title="The iDOLM@STER"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 10278 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 6111 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 10278 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -78,9 +66,7 @@
             contributors["A-MAL-30344"] = 0.5
         }
 
-        <entry>
-            id = "A-MAL-23587"
-            title = "The iDOLM@STER Cinderella Girls" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-23587" title="The iDOLM@STER Cinderella Girls"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20693 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -90,9 +76,7 @@
             Visual(VisualKind.Animated, 0.5, 0.2)
         </entry>
 
-        <entry>
-            id = "A-MAL-30344"
-            title = "The iDOLM@STER Cinderella Girls 2nd Season" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-30344" title="The iDOLM@STER Cinderella Girls 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 30344 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 10760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21094 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

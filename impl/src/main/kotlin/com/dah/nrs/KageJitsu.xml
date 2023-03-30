@@ -2,18 +2,14 @@
 
 <document>
     <!-- 2023 is the year of isekai -->
-    <entry>
-        id = "F-VGMDB-9991"
-        title = "Kage no Jitsuryokusha ni Naritakute!"
+    <entry id="F-VGMDB-9991" title="Kage no Jitsuryokusha ni Naritakute!">
 
         <!-- "dude mc is literally me..." -->
         <!-- - every AAists (anti-appearancists) and EAAists (extreme AAists) in the NAP -->
 
         <!-- ("... except for the fact that he is actually powerful, not like me xdddd") -->
 
-        <entry>
-            id = "A-MAL-48316"
-            title = "Kage no Jitsuryokusha ni Naritakute!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-48316" title="Kage no Jitsuryokusha ni Naritakute!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44107 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 130298 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -58,9 +54,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 20)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-122851"
-            title = "Darling in the Night / Shichikage" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-122851" title="Darling in the Night / Shichikage"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- not anime girls :anger:, this needs correction -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 

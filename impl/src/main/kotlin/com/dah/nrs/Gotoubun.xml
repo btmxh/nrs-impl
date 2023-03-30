@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-9342"
-        title = "Gotoubun no Hanayome"
+    <entry id="F-VGMDB-9342" title="Gotoubun no Hanayome">
 
-        <entry>
-            id = "A-MAL-38101"
-            title = "5-toubun no Hanayome" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38101" title="5-toubun no Hanayome"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41966 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103572 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -23,9 +19,7 @@
             FeatureMusic("M-VGMDB-AL-82284")
         </entry>
 
-        <entry>
-            id = "A-MAL-39783"
-            title = "5-toubun no Hanayome ∬" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-39783" title="5-toubun no Hanayome ∬"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 109261 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -41,9 +35,7 @@
             Visual(VisualKind.Animated, 0.5, 0.5)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-82284"
-            title = "Gotoubun no Kimochi / Nakano-ke no Itsutsugo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-82284" title="Gotoubun no Kimochi / Nakano-ke no Itsutsugo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
 
             <entry id="$-1">

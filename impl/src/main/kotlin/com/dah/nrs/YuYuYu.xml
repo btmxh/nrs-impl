@@ -4,15 +4,11 @@
     <!-- kirare - happy typhoon and u's - a song for yuyuyu reference -->
     <!-- somewhat changed da world -->
     <!-- the start line of the "pleasant revolution" -->
-    <entry>
-        id = "F-VGMDB-3245"
-        title = "Yuusha de Aru"
+    <entry id="F-VGMDB-3245" title="Yuusha de Aru">
 
         Contains("M-VGMDB-AL-69821-1")
 
-        <entry>
-            id = "M-VGMDB-AL-47678"
-            title = "Aurora Days / Sanshuu Chuugaku Yuushabu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-47678" title="Aurora Days / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -23,9 +19,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-114186"
-            title = "Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-114186" title="Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -76,9 +70,7 @@
             contributors["A-MAL-42587"] = 0.06
         }
 
-        <entry>
-            id = "A-MAL-25519"
-            title = "Yuuki Yuuna wa Yuusha de Aru" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-25519" title="Yuuki Yuuna wa Yuusha de Aru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 25519 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8638 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20800 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -105,9 +97,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
 
-        <entry>
-            id = "L-MAL-90810"
-            title = "Nogi Wakaba wa Yuusha de Aru"
+        <entry id="L-MAL-90810" title="Nogi Wakaba wa Yuusha de Aru">
             <!-- Update Nov 6, 2021: -->
             <!-- This LN reading progress will be paused to prioritize the anime. -->
             <!-- Issue #10 will try to make both S3 and NoWaYu LN get all of the -->
@@ -151,9 +141,7 @@
             Visual(VisualKind.LightNovel, 0.15, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-34284"
-            title = "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-34284" title="Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34284 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12678 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -173,9 +161,7 @@
             Visual(VisualKind.Animated, 0.3, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-34445"
-            title = "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-34445" title="Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34445 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13160 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97769 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -198,9 +184,7 @@
             Visual(VisualKind.Animated, 0.3, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-42587"
-            title = "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-42587" title="Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 42587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44333 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 122292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

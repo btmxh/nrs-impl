@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-5919"
-        title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
+    <entry id="F-VGMDB-5919" title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?">
 
-        <entry>
-            id = "A-MAL-34498"
-            title = "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-34498" title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12794 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97908 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

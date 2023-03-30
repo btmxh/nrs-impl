@@ -26,9 +26,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-20220205T023322-1"
-        title = "Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
+    <entry id="M-20220205T023322-1" title="Chikyuu Saigo no Kokuhaku wo (yuikonnu)">
 
         <!-- yuiko version is probably the best, music-wise -->
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
@@ -36,9 +34,7 @@
         MusicConsumedProgress("4:32") <!-- impl_overridden -->
     </entry>
 
-    <entry>
-        id = "M-20220205T023322-3"
-        title = "Chikyuu Saigo no Kokuhaku wo (HAG)"
+    <entry id="M-20220205T023322-3" title="Chikyuu Saigo no Kokuhaku wo (HAG)">
 
         <!-- quite good, but they didn't keep the orig. inst. -->
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
@@ -46,9 +42,7 @@
         MusicConsumedProgress("4:23") <!-- impl_overridden -->
     </entry>
 
-    <entry>
-        id = "M-20221115T105859"
-        title = "AI"
+    <entry id="M-20221115T105859" title="AI">
 
         Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
@@ -57,9 +51,7 @@
         OsuSong(personal = 0.8, community = 0.0)
     </entry>
 
-    <entry>
-        id = "M-20221219T233957"
-        title = "Calc."
+    <entry id="M-20221219T233957" title="Calc.">
 
         Visual(VisualKind.StaticMV, 0.2, 0.4)
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
@@ -68,9 +60,7 @@
         KoikakeNEI(0.3, 0.7, Emotion.CU)
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-97732"
-        title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
         <entry id="$-22">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -136,9 +126,7 @@
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
         }
-    </entry>    <entry>
-        id = "M-VGMDB-AL-97732"
-        title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
         <entry id="$-22">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -207,9 +195,7 @@
     </entry>   </entry>
     }
 
-    <entry>
-        id = "M-20221217T174507"
-        title = "Kutsumigaki to Maria"
+    <entry id="M-20221217T174507" title="Kutsumigaki to Maria">
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         Visual(VisualKind.AnimatedMV, 0.5, 0.6)
         Music(0.45) <!-- a bit dull at times but... -->
@@ -230,9 +216,7 @@
         MusicConsumedProgress("4:53")
     </entry>
 
-    <entry>
-        id = "M-20221224T223044"
-        title = "Hitori no Kimi to Hitori no Boku ni"
+    <entry id="M-20221224T223044" title="Hitori no Kimi to Hitori no Boku ni">
 
         <!-- suzumu the goat -->
         <!-- obligatory honokaCLAP and catJAM -->

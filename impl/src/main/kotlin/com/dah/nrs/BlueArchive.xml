@@ -6,17 +6,13 @@
 <!-- abandoning heisenberg uncertainty principle is the worst mistake of mankind -->
 <!-- abandoning heisenberg uncertainty principle is the worst mistake of mankind -->
 <document>
-    <entry>
-        id = "F-VGMDB-9895"
-        title = "Blue Archive"
+    <entry id="F-VGMDB-9895" title="Blue Archive">
         <!-- "onsen but actually meta" -->
         <!-- (yes the game exists but it will likely not be played for a while) -->
 
         <!-- no way edm in 2023 pogpega -->
         <!-- this is literally 2018 -->
-        <entry>
-            id = "M-VGMDB-AL-126116"
-            title = "Blue Archive Original Soundtrack Vol.3 ~Reaching for the precious time~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-126116" title="Blue Archive Original Soundtrack Vol.3 ~Reaching for the precious time~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <!-- hfiumi buff (without hfiumi base is 0.3) -->
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
@@ -36,9 +32,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-108549"
-            title = "Clear Morning / Yui Ogura" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-108549" title="Clear Morning / Yui Ogura"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
             <entry id="$-1">
@@ -50,9 +44,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "G-VGMDB-9895"
-            title = "Blue Archive"
+        <entry id="G-VGMDB-9895" title="Blue Archive">
 
             <!-- yet another gacha game waiting to be dead xddd -->
             <!-- let enjoy it while it lasts -->

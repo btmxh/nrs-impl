@@ -4,13 +4,9 @@
     <!-- le funny franchise, lack content therefore low score -->
     <!-- translate stuff for me if u want score to go up -->
 
-    <entry>
-        id = "F-VGMDB-6439"
-        title = "Onsen Musume"
+    <entry id="F-VGMDB-6439" title="Onsen Musume">
 
-        <entry>
-            id = "M-VGMDB-AL-75349"
-            title = "Hop Step Jump! / SPRiNGS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-75349" title="Hop Step Jump! / SPRiNGS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.75, 0.25)
             <entry id="$-1">
@@ -20,9 +16,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220125T063355-1"
-            title = "SPRiNGS"
+        <entry id="M-20220125T063355-1" title="SPRiNGS">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -32,9 +26,7 @@
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-75344"
-            title = "Tsuioku Kaleidoscope / SPRiNGS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-75344" title="Tsuioku Kaleidoscope / SPRiNGS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.75, 0.25)
             <!-- Length source: https://open.spotify.com/album/7iKl9h6FUWmHhRE7tg8yJh -->

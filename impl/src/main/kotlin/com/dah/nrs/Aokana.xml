@@ -2,13 +2,9 @@
 
 <!-- imagine almost losing a contentless franchise xddddddddddddd -->
 <document>
-    <entry>
-        id = "F-VGMDB-4043"
-        title = "Ao no Kanata no Four Rhythm"
+    <entry id="F-VGMDB-4043" title="Ao no Kanata no Four Rhythm">
 
-        <entry>
-            id = "V-VNDB-12849"
-            title = "Ao no Kanata no Four Rhythm"
+        <entry id="V-VNDB-12849" title="Ao no Kanata no Four Rhythm">
 
             <!-- i still use her skin in osugame lmfao -->
             <!-- (because all of the best girls post-aokana -->
@@ -36,18 +32,14 @@
             KilledBy("V-VNDB-27448", 0.1, 0.1)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-52834"
-            title = "Ao no Kanata no Four Rhythm Vocal & Sound Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-52834" title="Ao no Kanata no Four Rhythm Vocal & Sound Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- too lazy to rate every single track -->
             Music(0.8)
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
             Remix("M-20221202T205008")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-55828"
-            title = "Contrail ~Kiseki~ / Mami Kawada" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-55828" title="Contrail ~Kiseki~ / Mami Kawada"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
             <entry id="$-1">
                 title = "Contrail ~Kiseki~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -59,9 +51,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-20221202T205008"
-        title = "Wings of Courage -Sora o Koete- (Epsilon Remix)"
+    <entry id="M-20221202T205008" title="Wings of Courage -Sora o Koete- (Epsilon Remix)">
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         OsuSong(personal = 0.3, community = 0.0)
@@ -69,9 +59,7 @@
         MusicConsumedProgress("4:58")
     </entry>
 
-    <entry>
-        id = "M-20221202T210558"
-        title = "Contrail ~Kiseki~ (Epsilon Remix)"
+    <entry id="M-20221202T210558" title="Contrail ~Kiseki~ (Epsilon Remix)">
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/461966 -->

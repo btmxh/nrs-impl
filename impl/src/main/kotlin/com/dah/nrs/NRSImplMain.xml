@@ -16,9 +16,7 @@ fun main() =
         SwordArtOnline()
         KokoroConnect()
 
-        <entry>
-            id = "A-MAL-21995"
-            title = "Ao Haru Ride" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-21995" title="Ao Haru Ride"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21995 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8246 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20596 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -385,9 +383,7 @@ fun main() =
 
         ZombielandSaga()
 
-        <entry>
-            id = "A-MAL-37982"
-            title = "Domestic na Kanojo" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-37982" title="Domestic na Kanojo"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41479 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103139 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -406,9 +402,7 @@ fun main() =
         IsekaiQuartet()
         DrStone()
 
-        <entry>
-            id = "A-MAL-38656"
-            title = "Darwin's Game" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38656" title="Darwin's Game"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38656 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42260 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 105190 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -420,9 +414,7 @@ fun main() =
             AEI(0.5, Emotion.AP)
         </entry>
 
-        <entry>
-            id = "A-MAL-38659"
-            title = "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38659" title="Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38659 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42079 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 105156 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -791,9 +783,7 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.4)
         </entry>
 
-        <entry>
-            id = "A-MAL-38091"
-            title = "Hachigatsu no Cinderella Nine (TV)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38091" title="Hachigatsu no Cinderella Nine (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38091 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42144 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104989 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -808,9 +798,7 @@ fun main() =
             Visual(VisualKind.Animated, 0.4, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-37481"
-            title = "Ongaku Shoujo (TV)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-37481" title="Ongaku Shoujo (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37481 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41066 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 101309 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

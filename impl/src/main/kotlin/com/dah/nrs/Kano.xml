@@ -8,14 +8,10 @@
     <!-- which is what a "kano impact" is -->
     <!-- (it will be represented as an NEI/AEI) -->
 
-    <entry>
-        id = "M-VGMDB-AR-11666"
-        title = "Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-11666" title="Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains(MusicVocalImageContainFactor) {
-            <entry>
-                id = "M-VGMDB-AL-95369"
-                title = "Bambino / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-95369" title="Bambino / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.2, 0.5)
 
@@ -28,9 +24,7 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-34411"
-                title = "Aimai Bambina / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
@@ -49,9 +43,7 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-42961"
-                title = "Aru Machi no Hakuchuumu / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.25, 0.5)
 
@@ -78,9 +70,7 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-49423"
-                title = "Good Hello / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.55, 0.45)
 
@@ -99,9 +89,7 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-51254"
-                title = "Stella-rium / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.5, 0.4)
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
@@ -114,9 +102,7 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-54307"
-                title = "Dear Brave / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.2, 0.6)
                 Visual(VisualKind.AnimatedMV, 0.6, 0.4)
@@ -129,9 +115,7 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-57564"
-                title = "nowhere / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-57564" title="nowhere / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -153,18 +137,14 @@
                 </entry>
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-73516"
-                title = "one / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-73516" title="one / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
                 Contains("M-VGMDB-AL-34411-11")
             </entry>
 
-            <entry>
-                id = "M-VGMDB-AL-89290"
-                title = "three / Kano" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="M-VGMDB-AL-89290" title="three / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -281,9 +261,7 @@
             <!-- path you've chosen, don't mind me) -->
 
             <!-- oh except for this, i forgor -->
-            <entry>
-                id = "M-20220317T064137-5"
-                title = "Sore wa Kitto Natsudatta"
+            <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
 
                 Visual(VisualKind.AnimatedMV, 0.35, 0.7)
                 <!-- 210 bpm spaced bursts -->
@@ -295,9 +273,7 @@
             </entry>
         }
 
-        <entry>
-            id = "M-20221202T204728"
-            title = "Sukisuki Zecchoushou"
+        <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
             ValidatorSuppress("dah-entry-no-consumed")
             Music(0.4)
             OsuSong(personal = 0.6, community = 0.4)
@@ -305,9 +281,7 @@
             MusicConsumedProgress("3:33")
         </entry>
 
-        <entry>
-            id = "M-20221202T203758"
-            title = "Sayonara, Adam to Eve"
+        <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
             ValidatorSuppress("dah-entry-no-consumed")
             Music(0.55)
             OsuSong(personal = 0.7, community = 0.0)
@@ -315,9 +289,7 @@
             MusicConsumedProgress("4:17")
         </entry>
 
-        <entry>
-            id = "M-20221202T202421"
-            title = "Natsu no Owari, Koi no Hajimari (Kano)"
+        <entry id="M-20221202T202421" title="Natsu no Owari, Koi no Hajimari (Kano)">
             ValidatorSuppress("dah-entry-no-consumed")
             Music(0.65)
             OsuSong(personal = 0.0, community = 0.0)

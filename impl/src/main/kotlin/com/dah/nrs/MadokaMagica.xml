@@ -3,15 +3,11 @@
 <document>
     <!-- also include MagiReco -->
 
-    <entry>
-        id = "F-VGMDB-1945"
-        title = "Mahou Shoujo Madoka☆Magica"
+    <entry id="F-VGMDB-1945" title="Mahou Shoujo Madoka☆Magica">
 
         Contains("M-VGMDB-AL-23391-1")
 
-        <entry>
-            id = "M-VGMDB-AL-30302"
-            title = "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-30302" title="Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-2">
@@ -21,9 +17,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-24725"
-            title = "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-24725" title="Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-4">
@@ -33,9 +27,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-39170"
-            title = "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-39170" title="Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-2">
@@ -48,9 +40,7 @@
         Contains("M-VGMDB-AL-41292-1")
         Contains("M-VGMDB-AL-69147-11")
 
-        <entry>
-            id = "M-VGMDB-AL-113295"
-            title = "TV Anime \"Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-113295" title="TV Anime \">Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
@@ -63,9 +53,7 @@
 
         Contains("M-VGMDB-AL-89431-1")
 
-        <entry>
-            id = "M-VGMDB-AL-95029"
-            title = "Gomakashi / TrySail" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-95029" title="Gomakashi / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
@@ -76,9 +64,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-91985"
-            title = "Utsuroi / TrySail" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-91985" title="Utsuroi / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
@@ -100,9 +86,7 @@
             contributors["A-MAL-11981"] = 0.2
         }
 
-        <entry>
-            id = "A-MAL-9756"
-            title = "Mahou Shoujo Madoka★Magica" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-9756" title="Mahou Shoujo Madoka★Magica"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 5853 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -126,9 +110,7 @@
             FeatureMusic("M-VGMDB-AL-39170-2")
         </entry>
 
-        <entry>
-            id = "A-MAL-11981"
-            title = "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-11981" title="Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 6638 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 11981 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idMAL = 11981 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -165,9 +147,7 @@
             contributors["A-MAL-41530"] = 0.2
         }
 
-        <entry>
-            id = "G-VGMDB-5237"
-            title = "Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
+        <entry id="G-VGMDB-5237" title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden">
 
             bestGirl = "Iroha Tamaki" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Madokami's MGS -->
@@ -190,9 +170,7 @@
             FeatureMusic("M-VGMDB-AL-91985-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-38256"
-            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38256" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38256 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42016 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104051 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -215,9 +193,7 @@
             FeatureMusic("M-VGMDB-AL-95029-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-41530"
-            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-41530" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43090 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 117002 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -242,9 +218,7 @@
             FeatureMusic("M-VGMDB-AL-113295-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-49291"
-            title = "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-49291" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 49291 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 136080 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -266,15 +240,11 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-20220113T184042-1"
-        title = "Magibeat"
+    <entry id="M-20220113T184042-1" title="Magibeat">
         ValidatorSuppress("dah-entry-no-consumed")
 
         Contains(0.5) {
-            <entry>
-                id = "M-20220113T184042-3"
-                title = "Colorful - Magibeat Remix"
+            <entry id="M-20220113T184042-3" title="Colorful - Magibeat Remix">
 
                 <!-- Length source: https://www.nicovideo.jp/watch/sm22151925 -->
                 Music(0.35)

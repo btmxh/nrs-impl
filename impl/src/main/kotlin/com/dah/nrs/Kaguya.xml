@@ -3,14 +3,10 @@
 <!-- 'That summer I first learned why “Love is War”' -->
 <document>
     <!-- i thought this was blacklisted, but it seems that was not the case -->
-    <entry>
-        id = "F-VGMDB-7021"
-        title = "Kaguya-sama wa Kokurasetai ~Tensaitachi no Ren'ai Zunousen~"
+    <entry id="F-VGMDB-7021" title="Kaguya-sama wa Kokurasetai ~Tensaitachi no Ren'ai Zunousen~">
         <!-- kaguyashit my behated -->
 
-        <entry>
-            id = "M-VGMDB-AL-83397"
-            title = "Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-83397" title="Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             <entry id="$-1">
@@ -21,9 +17,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-116977"
-            title = "KAGUYA ♡ ULTRA BEST" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-116977" title="KAGUYA ♡ ULTRA BEST"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
@@ -46,9 +40,7 @@
             contributors["A-MAL-43608"] = 0.25
         }
 
-        <entry>
-            id = "A-MAL-37999"
-            title = "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-37999" title="Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41373 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 101921 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -66,9 +58,7 @@
 
         <!-- these are ranked just to help to carry the AEI for s1 -->
         <!-- also the funny rina hidaka girl too lmfao -->
-        <entry>
-            id = "A-MAL-40591"
-            title = "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-40591" title="Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40591 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42632 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 112641 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -82,9 +72,7 @@
             ValidatorSuppress("dah-entry-no-consumed")
         </entry>
 
-        <entry>
-            id = "A-MAL-43608"
-            title = "Kaguya-sama wa Kokurasetai: Ultra Romantic" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-43608" title="Kaguya-sama wa Kokurasetai: Ultra Romantic"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 43608 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 43691 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 125367 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

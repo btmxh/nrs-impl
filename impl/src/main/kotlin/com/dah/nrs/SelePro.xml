@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-9703"
-        title = "SELECTION PROJECT"
+    <entry id="F-VGMDB-9703" title="SELECTION PROJECT">
 
-        <entry>
-            id = "A-MAL-44275"
-            title = "Selection Project" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-44275" title="Selection Project"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 44275 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44211 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 126790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -22,9 +18,7 @@
             KilledBy("F-VGMDB-3245", potential = 0.25, effect = 0.8)
         </entry>
 
-        <entry>
-            id = "M-20220319T061727"
-            title = "9-tie"
+        <entry id="M-20220319T061727" title="9-tie">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -32,9 +26,7 @@
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-114102"
-            title = "SELECTION PROJECT Main Theme Song CD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-114102" title="SELECTION PROJECT Main Theme Song CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1">
@@ -44,9 +36,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-115010"
-            title = "SELECTION PROJECT CHARACTER SONG CD 03" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-115010" title="SELECTION PROJECT CHARACTER SONG CD 03"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
             <entry id="$-1">

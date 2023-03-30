@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-6946"
-        title = "Egao no Daika"
+    <entry id="F-VGMDB-6946" title="Egao no Daika">
 
-        <entry>
-            id = "A-MAL-38544"
-            title = "Egao no Daika" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38544" title="Egao no Daika"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38544 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104674 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -33,9 +29,7 @@
             AEI(0.75, Emotion.CU to 0.5, Emotion.MP to 0.25, Emotion.AP to 0.25)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-81448"
-            title = "Egao no Kanata / Chiho feat. majiko" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-81448" title="Egao no Kanata / Chiho feat. majiko"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1">
                 title = "Egao no Kanata" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

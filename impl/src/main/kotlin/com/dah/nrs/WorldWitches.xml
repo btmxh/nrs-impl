@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-4639"
-        title = "World Witches Series"
+    <entry id="F-VGMDB-4639" title="World Witches Series">
 
-        <entry>
-            id = "A-MAL-3667"
-            title = "Strike Witches" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-3667" title="Strike Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 3179 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -22,9 +18,7 @@
             Visual(VisualKind.Animated, 0.2, 0.75)
         </entry>
 
-        <entry>
-            id = "A-MAL-32866"
-            title = "Brave Witches" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-32866" title="Brave Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 32866 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 11887 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20454 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -47,9 +41,7 @@
             Visual(VisualKind.Animated, 0.3, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-38006"
-            title = "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38006" title="Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38006 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44227 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103118 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -79,9 +71,7 @@
             FeatureMusic("M-VGMDB-AL-121418")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-116433"
-            title = "My Shining Light / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-116433" title="My Shining Light / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
             <entry id="$-1">
@@ -98,9 +88,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-108019"
-            title = "Sora ni Chikau kara / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-108019" title="Sora ni Chikau kara / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
             <entry id="$-1">
@@ -110,9 +98,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-120491"
-            title = "WONDERFUL WORLD / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120491" title="WONDERFUL WORLD / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.75, 0.15)
 
             <entry id="$-1">
@@ -123,9 +109,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-120492"
-            title = "Watashi to Minna no Uta / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120492" title="Watashi to Minna no Uta / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             <entry id="$-1">
@@ -139,9 +123,7 @@
         <!-- W witches -->
         <!-- the carrier (not atelier reference) of post-modern culture -->
         <!-- (sasuga the mfs who are living rent-free in rst territory) -->
-        <entry>
-            id = "M-VGMDB-AL-121418"
-            title = "LUMINOUS WITCHES CHARACTER SONG CD vol.3" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-121418" title="LUMINOUS WITCHES CHARACTER SONG CD vol.3"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
             <entry id="$-5">
@@ -151,9 +133,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-31409"
-            title = "Strike Witches Gekijouban Original Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-31409" title="Strike Witches Gekijouban Original Soundtrack"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.4)
 
@@ -166,9 +146,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-20221009T085407"
-        title = "- 約束の空へ ～私のいた場所～(Soleily Remix)"
+    <entry id="M-20221009T085407" title="- 約束の空へ ～私のいた場所～(Soleily Remix)">
 
         Music(0.6)
         <!-- Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0 -->

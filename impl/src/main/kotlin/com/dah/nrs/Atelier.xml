@@ -60,9 +60,7 @@
             contributors["G-VGMDB-1880"] = 0.8
         }
 
-        <entry>
-            id = "A-MAL-21167"
-            title = "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-21167" title="Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21167 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8091 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20506 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -129,9 +127,7 @@
             KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.25)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-45361"
-            title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-45361" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
             <entry id="$-1">
@@ -170,9 +166,7 @@
             ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
         </entry>
 
-        <entry>
-            id = "G-VGMDB-1090"
-            title = "Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi"
+        <entry id="G-VGMDB-1090" title="Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi">
             <!-- "not even at the start line" -->
 
 <!--            bestGirl = "Harry Maguire" -->
@@ -188,9 +182,7 @@
             NEI(0.8, Emotion.AU to 0.5, Emotion.AP to 0.5)
         </entry>
 
-        <entry>
-            id = "G-VGMDB-1880"
-            title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~"
+        <entry id="G-VGMDB-1880" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~">
             <!-- fucking finally -->
 
             bestGirl = "Escha Malier" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -204,9 +196,7 @@
             ConsumedProgress(EntryStatus.OnHold, 1.0, 80.hours)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-45607"
-            title = "Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-45607" title="Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.3)
             <entry id="$-4">
@@ -216,9 +206,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-59535"
-            title = "Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-59535" title="Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
             <entry id="$-9">
@@ -231,9 +219,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-38558"
-            title = "Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-38558" title="Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-8">
                 title = "Sky of Twilight" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

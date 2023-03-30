@@ -2,9 +2,7 @@
 
 <!-- imagine losing to a contentless franchise xddddddddddddd -->
 <document>
-    <entry>
-        title = "Shingeki no Kyojin"
-        id = "F-VGMDB-2931"
+    <entry id="F-VGMDB-2931" title="Shingeki no Kyojin">
 
         <!-- please fuck off (look at the comment section) -->
         <!-- https://www.youtube.com/watch?v=kbYoJNLQEiU -->
@@ -15,9 +13,7 @@
             contributors["A-MAL-38524"] = 0.25
         }
 
-        <entry>
-            id = "A-MAL-16498"
-            title = "Shingeki no Kyojin" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-16498" title="Shingeki no Kyojin"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7442 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -27,9 +23,7 @@
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
 
-        <entry>
-            id = "A-MAL-25777"
-            title = "Shingeki no Kyojin Season 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-25777" title="Shingeki no Kyojin Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 25777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20958 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -39,9 +33,7 @@
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
 
-        <entry>
-            id = "A-MAL-35760"
-            title = "Shingeki no Kyojin Season 3" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-35760" title="Shingeki no Kyojin Season 3"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13569 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99147 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -56,9 +48,7 @@
 
         <!-- aged well lmfao after the seishun wa non-stop incident -->
         <!-- xddddddddddddddddddddd -->
-        <entry>
-            id = "A-MAL-38524"
-            title = "Shingeki no Kyojin Season 3 Part 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38524" title="Shingeki no Kyojin Season 3 Part 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104578 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

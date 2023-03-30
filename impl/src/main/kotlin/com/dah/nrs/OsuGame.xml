@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "M-VGMDB-AR-12225"
-        title = "xi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-12225" title="xi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <entry>
-            id = "M-VGMDB-AL-34269"
-            title = "Parousia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-34269" title="Parousia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.15, 0.4)
 
@@ -30,9 +26,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-20220410T181408"
-        title = "United (L.A.O.S Remix)"
+    <entry id="M-20220410T181408" title="United (L.A.O.S Remix)">
 
         <!-- we kicked a kid, united -->
         <!-- r/osuplace stuff -->
@@ -44,9 +38,7 @@
         MusicConsumedProgress("4:42") <!-- impl_overridden -->
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-49508"
-        title = "Tsukinami / Kanon Wakeshima" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-49508" title="Tsukinami / Kanon Wakeshima"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.25, 0.5)
         <entry id="$-2">
@@ -57,9 +49,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-79187"
-        title = "Kisses and Kills / THE ORAL CIGARETTES" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-79187" title="Kisses and Kills / THE ORAL CIGARETTES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
         <entry id="$-1">
@@ -69,9 +59,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-52234"
-        title = "HANASAKI WORK SPRING! COMPLETE SOUNDTRACK" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-52234" title="HANASAKI WORK SPRING! COMPLETE SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.5)
         <entry id="$-1">
@@ -83,9 +71,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-33518"
-        title = "Irotoridori no Hikari Theme Songs Plus" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-33518" title="Irotoridori no Hikari Theme Songs Plus"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
         <entry id="$-2">
@@ -95,9 +81,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-78595"
-        title = "AstralAir no Shiroki Towa - ETERNAL BEST -" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-78595" title="AstralAir no Shiroki Towa - ETERNAL BEST -"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
@@ -120,9 +104,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-66742"
-        title = "HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-66742" title="HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
         <entry id="$-1">
@@ -132,9 +114,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-79717"
-        title = "Shirokoi Sakura*Gram THEME SONG COLLECTION! 4" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-79717" title="Shirokoi Sakura*Gram THEME SONG COLLECTION! 4"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
         <entry id="$-1">
@@ -144,9 +124,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-117099"
-        title = "HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-117099" title="HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
         <entry id="$-1">
@@ -157,9 +135,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -167,9 +143,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -177,9 +151,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -187,9 +159,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -197,9 +167,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -207,9 +175,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -217,9 +183,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -227,9 +191,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -237,9 +199,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -247,9 +207,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -257,9 +215,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -267,9 +223,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -277,9 +231,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -287,9 +239,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -297,9 +247,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -307,9 +255,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -317,9 +263,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -327,9 +271,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -337,9 +279,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -347,9 +287,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -357,9 +295,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -367,9 +303,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -377,9 +311,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -387,9 +319,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-116264"
-        title = "LEVEL / yanaginagi × THE SIXTH LIE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-116264" title="LEVEL / yanaginagi × THE SIXTH LIE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-1">
             title = "LEVEL" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -397,9 +327,7 @@
             Music(0.65)
             OsuSong(personal = 0.25, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -407,9 +335,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -417,9 +343,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -427,9 +351,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -437,9 +359,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -447,9 +367,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -457,9 +375,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -467,13 +383,9 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-85759"
-        title = "WONDERFUL WONDER / EDOGA-SULLIVAN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-85759" title="WONDERFUL WONDER / EDOGA-SULLIVAN"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.6, 0.4)
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -481,9 +393,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -491,9 +401,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -501,9 +409,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -511,9 +417,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -521,9 +425,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -531,9 +433,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -541,9 +441,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -551,9 +449,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -561,9 +457,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -571,9 +465,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -581,9 +473,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -591,9 +481,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -601,9 +489,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -611,9 +497,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -621,9 +505,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -631,9 +513,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -641,9 +521,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -651,9 +529,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -661,9 +537,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -671,9 +545,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -681,9 +553,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -691,9 +561,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -701,9 +569,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -711,9 +577,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -721,9 +585,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -731,9 +593,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -741,9 +601,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -751,9 +609,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -761,9 +617,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -771,9 +625,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -781,9 +633,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -791,9 +641,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -801,9 +649,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -811,9 +657,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -821,9 +665,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -831,9 +673,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -841,9 +681,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -851,9 +689,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -861,9 +697,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -871,9 +705,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -881,9 +713,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -891,17 +721,13 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-20221202T193602"
-        title = "Hitokoto no Kyori"
+    </entry>     <entry id="M-20221202T193602" title="Hitokoto no Kyori">
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.45)
         OsuSong(personal = 0.5, community = 0.0)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/667290 -->
         MusicConsumedProgress("3:48")
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -909,9 +735,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -919,9 +743,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -929,9 +751,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -939,9 +759,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -949,9 +767,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -959,9 +775,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -969,9 +783,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -979,9 +791,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -989,9 +799,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -999,18 +807,14 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-20221202T191512"
-        title = "First Storm"
+    </entry>     <entry id="M-20221202T191512" title="First Storm">
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.5)
         OsuSong(personal = 0.75, community = 0.5)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/696175 -->
         MusicConsumedProgress("3:48")
         KoikakeNEI(0.5, 0.8, Emotion.CP to 0.5, Emotion.MP to 0.5)
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1018,9 +822,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1028,9 +830,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1038,9 +838,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1048,9 +846,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1058,9 +854,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1068,9 +862,7 @@
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
-    </entry>n    <entry>
-        id = "M-VGMDB-AL-99204"
-        title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
         <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -1083,9 +875,7 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1211809 -->
         MusicConsumedProgress("3:32")
     }
-    <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1096,9 +886,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>    <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>    <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1109,9 +897,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1122,9 +908,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1135,9 +919,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1148,9 +930,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1161,9 +941,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1174,9 +952,7 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         </entry>
-    </entry>     <entry>
-        id = "M-VGMDB-AL-74120"
-        title = "Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    </entry>     <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) & Erika (CV. Anju Inami) [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -1196,9 +972,7 @@
         </entry>
     }
 
-    <entry>
-        id = "M-20221224T221424"
-        title = "Lionheart"
+    <entry id="M-20221224T221424" title="Lionheart">
 
         <!-- Length source: https://open.spotify.com/album/6CqNBwcHMterjF1qMiNmcY -->
         MusicConsumedProgress("4:38")
@@ -1209,9 +983,7 @@
         <!-- This cross will lead to light 💡 Follow Richard Lionheart 🙏 -->
     </entry>
 
-    <entry>
-        id = "M-20221224T221533"
-        title = "Glory Days"
+    <entry id="M-20221224T221533" title="Glory Days">
 
         <!-- Length source: https://fellowshipmetal.bandcamp.com/album/the-saberlight-chronicles -->
         MusicConsumedProgress("4:53")

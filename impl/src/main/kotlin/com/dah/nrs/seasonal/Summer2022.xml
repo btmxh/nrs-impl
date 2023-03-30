@@ -7,9 +7,7 @@
     <!-- goodbye mr teppen and prima doll lol -->
     <!-- (the prima doll incident) -->
 
-    <entry>
-        id = "A-MAL-50760"
-        title = "Teppen!!!!!!!!!!!!!!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50760" title="Teppen!!!!!!!!!!!!!!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 50760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 45729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 143417 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -26,9 +24,7 @@
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
     </entry>
 
-    <entry>
-        id = "A-MAL-41589"
-        title = "Tokyo Mew Mew New ♡" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 41589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 43098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 117196 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -48,9 +44,7 @@
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     </entry>
 
-    <entry>
-        id = "A-MAL-50917"
-        title = "Prima Doll" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50917" title="Prima Doll"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 50917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 45812 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 144509 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -80,9 +74,7 @@
         <!-- kusunoki tomori - the prima doll destroyer -->
     </entry>
 
-    <entry>
-        id = "A-MAL-49470"
-        title = "Mamahaha no Tsurego ga Motokano datta" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-49470" title="Mamahaha no Tsurego ga Motokano datta"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 49470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 44913 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 136934 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -112,9 +104,7 @@
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     </entry>
 
-    <entry>
-        id = "A-MAL-50999"
-        title = "Extreme Hearts" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50999" title="Extreme Hearts"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 50999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 45855 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 145001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -147,9 +137,7 @@
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
     </entry>
 
-    <entry>
-        id = "A-MAL-50221"
-        title = "Shine Post" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50221" title="Shine Post"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 50221 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 45389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 140753 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

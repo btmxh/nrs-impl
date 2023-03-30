@@ -2,13 +2,9 @@
 
 <document>
     <!-- i hate himeno sena -->
-    <entry>
-        id = "F-VGMDB-8433"
-        title = "Nakitai Watashi wa Neko wo Kaburu"
+    <entry id="F-VGMDB-8433" title="Nakitai Watashi wa Neko wo Kaburu">
 
-        <entry>
-            id = "A-MAL-41168"
-            title = "Nakitai Watashi wa Neko wo Kaburu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-41168" title="Nakitai Watashi wa Neko wo Kaburu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 41168 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42965 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 114963 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -26,9 +22,7 @@
             FeatureMusic("M-VGMDB-AL-99082-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-99082"
-            title = "Hana ni Bourei / Yorushika" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-99082" title="Hana ni Bourei / Yorushika"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
 
             <entry id="$-1">

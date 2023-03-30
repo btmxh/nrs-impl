@@ -1,9 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-4168"
-        title = "NEW GAME!"
+    <entry id="F-VGMDB-4168" title="NEW GAME!">
 
         <!-- humor -->
         AEI(0.25, Emotion.AP) {
@@ -22,9 +20,7 @@
             contributors["A-MAL-13759"] = 0.5
         }
 
-        <entry>
-            id = "A-MAL-31953"
-            title = "New Game!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-31953" title="New Game!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 31953 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 11467 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21455 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -38,9 +34,7 @@
             FeatureMusic("M-VGMDB-AL-58627-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-34914"
-            title = "New Game!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-34914" title="New Game!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34914 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13236 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -54,9 +48,7 @@
             FeatureMusic("M-VGMDB-AL-68225-1")
         </entry>
 
-        <entry>
-            id = "M-20220317T064137-2"
-            title = "fourfolium"
+        <entry id="M-20220317T064137-2" title="fourfolium">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -65,9 +57,7 @@
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-58627"
-            title = "Now Loading!!!! / fourfolium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-58627" title="Now Loading!!!! / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             <entry id="$-1">
@@ -78,9 +68,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-68225"
-            title = "STEP by STEP UP↑↑↑↑ / fourfolium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-68225" title="STEP by STEP UP↑↑↑↑ / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             <entry id="$-1">

@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-3305"
-        title = "Saenai Heroine no Sodatekata"
+    <entry id="F-VGMDB-3305" title="Saenai Heroine no Sodatekata">
 
-        <entry>
-            id = "M-VGMDB-AL-48199"
-            title = "Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-48199" title="Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
@@ -36,9 +32,7 @@
             contributors["A-MAL-30727"] = 0.5
         }
 
-        <entry>
-            id = "A-MAL-23277"
-            title = "Saenai Heroine no Sodatekata" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-23277" title="Saenai Heroine no Sodatekata"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23277 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8406 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20657 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -52,9 +46,7 @@
             Visual(VisualKind.Animated, 0.5, 0.3)
         </entry>
 
-        <entry>
-            id = "A-MAL-30727"
-            title = "Saenai Heroine no Sodatekata ♭" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-30727" title="Saenai Heroine no Sodatekata ♭"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 30727 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 10909 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21180 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -65,9 +57,7 @@
             Visual(VisualKind.Animated, 0.5, 0.3)
         </entry>
 
-        <entry>
-            id = "A-MAL-36885"
-            title = "Saenai Heroine no Sodatekata Fine" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-36885" title="Saenai Heroine no Sodatekata Fine"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 36885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 14050 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100675 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -80,18 +70,14 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-20220117T170733-1"
-        title = "Colorful. (Asterisk DnB Remix)"
+    <entry id="M-20220117T170733-1" title="Colorful. (Asterisk DnB Remix)">
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
         Music(0.275)
         MusicConsumedProgress("5:12") <!-- impl_overridden -->
     </entry>
 
-    <entry>
-        id = "M-20220117T170733-2"
-        title = "Colorful. (kamaboko remix)"
+    <entry id="M-20220117T170733-2" title="Colorful. (kamaboko remix)">
 
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
         Music(0.3)

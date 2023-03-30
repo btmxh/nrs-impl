@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-20220823T083245"
-        title = "Isekai Quartet"
+    <entry id="F-20220823T083245" title="Isekai Quartet">
 
-        <entry>
-            id = "A-MAL-38472"
-            title = "Isekai Quartet" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38472" title="Isekai Quartet"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38472 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42032 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 104454 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -24,9 +20,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.5, 12)
         </entry>
 
-        <entry>
-            id = "A-MAL-39988"
-            title = "Isekai Quartet 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-39988" title="Isekai Quartet 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39988 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42410 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 110178 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

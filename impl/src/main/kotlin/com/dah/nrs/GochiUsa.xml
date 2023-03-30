@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-3939"
-        title = "Gochuumon wa Usagi Desu ka?"
+    <entry id="F-VGMDB-3939" title="Gochuumon wa Usagi Desu ka?">
 
-        <entry>
-            id = "M-VGMDB-AL-44890"
-            title = "Daydream café / Petit Rabbit's" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-44890" title="Daydream café / Petit Rabbit's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
@@ -22,9 +18,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220116T062502"
-            title = "Petit Rabbit's"
+        <entry id="M-20220116T062502" title="Petit Rabbit's">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -32,9 +26,7 @@
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-55364"
-            title = "Gochuumon wa Usagi Desu ka?? Chino Character Song Album: cup of chino" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-55364" title="Gochuumon wa Usagi Desu ka?? Chino Character Song Album: cup of chino"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
             <!-- this also includes mahou shoujo chino -->
@@ -50,9 +42,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-54418"
-            title = "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-54418" title="Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
             <entry id="$-1">
@@ -62,9 +52,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "A-MAL-21273"
-            title = "Gochuumon wa Usagi Desu ka?" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-21273" title="Gochuumon wa Usagi Desu ka?"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 21273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8095 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20517 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

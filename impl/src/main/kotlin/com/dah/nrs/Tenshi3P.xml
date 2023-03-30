@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-5549"
-        title = "Tenshi no 3P!"
+    <entry id="F-VGMDB-5549" title="Tenshi no 3P!">
 
-        <entry>
-            id = "A-MAL-34177"
-            title = "Tenshi no 3P!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-34177" title="Tenshi no 3P!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 34177 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12624 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 97683 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -23,9 +19,7 @@
             FeatureMusic("M-VGMDB-AL-69018-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-68189"
-            title = "Habataki no Birthday / Baby's breath" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-68189" title="Habataki no Birthday / Baby's breath"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1">
@@ -35,9 +29,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-69018"
-            title = "Kusabi / Baby's breath" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-69018" title="Kusabi / Baby's breath"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1">
                 title = "Kusabi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

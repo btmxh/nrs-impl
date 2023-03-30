@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-2520"
-        title = "Love Lab"
+    <entry id="F-VGMDB-2520" title="Love Lab">
 
-        <entry>
-            id = "A-MAL-16353"
-            title = "Love Lab" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-16353" title="Love Lab"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 16353 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7410 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 16353 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -21,9 +17,7 @@
             FeatureMusic("M-VGMDB-AL-40263-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-40263"
-            title = "Love Lab Vol.2 Bonus CD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-40263" title="Love Lab Vol.2 Bonus CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
             <entry id="$-1">
                 title = "Best FriendS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

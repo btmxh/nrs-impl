@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-3345"
-        title = "Shigatsu wa Kimi no Uso"
+    <entry id="F-VGMDB-3345" title="Shigatsu wa Kimi no Uso">
 
-        <entry>
-            id = "A-MAL-23273"
-            title = "Shigatsu wa Kimi no Uso" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-23273" title="Shigatsu wa Kimi no Uso"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8403 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20665 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -42,9 +38,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 22)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-49046"
-            title = "Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-49046" title="Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-1">
@@ -63,9 +57,7 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AR-9069"
-        title = "Masaru Yokoyama" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-9069" title="Masaru Yokoyama"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains("M-VGMDB-AL-49046")
     </entry>

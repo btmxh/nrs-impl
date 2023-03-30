@@ -1,9 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-11581"
-        title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    <entry id="F-VGMDB-11581" title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e">
 
         AKMEraPart2(0.6) {
             contributors["A-MAL-35507"] = 0.5
@@ -15,9 +13,7 @@
             contributors["A-MAL-51096"] = 0.5
         }
 
-        <entry>
-            id = "A-MAL-35507"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-35507" title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35507 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13503 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 98659 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -32,9 +28,7 @@
             AEI(0.5, Emotion.AP)
         </entry>
 
-        <entry>
-            id = "A-MAL-51096"
-            title = "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-51096" title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 51096 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 45925 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 145545 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-10006"
-        title = "Tensai Ouji no Akaji Kokka Saiseijutsu"
+    <entry id="F-VGMDB-10006" title="Tensai Ouji no Akaji Kokka Saiseijutsu">
 
-        <entry>
-            id = "A-MAL-47159"
-            title = "Tensai Ouji no Akaji Kokka Saisei Jutsu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-47159" title="Tensai Ouji no Akaji Kokka Saisei Jutsu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 47159 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 44020 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 129190 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -31,9 +27,7 @@
             KilledBy("F-VGMDB-4499", 0.05, 0.2)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-116264"
-            title = "LEVEL / yanaginagi × THE SIXTH LIE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-116264" title="LEVEL / yanaginagi × THE SIXTH LIE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 

@@ -2,16 +2,12 @@
 
 <document>
     <!-- original of irodori covers -->
-    <entry>
-        id = "M-VGMDB-AR-9553"
-        title = "cosMo@bousouP" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains("M-VGMDB-AL-91187-35")
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-91187"
-        title = "CHUNITHM ALL JUSTICE COLLECTION ep.I" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.05, 0.5)
 
@@ -23,13 +19,9 @@
         </entry>
     </entry>
 
-    <entry>
-        id = "F-VGMDB-10978"
-        title = "Irodorimidori"
+    <entry id="F-VGMDB-10978" title="Irodorimidori">
 
-        <entry>
-            id = "A-MAL-50267"
-            title = "Irodorimidori" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-50267" title="Irodorimidori"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 50267 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 45577 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 140950 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -40,9 +32,7 @@
             Visual(VisualKind.AnimatedShort, 0.4, 0.2)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-93299"
-            title = "GO!GO! Chunithm♥Endmark / IRODORIMIDORI" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-93299" title="GO!GO! Chunithm♥Endmark / IRODORIMIDORI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.35)
 
@@ -55,16 +45,12 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220130T165739-2"
-            title = "Maware! GO! GO! CHUNITHM"
+        <entry id="M-20220130T165739-2" title="Maware! GO! GO! CHUNITHM">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
-            <entry>
-                id = "M-20220130T165739-3"
-                title = "Bokura no Freedom DiVE↓"
+            <entry id="M-20220130T165739-3" title="Bokura no Freedom DiVE↓">
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.45)
 
@@ -73,9 +59,7 @@
                 MusicConsumedProgress("5:16") <!-- impl_overridden -->
             </entry>
 
-            <entry>
-                id = "M-20220130T165739-4"
-                title = "Zero kara hajimeru Brain Power"
+            <entry id="M-20220130T165739-4" title="Zero kara hajimeru Brain Power">
 
                 <!-- Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc -->
                 Music(0.25)
@@ -83,9 +67,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220130T165739-1"
-            title = "Irodorimidori"
+        <entry id="M-20220130T165739-1" title="Irodorimidori">
             ValidatorSuppress("dah-entry-no-consumed")
 
             <!-- times 0.6 because they are all covers -->

@@ -1,9 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-9358"
-        title = "Idoly Pride"
+    <entry id="F-VGMDB-9358" title="Idoly Pride">
 
         <!-- A moment of silence for Ms. Kanda Sayaka -->
 
@@ -26,9 +24,7 @@
 
 
 
-        <entry>
-            id = "A-MAL-40842"
-            title = "Idoly Pride" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-40842" title="Idoly Pride"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40842 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42868 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 113814 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -49,9 +45,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-106487"
-            title = "IDOLY PRIDE / Hoshimi Production" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
             <entry id="$-1">

@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-3554"
-        title = "Charlotte"
+    <entry id="F-VGMDB-3554" title="Charlotte">
 
-        <entry>
-            id = "A-MAL-28999"
-            title = "Charlotte" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-28999" title="Charlotte"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 28999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 10103 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20997 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

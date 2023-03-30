@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-7865"
-        title = "Koisuru Asteroid"
+    <entry id="F-VGMDB-7865" title="Koisuru Asteroid">
 
-        <entry>
-            id = "A-MAL-39388"
-            title = "Koisuru Asteroid" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-39388" title="Koisuru Asteroid"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39388 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 108092 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -24,9 +20,7 @@
         Contains("M-VGMDB-AL-93338-1")
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-93338"
-        title = "Yozora / Minori Suzuki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-93338" title="Yozora / Minori Suzuki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.3, 0.2)
 

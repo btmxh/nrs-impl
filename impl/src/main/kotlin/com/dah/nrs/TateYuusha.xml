@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-7166"
-        title = "Tate no Yuusha no Nariagari"
+    <entry id="F-VGMDB-7166" title="Tate no Yuusha no Nariagari">
 
-        <entry>
-            id = "A-MAL-35790"
-            title = "Tate no Yuusha no Nariagari" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-35790" title="Tate no Yuusha no Nariagari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 35790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 13593 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 99263 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -24,9 +20,7 @@
             Visual(VisualKind.Animated, 0.5, 0.2)
         </entry>
 
-        <entry>
-            id = "A-MAL-40356"
-            title = "Tate no Yuusha no Nariagari Season 2" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-40356" title="Tate no Yuusha no Nariagari Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40356 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 111321 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

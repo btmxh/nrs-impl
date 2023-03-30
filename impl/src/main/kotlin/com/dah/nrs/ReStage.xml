@@ -100,13 +100,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         contributors["A-MAL-38009"] = 0.75
     }
 
-    <entry>
-        id = "F-VGMDB-7059"
-        title = "Re:STAGE!"
+    <entry id="F-VGMDB-7059" title="Re:STAGE!">
 
-        <entry>
-            id = "A-MAL-38009"
-            title = "Re:Stage! Dream Days♪" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38009" title="Re:Stage! Dream Days♪"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38009 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42280 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103048 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -245,9 +241,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78536"
-            title = "Startin' My Re:STAGE!! / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.6)
 
@@ -262,9 +256,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78534"
-            title = "Remembers! / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78534" title="Remembers! / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
@@ -290,9 +282,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78575"
-            title = "Natsu no Yakusoku / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78575" title="Natsu no Yakusoku / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <!-- 367days background lmfao -->
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
@@ -304,9 +294,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78532"
-            title = "Akogare Future Sign / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78532" title="Akogare Future Sign / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
 
@@ -326,9 +314,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Contains("M-VGMDB-AL-78575-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78530"
-            title = "KiRaRhythm / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78530" title="KiRaRhythm / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
@@ -349,9 +335,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Contains("M-VGMDB-AL-78536-2")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78516"
-            title = "SENSEI Sensation / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78516" title="SENSEI Sensation / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.25, 0.6)
             <entry id="$-1">
@@ -365,9 +349,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78764"
-            title = "367Days / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78764" title="367Days / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
@@ -391,9 +373,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-84229"
-            title = "HAPPY TYPHOON / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-84229" title="HAPPY TYPHOON / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             <entry id="$-1">
@@ -415,9 +395,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-86622"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-86622" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
@@ -439,9 +417,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-89363"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-89363" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains("M-VGMDB-AL-78516-1")
@@ -510,9 +486,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-90208"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-90208" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             <entry id="$-5">
@@ -525,9 +499,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AR-30829"
-            title = "KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-30829" title="KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-78536")
@@ -545,9 +517,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-89364"
-            title = "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-89364" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
@@ -564,9 +534,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78520"
-            title = "Purple Rays / ortensia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78520" title="Purple Rays / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.55)
 
@@ -588,9 +556,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78339"
-            title = "*Heart Confusion* / ortensia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78339" title="*Heart Confusion* / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.25, 0.65)
             <entry id="$-1">
@@ -613,9 +579,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-82983"
-            title = "Pullulate / ortensia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-82983" title="Pullulate / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             Contains("M-VGMDB-AL-78339-1")
@@ -716,9 +680,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <!-- (like 20-30 days won't do much for something that's longer than 300 days) -->
         Meme(0.3, numDays("2022-01-01"))
 
-        <entry>
-            id = "M-VGMDB-AL-82369"
-            title = "Q.E.D. / Stellamaris" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
@@ -739,9 +701,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220117T170733-5"
-            title = "Stellamaris"
+        <entry id="M-20220117T170733-5" title="Stellamaris">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -750,9 +710,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
         </entry>
 
-        <entry>
-            id = "M-20220117T170733-6"
-            title = "TROIS ANGES"
+        <entry id="M-20220117T170733-6" title="TROIS ANGES">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -760,9 +718,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-78515"
-            title = "Raise Your Fist / Tetrarkhia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78515" title="Raise Your Fist / Tetrarkhia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
@@ -775,9 +731,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220117T170733-7"
-            title = "Tetrarkhia"
+        <entry id="M-20220117T170733-7" title="Tetrarkhia">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -804,9 +758,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- (ye the dude who make dadadadadada) -->
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-104673"
-            title = "Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-104673" title="Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- aka method appreciation album -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
@@ -878,9 +830,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <!-- these new songs are "saved" for future use, therefore their -->
         <!-- scores are not that high rn -->
         <!-- (except for the absolute banger clematis) -->
-        <entry>
-            id = "M-VGMDB-AL-120845"
-            title = "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120845" title="Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- https://linkco.re/5XDmDcHp -->
             <!-- aka sussin city -->
@@ -897,9 +847,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-120844"
-            title = "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120844" title="Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- https://linkco.re/AM0HVHA5 -->
             <!-- aka mismatched melody -->
@@ -917,9 +865,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-120842"
-            title = "Unison Monologue / Tetrarkhia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120842" title="Unison Monologue / Tetrarkhia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- https://linkco.re/YShsnTEb -->
             <!-- aka the 330 bpm song but actually an alt-165 bpm one -->
 
@@ -940,9 +886,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-120836"
-            title = "Ginga no Shizuku / TROIS ANGES" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120836" title="Ginga no Shizuku / TROIS ANGES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- le gingachad seiyuu -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
@@ -955,9 +899,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-121168"
-            title = "Clematis / Stellamaris" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-121168" title="Clematis / Stellamaris"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- catjam tho -->
             <!-- no one's like the "intelligent update", no one's like the king (clap x2) -->
             <!-- shining like the dawn, scared the whole high school (clap x2) -->
@@ -979,9 +921,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-122232"
-            title = "Ideal/Idol / KiRaRe" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-122232" title="Ideal/Idol / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- inb4 the "i'd like to interject for a moment, -->
             <!-- what ur refering to as idol, is in fact ideal/idol..." pasta -->
 
@@ -997,9 +937,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-20220317T064137-4"
-            title = "Re:STAGE! ALL IDOL"
+        <entry id="M-20220317T064137-4" title="Re:STAGE! ALL IDOL">
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
@@ -1007,9 +945,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-122926"
-            title = "Re:STAGE! Prism Step Concept Mini Album: Reboot" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-122926" title="Re:STAGE! Prism Step Concept Mini Album: Reboot"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- pre-register the new album now -->
             <!-- https://twitter.com/rst_project/status/1550075801852588032 -->
 
@@ -1041,9 +977,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-124585"
-            title = "Glass Wings / Sango Misaki & Kanade Hokaze" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-124585" title="Glass Wings / Sango Misaki & Kanade Hokaze"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             <entry id="$-1">
@@ -1056,9 +990,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-124586"
-            title = "Artemis / Ruka Ichijou & Nagisa Himura" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-124586" title="Artemis / Ruka Ichijou & Nagisa Himura"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             <entry id="$-1">
@@ -1071,9 +1003,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-124587"
-            title = "Imperial Stage / Aone Shikimiya & Amaha Shiratori" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-124587" title="Imperial Stage / Aone Shikimiya & Amaha Shiratori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             <entry id="$-1">
@@ -1087,9 +1017,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-125354"
-            title = "Rainbow FlowerS / ortensia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-125354" title="Rainbow FlowerS / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
             <entry id="$-1">
@@ -1111,9 +1039,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
         </entry>
 
-        <entry>
-            id = "GF-VGMDB-7059"
-            title = "Re:Stage! Prism Step"
+        <entry id="GF-VGMDB-7059" title="Re:Stage! Prism Step">
 
             <!-- this game has good art ngl -->
             <!-- some good card id: -->
@@ -1159,9 +1085,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     <!-- it's what all idol fans feel, the feeling of wanting the girls to success -->
     <!-- " - me in the rst anime part -->
     <!-- this is literally the plot of this anime lmfao -->
-    <entry>
-        id = "A-MAL-37890"
-        title = "Oshi ga Budoukan Ittekuretara Shinu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-37890" title="Oshi ga Budoukan Ittekuretara Shinu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniDB = 37890 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idKitsu = 41309 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
         idAniList = 104391 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -1186,9 +1110,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         contributors["GF-VGMDB-7059"] = 0.05
     }
 
-    <entry>
-        id = "M-20220507T131634"
-        title = "Re:STAGE! Songs Compilation"
+    <entry id="M-20220507T131634" title="Re:STAGE! Songs Compilation">
         <!-- kek 69 min song comp -->
         <!-- TODO: add the 48 songs here -->
 

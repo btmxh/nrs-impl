@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-7481"
-        title = "Bokutachi wa Benkyou ga Dekinai"
+    <entry id="F-VGMDB-7481" title="Bokutachi wa Benkyou ga Dekinai">
 
-        <entry>
-            id = "A-MAL-38186"
-            title = "Bokutachi wa Benkyou ga Dekinai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38186" title="Bokutachi wa Benkyou ga Dekinai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 38186 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41956 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 103900 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -22,9 +18,7 @@
             FeatureMusic("M-VGMDB-AL-85537-1")
         </entry>
 
-        <entry>
-            id = "A-MAL-40004"
-            title = "Bokutachi wa Benkyou ga Dekinai!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-40004" title="Bokutachi wa Benkyou ga Dekinai!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40004 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42414 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 110229 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -41,9 +35,7 @@
             FeatureMusic("M-VGMDB-AL-88884-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-85537"
-            title = "Seishun Seminar/Never Give It Up!! / Study" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-85537" title="Seishun Seminar/Never Give It Up!! / Study"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
@@ -55,9 +47,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-88884"
-            title = "Can now, Can now / Study" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-88884" title="Can now, Can now / Study"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 

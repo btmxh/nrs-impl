@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-8677"
-        title = "Hataraku Saibou"
+    <entry id="F-VGMDB-8677" title="Hataraku Saibou">
 
-        <entry>
-            id = "A-MAL-37141"
-            title = "Hataraku Saibou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-37141" title="Hataraku Saibou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37141 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 14212 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 100977 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

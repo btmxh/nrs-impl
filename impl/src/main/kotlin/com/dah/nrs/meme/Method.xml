@@ -1,9 +1,7 @@
 <?xml-model href="../../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "O-20220415T155427"
-        title = "Kizuna Method"
+    <entry id="O-20220415T155427" title="Kizuna Method">
         bestGirl = "method" <!-- impl_overridden -->
 
         RSTSB69DuopolyEra(0.5)

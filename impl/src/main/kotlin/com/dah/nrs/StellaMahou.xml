@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-6424"
-        title = "Stella no Mahou"
+    <entry id="F-VGMDB-6424" title="Stella no Mahou">
 
-        <entry>
-            id = "A-MAL-32555"
-            title = "Stella no Mahou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-32555" title="Stella no Mahou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 32555 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 11756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21597 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -22,9 +18,7 @@
             FeatureMusic("M-VGMDB-AL-60899-1")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-60899"
-            title = "God Save The Girls / Shino Shimoji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-60899" title="God Save The Girls / Shino Shimoji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.2)
             <entry id="$-1">
                 title = "God Save The Girls" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

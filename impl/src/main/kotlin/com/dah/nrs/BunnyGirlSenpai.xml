@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-6852"
-        title = "Seishun Buta Yarou Series"
+    <entry id="F-VGMDB-6852" title="Seishun Buta Yarou Series">
 
-        <entry>
-            id = "A-MAL-37450"
-            title = "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-37450" title="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37450 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41056 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 101291 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -25,9 +21,7 @@
         Contains("M-VGMDB-AL-80253-1")
     </entry>
 
-    <entry>
-        id = "M-VGMDB-AL-80253"
-        title = "Kimi no Sei / the peggies" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-80253" title="Kimi no Sei / the peggies"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- tf is this lol -->
         Visual(VisualKind.AlbumArt, 0.1, 0.6)

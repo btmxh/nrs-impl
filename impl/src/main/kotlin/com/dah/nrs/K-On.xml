@@ -5,13 +5,9 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 }
 
 <document>
-    <entry>
-        id = "F-VGMDB-504"
-        title = "K-On!"
+    <entry id="F-VGMDB-504" title="K-On!">
 
-        <entry>
-            id = "M-VGMDB-AL-20118"
-            title = "Utauyo!!MIRACLE / HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-20118" title="Utauyo!!MIRACLE / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
@@ -25,9 +21,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-21146"
-            title = "HO-KAGO TEA TIME Second / HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-21146" title="HO-KAGO TEA TIME Second / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
@@ -39,9 +33,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-22848"
-            title = "Gohan wa Okazu/U&I / HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-22848" title="Gohan wa Okazu/U&I / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
@@ -52,9 +44,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AR-8870"
-            title = "HO-KAGO TEA TIME" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-8870" title="HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
                 Contains("M-VGMDB-AL-20118")
@@ -84,9 +74,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             contributors["A-MAL-32281"] = 0.15
         }
 
-        <entry>
-            id = "A-MAL-5680"
-            title = "K-On!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-5680" title="K-On!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 4240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -97,9 +85,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             `K-OnVisual`(VisualKind.Animated)
         </entry>
 
-        <entry>
-            id = "A-MAL-7791"
-            title = "K-On!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-7791" title="K-On!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 5124 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -112,9 +98,7 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
             `K-OnVisual`(VisualKind.Animated)
         </entry>
 
-        <entry>
-            id = "A-MAL-9617"
-            title = "K-On! Movie" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-9617" title="K-On! Movie"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 5810 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

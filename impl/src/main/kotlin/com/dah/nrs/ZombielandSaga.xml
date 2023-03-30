@@ -1,11 +1,7 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-9825"
-        title = "ZOMBIE LAND SAGA"
-        <entry>
-            id = "A-MAL-37976"
+    <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA"><entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
             title = "Zombieland Saga" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 37976 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 41459 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -19,9 +15,7 @@
             Visual(VisualKind.Animated, 0.4, 0.5)
         </entry>
 
-        <entry>
-            id = "A-MAL-40174"
-            title = "Zombieland Saga: Revenge" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-40174" title="Zombieland Saga: Revenge"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 40174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42467 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 110733 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -36,9 +30,7 @@
             FeatureMusic("M-VGMDB-AL-109367")
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-109367"
-            title = "Taiga yo Tomo ni Naite Kure/Nope!!!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-109367" title="Taiga yo Tomo ni Naite Kure/Nope!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-1">

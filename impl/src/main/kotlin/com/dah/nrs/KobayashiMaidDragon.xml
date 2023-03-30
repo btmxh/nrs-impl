@@ -1,13 +1,9 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-8954"
-        title = "Kobayashi-san Chi no Maid Dragon"
+    <entry id="F-VGMDB-8954" title="Kobayashi-san Chi no Maid Dragon">
 
-        <entry>
-            id = "M-VGMDB-AL-62516"
-            title = "Aozora no Rhapsody / fhána [Anime Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-62516" title="Aozora no Rhapsody / fhána [Anime Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
@@ -19,9 +15,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-110219"
-            title = "Ai no Supreme! / fhána [Anime Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-110219" title="Ai no Supreme! / fhána [Anime Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
@@ -34,9 +28,7 @@
             </entry>
         </entry>
 
-        <entry>
-            id = "A-MAL-33206"
-            title = "Kobayashi-san Chi no Maid Dragon" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-33206" title="Kobayashi-san Chi no Maid Dragon"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 33206 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 12243 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 21776 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

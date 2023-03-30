@@ -1,17 +1,13 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry>
-        id = "F-VGMDB-3274"
-        title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    <entry id="F-VGMDB-3274" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru.">
 
         Contains("M-VGMDB-AL-37932-1")
         Contains("M-VGMDB-AL-51516-1")
         Contains("M-VGMDB-AL-96288-1")
 
-        <entry>
-            id = "M-VGMDB-AL-37999"
-            title = "Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-37999" title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
@@ -33,9 +29,7 @@
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-51394"
-            title = "Everyday World / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-51394" title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
@@ -57,9 +51,7 @@
             }
         </entry>
 
-        <entry>
-            id = "M-VGMDB-AL-96290"
-            title = "Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) & Yui Yuigahama (CV: Nao Toyama)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-96290" title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) & Yui Yuigahama (CV: Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
@@ -108,9 +100,7 @@
             contributors["A-MAL-23847"] = 0.9
         }
 
-        <entry>
-            id = "A-MAL-14813"
-            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-14813" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 7169 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -128,9 +118,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
         </entry>
 
-        <entry>
-            id = "A-MAL-23847"
-            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-23847" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 23847 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 8478 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 20698 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -154,9 +142,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
         </entry>
 
-        <entry>
-            id = "A-MAL-39547"
-            title = "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-39547" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniDB = 39547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idKitsu = 42194 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             idAniList = 108489 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
