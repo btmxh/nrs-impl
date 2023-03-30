@@ -20,8 +20,7 @@
 
         <entry id="M-VGMDB-AL-60899" title="God Save The Girls / Shino Shimoji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.2)
-            <entry id="$-1">
-                title = "God Save The Girls" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="God Save The Girls"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
                 OsuSong(personal = 0.25, community = 0.0)

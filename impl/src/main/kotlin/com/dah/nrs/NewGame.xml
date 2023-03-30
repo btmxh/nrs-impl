@@ -60,9 +60,8 @@
         <entry id="M-VGMDB-AL-58627" title="Now Loading!!!! / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
-            <entry id="$-1">
-                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Now Loading!!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Now Loading!!!!">
+                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 OsuSong(personal = 0.4)
             </entry>
@@ -71,9 +70,8 @@
         <entry id="M-VGMDB-AL-68225" title="STEP by STEP UP↑↑↑↑ / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
-            <entry id="$-1">
-                MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "STEP by STEP UP↑↑↑↑" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="STEP by STEP UP↑↑↑↑">
+                MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- mankai step by step -->
                 <!-- this song is legendary af -->
                 Music(0.5)

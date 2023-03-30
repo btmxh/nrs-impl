@@ -10,9 +10,8 @@
         <entry id="M-VGMDB-AL-30302" title="Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
-            <entry id="$-2">
-                MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Mata Ashita" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="Mata Ashita">
+                MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
             </entry>
         </entry>
@@ -20,9 +19,8 @@
         <entry id="M-VGMDB-AL-24725" title="Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
-            <entry id="$-4">
-                MusicConsumedProgress("1:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Believing in Justice" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-4" title="Believing in Justice">
+                MusicConsumedProgress("1:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
             </entry>
         </entry>
@@ -30,9 +28,8 @@
         <entry id="M-VGMDB-AL-39170" title="Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
-            <entry id="$-2">
-                MusicConsumedProgress("2:50") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "and I'm home" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="and I'm home">
+                MusicConsumedProgress("2:50") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
             </entry>
         </entry>
@@ -44,9 +41,8 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "ケアレス" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="ケアレス">
+                MusicConsumedProgress("4:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>
@@ -57,9 +53,8 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Gomakashi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Gomakashi">
+                MusicConsumedProgress("4:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.65)
             </entry>
         </entry>
@@ -68,9 +63,8 @@
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("3:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Utsuroi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Utsuroi">
+                MusicConsumedProgress("3:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the game -->
                 <!-- browiec's Wisdom -->
                 <!-- Misunderstanding -->

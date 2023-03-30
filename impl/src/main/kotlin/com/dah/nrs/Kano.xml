@@ -15,8 +15,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.2, 0.5)
 
-                <entry id="$-1">
-                    title = "ハロ/ハワユ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="ハロ/ハワユ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:48") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.2)
                     NEI(0.1, Emotion.MP)
@@ -28,15 +27,13 @@
 
                 Visual(VisualKind.AlbumArt, 0.35, 0.4)
 
-                <entry id="$-6">
-                    MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "インタビュア" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-6" title="インタビュア">
+                    MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                     NEI(0.15, Emotion.CU)
                 </entry>
 
-                <entry id="$-11">
-                    title = "アイロニ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-11" title="アイロニ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.175)
                     NEI(0.15, Emotion.CU)
@@ -54,16 +51,14 @@
                     }
                 }
 
-                <entry id="$-6">
-                    title = "メリーメリー álbum ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-6" title="メリーメリー álbum ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:35") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                     NEI(0.25, Emotion.MP)
                 </entry>
 
-                <entry id="$-9">
-                    MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "World on Color" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-9" title="World on Color">
+                    MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.6)
                     NEI(0.2, Emotion.MP)
                     OsuSong(personal = 0.1, community = 0.0)
@@ -74,16 +69,14 @@
 
                 Visual(VisualKind.AlbumArt, 0.55, 0.45)
 
-                <entry id="$-1">
-                    title = "グッドナイトエヴリワン" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="グッドナイトエヴリワン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("5:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                     NEI(0.2, Emotion.CU)
                 </entry>
 
-                <entry id="$-8">
-                    MusicConsumedProgress("5:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "decide" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-8" title="decide">
+                    MusicConsumedProgress("5:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.2)
                     NEI(0.25, Emotion.CU)
                 </entry>
@@ -94,9 +87,8 @@
                 Visual(VisualKind.AlbumArt, 0.5, 0.4)
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Stella-rium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Stella-rium">
+                    MusicConsumedProgress("4:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.5)
                     NEI(0.5, Emotion.MP)
                 </entry>
@@ -107,8 +99,7 @@
                 Visual(VisualKind.AlbumArt, 0.2, 0.6)
                 Visual(VisualKind.AnimatedMV, 0.6, 0.4)
 
-                <entry id="$-1">
-                    title = "ディアブレイブ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="ディアブレイブ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.5)
                     NEI(0.1, Emotion.CU)
@@ -119,8 +110,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-                <entry id="$-1">
-                    title = "Prima Stella" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Prima Stella"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:26") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
                     Music(0.5)
@@ -129,8 +119,7 @@
 
                 Contains("M-VGMDB-AL-51254-1")
                 Contains("M-VGMDB-AL-54307-1")
-                <entry id="$-7">
-                    title = "Walk This Way!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-7" title="Walk This Way!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                     OsuSong(personal = 0.6, community = 0.3)
@@ -148,8 +137,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-                <entry id="$-6">
-                    title = "地球最後の告白を" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-6" title="地球最後の告白を"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
                     MusicConsumedProgress("4:33") <!-- impl_overridden -->
                     Music(0.3)
@@ -202,8 +190,7 @@
 <!--            } -->
 <!--        } -->
 
-                <entry id="$-1">
-                    title = "ハロ/ハワユ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="ハロ/ハワユ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:50") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <!-- the original MV is for the mix version -->
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
@@ -212,8 +199,7 @@
                     NEI(0.125, Emotion.MP)
                 </entry>
 
-                <entry id="$-2">
-                    title = "うたうたいのうた" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-2" title="うたうたいのうた"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.8)
                     NEI(0.15, Emotion.MP)
@@ -221,30 +207,26 @@
 
                 <!-- the best kano song ever. period. -->
                 <!-- also the fourth ayumu-era theme song -->
-                <entry id="$-3">
-                    MusicConsumedProgress("5:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "[It's not] World's end" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-3" title="[It's not] World's end">
+                    MusicConsumedProgress("5:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.5)
                     NEI(0.5, Emotion.CU)
                     KoikakeNEI(0.4, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
                 </entry>
 
-                <entry id="$-4">
-                    title = "「ねぇ。」" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-4" title="「ねぇ。」"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("6:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.2)
                     NEI(0.25, Emotion.CU)
                 </entry>
 
-                <entry id="$-5">
-                    title = "朝焼け、君の唄。" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-5" title="朝焼け、君の唄。"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("5:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.2)
                     NEI(0.2, Emotion.MP)
                 </entry>
 
-                <entry id="$-6">
-                    title = "サクラノ前夜" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-6" title="サクラノ前夜"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("6:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Visual(VisualKind.AnimatedMV, 0.35, 0.6)
                     Music(0.7)

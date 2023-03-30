@@ -7,9 +7,8 @@
 
             Visual(VisualKind.AlbumArt, 0.15, 0.3)
 
-            <entry id="$-1">
-                MusicConsumedProgress("3:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Truths, Ironies, The Secret Lyrics" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
+                MusicConsumedProgress("3:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 Impact {
                     description = """this song is a cover of the famous is she owen u.n
@@ -46,22 +45,19 @@
             Contains("M-VGMDB-AL-97601-1")
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-4">
-                MusicConsumedProgress("4:33") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Wandering, Never Wondering (There Exists A Shade)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-4" title="Wandering, Never Wondering (There Exists A Shade)">
+                MusicConsumedProgress("4:33") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
             </entry>
 
-            <entry id="$-7">
-                MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "From Under Cover (Caught Up In A Love Song)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-7" title="From Under Cover (Caught Up In A Love Song)">
+                MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
 
             <!-- the second ayumu-era theme song -->
-            <entry id="$-8">
-                MusicConsumedProgress("3:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Storytellers" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-8" title="Storytellers">
+                MusicConsumedProgress("3:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
 
                 KoikakeNEI(0.8, 0.75, Emotion.AU to 0.5, Emotion.MP to 0.5)
@@ -74,8 +70,7 @@
         <entry id="M-VGMDB-AL-80229" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
-            <entry id="$-1">
-                title = "Chronostasis" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
                 MusicConsumedProgress("6:22") <!-- impl_overridden -->
                 Music(0.4)
@@ -85,8 +80,7 @@
 
         <entry id="M-20221224T220636" title="Imperfection of Imaginary Number">
 
-            <entry id="$-3">
-                title = "I.F."
+            <entry id="$-3" title="I.F.">
                 <!-- Length source: https://open.spotify.com/album/71Im3HkxyIk8OypYiE9aBR -->
                 MusicConsumedProgress("6:58")
                 Music(0.5)

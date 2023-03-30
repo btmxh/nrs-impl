@@ -12,9 +12,8 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Aurora Days" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Aurora Days">
+                MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
             </entry>
         </entry>
@@ -25,9 +24,8 @@
 
             <!-- the glorious udon stream map -->
             <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
-            <entry id="$-2">
-                MusicConsumedProgress("3:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "U・D・N" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="U・D・N">
+                MusicConsumedProgress("3:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 OsuSong(personal = 0.3)
             </entry>

@@ -21,9 +21,8 @@
                 <entry id="M-VGMDB-AL-53266" title="Pride Kakumei / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
-                    <entry id="$-1">
-                        MusicConsumedProgress("3:55") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Pride Kakumei" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="Pride Kakumei">
+                        MusicConsumedProgress("3:55") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.4)
                         OsuSong(personal = 0.5, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
@@ -33,9 +32,8 @@
                 <entry id="M-VGMDB-AL-50202" title="Ai no Scenario / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
-                    <entry id="$-1">
-                        MusicConsumedProgress("4:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Ai no Scenario" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="Ai no Scenario">
+                        MusicConsumedProgress("4:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.4)
                         <!-- monstrata's "海色 vs. アイのシナリオ" :skull: -->
                         OsuSong(personal = 0.6, community = 0.2)
@@ -46,9 +44,8 @@
                 <entry id="M-VGMDB-AL-61577" title="Senpai. / HoneyWorks meets TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.1, 0.3)
-                    <entry id="$-1">
-                        MusicConsumedProgress("5:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Senpai." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="Senpai.">
+                        MusicConsumedProgress("5:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.5)
                         OsuSong(personal = 0.6, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
@@ -58,9 +55,8 @@
                 <entry id="M-VGMDB-AL-73678" title="Nostalgic Rainfall / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
-                    <entry id="$-1">
-                        MusicConsumedProgress("3:58") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "ノスタルジックレインフォール" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="ノスタルジックレインフォール">
+                        MusicConsumedProgress("3:58") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.3)
                         OsuSong(personal = 0.3, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
@@ -70,9 +66,8 @@
                 <entry id="M-VGMDB-AL-74820" title="Watashi wo Someru I no Uta / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
-                    <entry id="$-1">
-                        MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Watashi Idol Sengen" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="Watashi Idol Sengen">
+                        MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.4)
                         OsuSong(personal = 0.8, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
@@ -82,9 +77,8 @@
                 <entry id="M-VGMDB-AL-54636" title="Kotoba no Iranai Yakusoku/Akatsukizukuyo / sana/HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
-                    <entry id="$-2">
-                        MusicConsumedProgress("4:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Akatsukizukuyo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-2" title="Akatsukizukuyo">
+                        MusicConsumedProgress("4:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.45)
                         OsuSong(personal = 0.5, community = 0.5)
                         <!-- [taeyang's extra] -->
@@ -95,9 +89,8 @@
                 <entry id="M-VGMDB-AL-46039" title="Sekai wa Koi ni Ochiteiru / CHiCO with HoneyWorks [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.4, 0.4)
-                    <entry id="$-2">
-                        MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "color" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-2" title="color">
+                        MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.3)
                         OsuSong(personal = 0.4, community = 0.0)
                     </entry>
@@ -106,9 +99,8 @@
                 <entry id="M-VGMDB-AL-92983" title="Kessen Spirit / CHiCO with HoneyWorks [CHiCO with HoneyWorks Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.2, 0.5)
-                    <entry id="$-1">
-                        MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "決戦スピリット" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="決戦スピリット">
+                        MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.5)
                         OsuSong(personal = 0.3, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
@@ -120,9 +112,8 @@
                 <entry id="M-VGMDB-AL-80437" title="Zutto Mae kara Suki deshita. / HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
-                    <entry id="$-1">
-                        MusicConsumedProgress("3:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Yakimochi no Kotae" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="Yakimochi no Kotae">
+                        MusicConsumedProgress("3:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.5)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
                     </entry>
@@ -161,9 +152,8 @@
 
                     Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
-                    <entry id="$-4">
-                        MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "Watashi no Tenshi feat. Narumi Sena" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-4" title="Watashi no Tenshi feat. Narumi Sena">
+                        MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.45)
                         OsuSong(personal = 0.3, community = 0.1)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
@@ -174,17 +164,15 @@
 
                     Visual(VisualKind.AlbumArt, 0.15, 0.5)
 
-                    <entry id="$-5">
-                        MusicConsumedProgress("4:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "ノンファンタジー" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-5" title="ノンファンタジー">
+                        MusicConsumedProgress("4:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.3)
                         OsuSong(personal = 0.4, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)
                     </entry>
 
-                    <entry id="$-10">
-                        MusicConsumedProgress("4:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                        title = "小さなライオン feat.南(ふてニャン/CV:豊永利行)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-10" title="小さなライオン feat.南(ふてニャン/CV:豊永利行)">
+                        MusicConsumedProgress("4:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         Music(0.4)
                         OsuSong(personal = 0.4, community = 0.0)
                         Visual(VisualKind.SemiAnimatedMV, 0.5, 0.5)

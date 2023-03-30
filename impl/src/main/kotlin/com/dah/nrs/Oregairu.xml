@@ -16,14 +16,12 @@
                 contributors["M-VGMDB-AL-37999-2"] = 0.5
             }
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Hello Alone" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Hello Alone">
+                MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             </entry>
-            <entry id="$-1">
-                MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Hello Alone" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Hello Alone">
+                MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             </entry>
             }
@@ -38,14 +36,12 @@
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
             }
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "エブリデイワールド" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="エブリデイワールド">
+                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             </entry>
-            <entry id="$-1">
-                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "エブリデイワールド" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="エブリデイワールド">
+                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             </entry>
             }
@@ -55,9 +51,8 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
-            <entry id="$-1">
-                MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Diamond no Jundo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Diamond no Jundo">
+                MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
         </entry>

@@ -11,9 +11,8 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
-            <entry id="$-2">
-                MusicConsumedProgress("3:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Kirakira Days" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="Kirakira Days">
+                MusicConsumedProgress("3:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <!-- binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD -->
                 Meme(0.1, 6)
@@ -25,9 +24,8 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
-            <entry id="$-9">
-                MusicConsumedProgress("4:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Tenshi ni Fureta yo!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-9" title="Tenshi ni Fureta yo!">
+                MusicConsumedProgress("4:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Music(0.05)
             </entry>
@@ -37,9 +35,8 @@ private fun AcceptImpact.`K-OnVisual`(kind: VisualKind) {
 
             `K-OnVisual`(VisualKind.AlbumArt)
 
-            <entry id="$-2">
-                MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "U&I" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="U&I">
+                MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.1)
             </entry>
         </entry>

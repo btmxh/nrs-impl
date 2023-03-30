@@ -14,8 +14,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.1, 0.5)
 
-            <entry id="$-1">
-                title = "Snow halation" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Snow halation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 Meme(0.1, 6)
@@ -28,8 +27,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                title = "Bokura wa Ima no Naka de" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Bokura wa Ima no Naka de"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
@@ -39,8 +37,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
-            <entry id="$-2">
-                title = "LOVELESS WORLD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="LOVELESS WORLD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
@@ -50,8 +47,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                title = "A song for You! You? You!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="A song for You! You? You!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:53") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
@@ -71,8 +67,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                title = "Aozora Jumping Heart" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Aozora Jumping Heart"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
@@ -82,8 +77,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                title = "Kimeta yo Hand in Hand" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Kimeta yo Hand in Hand"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:26") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
@@ -93,9 +87,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Yuuki wa Doko ni? Kimi no Mune ni!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Yuuki wa Doko ni? Kimi no Mune ni!">
+                MusicConsumedProgress("4:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>
@@ -104,9 +97,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-2">
-                MusicConsumedProgress("4:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "MIRACLE WAVE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="MIRACLE WAVE">
+                MusicConsumedProgress("4:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
         </entry>
@@ -115,9 +107,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("6:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Thank you, FRIENDS!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Thank you, FRIENDS!!">
+                MusicConsumedProgress("6:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
         </entry>
@@ -126,17 +117,15 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("5:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Mitaiken HORIZON" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Mitaiken HORIZON">
+                MusicConsumedProgress("5:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
             </entry>
         </entry>
 
         <entry id="M-VGMDB-AL-71405" title="Awaken the power / Saint Aqours Snow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
-            <entry id="$-3">
-                title = "DROPOUT!?" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-3" title="DROPOUT!?"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 OsuSong(personal = 0.4, community = 0.0)
@@ -159,9 +148,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:47") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Beginner's Sailing" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Beginner's Sailing">
+                MusicConsumedProgress("4:47") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
         </entry>
@@ -170,9 +158,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Nijiiro Passions!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Nijiiro Passions!">
+                MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
         </entry>
@@ -181,9 +168,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "NEO SKY, NEO MAP!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="NEO SKY, NEO MAP!">
+                MusicConsumedProgress("4:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.65)
             </entry>
         </entry>
@@ -204,26 +190,22 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
-            <entry id="$-1">
-                title = "TOKIMEKI Runners" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="TOKIMEKI Runners"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
 
-            <entry id="$-2">
-                title = "Yume e no Ippo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="Yume e no Ippo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:47") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.05)
             </entry>
 
-            <entry id="$-8">
-                title = "CHASE!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-8" title="CHASE!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
             </entry>
 
-            <entry id="$-10">
-                title = "Dokipipo☆Emotion" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-10" title="Dokipipo☆Emotion"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
@@ -233,20 +215,17 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
-            <entry id="$-10">
-                title = "Love U my friends" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-10" title="Love U my friends"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
 
-            <entry id="$-1">
-                title = "Kaika Sengen" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Kaika Sengen"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
             </entry>
 
-            <entry id="$-7">
-                title = "MELODY" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-7" title="MELODY"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:29") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
             </entry>
@@ -256,26 +235,22 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
-            <entry id="$-12">
-                title = "Just Believe!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-12" title="Just Believe!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:05") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
 
-            <entry id="$-1">
-                title = "Say Good-Bye Namida" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Say Good-Bye Namida"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
             </entry>
 
-            <entry id="$-3">
-                title = "Yagate Hitotsu no Monogatari" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-3" title="Yagate Hitotsu no Monogatari"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:20") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
             </entry>
 
-            <entry id="$-7">
-                title = "LIKE IT! LOVE IT!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-7" title="LIKE IT! LOVE IT!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.55)
                 OsuSong(personal = 0.3)
@@ -286,8 +261,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
-            <entry id="$-2">
-                title = "Break The System" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="Break The System"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
             </entry>
@@ -300,8 +274,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
             <!-- the first ayumu-era theme song -->
-            <entry id="$-1">
-                title = "Dream with You" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Dream with You"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.1)
                 Impact {
@@ -320,9 +293,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Awakening Promise" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Awakening Promise">
+                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.125)
             </entry>
         </entry>

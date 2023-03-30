@@ -25,9 +25,8 @@
         <entry id="M-VGMDB-AL-99082" title="Hana ni Bourei / Yorushika"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Hana ni Bourei" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Hana ni Bourei">
+                MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>

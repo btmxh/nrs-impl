@@ -30,9 +30,8 @@
         <entry id="M-VGMDB-AL-107257" title="Guruguru DJ TURN!! / Happy Around!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
-            <entry id="$-3">
-                MusicConsumedProgress("3:43") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Guruguru DJ TURN!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-3" title="Guruguru DJ TURN!!">
+                MusicConsumedProgress("3:43") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
         </entry>
@@ -41,8 +40,7 @@
         <entry id="M-VGMDB-AL-108580" title="D4DJ Special Disc Photon Maiden Ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             ValidatorSuppress("dah-visualless-entry")
-            <entry id="$-2">
-                title = "Brand New World" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="Brand New World"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 MusicConsumedProgress("4:06") <!-- impl_overridden -->
                 Music(0.4)

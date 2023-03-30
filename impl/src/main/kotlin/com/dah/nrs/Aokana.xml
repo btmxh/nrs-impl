@@ -41,8 +41,7 @@
 
         <entry id="M-VGMDB-AL-55828" title="Contrail ~Kiseki~ / Mami Kawada"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
-            <entry id="$-1">
-                title = "Contrail ~Kiseki~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Contrail ~Kiseki~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
                 OsuSong(personal = 0.75, community = 0.3)

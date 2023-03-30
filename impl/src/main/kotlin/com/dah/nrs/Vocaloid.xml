@@ -7,8 +7,7 @@
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-        <entry id="$-6">
-            title = "Chikyuu Saigo no Kokuhaku wo"
+        <entry id="$-6" title="Chikyuu Saigo no Kokuhaku wo">
             Visual(VisualKind.AnimatedMV, 0.5, 0.5)
             <!-- the legendary fifth ayumu-era theme song -->
 
@@ -60,9 +59,8 @@
 
     <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
-        <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -75,9 +73,8 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        </entry>        <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>        <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -90,9 +87,8 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        </entry>          <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>          <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -105,9 +101,8 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        </entry>          <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>          <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -126,9 +121,8 @@
         }
     </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
-        <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -141,9 +135,8 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        </entry>        <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>        <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -156,9 +149,8 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        </entry>          <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>          <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -171,9 +163,8 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        </entry>          <entry id="$-22">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>          <entry id="$-22" title="from Y to Y">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->

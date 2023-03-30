@@ -98,8 +98,7 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
-            <entry id="$-1">
-                title = "Hoshikuzu no Interlude" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Hoshikuzu no Interlude"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("6:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
@@ -193,8 +192,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.3)
 
-                <entry id="$-11">
-                    title = "かかわり" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-11" title="かかわり"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:25") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.6)
                 </entry>
@@ -202,8 +200,7 @@
 
             <entry id="M-VGMDB-AL-66901" title="adrenaline!!! / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Visual(VisualKind.AlbumArt, 0.2, 0.3)
-                <entry id="$-1">
-                    title = "adrenaline!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="adrenaline!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:34") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                     OsuSong(personal = 0.15, community = 0.0)
@@ -235,8 +232,7 @@
 
             <entry id="M-VGMDB-AL-69319" title="SHIORI / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Visual(VisualKind.AlbumArt, 0.2, 0.2)
-                <entry id="$-1">
-                    title = "SHIORI" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="SHIORI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:09") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.45)
                     OsuSong(personal = 0.75, community = 0.8)
@@ -246,8 +242,7 @@
             <entry id="M-VGMDB-AL-23391" title="Connect / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.35, 0.6)
-                <entry id="$-1">
-                    title = "Connect" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Connect"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.3)
                 </entry>
@@ -256,9 +251,8 @@
             <entry id="M-VGMDB-AL-41292" title="Colorful / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
-                <entry id="$-1">
-                    MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "カラフル" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="カラフル">
+                    MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.5)
 
                     Remix("M-20220113T184042-3")
@@ -269,8 +263,7 @@
             <entry id="M-VGMDB-AL-89431" title="Signal / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
-                <entry id="$-1">
-                    title = "シグナル" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="シグナル"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("3:43") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.7)
                 </entry>
@@ -280,9 +273,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.4)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "CheerS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="CheerS">
+                    MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                     OsuSong(personal = 0.4, community = 0.0)
                 </entry>
@@ -317,9 +309,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.35)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "lull ~Soshite Bokura wa~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="lull ~Soshite Bokura wa~">
+                    MusicConsumedProgress("4:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.075)
                 </entry>
             </entry>
@@ -328,16 +319,14 @@
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.45)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "ebb and flow" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="ebb and flow">
+                    MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.35)
                     Remix("M-20220317T064137-3")
                 </entry>
 
-                <entry id="$-3">
-                    MusicConsumedProgress("4:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "nagi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-3" title="nagi">
+                    MusicConsumedProgress("4:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.12)
                 </entry>
             </entry>
@@ -355,8 +344,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.175, 0.45)
 
-                <entry id="$-1">
-                    title = "アクアテラリウム" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="アクアテラリウム"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:58") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.075)
                 </entry>
@@ -366,9 +354,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.45)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Mitsuba no Musubime" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Mitsuba no Musubime">
+                    MusicConsumedProgress("4:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.075)
                 </entry>
             </entry>
@@ -377,8 +364,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.5)
 
-                <entry id="$-1">
-                    title = "Yukitoki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Yukitoki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:29") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.2)
                 </entry>
@@ -388,9 +374,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.35)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Harumodoki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Harumodoki">
+                    MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.25)
                     Remix("M-VGMDB-AL-106577-6")
                 </entry>
@@ -400,8 +385,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.45)
 
-                <entry id="$-1">
-                    title = "芽ぐみの雨" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="芽ぐみの雨"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:41") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.3)
                 </entry>
@@ -411,8 +395,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.05, 0.3)
 
-                <entry id="$-1">
-                    title = "over and over" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="over and over"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.5)
                 </entry>
@@ -493,9 +476,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.2)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:24") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Aruite Ikou!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Aruite Ikou!">
+                    MusicConsumedProgress("4:24") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
                 </entry>
             </entry>
@@ -535,9 +517,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("4:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Colorful." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Colorful.">
+                    MusicConsumedProgress("4:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.25)
                 </entry>
             </entry>
@@ -587,9 +568,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.25, 0.2)
 
-                <entry id="$-1">
-                    MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Egao no Kimi e" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Egao no Kimi e">
+                    MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.35)
                 </entry>
             </entry>
@@ -621,8 +601,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.25)
 
-                <entry id="$-1">
-                    title = "Kuchizuke Diamond" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="Kuchizuke Diamond"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("3:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.35)
                     OsuSong(personal = 0.4, community = 0.5)
@@ -641,8 +620,7 @@
                 <!-- mememememememe version: https://vgmdb.net/album/52046 -->
                 Visual(VisualKind.AlbumArt, 0.3, 0.35)
 
-                <entry id="$-1">
-                    title = "CANDY MAGIC" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="CANDY MAGIC"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.1)
                 </entry>
@@ -653,17 +631,15 @@
                 Visual(VisualKind.AlbumArt, 0.5, 0.35)
 
                 <!-- kek -->
-                <entry id="$-1">
-                    title = "hare bare fanfare" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="hare bare fanfare"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("3:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.4)
 
                     OsuSong(personal = 0.6, community = 0.3)
                 </entry>
 
-                <entry id="$-3">
-                    MusicConsumedProgress("0:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "CANDY MAGIC ~Piano Live Version~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-3" title="CANDY MAGIC ~Piano Live Version~">
+                    MusicConsumedProgress("0:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Remix("M-VGMDB-AL-52045-1")
                 </entry>
             </entry>
@@ -689,8 +665,7 @@
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-        <entry id="$-1">
-            title = "Uchiage Hanabi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-1" title="Uchiage Hanabi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.2)
         </entry>
@@ -703,8 +678,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-                <entry id="$-1">
-                    title = "crossing field" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-1" title="crossing field"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("4:09") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.1)
                 </entry>
@@ -803,8 +777,7 @@
 
                     Visual(VisualKind.AlbumArt, 0.15, 0.2)
 
-                    <entry id="$-1">
-                        title = "360° Hoshi no Orchestra" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry id="$-1" title="360° Hoshi no Orchestra"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         MusicConsumedProgress("5:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <!-- coco's Insane -->
                         <!-- Akito's Insane -->
@@ -907,8 +880,7 @@
             <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.6, 0.3)
-                <entry id="$-6">
-                    title = "Azure Reunion" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-6" title="Azure Reunion"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     MusicConsumedProgress("5:06") <!-- impl_overridden -->
                     Music(0.6)
                     Remix("M-VGMDB-AL-108194-5")
@@ -934,9 +906,8 @@
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-                <entry id="$-5">
-                    MusicConsumedProgress("5:06") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    title = "Azure Reunion" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry id="$-5" title="Azure Reunion">
+                    MusicConsumedProgress("5:06") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     Music(0.6)
                 </entry>
             </entry>

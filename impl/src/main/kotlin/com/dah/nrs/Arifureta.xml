@@ -25,9 +25,8 @@
     <entry id="M-VGMDB-AL-86592" title="FLARE / Void_Chords feat.LIO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.05, 0.5)
-        <entry id="$-1">
-            MusicConsumedProgress("4:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "FLARE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-1" title="FLARE">
+            MusicConsumedProgress("4:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.1)
             OsuSong(personal = 0.1, community = 0.05)
         </entry>

@@ -7,9 +7,8 @@
 
             Visual(VisualKind.AlbumArt, 0.65, 0.3)
 
-            <entry id="$-1">
-                MusicConsumedProgress("3:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Friend Shitai" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Friend Shitai">
+                MusicConsumedProgress("3:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 OsuSong(personal = 0.5)
             </entry>
@@ -27,9 +26,8 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.25)
 
-            <entry id="$-1">
-                MusicConsumedProgress("4:26") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "アンハッピーエンドワールド" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="アンハッピーエンドワールド">
+                MusicConsumedProgress("4:26") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
         </entry>

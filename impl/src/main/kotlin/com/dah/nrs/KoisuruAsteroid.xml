@@ -24,9 +24,8 @@
 
         Visual(VisualKind.AlbumArt, 0.3, 0.2)
 
-        <entry id="$-1">
-            MusicConsumedProgress("4:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "夜空" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-1" title="夜空">
+            MusicConsumedProgress("4:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- play the gigachad mapper's map: -->
             <!-- https://osu.ppy.sh/beatmapsets/1256770#osu/2611562 -->
             <!-- https://osu.ppy.sh/beatmapsets/1256770#osu/2611562 -->

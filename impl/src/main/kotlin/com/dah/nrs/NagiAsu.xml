@@ -12,9 +12,8 @@
         <entry id="M-VGMDB-AL-45187" title="Nagi no Asukara Character Song CD3"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
-            <entry id="$-1">
-                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "ripple ~my first love~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="ripple ~my first love~">
+                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>

@@ -29,9 +29,8 @@
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
-            <entry id="$-1">
-                MusicConsumedProgress("3:48") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Finest Sky" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Finest Sky">
+                MusicConsumedProgress("3:48") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
                 <!-- [albireo princess] -->
                 <!-- hddt -->
