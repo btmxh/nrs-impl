@@ -134,7 +134,7 @@
             title = "Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:45") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "アスイロ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT! -->
@@ -149,7 +149,7 @@
 
                 <!-- all of that aside, this song slaps -->
                 Music(0.6)
-            }
+            </entry>
         }
 
         Entry {
@@ -209,11 +209,11 @@
             title = "Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.3)
-            SubIDEntry("4") {
+            <entry id="$-4">
                 MusicConsumedProgress("5:41") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Miruiro no Hoshi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
-            }
+            </entry>
         }
 
         Entry {
@@ -221,26 +221,26 @@
             title = "Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
-            SubIDEntry("9") {
+            <entry id="$-9">
                 MusicConsumedProgress("5:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Into the Journey" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
                 <!-- the cp contest of Oct 4th -->
                 <!-- aka the first win of the ROD in uni -->
                 AEI(0.25, Emotion.CP)
-            }
+            </entry>
         }
 
         Entry {
             id = "M-VGMDB-AL-38558"
             title = "Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
-            SubIDEntry("8") {
+            <entry id="$-8">
                 title = "Sky of Twilight" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("6:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
                 OsuSong(personal = 0.5, community = 0.0)
-            }
+            </entry>
         }
     }
 </document>

@@ -11,7 +11,7 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:48") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Daydream café" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- fuwa fuwa -->
@@ -19,7 +19,7 @@
                 <!-- duy bua ham l -->
                 <!-- duy bua ngao l -->
                 Music(0.2)
-            }
+            </entry>
         }
 
         Entry {
@@ -40,14 +40,14 @@
             <!-- this also includes mahou shoujo chino -->
             Contains("M-VGMDB-AL-54418-1")
 
-            SubIDEntry("3") {
+            <entry id="$-3">
                 MusicConsumedProgress("4:25") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Shinsaku no Shiawase wa Kochira!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- dan dan kikoeru -->
                 <!-- lets go i fced the son's insane diff with dt -->
                 <!-- fuck sekai's insane tho -->
                 Music(0.3)
-            }
+            </entry>
         }
 
         Entry {
@@ -55,11 +55,11 @@
             title = "Gochuumon wa Mahou Shoujo desu ka? Image Song: Mahou Shoujo Chino" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:52") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Mahou Shoujo Chino" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
-            }
+            </entry>
         }
 
         Entry {

@@ -20,20 +20,20 @@
 
             <!-- hfiumi buff (without hfiumi base is 0.3) -->
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
-            SubIDEntry("4") {
+            <entry id="$-4">
                 MusicConsumedProgress("2:29") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Hifumi Daisuki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 <!-- :crying emoji: -->
                 <!-- i love leah kate -->
                 <!-- https://osu.ppy.sh/beatmapsets/1933124#osu/3994310 :skull: -->
-            }
+            </entry>
 
-            SubIDEntry("24") {
+            <entry id="$-24">
                 MusicConsumedProgress("2:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "RE Aoharu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
-            }
+            </entry>
         }
 
         Entry {
@@ -41,13 +41,13 @@
             title = "Clear Morning / Yui Ogura" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Clear Morning" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- me catjamming to the beat drop -->
                 <!-- :catJAMMER: :EDM: :catJAMMER: :EDM: :catJAMMER: :EDM: :catJAMMER: -->
                 Music(0.5)
-            }
+            </entry>
         }
 
         Entry {

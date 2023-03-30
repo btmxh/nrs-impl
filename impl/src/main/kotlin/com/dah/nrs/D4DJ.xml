@@ -38,11 +38,11 @@
             title = "Guruguru DJ TURN!! / Happy Around!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
-            SubIDEntry("3") {
+            <entry id="$-3">
                 MusicConsumedProgress("3:43") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Guruguru DJ TURN!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
-            }
+            </entry>
         }
 
         <!-- wtf -->
@@ -51,12 +51,12 @@
             title = "D4DJ Special Disc Photon Maiden Ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             ValidatorSuppress("dah-visualless-entry")
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "Brand New World" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 MusicConsumedProgress("4:06") <!-- impl_overridden -->
                 Music(0.4)
-            }
+            </entry>
         }
     }
 </document>

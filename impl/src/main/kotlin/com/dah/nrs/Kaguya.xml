@@ -13,12 +13,12 @@
             title = "Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("2:58") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Chikatto Chika Chika♡" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 OsuSong(personal = 0.5, community = 0.4)
-            }
+            </entry>
         }
 
         Entry {
@@ -27,12 +27,12 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            SubIDEntry("11") {
+            <entry id="$-11">
                 MusicConsumedProgress("4:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "ありがとう。" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the grass-touching experience -->
                 Music(0.35)
-            }
+            </entry>
         }
 
         <!-- but I got tired of the constant spamming of redditors -->

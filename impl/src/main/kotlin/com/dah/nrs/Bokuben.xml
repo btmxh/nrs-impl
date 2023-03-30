@@ -47,12 +47,12 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Seishun Seminar" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 OsuSong(personal = 0.2)
-            }
+            </entry>
         }
 
         Entry {
@@ -61,12 +61,12 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Can now, Can now" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 OsuSong(personal = 0.1)
-            }
+            </entry>
         }
     }
 </document>

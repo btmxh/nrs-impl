@@ -39,11 +39,11 @@
             title = "Stargazer / Larval Stage Planning" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("5:06") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Stargazer" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
-            }
+            </entry>
         }
 
         Contains("M-VGMDB-AL-47403-1")

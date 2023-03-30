@@ -100,7 +100,7 @@
 
             Visual(VisualKind.AlbumArt, 1.0, 0.3)
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("4:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "記憶×ハジマリ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- chorus sucks but -->
@@ -110,15 +110,15 @@
                 <!-- gyze i found the mv for this song :skull: -->
                 <!-- https://www.youtube.com/watch?v=e_IIORCnBxI -->
                 Music(0.35)
-            }
+            </entry>
 
-            SubIDEntry("14") {
+            <entry id="$-14">
                 MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "東の空から始まる世界" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
-            }
+            </entry>
 
-            SubIDEntry("25") {
+            <entry id="$-25">
                 MusicConsumedProgress("4:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "GLORIOUS DAYS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️ -->
@@ -128,7 +128,7 @@
                 Music(0.75)
                 <!-- NEI(Emotion.CU, 0.2) -->
                 <!-- :Pause: :pepeLaugh: -->
-            }
+            </entry>
 
             <!-- classic "too lazy to rank all of the tracks" -->
             Music(0.6)
@@ -151,7 +151,7 @@
         Visual(VisualKind.AlbumArt, 0.6, 0.4)
         <!-- NEE music :skull: -->
 
-        SubIDEntry("5") {
+        <entry id="$-5">
             MusicConsumedProgress("4:53") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "彗光、星空通りにて (feat.nayuta)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.7)
@@ -201,7 +201,7 @@
 
             <!-- Để trái tim này bước đi... -->
             <!-- For this heart to keep going forward... -->
-        }
+        </entry>
     }
 </document>
 

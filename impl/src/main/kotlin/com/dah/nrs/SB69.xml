@@ -258,7 +258,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             title = "How To Fly / Cyan & Howan" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.45, 0.3)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "How To Fly" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- fes a live art looks a little bit weird ngl -->
@@ -266,7 +266,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 FesALiveMusic(0.35) {
                     arc2 = 10.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -275,7 +275,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.3, 0.7)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "My pace!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- really interesting vocal -->
@@ -283,7 +283,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 FesALiveMusic(0.25) {
                     arc2 = 5.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -292,7 +292,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.6, 0.6)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Seishun wa Non-Stop!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.25) {
@@ -300,9 +300,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 }
 
                 Remix("M-20220125T063355-6")
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "Close to you" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:43") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.4) {
@@ -310,7 +310,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 }
 
                 Remix("M-VGMDB-AL-61981-3")
-            }
+            </entry>
         }
 
         Entry {
@@ -319,11 +319,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.45, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Tabimichi Yoiyoi Yume Hanabi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.3)
-            }
+            </entry>
         }
 
         Entry {
@@ -332,20 +332,20 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.55, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Meikyuu DESTINY" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:04") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5)
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "Ryuusei Dreamline" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- kekekekekekek -->
                 FesALiveMusic(0.225) {
                     arc2 = 15.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -354,14 +354,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Heart wo Rock!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf -->
                 MusicConsumedProgress("4:12") <!-- impl_overridden -->
                 FesALiveMusic(0.7) {
                     arc2 = 2.5
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -370,11 +370,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.4, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Schlehit Melodie" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:46") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.4)
-            }
+            </entry>
         }
 
         Entry {
@@ -383,19 +383,19 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("5:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "My Resolution ～未来への絆～" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5)
-            }
+            </entry>
 
-            SubIDEntry("3") {
+            <entry id="$-3">
                 MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Close to you (詩杏 ver.)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.35)
 
                 NEI(0.25, Emotion.MP)
-            }
+            </entry>
         }
 
         Entry {
@@ -404,7 +404,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.35, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:41") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "ドレミファPARTY" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- xd -->
@@ -412,7 +412,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 2.5
                 }
                 Meme(0.1, 2)
-            }
+            </entry>
         }
 
         <!-- "visual"s of hiromemes and mashiro start line are good -->
@@ -432,13 +432,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Hiromenes" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.6)
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Kimi no Rhapsody" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- hahahahahaaha the howan tinh song -->
@@ -448,13 +448,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 }
                 Meme(0.01, numDays("2022-04-01"))
                 Remix("M-20220702T030659")
-            }
+            </entry>
 
-            SubIDEntry("3") {
+            <entry id="$-3">
                 MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Masshiro Start Line" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.6)
-            }
+            </entry>
         }
 
         Entry {
@@ -476,11 +476,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:46") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "エールアンドレスポンス" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.2)
-            }
+            </entry>
         }
 
         Entry {
@@ -489,7 +489,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("4:20") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "イントロダクション" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- and we will fly beyond the sky -->
@@ -498,7 +498,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     pme = 10.0
                     nee = 2.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -507,7 +507,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:06") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Do Re Mi Fa STARS!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- aka ceui - colorful days (mp-based franchise ver.) -->
@@ -515,13 +515,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 FesALiveMusic(0.5) {
                     arc2 = 10.0
                 }
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "Hoshizora Light Story" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:05") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.35)
-            }
+            </entry>
         }
 
         Entry {
@@ -530,16 +530,16 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-            SubIDEntry("3") {
+            <entry id="$-3">
                 MusicConsumedProgress("4:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Do! It! Happy Daibouken!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- do it party reference lmfao -->
                 FesALiveMusic(0.65) {
                     arc2 = 2.5
                 }
-            }
+            </entry>
 
-            SubIDEntry("6") {
+            <entry id="$-6">
                 title = "Kyukyukyun♡Heart Shaker" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- aaaaa co sao method thong minh the -->
@@ -550,7 +550,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 FesALiveMusic(0.5) {
                     akm1 = 10.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -559,7 +559,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-            SubIDEntry("3") {
+            <entry id="$-3">
                 MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Runner's High!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5)
@@ -577,15 +577,15 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     contributors["O-20221003T175501-2"] = 0.2
                     contributors["V-VNDB-17516"] = 0.6
                 }
-            }
+            </entry>
 
-            SubIDEntry("5") {
+            <entry id="$-5">
                 title = "EMPIRE DOMINATOR" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.25)
-            }
+            </entry>
 
-            SubIDEntry("8") {
+            <entry id="$-8">
                 title = "Anokanatarium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:46") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- this was unranked all this time????? -->
@@ -598,7 +598,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- there's no one who's like him -->
                 <!-- the one who shines like the sun -->
                 <!-- forever shining is the method -->
-            }
+            </entry>
         }
 
         Entry {
@@ -607,13 +607,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Hanate! Dododon!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5) {
                     akm1 = 10.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -622,20 +622,20 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "最終列車" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
                 FesALiveMusic(0.5)
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("3:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "ハツコイノオト" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
                 <!-- himeno sena 2023 fascism neo-autism nozsism autism -->
                 FesALiveMusic(0.5)
-            }
+            </entry>
         }
 
         Entry {
@@ -644,11 +644,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Taikakusen wo Tsunaideyo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.65)
-            }
+            </entry>
         }
 
         Entry {
@@ -661,13 +661,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             ValidatorSuppress("dah-visualless-entry")
 
             <!-- also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno) -->
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "グッデイバイデイ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:26") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.35) {
                     arc2 = 5.0
                 }
-            }
+            </entry>
 
             <!-- if u understand, u understand -->
             <!-- RemixOf("M-VGMDB-AL-97688-16") -->
@@ -679,11 +679,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Mirai Wanted" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5)
-            }
+            </entry>
         }
 
         Entry {
@@ -692,12 +692,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Bokura no Neiro" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Visual(VisualKind.SemiAnimatedMV, 0.5, 0.6)
                 FesALiveMusic(0.35)
-            }
+            </entry>
         }
 
         Entry {
@@ -706,13 +706,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.25, 0.45)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Mot Mot Mot" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.65) {
                     akm1 = 10.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -720,7 +720,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             title = "P SHOW BY ROCK!! CD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.5)
 
-            SubIDEntry("3") {
+            <entry id="$-3">
                 title = "Nyumber One! Zettai Saikyou!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.7) {
@@ -730,7 +730,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- welcome to the post-modern shithole where everything is political -->
                 <!-- NOZSP is truly the party of all time -->
                 <!-- chair gaming -->
-            }
+            </entry>
         }
 
         Entry {
@@ -739,14 +739,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "ループしてる" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:45") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- :tf: -->
                 FesALiveMusic(0.25)
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "あすいろ恋模様" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:33") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- absolute catjammer -->
@@ -791,7 +791,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 AKMEraPart1(1.0)
                 AKMEraPart2(1.0)
                 AKMEraPart3(0.6)
-            }
+            </entry>
         }
 
         <!-- adding these songs to increase Murakawa Rie and Hidaka Rina's score lol -->
@@ -801,14 +801,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             title = "How Are You? / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "はうあーゆー？" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.6) {
                     from(SB69MusicContext.CultureEra.AKM1)
                     akm1 = 5.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -816,14 +816,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             title = "Happy Happy Jump / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Happy Happy Jump" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.5) {
                     from(SB69MusicContext.CultureEra.AKM1)
                     akm1 = 5.0
                 }
-            }
+            </entry>
         }
 
         Entry {
@@ -832,7 +832,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Hoshitachi no Orchestra Parade" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.7) {
@@ -842,7 +842,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- cleaning koikake :tf: -->
                 <!-- AEI(0.3, Emotion.MP) -->
                 KoikakeAEI(0.3, 0.7, Emotion.MP)
-            }
+            </entry>
         }
 
         Entry {
@@ -850,13 +850,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             title = "Koishichatta! / Criticrista" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Koishichatta!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALiveMusic(0.3) {
                     from(SB69MusicContext.CultureEra.NEE)
                 }
-            }
+            </entry>
         }
 
         Entry {

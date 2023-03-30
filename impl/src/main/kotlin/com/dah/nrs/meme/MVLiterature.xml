@@ -65,7 +65,7 @@
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
 
-        SubIDEntry("10") {
+        <entry id="$-10">
             MusicConsumedProgress("4:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "あすいろClearSky (Bouquet Ver.)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- asuiro koi moyou and its consequences -->
@@ -87,6 +87,6 @@
             Visual(VisualKind.SemiAnimatedMV, 0.3, 0.2)
             AKMEraPart1(0.4)
             AKMEraPart2(0.1)
-        }
+        </entry>
     }
 </document>

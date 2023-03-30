@@ -26,12 +26,12 @@
             title = "Ashita no Kimi sae Ireba Ii. / ChouCho" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("5:04") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Ashita no Kimi sae Ireba Ii." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6);
                 OsuSong(personal = 0.5, community = 0.1)
-            }
+            </entry>
         }
     }
 </document>

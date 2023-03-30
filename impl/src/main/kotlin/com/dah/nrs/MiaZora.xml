@@ -35,7 +35,7 @@
 
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:48") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Finest Sky" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
@@ -43,7 +43,7 @@
                 <!-- hddt -->
                 <!-- haha -->
                 OsuSong(personal = 0.5, community = 0.1)
-            }
+            </entry>
         }
     }
 </document>

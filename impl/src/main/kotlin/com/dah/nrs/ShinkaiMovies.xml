@@ -45,12 +45,12 @@
             title = "Tenki no Ko / RADWIMPS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
-            SubIDEntry("28") {
+            <entry id="$-28">
                 MusicConsumedProgress("3:08") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Grand Escape (Movie edit) feat, Miura Toko" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
                 OsuSong(personal = 0.4)
-            }
+            </entry>
         }
     }
 </document>

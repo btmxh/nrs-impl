@@ -16,11 +16,11 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Aurora Days" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
-            }
+            </entry>
         }
 
         Entry {
@@ -31,12 +31,12 @@
 
             <!-- the glorious udon stream map -->
             <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("3:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "U・D・N" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 OsuSong(personal = 0.3)
-            }
+            </entry>
         }
 
         Meme(0.8, numDays("2021-11-01", "2021-11-20")) {

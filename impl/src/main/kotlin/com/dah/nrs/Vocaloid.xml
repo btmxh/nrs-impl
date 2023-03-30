@@ -9,7 +9,7 @@
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
-        SubIDEntry("6") {
+        <entry id="$-6">
             title = "Chikyuu Saigo no Kokuhaku wo"
             Visual(VisualKind.AnimatedMV, 0.5, 0.5)
             <!-- the legendary fifth ayumu-era theme song -->
@@ -23,7 +23,7 @@
             MusicConsumedProgress("4:32") <!-- impl_overridden -->
             Remix("M-20220205T023322-1")
             Remix("M-20220205T023322-3")
-        }
+        </entry>
     }
 
     Entry {
@@ -72,7 +72,7 @@
         id = "M-VGMDB-AL-97732"
         title = "HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
-        SubIDEntry("22") {
+        <entry id="$-22">
             MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -87,21 +87,52 @@
 
             Music(0.5)
             KoikakeCry(0.6, Emotion.CU)
-        }
-        SubIDEntry("90") {
-            title = "Hand in Hand" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            MusicConsumedProgress("2:57") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.4)
-        }
-        SubIDEntry("91") {
-            MusicConsumedProgress("3:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            title = "ゴーストルール" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.3)
-            OsuSong(personal = 0.6, community = 0.6)
-        }
-        SubIDEntry("95") {
-            title = "ヒバナ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>        <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
+
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
+
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>          <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
+
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
+
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>          <entry id="$-22">
+            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "from Y to Y" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- "the pads won't stop at the seventh day" -->
+            <!-- most happy himeno sena mf be like -->
+            <!-- :skull: -->
+            <!-- "sena"ka wo mukete kimi wa arukidashita -->
+            <!-- "sena"ka wo mukete boku wa arukidashita -->
+
+            <!-- wake up, it's your daily dose of "crying to -->
+            <!-- ayumu-era vocaloid songs while thinking about -->
+            <!-- main girl" -->
+
+            Music(0.5)
+            KoikakeCry(0.6, Emotion.CU)
+        </entry>   MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
         }
@@ -111,7 +142,7 @@
         title = "Hajimete no Koi ga Owaru Toki / supercell" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
-        SubIDEntry("1") {
+        <entry id="$-1">
             MusicConsumedProgress("5:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "Hajimete no Koi ga Owaru Toki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
@@ -129,7 +160,7 @@
             <!-- anyways, this song is sad now for a different reason -->
             <!-- (that is not segs fuck u) -->
             KoikakeNEI(0.5, 0.7, Emotion.CU to 0.8, Emotion.MP to 0.2)
-        }
+        </entry>
     }
 
     Entry {

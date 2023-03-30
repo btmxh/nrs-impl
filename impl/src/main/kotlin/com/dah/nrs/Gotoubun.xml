@@ -46,11 +46,11 @@
             title = "Gotoubun no Kimochi / Nakano-ke no Itsutsugo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Gotoubun no Kimochi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
-            }
+            </entry>
         }
     }
 </document>

@@ -11,12 +11,12 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "M♭" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
                 OsuSong(personal = 0.1)
-            }
+            </entry>
         }
 
         Contains("M-VGMDB-AL-49446-1")

@@ -28,12 +28,12 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
-            SubIDEntry("40") {
+            <entry id="$-40">
                 MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Clover Day's full ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
                 OsuSong(personal = 0.8, community = 0.2)
-            }
+            </entry>
         }
     }
 </document>

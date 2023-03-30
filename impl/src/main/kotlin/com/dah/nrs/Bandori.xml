@@ -12,11 +12,11 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.1)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "STAR BEAT! ~Hoshi no Kodou~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
-            }
+            </entry>
         }
 
         Entry {
@@ -25,17 +25,17 @@
 
             Visual(VisualKind.AlbumArt, 0.25, 0.2)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Tokimeki Experience!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "1000 kai Urunda Sora" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:31") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
-            }
+            </entry>
         }
 
         Entry {
@@ -44,7 +44,7 @@
 
             Visual(VisualKind.AlbumArt, 0.15, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "KIZUNA MUSIC♪" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- this song got memed in the rst-sb69 era because of two things -->
@@ -62,7 +62,7 @@
                 <!-- nguoi mang den trai tim ta -->
                 <!-- bau... troi... mo... uoc -->
                 Music(0.5)
-            }
+            </entry>
         }
 
         Entry {
@@ -71,11 +71,11 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.15)
 
-            SubIDEntry("5") {
+            <entry id="$-5">
                 MusicConsumedProgress("4:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Koko kara Saki wa Uta ni Naranai" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
-            }
+            </entry>
         }
 
         Entry {
@@ -84,13 +84,13 @@
 
             Visual(VisualKind.AlbumArt, 0.35, 0.15)
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("5:09") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Light Delight" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- naite naite -->
                 <!-- daite daite -->
                 Music(0.6)
-            }
+            </entry>
         }
 
         Entry {
@@ -104,13 +104,13 @@
             <!-- dokidoki ver: https://vgmdb.net/album/92051 -->
             Visual(VisualKind.AlbumArt, 0.45, 0.1)
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 title = "Yume wo Uchinuku Shunkan ni!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 <!-- iykyk -->
                 Meme(0.05, 10)
-            }
+            </entry>
         }
 
         Entry {
@@ -135,11 +135,11 @@
 
             Visual(VisualKind.AlbumArt, 0.2, 0.6)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "FIRE BIRD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:25") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
-            }
+            </entry>
         }
 
         Entry {
@@ -190,12 +190,12 @@
 
             Visual(VisualKind.AlbumArt, 0.25, 0.15)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Y.O.L.O!!!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
                 OsuSong(personal = 0.7)
-            }
+            </entry>
         }
 
         Entry {
@@ -214,21 +214,21 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.1)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Cherry Bomb" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:07") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 OsuSong(personal = 0.6)
-            }
+            </entry>
 
-            SubIDEntry("6") {
+            <entry id="$-6">
                 title = "Harumodoki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:30") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 OsuSong(personal = 0.5)
 
                 Remix("M-20220130T183728-4")
-            }
+            </entry>
         }
 
         Entry {
@@ -237,24 +237,24 @@
 
             Visual(VisualKind.AlbumArt, 0.45, 0.1)
 
-            SubIDEntry("8") {
+            <entry id="$-8">
                 title = "Silhouette" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
                 OsuSong(personal = 0.55)
-            }
+            </entry>
         }
 
         Entry {
             id = "M-VGMDB-AL-104105"
             title = "Garupa Vocalo Cover Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
-            SubIDEntry("3") {
+            <entry id="$-3">
                 title = "Melancholic" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:41") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 OsuSong(personal = 0.75, community = 0.0)
-            }
+            </entry>
         }
 
         Entry {
@@ -271,11 +271,11 @@
             title = "Sacred world / RAISE A SUILEN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Sacred world" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("5:00") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
-            }
+            </entry>
         }
 
         <!-- bandori has some good comedy shit -->
@@ -361,12 +361,12 @@
             <!-- 3d men ew /s -->
             Visual(VisualKind.AlbumArt, 0.08, 0.175)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "Silhouette" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 Remix("M-VGMDB-AL-114399-8")
-            }
+            </entry>
         }
     }
 

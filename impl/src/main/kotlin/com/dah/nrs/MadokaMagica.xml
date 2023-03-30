@@ -14,11 +14,11 @@
             title = "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Mata Ashita" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
-            }
+            </entry>
         }
 
         Entry {
@@ -26,11 +26,11 @@
             title = "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
-            SubIDEntry("4") {
+            <entry id="$-4">
                 MusicConsumedProgress("1:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Believing in Justice" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
-            }
+            </entry>
         }
 
         Entry {
@@ -38,11 +38,11 @@
             title = "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("2:50") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "and I'm home" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
-            }
+            </entry>
         }
 
         Contains("M-VGMDB-AL-41292-1")
@@ -54,11 +54,11 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "ケアレス" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
-            }
+            </entry>
         }
 
         Contains("M-VGMDB-AL-89431-1")
@@ -69,11 +69,11 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Gomakashi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.65)
-            }
+            </entry>
         }
 
         Entry {
@@ -82,7 +82,7 @@
 
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Utsuroi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the game -->
@@ -92,7 +92,7 @@
                 OsuSong(personal = 0.65, community = 0.1)
 
                 Music(0.5)
-            }
+            </entry>
         }
 
         Meme(0.6, numDays("2019-11-01", "2020-02-15")) {

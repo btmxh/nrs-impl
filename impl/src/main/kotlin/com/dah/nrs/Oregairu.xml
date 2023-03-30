@@ -20,16 +20,16 @@
                 contributors["M-VGMDB-AL-37999-2"] = 0.5
             }
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Hello Alone" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            }
+            </entry>
+            <entry id="$-1">
+                MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Hello Alone" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            SubIDEntry("2") {
-                MusicConsumedProgress("4:53") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "Hello Alone -Yui Ballade-" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-
+            </entry>
             }
         }
 
@@ -44,16 +44,16 @@
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
             }
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "エブリデイワールド" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            }
+            </entry>
+            <entry id="$-1">
+                MusicConsumedProgress("4:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "エブリデイワールド" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            SubIDEntry("3") {
-                MusicConsumedProgress("5:29") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                title = "エブリデイワールド -Ballade Arrange- Yui Solo Ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-
+            </entry>
             }
         }
 
@@ -63,11 +63,11 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Diamond no Jundo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
-            }
+            </entry>
         }
 
         <!-- The Yui Depression, when I realize that the VSCC -->

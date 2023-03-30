@@ -12,13 +12,13 @@
             Visual(VisualKind.AlbumArt, 0.15, 0.4)
 
             <!-- the third ayumu-era theme song -->
-            SubIDEntry("7") {
+            <entry id="$-7">
                 MusicConsumedProgress("5:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Ascension to Heaven" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
-            }
+            </entry>
 
-            SubIDEntry("12") {
+            <entry id="$-12">
                 MusicConsumedProgress("4:29") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "FREEDOM DiVE↓" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- not gonna rate all of the backgrounds and shit -->
@@ -26,7 +26,7 @@
                 <!-- i'm not overstreaming 222 bpm -->
                 NEI(0.5, Emotion.AP)
                 OsuSong(personal = 0.2, community = 0.8)
-            }
+            </entry>
         }
     }
 
@@ -49,12 +49,12 @@
         title = "Tsukinami / Kanon Wakeshima" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.25, 0.5)
-        SubIDEntry("2") {
+        <entry id="$-2">
             title = "ツキナミ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396 -->
             MusicConsumedProgress("4:44") <!-- impl_overridden -->
-        }
+        </entry>
     }
 
     Entry {
@@ -62,11 +62,11 @@
         title = "Kisses and Kills / THE ORAL CIGARETTES" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
-        SubIDEntry("1") {
+        <entry id="$-1">
             MusicConsumedProgress("2:19") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "もういいかい?" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
-        }
+        </entry>
     }
 
     Entry {
@@ -74,13 +74,13 @@
         title = "HANASAKI WORK SPRING! COMPLETE SOUNDTRACK" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.5)
-        SubIDEntry("1") {
+        <entry id="$-1">
             MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "Girl meets Love" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
             <!-- haha tranny duy bua -->
             Meme(0.01, numDays("2021-06-01"))
-        }
+        </entry>
     }
 
     Entry {
@@ -88,11 +88,11 @@
         title = "Irotoridori no Hikari Theme Songs Plus" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
-        SubIDEntry("2") {
+        <entry id="$-2">
             MusicConsumedProgress("4:31") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "COLORFUL DAYS!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.7)
-        }
+        </entry>
     }
 
     Entry {
@@ -101,15 +101,15 @@
 
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
-        SubIDEntry("9") {
+        <entry id="$-9">
             MusicConsumedProgress("4:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "Euphorium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 0.3, community = 0.3)
             <!-- mrekk pp haha -->
-        }
+        </entry>
 
-        SubIDEntry("16") {
+        <entry id="$-16">
             MusicConsumedProgress("6:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.55)
@@ -117,7 +117,7 @@
 
             <!-- "khi chân trời đầy nước mắt -->
             <!-- nước mắt sẽ hóa thành ước mơ" -->
-        }
+        </entry>
     }
 
     Entry {
@@ -125,11 +125,11 @@
         title = "HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             MusicConsumedProgress("4:24") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "Haruoto＊Bell fullver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.65)
-        }
+        </entry>
     }
 
     Entry {
@@ -137,11 +137,11 @@
         title = "Shirokoi Sakura*Gram THEME SONG COLLECTION! 4" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             MusicConsumedProgress("4:29") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "Have a live day fullver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.55)
-        }
+        </entry>
     }
 
     Entry {
@@ -149,130 +149,130 @@
         title = "HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Visual(VisualKind.AlbumArt, 0.5, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Ringing＊Days fullver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
             MusicConsumedProgress("5:07") <!-- impl_overridden -->
             Music(0.6)
-        }
+        </entry>
     }
 
     Entry {
         id = "M-VGMDB-AL-99204"
         title = "SMASH The PAINT!! / Nijisanji" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
-        SubIDEntry("3") {
+        <entry id="$-3">
             title = "1+1でQ.E.D.!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:35") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.3, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-60475"
         title = "1HOPE SNIPER / Azusa Tadokoro [Anime Jacket Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "1HOPE SNIPER" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 0.1, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-81136"
         title = "ADAMAS/Akai Wana (who loves it?) / LiSA [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.5, 0.5)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "ADAMAS" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:44") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.15)
             OsuSong(personal = 0.05, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-5135"
         title = "AIR MAN GA TAOSENAI" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.4)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Air Man Ga Taosenai" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:53") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.2)
             OsuSong(personal = 0.5, community = 0.3)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-43788"
         title = "Innocent Girl Theme Song & Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.4, 0.75)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Art as ♡" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.65)
             OsuSong(personal = 0.4, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-79122"
         title = "BLACK CLOVER MUSIC COLLECTION Vol.2" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Black Rover (TV-SIZE)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("1:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.25)
             OsuSong(personal = 0.6, community = 0.7)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-71831"
         title = "COLORS POWER NI OMAKASERO! / COLORS☆SLASH [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.2)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Colors Power ni Omakasero!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.25)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-121238"
         title = "Shade of Mythology" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
-        SubIDEntry("2") {
+        <entry id="$-2">
             title = "EOS -Long Version-" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- Length source: https://osu.ppy.sh/beatmapsets/160493#osu/392028 -->
             MusicConsumedProgress("4:05") <!-- impl_overridden -->
             Music(0.4)
             OsuSong(personal = 0.75, community = 0.4)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-60678"
         title = "PLANET//SHAPER" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
-        SubIDEntry("11") {
+        <entry id="$-11">
             title = "Exit This Earth's Atomosphere" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- Length source: https://www.youtube.com/watch?v=QsuAKlNe_rI -->
             MusicConsumedProgress("5:32") <!-- impl_overridden -->
             Music(0.5)
             OsuSong(personal = 0.35, community = 0.75)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-43924"
         title = "TOHO COMPLETE BOX" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.5)
-        SubIDEntry("47") {
+        <entry id="$-47">
             title = "Frozen" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:20") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 0.5, community = 0.1)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-66456"
         title = "Hakkensha wa Watashi / Tapimiru" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.2)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Hakkensha wa Watashi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
@@ -282,195 +282,195 @@
             <!-- me when people associate 367days absolute rst catjammer -->
             <!-- to lantis cocksucker isekai bullcrap /s -->
             <!-- jk this song is cool -->
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-43075"
         title = "Heart Realize / Tia [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.5, 0.6)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Heart Realize" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:55") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
             OsuSong(personal = 0.75, community = 0.3)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-43222"
         title = "HIKARI / ViViD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.1, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "HIKARI" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
             OsuSong(personal = 0.8, community = 0.8)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-95204"
         title = "TV Animation \"Hatena ☆ Illusion\" Original Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.6, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Hatena☆Illusion" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("2:50") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
             OsuSong(personal = 0.3, community = 0.1)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-103004"
         title = "One Day / SPYAIR" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
-        SubIDEntry("3") {
+        <entry id="$-3">
             title = "イマジネーション" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 0.4, community = 0.2)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-59355"
         title = "DJ'TEKINA//SOMETHING" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.5)
-        SubIDEntry("2") {
+        <entry id="$-2">
             title = "Internet bxxch (feat. YUCe')" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("5:04") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.6)
             OsuSong(personal = 0.5, community = 0.4)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-81535"
         title = "Duca Works 15th Anniversary BEST" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.15, 0.2)
-        SubIDEntry("9") {
+        <entry id="$-9">
             title = "Kanransha ~Ano Hi to, Kinou to Kyou to Ashita to~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.75)
             OsuSong(personal = 0.5, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-62350"
         title = "TV ANIMATION LONGRIDERS! ORIGINAL SOUNDTRACK" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.4)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "♡km/h (TV size)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("1:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
             OsuSong(personal = 0.6, community = 0.1)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-67908"
         title = "Hoshizora TeaParty Extra ~\"Ai\" Hajimarimashita!~ Hoshizora Ongakukai -ORIGINAL SOUNDTRACK-" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.7, 0.7)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "ここにいるよ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:34") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.65)
             OsuSong(personal = 0.6, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-62477"
         title = "Senketsu no Chikai / Yousei Teikoku" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
-        SubIDEntry("3") {
+        <entry id="$-3">
             title = "Kokou no Sousei" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("5:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.5)
             OsuSong(personal = 0.6, community = 0.75)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-54932"
         title = "UNDERTALE Soundtrack" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
-        SubIDEntry("96") {
+        <entry id="$-96">
             title = "Last Goodbye" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("2:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.55)
             OsuSong(personal = 0.75, community = 0.65)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-116264"
         title = "LEVEL / yanaginagi × THE SIXTH LIE" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.3)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "LEVEL" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.65)
             OsuSong(personal = 0.25, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-86010"
         title = "CLARITY / PassCode" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
-        SubIDEntry("3") {
+        <entry id="$-3">
             title = "Ray" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("3:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.6)
             OsuSong(personal = 0.5, community = 0.6)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-53986"
         title = "Sendan Life / Remo Prototype (CV: Yumiri Hanamori)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.4, 0.4)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Sendan Life" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- Length source: https://osu.ppy.sh/beatmapsets/416153#osu/901854 -->
             MusicConsumedProgress("3:52") <!-- impl_overridden -->
             Music(0.5)
             OsuSong(personal = 0.7, community = 0.8)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-31638"
         title = "Ongaku / wac" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.2)
-        SubIDEntry("9") {
+        <entry id="$-9">
             title = "Shounen Ripples" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:45") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.75, community = 0.2)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-67439"
         title = "crossbeats REV. Limited Premium BOX" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.2, 0.6)
-        SubIDEntry("13") {
+        <entry id="$-13">
             title = "Sunglow" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("1:58") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.75, community = 0.75)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-46812"
         title = "The Glory Days / Tia" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.4, 0.6)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "The Glory Days" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.6)
             OsuSong(personal = 0.9, community = 0.7)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-62503"
         title = "Wagamama MIRROR HEART / Ayaka Ohashi [Aki Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.5, 0.4)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Wagamama MIRROR HEART" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:34") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 0.9, community = 0.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-85759"
@@ -481,35 +481,35 @@
         id = "M-VGMDB-AL-103012"
         title = "CHUNITHM ALL JUSTICE COLLECTION ep. II" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.1, 0.3)
-        SubIDEntry("16") {
+        <entry id="$-16">
             title = "Xevel" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("2:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.6, community = 0.8)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-50020"
         title = "Yomi Yori Kikoyu, Koukoku no Tou to Honoo no Shoujo." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "黄泉より聴こゆ、皇国の燈と焔の少女。" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("8:20") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 1.0, community = 1.0)
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-43511"
         title = "yuima-ru★world / Rie Ayase" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.25, 0.5)
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Yuima-ru★World" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1151399#osu/2403410 -->
             MusicConsumedProgress("2:03") <!-- impl_overridden -->
             Music(0.25)
             OsuSong(personal = 0.3, community = 0.75)
-        }
+        </entry>
     }
     Entry {
         id = "M-20221202T205325"
@@ -897,12 +897,12 @@
 
         Visual(VisualKind.AlbumArt, 0.3, 0.6)
 
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "Ganbare! Kumoko san no Theme" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             MusicConsumedProgress("4:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.2, community = 0.3)
-        }
+        </entry>
     }
     Entry {
         id = "M-20221202T191703"
@@ -1001,13 +1001,13 @@
 
         Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
-        SubIDEntry("1") {
+        <entry id="$-1">
             title = "アニメを語レ!～アニメガタリ同好会のテーマ～" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.4, community = 0.0)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             MusicConsumedProgress("3:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        }
+        </entry>
     }
     Entry {
         id = "M-VGMDB-AL-54237"
@@ -1015,13 +1015,13 @@
 
         Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-        SubIDEntry("7") {
+        <entry id="$-7">
             title = "Ange du Blanc Pur" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.45)
             OsuSong(personal = 0.75, community = 0.25)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1188740 -->
             MusicConsumedProgress("4:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        }
+        </entry>
     }
     Entry {
         id = "M-20221127T140303"
@@ -1075,13 +1075,13 @@
 
         Visual(VisualKind.AlbumArt, 0.2, 0.2)
 
-        SubIDEntry("12") {
+        <entry id="$-12">
             MusicConsumedProgress("4:05") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "奇跡メロディ" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             <!-- haha segs -->
             NEI(0.5, Emotion.AP)
-        }
+        </entry>
     }
 
     Entry {

@@ -11,11 +11,11 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Kimochi Signal" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
-            }
+            </entry>
         }
 
         <!-- drama -->

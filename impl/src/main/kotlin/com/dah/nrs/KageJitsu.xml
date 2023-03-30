@@ -64,7 +64,7 @@
             <!-- not anime girls :anger:, this needs correction -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Darling in the Night" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- same composer as "WONDERFUL WORLD", "Watashi to Minna no Uta" -->
@@ -78,7 +78,7 @@
                 <!-- (yes, that nozsist song) -->
 
                 Music(0.5)
-            }
+            </entry>
         }
 
     }

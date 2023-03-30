@@ -33,11 +33,11 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Hana wa Odore ya Irohaniho" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
-            }
+            </entry>
         }
     }
 </document>

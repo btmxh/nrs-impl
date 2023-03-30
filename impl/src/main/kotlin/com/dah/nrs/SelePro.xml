@@ -37,11 +37,11 @@
             title = "SELECTION PROJECT Main Theme Song CD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Glorious Days" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
-            }
+            </entry>
         }
 
         Entry {
@@ -49,11 +49,11 @@
             title = "SELECTION PROJECT CHARACTER SONG CD 03" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 title = "ENDROLL" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 MusicConsumedProgress("3:53") <!-- impl_overridden -->
                 Music(0.4)
-            }
+            </entry>
         }
     }
 </document>

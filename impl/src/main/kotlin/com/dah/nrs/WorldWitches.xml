@@ -84,18 +84,18 @@
             title = "My Shining Light / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "My Shining Light" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the "azure reunion" of asuiro clear sky -->
                 Music(0.7)
-            }
+            </entry>
 
-            SubIDEntry("2") {
+            <entry id="$-2">
                 MusicConsumedProgress("4:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Luminossense" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
-            }
+            </entry>
         }
 
         Entry {
@@ -103,11 +103,11 @@
             title = "Sora ni Chikau kara / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Sora ni Chikau kara" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
-            }
+            </entry>
         }
 
         Entry {
@@ -115,12 +115,12 @@
             title = "WONDERFUL WORLD / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.75, 0.15)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("3:58") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "WONDERFUL WORLD" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Music(0.4)
-            }
+            </entry>
         }
 
         Entry {
@@ -128,12 +128,12 @@
             title = "Watashi to Minna no Uta / Luminous Witches" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("4:24") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Watashi to Minna no Uta" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Music(0.4)
-            }
+            </entry>
         }
 
         <!-- W witches -->
@@ -144,11 +144,11 @@
             title = "LUMINOUS WITCHES CHARACTER SONG CD vol.3" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.7, 0.15)
 
-            SubIDEntry("5") {
+            <entry id="$-5">
                 MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "歌を歌おう (finale)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
-            }
+            </entry>
         }
 
         Entry {
@@ -157,12 +157,12 @@
 
             Visual(VisualKind.AlbumArt, 0.3, 0.4)
 
-            SubIDEntry("34") {
+            <entry id="$-34">
                 MusicConsumedProgress("4:09") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Yakusoku no Sora e ~Watashi no Ita Basho~" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 Remix("M-20221009T085407")
-            }
+            </entry>
         }
     }
 

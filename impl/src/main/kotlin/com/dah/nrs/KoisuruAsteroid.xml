@@ -30,7 +30,7 @@
 
         Visual(VisualKind.AlbumArt, 0.3, 0.2)
 
-        SubIDEntry("1") {
+        <entry id="$-1">
             MusicConsumedProgress("4:37") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             title = "夜空" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- play the gigachad mapper's map: -->
@@ -42,6 +42,6 @@
 
             Music(0.5)
             OsuSong(personal = 0.4)
-        }
+        </entry>
     }
 </document>

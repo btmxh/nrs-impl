@@ -47,19 +47,19 @@
             title = "Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
-            SubIDEntry("1") {
+            <entry id="$-1">
                 MusicConsumedProgress("1:34") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Kimi wa Wasurerareru no" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 AEI(0.5, Emotion.CU)
-            }
+            </entry>
 
-            SubIDEntry("18") {
+            <entry id="$-18">
                 MusicConsumedProgress("2:26") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 title = "Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 AEI(0.5, Emotion.CU)
-            }
+            </entry>
         }
     }
 
