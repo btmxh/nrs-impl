@@ -1,0 +1,96 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-4168"
+        title = "NEW GAME!"
+
+        <!-- humor -->
+        AEI(0.25, Emotion.AP) {
+            contributors["A-MAL-31953"] = 0.5
+            contributors["A-MAL-34914"] = 0.5
+        }
+
+        Meme(0.2, 2) {
+            contributors["A-MAL-31953"] = 0.5
+            contributors["A-MAL-34914"] = 0.5
+        }
+
+        InterestField(true) {
+            contributors["A-MAL-31953"] = 0.25
+            contributors["A-MAL-34914"] = 0.25
+            contributors["A-MAL-13759"] = 0.5
+        }
+
+        Entry {
+            id = "A-MAL-31953"
+            title = "New Game!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 31953 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 11467 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 21455 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 31953 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <!-- idk who is better, aoba or yun, so one girl each season -->
+            bestGirl = "Iijima Yun" <!-- impl_overridden -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            Visual(VisualKind.Animated, 0.7, 0.3)
+
+            FeatureMusic("M-VGMDB-AL-58627-1")
+        }
+
+        Entry {
+            id = "A-MAL-34914"
+            title = "New Game!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 34914 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 13236 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 98292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 34914 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <!-- idk who is better, aoba or yun, so one girl each season -->
+            bestGirl = "Aoba Suzukaze" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            Visual(VisualKind.Animated, 0.7, 0.3)
+
+            FeatureMusic("M-VGMDB-AL-68225-1")
+        }
+
+        Entry {
+            id = "M-20220317T064137-2"
+            title = "fourfolium"
+            ValidatorSuppress("dah-entry-no-consumed")
+
+            Contains(MusicVocalImageContainFactor) {
+                Contains("M-VGMDB-AL-58627")
+                Contains("M-VGMDB-AL-68225")
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-58627"
+            title = "Now Loading!!!! / fourfolium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.7, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Now Loading!!!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.4)
+                OsuSong(personal = 0.4)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-68225"
+            title = "STEP by STEP UP↑↑↑↑ / fourfolium" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.7, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "STEP by STEP UP↑↑↑↑" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- mankai step by step -->
+                <!-- this song is legendary af -->
+                Music(0.5)
+                OsuSong(personal = 0.8)
+            }
+        }
+    }
+</document>

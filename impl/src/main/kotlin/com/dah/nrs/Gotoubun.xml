@@ -1,0 +1,56 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-9342"
+        title = "Gotoubun no Hanayome"
+
+        Entry {
+            id = "A-MAL-38101"
+            title = "5-toubun no Hanayome" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 38101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 41966 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 103572 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 38101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            <!-- i miss yuyuyu's idke memes -->
+            bestGirl = "Itsuki Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <!-- fuwa fuwa doki doki -->
+            AEI(0.5, Emotion.AP)
+            Visual(VisualKind.Animated, 0.5, 0.5)
+            FeatureMusic("M-VGMDB-AL-82284")
+        }
+
+        Entry {
+            id = "A-MAL-39783"
+            title = "5-toubun no Hanayome ∬" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 39783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 42324 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 109261 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 39783 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            <!-- lmfao "muh yuyuyu idc" -->
+            bestGirl = "Itsuki Nakano" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <!-- at first I doubted that S2 will be as good as S1 -->
+            <!-- but it actually is -->
+            AEI(0.25, Emotion.AP)
+            Visual(VisualKind.Animated, 0.5, 0.5)
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-82284"
+            title = "Gotoubun no Kimochi / Nakano-ke no Itsutsugo" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            Visual(VisualKind.AlbumArt, 0.5, 0.5)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Gotoubun no Kimochi" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.3)
+            }
+        }
+    }
+</document>

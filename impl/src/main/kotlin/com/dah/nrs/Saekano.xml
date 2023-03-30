@@ -1,0 +1,100 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-3305"
+        title = "Saenai Heroine no Sodatekata"
+
+        Entry {
+            id = "M-VGMDB-AL-48199"
+            title = "Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "M♭" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.2)
+                OsuSong(personal = 0.1)
+            }
+        }
+
+        Contains("M-VGMDB-AL-49446-1")
+
+        WaifuUnknownPeriod("Megumi Kato", 90) {
+            contributors["A-MAL-23277"] = 0.5
+            contributors["A-MAL-30727"] = 0.5
+        }
+        Meme(0.5, 45) {
+            contributors["A-MAL-23277"] = 0.5
+            contributors["A-MAL-30727"] = 0.5
+        }
+
+        <!-- domestic kanojo war arc -->
+        Meme(0.75, 90) {
+            contributors["A-MAL-23277"] = 0.5
+            contributors["A-MAL-30727"] = 0.5
+        }
+
+        Entry {
+            id = "A-MAL-23277"
+            title = "Saenai Heroine no Sodatekata" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 23277 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 8406 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 20657 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 23277 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Megumi Kato" <!-- impl_overridden -->
+
+            FeatureMusic("M-VGMDB-AL-48199-1")
+            FeatureMusic("M-VGMDB-AL-49446-1")
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            EHI()
+            Visual(VisualKind.Animated, 0.5, 0.3)
+        }
+
+        Entry {
+            id = "A-MAL-30727"
+            title = "Saenai Heroine no Sodatekata ♭" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 30727 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 10909 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 21180 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 30727 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Megumi Kato" <!-- impl_overridden -->
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
+            EHI()
+            Visual(VisualKind.Animated, 0.5, 0.3)
+        }
+
+        Entry {
+            id = "A-MAL-36885"
+            title = "Saenai Heroine no Sodatekata Fine" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 36885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 14050 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 100675 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 36885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Megumi Kato" <!-- impl_overridden -->
+            <!-- humor -->
+            NEI(0.25, Emotion.AP)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 54.minutes)
+            Visual(VisualKind.Animated, 0.55, 0.3)
+        }
+    }
+
+    Entry {
+        id = "M-20220117T170733-1"
+        title = "Colorful. (Asterisk DnB Remix)"
+
+        <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
+        Music(0.275)
+        MusicConsumedProgress("5:12") <!-- impl_overridden -->
+    }
+
+    Entry {
+        id = "M-20220117T170733-2"
+        title = "Colorful. (kamaboko remix)"
+
+        <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
+        Music(0.3)
+        MusicConsumedProgress("5:04") <!-- impl_overridden -->
+    }
+</document>

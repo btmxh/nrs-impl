@@ -1,0 +1,152 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    <!-- A wise man once said: -->
+    <!-- Every EI (emotional impact) post rst arc 1, -->
+    <!-- is a direct consequence of the era -->
+
+    Entry {
+        id = "F-VGMDB-2645"
+        title = "Wake Up, Girls!"
+
+        <!-- this is what happen when you combine -->
+        <!-- atmospheric farming with idolshit -->
+        <!-- also watch rst -->
+        AEI(0.0, Emotion.CU to 0.5, Emotion.CP to 0.5) {
+            contributors["A-MAL-21189"] = 0.75
+            contributors["A-MAL-19023"] = 0.2
+            contributors["A-MAL-38009"] = 0.04
+            contributors["GF-VGMDB-7059"] = 0.01
+        }
+
+        Entry {
+            id = "M-VGMDB-AR-15137"
+            title = "Wake Up, Girls!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Contains(MusicVocalImageContainFactor) {
+                Contains("M-VGMDB-AL-42945")
+                Contains("M-VGMDB-AL-46042")
+                Contains("M-VGMDB-AL-68276", 0.5)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-46042"
+            title = "Tachiagare! / Wake Up, Girls!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Tachiagare!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.6)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-42945"
+            title = "7 Girls War / Wake Up, Girls!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("5:07") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "7 Girls War" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.35)
+            }
+        }
+
+        Entry {
+            id = "A-MAL-21189"
+            title = "Wake Up, Girls! Shichinin no Idol" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 21189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 8200 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 20512 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 21189 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 52.minutes)
+            <!-- partially benefitted from rst -->
+            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
+
+            FeatureMusic("M-VGMDB-AL-46042-1")
+            Visual(VisualKind.Animated, 0.4, 0.6)
+        }
+
+        Entry {
+            id = "A-MAL-19023"
+            title = "Wake Up, Girls!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 19023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 7774 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 19023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 19023 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            FeatureMusic("M-VGMDB-AL-42945-1")
+            Visual(VisualKind.Animated, 0.4, 0.6)
+        }
+
+        Entry {
+            id = "A-MAL-28841"
+            title = "Wake Up, Girls! Seishun no Kage" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 10068 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 20989 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 28841 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 54.minutes)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            Visual(VisualKind.Animated, 0.4, 0.6)
+        }
+
+        Entry {
+            id = "A-MAL-30419"
+            title = "Wake Up, Girls! Beyond the Bottom" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 10845 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 21107 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 30419 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            Visual(VisualKind.Animated, 0.4, 0.6)
+        }
+
+        Entry {
+            id = "A-MAL-34522"
+            title = "Wake Up, Girls! Shin Shou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 34522 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 13707 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 97933 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 34522 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Mayu Shimada" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            Visual(VisualKind.Animated, 0.3, 0.6)
+        }
+    }
+
+    Entry {
+        id = "M-VGMDB-AL-68276"
+        title = "One In A Billion / Wake Up, May'n! [Limited Edition]" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+        <!-- dream luck be like lmfao -->
+
+        Visual(VisualKind.AlbumArt, 0.1, 0.2)
+
+        SubIDEntry("1") {
+            MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            title = "One In A Billion" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            OsuSong(personal = 0.5, community = 0.1)
+            Music(0.6)
+        }
+    }
+</document>

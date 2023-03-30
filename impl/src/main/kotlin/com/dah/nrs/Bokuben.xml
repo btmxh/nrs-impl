@@ -1,0 +1,72 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-7481"
+        title = "Bokutachi wa Benkyou ga Dekinai"
+
+        Entry {
+            id = "A-MAL-38186"
+            title = "Bokutachi wa Benkyou ga Dekinai" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 38186 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 41956 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 103900 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 38186 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Mafuyu Kirisu" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- le bang bang zenryoku i love you girl lol -->
+            <!-- "this is a little bit better than gotoubun" -->
+            AEI(0.75, Emotion.AP)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            Visual(VisualKind.Animated, 0.4, 0.7)
+            FeatureMusic("M-VGMDB-AL-85537-1")
+        }
+
+        Entry {
+            id = "A-MAL-40004"
+            title = "Bokutachi wa Benkyou ga Dekinai!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 40004 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 42414 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 110229 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 40004 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Fumino Furuhashi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- va jokes aside, fumino is best girl -->
+
+            <!-- "this is a little bit better than gotoubun" lmfao copy paste error -->
+            <!-- is what i'm thinking but fall 2019 is just another trash season lol -->
+            AEI(0.7, Emotion.AP)
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            Visual(VisualKind.Animated, 0.4, 0.7)
+            FeatureMusic("M-VGMDB-AL-88884-1")
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-85537"
+            title = "Seishun Seminar/Never Give It Up!! / Study" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.7)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Seishun Seminar" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.25)
+                OsuSong(personal = 0.2)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-88884"
+            title = "Can now, Can now / Study" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.4, 0.7)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Can now, Can now" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.25)
+                OsuSong(personal = 0.1)
+            }
+        }
+    }
+</document>

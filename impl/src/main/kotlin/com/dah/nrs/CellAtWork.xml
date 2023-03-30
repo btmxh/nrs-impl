@@ -1,0 +1,25 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-8677"
+        title = "Hataraku Saibou"
+
+        Entry {
+            id = "A-MAL-37141"
+            title = "Hataraku Saibou" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 37141 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 14212 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 100977 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 37141 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Kesshouban" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 5)
+            Dropped()
+            Visual(VisualKind.Animated, 0.4, 0.1)
+            FeatureMusic("M-VGMDB-AL-77471-1")
+        }
+
+        Contains("M-VGMDB-AL-77471-1")
+    }
+</document>

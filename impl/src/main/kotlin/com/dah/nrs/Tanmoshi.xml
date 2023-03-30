@@ -1,0 +1,51 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-9850"
+        title = "Tantei wa Mou, Shindeiru."
+
+        Entry {
+            id = "A-MAL-46471"
+            title = "Tantei wa Mou, Shindeiru." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 46471 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 44022 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 128712 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 46471 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Nagisa Natsunagi" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- siesta arc is shit -->
+            <!-- cope -->
+            Visual(VisualKind.Animated, 0.5, 0.3)
+            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
+            FeatureMusic("M-VGMDB-AL-113531")
+            FeatureMusic("M-VGMDB-AL-113660")
+            KilledBy("A-MAL-41530", 0.2, 0.5)
+        }
+
+        <!-- Kano's friend's album lol -->
+        Entry {
+            id = "M-VGMDB-AL-113531"
+            title = "Kodou / Nanakagura" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:31") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Kodou" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.4)
+            }
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-113660"
+            title = "Koko de Ikiteru / mary & jon-YAKITORY" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            Visual(VisualKind.AlbumArt, 0.5, 0.3)
+            SubIDEntry("1") {
+                MusicConsumedProgress("3:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Koko de Ikiteru" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.4)
+            }
+        }
+    }
+</document>

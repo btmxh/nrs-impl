@@ -1,0 +1,37 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-5485"
+        title = "Imouto sae Ireba Ii."
+
+        Entry {
+            id = "A-MAL-35413"
+            title = "Imouto sae Ireba Ii." <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 11207 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 98596 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Miyako Shirakawa" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            Visual(VisualKind.Animated, 0.6, 0.2)
+            NEI(0.5, Emotion.AP)
+            FeatureMusic("M-VGMDB-AL-70621-1")
+            GateOpen("F-VGMDB-3275")
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-70621"
+            title = "Ashita no Kimi sae Ireba Ii. / ChouCho" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            Visual(VisualKind.AlbumArt, 0.5, 0.2)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("5:04") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Ashita no Kimi sae Ireba Ii." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                Music(0.6);
+                OsuSong(personal = 0.5, community = 0.1)
+            }
+        }
+    }
+</document>

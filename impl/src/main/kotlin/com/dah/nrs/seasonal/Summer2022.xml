@@ -1,0 +1,171 @@
+<?xml-model href="../../../../../../../../temp/schema.xsd"?>
+
+<document>
+    <!-- welcome to summer 2022, where everything is either an AKM reference or a -->
+    <!-- disguised idol anime. -->
+    <!-- at least the "dropped" rate will be lower than spring i think. (because idol) -->
+    <!-- goodbye mr teppen and prima doll lol -->
+    <!-- (the prima doll incident) -->
+
+    Entry {
+        id = "A-MAL-50760"
+        title = "Teppen!!!!!!!!!!!!!!!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniDB = 50760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idKitsu = 45729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniList = 143417 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idMAL = 50760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        bestGirl = "Yuzu Hosono" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- art has some flaws, but whatever -->
+        Visual(VisualKind.Animated, 0.4, 0.4)
+        <!-- bye lol -->
+        AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
+        Dropped()
+        KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
+    }
+
+    Entry {
+        id = "A-MAL-41589"
+        title = "Tokyo Mew Mew New ♡" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniDB = 41589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idKitsu = 43098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniList = 117196 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idMAL = 41589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        bestGirl = "Ichigo Momomiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- obligatory rst-cue studio(s) anime -->
+        <!-- art is "interesting" ngl -->
+        <!-- (basically it was somewhat decent while having 2002 character designs) -->
+        Visual(VisualKind.Animated, 0.4, 0.85)
+
+        <!-- the rescue mission succeeded let's goooooo -->
+        AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 9)
+        Dropped()
+        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+    }
+
+    Entry {
+        id = "A-MAL-50917"
+        title = "Prima Doll" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniDB = 50917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idKitsu = 45812 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniList = 144509 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idMAL = 50917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <!-- the "fuck u setsuna yuki" and "akari kito pls come back" anime -->
+        <!-- yep, ep 1 was ruined because of that bullcrap -->
+        <!-- yep, the whole anime was ruined because of that girl -->
+
+        bestGirl = "Otome Okumiya" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- ichijou ruka my beloved (she can't save this anime sadge) -->
+
+        <!-- the prima doll incident -->
+        AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
+        Dropped()
+
+        <!-- somewhat unique and cute at the same time ngl -->
+        <!-- but still good luck with that -1.0 boredom lol xddddddddddd -->
+        Visual(VisualKind.Animated, 0.75, 0.3)
+
+        NEI(-0.1, Emotion.AU)
+
+        <!-- well this is not killed by AKM and SB69, it's more like -->
+        <!-- kusunoki tomori ruined the anime -->
+        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+
+        <!-- kusunoki tomori - the prima doll destroyer -->
+    }
+
+    Entry {
+        id = "A-MAL-49470"
+        title = "Mamahaha no Tsurego ga Motokano datta" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniDB = 49470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idKitsu = 44913 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniList = 136934 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idMAL = 49470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <!-- from the creators of Seirei Gensouki (kimi no rhapsody reference) -->
+        <!-- and something something villager a (kimi no rhapsody reference once -->
+        <!-- again), introducing... -->
+
+        <!-- no fucking way a romcom in our lord's year + 3537 - 1515 -->
+        <!-- > Irido, Yume                Hidaka, Rina -->
+        <!-- > Main                           Japanese -->
+        <!-- oh i see -->
+
+        bestGirl = "Yume Irido" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- self-explanatory -->
+
+        <!-- good art (the rosia girl looks breedable af) -->
+        Visual(VisualKind.Animated, 0.65, 0.2)
+
+        <!-- still shit anime anyways -->
+        <!-- lmfao they used "inverse-killedby" method to not be dropped -->
+        AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+        <!-- no way they made an reference to the "mc cried" atelier bs -->
+        <!-- based rosia-chan and her baits -->
+        <!-- brb watching the anime of the season -->
+        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+    }
+
+    Entry {
+        id = "A-MAL-50999"
+        title = "Extreme Hearts" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniDB = 50999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idKitsu = 45855 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniList = 145001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idMAL = 50999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        bestGirl = "Saki Kodaka" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- saki is someone that we need but we don't deserve -->
+
+        <!-- no fucking way ari ozawa and tomomi mineuchi in the same anime -->
+        <!-- is this an ortensia incident reference???????????????????????? -->
+        <!-- (more '?' than teppen let's go) -->
+
+        <!-- the ari ozawa girl actually experienced an ortensia incident LMFAO -->
+        <!-- xddddddddddddddddddddddd -->
+
+        <!-- > love live VA's -->
+        <!-- https://www.google.com/search?q=trolldespair -->
+
+        <!-- "I'm a mechanic, and Michelle is in R&D" -->
+        <!-- FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET -->
+        <!-- OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD -->
+        <!-- FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET -->
+        <!-- OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD -->
+        <!-- FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD -->
+
+        Visual(VisualKind.Animated, 0.5, 0.1)
+
+        AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+        KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
+    }
+
+    Entry {
+        id = "A-MAL-50221"
+        title = "Shine Post" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniDB = 50221 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idKitsu = 45389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idAniList = 140753 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        idMAL = 50221 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        bestGirl = "Rio Seibu" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- lmfao himekek VA -->
+        <!-- they even got her to sing a ballad omegalul -->
+        <!-- (they know about her songs in sb69 these cheeky mfs) -->
+
+        <!-- https://www.youtube.com/watch?v=2mFt7arKiNE -->
+        Visual(VisualKind.Animated, 0.4, 0.5)
+        AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 7)
+        Dropped()
+        KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
+        KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
+    }
+
+</document>

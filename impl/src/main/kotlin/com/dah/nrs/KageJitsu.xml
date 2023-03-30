@@ -1,0 +1,85 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    <!-- 2023 is the year of isekai -->
+    Entry {
+        id = "F-VGMDB-9991"
+        title = "Kage no Jitsuryokusha ni Naritakute!"
+
+        <!-- "dude mc is literally me..." -->
+        <!-- - every AAists (anti-appearancists) and EAAists (extreme AAists) in the NAP -->
+
+        <!-- ("... except for the fact that he is actually powerful, not like me xdddd") -->
+
+        Entry {
+            id = "A-MAL-48316"
+            title = "Kage no Jitsuryokusha ni Naritakute!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 44107 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 130298 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            title = "Kage no Jitsuryokusha ni Naritakute!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+            bestGirl = "Sherry Barnett"
+            <!-- aka himeno sena 2023 -->
+            <!-- worse life than sena FeelsStrongMan -->
+            <!-- best girl discussion: https://github.com/ngoduyanh/nrs-impl-kt/discussions/380 -->
+            <!-- got fucked himeno sena: https://github.com/ngoduyanh/nrs-impl-kt/issues/260 -->
+
+            <!-- dont let her looks fool you, she is not in anyway related to the idol franchise -->
+            <!-- love live (:skull:), she is not rina-chan boardo (you will pay for that -->
+            <!-- misunderstanding incident you prick) and yandere ayumu (haha love live fandom -->
+            <!-- funnyChamp) -->
+
+            <!-- also she brought the anime a relatively light one-day PADS kekw -->
+            <!-- but it kinda got out of hand :skull: -->
+            PADS(5, Emotion.CU to 0.9, Emotion.MP to 0.1) {
+                contributors["A-MAL-48316"] = 0.95
+                contributors["M-VGMDB-AL-76149-1"] = 0.05
+
+                ValidatorSuppress("dah-lone-pads")
+            }
+            AEI(0.8, Emotion.CU to 0.9, Emotion.MP to 0.1)
+
+            <!-- i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
+            Waifu("Sherry Barnett", "2023-03-01" to "2023-03-12")
+
+            <!-- I AM atomic -->
+            EHI() <!-- humor -->
+            NEI(0.25, Emotion.AP) <!-- plot -->
+
+            Meme(0.8, numDays("2023-03-01", "2023-03-12"))
+            FeatureMusic("M-VGMDB-AL-122851")
+
+            <!-- the 7 shadow art is meh but that individual saved the anime -->
+            Visual(VisualKind.Animated, 0.6, 0.4)
+
+            <!-- binged ez clap -->
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 20)
+        }
+
+        Entry {
+            id = "M-VGMDB-AL-122851"
+            title = "Darling in the Night / Shichikage" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <!-- not anime girls :anger:, this needs correction -->
+            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+
+            SubIDEntry("1") {
+                MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                title = "Darling in the Night" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- same composer as "WONDERFUL WORLD", "Watashi to Minna no Uta" -->
+                <!-- (luminous witches song W), new game's step by step up -->
+                <!-- :arrow_up: :arrow_up: :arrow_up: and especially :skull: -->
+                <!-- :warning: :rotating_light: :drumrolls: -->
+                <!-- nyumber -->
+                <!-- one -->
+                <!-- zettai -->
+                <!-- saikyou -->
+                <!-- (yes, that nozsist song) -->
+
+                Music(0.5)
+            }
+        }
+
+    }
+</document>

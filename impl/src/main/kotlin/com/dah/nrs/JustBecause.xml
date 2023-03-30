@@ -1,0 +1,26 @@
+<?xml-model href="../../../../../../../temp/schema.xsd"?>
+
+<document>
+    Entry {
+        id = "F-VGMDB-5678"
+        title = "Just Because!"
+
+        Entry {
+            id = "A-MAL-35639"
+            title = "Just Because!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniDB = 35639 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idKitsu = 13530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idAniList = 98820 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            idMAL = 35639 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            bestGirl = "Mio Natsume" <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <!-- Pretty decent drama -->
+            AEI(0.5, Emotion.CU)
+            FeatureMusic("M-VGMDB-AL-70716-1")
+            Visual(VisualKind.Animated, 0.4, 0.6)
+        }
+
+        Contains("M-VGMDB-AL-70716-1")
+    }
+</document>
