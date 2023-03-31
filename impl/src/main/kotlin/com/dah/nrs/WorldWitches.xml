@@ -83,12 +83,12 @@
             <entry id="$-1" title="My Shining Light">
                 <musicConsumedProgress length="4:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the "azure reunion" of asuiro clear sky -->
-                Music(0.7)
+                <music base="0.7" />
             </entry>
 
             <entry id="$-2" title="Luminossense">
                 <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
             </entry>
         </entry>
 
@@ -97,7 +97,7 @@
 
             <entry id="$-1" title="Sora ni Chikau kara">
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 
@@ -107,7 +107,7 @@
             <entry id="$-1" title="WONDERFUL WORLD">
                 <musicConsumedProgress length="3:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 
@@ -117,7 +117,7 @@
             <entry id="$-1" title="Watashi to Minna no Uta">
                 <musicConsumedProgress length="4:24" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 
@@ -129,7 +129,7 @@
 
             <entry id="$-5" title="歌を歌おう (finale)">
                 <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -139,7 +139,7 @@
 
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
                 <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
                 Remix("M-20221009T085407")
             </entry>
         </entry>
@@ -147,7 +147,7 @@
 
     <entry id="M-20221009T085407" title="- 約束の空へ ～私のいた場所～(Soleily Remix)">
 
-        Music(0.6)
+        <music base="0.6" />
         <!-- Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0 -->
         <musicConsumedProgress length="5:48" />
     </entry>

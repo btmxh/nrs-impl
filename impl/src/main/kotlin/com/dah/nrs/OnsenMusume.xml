@@ -11,7 +11,7 @@
             Visual(VisualKind.AlbumArt, 0.75, 0.25)
             <entry id="$-1" title="Hop Step Jump!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:59" /> <!-- impl_overridden -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -33,28 +33,28 @@
                 <musicConsumedProgress length="3:44" /> <!-- impl_overridden -->
                 <!-- https://www.youtube.com/watch?v=X2Q-bCS_IRs -->
                 Visual(VisualKind.AnimatedMV, 0.75, 0.25)
-                Music(0.5)
+                <music base="0.5" />
             </entry>
 
             <!-- 2-4 are subunit songs -->
             <entry id="$-2" title="ロマンスの林檎"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:20" /> <!-- impl_overridden -->
-                Music(0.7)
+                <music base="0.7" />
             </entry>
 
             <entry id="$-3" title="SILENT VOICES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:58" /> <!-- impl_overridden -->
-                Music(0.45)
+                <music base="0.45" />
             </entry>
 
             <entry id="$-4" title="おはようジャポニカ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:26" /> <!-- impl_overridden -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
 
             <entry id="$-5" title="さよなら花火"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- impl_overridden -->
-                Music(0.2)
+                <music base="0.2" />
             </entry>
         </entry>
 

@@ -32,7 +32,7 @@
 
             <entry id="$-1" title="Tachiagare!">
                 <musicConsumedProgress length="4:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -42,7 +42,7 @@
 
             <entry id="$-1" title="7 Girls War">
                 <musicConsumedProgress length="5:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
             </entry>
         </entry>
 
@@ -133,7 +133,7 @@
         <entry id="$-1" title="One In A Billion">
             <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             OsuSong(personal = 0.5, community = 0.1)
-            Music(0.6)
+            <music base="0.6" />
         </entry>
     </entry>
 </document>

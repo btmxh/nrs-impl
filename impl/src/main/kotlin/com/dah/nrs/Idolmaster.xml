@@ -15,7 +15,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             <entry id="$-1" title="Dreaming!">
                 <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
                 OsuSong(personal = 0.8)
             </entry>
         </entry>        <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -23,7 +23,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             <entry id="$-1" title="Dreaming!">
                 <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
                 OsuSong(personal = 0.8)
             </entry>
         </entry>   </entry>
@@ -35,7 +35,7 @@
 
             <entry id="$-1" title="UNION!!">
                 <musicConsumedProgress length="5:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
                 OsuSong(personal = 0.5, community = 0.2)
             </entry>
         </entry>
@@ -55,7 +55,7 @@
             NEI(0.75, Emotion.AP)
 
             <!-- idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig. -->
-            Music(0.03)
+            <music base="0.03" />
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 25)
             Visual(VisualKind.Animated, 0.4, 0.3)
         </entry>

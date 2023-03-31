@@ -54,7 +54,7 @@
 
         <entry id="$-1" title="Good Morning World!">
             <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.25)
+            <music base="0.25" />
             OsuSong(personal = 0.1)
         </entry>
     </entry>

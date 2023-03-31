@@ -16,7 +16,7 @@
             AEI(0.5, Emotion.CU)
 
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
-            Music(0.425)
+            <music base="0.425" />
             <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
             Remix("M-20220205T023322-1")
             Remix("M-20220205T023322-3")
@@ -27,7 +27,7 @@
 
         <!-- yuiko version is probably the best, music-wise -->
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
-        Music(0.65)
+        <music base="0.65" />
         <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
     </entry>
 
@@ -35,7 +35,7 @@
 
         <!-- quite good, but they didn't keep the orig. inst. -->
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
-        Music(0.5)
+        <music base="0.5" />
         <musicConsumedProgress length="4:23" /> <!-- impl_overridden -->
     </entry>
 
@@ -44,7 +44,7 @@
         Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
         <musicConsumedProgress length="4:23" />
-        Music(0.65)
+        <music base="0.65" />
         OsuSong(personal = 0.8, community = 0.0)
     </entry>
 
@@ -53,7 +53,7 @@
         Visual(VisualKind.StaticMV, 0.2, 0.4)
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         <musicConsumedProgress length="3:56" />
-        Music(0.6)
+        <music base="0.6" />
         <ref name="KoikakeNEI" _.base="0.3" _.contribution="0.7" _.emotions="Emotion.CU" />
     </entry>
 
@@ -71,7 +71,7 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -85,7 +85,7 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -99,7 +99,7 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -113,10 +113,10 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.4)
+            <music base="0.4" />
             OsuSong(personal = 0.5, community = 0.5)
         }
     </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -133,7 +133,7 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -147,7 +147,7 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -161,7 +161,7 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -175,10 +175,10 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            Music(0.5)
+            <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.4)
+            <music base="0.4" />
             OsuSong(personal = 0.5, community = 0.5)
         }
     </entry>   </entry>
@@ -187,7 +187,7 @@
     <entry id="M-20221217T174507" title="Kutsumigaki to Maria">
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         Visual(VisualKind.AnimatedMV, 0.5, 0.6)
-        Music(0.45) <!-- a bit dull at times but... -->
+        <music base="0.45" /> <!-- a bit dull at times but... -->
         <ref name="KoikakeCry" _.contribution="0.85" _.emotions="Emotion.MP to 0.5, Emotion.CU to 0.5" />
         <!-- the part though wtf -->
         <!-- did not expect to be that good ?????????? -->
@@ -217,7 +217,7 @@
         <!-- no ei in nee sadge -->
 
         Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
-        Music(0.5)
+        <music base="0.5" />
         <!-- Length source: https://www.youtube.com/watch?v=EHxFEHPBDP8 -->
         <musicConsumedProgress length="4:28" />
     </entry>

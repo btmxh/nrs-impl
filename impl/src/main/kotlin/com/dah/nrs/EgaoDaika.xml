@@ -36,7 +36,7 @@
             <entry id="$-1" title="Egao no Kanata"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1048878#osu/2192351 -->
                 <musicConsumedProgress length="3:50" /> <!-- impl_overridden -->
-                Music(0.5)
+                <music base="0.5" />
                 OsuSong(personal = 0.25, community = 0.0)
             </entry>
         </entry>

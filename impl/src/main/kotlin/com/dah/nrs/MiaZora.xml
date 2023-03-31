@@ -31,7 +31,7 @@
 
             <entry id="$-1" title="Finest Sky">
                 <musicConsumedProgress length="3:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
                 <!-- [albireo princess] -->
                 <!-- hddt -->
                 <!-- haha -->

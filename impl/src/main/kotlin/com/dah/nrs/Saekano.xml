@@ -9,7 +9,7 @@
 
             <entry id="$-1" title="M♭">
                 <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.2)
+                <music base="0.2" />
                 OsuSong(personal = 0.1)
             </entry>
         </entry>
@@ -78,14 +78,14 @@
     <entry id="M-20220117T170733-1" title="Colorful. (Asterisk DnB Remix)">
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
-        Music(0.275)
+        <music base="0.275" />
         <musicConsumedProgress length="5:12" /> <!-- impl_overridden -->
     </entry>
 
     <entry id="M-20220117T170733-2" title="Colorful. (kamaboko remix)">
 
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
-        Music(0.3)
+        <music base="0.3" />
         <musicConsumedProgress length="5:04" /> <!-- impl_overridden -->
     </entry>
 </document>

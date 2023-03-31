@@ -22,7 +22,7 @@
 
             <entry id="$-1" title="Hey Darling!">
                 <musicConsumedProgress length="3:35" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.65)
+                <music base="0.65" />
             </entry>
         </entry>
     </entry>

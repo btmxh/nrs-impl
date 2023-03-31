@@ -142,7 +142,7 @@
                 <!-- and I go "Arisu? More like Asuir" AAAAAAAAAAAAAAHGESFG -->
 
                 <!-- all of that aside, this song slaps -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -197,7 +197,7 @@
             Visual(VisualKind.AlbumArt, 0.35, 0.3)
             <entry id="$-4" title="Miruiro no Hoshi">
                 <musicConsumedProgress length="5:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.5)
+                <music base="0.5" />
             </entry>
         </entry>
 
@@ -206,7 +206,7 @@
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
             <entry id="$-9" title="Into the Journey">
                 <musicConsumedProgress length="5:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.6)
+                <music base="0.6" />
                 <!-- the cp contest of Oct 4th -->
                 <!-- aka the first win of the ROD in uni -->
                 AEI(0.25, Emotion.CP)
@@ -217,7 +217,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-8" title="Sky of Twilight"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="6:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.45)
+                <music base="0.45" />
                 OsuSong(personal = 0.5, community = 0.0)
             </entry>
         </entry>

@@ -10,7 +10,7 @@
             <entry id="$-1" title="青空のラプソディ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://open.spotify.com/album/7AA47NCwpqemraOTWD1oCV -->
                 <musicConsumedProgress length="4:38" /> <!-- impl_overridden -->
-                Music(0.3)
+                <music base="0.3" />
             </entry>
         </entry>
 
@@ -20,7 +20,7 @@
 
             <entry id="$-1" title="Ai no Supreme!">
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
                 <!-- "why is the dude singing???" - some pp mapper -->
                 Meme(0.05, 6)
             </entry>

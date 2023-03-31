@@ -72,7 +72,7 @@
                 <!-- saikyou -->
                 <!-- (yes, that nozsist song) -->
 
-                Music(0.5)
+                <music base="0.5" />
             </entry>
         </entry>
 

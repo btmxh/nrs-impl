@@ -12,7 +12,7 @@
 
                 <!-- binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD -->
                 Meme(0.1, 6)
-                Music(0.25)
+                <music base="0.25" />
             </entry>
         </entry>
 
@@ -23,7 +23,7 @@
             <entry id="$-9" title="Tenshi ni Fureta yo!">
                 <musicConsumedProgress length="4:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Music(0.05)
+                <music base="0.05" />
             </entry>
         </entry>
 
@@ -33,7 +33,7 @@
 
             <entry id="$-2" title="U&I">
                 <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.1)
+                <music base="0.1" />
             </entry>
         </entry>
 

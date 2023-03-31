@@ -27,7 +27,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1" title="Kodou">
                 <musicConsumedProgress length="4:31" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 
@@ -36,7 +36,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1" title="Koko de Ikiteru">
                 <musicConsumedProgress length="3:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
     </entry>

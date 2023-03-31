@@ -34,7 +34,7 @@
 
         <entry id="M-VGMDB-AL-52834" title="Ao no Kanata no Four Rhythm Vocal & Sound Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- too lazy to rate every single track -->
-            Music(0.8)
+            <music base="0.8" />
             Visual(VisualKind.AlbumArt, 0.2, 0.15)
             Remix("M-20221202T205008")
         </entry>
@@ -43,7 +43,7 @@
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
             <entry id="$-1" title="Contrail ~Kiseki~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.45)
+                <music base="0.45" />
                 OsuSong(personal = 0.75, community = 0.3)
                 Remix("M-20221202T210558")
             </entry>
@@ -52,7 +52,7 @@
 
     <entry id="M-20221202T205008" title="Wings of Courage -Sora o Koete- (Epsilon Remix)">
         ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.6)
+        <music base="0.6" />
         OsuSong(personal = 0.3, community = 0.0)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1358513 -->
         <musicConsumedProgress length="4:58" />
@@ -60,7 +60,7 @@
 
     <entry id="M-20221202T210558" title="Contrail ~Kiseki~ (Epsilon Remix)">
         ValidatorSuppress("dah-entry-no-consumed")
-        Music(0.6)
+        <music base="0.6" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/461966 -->
         <musicConsumedProgress length="5:50" />
     </entry>

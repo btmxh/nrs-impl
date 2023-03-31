@@ -39,7 +39,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-1" title="Taiga yo Tomo ni Naite Kure">
                 <musicConsumedProgress length="3:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.55)
+                <music base="0.55" />
             </entry>
         </entry>
     </entry>

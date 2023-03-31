@@ -11,7 +11,7 @@
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
 
-            Music(0.3) {
+            <music base="0.3" /> {
                 contributors["M-VGMDB-AL-37999-1"] = 0.5
                 contributors["M-VGMDB-AL-37999-2"] = 0.5
             }
@@ -31,7 +31,7 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
 
-            Music(0.35) {
+            <music base="0.35" /> {
                 contributors["M-VGMDB-AL-51394-1"] = 0.5
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
             }
@@ -53,7 +53,7 @@
 
             <entry id="$-1" title="Diamond no Jundo">
                 <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
             </entry>
         </entry>
 

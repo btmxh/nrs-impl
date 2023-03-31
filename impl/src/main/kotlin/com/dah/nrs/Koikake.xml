@@ -102,12 +102,12 @@
 
                 <!-- gyze i found the mv for this song :skull: -->
                 <!-- https://www.youtube.com/watch?v=e_IIORCnBxI -->
-                Music(0.35)
+                <music base="0.35" />
             </entry>
 
             <entry id="$-14" title="東の空から始まる世界">
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
@@ -116,13 +116,13 @@
                 <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
                 <!-- This blue 🟦 sky ☁️ will always ♾️ be right 👉 here 👇 -->
-                Music(0.75)
+                <music base="0.75" />
                 <!-- NEI(Emotion.CU, 0.2) -->
                 <!-- :Pause: :pepeLaugh: -->
             </entry>
 
             <!-- classic "too lazy to rank all of the tracks" -->
-            Music(0.6)
+            <music base="0.6" />
             <ref name="KoikakeAEI" _.base="0.5" _.contribution="0.1" _.emotions="Emotion.CU to 0.8, Emotion.CP to 0.2" />
         </entry>
 
@@ -142,7 +142,7 @@
 
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
             <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.7)
+            <music base="0.7" />
             <ref name="KoikakeCry" _.contribution="0.75" _.emotions="Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25" />
             <!-- Đó chính là, đoạn đường mà em đi -->
             <!-- That is, the path that you've chosen -->

@@ -12,7 +12,7 @@
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-2" title="Mata Ashita">
                 <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.2)
+                <music base="0.2" />
             </entry>
         </entry>
 
@@ -21,7 +21,7 @@
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-4" title="Believing in Justice">
                 <musicConsumedProgress length="1:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.25)
+                <music base="0.25" />
             </entry>
         </entry>
 
@@ -30,7 +30,7 @@
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-2" title="and I'm home">
                 <musicConsumedProgress length="2:50" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.15)
+                <music base="0.15" />
             </entry>
         </entry>
 
@@ -43,7 +43,7 @@
 
             <entry id="$-1" title="ケアレス">
                 <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -55,7 +55,7 @@
 
             <entry id="$-1" title="Gomakashi">
                 <musicConsumedProgress length="4:11" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.65)
+                <music base="0.65" />
             </entry>
         </entry>
 
@@ -71,7 +71,7 @@
                 <!-- osu! 9.97⭐UTSUROI +HDDTHR 1108pp | WhiteCat -->
                 OsuSong(personal = 0.65, community = 0.1)
 
-                Music(0.5)
+                <music base="0.5" />
             </entry>
         </entry>
 
@@ -251,7 +251,7 @@
             <entry id="M-20220113T184042-3" title="Colorful - Magibeat Remix">
 
                 <!-- Length source: https://www.nicovideo.jp/watch/sm22151925 -->
-                Music(0.35)
+                <music base="0.35" />
                 <musicConsumedProgress length="4:35" />
             </entry>
         }

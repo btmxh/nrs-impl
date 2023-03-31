@@ -100,7 +100,7 @@
 
             <entry id="$-1" title="Hoshikuzu no Interlude"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="6:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
             </entry>
         </entry>
     </entry>
@@ -194,7 +194,7 @@
 
                 <entry id="$-11" title="かかわり"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.6)
+                    <music base="0.6" />
                 </entry>
             </entry>
 
@@ -202,7 +202,7 @@
                 Visual(VisualKind.AlbumArt, 0.2, 0.3)
                 <entry id="$-1" title="adrenaline!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.4)
+                    <music base="0.4" />
                     OsuSong(personal = 0.15, community = 0.0)
                 </entry>
             </entry>
@@ -234,7 +234,7 @@
                 Visual(VisualKind.AlbumArt, 0.2, 0.2)
                 <entry id="$-1" title="SHIORI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.45)
+                    <music base="0.45" />
                     OsuSong(personal = 0.75, community = 0.8)
                 </entry>
             </entry>
@@ -244,7 +244,7 @@
                 Visual(VisualKind.AlbumArt, 0.35, 0.6)
                 <entry id="$-1" title="Connect"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.3)
+                    <music base="0.3" />
                 </entry>
             </entry>
 
@@ -253,7 +253,7 @@
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
                 <entry id="$-1" title="カラフル">
                     <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.5)
+                    <music base="0.5" />
 
                     Remix("M-20220113T184042-3")
                     Remix("M-20220113T184042-4")
@@ -265,7 +265,7 @@
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
                 <entry id="$-1" title="シグナル"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="3:43" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.7)
+                    <music base="0.7" />
                 </entry>
             </entry>
 
@@ -275,7 +275,7 @@
 
                 <entry id="$-1" title="CheerS">
                     <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.4)
+                    <music base="0.4" />
                     OsuSong(personal = 0.4, community = 0.0)
                 </entry>
             </entry>
@@ -290,14 +290,14 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393 -->
                 <musicConsumedProgress length="5:21" /> <!-- impl_overridden -->
-                Music(0.65)
+                <music base="0.65" />
             </entry>
 
             <entry id="M-20220317T064137-3" title="Tamame - Ebb and Flow (5 years after remix)">
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882 -->
                 <musicConsumedProgress length="6:19" /> <!-- impl_overridden -->
-                Music(0.3)
+                <music base="0.3" />
             </entry>
         }
     </entry>
@@ -311,7 +311,7 @@
 
                 <entry id="$-1" title="lull ~Soshite Bokura wa~">
                     <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.075)
+                    <music base="0.075" />
                 </entry>
             </entry>
 
@@ -321,13 +321,13 @@
 
                 <entry id="$-1" title="ebb and flow">
                     <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.35)
+                    <music base="0.35" />
                     Remix("M-20220317T064137-3")
                 </entry>
 
                 <entry id="$-3" title="nagi">
                     <musicConsumedProgress length="4:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.12)
+                    <music base="0.12" />
                 </entry>
             </entry>
 
@@ -346,7 +346,7 @@
 
                 <entry id="$-1" title="アクアテラリウム"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.075)
+                    <music base="0.075" />
                 </entry>
             </entry>
 
@@ -356,7 +356,7 @@
 
                 <entry id="$-1" title="Mitsuba no Musubime">
                     <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.075)
+                    <music base="0.075" />
                 </entry>
             </entry>
 
@@ -366,7 +366,7 @@
 
                 <entry id="$-1" title="Yukitoki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.2)
+                    <music base="0.2" />
                 </entry>
             </entry>
 
@@ -376,7 +376,7 @@
 
                 <entry id="$-1" title="Harumodoki">
                     <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.25)
+                    <music base="0.25" />
                     Remix("M-VGMDB-AL-106577-6")
                 </entry>
             </entry>
@@ -387,7 +387,7 @@
 
                 <entry id="$-1" title="芽ぐみの雨"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.3)
+                    <music base="0.3" />
                 </entry>
             </entry>
 
@@ -397,7 +397,7 @@
 
                 <entry id="$-1" title="over and over"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.5)
+                    <music base="0.5" />
                 </entry>
             </entry>
         }
@@ -478,7 +478,7 @@
 
                 <entry id="$-1" title="Aruite Ikou!">
                     <musicConsumedProgress length="4:24" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.4)
+                    <music base="0.4" />
                 </entry>
             </entry>
         }
@@ -519,7 +519,7 @@
 
                 <entry id="$-1" title="Colorful.">
                     <musicConsumedProgress length="4:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.25)
+                    <music base="0.25" />
                 </entry>
             </entry>
 
@@ -570,7 +570,7 @@
 
                 <entry id="$-1" title="Egao no Kimi e">
                     <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.35)
+                    <music base="0.35" />
                 </entry>
             </entry>
         }
@@ -603,7 +603,7 @@
 
                 <entry id="$-1" title="Kuchizuke Diamond"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="3:57" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.35)
+                    <music base="0.35" />
                     OsuSong(personal = 0.4, community = 0.5)
                 </entry>
             </entry>
@@ -622,7 +622,7 @@
 
                 <entry id="$-1" title="CANDY MAGIC"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.1)
+                    <music base="0.1" />
                 </entry>
             </entry>
 
@@ -633,7 +633,7 @@
                 <!-- kek -->
                 <entry id="$-1" title="hare bare fanfare"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.4)
+                    <music base="0.4" />
 
                     OsuSong(personal = 0.6, community = 0.3)
                 </entry>
@@ -667,7 +667,7 @@
 
         <entry id="$-1" title="Uchiage Hanabi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <musicConsumedProgress length="4:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Music(0.2)
+            <music base="0.2" />
         </entry>
     </entry>
 
@@ -680,7 +680,7 @@
 
                 <entry id="$-1" title="crossing field"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.1)
+                    <music base="0.1" />
                 </entry>
             </entry>
         }
@@ -718,7 +718,7 @@
             <!-- Length source: https://open.spotify.com/album/2ztJCuDBki1rNOEi2TrH2W -->
             <entry id="M-20220818T163913-2" title="Shoujotachi no Owaranai Yoru">
                 <musicConsumedProgress length="4:08" /> <!-- impl_overridden -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
 
             <entry id="M-20220818T163913-3" title="Colorful">
@@ -726,14 +726,14 @@
                 <!-- 1-2 1-2 1-2 1-2 -->
                 <!-- "imagine ruining a 2013 video comment section because of 1-2 xD" -->
                 <musicConsumedProgress length="4:43" />
-                Music(0.45)
+                <music base="0.45" />
                 <!-- cringeworthy material: https://www.youtube.com/watch?v=_3aqQaH9AWM (it's me who made that) -->
             </entry>
         </entry>
 
         <entry id="M-20221202T203615" title="Rokugatsu no Himitsu Kichi">
             ValidatorSuppress("dah-entry-no-consumed")
-            Music(0.45)
+            <music base="0.45" />
             OsuSong(personal = 0.6, community = 0.0)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1094362 -->
             <musicConsumedProgress length="4:52" />
@@ -741,7 +741,7 @@
 
         <entry id="M-20221202T194015" title="HAG - Hoshikuzu Orchestra">
             ValidatorSuppress("dah-entry-no-consumed")
-            Music(0.55)
+            <music base="0.55" />
             OsuSong(personal = 0.5, community = 0.0)
             <!-- Length source: https://osu.ppy.sh/beatmapsets/804193 -->
             <musicConsumedProgress length="4:48" />
@@ -787,7 +787,7 @@
                         <!-- Doj's Insane -->
                         <!-- Insane -->
                         <!-- osugame -->
-                        Music(0.25)
+                        <music base="0.25" />
                         OsuSong(personal = 0.6, community = 0.0)
                     </entry>
                 </entry>
@@ -820,7 +820,7 @@
                 <!-- her voice kinda fits with the song ngl -->
                 <!-- new kano inc (jk) -->
                 <musicConsumedProgress length="4:28" />
-                Music(0.25)
+                <music base="0.25" />
             </entry>
         }
     </entry>
@@ -882,7 +882,7 @@
                 Visual(VisualKind.AlbumArt, 0.6, 0.3)
                 <entry id="$-6" title="Azure Reunion"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="5:06" /> <!-- impl_overridden -->
-                    Music(0.6)
+                    <music base="0.6" />
                     Remix("M-VGMDB-AL-108194-5")
                 </entry>
             </entry>
@@ -908,7 +908,7 @@
 
                 <entry id="$-5" title="Azure Reunion">
                     <musicConsumedProgress length="5:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Music(0.6)
+                    <music base="0.6" />
                 </entry>
             </entry>
         }

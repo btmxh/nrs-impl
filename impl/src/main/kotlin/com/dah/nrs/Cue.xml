@@ -52,12 +52,12 @@
 
             <entry id="$-1" title="スタートライン">
                 <musicConsumedProgress length="5:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.7)
+                <music base="0.7" />
             </entry>
 
             <entry id="$-2" title="はじまりの鐘の音が鳴り響く空">
                 <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 

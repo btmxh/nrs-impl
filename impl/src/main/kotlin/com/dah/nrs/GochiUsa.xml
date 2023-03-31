@@ -13,7 +13,7 @@
                 <!-- dong do la max do -->
                 <!-- duy bua ham l -->
                 <!-- duy bua ngao l -->
-                Music(0.2)
+                <music base="0.2" />
             </entry>
         </entry>
 
@@ -36,7 +36,7 @@
                 <!-- dan dan kikoeru -->
                 <!-- lets go i fced the son's insane diff with dt -->
                 <!-- fuck sekai's insane tho -->
-                Music(0.3)
+                <music base="0.3" />
             </entry>
         </entry>
 
@@ -45,7 +45,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.15)
             <entry id="$-1" title="Mahou Shoujo Chino">
                 <musicConsumedProgress length="3:52" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.2)
+                <music base="0.2" />
             </entry>
         </entry>
 

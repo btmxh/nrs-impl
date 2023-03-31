@@ -186,7 +186,7 @@ fun main() =
             <bestGirl name="Rin" /> <!-- impl_overridden -->
 
             <!-- catJAM -->
-            Music(0.6)
+            <music base="0.6" />
 
             AdditionalImpact("Short anime buff", 0.75)
 

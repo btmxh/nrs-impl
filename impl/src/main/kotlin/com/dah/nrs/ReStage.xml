@@ -5,8 +5,8 @@
 
 <!-- watch rst and buy the bluray -->
 private val AllRstTracks = hashMapOf<String, ReStageMusicContext>()
-private fun DSLEntry.ReStepMusic(score: Double, block: ReStageMusicContext.() -> Unit = {}) {
-    Music(score)
+private fun DSLEntry.ReStep<music base="score: Double, block: ReStageMusicContext.(" /> -> Unit = {}) {
+    <music base="score" />
     val ctx = ReStageMusicContext()
     block(ctx)
     AllRstTracks[id] = ctx
@@ -249,7 +249,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-2" title="Startin' My Re:STAGE!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.1) {
+                ReStep<music base="0.1" /> {
                     <!-- watayuki grimoi-reference (M6.0 unranked lmfao) -->
                     akm1 = 5.0
                     akm2 = 5.0
@@ -263,7 +263,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="リメンバーズ!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.3) {
+                ReStep<music base="0.3" /> {
                     <!-- haha funny centuRe: reference -->
                     arc2 = 20.0 <!-- the century man -->
                     arc3 = 10.0 <!-- rst song comp -->
@@ -273,7 +273,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <entry id="$-2" title="君に贈るAngel Yell"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the angel yell incident -->
-                ReStepMusic(0.75) {
+                ReStep<music base="0.75" /> {
                     arc1 = 25.0
                 }
                 <!-- "Amazing saikou no Brilliant (HEY!!)" -->
@@ -288,7 +288,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="Natsu no Yakusoku"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.15)
+                ReStep<music base="0.15" />
             </entry>
         </entry>
 
@@ -298,7 +298,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="憧れFuture Sign"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.3) {
+                ReStep<music base="0.3" /> {
                     arc1 = 1.5
                     nee = 2.5
                 }
@@ -318,7 +318,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <entry id="$-1" title="Do it!! PARTY!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:33" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- do it happy daibouken reference -->
-                ReStepMusic(0.5) {
+                ReStep<music base="0.5" /> {
                     arc1 = 10.0
                     arc2 = 5.0
                 }
@@ -337,7 +337,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <entry id="$-1" title="宣誓センセーション"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- [plasmagunstepgica] -->
-                ReStepMusic(0.3) {
+                ReStep<music base="0.3" /> {
                     arc3 = 5.0
                 }
                 OsuSong(personal = 0.2)
@@ -360,7 +360,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu! -->
                 OsuSong(personal = 0.5)
 
-                ReStepMusic(0.5) {
+                ReStep<music base="0.5" /> {
                     arc1 = 15.0
                     arc2 = 10.0
                 }
@@ -372,7 +372,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             <entry id="$-1" title="ハッピータイフーン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.08) {
+                ReStep<music base="0.08" /> {
                     arc1 = 2.5
                 }
             </entry>
@@ -381,7 +381,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <musicConsumedProgress length="4:28" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- yozora ni kagayaku yume no ryuusei wa -->
                 <!-- kek -->
-                ReStepMusic(0.1) {
+                ReStep<music base="0.1" /> {
                     arc2 = 5.0
                 }
             </entry>
@@ -393,14 +393,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             <entry id="$-1" title="Don't think, smile!!">
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.25) {
+                ReStep<music base="0.25" /> {
                     arc1 = 7.5
                 }
             </entry>
 
             <entry id="$-2" title="Akogare Future Sign (Piano Strings Arrange)">
                 <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.2) {
+                ReStep<music base="0.2" /> {
                     arc1 = 10.0
                     nee = 15.0
                 }
@@ -420,7 +420,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- mot nguoi diet het moi tuong lai uoc mo -->
                 <!-- xinh dep bac nhat tren thai binh que to -->
                 <!-- co gai hoan love luon khien cho ca truong chuyen don dau -->
-                ReStepMusic(0.45) {
+                ReStep<music base="0.45" /> {
                     arc1 = 25.0
                 }
             </entry>
@@ -467,7 +467,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- demon slayer? more like got slayed by rst lmao xddddd -->
                 <!-- love live? more like love die because you got cucked by rst xddddddd KEKW ING -->
                 <!-- we will be on the top and people will have to smoke COPIUM just like me rn -->
-                ReStepMusic(0.8) {
+                ReStep<music base="0.8" /> {
                     arc1 = 25.0
                     arc3 = 25.0
                 }
@@ -479,7 +479,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             <entry id="$-5" title="Invisible Diamond"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.65) {
+                ReStep<music base="0.65" /> {
                     arc3 = 10.0
                 }
                 OsuSong(personal = 0.25, community = 0.0)
@@ -514,7 +514,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-3" title="Yes, We Are!!!">
                 <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.35) {
+                ReStep<music base="0.35" /> {
                     arc1 = 20.0
                 }
             </entry>
@@ -526,12 +526,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="Purple Rays">
                 <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.3)
+                ReStep<music base="0.3" />
             </entry>
 
             <entry id="$-2" title="Dear マイフレンド">
                 <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.4) {
+                ReStep<music base="0.4" /> {
                     arc1 = 2.5
                     arc3 = 2.5
                     <!-- blame localism -->
@@ -545,7 +545,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.25, 0.65)
             <entry id="$-1" title="*Heart Confusion*">
                 <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.1)
+                ReStep<music base="0.1" />
             </entry>
 
             <entry id="$-2" title="crave"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -555,7 +555,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- >still makes a song for rst anyway, but other franchises get none -->
                 <!-- >refuses to elaborate further -->
                 <!-- >leaves -->
-                ReStepMusic(0.25) {
+                ReStep<music base="0.25" /> {
                     arc1 = 5.0
                 }
             </entry>
@@ -571,7 +571,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-5" title="Ano ne">
                 <musicConsumedProgress length="3:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.2) {
+                ReStep<music base="0.2" /> {
                     arc1 = 5.0
                 }
             </entry>
@@ -665,14 +665,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="InFiction"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.45) {
+                ReStep<music base="0.45" /> {
                     arc3 = 2.5
                 }
             </entry>
 
             <entry id="$-8" title="DESERT BLACK FLOWER"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.75) {
+                ReStep<music base="0.75" /> {
                     arc3 = 10.0
                 }
             </entry>
@@ -701,7 +701,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="カナリア"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.6) {
+                ReStep<music base="0.6" /> {
                     arc1 = 5.0
                 }
             </entry>
@@ -723,7 +723,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- - sotarks map roasting -->
             <!-- - btmc map requests -->
             <!-- (both failed lmfao) -->
-            ReStepMusic(0.8) {
+            ReStep<music base="0.8" /> {
                 arc1 = 10.0
                 arc2 = 2.5
             }
@@ -747,7 +747,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- la nguoi mang niem tin hi vong cho toi -->
                 <!-- se mang lai biet bao su huy hoang -->
 
-                ReStepMusic(0.7) {
+                ReStep<music base="0.7" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 10.0
                 }
@@ -755,7 +755,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-2" title="Re:Rays"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.5) {
+                ReStep<music base="0.5" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 10.0
                 }
@@ -767,7 +767,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- nguoi dan ong da khien ca truong, -->
                 <!-- ca truong chuyen da luon lo so -->
 
-                ReStepMusic(0.7) {
+                ReStep<music base="0.7" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 10.0
                 }
@@ -775,7 +775,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-4" title="Pins&Needles">
                 <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.45) {
+                ReStep<music base="0.45" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 2.0
                 }
@@ -788,7 +788,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- tai vi sao a qua ngau -->
                 <!-- (the gian d ai sanh bang) -->
 
-                ReStepMusic(0.3) {
+                ReStep<music base="0.3" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 1.5
                 }
@@ -808,7 +808,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="Sin City"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:52" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.35) {
+                ReStep<music base="0.35" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 10.0
                 }
@@ -825,7 +825,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- ty for going back based akari kito -->
             <entry id="$-1" title="Chiguhagu Melody"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:55" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.2) {
+                ReStep<music base="0.2" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 3.0
                 }
@@ -844,7 +844,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.SemiAnimatedMV, 0.2, 0.6)
             <entry id="$-1" title="ユニゾンモノローグ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.3) {
+                ReStep<music base="0.3" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                     arc3 = 3.0
                     nee = 3.0
@@ -858,7 +858,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             <entry id="$-1" title="Ginga no Shizuku"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.15) {
+                ReStep<music base="0.15" /> {
                     from(ReStageMusicContext.CultureEra.Arc3)
                 }
             </entry>
@@ -878,7 +878,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="Clematis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.65) {
+                ReStep<music base="0.65" /> {
                     from(ReStageMusicContext.CultureEra.AKM1)
                     akm1 = 10.0
                 }
@@ -893,7 +893,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-1" title="Ideal/Idol"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.15) {
+                ReStep<music base="0.15" /> {
                     from(ReStageMusicContext.CultureEra.AKM2)
                     akm2 = 3.0
                 }
@@ -932,7 +932,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- me waiting for ameko be like -->
                 <!-- https://knowyourmeme.com/memes/pablo-escobar-waiting -->
 
-                ReStepMusic(0.5) {
+                ReStep<music base="0.5" /> {
                     from(ReStageMusicContext.CultureEra.AKM3)
                     akm3 = 5.0
                 }
@@ -944,7 +944,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             <entry id="$-1" title="Glass Wings">
                 <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.3) {
+                ReStep<music base="0.3" /> {
                     from(ReStageMusicContext.CultureEra.NEE)
                     nee = 3.0
                 }
@@ -956,7 +956,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
             <entry id="$-1" title="Artemis">
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.25) {
+                ReStep<music base="0.25" /> {
                     from(ReStageMusicContext.CultureEra.NEE)
                     nee = 3.0
                 }
@@ -969,7 +969,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <entry id="$-1" title="Imperial Stage">
                 <!-- Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8 -->
                 <musicConsumedProgress length="3:24" /> <!-- impl_overridden --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStepMusic(0.2) {
+                ReStep<music base="0.2" /> {
                     from(ReStageMusicContext.CultureEra.NEE)
                     nee = 3.0
                 }
@@ -990,7 +990,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- to banger eroge as such, not something as shallow -->
                 <!-- as 'the ortensia incident'" - mfs who don't even know -->
                 <!-- the true depth of the ortensia incident -->
-                ReStepMusic(0.45) {
+                ReStep<music base="0.45" /> {
                     from(ReStageMusicContext.CultureEra.NEE)
                     nee = 3.0
                 }
@@ -1010,7 +1010,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
 
-            AllRstTracks.keys.forEach { FeatureMusic(it) }
+            AllRstTracks.keys.forEach { Feature<music base="it" /> }
         </entry>
 
         KilledBy("F-VGMDB-4499", potential = 0.4, effect = 0.9) {

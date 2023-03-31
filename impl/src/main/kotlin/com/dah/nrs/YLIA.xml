@@ -45,13 +45,13 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-1" title="Kimi wa Wasurerareru no">
                 <musicConsumedProgress length="1:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
                 AEI(0.5, Emotion.CU)
             </entry>
 
             <entry id="$-18" title="Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu">
                 <musicConsumedProgress length="2:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
                 AEI(0.5, Emotion.CU)
             </entry>
         </entry>

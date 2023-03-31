@@ -44,7 +44,7 @@
 
             <entry id="$-1" title="Only for you">
                 <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
     </entry>

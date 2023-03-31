@@ -10,7 +10,7 @@
 
             <entry id="$-1" title="STAR BEAT! ~Hoshi no Kodou~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 
@@ -20,12 +20,12 @@
 
             <entry id="$-1" title="Tokimeki Experience!">
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.15)
+                <music base="0.15" />
             </entry>
 
             <entry id="$-2" title="1000 kai Urunda Sora"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:31" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -49,7 +49,7 @@
                 <!-- tu hao qua em toi nguoi thap len anh cau vong -->
                 <!-- nguoi mang den trai tim ta -->
                 <!-- bau... troi... mo... uoc -->
-                Music(0.5)
+                <music base="0.5" />
             </entry>
         </entry>
 
@@ -59,7 +59,7 @@
 
             <entry id="$-5" title="Koko kara Saki wa Uta ni Naranai">
                 <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.45)
+                <music base="0.45" />
             </entry>
         </entry>
 
@@ -71,7 +71,7 @@
                 <musicConsumedProgress length="5:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- naite naite -->
                 <!-- daite daite -->
-                Music(0.6)
+                <music base="0.6" />
             </entry>
         </entry>
 
@@ -86,7 +86,7 @@
 
             <entry id="$-2" title="Yume wo Uchinuku Shunkan ni!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
                 <!-- iykyk -->
                 Meme(0.05, 10)
             </entry>
@@ -112,7 +112,7 @@
 
             <entry id="$-1" title="FIRE BIRD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
             </entry>
         </entry>
 
@@ -158,7 +158,7 @@
 
             <entry id="$-1" title="Y.O.L.O!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.35)
+                <music base="0.35" />
                 OsuSong(personal = 0.7)
             </entry>
         </entry>
@@ -177,13 +177,13 @@
 
             <entry id="$-1" title="Cherry Bomb"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
                 OsuSong(personal = 0.6)
             </entry>
 
             <entry id="$-6" title="Harumodoki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.25)
+                <music base="0.25" />
                 OsuSong(personal = 0.5)
 
                 Remix("M-20220130T183728-4")
@@ -196,7 +196,7 @@
 
             <entry id="$-8" title="Silhouette"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.5)
+                <music base="0.5" />
                 OsuSong(personal = 0.55)
             </entry>
         </entry>
@@ -205,7 +205,7 @@
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
             <entry id="$-3" title="Melancholic"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.3)
+                <music base="0.3" />
                 OsuSong(personal = 0.75, community = 0.0)
             </entry>
         </entry>
@@ -222,7 +222,7 @@
             Visual(VisualKind.AlbumArt, 0.2, 0.3)
             <entry id="$-1" title="Sacred world"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
             </entry>
         </entry>
 
@@ -286,7 +286,7 @@
 
                 <!-- Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP -->
                 <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
-                Music(0.25)
+                <music base="0.25" />
                 Remix("M-VGMDB-AL-106577-1")
             </entry>
         </entry>
@@ -301,7 +301,7 @@
 
             <entry id="$-1" title="Silhouette"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.4)
+                <music base="0.4" />
                 Remix("M-VGMDB-AL-114399-8")
             </entry>
         </entry>
@@ -311,6 +311,6 @@
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138 -->
         <musicConsumedProgress length="2:15" /> <!-- impl_overridden -->
-        Music(0.25)
+        <music base="0.25" />
     </entry>
 </document>

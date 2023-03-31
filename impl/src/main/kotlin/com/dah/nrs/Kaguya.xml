@@ -11,7 +11,7 @@
 
             <entry id="$-1" title="Chikatto Chika Chika♡">
                 <musicConsumedProgress length="2:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.25)
+                <music base="0.25" />
                 OsuSong(personal = 0.5, community = 0.4)
             </entry>
         </entry>
@@ -23,7 +23,7 @@
             <entry id="$-11" title="ありがとう。">
                 <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the grass-touching experience -->
-                Music(0.35)
+                <music base="0.35" />
             </entry>
         </entry>
 

@@ -14,7 +14,7 @@
 
             <entry id="$-1" title="VOICE">
                 <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Music(0.2)
+                <music base="0.2" />
                 OsuSong(personal = 0.2)
             </entry>
         </entry>
