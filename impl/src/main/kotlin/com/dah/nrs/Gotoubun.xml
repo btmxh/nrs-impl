@@ -14,7 +14,7 @@
             <!-- i miss yuyuyu's idke memes -->
             <bestGirl name="Itsuki Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- fuwa fuwa doki doki -->
             AEI(0.5, Emotion.AP)
             <visual type="animated" base="0.5" unique="0.5" />
@@ -32,7 +32,7 @@
             <!-- lmfao "muh yuyuyu idc" -->
             <bestGirl name="Itsuki Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- at first I doubted that S2 will be as good as S1 -->
             <!-- but it actually is -->
             AEI(0.25, Emotion.AP)

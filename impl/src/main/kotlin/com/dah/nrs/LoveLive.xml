@@ -353,7 +353,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <featureMusic id="M-VGMDB-AL-36547-1" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -368,7 +368,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <featureMusic id="M-VGMDB-AL-34051-1" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -382,7 +382,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 54.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 54.minutes" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -397,7 +397,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-58750-1" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -413,7 +413,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <!-- aozora was featured in ep13 -->
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-70622-1" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -426,7 +426,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
                 <mal id="37027"/>
             </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 40.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 40.minutes" />
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -476,7 +476,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
             AEI(0.4, Emotion.AP)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.6" unique="0.25" />
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
@@ -512,7 +512,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <!-- insert wakeshima kanon is shibuya kanon joke here -->
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
-            AnimeConsumedProgress(EntryStatus.OnHold, 0.9, 7)
+            <animeConsumedProgress status="Temporarily On-Hold" boredom="0.9" episodes="7" />
             <dropped />
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
@@ -564,7 +564,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <visual type="animated" base="0.6" unique="0.25" />
 
             <!-- lol after all this time xddddddddddd -->
-            AnimeConsumedProgress(EntryStatus.OnHold, 0.7, 3)
+            <animeConsumedProgress status="Temporarily On-Hold" boredom="0.7" episodes="3" />
             <dropped />
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         </entry>
@@ -581,7 +581,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
             <visual type="animated" base="0.6" unique="0.25" />
-            AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
+            <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
         </entry>
     </entry>
 

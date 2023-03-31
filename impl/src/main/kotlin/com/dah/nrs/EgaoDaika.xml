@@ -25,7 +25,7 @@
             <!-- pretty cool and sad for her ig -->
             <!-- also ortensia incident -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.5" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-81448-1" />
             AEI(0.75, Emotion.CU to 0.5, Emotion.MP to 0.25, Emotion.AP to 0.25)

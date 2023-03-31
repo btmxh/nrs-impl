@@ -21,7 +21,7 @@
                 <mal id="16498"/>
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="25" />
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
@@ -33,7 +33,7 @@
                 <mal id="25777"/>
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
@@ -45,7 +45,7 @@
                 <mal id="35760"/>
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
@@ -62,7 +62,7 @@
                 <mal id="38524"/>
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
             AEI(0.5, Emotion.AP)
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>

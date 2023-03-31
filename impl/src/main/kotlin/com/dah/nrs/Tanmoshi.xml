@@ -15,7 +15,7 @@
             <!-- siesta arc is shit -->
             <!-- cope -->
             <visual type="animated" base="0.5" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
+            <animeConsumedProgress status="Completed" boredom="0.6" episodes="12" />
             <featureMusic id="M-VGMDB-AL-113531" />
             <featureMusic id="M-VGMDB-AL-113660" />
             KilledBy("A-MAL-41530", 0.2, 0.5)

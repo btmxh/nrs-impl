@@ -76,7 +76,7 @@
             </source>
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
+            <animeConsumedProgress status="Completed" boredom="0.6" episodes="12" />
             <visual type="animated" base="0.65" unique="0.2" />
         </entry>
 
@@ -89,7 +89,7 @@
             </source>
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
+            <animeConsumedProgress status="Completed" boredom="0.6" episodes="26" />
             <featureMusic id="M-VGMDB-AL-21146-9" />
             <featureMusic id="M-VGMDB-AL-22848-2" />
             <visual type="animated" base="0.65" unique="0.2" />
@@ -104,7 +104,7 @@
             </source>
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.85" episodes="1" episodeDuration="1.hours + 50.minutes" />
             <featureMusic id="M-VGMDB-AL-21146-9" />
             <visual type="animated" base="0.65" unique="0.2" />
         </entry>

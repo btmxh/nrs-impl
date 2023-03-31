@@ -16,7 +16,7 @@
 
             <!-- max AEI debatable -->
             MaxAEIPADS(3, Emotion.CU)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
         </entry>
     </entry>
 </document>

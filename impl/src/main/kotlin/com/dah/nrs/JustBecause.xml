@@ -12,7 +12,7 @@
             </source>
             <bestGirl name="Mio Natsume" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- Pretty decent drama -->
             AEI(0.5, Emotion.CU)
             <featureMusic id="M-VGMDB-AL-70716-1" />

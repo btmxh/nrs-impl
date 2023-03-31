@@ -12,7 +12,7 @@
             </source>
             <bestGirl name="Shouko Makinohara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 9)
+            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="9" />
             <dropped />
             <!-- plot kinda ok -->
             NEI(0.5, Emotion.AP)

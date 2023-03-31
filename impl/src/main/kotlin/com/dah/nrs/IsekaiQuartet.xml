@@ -19,7 +19,7 @@
             <bestGirl name="Ram" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.3" unique="0.5" />
-            AnimeConsumedProgress(EntryStatus.Completed, 0.5, 12)
+            <animeConsumedProgress status="Completed" boredom="0.5" episodes="12" />
         </entry>
 
         <entry id="A-MAL-39988" title="Isekai Quartet 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -37,7 +37,7 @@
             <bestGirl name="Filo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.3" unique="0.5" />
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 12)
+            <animeConsumedProgress status="Dropped" boredom="0.5" episodes="12" />
             <dropped />
         </entry>
     </entry>

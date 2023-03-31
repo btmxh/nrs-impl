@@ -26,7 +26,7 @@ fun main() =
 
             <bestGirl name="Futaba Yoshioka" />
             <!-- old af and nothing special iirc -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
 
@@ -41,7 +41,7 @@ fun main() =
 
             <!-- iirc i liked this anime's plot -->
             AEI(0.3, Emotion.AP)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
 
@@ -56,7 +56,7 @@ fun main() =
 
             <!-- ig it's kinda good -->
             NEI(0.3, Emotion.AP)
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 22)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="22" />
             <visual type="animated" base="0.5" unique="0.5" />
         </entry>
 
@@ -87,7 +87,7 @@ fun main() =
             <!-- and VMO2020 too. -->
             Meme(0.3, 10)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
 
@@ -120,7 +120,7 @@ fun main() =
             <!-- gate-open literally all NRS entries -->
             <!-- but it's too overkill so an impact instead -->
             AdditionalImpact("Gate-open anime", 1.0)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 2.hours + 10.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="2.hours + 10.minutes" />
             <visual type="animated" base="0.5" unique="0.5" />
         </entry>
 
@@ -133,7 +133,7 @@ fun main() =
             </source>
 
             <bestGirl name="Mizuki Usami" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
@@ -151,7 +151,7 @@ fun main() =
 
             <!-- from nrs1 -->
             AEI(0.25, Emotion.CU)
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="13" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
@@ -171,7 +171,7 @@ fun main() =
             <!-- iToddlers BTFO -->
             Meme(0.4, 25)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
@@ -194,7 +194,7 @@ fun main() =
             <!-- no pads tho -->
             Cry(Emotion.CU)
             <!-- https://www.youtube.com/watch?v=fzQ6gRAEoy0 -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 6.minutes + 6.seconds)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="6.minutes + 6.seconds" />
             <visual type="animated" base="0.65" unique="0.35" />
         </entry>
 
@@ -210,7 +210,7 @@ fun main() =
 
             <bestGirl name="Karen Tendou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.6" unique="0.3" />
         </entry>
 
@@ -228,7 +228,7 @@ fun main() =
             <bestGirl name="Akane Mizuno" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- ending sadge -->
             AEI(0.25, Emotion.CU)
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
@@ -247,7 +247,7 @@ fun main() =
             <!-- and now it's the duopoly era so -->
             <!-- they got cucked -->
 <!--            status = EntryStatus.Watching -->
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 3)
+            <animeConsumedProgress status="Dropped" boredom="0.6" episodes="3" />
             <dropped />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
@@ -264,7 +264,7 @@ fun main() =
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Kaoruko Moeta" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             NEI(0.2, Emotion.AP)
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
@@ -283,7 +283,7 @@ fun main() =
             <bestGirl name="Takagi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- episodic ngl -->
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
+            <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
             <dropped />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
@@ -299,7 +299,7 @@ fun main() =
             <!-- lmfao -->
             <bestGirl name="Washing Machine" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
 
@@ -314,7 +314,7 @@ fun main() =
             <!-- facebook anime lmfao -->
             <bestGirl name="Sakura Yamauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 48.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1.hours + 48.minutes" />
             AEI(0.1, Emotion.CU)
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
@@ -335,7 +335,7 @@ fun main() =
             <!-- sad ending (i don't remember now lmfao) -->
             AEI(0.5, Emotion.CU)
             <visual type="animated" base="0.4" unique="0.5" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
 
         ShichiseiSubaru()
@@ -362,7 +362,7 @@ fun main() =
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
 
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 8)
+            <animeConsumedProgress status="Dropped" boredom="0.6" episodes="8" />
             <dropped />
             <visual type="animated" base="0.6" unique="0.2" />
         </entry>
@@ -377,7 +377,7 @@ fun main() =
             <bestGirl name="Karin Sarayashiki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- akari kito va lmfao -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- this was funny af (iirc), really enjoyed it -->
             AEI(0.6, Emotion.AP)
             <visual type="animated" base="0.5" unique="0.3" />
@@ -394,7 +394,7 @@ fun main() =
             </source>
             <bestGirl name="Hina Tachibana" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.3" unique="0.5" />
 
             <!-- the domestic na kanojo war lmao -->
@@ -414,7 +414,7 @@ fun main() =
                 <mal id="38656"/>
             </source>
             <bestGirl name="Shuka Karino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
             <visual type="animated" base="0.3" unique="0.4" />
             <!-- "plot is good" -->
             AEI(0.5, Emotion.AP)
@@ -431,7 +431,7 @@ fun main() =
             AEI(0.5, Emotion.AP)
             <!-- restep sequel leaked no way -->
             <bestGirl name="Ristarte" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
@@ -447,7 +447,7 @@ fun main() =
             <bestGirl name="Maple" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             KilledBy("F-VGMDB-1945", 0.2, 0.5)
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 2)
+            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="2" />
             <dropped />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
@@ -464,7 +464,7 @@ fun main() =
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Latina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
+            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="4" />
             <dropped />
             <visual type="animated" base="0.4" unique="0.4" />
         </entry>
@@ -487,7 +487,7 @@ fun main() =
             <!-- and the op is that osu song -->
             <!-- imagine if this was in summer 2022 -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
@@ -503,7 +503,7 @@ fun main() =
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Hougetsu Shimamura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 3)
+            <animeConsumedProgress status="Dropped" boredom="0.9" episodes="3" />
             <dropped />
             <visual type="animated" base="0.65" unique="0.3" />
 
@@ -530,7 +530,7 @@ fun main() =
             <!-- the 2 main girls are pretty match -->
             <!-- thank you based shaft -->
             <visual type="animated" base="0.6" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <featureMusic id="M-VGMDB-AL-101643-1" />
         </entry>
 
@@ -544,7 +544,7 @@ fun main() =
             <bestGirl name="Elaina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.4" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 6)
+            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="6" />
             <dropped />
             KilledBy("F-VGMDB-2588", 0.5, 0.5)
             <!-- observism and the COP -->
@@ -564,7 +564,7 @@ fun main() =
             <!-- the hatsune miku method -->
             AEI(0.2, Emotion.AP)
             <visual type="animated" base="0.3" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
 
         RentAGirlfriend()
@@ -580,7 +580,7 @@ fun main() =
             <bestGirl name="Nana Hiiragi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.4" unique="0.5" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             KilledBy("F-VGMDB-2588", 0.5, 0.3)
             <!-- plot is very good -->
             AEI(0.4, Emotion.AP)
@@ -596,7 +596,7 @@ fun main() =
             <bestGirl name="Kyouko Izanami" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.6" unique="0.4" />
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
+            <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
             <dropped />
             KilledBy("F-VGMDB-2588", 0.6, 0.5)
         </entry>
@@ -618,7 +618,7 @@ fun main() =
             <!-- is just too good -->
             <bestGirl name="Saki Saki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <visual type="animated" base="0.4" unique="0.4" />
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
+            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
             <dropped />
             KilledBy("A-MAL-41530", 0.2, 0.5)
         </entry>
@@ -634,7 +634,7 @@ fun main() =
 
             <!-- idk tf this anime is talking about lol -->
             <visual type="animated" base="0.3" unique="0.7" />
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 16)
+            <animeConsumedProgress status="Dropped" boredom="0.6" episodes="16" />
             <dropped />
             KilledBy("A-MAL-41530", 0.1, 0.4)
         </entry>
@@ -651,7 +651,7 @@ fun main() =
             <!-- anime, but it doesn't care about that -->
             <!-- and just march on with its plot -->
             <visual type="animated" base="0.5" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             KilledBy("A-MAL-41530", 0.2, 0.2)
             <featureMusic id="M-VGMDB-AL-111089-5" />
         </entry>
@@ -691,7 +691,7 @@ fun main() =
             <bestGirl name="Dia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- this initially was dropped, but rewatched in the remod era, hence the low boredom value -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.7, 12)
+            <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
             <visual type="animated" base="0.5" unique="0.4" />
             KilledBy("F-VGMDB-3245", 0.1, 0.2)
             KilledBy("F-VGMDB-7059", 0.1, 0.2)
@@ -710,7 +710,7 @@ fun main() =
             <!-- "haha the ortensia incident" -->
             <bestGirl name="Kyousuke Yotsuya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
+            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
             <dropped />
             <visual type="animated" base="0.3" unique="0.6" />
             KilledBy("F-VGMDB-3245", 0.2, 0.2)
@@ -728,7 +728,7 @@ fun main() =
 
             <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
             AEI(0.5, Emotion.MP to 0.5, Emotion.AP to 0.5)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.3" />
             KilledBy("F-VGMDB-3245", 0.3, 0.15)
             KilledBy("F-VGMDB-7059", 0.3, 0.15)
@@ -746,7 +746,7 @@ fun main() =
             <bestGirl name="Subaru" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- didn't expect mc to fall in love tho -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.5" unique="0.2" />
             <featureMusic id="M-VGMDB-AL-51254-1" />
         </entry>
@@ -784,7 +784,7 @@ fun main() =
             <bestGirl name="Tagitsuhime" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- i hate my life -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
 
             <!-- decent plot ngl -->
             NEI(0.8, Emotion.AP)
@@ -804,7 +804,7 @@ fun main() =
 
             <!-- risuteji xi jin ping -->
             NEI(0.3, Emotion.CP)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
@@ -819,7 +819,7 @@ fun main() =
             <!-- gyze it's the chuchu analogy girl amirite hahahaha -->
             <bestGirl name="Kiri Mukae" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 

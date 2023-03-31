@@ -48,7 +48,7 @@
             <bestGirl name="Ai Hayasaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury. -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 9)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="9" />
             <dropped />
             <visual type="animated" base="0.5" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-83397-1" />
@@ -70,7 +70,7 @@
             <!-- koukai shinai yo kimi ni deaeta koto -->
 
             <visual type="animated" base="0.5" unique="0.4" />
-            AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
+            <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
             ValidatorSuppress("dah-entry-no-consumed")
         </entry>
 
@@ -90,7 +90,7 @@
             <!-- Just for now I’ll say “goodbye” to my cowardly heart -->
 
             <visual type="animated" base="0.5" unique="0.4" />
-            AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
+            <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
             ValidatorSuppress("dah-entry-no-consumed")
         </entry>
     </entry>

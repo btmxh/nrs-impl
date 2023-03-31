@@ -233,7 +233,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 12)
+            <animeConsumedProgress status="Completed" boredom="0.95" episodes="12" />
 
             Impact {
                 description = "OvertuRe: CG"
@@ -1058,7 +1058,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
         <visual type="animated" base="0.2" unique="0.5" />
 
-        AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
 
         <!-- as always (low potential because rst actually helped oshibudo tho, -->
         <!-- but it's still a kill) -->

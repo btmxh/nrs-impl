@@ -97,7 +97,7 @@
             <!-- Kyoko's backstory -->
             AEI(0.9, Emotion.CU)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.35" unique="0.6" />
 
             <featureMusic id="M-VGMDB-AL-23391-1" />
@@ -116,7 +116,7 @@
             <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- I can't understand this movie lol -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.7, 1, 1.hours + 56.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.7" episodes="1" episodeDuration="1.hours + 56.minutes" />
             <visual type="animated" base="0.35" unique="0.6" />
 
             <featureMusic id="M-VGMDB-AL-41292-1" />
@@ -183,7 +183,7 @@
 
             <!-- Emotional impacts are all in the game -->
             <!-- (Madokami's MGS, Sana's backstory) -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- Gate-opened gacha games -->
@@ -204,7 +204,7 @@
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 8)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="8" />
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- the animation tho -->
@@ -231,7 +231,7 @@
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 4)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="4" />
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- :troll-despair: -->

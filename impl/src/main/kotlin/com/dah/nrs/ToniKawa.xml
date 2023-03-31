@@ -14,7 +14,7 @@
             <bestGirl name="Tsukasa Yuzaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.4" unique="0.6" />
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 1)
+            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="1" />
             <dropped />
             KilledBy("F-VGMDB-2588", 0.2, 0.5)
             <featureMusic id="M-VGMDB-AL-104618" />

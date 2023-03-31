@@ -56,7 +56,7 @@
 
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 52.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="52.minutes" />
             <!-- partially benefitted from rst -->
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
 
@@ -74,7 +74,7 @@
 
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="53.minutes" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             <featureMusic id="M-VGMDB-AL-42945-1" />
             <visual type="animated" base="0.4" unique="0.6" />
@@ -89,7 +89,7 @@
 
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 54.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="54.minutes" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
@@ -103,7 +103,7 @@
 
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="53.minutes" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
@@ -118,7 +118,7 @@
 
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             <visual type="animated" base="0.3" unique="0.6" />
         </entry>

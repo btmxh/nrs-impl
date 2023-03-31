@@ -19,7 +19,7 @@
             </source>
             <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 14)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="14" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
@@ -32,7 +32,7 @@
             </source>
             <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
@@ -45,7 +45,7 @@
             </source>
             <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 10)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="10" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
     </entry>

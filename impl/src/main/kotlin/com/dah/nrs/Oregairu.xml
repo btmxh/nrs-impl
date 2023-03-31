@@ -112,7 +112,7 @@
             <featureMusic id="M-VGMDB-AL-37932-1" />
             <featureMusic id="M-VGMDB-AL-37999" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
         </entry>
 
         <entry id="A-MAL-23847" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -138,7 +138,7 @@
             <featureMusic id="M-VGMDB-AL-51394-1" />
             <featureMusic id="M-VGMDB-AL-51394-3" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
         </entry>
 
         <entry id="A-MAL-39547" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -167,7 +167,7 @@
             <featureMusic id="M-VGMDB-AL-96288-1" />
             <featureMusic id="M-VGMDB-AL-96290-1" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
     </entry>
 </document>

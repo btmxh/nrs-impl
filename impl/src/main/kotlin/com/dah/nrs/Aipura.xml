@@ -44,7 +44,7 @@
 
             <bestGirl name="Sakura Kawasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <visual type="animated" base="0.6" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
 
         <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

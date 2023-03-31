@@ -12,7 +12,7 @@
             </source>
             <bestGirl name="Kotonoha Mira" /> <!-- impl_overridden -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 00.8, 13)
+            <animeConsumedProgress status="Completed" boredom="00.8" episodes="13" />
             <visual type="animated" base="0.8" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-93329-1" />
             <featureMusic id="M-VGMDB-AL-93338-1" />

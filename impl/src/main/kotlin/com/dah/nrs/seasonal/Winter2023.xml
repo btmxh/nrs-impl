@@ -21,7 +21,7 @@
         <!-- like bruh himeno sena exists now you fucking dumbass -->
         <bestGirl name="Anisphia Wynn Palletia" />
 
-        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 3)
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="3" />
         <visual type="animated" base="0.5" unique="0.3" />
 
         <!-- the first ep already gave me chill :skull: -->
@@ -50,7 +50,7 @@
         <!-- lmfao "escha 2023" -->
         <bestGirl name="Ann Halford" />
 
-        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="2" />
         <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
@@ -66,7 +66,7 @@
         <!-- jk lol -->
         <bestGirl name="Tiana" />
 
-        AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="2" />
         <visual type="animated" base="0.3" unique="0.6" />
 
         <!-- focus on [trust], somewhat interesting -->

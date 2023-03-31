@@ -12,7 +12,7 @@
                 <mal id="38691"/>
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
             <visual type="animated" base="0.3" unique="0.75" />
             <!-- "plot is good" -->
             AEI(0.25, Emotion.AP)
@@ -29,7 +29,7 @@
                 <mal id="40852"/>
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
             <visual type="animated" base="0.3" unique="0.75" />
             AEI(0.1, Emotion.AP)
         </entry>
@@ -42,7 +42,7 @@
                 <mal id="50612"/>
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 54.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="54.minutes" />
             <visual type="animated" base="0.3" unique="0.75" />
             NEI(0.6, Emotion.AP)
         </entry>

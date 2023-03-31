@@ -16,7 +16,7 @@
 
             <bestGirl name="Nazuna Oikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 30.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 30.minutes" />
 
             <featureMusic id="M-VGMDB-AL-69257-1" />
             <visual type="animated" base="0.4" unique="0.5" />

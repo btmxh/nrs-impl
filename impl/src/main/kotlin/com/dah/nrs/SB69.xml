@@ -145,7 +145,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <featureMusic id="M-VGMDB-AL-51706-1" />
             <featureMusic id="M-VGMDB-AL-51706-2" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
@@ -171,7 +171,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <featureMusic id="M-VGMDB-AL-61981-1" />
             <featureMusic id="M-VGMDB-AL-61981-3" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
@@ -202,7 +202,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             KilledBy("M-20220125T063355-2", potential = 0.75, effect = 0.75)
             <visual type="animated" base="0.65" unique="0.4" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
 
         <entry id="A-MAL-41520" title="Show by Rock!! Stars!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -243,7 +243,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <featureMusic id="M-VGMDB-AL-104267-5" />
             <featureMusic id="M-VGMDB-AL-100087-1" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.65" unique="0.4" />
         </entry>
 

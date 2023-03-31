@@ -245,7 +245,7 @@
             AEI(0.2, Emotion.CU)
             <!-- nrs1 -->
             Meme(0.2, 6)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
 
             <visual type="animated" base="0.4" unique="0.4" />
 
@@ -267,7 +267,7 @@
             <!-- cg lmfao -->
             <visual type="animated" base="0.15" unique="0.5" />
             <!-- rip -->
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 6)
+            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="6" />
             <dropped />
             <featureMusic id="M-VGMDB-AL-81504-1" />
             KilledBy("F-VGMDB-2588", potential = 0.2, effect = 0.5)

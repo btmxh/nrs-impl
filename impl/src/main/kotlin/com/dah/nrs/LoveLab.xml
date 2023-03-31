@@ -14,7 +14,7 @@
             <bestGirl name="Riko Kurahashi" />
 
             <visual type="animated" base="0.5" unique="0.3" />
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             NEI(0.5, Emotion.AP)
             <featureMusic id="M-VGMDB-AL-40263-1" />
         </entry>

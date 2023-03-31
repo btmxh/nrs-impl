@@ -13,7 +13,7 @@
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <featureMusic id="M-VGMDB-AL-33537-1" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="25" />
             <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
@@ -26,7 +26,7 @@
             </source>
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
             <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
@@ -39,7 +39,7 @@
             </source>
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 59.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.75" episodes="1" episodeDuration="1.hours + 59.minutes" />
             <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 

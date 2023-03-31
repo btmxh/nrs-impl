@@ -48,7 +48,7 @@
 
             <visual type="animated" base="0.6" unique="0.25" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
     </entry>
 </document>

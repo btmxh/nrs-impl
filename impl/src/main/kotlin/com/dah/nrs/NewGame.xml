@@ -30,7 +30,7 @@
             <!-- idk who is better, aoba or yun, so one girl each season -->
             <bestGirl name="Iijima Yun" /> <!-- impl_overridden -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-58627-1" />
@@ -46,7 +46,7 @@
             <!-- idk who is better, aoba or yun, so one girl each season -->
             <bestGirl name="Aoba Suzukaze" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-68225-1" />

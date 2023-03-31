@@ -15,7 +15,7 @@
 
             <!-- pa works is the best atmospheric farmer -->
             Cry(Emotion.CU)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
 
             <visual type="animated" base="0.4" unique="0.3" />
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 0.5)

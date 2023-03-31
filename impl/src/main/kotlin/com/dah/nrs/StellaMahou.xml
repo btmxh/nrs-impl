@@ -14,7 +14,7 @@
             <!-- i love music composers -->
             <bestGirl name="Kayo Fujikawa" />
             <visual type="animated" base="0.5" unique="0.4" />
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             NEI(0.5, Emotion.AP)
             NEI(0.2, Emotion.CP)
             <featureMusic id="M-VGMDB-AL-60899-1" />

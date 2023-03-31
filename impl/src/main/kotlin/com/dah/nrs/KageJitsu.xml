@@ -53,7 +53,7 @@
             <visual type="animated" base="0.6" unique="0.4" />
 
             <!-- binged ez clap -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 20)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="20" />
         </entry>
 
         <entry id="M-VGMDB-AL-122851" title="Darling in the Night / Shichikage"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

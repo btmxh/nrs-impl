@@ -17,7 +17,7 @@
 
             <bestGirl name="Naru Sekiya" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.7" />
 
             <!-- first ep aei -->

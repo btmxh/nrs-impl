@@ -191,7 +191,7 @@
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 3.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
             NEI(0.5, Emotion.AP)
             NEI(0.2, Emotion.MP)
         </entry>
@@ -206,7 +206,7 @@
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 3.minutes)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
             NEI(0.2, Emotion.AP)
             AEI(0.1, Emotion.MP to 0.3, Emotion.CU to 0.7)
             <featureMusic id="M-VGMDB-AL-61577-1" />
@@ -223,7 +223,7 @@
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
             NEI(0.2, Emotion.AP)
             <!-- classic atm farm idk -->
             AEI(0.3, Emotion.MP to 0.3, Emotion.CU to 0.7)
@@ -252,7 +252,7 @@
             <bestGirl name="Hiyori Suzumi" />
 
             <!-- speedrun this in one night lol -->
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.6" />
 
             <!-- main girl's friend betraying her was somewhat unexpected ig -->

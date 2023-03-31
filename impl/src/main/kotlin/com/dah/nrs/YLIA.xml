@@ -37,7 +37,7 @@
 
             <visual type="animated" base="0.3" unique="0.5" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 22)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="22" />
         </entry>
 
         <entry id="M-VGMDB-AL-49046" title="Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

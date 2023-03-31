@@ -28,7 +28,7 @@
             <featureMusic id="M-VGMDB-AL-47402-1" />
             <featureMusic id="M-VGMDB-AL-47403-1" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 

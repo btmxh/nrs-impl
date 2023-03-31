@@ -11,7 +11,7 @@
                 <mal id="38778"/>
             </source>
             <bestGirl name="Ao Horie" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
+            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="3" />
             <dropped />
             <visual type="animatedShort" base="0.6" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-85759-1" />

@@ -56,7 +56,7 @@
 
             <!-- idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig. -->
             <music base="0.03" />
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 25)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="25" />
             <visual type="animated" base="0.4" unique="0.3" />
         </entry>
 
@@ -73,7 +73,7 @@
                 <mal id="23587"/>
             </source>
             <bestGirl name="Chieri Ogata" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="13" />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
 
@@ -85,7 +85,7 @@
                 <mal id="30344"/>
             </source>
             <bestGirl name="Chieri Ogata" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
     </entry>

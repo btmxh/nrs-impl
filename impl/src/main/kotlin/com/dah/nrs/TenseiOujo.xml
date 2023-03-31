@@ -17,7 +17,7 @@
             <!-- like bruh himeno sena exists now you fucking dumbass -->
             <bestGirl name="Anisphia Wynn Palletia" />
 
-            AnimeConsumedProgress(EntryStatus.Watching, 1.0, 9)
+            <animeConsumedProgress status="Watching" boredom="1.0" episodes="9" />
             <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- the first ep already gave me chill :skull: -->

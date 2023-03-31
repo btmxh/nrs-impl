@@ -94,7 +94,7 @@
             <!-- (only the ending tho) -->
             AEI(0.25, Emotion.CU)
             <visual type="animated" base="0.3" unique="0.5" />
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
 
         <entry id="L-MAL-90810" title="Nogi Wakaba wa Yuusha de Aru">
@@ -159,7 +159,7 @@
             <!-- but my pepega ass doesn't watch this shit properly ffs -->
             NEI(0.5, Emotion.CU)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
@@ -184,7 +184,7 @@
             <!--                  yuyuyu reference !!!11!!1 -->
             AEI(0.3, Emotion.CU)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
@@ -214,7 +214,7 @@
 
             <featureMusic id="M-VGMDB-AL-114186-2" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 

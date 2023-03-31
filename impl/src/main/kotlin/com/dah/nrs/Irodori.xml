@@ -29,7 +29,7 @@
             </source>
             <bestGirl name="Nagi Kobotoke" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 8, 3.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="8" episodeDuration="3.minutes" />
             <visual type="animatedShort" base="0.4" unique="0.2" />
         </entry>
 

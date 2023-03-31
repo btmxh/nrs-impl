@@ -36,7 +36,7 @@
             <!-- comedy was weak ngl -->
             NEI(0.5, Emotion.AP)
 
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
             <visual type="animated" base="0.5" unique="0.2" />
 
             <featureMusic id="M-VGMDB-AL-115724" />

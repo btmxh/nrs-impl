@@ -41,7 +41,7 @@
             <!-- idk why -->
             <!-- this is taken from NRS1 -->
             Meme(0.15, 2)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
 
         <entry id="A-MAL-18671" title="Chuunibyou demo Koi ga Shitai! Ren"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -57,7 +57,7 @@
             AEI(1.0, Emotion.CU)
             <!-- Shichimiya memes -->
             Meme(0.4, 10)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.6" unique="0.2" />
 
             <featureMusic id="M-VGMDB-AL-42762-1" />
@@ -71,7 +71,7 @@
                 <mal id="35608"/>
             </source>
             <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AnimeConsumedProgress(EntryStatus.Completed, 0.9, 1, 1.hours + 33.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="1" episodeDuration="1.hours + 33.minutes" />
             <!-- movie is funny, but less content than s1 and s2 -->
             <!-- separate from s1/2 because it was watched later -->
             NEI(0.75, Emotion.AP)

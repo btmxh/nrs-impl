@@ -15,7 +15,7 @@
 
             <!-- something something rst something cp-based -->
             NEI(0.5, Emotion.CU to 0.5, Emotion.CP to 0.5)
-            AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.5" unique="0.4" />
         </entry>
 
@@ -28,7 +28,7 @@
 
             <bestGirl name="Saki Mizukoshi" />
 
-            AnimeConsumedProgress(EntryStatus.Completed, 0.8, 1, 7.minutes)
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="1" episodeDuration="7.minutes" />
             <visual type="animated" base="0.5" unique="0.4" />
         </entry>
     </entry>
