@@ -47,14 +47,14 @@
         </entry>
 
         <!-- Kinda comfy. But not that much. -->
-        <nei base="0.5" emotions="Emotion.MP" /> {
+        <nei base="0.5" emotions="MP" /> {
             contributors["A-MAL-5680"] = 0.4
             contributors["A-MAL-7791"] = 0.4
             contributors["A-MAL-9617"] = 0.2
         }
 
         <!-- humor -->
-        <nei base="0.25" emotions="Emotion.AP" /> {
+        <nei base="0.25" emotions="AP" /> {
             contributors["A-MAL-5680"] = 0.4
             contributors["A-MAL-7791"] = 0.4
             contributors["A-MAL-9617"] = 0.2

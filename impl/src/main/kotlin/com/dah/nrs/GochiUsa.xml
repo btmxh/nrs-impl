@@ -58,7 +58,7 @@
             </source>
             <bestGirl name="Chino Kafuu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- humor not that good tho -->
-            <nei base="0.3" emotions="Emotion.AP" />
+            <nei base="0.3" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="0.6" episodes="12" />
             <visual type="animated" base="0.4" unique="0.15" />
         </entry>

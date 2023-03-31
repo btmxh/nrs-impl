@@ -92,10 +92,10 @@
 
             <!-- 32k got killed over and over, and her lover has to -->
             <!-- time-travel everytime it happens -->
-            <maxAEIPADS length="1" emotions="Emotion.CU" />
+            <maxAEIPADS length="1" emotions="CU" />
 
             <!-- Kyoko's backstory -->
-            <aei base="0.9" emotions="Emotion.CU" />
+            <aei base="0.9" emotions="CU" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.35" unique="0.6" />
@@ -139,7 +139,7 @@
         }
 
         <!-- magireco is kinda comfy -->
-        <nei base="0.75" emotions="Emotion.MP" /> {
+        <nei base="0.75" emotions="MP" /> {
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.4
             contributors["A-MAL-41530"] = 0.2
@@ -153,11 +153,11 @@
             <!-- Tamaki Ui and her friends are dead, leaving -->
             <!-- Tamaki Iroha alone and (probably) depressed. -->
             <!-- This made me cry -->
-            <cryPADS length="5" emotions="Emotion.CU" />
+            <cryPADS length="5" emotions="CU" />
 
             <!-- Sana's backstory -->
             <!-- Basically it's very tragic. -->
-            <cry emotions="Emotion.CU" />
+            <cry emotions="CU" />
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- Gate-opened gacha games (there is only re step in NRS tho) -->

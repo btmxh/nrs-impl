@@ -18,7 +18,7 @@
             <!-- Aokana made me love Asuka for like 2 weeks -->
             <!-- which is good -->
             <!-- also there was a PADS -->
-            <pads length="1" emotions="Emotion.MP" /> {
+            <pads length="1" emotions="MP" /> {
                 ValidatorSuppress("dah-lone-pads")
             }
             <waifu name="Kurashina Asuka" from="2021-06-02" to="2021-06-16" />

@@ -13,7 +13,7 @@
 
             <!-- for some reason, this almost made me cry -->
             <!-- (somewhat unrelated to ayumu shit) -->
-            <aei base="0.5" emotions="Emotion.CU" />
+            <aei base="0.5" emotions="CU" />
 
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
             <music base="0.425" />
@@ -54,7 +54,7 @@
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         <musicConsumedProgress length="3:56" />
         <music base="0.6" />
-        <ref name="KoikakeNEI" _.base="0.3" _.contribution="0.7" _.emotions="Emotion.CU" />
+        <ref name="KoikakeNEI" _.base="0.3" _.contribution="0.7" _.emotions="CU" />
     </entry>
 
     <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -72,7 +72,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -86,7 +86,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -100,7 +100,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -114,7 +114,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.4" />
             OsuSong(personal = 0.5, community = 0.5)
@@ -134,7 +134,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -148,7 +148,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -162,7 +162,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -176,7 +176,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
+            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.4" />
             OsuSong(personal = 0.5, community = 0.5)

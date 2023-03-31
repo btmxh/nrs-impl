@@ -40,7 +40,7 @@ fun main() =
             <bestGirl name="Chisato Sumiyoshi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- iirc i liked this anime's plot -->
-            <aei base="0.3" emotions="Emotion.AP" />
+            <aei base="0.3" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
@@ -55,7 +55,7 @@ fun main() =
             <bestGirl name="Eru Chitanda" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- ig it's kinda good -->
-            <nei base="0.3" emotions="Emotion.AP" />
+            <nei base="0.3" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="0.8" episodes="22" />
             <visual type="animated" base="0.5" unique="0.5" />
         </entry>
@@ -81,7 +81,7 @@ fun main() =
             <!-- kaomeme -->
             <bestGirl name="Kaori Sasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Ending did hit me -->
-            <nei base="0.5" emotions="Emotion.CU" />
+            <nei base="0.5" emotions="CU" />
             <!-- osuhow memes -->
             <!-- This anime saved me in the Math Qualifiers lmao, -->
             <!-- and VMO2020 too. -->
@@ -112,7 +112,7 @@ fun main() =
             <!-- Koe no Katachi has solid drama -->
             <!-- But sadly, it's the first anime so there's no PADS -->
             <!-- or tears -->
-            <aei base="0.3" emotions="Emotion.CU" />
+            <aei base="0.3" emotions="CU" />
 
             <!-- the first anime + Giap-Ngoc match = unlimited memes -->
             Meme(1.0, numDays("2017-05-12" /*vietnamese premiere date*/, "2017-09-15" /*sln*/))
@@ -150,7 +150,7 @@ fun main() =
             <bestGirl name="Naho Takamiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- from nrs1 -->
-            <aei base="0.25" emotions="Emotion.CU" />
+            <aei base="0.25" emotions="CU" />
             <animeConsumedProgress status="Completed" boredom="0.8" episodes="13" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
@@ -192,7 +192,7 @@ fun main() =
 
             <!-- this is very sad guys -->
             <!-- no pads tho -->
-            <cry emotions="Emotion.CU" />
+            <cry emotions="CU" />
             <!-- https://www.youtube.com/watch?v=fzQ6gRAEoy0 -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="6.minutes + 6.seconds" />
             <visual type="animated" base="0.65" unique="0.35" />
@@ -227,7 +227,7 @@ fun main() =
 
             <bestGirl name="Akane Mizuno" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- ending sadge -->
-            <aei base="0.25" emotions="Emotion.CU" />
+            <aei base="0.25" emotions="CU" />
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
@@ -265,7 +265,7 @@ fun main() =
             <bestGirl name="Kaoruko Moeta" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
-            <nei base="0.2" emotions="Emotion.AP" />
+            <nei base="0.2" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
@@ -315,7 +315,7 @@ fun main() =
             <bestGirl name="Sakura Yamauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1.hours + 48.minutes" />
-            <aei base="0.1" emotions="Emotion.CU" />
+            <aei base="0.1" emotions="CU" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
@@ -330,10 +330,10 @@ fun main() =
             <bestGirl name="Aya Asagiri" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- poor best girl -->
-            <aei base="0.2" emotions="Emotion.CU" />
+            <aei base="0.2" emotions="CU" />
 
             <!-- sad ending (i don't remember now lmfao) -->
-            <aei base="0.5" emotions="Emotion.CU" />
+            <aei base="0.5" emotions="CU" />
             <visual type="animated" base="0.4" unique="0.5" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
@@ -379,7 +379,7 @@ fun main() =
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- this was funny af (iirc), really enjoyed it -->
-            <aei base="0.6" emotions="Emotion.AP" />
+            <aei base="0.6" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
@@ -417,7 +417,7 @@ fun main() =
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
             <visual type="animated" base="0.3" unique="0.4" />
             <!-- "plot is good" -->
-            <aei base="0.5" emotions="Emotion.AP" />
+            <aei base="0.5" emotions="AP" />
         </entry>
 
         <entry id="A-MAL-38659" title="Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -428,7 +428,7 @@ fun main() =
                 <mal id="38659"/>
             </source>
             <!-- very funny lmao -->
-            <aei base="0.5" emotions="Emotion.AP" />
+            <aei base="0.5" emotions="AP" />
             <!-- restep sequel leaked no way -->
             <bestGirl name="Ristarte" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -511,7 +511,7 @@ fun main() =
             <!-- (basically I want to be like the girls, -->
             <!-- skipping out class etc.)" -->
             <!-- ADA foreshadowing lol -->
-            <maxAEIPADS length="2" emotions="Emotion.CP" />
+            <maxAEIPADS length="2" emotions="CP" />
             KilledBy("F-VGMDB-2588", 0.75, 0.3)
         </entry>
 
@@ -562,7 +562,7 @@ fun main() =
             <bestGirl name="Akari" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the hatsune miku method -->
-            <aei base="0.2" emotions="Emotion.AP" />
+            <aei base="0.2" emotions="AP" />
             <visual type="animated" base="0.3" unique="0.3" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
@@ -583,7 +583,7 @@ fun main() =
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             KilledBy("F-VGMDB-2588", 0.5, 0.3)
             <!-- plot is very good -->
-            <aei base="0.4" emotions="Emotion.AP" />
+            <aei base="0.4" emotions="AP" />
         </entry>
 
         <entry id="A-MAL-41930" title="Kamisama ni Natta Hi">
@@ -695,7 +695,7 @@ fun main() =
             <visual type="animated" base="0.5" unique="0.4" />
             KilledBy("F-VGMDB-3245", 0.1, 0.2)
             KilledBy("F-VGMDB-7059", 0.1, 0.2)
-            <nei base="0.8" emotions="Emotion.AP to 1.0" />
+            <nei base="0.8" emotions="AP to 1.0" />
         </entry>
 
         <entry id="A-MAL-48483" title="Mieruko-chan">
@@ -787,7 +787,7 @@ fun main() =
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
 
             <!-- decent plot ngl -->
-            <nei base="0.8" emotions="Emotion.AP" />
+            <nei base="0.8" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.4" />
         </entry>
 
@@ -803,7 +803,7 @@ fun main() =
             <bestGirl name="Akane Ukita" />
 
             <!-- risuteji xi jin ping -->
-            <nei base="0.3" emotions="Emotion.CP" />
+            <nei base="0.3" emotions="CP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>

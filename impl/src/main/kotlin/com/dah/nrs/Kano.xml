@@ -18,7 +18,7 @@
                 <entry id="$-1" title="ハロ/ハワユ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
-                    <nei base="0.1" emotions="Emotion.MP" />
+                    <nei base="0.1" emotions="MP" />
                     Remix("M-VGMDB-AL-37130-1")
                 </entry>
             </entry>
@@ -30,13 +30,13 @@
                 <entry id="$-6" title="インタビュア">
                     <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
-                    <nei base="0.15" emotions="Emotion.CU" />
+                    <nei base="0.15" emotions="CU" />
                 </entry>
 
                 <entry id="$-11" title="アイロニ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.175" />
-                    <nei base="0.15" emotions="Emotion.CU" />
+                    <nei base="0.15" emotions="CU" />
                 </entry>
             </entry>
 
@@ -54,13 +54,13 @@
                 <entry id="$-6" title="メリーメリー álbum ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:35" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
-                    <nei base="0.25" emotions="Emotion.MP" />
+                    <nei base="0.25" emotions="MP" />
                 </entry>
 
                 <entry id="$-9" title="World on Color">
                     <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.6" />
-                    <nei base="0.2" emotions="Emotion.MP" />
+                    <nei base="0.2" emotions="MP" />
                     OsuSong(personal = 0.1, community = 0.0)
                 </entry>
             </entry>
@@ -72,13 +72,13 @@
                 <entry id="$-1" title="グッドナイトエヴリワン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="5:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
-                    <nei base="0.2" emotions="Emotion.CU" />
+                    <nei base="0.2" emotions="CU" />
                 </entry>
 
                 <entry id="$-8" title="decide">
                     <musicConsumedProgress length="5:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
-                    <nei base="0.25" emotions="Emotion.CU" />
+                    <nei base="0.25" emotions="CU" />
                 </entry>
             </entry>
 
@@ -90,7 +90,7 @@
                 <entry id="$-1" title="Stella-rium">
                     <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
-                    <nei base="0.5" emotions="Emotion.MP" />
+                    <nei base="0.5" emotions="MP" />
                 </entry>
             </entry>
 
@@ -102,7 +102,7 @@
                 <entry id="$-1" title="ディアブレイブ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
-                    <nei base="0.1" emotions="Emotion.CU" />
+                    <nei base="0.1" emotions="CU" />
                 </entry>
             </entry>
 
@@ -114,7 +114,7 @@
                     <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
                     <music base="0.5" />
-                    <nei base="0.1" emotions="Emotion.CU" />
+                    <nei base="0.1" emotions="CU" />
                 </entry>
 
                 <contains id="M-VGMDB-AL-51254-1" />
@@ -141,7 +141,7 @@
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
                     <musicConsumedProgress length="4:33" /> <!-- impl_overridden -->
                     <music base="0.3" />
-                    <nei base="0.1" emotions="Emotion.CU" />
+                    <nei base="0.1" emotions="CU" />
 
                     Remix("M-MAL-36631-6")
                 </entry>
@@ -154,7 +154,7 @@
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
                 <music base="0.6" />
                 <musicConsumedProgress length="4:19" /> <!-- impl_overridden -->
-                <nei base="0.5" emotions="Emotion.CP" />
+                <nei base="0.5" emotions="CP" />
 
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
@@ -162,7 +162,7 @@
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
                 <!-- https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
-                <ref name="KoikakeCry" _.contribution="0.7" _.emotions="Emotion.CU" />
+                <ref name="KoikakeCry" _.contribution="0.7" _.emotions="CU" />
             </entry>
 
             <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
@@ -196,13 +196,13 @@
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
                     <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
                     <music base="0.25" />
-                    <nei base="0.125" emotions="Emotion.MP" />
+                    <nei base="0.125" emotions="MP" />
                 </entry>
 
                 <entry id="$-2" title="うたうたいのうた"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.8" />
-                    <nei base="0.15" emotions="Emotion.MP" />
+                    <nei base="0.15" emotions="MP" />
                 </entry>
 
                 <!-- the best kano song ever. period. -->
@@ -210,27 +210,27 @@
                 <entry id="$-3" title="[It's not] World's end">
                     <musicConsumedProgress length="5:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
-                    <nei base="0.5" emotions="Emotion.CU" />
+                    <nei base="0.5" emotions="CU" />
                     <ref name="KoikakeNEI" _.base="0.4" _.contribution="0.7" _.emotions="CU-0.8:MP-0.2" />
                 </entry>
 
                 <entry id="$-4" title="「ねぇ。」"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="6:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
-                    <nei base="0.25" emotions="Emotion.CU" />
+                    <nei base="0.25" emotions="CU" />
                 </entry>
 
                 <entry id="$-5" title="朝焼け、君の唄。"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="5:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
-                    <nei base="0.2" emotions="Emotion.MP" />
+                    <nei base="0.2" emotions="MP" />
                 </entry>
 
                 <entry id="$-6" title="サクラノ前夜"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="6:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <visual type="animatedMV" base="0.35" unique="0.6" />
                     <music base="0.7" />
-                    <nei base="0.25" emotions="Emotion.CU" />
+                    <nei base="0.25" emotions="CU" />
                     <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="CU-0.5:MP-0.4:CP-0.1" />
                 </entry>
             </entry>

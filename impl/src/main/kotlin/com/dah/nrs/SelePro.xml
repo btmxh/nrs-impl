@@ -12,7 +12,7 @@
             </source>
             <bestGirl name="Uta Koizumi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <cry emotions="Emotion.CU" />
+            <cry emotions="CU" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.5" unique="0.3" />
 

@@ -14,7 +14,7 @@
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.6" unique="0.2" />
-            <nei base="0.5" emotions="Emotion.AP" />
+            <nei base="0.5" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-70621-1" />
             GateOpen("F-VGMDB-3275")
         </entry>

@@ -330,13 +330,13 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </ref>
 
         <!-- SIP humor -->
-        <aei base="0.8" emotions="Emotion.AP" /> {
+        <aei base="0.8" emotions="AP" /> {
             contributors["A-MAL-15051"] = 0.4
             contributors["A-MAL-19111"] = 0.4
             contributors["A-MAL-24997"] = 0.2
         }
 
-        <aei base="0.25" emotions="Emotion.AP" /> {
+        <aei base="0.25" emotions="AP" /> {
             contributors["A-MAL-32526"] = 0.4
             contributors["A-MAL-34973"] = 0.4
             contributors["A-MAL-37027"] = 0.2
@@ -448,7 +448,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <!-- arc 3 - the ayumu dead people arc -->
         <!-- niji got carried hard by kano in this arc -->
-        <maxAEIPADS length="7" emotions="Emotion.CU" /> {
+        <maxAEIPADS length="7" emotions="CU" /> {
             contributors["A-MAL-40879"] = 0.6
             contributors["M-VGMDB-AL-37130-3"] = 0.4
         }
@@ -456,7 +456,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <!-- arc 4 - and then, the world has ended -->
         <!-- "Soshite kimi ga shirazu ni" -->
         <!-- When Ayumu-era ends, I felt depressed -->
-        <maxAEIPADS length="5" emotions="Emotion.CU" /> {
+        <maxAEIPADS length="5" emotions="CU" /> {
             contributors["A-MAL-40879"] = 0.7
             contributors["M-MAL-36631-6"] = 0.15
             contributors["M-20220205T023322-1"] = 0.075
@@ -475,7 +475,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             seasonal = true
 
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
-            <aei base="0.4" emotions="Emotion.AP" />
+            <aei base="0.4" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.6" unique="0.25" />
 
@@ -520,7 +520,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 
-        <nei base="0.75" emotions="Emotion.AP" /> {
+        <nei base="0.75" emotions="AP" /> {
             <!-- guys did you see that, it's her, my favorite school idol of all time, -->
             <!-- tsukisaka sayu! wdym by kanata konoe, who tf is that? i only know sayu! -->
             <!-- sayu is my love, she saved me from my one-year-old depression and showed -->

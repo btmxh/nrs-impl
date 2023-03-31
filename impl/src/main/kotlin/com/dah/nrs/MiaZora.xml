@@ -22,7 +22,7 @@
             <visual type="visualNovel" base="0.6" unique="0.5" />
             ConsumedProgress(EntryStatus.Dropped, 0.8, 15.hours)
             <!-- obligatory eroge romcom humor -->
-            <nei base="0.8" emotions="Emotion.AP" />
+            <nei base="0.8" emotions="AP" />
         </entry>
 
         <entry id="M-VGMDB-AL-57788" title="Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD \">and Little Planets\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

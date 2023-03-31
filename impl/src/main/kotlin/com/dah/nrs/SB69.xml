@@ -84,25 +84,25 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- 「あの時もし...」 考えてたって -->
         <!-- The days that have passed will not come back anymore -->
         <!-- 過ぎた日々はもう 戻らないけど -->
-        <cry emotions="Emotion.CU" /> {
+        <cry emotions="CU" /> {
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2
             contributors["M-VGMDB-AL-51276"] = 0.1
         }
-        <pads length="3" emotions="Emotion.CU" /> {
+        <pads length="3" emotions="CU" /> {
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.25
             contributors["A-MAL-32038"] = 0.25
             ValidatorSuppress("dah-lone-pads")
         }
 
-        <aei base="0.5" emotions="Emotion.AP" /> {
+        <aei base="0.5" emotions="AP" /> {
             contributors["A-MAL-27441"] = 0.5
             contributors["A-MAL-32038"] = 0.5
         }
 
-        <aei base="0.2" emotions="Emotion.AP" /> {
+        <aei base="0.2" emotions="AP" /> {
             contributors["A-MAL-40763"] = 0.6
             contributors["A-MAL-41520"] = 0.4
         }
@@ -159,12 +159,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the lesson thingy was pretty cool ig -->
-            <aei base="0.2" emotions="Emotion.MP" />
+            <aei base="0.2" emotions="MP" />
 
             <!-- I almost cried at the ailane thing -->
             <!-- <strikethrough>but NEI because gigachad animes don't farm tears</strikethrough> -->
             <!-- didn't care didn't ask, and the NEI/AEI rework is here either way -->
-            <aei base="0.7" emotions="Emotion.MP" />
+            <aei base="0.7" emotions="MP" />
 
             <featureMusic id="M-VGMDB-AL-61217-1" />
             <featureMusic id="M-VGMDB-AL-61940-1" />
@@ -190,7 +190,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- my heart skipped a beat when the cat -->
             <!-- appeared in last ep -->
             <!-- keking -->
-            <nei base="0.75" emotions="Emotion.MP" />
+            <nei base="0.75" emotions="MP" />
 
             <featureMusic id="M-VGMDB-AL-93440-1" />
             <featureMusic id="M-VGMDB-AL-93440-3" />
@@ -229,7 +229,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- basically in ep 1&2, the cat has little screentime, -->
             <!-- and considering i have to wait 2 long weeks to watch -->
             <!-- this, it's frustrating af. -->
-            <nei base="0.5" emotions="Emotion.AU" />
+            <nei base="0.5" emotions="AU" />
 
             <!-- basically the cat va in s4 focuses on moe more -->
             <!-- than the fact that the cat is kinda reserved and shit -->
@@ -365,7 +365,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALive<music base="0.35" />
 
-                <nei base="0.25" emotions="Emotion.MP" />
+                <nei base="0.25" emotions="MP" />
             </entry>
         </entry>
 
@@ -384,12 +384,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <!-- "visual"s of hiromemes and mashiro start line are good -->
-        <nei base="0.5" emotions="Emotion.MP" /> {
+        <nei base="0.5" emotions="MP" /> {
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-1"] = 0.25
         }
 
-        <aei base="0.5" emotions="Emotion.CP" /> {
+        <aei base="0.5" emotions="CP" /> {
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-3"] = 0.25
         }
@@ -516,7 +516,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- truly the cultural era of all time -->
 
                 <!-- "run with all our might" -->
-                <nei base="0.8" emotions="Emotion.CP" /> {
+                <nei base="0.8" emotions="CP" /> {
                     contributors["M-VGMDB-AL-104267-3"] = 0.2
                     contributors["O-20221003T175501-2"] = 0.2
                     contributors["V-VNDB-17516"] = 0.6
@@ -681,7 +681,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 FesALive<music base="0.8" /> {
                     arc2 = 3.0
                 }
-                <nei base="0.5" emotions="Emotion.MP" />
+                <nei base="0.5" emotions="MP" />
 
                 <!-- (the love song parody lyrics shit of me to rst, translated to english) -->
 
@@ -744,8 +744,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     nee = 5.0
                 }
                 <!-- cleaning koikake :tf: -->
-                <!-- <aei base="0.3" emotions="Emotion.MP" /> -->
-                <ref name="KoikakeAEI" _.base="0.3" _.contribution="0.7" _.emotions="Emotion.MP" />
+                <!-- <aei base="0.3" emotions="MP" /> -->
+                <ref name="KoikakeAEI" _.base="0.3" _.contribution="0.7" _.emotions="MP" />
             </entry>
         </entry>
 

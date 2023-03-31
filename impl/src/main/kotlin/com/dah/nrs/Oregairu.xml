@@ -63,7 +63,7 @@
         <!-- Read here for more details: -->
         <!-- http://yaharianalysis.x10host.com/ -->
         <!-- (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php) -->
-        <maxAEIPADS length="5" emotions="Emotion.CU" /> {
+        <maxAEIPADS length="5" emotions="CU" /> {
             contributors["M-VGMDB-AL-51394-3"] = 0.05
             contributors["M-VGMDB-AL-37999-2"] = 0.05
             contributors["A-MAL-14813"] = 0.1
@@ -82,7 +82,7 @@
         }
 
         <!-- VSCC is pretty comfy (before Yui Depression) -->
-        <nei base="0.6" emotions="Emotion.MP" /> {
+        <nei base="0.6" emotions="MP" /> {
             contributors["A-MAL-14813"] = 0.3
             contributors["A-MAL-23847"] = 0.7
         }
@@ -107,7 +107,7 @@
             <bestGirl name="Yukino Yukinoshita" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.25" unique="0.4" />
-            <nei base="0.75" emotions="Emotion.AP" />
+            <nei base="0.75" emotions="AP" />
 
             <featureMusic id="M-VGMDB-AL-37932-1" />
             <featureMusic id="M-VGMDB-AL-37999" />
@@ -127,12 +127,12 @@
             <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.4" unique="0.25" />
-            <nei base="0.25" emotions="Emotion.AP" />
+            <nei base="0.25" emotions="AP" />
 
             <!-- Oregairu S2 has a lot of drama that I don't even -->
             <!-- understand. But it's pretty good ngl. -->
             <!-- (basically atmospheric-CU farm) -->
-            <aei base="0.9" emotions="Emotion.CU" />
+            <aei base="0.9" emotions="CU" />
 
             <featureMusic id="M-VGMDB-AL-51516-1" />
             <featureMusic id="M-VGMDB-AL-51394-1" />
@@ -158,8 +158,8 @@
             <!-- Yui dead people arc was kinda good -->
             <!-- but Oregairu is just dead -->
             <!-- you can't do much about it -->
-            <aei base="0.4" emotions="Emotion.CU" />
-            <nei base="0.1" emotions="Emotion.AP" />
+            <aei base="0.4" emotions="CU" />
+            <nei base="0.1" emotions="AP" />
 
             <!-- killed by lapis re lights lmao xd -->
             KilledBy("A-MAL-37587", potential = 0.75, effect = 0.5)

@@ -23,10 +23,10 @@
             <animeConsumedProgress status="Dropped" boredom="0.9" episodes="9" />
 
             <!-- first anime to do cp-farming -->
-            <aei base="0.8" emotions="Emotion.CP" />
+            <aei base="0.8" emotions="CP" />
 
             <!-- the girls are comfy too -->
-            <nei base="0.75" emotions="Emotion.MP" />
+            <nei base="0.75" emotions="MP" />
 
             <visual type="animated" base="0.3" unique="0.5" />
 

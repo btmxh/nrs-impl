@@ -15,7 +15,7 @@
 
             <visual type="animated" base="0.5" unique="0.3" />
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
-            <nei base="0.5" emotions="Emotion.AP" />
+            <nei base="0.5" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-40263-1" />
         </entry>
 

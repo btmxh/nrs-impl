@@ -44,7 +44,7 @@
 
             <!-- I AM atomic -->
             <ehi /> <!-- humor -->
-            <nei base="0.25" emotions="Emotion.AP" /> <!-- plot -->
+            <nei base="0.25" emotions="AP" /> <!-- plot -->
 
             Meme(0.8, numDays("2023-03-01", "2023-03-12"))
             <featureMusic id="M-VGMDB-AL-122851" />

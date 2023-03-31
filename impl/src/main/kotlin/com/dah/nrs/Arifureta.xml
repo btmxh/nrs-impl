@@ -15,7 +15,7 @@
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="13" />
 
             <!-- MC got dumped by his friends made me kinda angry -->
-            <nei base="0.25" emotions="Emotion.AU" />
+            <nei base="0.25" emotions="AU" />
             <visual type="animated" base="0.5" unique="0.1" />
 
             <featureMusic id="M-VGMDB-AL-86592-1" />

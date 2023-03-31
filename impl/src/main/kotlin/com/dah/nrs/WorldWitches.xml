@@ -38,7 +38,7 @@
             <!-- MC and her sister somewhat ressembles Mana Shikimiya -->
             <!-- and Aone Shikimiya -->
             <!-- haha "tạ kami" -->
-            <nei base="0.75" emotions="Emotion.AP" />
+            <nei base="0.75" emotions="AP" />
 
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             KilledBy("F-VGMDB-694", 0.25, 0.5)

@@ -14,7 +14,7 @@
             <bestGirl name="Konatsu Miyamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- pa works is the best atmospheric farmer -->
-            <cry emotions="Emotion.CU" />
+            <cry emotions="CU" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
 
             <visual type="animated" base="0.4" unique="0.3" />

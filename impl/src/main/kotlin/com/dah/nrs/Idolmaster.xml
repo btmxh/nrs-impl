@@ -49,10 +49,10 @@
             </source>
             <bestGirl name="Iori Minase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- ending pretty sadge -->
-            <nei base="0.6" emotions="Emotion.CU" />
+            <nei base="0.6" emotions="CU" />
 
             <!-- funny ig -->
-            <nei base="0.75" emotions="Emotion.AP" />
+            <nei base="0.75" emotions="AP" />
 
             <!-- idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig. -->
             <music base="0.03" />
@@ -60,7 +60,7 @@
             <visual type="animated" base="0.4" unique="0.3" />
         </entry>
 
-        <nei base="0.25" emotions="Emotion.AP" /> {
+        <nei base="0.25" emotions="AP" /> {
             contributors["A-MAL-23587"] = 0.5
             contributors["A-MAL-30344"] = 0.5
         }

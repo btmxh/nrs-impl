@@ -15,7 +15,7 @@
             <animeConsumedProgress status="Dropped" boredom="0.7" episodes="9" />
             <dropped />
             <!-- plot kinda ok -->
-            <nei base="0.5" emotions="Emotion.AP" />
+            <nei base="0.5" emotions="AP" />
             <visual type="animated" base="0.6" unique="0.15" />
             <featureMusic id="M-VGMDB-AL-80253-1" />
         </entry>

@@ -40,7 +40,7 @@
         }
 
         <!-- yuyuyu's world building is somewhat scary ngl -->
-        <aei base="0.25" emotions="Emotion.MU" /> {
+        <aei base="0.25" emotions="MU" /> {
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.4
             contributors["A-MAL-34284"] = 0.05
@@ -79,20 +79,20 @@
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
             <!-- ye it's the shelter of yuri yuna now lmao -->
-            <cry emotions="Emotion.CU" />
+            <cry emotions="CU" />
 
             <!-- The main group is comfy af, and -->
             <!-- they actually used it to make some sad things. -->
             <!-- Well I cried at the other Itsuki thing -->
             <!-- no clip this time -->
-            <cry emotions="Emotion.MP" />
+            <cry emotions="MP" />
 
             <featureMusic id="M-VGMDB-AL-47678-1" />
 
             <!-- Second anime (after Sora no Method) to (be able to) -->
             <!-- use OP/ED visual + music to strengthen the sadness. -->
             <!-- (only the ending tho) -->
-            <aei base="0.25" emotions="Emotion.CU" />
+            <aei base="0.25" emotions="CU" />
             <visual type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         </entry>
@@ -135,7 +135,7 @@
             <!-- Overall, this LN spams sad shit everywhere, -->
             <!-- <strikethrough>(inb4 yuuna got fucked and i cried)</strikethrough> -->
             <!-- that didn't happen pog -->
-            <aei base="0.3" emotions="Emotion.CU" />
+            <aei base="0.3" emotions="CU" />
 
             ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
             <visual type="lightNovel" base="0.15" unique="0.5" />
@@ -157,7 +157,7 @@
             <!-- gin's death (the consequences of the ortensia incident) -->
             <!-- and sonoko spamming magia are sad -->
             <!-- but my pepega ass doesn't watch this shit properly ffs -->
-            <nei base="0.5" emotions="Emotion.CU" />
+            <nei base="0.5" emotions="CU" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
             <visual type="animated" base="0.3" unique="0.5" />
@@ -182,7 +182,7 @@
             <!-- literally the vertex of drama wtf -->
             <!--                  ^ -->
             <!--                  yuyuyu reference !!!11!!1 -->
-            <aei base="0.3" emotions="Emotion.CU" />
+            <aei base="0.3" emotions="CU" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
             <visual type="animated" base="0.3" unique="0.5" />
@@ -210,7 +210,7 @@
 
             <!-- E5-20:17 -->
             <!-- YLIA flashbacks -->
-            <nei base="0.75" emotions="Emotion.CU" />
+            <nei base="0.75" emotions="CU" />
 
             <featureMusic id="M-VGMDB-AL-114186-2" />
 

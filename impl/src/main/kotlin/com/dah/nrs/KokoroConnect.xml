@@ -14,19 +14,19 @@
         </entry>
 
         <!-- drama -->
-        <aei base="0.9" emotions="Emotion.CU" /> {
+        <aei base="0.9" emotions="CU" /> {
             contributors["A-MAL-11887"] = 0.5
             contributors["A-MAL-16001"] = 0.5
         }
 
         <!-- comfy compoly -->
-        <nei base="0.1" emotions="Emotion.MP" /> {
+        <nei base="0.1" emotions="MP" /> {
             contributors["A-MAL-11887"] = 0.75
             contributors["A-MAL-16001"] = 0.25
         }
 
         <!-- plot -->
-        <aei base="0.5" emotions="Emotion.AP" /> {
+        <aei base="0.5" emotions="AP" /> {
             contributors["A-MAL-11887"] = 0.6
             contributors["A-MAL-16001"] = 0.4
         }

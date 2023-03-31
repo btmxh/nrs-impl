@@ -16,13 +16,13 @@
             <bestGirl name="Nonoka Komiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- Drama in this anime is executed pretty well. -->
-            <aei base="0.75" emotions="Emotion.CU" />
+            <aei base="0.75" emotions="CU" />
 
             <!-- beasttrollminecraft -->
             Meme(0.3, 6)
 
             <!-- First anime to (be able to) use OP/ED visual + music to strengthen the sadness. -->
-            <aei base="0.5" emotions="Emotion.CU" />
+            <aei base="0.5" emotions="CU" />
 
             <!-- OP/ED very good too. -->
             <featureMusic id="M-VGMDB-AL-47402-1" />

@@ -34,7 +34,7 @@
             <aei base="0.2" emotions="MP-0.9:CP-0.1" />
 
             <!-- comedy was weak ngl -->
-            <nei base="0.5" emotions="Emotion.AP" />
+            <nei base="0.5" emotions="AP" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
             <visual type="animated" base="0.5" unique="0.2" />

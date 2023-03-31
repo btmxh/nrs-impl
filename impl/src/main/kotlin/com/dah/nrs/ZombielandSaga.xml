@@ -12,7 +12,7 @@
             <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- kinda funny -->
-            <aei base="0.5" emotions="Emotion.AP" />
+            <aei base="0.5" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>

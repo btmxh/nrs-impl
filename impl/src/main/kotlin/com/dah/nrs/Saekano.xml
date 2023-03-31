@@ -69,7 +69,7 @@
             </source>
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             <!-- humor -->
-            <nei base="0.25" emotions="Emotion.AP" />
+            <nei base="0.25" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1.hours + 54.minutes" />
             <visual type="animated" base="0.55" unique="0.3" />
         </entry>

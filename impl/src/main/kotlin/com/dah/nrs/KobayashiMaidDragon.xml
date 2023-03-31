@@ -36,7 +36,7 @@
             <bestGirl name="Tohru" /> <!-- impl_overridden -->
 
             <!-- funny ig idk tbh -->
-            <nei base="0.75" emotions="Emotion.AP" />
+            <nei base="0.75" emotions="AP" />
 
             <visual type="animated" base="0.6" unique="0.3" />
 

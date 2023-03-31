@@ -227,7 +227,7 @@
         </entry>
 
         <!-- bandori has some good comedy shit -->
-        <aei base="0.2" emotions="Emotion.AP" /> {
+        <aei base="0.2" emotions="AP" /> {
             contributors["A-MAL-33573"] = 0.5
             contributors["A-MAL-37869"] = 0.3
             contributors["G-VGMDB-5172 [null entry]"] = 0.2
@@ -242,7 +242,7 @@
             </source>
             <bestGirl name="Arisa Ichigaya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Ending pretty sadge -->
-            <aei base="0.2" emotions="Emotion.CU" />
+            <aei base="0.2" emotions="CU" />
             <!-- nrs1 -->
             Meme(0.2, 6)
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />

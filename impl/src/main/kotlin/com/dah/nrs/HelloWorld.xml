@@ -31,7 +31,7 @@
         <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
-    <aei base="0.9" emotions="Emotion.CU" /> {
+    <aei base="0.9" emotions="CU" /> {
         contributors["A-MAL-38816"] = 0.4
         contributors["A-MAL-40295"] = 0.6
     }

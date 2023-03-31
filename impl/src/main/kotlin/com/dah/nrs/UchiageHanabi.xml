@@ -12,7 +12,7 @@
             </source>
 
             <!-- SLN rng -->
-            <aei base="0.1" emotions="Emotion.CU" />
+            <aei base="0.1" emotions="CU" />
 
             <bestGirl name="Nazuna Oikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 

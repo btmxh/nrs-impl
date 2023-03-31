@@ -14,7 +14,7 @@
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- Pretty decent drama -->
-            <aei base="0.5" emotions="Emotion.CU" />
+            <aei base="0.5" emotions="CU" />
             <featureMusic id="M-VGMDB-AL-70716-1" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>

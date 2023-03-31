@@ -37,10 +37,10 @@
             <!-- really good atmospheric farming ngl :clueless: -->
             <!-- funnychamp :clueless: -->
             <!-- ayane route omegalul + good story ngl :clueless: -->
-            <aei base="0.3" emotions="Emotion.AP" />
+            <aei base="0.3" emotions="AP" />
 
             <!-- eroge love ig :clueless: -->
-            <!-- <aei base="0.5" emotions="Emotion.MP" /> -->
+            <!-- <aei base="0.5" emotions="MP" /> -->
 
             NeoErogeEra(1.0)
             <featureMusic id="M-VGMDB-AL-58596" />
@@ -53,7 +53,7 @@
             <!-- "Even if our paces do not match, :clueless: -->
             <!--  If I ran with all my might, :clueless: -->
             <!--  We may be able to meet again." :clueless: -->
-            <aei base="0.8" emotions="Emotion.CU" />
+            <aei base="0.8" emotions="CU" />
 
             <!-- the :aware: part -->
 
@@ -64,16 +64,16 @@
             <epi base="1.0" />
 
             <!-- realization of the fact that main girl didn't love mc -->
-            <aei base="0.2" emotions="Emotion.AU" />
+            <aei base="0.2" emotions="AU" />
 
             <!-- main girl's music career, darker than the childplay "ortensia incident" -->
             <aei base="0.2" emotions="AU-0.5:MP-0.5" />
 
             <!-- eroge love ig :aware: -->
-            <aei base="0.8" emotions="Emotion.MP" />
+            <aei base="0.8" emotions="MP" />
 
             <!-- the sadness of the story -->
-            <cry emotions="Emotion.CU" /> {
+            <cry emotions="CU" /> {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }

@@ -108,7 +108,7 @@
 
             <!-- this anime somewhat feels like those rst-inspired-CP-based anime ngl -->
             <!-- (first ep) -->
-            <!-- <nei base="3.0" emotions="Emotion.CP" /> -->
+            <!-- <nei base="3.0" emotions="CP" /> -->
             <!-- based atelier refused to suck rst's dick -->
 
             <!-- NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY AYESHA SCREENTIME NOFUCKINGWAY -->
@@ -209,7 +209,7 @@
                 <music base="0.6" />
                 <!-- the cp contest of Oct 4th -->
                 <!-- aka the first win of the ROD in uni -->
-                <aei base="0.25" emotions="Emotion.CP" />
+                <aei base="0.25" emotions="CP" />
             </entry>
         </entry>
 

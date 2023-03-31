@@ -11,8 +11,8 @@
 
             ConsumedProgress(EntryStatus.Watching, 0.9, 3.hours)
             <visual type="visualNovel" base="0.7" unique="0.3" />
-            <nei base="0.3" emotions="Emotion.MP" />
-            <nei base="0.4" emotions="Emotion.AP" />
+            <nei base="0.3" emotions="MP" />
+            <nei base="0.4" emotions="AP" />
             KilledBy("F-20221128T123502", potential = 0.25, effect = 1.0)
         </entry>
 

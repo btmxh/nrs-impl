@@ -89,13 +89,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     <!-- rst has changed da world. -->
 
     <!-- overture: shelter incident -->
-    <aei base="0.5" emotions="Emotion.CP" /> {
+    <aei base="0.5" emotions="CP" /> {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
     }
 
     <!-- ed visual slaps -->
-    <aei base="0.25" emotions="Emotion.CP" /> {
+    <aei base="0.25" emotions="CP" /> {
         contributors["M-VGMDB-AL-78532-1"] = 0.25
         contributors["A-MAL-38009"] = 0.75
     }
@@ -179,17 +179,17 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- follow her pls: https://twitter.com/makinoamane -->
 
             <!-- the re stage niji incident -->
-<!--            <pads length="5" emotions="Emotion.MP" /> -->
+<!--            <pads length="5" emotions="MP" /> -->
             <!-- rare occurrence of a PADS without accompanying AEI -->
-            <pads length="1" emotions="Emotion.MP" /> {
+            <pads length="1" emotions="MP" /> {
                 ValidatorSuppress("dah-lone-pads")
             }
 
             <!-- 4chan loved rst, which is heartwarming af -->
-            <aei base="0.3" emotions="Emotion.MP" />
+            <aei base="0.3" emotions="MP" />
 
             <!-- rst lore -->
-<!--            <nei base="9.0" emotions="Emotion.AP" /> -->
+<!--            <nei base="9.0" emotions="AP" /> -->
 
             <!-- inverse heisenberg and its consequences -->
             <!-- (MU is from rst dark lore, the "maybe the ortensia incident is not just about -->
@@ -200,7 +200,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <!-- this was funny af -->
             <!-- expected from a purely mpap-based idol anime -->
-            <aei base="0.6" emotions="Emotion.AP" />
+            <aei base="0.6" emotions="AP" />
 
             <!-- for the first time, i felt like i'm actually holding a glowstick, -->
             <!-- waving it, and wish the best for the girls performing -->

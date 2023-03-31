@@ -71,7 +71,7 @@
 
         <!-- focus on [trust], somewhat interesting -->
         <!-- idk will this be able to continued to other eps tho -->
-        <nei base="0.2" emotions="Emotion.AP" />
+        <nei base="0.2" emotions="AP" />
     </entry>
 
     <!-- ngl this is way better than previous season -->

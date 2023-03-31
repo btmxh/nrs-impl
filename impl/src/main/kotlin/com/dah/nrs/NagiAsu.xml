@@ -28,12 +28,12 @@
 
             <bestGirl name="Miuna Shiodome" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- poor best girl -->
-            <maxAEIPADS length="2" emotions="Emotion.CU" />
+            <maxAEIPADS length="2" emotions="CU" />
 
             <!-- there are other relationships other than the -->
             <!-- love triangle of best girl and they did make -->
             <!-- an impact -->
-            <nei base="0.75" emotions="Emotion.CU" />
+            <nei base="0.75" emotions="CU" />
 
             <waifu name="Shiodome Miuna" length="90" />
             <visual type="animated" base="0.6" unique="0.6" />
