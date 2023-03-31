@@ -1126,7 +1126,10 @@ fun DSLScope.ReStage() {
             // idk find them yourself, they're really good
             // (despite rst having average character design + the
             // illustrator art style is not that good)
-            Visual(VisualKind.GachaCardArt, 0.75, 0.75)
+            // i'm speechless please kill me
+            // truly the peak of culture
+            // context: https://github.com/ngoduyanh/nrs-impl-kt/issues/408
+            Visual(VisualKind.GachaCardArt, 1.0, 0.75)
 
             GateOpen("F-VGMDB-6439")
             GateOpen("F-VGMDB-4499")
