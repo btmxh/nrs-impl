@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-3345" title="Shigatsu wa Kimi no Uso">
 
         <entry id="A-MAL-23273" title="Shigatsu wa Kimi no Uso"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 23273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8403 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20665 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 23273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="23273"/>
+                <ks id="8403"/>
+                <al id="20665"/>
+                <mal id="23273"/>
+            </source>
 
             <bestGirl name="Kaori Miyazono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 

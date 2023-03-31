@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-6852" title="Seishun Buta Yarou Series">
 
         <entry id="A-MAL-37450" title="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37450 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 41056 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 101291 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37450 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37450"/>
+                <ks id="41056"/>
+                <al id="101291"/>
+                <mal id="37450"/>
+            </source>
             <bestGirl name="Shouko Makinohara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 9)

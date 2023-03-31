@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-7166" title="Tate no Yuusha no Nariagari">
 
         <entry id="A-MAL-35790" title="Tate no Yuusha no Nariagari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13593 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 99263 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 35790 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35790"/>
+                <ks id="13593"/>
+                <al id="99263"/>
+                <mal id="35790"/>
+            </source>
             <!-- This became popular thanks to Reddit. -->
             <!-- And yes, it's watched in the Reddit-era -->
             <bestGirl name="Raphtalia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -21,10 +23,12 @@
         </entry>
 
         <entry id="A-MAL-40356" title="Tate no Yuusha no Nariagari Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40356 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 111321 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 40356 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40356"/>
+                <ks id="42530"/>
+                <al id="111321"/>
+                <mal id="40356"/>
+            </source>
             <bestGirl name="Raphtalia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)

@@ -132,10 +132,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         }
 
         <entry id="A-MAL-27441" title="Show By Rock!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 27441 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 9729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20843 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 27441 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="27441"/>
+                <ks id="9729"/>
+                <al id="20843"/>
+                <mal id="27441"/>
+            </source>
             <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             FeatureMusic("M-VGMDB-AL-51276-1")
@@ -148,10 +150,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="A-MAL-32038" title="Show By Rock!! #"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 32038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11494 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21476 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 32038 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="32038"/>
+                <ks id="11494"/>
+                <al id="21476"/>
+                <mal id="32038"/>
+            </source>
             <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the lesson thingy was pretty cool ig -->
@@ -172,10 +176,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="A-MAL-40763" title="Show By Rock!! Mashumairesh!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40763 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42885 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 113470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 40763 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40763"/>
+                <ks id="42885"/>
+                <al id="113470"/>
+                <mal id="40763"/>
+            </source>
             <bestGirl name="Himeko Mashima" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- main girl is hoan tinh xdddddddddd -->
             <!-- chao em co gai howan tinh -->
@@ -200,10 +206,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="A-MAL-41520" title="Show by Rock!! Stars!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41520 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 43590 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 113476 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 41520 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41520"/>
+                <ks id="43590"/>
+                <al id="113476"/>
+                <mal id="41520"/>
+            </source>
             <bestGirl name="Hijirikawa Cyan" /> <!-- aka the ayumu cat -->
             <!-- aka show by rock!! banded rocking records high school idol club -->
             <!-- the gen2 niji -->

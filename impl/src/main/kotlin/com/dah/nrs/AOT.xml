@@ -14,30 +14,36 @@
         }
 
         <entry id="A-MAL-16498" title="Shingeki no Kyojin"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7442 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 16498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="16498"/>
+                <ks id="7442"/>
+                <al id="16498"/>
+                <mal id="16498"/>
+            </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
 
         <entry id="A-MAL-25777" title="Shingeki no Kyojin Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 25777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20958 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 25777 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="25777"/>
+                <ks id="8671"/>
+                <al id="20958"/>
+                <mal id="25777"/>
+            </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
         </entry>
 
         <entry id="A-MAL-35760" title="Shingeki no Kyojin Season 3"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13569 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 99147 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 35760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35760"/>
+                <ks id="13569"/>
+                <al id="99147"/>
+                <mal id="35760"/>
+            </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.2, 0.6)
@@ -49,10 +55,12 @@
         <!-- aged well lmfao after the seishun wa non-stop incident -->
         <!-- xddddddddddddddddddddd -->
         <entry id="A-MAL-38524" title="Shingeki no Kyojin Season 3 Part 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 41982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 104578 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38524"/>
+                <ks id="41982"/>
+                <al id="104578"/>
+                <mal id="38524"/>
+            </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             AEI(0.5, Emotion.AP)

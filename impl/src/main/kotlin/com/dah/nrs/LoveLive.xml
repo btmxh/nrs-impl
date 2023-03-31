@@ -344,10 +344,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <!-- Anime -->
         <entry id="A-MAL-15051" title="Love Live! School Idol Project">
-            idMAL = 15051 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 15051 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 15051 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="15051"/>
+                <ks id="7203"/>
+                <al id="15051"/>
+                <mal id="15051"/>
+            </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             FeatureMusic("M-VGMDB-AL-36547-1")
@@ -357,10 +359,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-19111" title="Love Live! School Idol Project 2nd Season">
-            idMAL = 19111 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 19111 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7871 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 19111 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="19111"/>
+                <ks id="7871"/>
+                <al id="19111"/>
+                <mal id="19111"/>
+            </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             FeatureMusic("M-VGMDB-AL-34051-1")
@@ -370,10 +374,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-24997" title="Love Live! The School Idol Movie">
-            idMAL = 24997 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20766 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8531 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 24997 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="24997"/>
+                <ks id="8531"/>
+                <al id="20766"/>
+                <mal id="24997"/>
+            </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 54.minutes)
@@ -382,10 +388,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-32526" title="Love Live! Sunshine!!">
-            idAniList = 21584 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 32526 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 32526 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11745 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="11745"/>
+                <ks id="32526"/>
+                <al id="32526"/>
+                <mal id="21584"/>
+            </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             FeatureMusic("M-VGMDB-AL-58147-1")
             FeatureMusic("M-VGMDB-AL-58750-1")
@@ -395,10 +403,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-34973" title="Love Live! Sunshine!! 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34973 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13299 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 98349 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 34973 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="34973"/>
+                <ks id="13299"/>
+                <al id="98349"/>
+                <mal id="34973"/>
+            </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- aozora was featured in ep13 -->
             FeatureMusic("M-VGMDB-AL-58147-1")
@@ -409,10 +419,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-37027" title="Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37027 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 14188 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 100965 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37027 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37027"/>
+                <ks id="14188"/>
+                <al id="100965"/>
+                <mal id="37027"/>
+            </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 40.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
@@ -453,10 +465,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         }
 
         <entry id="A-MAL-40879" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai">
-            idAniDB = 40879 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 113970 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 40879 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42872 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40879" />
+                <al id="113970" />
+                <mal id="40879" />
+                <ks id="42872" />
+            </source>
             <bestGirl name="Ayumu Uehara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 
@@ -489,10 +503,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-41169" title="Love Live! Superstar!!">
-            idMAL = 41169 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 114979 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44124 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41169 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41169"/>
+                <ks id="44124"/>
+                <al id="114979"/>
+                <mal id="41169"/>
+            </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- insert wakeshima kanon is shibuya kanon joke here -->
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
@@ -534,10 +550,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         }
 
         <entry id="A-MAL-48916" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season">
-            idMAL = 48916 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 133891 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44537 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 48916 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="48916"/>
+                <ks id="44537"/>
+                <al id="133891"/>
+                <mal id="48916"/>
+            </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Kanata Konoe" />
 
@@ -552,10 +570,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="A-MAL-50203" title="Love Live! Superstar!! 2nd Season">
-            idMAL = 50203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 140642 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 45360 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 50203 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" --> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="50203"/>
+                <ks id="45360"/>
+                <al id="140642"/>
+                <mal id="50203"/>
+            </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)

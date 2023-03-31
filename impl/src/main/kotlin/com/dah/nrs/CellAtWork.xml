@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-8677" title="Hataraku Saibou">
 
         <entry id="A-MAL-37141" title="Hataraku Saibou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37141 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 14212 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 100977 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37141 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37141"/>
+                <ks id="14212"/>
+                <al id="100977"/>
+                <mal id="37141"/>
+            </source>
             <bestGirl name="Kesshouban" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 5)

@@ -7,10 +7,12 @@
     <entry id="F-VGMDB-7040" title="Sora yori mo Tooi Basho">
 
         <entry id="A-MAL-35839" title="Sora yori mo Tooi Basho"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35839 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13615 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 99426 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 35839 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35839"/>
+                <ks id="13615"/>
+                <al id="99426"/>
+                <mal id="35839"/>
+            </source>
             <bestGirl name="Yuzuki Shiraishi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the beginning was good, since they're making progress -->

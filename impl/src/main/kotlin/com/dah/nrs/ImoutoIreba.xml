@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-5485" title="Imouto sae Ireba Ii.">
 
         <entry id="A-MAL-35413" title="Imouto sae Ireba Ii."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11207 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 98596 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 35413 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35413"/>
+                <ks id="11207"/>
+                <al id="98596"/>
+                <mal id="35413"/>
+            </source>
             <bestGirl name="Miyako Shirakawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)

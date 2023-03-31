@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-5817" title="natsuiro kiseki">
 
         <entry id="A-MAL-12119" title="Natsu-iro Kiseki"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 12119 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 6667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 12119 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 12119 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="12119"/>
+                <ks id="6667"/>
+                <al id="12119"/>
+                <mal id="12119"/>
+            </source>
 
             <bestGirl name="Saki Mizukoshi" />
 
@@ -18,9 +20,11 @@
         </entry>
 
         <entry id="A-MAL-15431" title="Natsu-iro Kiseki: 15-kaime no Natsuyasumi"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7255 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 15431 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 15431 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <ks id="7255"/>
+                <al id="15431"/>
+                <mal id="15431"/>
+            </source>
 
             <bestGirl name="Saki Mizukoshi" />
 

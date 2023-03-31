@@ -8,10 +8,12 @@
     <!-- (the prima doll incident) -->
 
     <entry id="A-MAL-50760" title="Teppen!!!!!!!!!!!!!!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 50760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45729 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 143417 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 50760 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="50760"/>
+            <ks id="45729"/>
+            <al id="143417"/>
+            <mal id="50760"/>
+        </source>
 
         <bestGirl name="Yuzu Hosono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -25,10 +27,12 @@
     </entry>
 
     <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 41589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 43098 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 117196 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 41589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="41589"/>
+            <ks id="43098"/>
+            <al id="117196"/>
+            <mal id="41589"/>
+        </source>
 
         <bestGirl name="Ichigo Momomiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -45,10 +49,12 @@
     </entry>
 
     <entry id="A-MAL-50917" title="Prima Doll"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 50917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45812 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 144509 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 50917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="50917"/>
+            <ks id="45812"/>
+            <al id="144509"/>
+            <mal id="50917"/>
+        </source>
         <!-- the "fuck u setsuna yuki" and "akari kito pls come back" anime -->
         <!-- yep, ep 1 was ruined because of that bullcrap -->
         <!-- yep, the whole anime was ruined because of that girl -->
@@ -75,10 +81,12 @@
     </entry>
 
     <entry id="A-MAL-49470" title="Mamahaha no Tsurego ga Motokano datta"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 49470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 44913 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 136934 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 49470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="49470"/>
+            <ks id="44913"/>
+            <al id="136934"/>
+            <mal id="49470"/>
+        </source>
         <!-- from the creators of Seirei Gensouki (kimi no rhapsody reference) -->
         <!-- and something something villager a (kimi no rhapsody reference once -->
         <!-- again), introducing... -->
@@ -105,10 +113,12 @@
     </entry>
 
     <entry id="A-MAL-50999" title="Extreme Hearts"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 50999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45855 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 145001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 50999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="50999"/>
+            <ks id="45855"/>
+            <al id="145001"/>
+            <mal id="50999"/>
+        </source>
 
         <bestGirl name="Saki Kodaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
         <!-- saki is someone that we need but we don't deserve -->
@@ -138,10 +148,12 @@
     </entry>
 
     <entry id="A-MAL-50221" title="Shine Post"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 50221 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 140753 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 50221 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="50221"/>
+            <ks id="45389"/>
+            <al id="140753"/>
+            <mal id="50221"/>
+        </source>
 
         <bestGirl name="Rio Seibu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
         <!-- lmfao himekek VA -->

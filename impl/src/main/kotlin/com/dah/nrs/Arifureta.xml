@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-6083" title="Arifureta Shokugyou de Sekaisaikyou">
 
         <entry id="A-MAL-36882" title="Arifureta Shokugyou de Sekai Saikyou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 36882 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 14043 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 100668 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 36882 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="36882"/>
+                <ks id="14043"/>
+                <al id="100668"/>
+                <mal id="36882"/>
+            </source>
             <bestGirl name="Yue" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 13)

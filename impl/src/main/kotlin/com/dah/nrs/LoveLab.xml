@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-2520" title="Love Lab">
 
         <entry id="A-MAL-16353" title="Love Lab"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 16353 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7410 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 16353 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 16353 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="16353"/>
+                <ks id="7410"/>
+                <al id="16353"/>
+                <mal id="16353"/>
+            </source>
 
             <bestGirl name="Riko Kurahashi" />
 

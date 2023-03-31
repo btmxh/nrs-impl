@@ -30,10 +30,12 @@
         </entry>
 
         <entry id="A-MAL-34392" title="One Room"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34392 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 12758 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 97857 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 34392 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="34392"/>
+                <ks id="12758"/>
+                <al id="97857"/>
+                <mal id="34392"/>
+            </source>
             <bestGirl name="Yui Hanasaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
 

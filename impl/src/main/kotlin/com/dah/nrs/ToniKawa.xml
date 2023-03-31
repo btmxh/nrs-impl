@@ -5,10 +5,12 @@
     <entry id="F-VGMDB-10135" title="Tonikaku Kawaii">
 
         <entry id="A-MAL-41389" title="Tonikaku Kawaii"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 43034 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 116267 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 41389 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41389"/>
+                <ks id="43034"/>
+                <al id="116267"/>
+                <mal id="41389"/>
+            </source>
             <bestGirl name="Tsukasa Yuzaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.4, 0.6)

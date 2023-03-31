@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-9850" title="Tantei wa Mou, Shindeiru.">
 
         <entry id="A-MAL-46471" title="Tantei wa Mou, Shindeiru."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 46471 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44022 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 128712 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 46471 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="46471"/>
+                <ks id="44022"/>
+                <al id="128712"/>
+                <mal id="46471"/>
+            </source>
             <bestGirl name="Nagisa Natsunagi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- siesta arc is shit -->

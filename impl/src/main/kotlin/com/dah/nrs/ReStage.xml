@@ -103,10 +103,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     <entry id="F-VGMDB-7059" title="Re:STAGE!">
 
         <entry id="A-MAL-38009" title="Re:Stage! Dream Days♪"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38009 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42280 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 103048 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38009 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38009"/>
+                <ks id="42280"/>
+                <al id="103048"/>
+                <mal id="38009"/>
+            </source>
 
             <!-- pasta inc -->
             <!-- "watch re:stage" - sun tzu, the art of war -->
@@ -1042,10 +1044,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     <!-- " - me in the rst anime part -->
     <!-- this is literally the plot of this anime lmfao -->
     <entry id="A-MAL-37890" title="Oshi ga Budoukan Ittekuretara Shinu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 37890 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 41309 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 104391 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 37890 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="37890"/>
+            <ks id="41309"/>
+            <al id="104391"/>
+            <mal id="37890"/>
+        </source>
         <!-- aka "If RST can overtake Love Live in the Oricon ranking, I can die happy" -->
         <bestGirl name="Shikimiya Maina" />
         <!-- oops -->

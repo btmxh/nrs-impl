@@ -27,10 +27,12 @@
         </entry>
 
         <entry id="A-MAL-33206" title="Kobayashi-san Chi no Maid Dragon"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 33206 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 12243 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21776 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 33206 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="33206"/>
+                <ks id="12243"/>
+                <al id="21776"/>
+                <mal id="33206"/>
+            </source>
             <bestGirl name="Tohru" /> <!-- impl_overridden -->
 
             <!-- funny ig idk tbh -->

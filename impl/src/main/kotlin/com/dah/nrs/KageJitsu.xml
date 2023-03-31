@@ -10,10 +10,12 @@
         <!-- ("... except for the fact that he is actually powerful, not like me xdddd") -->
 
         <entry id="A-MAL-48316" title="Kage no Jitsuryokusha ni Naritakute!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44107 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 130298 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 48316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="48316"/>
+                <ks id="44107"/>
+                <al id="130298"/>
+                <mal id="48316"/>
+            </source>
             title = "Kage no Jitsuryokusha ni Naritakute!" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Sherry Barnett" />

@@ -2,10 +2,12 @@
 
 <document>
     <entry id="A-MAL-38816" title="Hello World"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 38816 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 42030 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 106240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 38816 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="38816"/>
+            <ks id="42030"/>
+            <al id="106240"/>
+            <mal id="38816"/>
+        </source>
         <bestGirl name="Ichijou Ruka" />
         <!-- oh fuck -->
         <bestGirl name="Ruri Ichigyou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -16,10 +18,12 @@
     </entry>
 
     <entry id="A-MAL-40295" title="Another World"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 40295 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 42527 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 111733 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 40295 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="40295"/>
+            <ks id="42527"/>
+            <al id="111733"/>
+            <mal id="40295"/>
+        </source>
         <bestGirl name="Ruri Ichigyou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 3)

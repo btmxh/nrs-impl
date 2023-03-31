@@ -5,10 +5,12 @@
         <!-- TODO: add music ig, too lazy to do that tho (and the music sucks) -->
 
         <entry id="A-MAL-32281" title="Kimi no Na wa."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 32281 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11614 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21519 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 32281 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="32281"/>
+                <ks id="11614"/>
+                <al id="21519"/>
+                <mal id="32281"/>
+            </source>
 
             Visual(VisualKind.Animated, 0.5, 0.75)
 
@@ -21,10 +23,12 @@
     <entry id="F-VGMDB-7292" title="Tenki no Ko">
 
         <entry id="A-MAL-38826" title="Tenki no Ko"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38826 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42028 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 106286 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38826 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38826"/>
+                <ks id="42028"/>
+                <al id="106286"/>
+                <mal id="38826"/>
+            </source>
             <bestGirl name="Hina Amano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.6, 0.75)

@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-6424" title="Stella no Mahou">
 
         <entry id="A-MAL-32555" title="Stella no Mahou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 32555 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21597 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 32555 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="32555"/>
+                <ks id="11756"/>
+                <al id="21597"/>
+                <mal id="32555"/>
+            </source>
 
             <!-- i love music composers -->
             <bestGirl name="Kayo Fujikawa" />

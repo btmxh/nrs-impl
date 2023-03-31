@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-6626" title="Iroduku Sekai no Ashita kara">
 
         <entry id="A-MAL-37497" title="Irozuku Sekai no Ashita kara"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37497 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 41101 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 101316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37497 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37497"/>
+                <ks id="41101"/>
+                <al id="101316"/>
+                <mal id="37497"/>
+            </source>
             <bestGirl name="Hitomi Tsukishiro" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.7, 13)

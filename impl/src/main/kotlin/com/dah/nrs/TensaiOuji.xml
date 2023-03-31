@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-10006" title="Tensai Ouji no Akaji Kokka Saiseijutsu">
 
         <entry id="A-MAL-47159" title="Tensai Ouji no Akaji Kokka Saisei Jutsu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 47159 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44020 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 129190 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 47159 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="47159"/>
+                <ks id="44020"/>
+                <al id="129190"/>
+                <mal id="47159"/>
+            </source>
             title = "Tensai Ouji no Akaji Kokka Saisei Jutsu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Ninym Ralei" />

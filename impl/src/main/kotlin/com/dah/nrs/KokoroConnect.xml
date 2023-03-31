@@ -32,10 +32,12 @@
         }
 
         <entry id="A-MAL-11887" title="Kokoro Connect"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 11887 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 6626 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 11887 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 11887 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="11887"/>
+                <ks id="6626"/>
+                <al id="11887"/>
+                <mal id="11887"/>
+            </source>
             <bestGirl name="Iori Nagase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
@@ -46,9 +48,11 @@
         </entry>
 
         <entry id="A-MAL-16001" title="Kokoro Connect: Michi Random"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7355 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 16001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 16001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <ks id="7355"/>
+                <al id="16001"/>
+                <mal id="16001"/>
+            </source>
             <bestGirl name="Iori Nagase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 4)

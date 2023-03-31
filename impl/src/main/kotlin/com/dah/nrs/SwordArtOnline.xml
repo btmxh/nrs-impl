@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-2633" title="Sword Art Online">
 
         <entry id="A-MAL-11757" title="Sword Art Online"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 11757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 6589 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 11757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 11757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="11757"/>
+                <ks id="6589"/>
+                <al id="11757"/>
+                <mal id="11757"/>
+            </source>
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             FeatureMusic("M-VGMDB-AL-33537-1")
@@ -16,10 +18,12 @@
         </entry>
 
         <entry id="A-MAL-21881" title="Sword Art Online II"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 21881 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20594 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 21881 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="21881"/>
+                <ks id="8174"/>
+                <al id="20594"/>
+                <mal id="21881"/>
+            </source>
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
@@ -27,10 +31,12 @@
         </entry>
 
         <entry id="A-MAL-31765" title="Sword Art Online Movie: Ordinal Scale"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 31765 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11423 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21403 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 31765 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="31765"/>
+                <ks id="11423"/>
+                <al id="21403"/>
+                <mal id="31765"/>
+            </source>
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 59.minutes)

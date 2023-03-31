@@ -50,10 +50,12 @@
         </entry>
 
         <entry id="A-MAL-21273" title="Gochuumon wa Usagi Desu ka?"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 21273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8095 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20517 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 21273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="21273"/>
+                <ks id="8095"/>
+                <al id="20517"/>
+                <mal id="21273"/>
+            </source>
             <bestGirl name="Chino Kafuu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- humor not that good tho -->
             NEI(0.3, Emotion.AP)

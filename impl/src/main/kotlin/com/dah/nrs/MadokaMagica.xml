@@ -81,10 +81,12 @@
         }
 
         <entry id="A-MAL-9756" title="Mahou Shoujo Madoka★Magica"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 5853 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 9756 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="9756"/>
+                <ks id="5853"/>
+                <al id="9756"/>
+                <mal id="9756"/>
+            </source>
 
             <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -105,9 +107,11 @@
         </entry>
 
         <entry id="A-MAL-11981" title="Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 6638 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 11981 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 11981 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <ks id="6638"/>
+                <al id="11981"/>
+                <mal id="11981"/>
+            </source>
 
             <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- I can't understand this movie lol -->
@@ -165,10 +169,12 @@
         </entry>
 
         <entry id="A-MAL-38256" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38256 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42016 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 104051 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38256 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38256"/>
+                <ks id="42016"/>
+                <al id="104051"/>
+                <mal id="38256"/>
+            </source>
 
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
@@ -188,10 +194,12 @@
         </entry>
 
         <entry id="A-MAL-41530" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 43090 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 117002 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 41530 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41530"/>
+                <ks id="43090"/>
+                <al id="117002"/>
+                <mal id="41530"/>
+            </source>
 
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
@@ -213,10 +221,12 @@
         </entry>
 
         <entry id="A-MAL-49291" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 49291 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 136080 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 49291 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="49291"/>
+                <ks id="44813"/>
+                <al id="136080"/>
+                <mal id="49291"/>
+            </source>
 
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true

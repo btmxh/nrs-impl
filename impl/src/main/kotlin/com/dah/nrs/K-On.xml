@@ -68,10 +68,12 @@
         }
 
         <entry id="A-MAL-5680" title="K-On!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 4240 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 5680 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="5680"/>
+                <ks id="4240"/>
+                <al id="5680"/>
+                <mal id="5680"/>
+            </source>
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
@@ -79,10 +81,12 @@
         </entry>
 
         <entry id="A-MAL-7791" title="K-On!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 5124 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 7791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="7791"/>
+                <ks id="5124"/>
+                <al id="7791"/>
+                <mal id="7791"/>
+            </source>
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
@@ -92,10 +96,12 @@
         </entry>
 
         <entry id="A-MAL-9617" title="K-On! Movie"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 5810 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 9617 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="9617"/>
+                <ks id="5810"/>
+                <al id="9617"/>
+                <mal id="9617"/>
+            </source>
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)

@@ -6,10 +6,12 @@
 
     <!-- this is peak idol dystopia -->
     <entry id="A-MAL-49849" title="Shinmai Renkinjutsushi no Tenpo Keiei"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 49849 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45222 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 139369 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 49849 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="49849"/>
+            <ks id="45222"/>
+            <al id="139369"/>
+            <mal id="49849"/>
+        </source>
 
         <!-- haha obligatory atelier reference -->
         <!-- i hate mc btw -->
@@ -31,10 +33,12 @@
     </entry>
 
     <entry id="A-MAL-47917" title="Bocchi the Rock!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 47917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 44196 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 130003 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 47917 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="47917"/>
+            <ks id="44196"/>
+            <al id="130003"/>
+            <mal id="47917"/>
+        </source>
 
         <!-- le cat is back noway!!1!1! -->
         <!-- average NAP/NOZSP member -->

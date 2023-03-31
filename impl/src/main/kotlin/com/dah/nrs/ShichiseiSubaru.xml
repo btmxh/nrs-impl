@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-6418" title="Shichisei no Subaru">
 
         <entry id="A-MAL-36316" title="Shichisei no Subaru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 36316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 40893 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 100085 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 36316 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="36316"/>
+                <ks id="40893"/>
+                <al id="100085"/>
+                <mal id="36316"/>
+            </source>
             <bestGirl name="Asahi Kuga" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)

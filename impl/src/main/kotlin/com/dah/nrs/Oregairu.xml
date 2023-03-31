@@ -96,10 +96,12 @@
         }
 
         <entry id="A-MAL-14813" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7169 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 14813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="14813"/>
+                <ks id="7169"/>
+                <al id="14813"/>
+                <mal id="14813"/>
+            </source>
 
             <!-- Brain's Base drew Yukino better than Yui -->
             <bestGirl name="Yukino Yukinoshita" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -114,10 +116,12 @@
         </entry>
 
         <entry id="A-MAL-23847" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 23847 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8478 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20698 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 23847 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="23847"/>
+                <ks id="8478"/>
+                <al id="20698"/>
+                <mal id="23847"/>
+            </source>
 
             <!-- feel. drew Yui better -->
             <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -138,10 +142,12 @@
         </entry>
 
         <entry id="A-MAL-39547" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 39547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42194 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 108489 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 39547 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="39547"/>
+                <ks id="42194"/>
+                <al id="108489"/>
+                <mal id="39547"/>
+            </source>
 
             <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true

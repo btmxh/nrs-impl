@@ -182,10 +182,12 @@
         </entry>
 
         <entry id="A-MAL-31245" title="Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 31245 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11204 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21296 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 31245 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="31245"/>
+                <ks id="11204"/>
+                <al id="21296"/>
+                <mal id="31245"/>
+            </source>
 
             <bestGirl name="Miou Aida" />
             Visual(VisualKind.Animated, 0.4, 0.7)
@@ -195,10 +197,12 @@
         </entry>
 
         <entry id="A-MAL-33036" title="Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 33036 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 12001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 21757 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 33036 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="33036"/>
+                <ks id="12001"/>
+                <al id="21757"/>
+                <mal id="33036"/>
+            </source>
 
             <bestGirl name="Miou Aida" />
             Visual(VisualKind.Animated, 0.4, 0.7)
@@ -210,10 +214,12 @@
         </entry>
 
         <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 36220 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13788 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 98977 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 36220 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="36220"/>
+                <ks id="13788"/>
+                <al id="98977"/>
+                <mal id="36220"/>
+            </source>
 
             <bestGirl name="Miou Aida" />
             Visual(VisualKind.Animated, 0.4, 0.7)
@@ -225,10 +231,12 @@
         </entry>
 
         <entry id="A-MAL-49692" title="Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 49692 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 45031 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 138459 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 49692 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="49692"/>
+                <ks id="45031"/>
+                <al id="138459"/>
+                <mal id="49692"/>
+            </source>
 
             <!-- who is best girl gyze? -->
 

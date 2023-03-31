@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-7086" title="PRINCESS CONNECT!">
 
         <entry id="A-MAL-39292" title="Princess Connect! Re:Dive"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 39292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42892 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 107871 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 39292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="39292"/>
+                <ks id="42892"/>
+                <al id="107871"/>
+                <mal id="39292"/>
+            </source>
 
             <bestGirl name="Karyl" />
             Visual(VisualKind.Animated, 0.55, 0.25)
@@ -16,10 +18,12 @@
         </entry>
 
         <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 42670 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 43600 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 122808 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 42670 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="42670"/>
+                <ks id="43600"/>
+                <al id="122808"/>
+                <mal id="42670"/>
+            </source>
 
             <bestGirl name="Karyl" />
             Visual(VisualKind.Animated, 0.55, 0.25)

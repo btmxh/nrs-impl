@@ -19,10 +19,12 @@
         </entry>
 
         <entry id="A-MAL-16067" title="Nagi no Asu kara"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 16067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7370 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 16067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 16067 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="16067"/>
+                <ks id="7370"/>
+                <al id="16067"/>
+                <mal id="16067"/>
+            </source>
 
             <bestGirl name="Miuna Shiodome" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- poor best girl -->

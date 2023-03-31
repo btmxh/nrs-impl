@@ -3,10 +3,12 @@
 <document>
     <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA"><entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
             title = "Zombieland Saga" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37976 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 41459 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 103871 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37976 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37976"/>
+                <ks id="41459"/>
+                <al id="103871"/>
+                <mal id="37976"/>
+            </source>
             <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- kinda funny -->
@@ -16,10 +18,12 @@
         </entry>
 
         <entry id="A-MAL-40174" title="Zombieland Saga: Revenge"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42467 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 110733 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 40174 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40174"/>
+                <ks id="42467"/>
+                <al id="110733"/>
+                <mal id="40174"/>
+            </source>
             <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- the zombieland saga incident -->

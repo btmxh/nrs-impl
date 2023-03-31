@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-4639" title="World Witches Series">
 
         <entry id="A-MAL-3667" title="Strike Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 3179 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 3667 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="3667"/>
+                <ks id="3179"/>
+                <al id="3667"/>
+                <mal id="3667"/>
+            </source>
 
             <bestGirl name="Eila Ilmatar Juutilainen" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..." -->
@@ -19,10 +21,12 @@
         </entry>
 
         <entry id="A-MAL-32866" title="Brave Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 32866 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 11887 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20454 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 32866 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="32866"/>
+                <ks id="11887"/>
+                <al id="20454"/>
+                <mal id="32866"/>
+            </source>
 
             <!-- featuring Rie "moshimoasudesekaiga" Murakawa and -->
             <!-- Hiromi "con người dao kiếm" Igarashi -->
@@ -42,10 +46,12 @@
         </entry>
 
         <entry id="A-MAL-38006" title="Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38006 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44227 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 103118 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38006 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38006"/>
+                <ks id="44227"/>
+                <al id="103118"/>
+                <mal id="38006"/>
+            </source>
 
             <!-- mc is cute -->
             <!-- ngl this is a treat for our eyes -->

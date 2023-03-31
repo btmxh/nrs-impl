@@ -2,10 +2,12 @@
 
 <document>
     <entry id="A-MAL-48363" title="RPG Fudousan"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 48363 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 44376 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 130319 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 48363 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="48363"/>
+            <ks id="44376"/>
+            <al id="130319"/>
+            <mal id="48363"/>
+        </source>
 
         <bestGirl name="Kotone Kazairo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -15,10 +17,12 @@
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
     </entry>
     <entry id="A-MAL-48415" title="Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 48415 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 44187 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 130586 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 48415 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="48415"/>
+            <ks id="44187"/>
+            <al id="130586"/>
+            <mal id="48415"/>
+        </source>
 
         <bestGirl name="Ireena Litz de Olhyde" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -28,10 +32,12 @@
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
     </entry>
     <entry id="A-MAL-50265" title="Spy x Family"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 50265 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45398 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 140960 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 50265 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="50265"/>
+            <ks id="45398"/>
+            <al id="140960"/>
+            <mal id="50265"/>
+        </source>
 
         ValidatorSuppress("dah-no-best-girl")
 
@@ -59,10 +65,12 @@
         KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.75)
     </entry>
     <entry id="A-MAL-50273" title="Tomodachi Game"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 50273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45401 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 141014 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 50273 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="50273"/>
+            <ks id="45401"/>
+            <al id="141014"/>
+            <mal id="50273"/>
+        </source>
         <bestGirl name="Maria Mizuse" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)

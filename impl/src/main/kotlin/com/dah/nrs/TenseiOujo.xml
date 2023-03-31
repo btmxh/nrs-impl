@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-12258" title="Tensei Oujo to Tensai Reijou no Mahou Kakumei">
 
         <entry id="A-MAL-52736" title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 46335 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 153629 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="52736"/>
+                <ks id="46335"/>
+                <al id="153629"/>
+                <mal id="52736"/>
+            </source>
 
             <!-- pogpega it's le cat !!1!1!! -->
             <bestGirl name="Lainie Cyan" />

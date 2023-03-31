@@ -8,10 +8,12 @@
     <!-- the heisenberg uncertainty principle -->
 
     <entry id="A-MAL-52736" title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 46335 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 153629 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 52736 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="52736"/>
+            <ks id="46335"/>
+            <al id="153629"/>
+            <mal id="52736"/>
+        </source>
 
         <!-- pogpega it's le cat !!1!1!! -->
         <bestGirl name="Lainie Cyan" />
@@ -38,10 +40,12 @@
     </entry>
 
     <entry id="A-MAL-49980" title="Sugar Apple Fairy Tale"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 49980 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 45270 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 139821 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 49980 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="49980"/>
+            <ks id="45270"/>
+            <al id="139821"/>
+            <mal id="49980"/>
+        </source>
 
         <!-- lmfao "escha 2023" -->
         <bestGirl name="Ann Halford" />
@@ -51,10 +55,12 @@
     </entry>
 
     <entry id="A-MAL-49612" title="Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniDB = 49612 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idKitsu = 44982 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idAniList = 137909 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-        idMAL = 49612 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="49612"/>
+            <ks id="44982"/>
+            <al id="137909"/>
+            <mal id="49612"/>
+        </source>
 
         <!-- lmfao "wilbell 2023" -->
         <!-- jk lol -->

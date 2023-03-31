@@ -8,10 +8,12 @@
         <!-- rst songs on spotify (like onsen), therefore it's known as -->
         <!-- the futuRe: of gen2 -->
         <entry id="A-MAL-43735" title="Cue!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 43735 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44979 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 125682 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 43735 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="43735"/>
+                <ks id="44979"/>
+                <al id="125682"/>
+                <mal id="43735"/>
+            </source>
             <!-- rst has re:lighted the stage -->
             <!-- and now, its juniors will take the stage to the next level -->
             <!-- introducing, sb69 stars and cue! -->

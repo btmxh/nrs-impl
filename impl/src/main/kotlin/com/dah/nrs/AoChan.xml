@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-7175" title="Midara na Ao-chan wa Benkyou ga Dekinai">
 
         <entry id="A-MAL-38778" title="Midara na Ao-chan wa Benkyou ga Dekinai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38778 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42024 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 105989 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38778 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38778"/>
+                <ks id="42024"/>
+                <al id="105989"/>
+                <mal id="38778"/>
+            </source>
             <bestGirl name="Ao Horie" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
             Dropped()

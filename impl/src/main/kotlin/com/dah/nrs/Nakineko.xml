@@ -5,10 +5,12 @@
     <entry id="F-VGMDB-8433" title="Nakitai Watashi wa Neko wo Kaburu">
 
         <entry id="A-MAL-41168" title="Nakitai Watashi wa Neko wo Kaburu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 41168 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42965 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 114963 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 41168 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41168"/>
+                <ks id="42965"/>
+                <al id="114963"/>
+                <mal id="41168"/>
+            </source>
             title = "Nakitai Watashi wa Neko wo Kaburu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Miyo Sasaki" />

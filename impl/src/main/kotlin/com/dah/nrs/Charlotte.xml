@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-3554" title="Charlotte">
 
         <entry id="A-MAL-28999" title="Charlotte"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 28999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 10103 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20997 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 28999 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="28999"/>
+                <ks id="10103"/>
+                <al id="20997"/>
+                <mal id="28999"/>
+            </source>
             <bestGirl name="Nao Tomori" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             Visual(VisualKind.Animated, 0.5, 0.1)

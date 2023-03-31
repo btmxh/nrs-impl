@@ -21,10 +21,12 @@
     <entry id="F-VGMDB-10978" title="Irodorimidori">
 
         <entry id="A-MAL-50267" title="Irodorimidori"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 50267 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 45577 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 140950 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 50267 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="50267"/>
+                <ks id="45577"/>
+                <al id="140950"/>
+                <mal id="50267"/>
+            </source>
             <bestGirl name="Nagi Kobotoke" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 8, 3.minutes)

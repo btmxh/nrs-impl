@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-7865" title="Koisuru Asteroid">
 
         <entry id="A-MAL-39388" title="Koisuru Asteroid"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 39388 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42470 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 108092 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 39388 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="39388"/>
+                <ks id="42470"/>
+                <al id="108092"/>
+                <mal id="39388"/>
+            </source>
             <bestGirl name="Kotonoha Mira" /> <!-- impl_overridden -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 00.8, 13)

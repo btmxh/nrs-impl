@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-9260" title="Kanojo, Okarishimasu">
 
         <entry id="A-MAL-40839" title="Kanojo, Okarishimasu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40839 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 43028 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 113813 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 40839 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40839"/>
+                <ks id="43028"/>
+                <al id="113813"/>
+                <mal id="40839"/>
+            </source>
             <bestGirl name="Sumi Sakurasawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 1)

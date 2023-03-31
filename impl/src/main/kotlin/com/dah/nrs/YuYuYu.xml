@@ -69,10 +69,12 @@
         }
 
         <entry id="A-MAL-25519" title="Yuuki Yuuna wa Yuusha de Aru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 25519 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 8638 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 20800 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 25519 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="25519"/>
+                <ks id="8638"/>
+                <al id="20800"/>
+                <mal id="25519"/>
+            </source>
             <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
@@ -140,10 +142,12 @@
         </entry>
 
         <entry id="A-MAL-34284" title="Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34284 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 12678 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 100791 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 34284 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="34284"/>
+                <ks id="12678"/>
+                <al id="100791"/>
+                <mal id="34284"/>
+            </source>
             <!-- this was not taken very seriously -->
 
             <!-- she looked like best girl ngl -->
@@ -160,10 +164,12 @@
         </entry>
 
         <entry id="A-MAL-34445" title="Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34445 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13160 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 97769 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 34445 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="34445"/>
+                <ks id="13160"/>
+                <al id="97769"/>
+                <mal id="34445"/>
+            </source>
             <!-- "The Michi Random of Yuuki Yuuna" -->
             <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
@@ -183,10 +189,12 @@
         </entry>
 
         <entry id="A-MAL-42587" title="Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 42587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 44333 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 122292 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 42587 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="42587"/>
+                <ks id="44333"/>
+                <al id="122292"/>
+                <mal id="42587"/>
+            </source>
 
             seasonal = true
             <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->

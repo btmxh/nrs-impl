@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-5919" title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?">
 
         <entry id="A-MAL-34498" title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 34498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 12794 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 97908 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 34498 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="34498"/>
+                <ks id="12794"/>
+                <al id="97908"/>
+                <mal id="34498"/>
+            </source>
 
             <!-- SLN rng -->
             AEI(0.1, Emotion.CU)

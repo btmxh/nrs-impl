@@ -234,10 +234,12 @@
         }
 
         <entry id="A-MAL-33573" title="BanG Dream!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 33573 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 12330 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 87435 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 33573 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="33573"/>
+                <ks id="12330"/>
+                <al id="87435"/>
+                <mal id="33573"/>
+            </source>
             <bestGirl name="Arisa Ichigaya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Ending pretty sadge -->
             AEI(0.2, Emotion.CU)
@@ -252,10 +254,12 @@
         </entry>
 
         <entry id="A-MAL-37869" title="BanG Dream! 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 37869 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 41289 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 101633 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 37869 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37869"/>
+                <ks id="41289"/>
+                <al id="101633"/>
+                <mal id="37869"/>
+            </source>
             <bestGirl name="Arisa Ichigaya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- nrs1 -->
             Meme(0.15, 2)

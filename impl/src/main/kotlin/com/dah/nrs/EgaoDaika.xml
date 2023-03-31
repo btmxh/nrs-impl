@@ -4,10 +4,12 @@
     <entry id="F-VGMDB-6946" title="Egao no Daika">
 
         <entry id="A-MAL-38544" title="Egao no Daika"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 38544 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42001 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 104674 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 38544 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38544"/>
+                <ks id="42001"/>
+                <al id="104674"/>
+                <mal id="38544"/>
+            </source>
 
             <bestGirl name="Yuuki Soleil" />
             <!-- no way it's the -->

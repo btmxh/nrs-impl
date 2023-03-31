@@ -28,10 +28,12 @@
         }
 
         <entry id="A-MAL-14741" title="Chuunibyou demo Koi ga Shitai!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 14741 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7160 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 14741 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 14741 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="14741"/>
+                <ks id="7160"/>
+                <al id="14741"/>
+                <mal id="14741"/>
+            </source>
 
             Visual(VisualKind.Animated, 0.6, 0.2)
 
@@ -43,10 +45,12 @@
         </entry>
 
         <entry id="A-MAL-18671" title="Chuunibyou demo Koi ga Shitai! Ren"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 18671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 7705 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 18671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 18671 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="18671"/>
+                <ks id="7705"/>
+                <al id="18671"/>
+                <mal id="18671"/>
+            </source>
             <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Shichimiya dead people almost made me cry -->
             <!-- YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI -->
@@ -60,10 +64,12 @@
         </entry>
 
         <entry id="A-MAL-35608" title="Chuunibyou demo Koi ga Shitai! Movie: Take On Me"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 35608 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 13524 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 98762 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 35608 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35608"/>
+                <ks id="13524"/>
+                <al id="98762"/>
+                <mal id="35608"/>
+            </source>
             <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 1, 1.hours + 33.minutes)
             <!-- movie is funny, but less content than s1 and s2 -->

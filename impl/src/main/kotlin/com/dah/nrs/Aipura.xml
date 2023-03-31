@@ -25,10 +25,12 @@
 
 
         <entry id="A-MAL-40842" title="Idoly Pride"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniDB = 40842 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idKitsu = 42868 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idAniList = 113814 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            idMAL = 40842 <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40842"/>
+                <ks id="42868"/>
+                <al id="113814"/>
+                <mal id="40842"/>
+            </source>
             <!-- aka the pp anime -->
             <!-- aka the _kotachi_ gigachad mapper "supremacy" anime -->
             <!-- aka the bang bang "zenryoku i love you", "glory star" and "asuiro koi moyou" anime -->
