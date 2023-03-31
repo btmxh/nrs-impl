@@ -4,7 +4,7 @@
     <entry id="F-VGMDB-7638" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen">
 
         <!-- world-building ig -->
-        AEI(0.3, Emotion.AP) {
+        <aei base="0.3" emotions="Emotion.AP" /> {
             contributors["A-MAL-39468"] = 0.3
             contributors["A-MAL-40815"] = 0.3
             contributors["A-MAL-42429"] = 0.4

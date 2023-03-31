@@ -37,10 +37,10 @@
             <!-- really good atmospheric farming ngl :clueless: -->
             <!-- funnychamp :clueless: -->
             <!-- ayane route omegalul + good story ngl :clueless: -->
-            AEI(0.3, Emotion.AP)
+            <aei base="0.3" emotions="Emotion.AP" />
 
             <!-- eroge love ig :clueless: -->
-            <!-- AEI(0.5, Emotion.MP) -->
+            <!-- <aei base="0.5" emotions="Emotion.MP" /> -->
 
             NeoErogeEra(1.0)
             <featureMusic id="M-VGMDB-AL-58596" />
@@ -53,7 +53,7 @@
             <!-- "Even if our paces do not match, :clueless: -->
             <!--  If I ran with all my might, :clueless: -->
             <!--  We may be able to meet again." :clueless: -->
-            AEI(0.8, Emotion.CU)
+            <aei base="0.8" emotions="Emotion.CU" />
 
             <!-- the :aware: part -->
 
@@ -64,13 +64,13 @@
             EPI(1.0)
 
             <!-- realization of the fact that main girl didn't love mc -->
-            AEI(0.2, Emotion.AU)
+            <aei base="0.2" emotions="Emotion.AU" />
 
             <!-- main girl's music career, darker than the childplay "ortensia incident" -->
-            AEI(0.2, Emotion.AU to 0.5, Emotion.MP to 0.5)
+            <aei base="0.2" emotions="Emotion.AU to 0.5, Emotion.MP to 0.5" />
 
             <!-- eroge love ig :aware: -->
-            AEI(0.8, Emotion.MP)
+            <aei base="0.8" emotions="Emotion.MP" />
 
             <!-- the sadness of the story -->
             Cry(Emotion.CU) {
@@ -117,7 +117,7 @@
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
                 <!-- This blue 🟦 sky ☁️ will always ♾️ be right 👉 here 👇 -->
                 <music base="0.75" />
-                <!-- NEI(Emotion.CU, 0.2) -->
+                <!-- <nei base="Emotion.CU" emotions="0.2" /> -->
                 <!-- :Pause: :pepeLaugh: -->
             </entry>
 

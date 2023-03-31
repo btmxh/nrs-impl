@@ -17,7 +17,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="25" />
 
             <!-- Anger when MC is treated unfairly (like Oregairu's 8man) -->
-            NEI(0.5, Emotion.AU)
+            <nei base="0.5" emotions="Emotion.AU" />
             Meme(0.5, 6)
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>

@@ -46,7 +46,7 @@
         <!-- mi ưhen cloverworks -->
 
         <!-- pls die shit anime not even close to the glorious koikake -->
-        AEI(-0.3, Emotion.AU to 0.5, Emotion.MU to 0.5)
+        <aei base="-0.3" emotions="Emotion.AU to 0.5, Emotion.MU to 0.5" />
 
         <!-- ValidatorSuppress("dah-visualless-entry") -->
         <animeConsumedProgress status="Dropped" boredom="0.25" episodes="3" />

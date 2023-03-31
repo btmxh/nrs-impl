@@ -16,7 +16,7 @@
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- fuwa fuwa doki doki -->
-            AEI(0.5, Emotion.AP)
+            <aei base="0.5" emotions="Emotion.AP" />
             <visual type="animated" base="0.5" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-82284" />
         </entry>
@@ -35,7 +35,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <!-- at first I doubted that S2 will be as good as S1 -->
             <!-- but it actually is -->
-            AEI(0.25, Emotion.AP)
+            <aei base="0.25" emotions="Emotion.AP" />
             <visual type="animated" base="0.5" unique="0.5" />
         </entry>
 

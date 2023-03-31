@@ -15,13 +15,13 @@
             <bestGirl name="Ninym Ralei" />
 
             <!-- ngl main girl and mc relationship is wholesome af -->
-            NEI(0.5, Emotion.MP)
+            <nei base="0.5" emotions="Emotion.MP" />
 
             <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
             <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- cool plot ig -->
-            NEI(0.8, Emotion.AP)
+            <nei base="0.8" emotions="Emotion.AP" />
 
             <!-- arc 2 rst-sb69 era -->
             KilledBy("F-VGMDB-9540", 0.05, 0.05)

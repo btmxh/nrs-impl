@@ -330,13 +330,13 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </ref>
 
         <!-- SIP humor -->
-        AEI(0.8, Emotion.AP) {
+        <aei base="0.8" emotions="Emotion.AP" /> {
             contributors["A-MAL-15051"] = 0.4
             contributors["A-MAL-19111"] = 0.4
             contributors["A-MAL-24997"] = 0.2
         }
 
-        AEI(0.25, Emotion.AP) {
+        <aei base="0.25" emotions="Emotion.AP" /> {
             contributors["A-MAL-32526"] = 0.4
             contributors["A-MAL-34973"] = 0.4
             contributors["A-MAL-37027"] = 0.2
@@ -440,7 +440,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         }
 
         <!-- arc 2 - the girl without screentime -->
-        NEI(0.8, Emotion.AU to 0.5, Emotion.CU to 0.4, Emotion.AP to 0.1) {
+        <nei base="0.8" emotions="Emotion.AU to 0.5, Emotion.CU to 0.4, Emotion.AP to 0.1" /> {
             contributors["A-MAL-40879"] = 0.8
             contributors["M-VGMDB-AL-43320-8"] = 0.1
             contributors["M-VGMDB-AL-34269-7"] = 0.1
@@ -475,7 +475,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             seasonal = true
 
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
-            AEI(0.4, Emotion.AP)
+            <aei base="0.4" emotions="Emotion.AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.6" unique="0.25" />
 
@@ -520,7 +520,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 
-        NEI(0.75, Emotion.AP) {
+        <nei base="0.75" emotions="Emotion.AP" /> {
             <!-- guys did you see that, it's her, my favorite school idol of all time, -->
             <!-- tsukisaka sayu! wdym by kanata konoe, who tf is that? i only know sayu! -->
             <!-- sayu is my love, she saved me from my one-year-old depression and showed -->
@@ -538,7 +538,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <!-- i tried to watch niji in peace, but i failed -->
         <!-- the leftover hate from s1 and the heisenberg bs from s2 is just too much -->
         <!-- update: the azuna episode kinda did its thing -->
-        NEI(-0.5, Emotion.MU to 0.5, Emotion.AU to 0.5) {
+        <nei base="-0.5" emotions="Emotion.MU to 0.5, Emotion.AU to 0.5" /> {
             contributors["A-MAL-40879"] = 0.3
             contributors["A-MAL-48916"] = 0.6
             contributors["A-MAL-15051"] = 0.1 / 6

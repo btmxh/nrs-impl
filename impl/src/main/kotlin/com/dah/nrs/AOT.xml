@@ -6,7 +6,7 @@
 
         <!-- please fuck off (look at the comment section) -->
         <!-- https://www.youtube.com/watch?v=kbYoJNLQEiU -->
-        NEI(-0.1, Emotion.AP) {
+        <nei base="-0.1" emotions="Emotion.AP" /> {
             contributors["A-MAL-16498"] = 0.25
             contributors["A-MAL-25777"] = 0.25
             contributors["A-MAL-35760"] = 0.25
@@ -63,7 +63,7 @@
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
-            AEI(0.5, Emotion.AP)
+            <aei base="0.5" emotions="Emotion.AP" />
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>
     </entry>

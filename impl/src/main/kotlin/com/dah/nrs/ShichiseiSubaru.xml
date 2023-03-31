@@ -16,7 +16,7 @@
 
             <!-- The drama in this anime is executed fairly well. -->
             <!-- (It only exists in the first episodes tho) -->
-            AEI(0.1, Emotion.CU)
+            <aei base="0.1" emotions="Emotion.CU" />
 
             <visual type="animated" base="0.6" unique="0.2" />
 

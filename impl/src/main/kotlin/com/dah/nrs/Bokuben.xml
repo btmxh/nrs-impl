@@ -14,7 +14,7 @@
             <bestGirl name="Mafuyu Kirisu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- le bang bang zenryoku i love you girl lol -->
             <!-- "this is a little bit better than gotoubun" -->
-            AEI(0.75, Emotion.AP)
+            <aei base="0.75" emotions="Emotion.AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.4" unique="0.7" />
             <featureMusic id="M-VGMDB-AL-85537-1" />
@@ -33,7 +33,7 @@
 
             <!-- "this is a little bit better than gotoubun" lmfao copy paste error -->
             <!-- is what i'm thinking but fall 2019 is just another trash season lol -->
-            AEI(0.7, Emotion.AP)
+            <aei base="0.7" emotions="Emotion.AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.4" unique="0.7" />
             <featureMusic id="M-VGMDB-AL-88884-1" />

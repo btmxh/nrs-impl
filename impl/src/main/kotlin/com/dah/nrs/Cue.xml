@@ -31,10 +31,10 @@
             <!-- ok airi and yuzuha is wholesome af -->
             <!-- ep 11 almost made me cry -->
             <!-- and i was somewhat moved by ep 10 -->
-            AEI(0.2, Emotion.MP to 0.9, Emotion.CP to 0.1)
+            <aei base="0.2" emotions="Emotion.MP to 0.9, Emotion.CP to 0.1" />
 
             <!-- comedy was weak ngl -->
-            NEI(0.5, Emotion.AP)
+            <nei base="0.5" emotions="Emotion.AP" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
             <visual type="animated" base="0.5" unique="0.2" />

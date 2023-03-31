@@ -20,7 +20,7 @@
             <!-- cool story bro -->
             <visual type="animated" base="0.6" unique="0.4" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 44.minutes" />
-            AEI(0.1, Emotion.MP to 0.5, Emotion.CU to 0.5)
+            <aei base="0.1" emotions="Emotion.MP to 0.5, Emotion.CU to 0.5" />
             <featureMusic id="M-VGMDB-AL-99082-1" />
         </entry>
 

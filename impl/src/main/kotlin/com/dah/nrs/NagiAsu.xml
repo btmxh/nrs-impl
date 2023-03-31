@@ -33,7 +33,7 @@
             <!-- there are other relationships other than the -->
             <!-- love triangle of best girl and they did make -->
             <!-- an impact -->
-            NEI(0.75, Emotion.CU)
+            <nei base="0.75" emotions="Emotion.CU" />
 
             WaifuUnknownPeriod("Shiodome Miuna", 90)
             <visual type="animated" base="0.6" unique="0.6" />

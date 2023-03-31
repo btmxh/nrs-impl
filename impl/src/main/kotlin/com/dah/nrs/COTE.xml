@@ -27,7 +27,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.75" unique="0.2" />
             <!-- plot pretty good -->
-            AEI(0.5, Emotion.AP)
+            <aei base="0.5" emotions="Emotion.AP" />
         </entry>
 
         <entry id="A-MAL-51096" title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -52,7 +52,7 @@
             <visual type="animated" base="0.6" unique="0.2" />
 
             <!-- plot will be good -->
-            AEI(0.1, Emotion.AP)
+            <aei base="0.1" emotions="Emotion.AP" />
             KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
             KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
         </entry>

@@ -70,7 +70,7 @@
         <!-- but still good luck with that -1.0 boredom lol xddddddddddd -->
         <visual type="animated" base="0.75" unique="0.3" />
 
-        NEI(-0.1, Emotion.AU)
+        <nei base="-0.1" emotions="Emotion.AU" />
 
         <!-- well this is not killed by AKM and SB69, it's more like -->
         <!-- kusunoki tomori ruined the anime -->

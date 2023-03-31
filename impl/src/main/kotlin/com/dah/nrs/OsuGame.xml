@@ -18,7 +18,7 @@
                 <!-- not gonna rate all of the backgrounds and shit -->
                 <music base="0.15" />
                 <!-- i'm not overstreaming 222 bpm -->
-                NEI(0.5, Emotion.AP)
+                <nei base="0.5" emotions="Emotion.AP" />
                 OsuSong(personal = 0.2, community = 0.8)
             </entry>
         </entry>
@@ -858,7 +858,7 @@
             <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.4" />
             <!-- haha segs -->
-            NEI(0.5, Emotion.AP)
+            <nei base="0.5" emotions="Emotion.AP" />
         </entry>
     }
 

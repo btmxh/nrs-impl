@@ -37,14 +37,14 @@
 
                 ValidatorSuppress("dah-lone-pads")
             }
-            AEI(0.8, Emotion.CU to 0.9, Emotion.MP to 0.1)
+            <aei base="0.8" emotions="Emotion.CU to 0.9, Emotion.MP to 0.1" />
 
             <!-- i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
             Waifu("Sherry Barnett", "2023-03-01" to "2023-03-12")
 
             <!-- I AM atomic -->
             EHI() <!-- humor -->
-            NEI(0.25, Emotion.AP) <!-- plot -->
+            <nei base="0.25" emotions="Emotion.AP" /> <!-- plot -->
 
             Meme(0.8, numDays("2023-03-01", "2023-03-12"))
             <featureMusic id="M-VGMDB-AL-122851" />

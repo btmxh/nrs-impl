@@ -25,7 +25,7 @@
         <visual type="animated" base="0.5" unique="0.3" />
 
         <!-- the first ep already gave me chill :skull: -->
-        AEI(0.2, Emotion.CP to 0.8, Emotion.MP to 0.2)
+        <aei base="0.2" emotions="Emotion.CP to 0.8, Emotion.MP to 0.2" />
 
         <!-- clueless mfs ^^^^ -->
         <!-- thank you based localism -->
@@ -71,7 +71,7 @@
 
         <!-- focus on [trust], somewhat interesting -->
         <!-- idk will this be able to continued to other eps tho -->
-        NEI(0.2, Emotion.AP)
+        <nei base="0.2" emotions="Emotion.AP" />
     </entry>
 
     <!-- ngl this is way better than previous season -->

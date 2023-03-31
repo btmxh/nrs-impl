@@ -21,7 +21,7 @@
             <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- the first ep already gave me chill :skull: -->
-            AEI(0.2, Emotion.CP to 0.8, Emotion.MP to 0.2)
+            <aei base="0.2" emotions="Emotion.CP to 0.8, Emotion.MP to 0.2" />
 
             <!-- clueless mfs ^^^^ -->
             <!-- thank you based localism -->

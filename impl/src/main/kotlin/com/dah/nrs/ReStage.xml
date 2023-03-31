@@ -89,13 +89,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     <!-- rst has changed da world. -->
 
     <!-- overture: shelter incident -->
-    AEI(0.5, Emotion.CP) {
+    <aei base="0.5" emotions="Emotion.CP" /> {
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
     }
 
     <!-- ed visual slaps -->
-    AEI(0.25, Emotion.CP) {
+    <aei base="0.25" emotions="Emotion.CP" /> {
         contributors["M-VGMDB-AL-78532-1"] = 0.25
         contributors["A-MAL-38009"] = 0.75
     }
@@ -186,21 +186,21 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             }
 
             <!-- 4chan loved rst, which is heartwarming af -->
-            AEI(0.3, Emotion.MP)
+            <aei base="0.3" emotions="Emotion.MP" />
 
             <!-- rst lore -->
-<!--            NEI(9.0, Emotion.AP) -->
+<!--            <nei base="9.0" emotions="Emotion.AP" /> -->
 
             <!-- inverse heisenberg and its consequences -->
             <!-- (MU is from rst dark lore, the "maybe the ortensia incident is not just about -->
             <!-- broken legs" bs, look at the iceberg for more shit like that) -->
             <!-- (AU is from the anime's "Heisenberg Uncertainty Principle", which states that -->
             <!-- the more popular an anime is, the more hated it is by me) -->
-            AEI(0.25, Emotion.MU to 0.5, Emotion.AU to 0.5)
+            <aei base="0.25" emotions="Emotion.MU to 0.5, Emotion.AU to 0.5" />
 
             <!-- this was funny af -->
             <!-- expected from a purely mpap-based idol anime -->
-            AEI(0.6, Emotion.AP)
+            <aei base="0.6" emotions="Emotion.AP" />
 
             <!-- for the first time, i felt like i'm actually holding a glowstick, -->
             <!-- waving it, and wish the best for the girls performing -->
@@ -209,7 +209,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- but after this glorious franchise, it's also MP-farm, and more importantly -->
             <!-- it's what all idol fans feel, the feeling of wanting the girls to success -->
             <!-- tl;dr: the father analogy -->
-            AEI(1.0, Emotion.CU to 0.5, Emotion.CP to 0.5)
+            <aei base="1.0" emotions="Emotion.CU to 0.5, Emotion.CP to 0.5" />
 
             <visual type="animated" base="0.6" unique="0.2" />
 
@@ -1065,7 +1065,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
     </entry>
 
-    AEI(1.0, Emotion.CP to 0.9, Emotion.MP to 0.1) {
+    <aei base="1.0" emotions="Emotion.CP to 0.9, Emotion.MP to 0.1" /> {
         contributors["A-MAL-37890"] = 0.5
         contributors["A-MAL-38009"] = 0.45
         contributors["GF-VGMDB-7059"] = 0.05

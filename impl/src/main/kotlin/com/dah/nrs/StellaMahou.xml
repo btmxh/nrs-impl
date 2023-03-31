@@ -15,8 +15,8 @@
             <bestGirl name="Kayo Fujikawa" />
             <visual type="animated" base="0.5" unique="0.4" />
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
-            NEI(0.5, Emotion.AP)
-            NEI(0.2, Emotion.CP)
+            <nei base="0.5" emotions="Emotion.AP" />
+            <nei base="0.2" emotions="Emotion.CP" />
             <featureMusic id="M-VGMDB-AL-60899-1" />
         </entry>
 

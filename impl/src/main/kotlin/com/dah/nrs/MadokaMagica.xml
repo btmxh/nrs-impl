@@ -95,7 +95,7 @@
             MaxAEIPADS(1, Emotion.CU)
 
             <!-- Kyoko's backstory -->
-            AEI(0.9, Emotion.CU)
+            <aei base="0.9" emotions="Emotion.CU" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.35" unique="0.6" />
@@ -139,7 +139,7 @@
         }
 
         <!-- magireco is kinda comfy -->
-        NEI(0.75, Emotion.MP) {
+        <nei base="0.75" emotions="Emotion.MP" /> {
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.4
             contributors["A-MAL-41530"] = 0.2
@@ -235,7 +235,7 @@
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- :troll-despair: -->
-            AEI(0.5, Emotion.CU to 0.9, Emotion.MP to 0.1)
+            <aei base="0.5" emotions="Emotion.CU to 0.9, Emotion.MP to 0.1" />
 
             <!-- OP -->
             <featureMusic id="M-VGMDB-AL-113295-1" />

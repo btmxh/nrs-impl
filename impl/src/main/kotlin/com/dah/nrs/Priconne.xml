@@ -14,7 +14,7 @@
             <bestGirl name="Karyl" />
             <visual type="animated" base="0.55" unique="0.25" />
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
-            NEI(0.9, Emotion.AP) <!-- funny ig -->
+            <nei base="0.9" emotions="Emotion.AP" /> <!-- funny ig -->
         </entry>
 
         <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -28,8 +28,8 @@
             <bestGirl name="Karyl" />
             <visual type="animated" base="0.55" unique="0.25" />
             <animeConsumedProgress status="Completed" boredom="0.5" episodes="5" />
-            NEI(0.5, Emotion.CP) <!-- idk lol -->
-            NEI(0.75, Emotion.AP) <!-- funny ig -->
+            <nei base="0.5" emotions="Emotion.CP" /> <!-- idk lol -->
+            <nei base="0.75" emotions="Emotion.AP" /> <!-- funny ig -->
         </entry>
 
         <entry id="M-VGMDB-AL-82981" title="PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

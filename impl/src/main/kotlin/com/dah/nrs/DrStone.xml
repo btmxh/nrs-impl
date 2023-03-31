@@ -15,7 +15,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
             <visual type="animated" base="0.3" unique="0.75" />
             <!-- "plot is good" -->
-            AEI(0.25, Emotion.AP)
+            <aei base="0.25" emotions="Emotion.AP" />
             <featureMusic id="M-VGMDB-AL-87927-1" />
         </entry>
 
@@ -31,7 +31,7 @@
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
             <visual type="animated" base="0.3" unique="0.75" />
-            AEI(0.1, Emotion.AP)
+            <aei base="0.1" emotions="Emotion.AP" />
         </entry>
 
         <entry id="A-MAL-50612" title="Dr. Stone: Ryuusui"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -44,7 +44,7 @@
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="54.minutes" />
             <visual type="animated" base="0.3" unique="0.75" />
-            NEI(0.6, Emotion.AP)
+            <nei base="0.6" emotions="Emotion.AP" />
         </entry>
     </entry>
 

@@ -40,7 +40,7 @@
             <!-- vaxei_osu -->
 
             <!-- the memes were funny -->
-            NEI(0.8, Emotion.AP)
+            <nei base="0.8" emotions="Emotion.AP" />
 
             <bestGirl name="Sakura Kawasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <visual type="animated" base="0.6" unique="0.3" />

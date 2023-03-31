@@ -192,8 +192,8 @@
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
-            NEI(0.5, Emotion.AP)
-            NEI(0.2, Emotion.MP)
+            <nei base="0.5" emotions="Emotion.AP" />
+            <nei base="0.2" emotions="Emotion.MP" />
         </entry>
 
         <entry id="A-MAL-33036" title="Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -207,8 +207,8 @@
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
-            NEI(0.2, Emotion.AP)
-            AEI(0.1, Emotion.MP to 0.3, Emotion.CU to 0.7)
+            <nei base="0.2" emotions="Emotion.AP" />
+            <aei base="0.1" emotions="Emotion.MP to 0.3, Emotion.CU to 0.7" />
             <featureMusic id="M-VGMDB-AL-61577-1" />
             <featureMusic id="M-20221225T015456" />
         </entry>
@@ -224,9 +224,9 @@
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
-            NEI(0.2, Emotion.AP)
+            <nei base="0.2" emotions="Emotion.AP" />
             <!-- classic atm farm idk -->
-            AEI(0.3, Emotion.MP to 0.3, Emotion.CU to 0.7)
+            <aei base="0.3" emotions="Emotion.MP to 0.3, Emotion.CU to 0.7" />
             <featureMusic id="M-VGMDB-AL-120871-5" />
         </entry>
 
@@ -256,13 +256,13 @@
             <visual type="animated" base="0.4" unique="0.6" />
 
             <!-- main girl's friend betraying her was somewhat unexpected ig -->
-            NEI(0.1, Emotion.AP)
+            <nei base="0.1" emotions="Emotion.AP" />
 
             <!-- funnychamp -->
-            NEI(0.8, Emotion.AP)
+            <nei base="0.8" emotions="Emotion.AP" />
 
             <!-- no way post-modern (not rst-inspired) cp-based anime!1! -->
-            NEI(0.5, Emotion.CP)
+            <nei base="0.5" emotions="Emotion.CP" />
         </entry>
     </entry>
 </document>

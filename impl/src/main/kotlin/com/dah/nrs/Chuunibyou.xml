@@ -20,7 +20,7 @@
         </entry>
 
         <!-- this made me laugh my ass off -->
-        AEI(0.75, Emotion.AP) {
+        <aei base="0.75" emotions="Emotion.AP" /> {
             contributors["A-MAL-14741"] = 0.75
             <!-- s2 has less comedy than s1 -->
             <!-- because le funny dead ppl pink-haired girl -->
@@ -54,7 +54,7 @@
             <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- Shichimiya dead people almost made me cry -->
             <!-- YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI -->
-            AEI(1.0, Emotion.CU)
+            <aei base="1.0" emotions="Emotion.CU" />
             <!-- Shichimiya memes -->
             Meme(0.4, 10)
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -74,7 +74,7 @@
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="1" episodeDuration="1.hours + 33.minutes" />
             <!-- movie is funny, but less content than s1 and s2 -->
             <!-- separate from s1/2 because it was watched later -->
-            NEI(0.75, Emotion.AP)
+            <nei base="0.75" emotions="Emotion.AP" />
             <visual type="animated" base="0.6" unique="0.2" />
         </entry>
     </entry>

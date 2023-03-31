@@ -13,7 +13,7 @@
 
             <!-- for some reason, this almost made me cry -->
             <!-- (somewhat unrelated to ayumu shit) -->
-            AEI(0.5, Emotion.CU)
+            <aei base="0.5" emotions="Emotion.CU" />
 
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
             <music base="0.425" />

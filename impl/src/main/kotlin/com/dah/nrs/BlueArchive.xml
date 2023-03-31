@@ -47,7 +47,7 @@
             <!-- let enjoy it while it lasts -->
             <featureMusic id="M-VGMDB-AL-126116" />
             <!-- rob the bank xd -->
-            NEI(0.8, Emotion.AP)
+            <nei base="0.8" emotions="Emotion.AP" />
 
             <!-- pretty weak char design -->
             <!-- somewhat good art tho -->
