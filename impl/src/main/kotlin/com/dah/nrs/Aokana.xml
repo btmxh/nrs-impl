@@ -21,7 +21,7 @@
             <pads length="1" emotions="Emotion.MP" /> {
                 ValidatorSuppress("dah-lone-pads")
             }
-            Waifu("Kurashina Asuka", "2021-06-02" to "2021-06-16")
+            <waifu name="Kurashina Asuka" from="2021-06-02" to="2021-06-16" />
 
             <featureMusic id="M-VGMDB-AL-52834" />
 

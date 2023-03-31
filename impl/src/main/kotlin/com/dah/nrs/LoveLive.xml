@@ -434,7 +434,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <!-- niji arcs -->
 
         <!-- arc 1 - the girl who changed the world -->
-        Waifu("Uehara Ayumu", "2020-11-02" to "2021-02-15") {
+        <waifu name="Uehara Ayumu" from="2020-11-02" to="2021-02-15" /> {
             contributors["A-MAL-40879"] = 0.9
             contributors["M-VGMDB-AL-102281-1"] = 0.1
         }

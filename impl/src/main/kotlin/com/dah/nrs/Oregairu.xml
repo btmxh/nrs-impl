@@ -90,7 +90,7 @@
         <!-- https://github.com/ngoduyanh/nrs-impl-kt/issues/285 -->
         <!-- tldr -->
         <!-- yui was gonna be waifu but yui depression etc etc -->
-        WaifuUnknownPeriod("Yui Yuigahama", 30) {
+        <waifu name="Yui Yuigahama" length="30" /> {
             contributors["A-MAL-14813"] = 0.1
             contributors["A-MAL-23847"] = 0.9
         }

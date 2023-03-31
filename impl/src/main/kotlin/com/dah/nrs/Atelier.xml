@@ -52,7 +52,7 @@
         <!-- but <<<<<<<<<<<<<<< ortensia dark lore 1.0 visual waifu -->
         <!-- me when mc is literally going to live longer than le cat -->
         <!-- the post-modern culture meta lmfaooooooooooooo -->
-        Waifu("Malier Escha", "2022-08-31" to "2022-11-25") {
+        <waifu name="Malier Escha" from="2022-08-31" to="2022-11-25" /> {
             contributors["A-MAL-21167"] = 0.2
             contributors["G-VGMDB-1880"] = 0.8
         }

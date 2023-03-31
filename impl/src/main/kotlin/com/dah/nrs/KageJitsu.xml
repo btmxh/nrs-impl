@@ -40,7 +40,7 @@
             <aei base="0.8" emotions="Emotion.CU to 0.9, Emotion.MP to 0.1" />
 
             <!-- i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
-            Waifu("Sherry Barnett", "2023-03-01" to "2023-03-12")
+            <waifu name="Sherry Barnett" from="2023-03-01" to="2023-03-12" />
 
             <!-- I AM atomic -->
             <ehi /> <!-- humor -->

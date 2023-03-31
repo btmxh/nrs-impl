@@ -122,7 +122,7 @@
             <featureMusic id="M-VGMDB-AL-41292-1" />
         </entry>
 
-        Waifu("Tamaki Iroha", "2020-02-14" to "2020-08-14") {
+        <waifu name="Tamaki Iroha" from="2020-02-14" to="2020-08-14" /> {
             contributors["A-MAL-38256"] = 0.5
             contributors["G-VGMDB-5237"] = 0.5
         }

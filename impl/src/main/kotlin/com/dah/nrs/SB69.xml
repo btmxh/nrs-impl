@@ -107,7 +107,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             contributors["A-MAL-41520"] = 0.4
         }
 
-        Waifu("Hijirikawa Cyan", "2022-01-15" to "2022-03-10") {
+        <waifu name="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10" /> {
             contributors["A-MAL-27441"] = 0.35
             contributors["A-MAL-32038"] = 0.35
             contributors["A-MAL-40763"] = 0.05

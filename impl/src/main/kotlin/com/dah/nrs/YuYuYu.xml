@@ -218,7 +218,7 @@
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
-        WaifuUnknownPeriod("Yuuki Yuuna", 20) {
+        <waifu name="Yuuki Yuuna" length="20" /> {
             contributors["A-MAL-25519"] = 0.4
             contributors["A-MAL-34445"] = 0.4
             contributors["A-MAL-42587"] = 0.2

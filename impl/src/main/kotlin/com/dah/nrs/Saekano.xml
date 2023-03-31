@@ -16,7 +16,7 @@
 
         <contains id="M-VGMDB-AL-49446-1" />
 
-        WaifuUnknownPeriod("Megumi Kato", 90) {
+        <waifu name="Megumi Kato" length="90" /> {
             contributors["A-MAL-23277"] = 0.5
             contributors["A-MAL-30727"] = 0.5
         }
