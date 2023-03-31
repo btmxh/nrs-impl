@@ -30,7 +30,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
             <entry id="$-1" title="Hana wa Odore ya Irohaniho">
-                MusicConsumedProgress("4:10") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>

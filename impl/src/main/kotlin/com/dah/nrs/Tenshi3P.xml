@@ -25,7 +25,7 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1" title="Habataki no Birthday">
-                MusicConsumedProgress("4:32") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>
@@ -34,7 +34,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1" title="Kusabi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://music.apple.com/jp/album/e6-a5-94-single/1268529061?l=en -->
-                MusicConsumedProgress("4:26") <!-- impl_overridden -->
+                <musicConsumedProgress length="4:26" /> <!-- impl_overridden -->
                 Music(0.3)
             </entry>
         </entry>

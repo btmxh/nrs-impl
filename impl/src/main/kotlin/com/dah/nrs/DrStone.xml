@@ -53,7 +53,7 @@
         Visual(VisualKind.AlbumArt, 0.15, 0.2)
 
         <entry id="$-1" title="Good Morning World!">
-            MusicConsumedProgress("4:09") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.25)
             OsuSong(personal = 0.1)
         </entry>

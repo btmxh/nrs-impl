@@ -51,7 +51,7 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.3)
             <entry id="$-1" title="IDOLY PRIDE">
-                MusicConsumedProgress("3:38") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
 

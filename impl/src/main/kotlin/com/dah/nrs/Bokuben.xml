@@ -44,7 +44,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
             <entry id="$-1" title="Seishun Seminar">
-                MusicConsumedProgress("4:15") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 OsuSong(personal = 0.2)
             </entry>
@@ -55,7 +55,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.7)
 
             <entry id="$-1" title="Can now, Can now">
-                MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
                 OsuSong(personal = 0.1)
             </entry>

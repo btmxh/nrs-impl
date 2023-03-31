@@ -32,7 +32,7 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.3)
             <entry id="$-1" title="Glorious Days">
-                MusicConsumedProgress("3:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
         </entry>
@@ -41,7 +41,7 @@
 
             Visual(VisualKind.AlbumArt, 0.3, 0.3)
             <entry id="$-1" title="ENDROLL"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                MusicConsumedProgress("3:53") <!-- impl_overridden -->
+                <musicConsumedProgress length="3:53" /> <!-- impl_overridden -->
                 Music(0.4)
             </entry>
         </entry>

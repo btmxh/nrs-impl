@@ -35,7 +35,7 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
             <entry id="$-1" title="Kimi ga Yume wo Tsuretekita">
-                MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.225)
             </entry>
         </entry>

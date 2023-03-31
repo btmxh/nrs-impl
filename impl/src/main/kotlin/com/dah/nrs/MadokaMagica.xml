@@ -11,7 +11,7 @@
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-2" title="Mata Ashita">
-                MusicConsumedProgress("4:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
             </entry>
         </entry>
@@ -20,7 +20,7 @@
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-4" title="Believing in Justice">
-                MusicConsumedProgress("1:56") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="1:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.25)
             </entry>
         </entry>
@@ -29,7 +29,7 @@
 
             Visual(VisualKind.AlbumArt, 0.35, 0.6)
             <entry id="$-2" title="and I'm home">
-                MusicConsumedProgress("2:50") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="2:50" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
             </entry>
         </entry>
@@ -42,7 +42,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             <entry id="$-1" title="ケアレス">
-                MusicConsumedProgress("4:14") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>
@@ -54,7 +54,7 @@
             Visual(VisualKind.AlbumArt, 0.5, 0.4)
 
             <entry id="$-1" title="Gomakashi">
-                MusicConsumedProgress("4:11") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:11" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.65)
             </entry>
         </entry>
@@ -64,7 +64,7 @@
             Visual(VisualKind.AlbumArt, 0.45, 0.4)
 
             <entry id="$-1" title="Utsuroi">
-                MusicConsumedProgress("3:49") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the game -->
                 <!-- browiec's Wisdom -->
                 <!-- Misunderstanding -->
@@ -252,7 +252,7 @@
 
                 <!-- Length source: https://www.nicovideo.jp/watch/sm22151925 -->
                 Music(0.35)
-                MusicConsumedProgress("4:35")
+                <musicConsumedProgress length="4:35" />
             </entry>
         }
     </entry>

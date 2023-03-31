@@ -65,7 +65,7 @@
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             <entry id="$-1" title="Now Loading!!!!">
-                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.4)
                 OsuSong(personal = 0.4)
             </entry>
@@ -75,7 +75,7 @@
 
             Visual(VisualKind.AlbumArt, 0.7, 0.3)
             <entry id="$-1" title="STEP by STEP UP↑↑↑↑">
-                MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- mankai step by step -->
                 <!-- this song is legendary af -->
                 Music(0.5)

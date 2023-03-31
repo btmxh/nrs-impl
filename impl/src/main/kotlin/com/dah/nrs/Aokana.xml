@@ -42,7 +42,7 @@
         <entry id="M-VGMDB-AL-55828" title="Contrail ~Kiseki~ / Mami Kawada"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
             <entry id="$-1" title="Contrail ~Kiseki~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                MusicConsumedProgress("4:39") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
                 OsuSong(personal = 0.75, community = 0.3)
                 Remix("M-20221202T210558")
@@ -55,13 +55,13 @@
         Music(0.6)
         OsuSong(personal = 0.3, community = 0.0)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1358513 -->
-        MusicConsumedProgress("4:58")
+        <musicConsumedProgress length="4:58" />
     </entry>
 
     <entry id="M-20221202T210558" title="Contrail ~Kiseki~ (Epsilon Remix)">
         ValidatorSuppress("dah-entry-no-consumed")
         Music(0.6)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/461966 -->
-        MusicConsumedProgress("5:50")
+        <musicConsumedProgress length="5:50" />
     </entry>
 </document>

@@ -130,7 +130,7 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.25)
             <entry id="$-1" title="アスイロ">
-                MusicConsumedProgress("4:45") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT! -->
                 <!-- MY FRIENDS ON TIKTOK SEND ME Rina Hidaka, ON DISCORD IT'S FUCKING Rie Marukawa! -->
                 <!-- I was in a server, right? and ALL OF THE CHANNELS were just Criticrista stuff. -->
@@ -196,7 +196,7 @@
 
             Visual(VisualKind.AlbumArt, 0.35, 0.3)
             <entry id="$-4" title="Miruiro no Hoshi">
-                MusicConsumedProgress("5:41") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
             </entry>
         </entry>
@@ -205,7 +205,7 @@
 
             Visual(VisualKind.AlbumArt, 0.2, 0.5)
             <entry id="$-9" title="Into the Journey">
-                MusicConsumedProgress("5:22") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
                 <!-- the cp contest of Oct 4th -->
                 <!-- aka the first win of the ROD in uni -->
@@ -216,7 +216,7 @@
         <entry id="M-VGMDB-AL-38558" title="Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Visual(VisualKind.AlbumArt, 0.4, 0.5)
             <entry id="$-8" title="Sky of Twilight"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                MusicConsumedProgress("6:21") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="6:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.45)
                 OsuSong(personal = 0.5, community = 0.0)
             </entry>

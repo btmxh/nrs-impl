@@ -31,7 +31,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             <entry id="$-1" title="Tachiagare!">
-                MusicConsumedProgress("4:54") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
         </entry>
@@ -41,7 +41,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.6)
 
             <entry id="$-1" title="7 Girls War">
-                MusicConsumedProgress("5:07") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
         </entry>
@@ -131,7 +131,7 @@
         Visual(VisualKind.AlbumArt, 0.1, 0.2)
 
         <entry id="$-1" title="One In A Billion">
-            MusicConsumedProgress("4:17") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             OsuSong(personal = 0.5, community = 0.1)
             Music(0.6)
         </entry>

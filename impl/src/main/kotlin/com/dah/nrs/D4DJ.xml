@@ -33,7 +33,7 @@
 
             Visual(VisualKind.AlbumArt, 0.4, 0.75)
             <entry id="$-3" title="Guruguru DJ TURN!!">
-                MusicConsumedProgress("3:43") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:43" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.35)
             </entry>
         </entry>
@@ -44,7 +44,7 @@
             ValidatorSuppress("dah-visualless-entry")
             <entry id="$-2" title="Brand New World"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
-                MusicConsumedProgress("4:06") <!-- impl_overridden -->
+                <musicConsumedProgress length="4:06" /> <!-- impl_overridden -->
                 Music(0.4)
             </entry>
         </entry>

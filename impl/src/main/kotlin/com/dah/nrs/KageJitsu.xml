@@ -61,7 +61,7 @@
             Visual(VisualKind.AlbumArt, 0.2, 0.4)
 
             <entry id="$-1" title="Darling in the Night">
-                MusicConsumedProgress("4:12") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- same composer as "WONDERFUL WORLD", "Watashi to Minna no Uta" -->
                 <!-- (luminous witches song W), new game's step by step up -->
                 <!-- :arrow_up: :arrow_up: :arrow_up: and especially :skull: -->

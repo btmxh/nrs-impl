@@ -13,7 +13,7 @@
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
 
             <entry id="$-1" title="VOICE">
-                MusicConsumedProgress("4:18") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
                 OsuSong(personal = 0.2)
             </entry>

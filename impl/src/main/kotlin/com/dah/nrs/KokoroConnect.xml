@@ -8,7 +8,7 @@
             Visual(VisualKind.AlbumArt, 0.4, 0.3)
 
             <entry id="$-1" title="Kimochi Signal">
-                MusicConsumedProgress("4:13") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
             </entry>
         </entry>

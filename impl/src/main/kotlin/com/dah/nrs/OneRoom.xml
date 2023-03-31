@@ -14,7 +14,7 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.25)
             <entry id="$-1" title="Harumachi Clover">
-                MusicConsumedProgress("4:06") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- ME NO MAE NO TOBIRA O AKETARA HARU KAZE -->
                 <!-- TORI TACHI MO KIGI DE MACHIAWASE -->
                 <!-- KIMI E MUKAU SHINGOU AOZORA IRO -->
@@ -50,7 +50,7 @@
 
         <!-- Length source: https://www.youtube.com/watch?v=2OfJYisHbkI -->
         Music(0.3)
-        MusicConsumedProgress("0:36") <!-- impl_overridden -->
+        <musicConsumedProgress length="0:36" /> <!-- impl_overridden -->
         OsuSong(personal = 0.6, community = 0.8)
     </entry>
 </document>

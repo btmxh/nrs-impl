@@ -24,7 +24,7 @@
 
             <!-- simple heart dt -->
             <entry id="$-1" title="WONDERFUL WONDER">
-                MusicConsumedProgress("3:03") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.15)
                 OsuSong(personal = 0.4, community = 0.2)
             </entry>

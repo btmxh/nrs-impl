@@ -95,7 +95,7 @@
             Visual(VisualKind.AlbumArt, 1.0, 0.3)
 
             <entry id="$-2" title="記憶×ハジマリ">
-                MusicConsumedProgress("4:23") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- chorus sucks but -->
                 <!-- the inst is atm-farm-pilled af -->
                 <!-- unironically can be meta soon :eyes: -->
@@ -106,12 +106,12 @@
             </entry>
 
             <entry id="$-14" title="東の空から始まる世界">
-                MusicConsumedProgress("4:01") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.6)
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
-                MusicConsumedProgress("4:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️ -->
                 <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
@@ -141,7 +141,7 @@
         <!-- NEE music :skull: -->
 
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
-            MusicConsumedProgress("4:53") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.7)
             <ref name="KoikakeCry" _.contribution="0.75" _.emotions="Emotion.CP to 0.5, Emotion.CU to 0.25, Emotion.MP to 0.25" />
             <!-- Đó chính là, đoạn đường mà em đi -->

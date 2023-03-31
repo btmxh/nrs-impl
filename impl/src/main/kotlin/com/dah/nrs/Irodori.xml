@@ -12,7 +12,7 @@
         Visual(VisualKind.AlbumArt, 0.05, 0.5)
 
         <entry id="$-35" title="エンドマークに希望と涙を添えて">
-            MusicConsumedProgress("2:51") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="2:51" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.35)
             Remix("M-VGMDB-AL-93299-2")
         </entry>
@@ -39,7 +39,7 @@
 
             <entry id="$-2" title="エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc -->
-                MusicConsumedProgress("4:35") <!-- impl_overridden -->
+                <musicConsumedProgress length="4:35" /> <!-- impl_overridden -->
 
                 Music(0.4)
             </entry>
@@ -56,14 +56,14 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1667264 -->
                 Music(0.3)
-                MusicConsumedProgress("5:16") <!-- impl_overridden -->
+                <musicConsumedProgress length="5:16" /> <!-- impl_overridden -->
             </entry>
 
             <entry id="M-20220130T165739-4" title="Zero kara hajimeru Brain Power">
 
                 <!-- Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc -->
                 Music(0.25)
-                MusicConsumedProgress("5:15") <!-- impl_overridden -->
+                <musicConsumedProgress length="5:15" /> <!-- impl_overridden -->
             </entry>
         </entry>
 

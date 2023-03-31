@@ -36,7 +36,7 @@
 
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
             <entry id="$-1" title="Stargazer">
-                MusicConsumedProgress("5:06") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
             </entry>
         </entry>

@@ -8,7 +8,7 @@
             Visual(VisualKind.AlbumArt, 0.65, 0.2)
 
             <entry id="$-2" title="Kirakira Days">
-                MusicConsumedProgress("3:40") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <!-- binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD -->
                 Meme(0.1, 6)
@@ -21,7 +21,7 @@
             Visual(VisualKind.AlbumArt, 0.65, 0.2)
 
             <entry id="$-9" title="Tenshi ni Fureta yo!">
-                MusicConsumedProgress("4:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Music(0.05)
             </entry>
@@ -32,7 +32,7 @@
             Visual(VisualKind.AlbumArt, 0.65, 0.2)
 
             <entry id="$-2" title="U&I">
-                MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.1)
             </entry>
         </entry>

@@ -17,7 +17,7 @@
 
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
             Music(0.425)
-            MusicConsumedProgress("4:32") <!-- impl_overridden -->
+            <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
             Remix("M-20220205T023322-1")
             Remix("M-20220205T023322-3")
         </entry>
@@ -28,7 +28,7 @@
         <!-- yuiko version is probably the best, music-wise -->
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
         Music(0.65)
-        MusicConsumedProgress("4:32") <!-- impl_overridden -->
+        <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
     </entry>
 
     <entry id="M-20220205T023322-3" title="Chikyuu Saigo no Kokuhaku wo (HAG)">
@@ -36,14 +36,14 @@
         <!-- quite good, but they didn't keep the orig. inst. -->
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
         Music(0.5)
-        MusicConsumedProgress("4:23") <!-- impl_overridden -->
+        <musicConsumedProgress length="4:23" /> <!-- impl_overridden -->
     </entry>
 
     <entry id="M-20221115T105859" title="AI">
 
         Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
-        MusicConsumedProgress("4:23")
+        <musicConsumedProgress length="4:23" />
         Music(0.65)
         OsuSong(personal = 0.8, community = 0.0)
     </entry>
@@ -52,7 +52,7 @@
 
         Visual(VisualKind.StaticMV, 0.2, 0.4)
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
-        MusicConsumedProgress("3:56")
+        <musicConsumedProgress length="3:56" />
         Music(0.6)
         <ref name="KoikakeNEI" _.base="0.3" _.contribution="0.7" _.emotions="Emotion.CU" />
     </entry>
@@ -60,7 +60,7 @@
     <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
         <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -74,7 +74,7 @@
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -88,7 +88,7 @@
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -102,7 +102,7 @@
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -115,14 +115,14 @@
 
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
-        </entry>   MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
         }
     </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         Visual(VisualKind.AlbumArt, 0.3, 0.3)
         <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -136,7 +136,7 @@
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>        <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -150,7 +150,7 @@
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -164,7 +164,7 @@
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
         </entry>          <entry id="$-22" title="from Y to Y">
-            MusicConsumedProgress("3:16") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->
@@ -177,7 +177,7 @@
 
             Music(0.5)
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="Emotion.CU" />
-        </entry>   MusicConsumedProgress("3:27") <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             Music(0.4)
             OsuSong(personal = 0.5, community = 0.5)
         }
@@ -202,7 +202,7 @@
         <!-- Aah, why, oh why did we ever meet?" -->
 
         <!-- Length source: https://www.youtube.com/watch?v=H_rOo9HNF3w -->
-        MusicConsumedProgress("4:53")
+        <musicConsumedProgress length="4:53" />
     </entry>
 
     <entry id="M-20221224T223044" title="Hitori no Kimi to Hitori no Boku ni">
@@ -219,6 +219,6 @@
         Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
         Music(0.5)
         <!-- Length source: https://www.youtube.com/watch?v=EHxFEHPBDP8 -->
-        MusicConsumedProgress("4:28")
+        <musicConsumedProgress length="4:28" />
     </entry>
 </document>

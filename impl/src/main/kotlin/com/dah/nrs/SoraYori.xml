@@ -38,7 +38,7 @@
 
             Visual(VisualKind.AlbumArt, 0.3, 0.5)
             <entry id="$-1" title="Koko kara, Koko kara">
-                MusicConsumedProgress("4:36") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.5)
                 <!-- make v-tuber a thing (hanayori dorm bs) -->
                 <!-- and when hanayori bs dead, vtuber dead lmfao -->
@@ -46,7 +46,7 @@
             </entry>
 
             <entry id="$-2" title="One Step">
-                MusicConsumedProgress("4:02") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.3)
                 OsuSong(personal = 0.4, community = 0.0)
             </entry>

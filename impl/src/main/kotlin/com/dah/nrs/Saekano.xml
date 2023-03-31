@@ -8,7 +8,7 @@
             Visual(VisualKind.AlbumArt, 0.6, 0.4)
 
             <entry id="$-1" title="M♭">
-                MusicConsumedProgress("3:42") <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Music(0.2)
                 OsuSong(personal = 0.1)
             </entry>
@@ -79,13 +79,13 @@
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
         Music(0.275)
-        MusicConsumedProgress("5:12") <!-- impl_overridden -->
+        <musicConsumedProgress length="5:12" /> <!-- impl_overridden -->
     </entry>
 
     <entry id="M-20220117T170733-2" title="Colorful. (kamaboko remix)">
 
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
         Music(0.3)
-        MusicConsumedProgress("5:04") <!-- impl_overridden -->
+        <musicConsumedProgress length="5:04" /> <!-- impl_overridden -->
     </entry>
 </document>
