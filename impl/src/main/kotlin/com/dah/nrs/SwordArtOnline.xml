@@ -43,6 +43,6 @@
             Visual(VisualKind.Animated, 0.6, 0.25)
         </entry>
 
-        Contains("M-VGMDB-AL-33537-1")
+        <contains id="M-VGMDB-AL-33537-1" />
     </entry>
 </document>

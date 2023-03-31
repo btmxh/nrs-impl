@@ -5,7 +5,7 @@
 
     <entry id="F-VGMDB-1945" title="Mahou Shoujo Madoka☆Magica">
 
-        Contains("M-VGMDB-AL-23391-1")
+        <contains id="M-VGMDB-AL-23391-1" />
 
         <entry id="M-VGMDB-AL-30302" title="Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -34,8 +34,8 @@
             </entry>
         </entry>
 
-        Contains("M-VGMDB-AL-41292-1")
-        Contains("M-VGMDB-AL-69147-11")
+        <contains id="M-VGMDB-AL-41292-1" />
+        <contains id="M-VGMDB-AL-69147-11" />
 
         <entry id="M-VGMDB-AL-113295" title="TV Anime \">Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -47,7 +47,7 @@
             </entry>
         </entry>
 
-        Contains("M-VGMDB-AL-89431-1")
+        <contains id="M-VGMDB-AL-89431-1" />
 
         <entry id="M-VGMDB-AL-95029" title="Gomakashi / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 

@@ -21,7 +21,7 @@
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-44890")
+                <contains id="M-VGMDB-AL-44890" />
             }
         </entry>
 
@@ -29,7 +29,7 @@
 
             Visual(VisualKind.AlbumArt, 0.5, 0.2)
             <!-- this also includes mahou shoujo chino -->
-            Contains("M-VGMDB-AL-54418-1")
+            <contains id="M-VGMDB-AL-54418-1" />
 
             <entry id="$-3" title="Shinsaku no Shiawase wa Kochira!">
                 <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

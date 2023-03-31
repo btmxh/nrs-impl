@@ -14,7 +14,7 @@
             </entry>
         </entry>
 
-        Contains("M-VGMDB-AL-49446-1")
+        <contains id="M-VGMDB-AL-49446-1" />
 
         WaifuUnknownPeriod("Megumi Kato", 90) {
             contributors["A-MAL-23277"] = 0.5

@@ -3,7 +3,7 @@
 <document>
     <entry id="M-VGMDB-AR-12516" title="ZAQ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains("M-VGMDB-AL-42762")
+        <contains id="M-VGMDB-AL-42762" />
     </entry>
 
     <entry id="F-VGMDB-2330" title="Chuunibyou demo Koi ga Shitai!">

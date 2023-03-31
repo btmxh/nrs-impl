@@ -4,7 +4,7 @@
     <!-- original of irodori covers -->
     <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains("M-VGMDB-AL-91187-35")
+        <contains id="M-VGMDB-AL-91187-35" />
     </entry>
 
     <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -72,8 +72,8 @@
 
             <!-- times 0.6 because they are all covers -->
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-93299")
-                Contains("M-20220130T165739-2")
+                <contains id="M-VGMDB-AL-93299" />
+                <contains id="M-20220130T165739-2" />
             }
         </entry>
     </entry>

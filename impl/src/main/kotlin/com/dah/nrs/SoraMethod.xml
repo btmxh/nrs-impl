@@ -41,6 +41,6 @@
             </entry>
         </entry>
 
-        Contains("M-VGMDB-AL-47403-1")
+        <contains id="M-VGMDB-AL-47403-1" />
     </entry>
 </document>

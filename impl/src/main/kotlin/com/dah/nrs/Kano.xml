@@ -117,8 +117,8 @@
                     NEI(0.1, Emotion.CU)
                 </entry>
 
-                Contains("M-VGMDB-AL-51254-1")
-                Contains("M-VGMDB-AL-54307-1")
+                <contains id="M-VGMDB-AL-51254-1" />
+                <contains id="M-VGMDB-AL-54307-1" />
                 <entry id="$-7" title="Walk This Way!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
@@ -130,7 +130,7 @@
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
 
-                Contains("M-VGMDB-AL-34411-11")
+                <contains id="M-VGMDB-AL-34411-11" />
             </entry>
 
             <entry id="M-VGMDB-AL-89290" title="three / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

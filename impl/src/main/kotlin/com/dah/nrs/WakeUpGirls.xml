@@ -20,8 +20,8 @@
         <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-42945")
-                Contains("M-VGMDB-AL-46042")
+                <contains id="M-VGMDB-AL-42945" />
+                <contains id="M-VGMDB-AL-46042" />
                 Contains("M-VGMDB-AL-68276", 0.5)
             }
         </entry>

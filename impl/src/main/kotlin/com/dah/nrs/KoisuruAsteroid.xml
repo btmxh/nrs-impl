@@ -18,8 +18,8 @@
             <featureMusic id="M-VGMDB-AL-93338-1" />
         </entry>
 
-        Contains("M-VGMDB-AL-93329-1")
-        Contains("M-VGMDB-AL-93338-1")
+        <contains id="M-VGMDB-AL-93329-1" />
+        <contains id="M-VGMDB-AL-93338-1" />
     </entry>
 
     <entry id="M-VGMDB-AL-93338" title="Yozora / Minori Suzuki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

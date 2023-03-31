@@ -3,9 +3,9 @@
 <document>
     <entry id="F-VGMDB-3274" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru.">
 
-        Contains("M-VGMDB-AL-37932-1")
-        Contains("M-VGMDB-AL-51516-1")
-        Contains("M-VGMDB-AL-96288-1")
+        <contains id="M-VGMDB-AL-37932-1" />
+        <contains id="M-VGMDB-AL-51516-1" />
+        <contains id="M-VGMDB-AL-96288-1" />
 
         <entry id="M-VGMDB-AL-37999" title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 

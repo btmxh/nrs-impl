@@ -42,7 +42,7 @@
 
         <entry id="M-VGMDB-AL-43320" title="Stories That Last Through The Sleepless Nights"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains("M-VGMDB-AL-97601-1")
+            <contains id="M-VGMDB-AL-97601-1" />
             Visual(VisualKind.AlbumArt, 0.25, 0.4)
 
             <entry id="$-4" title="Wandering, Never Wondering (There Exists A Shade)">

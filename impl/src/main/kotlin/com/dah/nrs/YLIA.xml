@@ -59,6 +59,6 @@
 
     <entry id="M-VGMDB-AR-9069" title="Masaru Yokoyama"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains("M-VGMDB-AL-49046")
+        <contains id="M-VGMDB-AL-49046" />
     </entry>
 </document>

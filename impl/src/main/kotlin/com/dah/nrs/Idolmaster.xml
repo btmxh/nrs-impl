@@ -6,7 +6,7 @@
         <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-78253-1")
+                <contains id="M-VGMDB-AL-78253-1" />
             }
         </entry>
 

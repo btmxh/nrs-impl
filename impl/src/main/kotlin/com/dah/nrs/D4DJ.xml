@@ -24,8 +24,8 @@
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-107257")
-                Contains("M-VGMDB-AL-108580-2")
+                <contains id="M-VGMDB-AL-107257" />
+                <contains id="M-VGMDB-AL-108580-2" />
             }
         </entry>
 

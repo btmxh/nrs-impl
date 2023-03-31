@@ -40,9 +40,9 @@
         <entry id="M-VGMDB-AR-8870" title="HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-20118")
-                Contains("M-VGMDB-AL-21146")
-                Contains("M-VGMDB-AL-22848")
+                <contains id="M-VGMDB-AL-20118" />
+                <contains id="M-VGMDB-AL-21146" />
+                <contains id="M-VGMDB-AL-22848" />
             }
         </entry>
 

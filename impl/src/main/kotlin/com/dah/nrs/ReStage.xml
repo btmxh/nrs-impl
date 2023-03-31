@@ -308,7 +308,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             </entry>
 
             <!-- track 2 -->
-            Contains("M-VGMDB-AL-78575-1")
+            <contains id="M-VGMDB-AL-78575-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-78530" title="KiRaRhythm / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -324,11 +324,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 }
             </entry>
 
-            Contains("M-VGMDB-AL-78534-1")
-            Contains("M-VGMDB-AL-78534-2")
-            Contains("M-VGMDB-AL-78575-1")
-            Contains("M-VGMDB-AL-78532-1")
-            Contains("M-VGMDB-AL-78536-2")
+            <contains id="M-VGMDB-AL-78534-1" />
+            <contains id="M-VGMDB-AL-78534-2" />
+            <contains id="M-VGMDB-AL-78575-1" />
+            <contains id="M-VGMDB-AL-78532-1" />
+            <contains id="M-VGMDB-AL-78536-2" />
         </entry>
 
         <entry id="M-VGMDB-AL-78516" title="SENSEI Sensation / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -410,8 +410,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-VGMDB-AL-89363" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains("M-VGMDB-AL-78516-1")
-            Contains("M-VGMDB-AL-78764-1")
+            <contains id="M-VGMDB-AL-78516-1" />
+            <contains id="M-VGMDB-AL-78764-1" />
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
             <entry id="$-1" title="Kirameki Future">
@@ -489,18 +489,18 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-VGMDB-AR-30829" title="KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-78536")
-                Contains("M-VGMDB-AL-78534")
-                Contains("M-VGMDB-AL-78575")
-                Contains("M-VGMDB-AL-78532")
-                Contains("M-VGMDB-AL-78530-1")
-                Contains("M-VGMDB-AL-78516")
-                Contains("M-VGMDB-AL-78764")
-                Contains("M-VGMDB-AL-84229")
-                Contains("M-VGMDB-AL-86622")
-                Contains("M-VGMDB-AL-89363")
-                Contains("M-VGMDB-AL-104673-5")
-                Contains("M-VGMDB-AL-122232")
+                <contains id="M-VGMDB-AL-78536" />
+                <contains id="M-VGMDB-AL-78534" />
+                <contains id="M-VGMDB-AL-78575" />
+                <contains id="M-VGMDB-AL-78532" />
+                <contains id="M-VGMDB-AL-78530-1" />
+                <contains id="M-VGMDB-AL-78516" />
+                <contains id="M-VGMDB-AL-78764" />
+                <contains id="M-VGMDB-AL-84229" />
+                <contains id="M-VGMDB-AL-86622" />
+                <contains id="M-VGMDB-AL-89363" />
+                <contains id="M-VGMDB-AL-104673-5" />
+                <contains id="M-VGMDB-AL-122232" />
             }
         </entry>
 
@@ -508,9 +508,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.6, 0.2)
-            Contains("M-VGMDB-AL-89363-1")
-            Contains("M-VGMDB-AL-89363-2")
-            Contains("M-VGMDB-AL-78520-1")
+            <contains id="M-VGMDB-AL-89363-1" />
+            <contains id="M-VGMDB-AL-89363-2" />
+            <contains id="M-VGMDB-AL-78520-1" />
 
             <entry id="$-3" title="Yes, We Are!!!">
                 <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -564,10 +564,10 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-VGMDB-AL-82983" title="Pullulate / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Visual(VisualKind.AlbumArt, 0.3, 0.6)
-            Contains("M-VGMDB-AL-78339-1")
-            Contains("M-VGMDB-AL-78339-2")
-            Contains("M-VGMDB-AL-78520-1")
-            Contains("M-VGMDB-AL-78520-2")
+            <contains id="M-VGMDB-AL-78339-1" />
+            <contains id="M-VGMDB-AL-78339-2" />
+            <contains id="M-VGMDB-AL-78520-1" />
+            <contains id="M-VGMDB-AL-78520-2" />
 
             <entry id="$-5" title="Ano ne">
                 <musicConsumedProgress length="3:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -645,12 +645,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-89364-3")
-                Contains("M-VGMDB-AL-78520")
-                Contains("M-VGMDB-AL-78339")
-                Contains("M-VGMDB-AL-82983")
-                Contains("M-VGMDB-AL-104673-2")
-                Contains("M-VGMDB-AL-122926-6")
+                <contains id="M-VGMDB-AL-89364-3" />
+                <contains id="M-VGMDB-AL-78520" />
+                <contains id="M-VGMDB-AL-78339" />
+                <contains id="M-VGMDB-AL-82983" />
+                <contains id="M-VGMDB-AL-104673-2" />
+                <contains id="M-VGMDB-AL-122926-6" />
             }
         </entry>
 
@@ -682,8 +682,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-82369-1")
-                Contains("M-VGMDB-AL-104673-1")
+                <contains id="M-VGMDB-AL-82369-1" />
+                <contains id="M-VGMDB-AL-104673-1" />
             }
         </entry>
 
@@ -691,7 +691,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-104673-3")
+                <contains id="M-VGMDB-AL-104673-3" />
             }
         </entry>
 
@@ -711,8 +711,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-78515")
-                Contains("M-VGMDB-AL-104673-4")
+                <contains id="M-VGMDB-AL-78515" />
+                <contains id="M-VGMDB-AL-104673-4" />
             }
         </entry>
 
@@ -904,7 +904,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-109271-48")
+                <contains id="M-VGMDB-AL-109271-48" />
             }
         </entry>
 
@@ -913,12 +913,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- https://twitter.com/rst_project/status/1550075801852588032 -->
 
             Visual(VisualKind.AlbumArt, 0.5, 0.5)
-            Contains("M-VGMDB-AL-120845-1")
-            Contains("M-VGMDB-AL-120844-1")
-            Contains("M-VGMDB-AL-120842-1")
-            Contains("M-VGMDB-AL-120836-1")
-            Contains("M-VGMDB-AL-121168-1")
-            Contains("M-VGMDB-AL-122232-1")
+            <contains id="M-VGMDB-AL-120845-1" />
+            <contains id="M-VGMDB-AL-120844-1" />
+            <contains id="M-VGMDB-AL-120842-1" />
+            <contains id="M-VGMDB-AL-120836-1" />
+            <contains id="M-VGMDB-AL-121168-1" />
+            <contains id="M-VGMDB-AL-122232-1" />
 
             <entry id="$-6" title="Amaoto Fanfare">
                 <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -998,6 +998,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         </entry>
 
         <entry id="GF-VGMDB-7059" title="Re:Stage! Prism Step">
+
 
             <!-- this game has good art ngl -->
             <!-- some good card id: -->

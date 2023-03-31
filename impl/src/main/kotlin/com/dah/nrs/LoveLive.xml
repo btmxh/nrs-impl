@@ -56,10 +56,10 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <entry id="M-VGMDB-AR-13719" title="μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-34051")
-                Contains("M-VGMDB-AL-36547")
-                Contains("M-VGMDB-AL-75504")
-                Contains("M-VGMDB-AL-93532")
+                <contains id="M-VGMDB-AL-34051" />
+                <contains id="M-VGMDB-AL-36547" />
+                <contains id="M-VGMDB-AL-75504" />
+                <contains id="M-VGMDB-AL-93532" />
             }
         </entry>
 
@@ -135,12 +135,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <entry id="M-VGMDB-AR-17153" title="Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-58147")
-                Contains("M-VGMDB-AL-58750")
-                Contains("M-VGMDB-AL-70622")
-                Contains("M-VGMDB-AL-71404")
-                Contains("M-VGMDB-AL-78378")
-                Contains("M-VGMDB-AL-87199")
+                <contains id="M-VGMDB-AL-58147" />
+                <contains id="M-VGMDB-AL-58750" />
+                <contains id="M-VGMDB-AL-70622" />
+                <contains id="M-VGMDB-AL-71404" />
+                <contains id="M-VGMDB-AL-78378" />
+                <contains id="M-VGMDB-AL-87199" />
             }
         </entry>
 
@@ -177,12 +177,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <entry id="M-VGMDB-AR-29922" title="Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-102276")
-                Contains("M-VGMDB-AL-102277")
+                <contains id="M-VGMDB-AL-102276" />
+                <contains id="M-VGMDB-AL-102277" />
 
-                Contains("M-VGMDB-AL-80802-1")
-                Contains("M-VGMDB-AL-87198-1")
-                Contains("M-VGMDB-AL-99272-12")
+                <contains id="M-VGMDB-AL-80802-1" />
+                <contains id="M-VGMDB-AL-87198-1" />
+                <contains id="M-VGMDB-AL-99272-12" />
             }
         </entry>
 

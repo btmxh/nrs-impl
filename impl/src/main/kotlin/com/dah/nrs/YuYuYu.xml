@@ -6,7 +6,7 @@
     <!-- the start line of the "pleasant revolution" -->
     <entry id="F-VGMDB-3245" title="Yuusha de Aru">
 
-        Contains("M-VGMDB-AL-69821-1")
+        <contains id="M-VGMDB-AL-69821-1" />
 
         <entry id="M-VGMDB-AL-47678" title="Aurora Days / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 

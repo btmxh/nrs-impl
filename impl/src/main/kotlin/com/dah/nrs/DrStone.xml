@@ -19,7 +19,7 @@
             <featureMusic id="M-VGMDB-AL-87927-1" />
         </entry>
 
-        Contains("M-VGMDB-AL-87927-1")
+        <contains id="M-VGMDB-AL-87927-1" />
 
         <entry id="A-MAL-40852" title="Dr. Stone: Stone Wars"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>

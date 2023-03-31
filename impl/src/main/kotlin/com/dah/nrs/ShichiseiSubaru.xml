@@ -23,6 +23,6 @@
             <featureMusic id="M-VGMDB-AL-78478-1" />
         </entry>
 
-        Contains("M-VGMDB-AL-78478-1")
+        <contains id="M-VGMDB-AL-78478-1" />
     </entry>
 </document>

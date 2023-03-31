@@ -764,17 +764,17 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-94913")
-                Contains("M-VGMDB-AL-51276")
+                <contains id="M-VGMDB-AL-94913" />
+                <contains id="M-VGMDB-AL-51276" />
                 Contains("M-20220125T063355-6", 0.5)
-                Contains("M-VGMDB-AL-51706")
-                Contains("M-VGMDB-AL-61217")
-                Contains("M-VGMDB-AL-61981")
-                Contains("M-VGMDB-AL-59914")
+                <contains id="M-VGMDB-AL-51706" />
+                <contains id="M-VGMDB-AL-61217" />
+                <contains id="M-VGMDB-AL-61981" />
+                <contains id="M-VGMDB-AL-59914" />
                 Contains("M-VGMDB-AL-104341-1", 0.5)
-                Contains("M-VGMDB-AL-104266-3")
-                Contains("M-VGMDB-AL-100082")
-                Contains("M-VGMDB-AL-116297")
+                <contains id="M-VGMDB-AL-104266-3" />
+                <contains id="M-VGMDB-AL-100082" />
+                <contains id="M-VGMDB-AL-116297" />
             }
         </entry>
 
@@ -782,7 +782,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-51278")
+                <contains id="M-VGMDB-AL-51278" />
             }
         </entry>
 
@@ -790,8 +790,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-93440")
-                Contains("M-VGMDB-AL-93441")
+                <contains id="M-VGMDB-AL-93440" />
+                <contains id="M-VGMDB-AL-93441" />
                 Contains("M-VGMDB-AL-104341-1", 0.5)
                 Contains("M-VGMDB-AL-104341-2", 1.0)
                 Contains("M-VGMDB-AL-104267-8", 1.0)
@@ -803,8 +803,8 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-61940")
-                Contains("M-VGMDB-AL-104267-5")
+                <contains id="M-VGMDB-AL-61940" />
+                <contains id="M-VGMDB-AL-104267-5" />
             }
         </entry>
 
@@ -812,12 +812,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             ValidatorSuppress("dah-entry-no-consumed")
 
             Contains(MusicVocalImageContainFactor) {
-                Contains("M-VGMDB-AL-104266-6")
-                Contains("M-VGMDB-AL-61982")
-                Contains("M-VGMDB-AL-105612")
-                Contains("M-VGMDB-AL-86315-3")
+                <contains id="M-VGMDB-AL-104266-6" />
+                <contains id="M-VGMDB-AL-61982" />
+                <contains id="M-VGMDB-AL-105612" />
+                <contains id="M-VGMDB-AL-86315-3" />
                 <!-- when you realized that something is missing -->
-                Contains("M-VGMDB-AL-76155")
+                <contains id="M-VGMDB-AL-76155" />
             }
         </entry>
 

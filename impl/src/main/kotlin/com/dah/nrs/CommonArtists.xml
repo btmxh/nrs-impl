@@ -23,12 +23,12 @@
         Contains("M-20220211T055120", 1.0 / 4)
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-54418-1")
-            Contains("M-VGMDB-AL-55364-3")
+            <contains id="M-VGMDB-AL-54418-1" />
+            <contains id="M-VGMDB-AL-55364-3" />
 
             //sora yori group
             Contains(1.0 / 4.0) {
-                Contains("M-VGMDB-AL-73544")
+                <contains id="M-VGMDB-AL-73544" />
             }
 
             Contains("M-VGMDB-AL-82284", 1.0 / 5.0)
@@ -39,7 +39,7 @@
 
         Contains("M-20220211T055120", 1.0 / 4)
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-63666")
+            <contains id="M-VGMDB-AL-63666" />
         }
     </entry>
 
@@ -48,7 +48,7 @@
         Contains("M-20220211T055120", 1.0 / 4)
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-53719-1")
+            <contains id="M-VGMDB-AL-53719-1" />
         }
     </entry>
 
@@ -59,7 +59,7 @@
 
         Contains(MusicVocalImageContainFactor) {
             Contains("M-VGMDB-AL-53719-1", 0.5)
-            Contains("M-VGMDB-AL-82983-5")
+            <contains id="M-VGMDB-AL-82983-5" />
         }
     </entry>
 
@@ -91,8 +91,8 @@
     <entry id="M-VGMDB-AR-13857" title="fhána"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- band, so no Contains(ImageVocalContainFactor) block -->
-        Contains("M-VGMDB-AL-62516")
-        Contains("M-VGMDB-AL-110219")
+        <contains id="M-VGMDB-AL-62516" />
+        <contains id="M-VGMDB-AL-110219" />
 
         <entry id="M-VGMDB-AL-47403" title="Hoshikuzu no Interlude / fhána"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -116,7 +116,7 @@
         Contains("M-VGMDB-AL-37130-6", 0.1)
 
         Contains("M-VGMDB-AL-49423-1", 0.2)
-        Contains("M-20221217T174507")
+        <contains id="M-20221217T174507" />
     </entry>
 
     <entry id="M-VGMDB-AR-15119" title="Scop"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -142,7 +142,7 @@
     <entry id="M-VGMDB-AR-17551" title="Shuka Saito"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-97692")
+            <contains id="M-VGMDB-AL-97692" />
         }
     </entry>
 
@@ -150,7 +150,7 @@
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-99272-3")
+            <contains id="M-VGMDB-AL-99272-3" />
         }
     </entry>
 
@@ -158,10 +158,10 @@
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-80802-2")
-            Contains("M-VGMDB-AL-87198-1")
-            Contains("M-VGMDB-AL-99272-1")
-            Contains("M-VGMDB-AL-112929-2")
+            <contains id="M-VGMDB-AL-80802-2" />
+            <contains id="M-VGMDB-AL-87198-1" />
+            <contains id="M-VGMDB-AL-99272-1" />
+            <contains id="M-VGMDB-AL-112929-2" />
         }
     </entry>
 
@@ -171,9 +171,9 @@
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-80802-8")
-            Contains("M-VGMDB-AL-87198-7")
-            Contains("M-VGMDB-AL-99272-7")
+            <contains id="M-VGMDB-AL-80802-8" />
+            <contains id="M-VGMDB-AL-87198-7" />
+            <contains id="M-VGMDB-AL-99272-7" />
         }
     </entry>
 
@@ -181,7 +181,7 @@
 
         Contains("M-VGMDB-AR-29922", NijiOldGirlContainFactor)
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-80802-10")
+            <contains id="M-VGMDB-AL-80802-10" />
         }
     </entry>
 
@@ -207,8 +207,8 @@
                 </entry>
             </entry>
 
-            Contains("M-VGMDB-AL-89431")
-            Contains("M-VGMDB-AL-95029")
+            <contains id="M-VGMDB-AL-89431" />
+            <contains id="M-VGMDB-AL-95029" />
 
             <!-- 765 MILLION ALLSTARS -->
             Contains("M-VGMDB-AR-32295", 3.0 / 51.0)
@@ -220,14 +220,14 @@
     <entry id="M-VGMDB-AR-11829" title="ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-23391")
-            Contains("M-VGMDB-AL-41292")
-            Contains("M-VGMDB-AL-89431")
+            <contains id="M-VGMDB-AL-23391" />
+            <contains id="M-VGMDB-AL-41292" />
+            <contains id="M-VGMDB-AL-89431" />
 
             <!-- colorful remixes -->
             Contains(0.5) {
-                Contains("M-20220113T184042-3")
-                Contains("M-20220113T184042-4")
+                <contains id="M-20220113T184042-3" />
+                <contains id="M-20220113T184042-4" />
             }
 
             <entry id="M-VGMDB-AL-69319" title="SHIORI / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -332,7 +332,7 @@
             </entry>
 
             Contains(0.5) {
-                Contains("M-20220317T064137-3")
+                <contains id="M-20220317T064137-3" />
             }
         }
     </entry>
@@ -406,7 +406,7 @@
     <entry id="M-VGMDB-AR-12665" title="Mikako Komatsu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-45187-1")
+            <contains id="M-VGMDB-AL-45187-1" />
         }
     </entry>
 
@@ -446,14 +446,14 @@
         Contains(MusicVocalImageContainFactor) {
             <!-- oregairu songs -->
             Contains(0.5) {
-                Contains("M-VGMDB-AL-37999-1")
-                Contains("M-VGMDB-AL-51394-1")
-                Contains("M-VGMDB-AL-96290-1")
+                <contains id="M-VGMDB-AL-37999-1" />
+                <contains id="M-VGMDB-AL-51394-1" />
+                <contains id="M-VGMDB-AL-96290-1" />
             }
 
             //sora yori group
             Contains(1.0 / 4.0) {
-                Contains("M-VGMDB-AL-73544")
+                <contains id="M-VGMDB-AL-73544" />
             }
         }
     </entry>
@@ -463,14 +463,14 @@
         Contains(MusicVocalImageContainFactor) {
             <!-- oregairu songs -->
             Contains(0.5) {
-                Contains("M-VGMDB-AL-37999-1")
-                Contains("M-VGMDB-AL-51394-1")
-                Contains("M-VGMDB-AL-96290-1")
+                <contains id="M-VGMDB-AL-37999-1" />
+                <contains id="M-VGMDB-AL-51394-1" />
+                <contains id="M-VGMDB-AL-96290-1" />
             }
 
             <!-- oregairu solo songs -->
-            Contains("M-VGMDB-AL-51394-3")
-            Contains("M-VGMDB-AL-37999-2")
+            <contains id="M-VGMDB-AL-51394-3" />
+            <contains id="M-VGMDB-AL-37999-2" />
 
             <entry id="M-VGMDB-AL-93329" title="Aruite Ikou! / Nao Toyama"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -539,11 +539,11 @@
         Contains(MusicVocalImageContainFactor) {
             <!-- Sanshuu Chuugaku Yuushabu (post-Sonoko) -->
             Contains(1.0 / 5.0) {
-                Contains("M-VGMDB-AL-114186")
+                <contains id="M-VGMDB-AL-114186" />
             }
             //sora yori group
             Contains(1.0 / 4.0) {
-                Contains("M-VGMDB-AL-73544")
+                <contains id="M-VGMDB-AL-73544" />
             }
 
             Contains("M-VGMDB-AL-82284", 1.0 / 5.0)
@@ -555,12 +555,12 @@
         Contains(MusicVocalImageContainFactor) {
             <!-- Sanshuu Chuugaku Yuushabu (pre-Sonoko) -->
             Contains(1.0 / 4.0) {
-                Contains("M-VGMDB-AL-47678")
+                <contains id="M-VGMDB-AL-47678" />
             }
 
             <!-- post-Sonoko -->
             Contains(1.0 / 5.0) {
-                Contains("M-VGMDB-AL-114186")
+                <contains id="M-VGMDB-AL-114186" />
             }
 
             <!-- We May Never Meet Again, But I Will Never Forget Your Voice -->
@@ -688,7 +688,7 @@
 
     <entry id="M-VGMDB-AR-26614" title="kemu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains("M-MAL-36631")
+        <contains id="M-MAL-36631" />
         Contains("M-20220205T023322-1", 0.5)
         Contains("M-20220205T023322-3", 0.25)
     </entry>
@@ -757,7 +757,7 @@
     <entry id="M-VGMDB-AR-9455" title="Larval Stage Planning"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-47402")
+            <contains id="M-VGMDB-AL-47402" />
         }
     </entry>
 
@@ -793,7 +793,7 @@
                 </entry>
             }
 
-            Contains("M-VGMDB-AL-30302-2")
+            <contains id="M-VGMDB-AL-30302-2" />
         }
     </entry>
 
@@ -838,8 +838,8 @@
         Contains("M-20220125T063355-7", 0.25)
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-95314")
-            Contains("M-VGMDB-AL-116977-11")
+            <contains id="M-VGMDB-AL-95314" />
+            <contains id="M-VGMDB-AL-116977-11" />
             Contains("M-VGMDB-AL-76155", 0.25)
             <!-- additional 0.25 because every song on this album -->
             <!-- is sung by rosia and another girl -->
@@ -860,8 +860,8 @@
         Contains("M-VGMDB-AR-32295", 1.0 / 51.0)
 
         Contains(MusicVocalImageContainFactor) {
-            Contains("M-VGMDB-AL-95313")
-            Contains("M-VGMDB-AL-45361-1")
+            <contains id="M-VGMDB-AL-95313" />
+            <contains id="M-VGMDB-AL-45361-1" />
             Contains("M-VGMDB-AL-76155-2", 0.25)
         }
     </entry>
@@ -889,12 +889,12 @@
         }
 
         Contains(MusicInstContainFactor / 3) {
-            Contains("M-VGMDB-AL-74440-6")
-            Contains("M-VGMDB-AL-108194-5")
+            <contains id="M-VGMDB-AL-74440-6" />
+            <contains id="M-VGMDB-AL-108194-5" />
         }
 
         Contains(MusicVocalContainFactor) {
-            Contains("M-VGMDB-AL-123896-5")
+            <contains id="M-VGMDB-AL-123896-5" />
         }
     </entry>
 

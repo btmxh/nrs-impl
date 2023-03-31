@@ -20,7 +20,7 @@
             <featureMusic id="M-VGMDB-AL-80253-1" />
         </entry>
 
-        Contains("M-VGMDB-AL-80253-1")
+        <contains id="M-VGMDB-AL-80253-1" />
     </entry>
 
     <entry id="M-VGMDB-AL-80253" title="Kimi no Sei / the peggies"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
