@@ -24,9 +24,9 @@
             <nei base="0.8" emotions="AP" />
 
             <!-- arc 2 rst-sb69 era -->
-            KilledBy("F-VGMDB-9540", 0.05, 0.05)
-            KilledBy("F-VGMDB-7059", 0.05, 0.05)
-            KilledBy("F-VGMDB-4499", 0.05, 0.2)
+            <killedBy id="F-VGMDB-9540" potential="0.05" effect="0.05" />
+            <killedBy id="F-VGMDB-7059" potential="0.05" effect="0.05" />
+            <killedBy id="F-VGMDB-4499" potential="0.05" effect="0.2" />
         </entry>
 
         <entry id="M-VGMDB-AL-116264" title="LEVEL / yanaginagi × THE SIXTH LIE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

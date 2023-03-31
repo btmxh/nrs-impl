@@ -33,10 +33,10 @@
         <!-- thank you based localism -->
         <!-- thank you based localism -->
         <!-- thank you based localism -->
-        <cry emotions="CP-0.8:MP-0.2" /> {
+        <cry emotions="CP-0.8:MP-0.2">
             contributors["A-MAL-52736"] = 0.5
             contributors["localism [null entry]"] = 0.5
-        }
+        </cry>
     </entry>
 
     <entry id="A-MAL-49980" title="Sugar Apple Fairy Tale"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

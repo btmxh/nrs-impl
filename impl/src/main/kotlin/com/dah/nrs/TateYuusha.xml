@@ -33,7 +33,7 @@
 
             <animeConsumedProgress status="Dropped" boredom="0.7" episodes="3" />
             <dropped />
-            KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
+            <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.75" />
             <visual type="animated" base="0.4" unique="0.2" />
         </entry>
     </entry>

@@ -18,7 +18,7 @@
 
             <animeConsumedProgress status="Completed" boredom="0.75" episodes="12" />
             <visual type="animated" base="0.25" unique="0.5" />
-            KilledBy("F-VGMDB-1945", potential = 0.5, effect = 0.75)
+            <killedBy id="F-VGMDB-1945" potential="0.5" effect="0.75" />
         </entry>
 
         <!-- then got fucked by rst's idol dystopia lol -->
@@ -36,7 +36,7 @@
             <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
             <dropped />
             <visual type="animated" base="0.25" unique="0.5" />
-            KilledBy("F-VGMDB-7059", potential = 0.2, effect = 0.75)
+            <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.75" />
         </entry>
     </entry>
 </document>

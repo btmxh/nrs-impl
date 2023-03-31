@@ -60,10 +60,12 @@
             <visual type="animated" base="0.4" unique="0.3" />
         </entry>
 
-        <nei base="0.25" emotions="AP" /> {
+        <nei base="0.25" emotions="AP">
             contributors["A-MAL-23587"] = 0.5
             contributors["A-MAL-30344"] = 0.5
-        }
+        <//entry>
+
+>
 
         <entry id="A-MAL-23587" title="The iDOLM@STER Cinderella Girls"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>

@@ -15,7 +15,7 @@
             <nei base="0.5" emotions="MP" />
             <nei base="0.25" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-45544-40" />
-            KilledBy("F-20221128T123502", potential = 0.5, effect = 1.0)
+            <killedBy id="F-20221128T123502" potential="0.5" effect="1.0" />
         </entry>
 
         <entry id="M-VGMDB-AL-45544" title="Clover Day's ORIGINAL SOUNDTRACKS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

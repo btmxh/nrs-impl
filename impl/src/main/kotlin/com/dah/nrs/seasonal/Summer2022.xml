@@ -22,8 +22,8 @@
         <!-- bye lol -->
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="4" />
         <dropped />
-        KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
+        <killedBy id="F-VGMDB-4499" potential="0.25" effect="0.1" />
+        <killedBy id="M-VGMDB-AL-76155-2" potential="0.25" effect="0.75" />
     </entry>
 
     <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -44,8 +44,8 @@
         <!-- the rescue mission succeeded let's goooooo -->
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="9" />
         <dropped />
-        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+        <killedBy id="F-VGMDB-4499" potential="0.1" effect="0.1" />
+        <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
     </entry>
 
     <entry id="A-MAL-50917" title="Prima Doll"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -74,8 +74,8 @@
 
         <!-- well this is not killed by AKM and SB69, it's more like -->
         <!-- kusunoki tomori ruined the anime -->
-        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+        <killedBy id="F-VGMDB-4499" potential="0.1" effect="0.1" />
+        <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
 
         <!-- kusunoki tomori - the prima doll destroyer -->
     </entry>
@@ -108,8 +108,8 @@
         <!-- no way they made an reference to the "mc cried" atelier bs -->
         <!-- based rosia-chan and her baits -->
         <!-- brb watching the anime of the season -->
-        KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
+        <killedBy id="F-VGMDB-4499" potential="0.1" effect="0.1" />
+        <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
     </entry>
 
     <entry id="A-MAL-50999" title="Extreme Hearts"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -143,8 +143,8 @@
         <visual type="animated" base="0.5" unique="0.1" />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
-        KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.5, effect = 0.75)
+        <killedBy id="F-VGMDB-4499" potential="0.5" effect="0.1" />
+        <killedBy id="M-VGMDB-AL-76155-2" potential="0.5" effect="0.75" />
     </entry>
 
     <entry id="A-MAL-50221" title="Shine Post"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -164,8 +164,8 @@
         <visual type="animated" base="0.4" unique="0.5" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="7" />
         <dropped />
-        KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
-        KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
+        <killedBy id="F-VGMDB-4499" potential="0.65" effect="0.1" />
+        <killedBy id="M-VGMDB-AL-76155-2" potential="0.65" effect="0.75" />
     </entry>
 
 </document>

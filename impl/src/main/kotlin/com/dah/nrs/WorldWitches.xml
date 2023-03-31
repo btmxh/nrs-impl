@@ -16,7 +16,7 @@
             <!-- haha 15 funny amirite -->
 
             <animeConsumedProgress status="Completed" boredom="0.75" episodes="12" />
-            KilledBy("F-VGMDB-694", 0.25, 0.5)
+            <killedBy id="F-VGMDB-694" potential="0.25" effect="0.5" />
             <visual type="animated" base="0.2" unique="0.75" />
         </entry>
 
@@ -41,7 +41,7 @@
             <nei base="0.75" emotions="AP" />
 
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
-            KilledBy("F-VGMDB-694", 0.25, 0.5)
+            <killedBy id="F-VGMDB-694" potential="0.25" effect="0.5" />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
@@ -70,8 +70,8 @@
             <aei base="0.8" emotions="CU-0.9:CP-0.1" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
-            KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
-            KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
+            <killedBy id="F-VGMDB-4499" potential="0.75" effect="0.1" />
+            <killedBy id="M-VGMDB-AL-76155-2" potential="0.75" effect="0.75" />
             <featureMusic id="M-VGMDB-AL-120491" />
             <featureMusic id="M-VGMDB-AL-120492" />
             <featureMusic id="M-VGMDB-AL-121418" />

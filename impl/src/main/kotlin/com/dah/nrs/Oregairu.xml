@@ -11,10 +11,10 @@
 
             <visual type="albumArt" base="0.3" unique="0.5" />
 
-            <music base="0.3" /> {
+            <music base="0.3">
                 contributors["M-VGMDB-AL-37999-1"] = 0.5
                 contributors["M-VGMDB-AL-37999-2"] = 0.5
-            }
+            </music>
 
             <entry id="$-1" title="Hello Alone">
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -31,10 +31,10 @@
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
-            <music base="0.35" /> {
+            <music base="0.35">
                 contributors["M-VGMDB-AL-51394-1"] = 0.5
                 contributors["M-VGMDB-AL-51394-3"] = 0.5
-            }
+            </music>
 
             <entry id="$-1" title="エブリデイワールド">
                 <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -63,12 +63,12 @@
         <!-- Read here for more details: -->
         <!-- http://yaharianalysis.x10host.com/ -->
         <!-- (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php) -->
-        <maxAEIPADS length="5" emotions="CU" /> {
+        <maxAEIPADS length="5" emotions="CU">
             contributors["M-VGMDB-AL-51394-3"] = 0.05
             contributors["M-VGMDB-AL-37999-2"] = 0.05
             contributors["A-MAL-14813"] = 0.1
             contributors["A-MAL-23847"] = 0.8
-        }
+        </maxAEIPADS>
 
         <!-- Hikism-Yukism -->
         Politics {
@@ -82,18 +82,18 @@
         }
 
         <!-- VSCC is pretty comfy (before Yui Depression) -->
-        <nei base="0.6" emotions="MP" /> {
+        <nei base="0.6" emotions="MP">
             contributors["A-MAL-14813"] = 0.3
             contributors["A-MAL-23847"] = 0.7
-        }
+        </nei>
 
         <!-- https://github.com/ngoduyanh/nrs-impl-kt/issues/285 -->
         <!-- tldr -->
         <!-- yui was gonna be waifu but yui depression etc etc -->
-        <waifu name="Yui Yuigahama" length="30" /> {
+        <waifu name="Yui Yuigahama" length="30">
             contributors["A-MAL-14813"] = 0.1
             contributors["A-MAL-23847"] = 0.9
-        }
+        </waifu>
 
         <entry id="A-MAL-14813" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -162,7 +162,7 @@
             <nei base="0.1" emotions="AP" />
 
             <!-- killed by lapis re lights lmao xd -->
-            KilledBy("A-MAL-37587", potential = 0.75, effect = 0.5)
+            <killedBy id="A-MAL-37587" potential="0.75" effect="0.5" />
 
             <featureMusic id="M-VGMDB-AL-96288-1" />
             <featureMusic id="M-VGMDB-AL-96290-1" />

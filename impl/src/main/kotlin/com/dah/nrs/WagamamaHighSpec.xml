@@ -13,7 +13,7 @@
             <visual type="visualNovel" base="0.7" unique="0.3" />
             <nei base="0.3" emotions="MP" />
             <nei base="0.4" emotions="AP" />
-            KilledBy("F-20221128T123502", potential = 0.25, effect = 1.0)
+            <killedBy id="F-20221128T123502" potential="0.25" effect="1.0" />
         </entry>
 
         <entry id="M-VGMDB-AL-67632" title="WAGAMAMA HIGHSPEC OC VOCAL ALBUM"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

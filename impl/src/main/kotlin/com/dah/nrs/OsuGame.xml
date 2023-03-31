@@ -638,7 +638,7 @@
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
     </entry>     <entry id="M-20221202T193602" title="Hitokoto no Kyori">
-        ValidatorSuppress("dah-entry-no-consumed")
+        <validatorSuppress rules="dah-entry-no-consumed" />
         <music base="0.45" />
         OsuSong(personal = 0.5, community = 0.0)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/667290 -->
@@ -714,7 +714,7 @@
             OsuSong(personal = 0.3, community = 0.0)
         </entry>
     </entry>     <entry id="M-20221202T191512" title="First Storm">
-        ValidatorSuppress("dah-entry-no-consumed")
+        <validatorSuppress rules="dah-entry-no-consumed" />
         <music base="0.5" />
         OsuSong(personal = 0.75, community = 0.5)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/696175 -->

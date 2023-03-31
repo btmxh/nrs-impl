@@ -330,17 +330,17 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </ref>
 
         <!-- SIP humor -->
-        <aei base="0.8" emotions="AP" /> {
+        <aei base="0.8" emotions="AP">
             contributors["A-MAL-15051"] = 0.4
             contributors["A-MAL-19111"] = 0.4
             contributors["A-MAL-24997"] = 0.2
-        }
+        </aei>
 
-        <aei base="0.25" emotions="AP" /> {
+        <aei base="0.25" emotions="AP">
             contributors["A-MAL-32526"] = 0.4
             contributors["A-MAL-34973"] = 0.4
             contributors["A-MAL-37027"] = 0.2
-        }
+        </aei>
 
         <!-- Anime -->
         <entry id="A-MAL-15051" title="Love Live! School Idol Project">
@@ -354,7 +354,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             <featureMusic id="M-VGMDB-AL-36547-1" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
@@ -369,7 +369,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             <featureMusic id="M-VGMDB-AL-34051-1" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
@@ -383,7 +383,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 54.minutes" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
@@ -398,7 +398,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-58750-1" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
-            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
@@ -414,7 +414,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-70622-1" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
-            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
@@ -427,42 +427,42 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 40.minutes" />
-            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <!-- niji arcs -->
 
         <!-- arc 1 - the girl who changed the world -->
-        <waifu name="Uehara Ayumu" from="2020-11-02" to="2021-02-15" /> {
+        <waifu name="Uehara Ayumu" from="2020-11-02" to="2021-02-15">
             contributors["A-MAL-40879"] = 0.9
             contributors["M-VGMDB-AL-102281-1"] = 0.1
-        }
+        </waifu>
 
         <!-- arc 2 - the girl without screentime -->
-        <nei base="0.8" emotions="AU-0.5:CU-0.4:AP-0.1" /> {
+        <nei base="0.8" emotions="AU-0.5:CU-0.4:AP-0.1">
             contributors["A-MAL-40879"] = 0.8
             contributors["M-VGMDB-AL-43320-8"] = 0.1
             contributors["M-VGMDB-AL-34269-7"] = 0.1
-        }
+        </nei>
 
         <!-- arc 3 - the ayumu dead people arc -->
         <!-- niji got carried hard by kano in this arc -->
-        <maxAEIPADS length="7" emotions="CU" /> {
+        <maxAEIPADS length="7" emotions="CU">
             contributors["A-MAL-40879"] = 0.6
             contributors["M-VGMDB-AL-37130-3"] = 0.4
-        }
+        </maxAEIPADS>
 
         <!-- arc 4 - and then, the world has ended -->
         <!-- "Soshite kimi ga shirazu ni" -->
         <!-- When Ayumu-era ends, I felt depressed -->
-        <maxAEIPADS length="5" emotions="CU" /> {
+        <maxAEIPADS length="5" emotions="CU">
             contributors["A-MAL-40879"] = 0.7
             contributors["M-MAL-36631-6"] = 0.15
             contributors["M-20220205T023322-1"] = 0.075
             contributors["M-20220205T023322-3"] = 0.05
             contributors["M-VGMDB-AL-89290-6"] = 0.025
-        }
+        </maxAEIPADS>
 
         <entry id="A-MAL-40879" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai">
             <source>
@@ -481,8 +481,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
 
-            KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
-            KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
+            <killedBy id="M-VGMDB-AR-11666" potential="0.3" effect="0.5" />
+            <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
 
             <featureMusic id="M-VGMDB-AL-102276-1" />
             <featureMusic id="M-VGMDB-AL-102277-1" />
@@ -515,12 +515,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <animeConsumedProgress status="Temporarily On-Hold" boredom="0.9" episodes="7" />
             <dropped />
             Meme(0.3, 6)
-            KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
-            KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
+            <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
+            <killedBy id="F-VGMDB-7059" potential="0.6" effect="1.0" />
             <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 
-        <nei base="0.75" emotions="AP" /> {
+        <nei base="0.75" emotions="AP">
             <!-- guys did you see that, it's her, my favorite school idol of all time, -->
             <!-- tsukisaka sayu! wdym by kanata konoe, who tf is that? i only know sayu! -->
             <!-- sayu is my love, she saved me from my one-year-old depression and showed -->
@@ -531,14 +531,16 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             contributors["A-MAL-48916"] = 0.5
             contributors["A-MAL-38009"] = 0.4
             contributors["GF-VGMDB-7059"] = 0.1
-        }
+        <//entry>
+
+>
 
         <!-- it has to happen -->
         <!-- sorry love live fans, rst got them -->
         <!-- i tried to watch niji in peace, but i failed -->
         <!-- the leftover hate from s1 and the heisenberg bs from s2 is just too much -->
         <!-- update: the azuna episode kinda did its thing -->
-        <nei base="-0.5" emotions="MU-0.5:AU-0.5" /> {
+        <nei base="-0.5" emotions="MU-0.5:AU-0.5">
             contributors["A-MAL-40879"] = 0.3
             contributors["A-MAL-48916"] = 0.6
             contributors["A-MAL-15051"] = 0.1 / 6
@@ -547,7 +549,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             contributors["A-MAL-32526"] = 0.1 / 6
             contributors["A-MAL-34973"] = 0.1 / 6
             contributors["A-MAL-37027"] = 0.1 / 6
-        }
+        </nei>
 
         <entry id="A-MAL-48916" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season">
             <source>
@@ -566,7 +568,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <!-- lol after all this time xddddddddddd -->
             <animeConsumedProgress status="Temporarily On-Hold" boredom="0.7" episodes="3" />
             <dropped />
-            KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
+            <killedBy id="F-VGMDB-7059" potential="0.8" effect="1.0" />
         </entry>
 
         <entry id="A-MAL-50203" title="Love Live! Superstar!! 2nd Season">
@@ -578,8 +580,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
-            KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
+            <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
+            <killedBy id="F-VGMDB-7059" potential="0.6" effect="1.0" />
             <visual type="animated" base="0.6" unique="0.25" />
             <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
         </entry>

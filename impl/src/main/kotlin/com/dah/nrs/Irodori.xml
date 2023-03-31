@@ -46,7 +46,7 @@
         </entry>
 
         <entry id="M-20220130T165739-2" title="Maware! GO! GO! CHUNITHM">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <visual type="albumArt" base="0.35" unique="0.4" />
 
@@ -68,7 +68,7 @@
         </entry>
 
         <entry id="M-20220130T165739-1" title="Irodorimidori">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <!-- times 0.6 because they are all covers -->
             <contains factor="MusicVocalImageContainFactor">

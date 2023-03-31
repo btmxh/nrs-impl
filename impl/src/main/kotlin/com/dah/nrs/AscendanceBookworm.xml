@@ -4,11 +4,11 @@
     <entry id="F-VGMDB-7638" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen">
 
         <!-- world-building ig -->
-        <aei base="0.3" emotions="AP" /> {
+        <aei base="0.3" emotions="AP">
             contributors["A-MAL-39468"] = 0.3
             contributors["A-MAL-40815"] = 0.3
             contributors["A-MAL-42429"] = 0.4
-        }
+        </aei>
 
         <entry id="A-MAL-39468" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>

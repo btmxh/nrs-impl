@@ -14,22 +14,22 @@
         </entry>
 
         <!-- drama -->
-        <aei base="0.9" emotions="CU" /> {
+        <aei base="0.9" emotions="CU">
             contributors["A-MAL-11887"] = 0.5
             contributors["A-MAL-16001"] = 0.5
-        }
+        </aei>
 
         <!-- comfy compoly -->
-        <nei base="0.1" emotions="MP" /> {
+        <nei base="0.1" emotions="MP">
             contributors["A-MAL-11887"] = 0.75
             contributors["A-MAL-16001"] = 0.25
-        }
+        </nei>
 
         <!-- plot -->
-        <aei base="0.5" emotions="AP" /> {
+        <aei base="0.5" emotions="AP">
             contributors["A-MAL-11887"] = 0.6
             contributors["A-MAL-16001"] = 0.4
-        }
+        </aei>
 
         <entry id="A-MAL-11887" title="Kokoro Connect"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>

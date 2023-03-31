@@ -40,13 +40,13 @@
         }
 
         <!-- yuyuyu's world building is somewhat scary ngl -->
-        <aei base="0.25" emotions="MU" /> {
+        <aei base="0.25" emotions="MU">
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.4
             contributors["A-MAL-34284"] = 0.05
             contributors["A-MAL-34445"] = 0.025
             contributors["A-MAL-42587"] = 0.025
-        }
+        </aei>
 
         <!-- koori chikage remained as a meme even after the death -->
         <!-- of the yuyuyu franchise (blame rst for that) -->
@@ -60,13 +60,13 @@
         }
 
         <!-- killed by rst -->
-        KilledBy("F-VGMDB-7059", potential = 0.6, effect = 0.2) {
+        <killedBy id="F-VGMDB-7059" potential="0.6" effect="0.2">
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.3
             contributors["A-MAL-34284"] = 0.06
             contributors["A-MAL-34445"] = 0.08
             contributors["A-MAL-42587"] = 0.06
-        }
+        </killedBy>
 
         <entry id="A-MAL-25519" title="Yuuki Yuuna wa Yuusha de Aru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -218,10 +218,12 @@
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
-        <waifu name="Yuuki Yuuna" length="20" /> {
+        <waifu name="Yuuki Yuuna" length="20">
             contributors["A-MAL-25519"] = 0.4
             contributors["A-MAL-34445"] = 0.4
             contributors["A-MAL-42587"] = 0.2
-        }
+        <//entry>
+
+>
     </entry>
 </document>

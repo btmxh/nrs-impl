@@ -122,10 +122,12 @@
             <featureMusic id="M-VGMDB-AL-41292-1" />
         </entry>
 
-        <waifu name="Tamaki Iroha" from="2020-02-14" to="2020-08-14" /> {
+        <waifu name="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
             contributors["A-MAL-38256"] = 0.5
             contributors["G-VGMDB-5237"] = 0.5
-        }
+        <//entry>
+
+>
 
         Meme(0.75, numDays("2020-02-15", "2020-08-15")) {
             contributors["A-MAL-38256"] = 0.4
@@ -139,11 +141,11 @@
         }
 
         <!-- magireco is kinda comfy -->
-        <nei base="0.75" emotions="MP" /> {
+        <nei base="0.75" emotions="MP">
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.4
             contributors["A-MAL-41530"] = 0.2
-        }
+        </nei>
 
         <entry id="G-VGMDB-5237" title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden">
 
@@ -240,12 +242,12 @@
             <!-- OP -->
             <featureMusic id="M-VGMDB-AL-113295-1" />
             <!-- first madomagi thing to be cucked by rst -->
-            KilledBy("F-VGMDB-7059", potential = 0.75, effect = 0.75)
+            <killedBy id="F-VGMDB-7059" potential="0.75" effect="0.75" />
         </entry>
     </entry>
 
     <entry id="M-20220113T184042-1" title="Magibeat">
-        ValidatorSuppress("dah-entry-no-consumed")
+        <validatorSuppress rules="dah-entry-no-consumed" />
 
         <contains factor="0.5">
             <entry id="M-20220113T184042-3" title="Colorful - Magibeat Remix">

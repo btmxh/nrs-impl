@@ -42,8 +42,8 @@
             <featureMusic id="M-VGMDB-AL-115724" />
 
             <!-- duopoly shithole moment -->
-            KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.25)
-            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
+            <killedBy id="F-VGMDB-4499" potential="0.25" effect="0.25" />
+            <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.75" />
         </entry>
 
         <entry id="M-VGMDB-AL-115724" title="Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

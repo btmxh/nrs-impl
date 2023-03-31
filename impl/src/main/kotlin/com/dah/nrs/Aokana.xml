@@ -18,18 +18,19 @@
             <!-- Aokana made me love Asuka for like 2 weeks -->
             <!-- which is good -->
             <!-- also there was a PADS -->
-            <pads length="1" emotions="MP" /> {
-                ValidatorSuppress("dah-lone-pads")
-            }
+            <pads length="1" emotions="MP">
+                <validatorSuppress rules="dah-lone-pads" />
+            </pads>
             <waifu name="Kurashina Asuka" from="2021-06-02" to="2021-06-16" />
 
             <featureMusic id="M-VGMDB-AL-52834" />
 
             <visual type="visualNovel" base="0.8" unique="0.1" />
 
+            <killedBy id="" potential="" effect=""></killedBy>
             <!-- idk what is this ngl -->
             Meme(0.8, 25)
-            KilledBy("V-VNDB-27448", 0.1, 0.1)
+            <killedBy id="V-VNDB-27448" potential="0.1" effect="0.1" />
         </entry>
 
         <entry id="M-VGMDB-AL-52834" title="Ao no Kanata no Four Rhythm Vocal & Sound Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -51,7 +52,7 @@
     </entry>
 
     <entry id="M-20221202T205008" title="Wings of Courage -Sora o Koete- (Epsilon Remix)">
-        ValidatorSuppress("dah-entry-no-consumed")
+        <validatorSuppress rules="dah-entry-no-consumed" />
         <music base="0.6" />
         OsuSong(personal = 0.3, community = 0.0)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1358513 -->
@@ -59,7 +60,7 @@
     </entry>
 
     <entry id="M-20221202T210558" title="Contrail ~Kiseki~ (Epsilon Remix)">
-        ValidatorSuppress("dah-entry-no-consumed")
+        <validatorSuppress rules="dah-entry-no-consumed" />
         <music base="0.6" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/461966 -->
         <musicConsumedProgress length="5:50" />

@@ -4,10 +4,10 @@
     <entry id="F-VGMDB-4168" title="NEW GAME!">
 
         <!-- humor -->
-        <aei base="0.25" emotions="AP" /> {
+        <aei base="0.25" emotions="AP">
             contributors["A-MAL-31953"] = 0.5
             contributors["A-MAL-34914"] = 0.5
-        }
+        </aei>
 
         Meme(0.2, 2) {
             contributors["A-MAL-31953"] = 0.5
@@ -53,7 +53,7 @@
         </entry>
 
         <entry id="M-20220317T064137-2" title="fourfolium">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-58627" />

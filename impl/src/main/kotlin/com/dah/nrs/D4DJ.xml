@@ -17,11 +17,11 @@
             <visual type="animated" base="0.4" unique="0.75" />
             <featureMusic id="M-VGMDB-AL-107257" />
             <featureMusic id="M-VGMDB-AL-108580-2" />
-            KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.2)
+            <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.2" />
         </entry>
 
         <entry id="M-20220823T115611" title="Happy Around!">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-107257" />
@@ -41,7 +41,7 @@
         <!-- wtf -->
         <entry id="M-VGMDB-AL-108580" title="D4DJ Special Disc Photon Maiden Ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            ValidatorSuppress("dah-visualless-entry")
+            <validatorSuppress rules="dah-visualless-entry" />
             <entry id="$-2" title="Brand New World"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 <musicConsumedProgress length="4:06" /> <!-- impl_overridden -->

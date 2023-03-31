@@ -18,7 +18,7 @@
             <animeConsumedProgress status="Completed" boredom="0.6" episodes="12" />
             <featureMusic id="M-VGMDB-AL-113531" />
             <featureMusic id="M-VGMDB-AL-113660" />
-            KilledBy("A-MAL-41530", 0.2, 0.5)
+            <killedBy id="A-MAL-41530" potential="0.2" effect="0.5" />
         </entry>
 
         <!-- Kano's friend's album lol -->

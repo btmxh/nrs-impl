@@ -89,16 +89,16 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     <!-- rst has changed da world. -->
 
     <!-- overture: shelter incident -->
-    <aei base="0.5" emotions="CP" /> {
+    <aei base="0.5" emotions="CP">
         contributors["M-VGMDB-AL-89363-2"] = 0.4
         contributors["A-MAL-38009"] = 0.6
-    }
+    </aei>
 
     <!-- ed visual slaps -->
-    <aei base="0.25" emotions="CP" /> {
+    <aei base="0.25" emotions="CP">
         contributors["M-VGMDB-AL-78532-1"] = 0.25
         contributors["A-MAL-38009"] = 0.75
-    }
+    </aei>
 
     <entry id="F-VGMDB-7059" title="Re:STAGE!">
 
@@ -181,9 +181,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- the re stage niji incident -->
 <!--            <pads length="5" emotions="MP" /> -->
             <!-- rare occurrence of a PADS without accompanying AEI -->
-            <pads length="1" emotions="MP" /> {
-                ValidatorSuppress("dah-lone-pads")
-            }
+            <pads length="1" emotions="MP">
+                <validatorSuppress rules="dah-lone-pads" />
+            </pads>
 
             <!-- 4chan loved rst, which is heartwarming af -->
             <aei base="0.3" emotions="MP" />
@@ -235,6 +235,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="12" />
 
+            <regularImpact>
+                <meta key="description" value="OvertuRe: CG"></meta>
+            </regularImpact>
             Impact {
                 description = "OvertuRe: CG"
                 score = vector {
@@ -642,7 +645,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- this is just too funny xdddddddddddddddddd -->
             <!-- lesson: you can never predict rst lore -->
 
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-89364-3" />
@@ -679,7 +682,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         </entry>
 
         <entry id="M-20220117T170733-5" title="Stellamaris">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-82369-1" />
@@ -688,7 +691,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         </entry>
 
         <entry id="M-20220117T170733-6" title="TROIS ANGES">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-104673-3" />
@@ -708,7 +711,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         </entry>
 
         <entry id="M-20220117T170733-7" title="Tetrarkhia">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-78515" />
@@ -901,7 +904,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         </entry>
 
         <entry id="M-20220317T064137-4" title="Re:STAGE! ALL IDOL">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-109271-48" />
@@ -1014,21 +1017,23 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             AllRstTracks.keys.forEach { Feature<music base="it" /> }
         </entry>
 
-        KilledBy("F-VGMDB-4499", potential = 0.4, effect = 0.9) {
+        <killedBy id="F-VGMDB-4499" potential="0.4" effect="0.9">
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
-        }
+        <//entry>
+
+>
 
         <!-- r/osuplace stuff -->
-        KilledBy("M-20220410T181408", potential = 0.4, effect = 0.9) {
+        <killedBy id="M-20220410T181408" potential="0.4" effect="0.9">
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
-        }
+        </killedBy>
 
-        KilledBy("O-20220415T155427", potential = 0.2, effect = 0.75) {
+        <killedBy id="O-20220415T155427" potential="0.2" effect="0.75">
             contributors["A-MAL-38009"] = 0.8
             contributors["GF-VGMDB-7059"] = 0.2
-        }
+        </killedBy>
 
         NeoErogeEra(0.1)
     </entry>
@@ -1062,14 +1067,16 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
         <!-- as always (low potential because rst actually helped oshibudo tho, -->
         <!-- but it's still a kill) -->
-        KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
+        <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.5" />
     </entry>
 
-    <aei base="1.0" emotions="CP-0.9:MP-0.1" /> {
+    <aei base="1.0" emotions="CP-0.9:MP-0.1">
         contributors["A-MAL-37890"] = 0.5
         contributors["A-MAL-38009"] = 0.45
         contributors["GF-VGMDB-7059"] = 0.05
-    }
+    <//entry>
+
+>
 
     <entry id="M-20220507T131634" title="Re:STAGE! Songs Compilation">
         <!-- kek 69 min song comp -->

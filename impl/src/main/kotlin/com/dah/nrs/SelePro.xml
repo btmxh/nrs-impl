@@ -16,12 +16,12 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.5" unique="0.3" />
 
-            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
-            KilledBy("F-VGMDB-3245", potential = 0.25, effect = 0.8)
+            <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.5" />
+            <killedBy id="F-VGMDB-3245" potential="0.25" effect="0.8" />
         </entry>
 
         <entry id="M-20220319T061727" title="9-tie">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-114102" />

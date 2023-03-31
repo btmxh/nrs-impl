@@ -52,10 +52,10 @@
         <!-- but <<<<<<<<<<<<<<< ortensia dark lore 1.0 visual waifu -->
         <!-- me when mc is literally going to live longer than le cat -->
         <!-- the post-modern culture meta lmfaooooooooooooo -->
-        <waifu name="Malier Escha" from="2022-08-31" to="2022-11-25" /> {
+        <waifu name="Malier Escha" from="2022-08-31" to="2022-11-25">
             contributors["A-MAL-21167"] = 0.2
             contributors["G-VGMDB-1880"] = 0.8
-        }
+        </waifu>
 
         <entry id="A-MAL-21167" title="Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -123,7 +123,7 @@
             <visual type="animated" base="0.4" unique="0.25" />
 
             <!-- ig this is killed somewhat similarly to luminous witches -->
-            KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.25)
+            <killedBy id="F-VGMDB-7059" potential="0.5" effect="0.25" />
         </entry>
 
         <entry id="M-VGMDB-AL-45361" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

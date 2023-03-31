@@ -84,52 +84,52 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- 「あの時もし...」 考えてたって -->
         <!-- The days that have passed will not come back anymore -->
         <!-- 過ぎた日々はもう 戻らないけど -->
-        <cry emotions="CU" /> {
+        <cry emotions="CU">
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2
             contributors["M-VGMDB-AL-51276"] = 0.1
-        }
-        <pads length="3" emotions="CU" /> {
+        </cry>
+        <pads length="3" emotions="CU">
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.25
             contributors["A-MAL-32038"] = 0.25
-            ValidatorSuppress("dah-lone-pads")
-        }
+            <validatorSuppress rules="dah-lone-pads" />
+        </pads>
 
-        <aei base="0.5" emotions="AP" /> {
+        <aei base="0.5" emotions="AP">
             contributors["A-MAL-27441"] = 0.5
             contributors["A-MAL-32038"] = 0.5
-        }
+        </aei>
 
-        <aei base="0.2" emotions="AP" /> {
+        <aei base="0.2" emotions="AP">
             contributors["A-MAL-40763"] = 0.6
             contributors["A-MAL-41520"] = 0.4
-        }
+        </aei>
 
-        <waifu name="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10" /> {
+        <waifu name="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10">
             contributors["A-MAL-27441"] = 0.35
             contributors["A-MAL-32038"] = 0.35
             contributors["A-MAL-40763"] = 0.05
             contributors["A-MAL-41520"] = 0.2
             contributors["G-VGMDB-8429"] = 0.05
-        }
+        </waifu>
 
-        KilledBy("F-VGMDB-7059", potential = 0.4, effect = 0.75) {
+        <killedBy id="F-VGMDB-7059" potential="0.4" effect="0.75">
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2
             contributors["A-MAL-40763"] = 0.2
             contributors["A-MAL-41520"] = 0.2
             contributors["G-VGMDB-8429"] = 0.2
-        }
+        </killedBy>
 
-        KilledBy("O-20220415T155427", potential = 0.2, effect = 0.75) {
+        <killedBy id="O-20220415T155427" potential="0.2" effect="0.75">
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2
             contributors["A-MAL-40763"] = 0.2
             contributors["A-MAL-41520"] = 0.2
             contributors["G-VGMDB-8429"] = 0.2
-        }
+        </killedBy>
 
         <entry id="A-MAL-27441" title="Show By Rock!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -199,7 +199,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- the screentime thing -->
             <!-- mashu mp farm got fucked by the existence of the cat -->
             <!-- and pmgc -->
-            KilledBy("M-20220125T063355-2", potential = 0.75, effect = 0.75)
+            <killedBy id="M-20220125T063355-2" potential="0.75" effect="0.75" />
             <visual type="animated" base="0.65" unique="0.4" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -384,15 +384,15 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <!-- "visual"s of hiromemes and mashiro start line are good -->
-        <nei base="0.5" emotions="MP" /> {
+        <nei base="0.5" emotions="MP">
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-1"] = 0.25
-        }
+        </nei>
 
-        <aei base="0.5" emotions="CP" /> {
+        <aei base="0.5" emotions="CP">
             contributors["A-MAL-40763"] = 0.75
             contributors["M-VGMDB-AL-93440-3"] = 0.25
-        }
+        </aei>
 
         <entry id="M-VGMDB-AL-93440" title="Hiromenes/Kimi no Rhapsody / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -516,11 +516,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <!-- truly the cultural era of all time -->
 
                 <!-- "run with all our might" -->
-                <nei base="0.8" emotions="CP" /> {
+                <nei base="0.8" emotions="CP">
                     contributors["M-VGMDB-AL-104267-3"] = 0.2
                     contributors["O-20221003T175501-2"] = 0.2
                     contributors["V-VNDB-17516"] = 0.6
-                }
+                </nei>
             </entry>
 
             <entry id="$-5" title="EMPIRE DOMINATOR"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -588,7 +588,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- this thing: -->
             <!-- https://medium-media.vgm.io/albums/81/104418/104418-9cc8d5c0abf7.jpg -->
             <!-- is from the blu-ray, so it doesn't count -->
-            ValidatorSuppress("dah-visualless-entry")
+            <validatorSuppress rules="dah-visualless-entry" />
 
             <!-- also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno) -->
             <entry id="$-1" title="グッデイバイデイ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -761,7 +761,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-20220125T063355-2" title="Plasmagica">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-94913" />
@@ -779,7 +779,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-20220125T063355-3" title="Tsurezurenaru Ayatsuri Mugenan">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-51278" />
@@ -787,7 +787,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-20220125T063355-4" title="Mashumairesh!!">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-93440" />
@@ -800,7 +800,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-20220125T063355-5" title="BUD VIRGIN LOGIC">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-61940" />
@@ -809,7 +809,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-20220125T063355-7" title="Criticrista">
-            ValidatorSuppress("dah-entry-no-consumed")
+            <validatorSuppress rules="dah-entry-no-consumed" />
 
             <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-104266-6" />
@@ -874,7 +874,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
     </ref>
 
     <entry id="M-20221127T140645" title="Bibibeach Bibibibeach! (411 Socacore Remix)">
-        ValidatorSuppress("dah-entry-no-consumed")
+        <validatorSuppress rules="dah-entry-no-consumed" />
         <music base="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092567 -->
         <musicConsumedProgress length="4:32" />

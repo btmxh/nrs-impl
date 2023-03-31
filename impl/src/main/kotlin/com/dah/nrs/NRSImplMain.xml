@@ -446,7 +446,7 @@ fun main() =
             </source>
             <bestGirl name="Maple" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            KilledBy("F-VGMDB-1945", 0.2, 0.5)
+            <killedBy id="F-VGMDB-1945" potential="0.2" effect="0.5" />
             <animeConsumedProgress status="Dropped" boredom="0.7" episodes="2" />
             <dropped />
             <visual type="animated" base="0.5" unique="0.2" />
@@ -512,7 +512,7 @@ fun main() =
             <!-- skipping out class etc.)" -->
             <!-- ADA foreshadowing lol -->
             <maxAEIPADS length="2" emotions="CP" />
-            KilledBy("F-VGMDB-2588", 0.75, 0.3)
+            <killedBy id="F-VGMDB-2588" potential="0.75" effect="0.3" />
         </entry>
 
         <entry id="A-MAL-40550" title="Assault Lily: Bouquet">
@@ -546,7 +546,7 @@ fun main() =
             <visual type="animated" base="0.4" unique="0.3" />
             <animeConsumedProgress status="Dropped" boredom="0.8" episodes="6" />
             <dropped />
-            KilledBy("F-VGMDB-2588", 0.5, 0.5)
+            <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.5" />
             <!-- observism and the COP -->
             Politics {}
         </entry>
@@ -581,7 +581,7 @@ fun main() =
 
             <visual type="animated" base="0.4" unique="0.5" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
-            KilledBy("F-VGMDB-2588", 0.5, 0.3)
+            <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.3" />
             <!-- plot is very good -->
             <aei base="0.4" emotions="AP" />
         </entry>
@@ -598,7 +598,7 @@ fun main() =
             <visual type="animated" base="0.6" unique="0.4" />
             <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
             <dropped />
-            KilledBy("F-VGMDB-2588", 0.6, 0.5)
+            <killedBy id="F-VGMDB-2588" potential="0.6" effect="0.5" />
         </entry>
 
         Aipura()
@@ -620,7 +620,7 @@ fun main() =
             <visual type="animated" base="0.4" unique="0.4" />
             <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
             <dropped />
-            KilledBy("A-MAL-41530", 0.2, 0.5)
+            <killedBy id="A-MAL-41530" potential="0.2" effect="0.5" />
         </entry>
 
         <entry id="A-MAL-46093" title="Shiroi Suna no Aquatope">
@@ -636,7 +636,7 @@ fun main() =
             <visual type="animated" base="0.3" unique="0.7" />
             <animeConsumedProgress status="Dropped" boredom="0.6" episodes="16" />
             <dropped />
-            KilledBy("A-MAL-41530", 0.1, 0.4)
+            <killedBy id="A-MAL-41530" potential="0.1" effect="0.4" />
         </entry>
 
         <entry id="A-MAL-40904" title="Bokutachi no Remake">
@@ -652,7 +652,7 @@ fun main() =
             <!-- and just march on with its plot -->
             <visual type="animated" base="0.5" unique="0.3" />
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
-            KilledBy("A-MAL-41530", 0.2, 0.2)
+            <killedBy id="A-MAL-41530" potential="0.2" effect="0.2" />
             <featureMusic id="M-VGMDB-AL-111089-5" />
         </entry>
 
@@ -675,7 +675,7 @@ fun main() =
             <dropped />
 
             <visual type="animated" base="0.6" unique="0.4" />
-            KilledBy("A-MAL-41530", 0.1, 0.3)
+            <killedBy id="A-MAL-41530" potential="0.1" effect="0.3" />
 
             <!-- lol -->
             <aei base="0.5" emotions="AU-0.5:AP-0.5" />
@@ -693,8 +693,8 @@ fun main() =
             <!-- this initially was dropped, but rewatched in the remod era, hence the low boredom value -->
             <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
             <visual type="animated" base="0.5" unique="0.4" />
-            KilledBy("F-VGMDB-3245", 0.1, 0.2)
-            KilledBy("F-VGMDB-7059", 0.1, 0.2)
+            <killedBy id="F-VGMDB-3245" potential="0.1" effect="0.2" />
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.2" />
             <nei base="0.8" emotions="AP to 1.0" />
         </entry>
 
@@ -713,8 +713,8 @@ fun main() =
             <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
             <dropped />
             <visual type="animated" base="0.3" unique="0.6" />
-            KilledBy("F-VGMDB-3245", 0.2, 0.2)
-            KilledBy("F-VGMDB-7059", 0.2, 0.2)
+            <killedBy id="F-VGMDB-3245" potential="0.2" effect="0.2" />
+            <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.2" />
         </entry>
 
         <entry id="A-MAL-48644" title="Gyakuten Sekai no Denchi Shoujo">
@@ -730,8 +730,8 @@ fun main() =
             <aei base="0.5" emotions="MP-0.5:AP-0.5" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.3" />
-            KilledBy("F-VGMDB-3245", 0.3, 0.15)
-            KilledBy("F-VGMDB-7059", 0.3, 0.15)
+            <killedBy id="F-VGMDB-3245" potential="0.3" effect="0.15" />
+            <killedBy id="F-VGMDB-7059" potential="0.3" effect="0.15" />
         </entry>
 
         Tenshi3P()

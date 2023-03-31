@@ -10,12 +10,12 @@
         <!-- this is what happen when you combine -->
         <!-- atmospheric farming with idolshit -->
         <!-- also watch rst -->
-        <aei base="0.0" emotions="CU-0.5:CP-0.5" /> {
+        <aei base="0.0" emotions="CU-0.5:CP-0.5">
             contributors["A-MAL-21189"] = 0.75
             contributors["A-MAL-19023"] = 0.2
             contributors["A-MAL-38009"] = 0.04
             contributors["GF-VGMDB-7059"] = 0.01
-        }
+        </aei>
 
         <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -58,7 +58,7 @@
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="52.minutes" />
             <!-- partially benefitted from rst -->
-            KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
+            <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.5" />
 
             <featureMusic id="M-VGMDB-AL-46042-1" />
             <visual type="animated" base="0.4" unique="0.6" />
@@ -75,7 +75,7 @@
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="53.minutes" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <featureMusic id="M-VGMDB-AL-42945-1" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
@@ -90,7 +90,7 @@
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="54.minutes" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
@@ -104,7 +104,7 @@
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="53.minutes" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
@@ -119,7 +119,7 @@
             <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
-            KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
+            <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.3" unique="0.6" />
         </entry>
     </entry>

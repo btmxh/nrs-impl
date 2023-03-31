@@ -16,7 +16,7 @@
             <visual type="animated" base="0.4" unique="0.6" />
             <animeConsumedProgress status="Dropped" boredom="0.8" episodes="1" />
             <dropped />
-            KilledBy("F-VGMDB-2588", 0.2, 0.5)
+            <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
             <featureMusic id="M-VGMDB-AL-104618" />
         </entry>
 
