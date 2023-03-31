@@ -14,7 +14,7 @@
             Visual(VisualKind.VisualNovel, 0.6, 0.4)
             NEI(0.5, Emotion.MP)
             NEI(0.25, Emotion.AP)
-            FeatureMusic("M-VGMDB-AL-45544-40")
+            <featureMusic id="M-VGMDB-AL-45544-40" />
             KilledBy("F-20221128T123502", potential = 0.5, effect = 1.0)
         </entry>
 

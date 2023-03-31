@@ -100,10 +100,10 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
-            FeatureMusic("M-VGMDB-AL-23391-1")
-            FeatureMusic("M-VGMDB-AL-30302-2")
-            FeatureMusic("M-VGMDB-AL-24725-4")
-            FeatureMusic("M-VGMDB-AL-39170-2")
+            <featureMusic id="M-VGMDB-AL-23391-1" />
+            <featureMusic id="M-VGMDB-AL-30302-2" />
+            <featureMusic id="M-VGMDB-AL-24725-4" />
+            <featureMusic id="M-VGMDB-AL-39170-2" />
         </entry>
 
         <entry id="A-MAL-11981" title="Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -119,7 +119,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.7, 1, 1.hours + 56.minutes)
             Visual(VisualKind.Animated, 0.35, 0.6)
 
-            FeatureMusic("M-VGMDB-AL-41292-1")
+            <featureMusic id="M-VGMDB-AL-41292-1" />
         </entry>
 
         Waifu("Tamaki Iroha", "2020-02-14" to "2020-08-14") {
@@ -163,9 +163,9 @@
             <!-- Gate-opened gacha games (there is only re step in NRS tho) -->
             GateOpen("GF-VGMDB-7059")
 
-            FeatureMusic("M-VGMDB-AL-69147-11")
-            FeatureMusic("M-VGMDB-AL-89431-1")
-            FeatureMusic("M-VGMDB-AL-91985-1")
+            <featureMusic id="M-VGMDB-AL-69147-11" />
+            <featureMusic id="M-VGMDB-AL-89431-1" />
+            <featureMusic id="M-VGMDB-AL-91985-1" />
         </entry>
 
         <entry id="A-MAL-38256" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -190,7 +190,7 @@
             GateOpen("G-VGMDB-5237")
             GateOpen("GF-VGMDB-7059")
 
-            FeatureMusic("M-VGMDB-AL-95029-1")
+            <featureMusic id="M-VGMDB-AL-95029-1" />
         </entry>
 
         <entry id="A-MAL-41530" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -217,7 +217,7 @@
             }
 
             <!-- OP -->
-            FeatureMusic("M-VGMDB-AL-113295-1")
+            <featureMusic id="M-VGMDB-AL-113295-1" />
         </entry>
 
         <entry id="A-MAL-49291" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -238,7 +238,7 @@
             AEI(0.5, Emotion.CU to 0.9, Emotion.MP to 0.1)
 
             <!-- OP -->
-            FeatureMusic("M-VGMDB-AL-113295-1")
+            <featureMusic id="M-VGMDB-AL-113295-1" />
             <!-- first madomagi thing to be cucked by rst -->
             KilledBy("F-VGMDB-7059", potential = 0.75, effect = 0.75)
         </entry>

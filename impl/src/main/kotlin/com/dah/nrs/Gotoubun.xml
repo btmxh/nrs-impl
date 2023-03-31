@@ -18,7 +18,7 @@
             <!-- fuwa fuwa doki doki -->
             AEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.5, 0.5)
-            FeatureMusic("M-VGMDB-AL-82284")
+            <featureMusic id="M-VGMDB-AL-82284" />
         </entry>
 
         <entry id="A-MAL-39783" title="5-toubun no Hanayome ∬"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

@@ -33,7 +33,7 @@
 
             Visual(VisualKind.Animated, 0.6, 0.75)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 52.minutes)
-            FeatureMusic("M-VGMDB-AL-87003")
+            <featureMusic id="M-VGMDB-AL-87003" />
         </entry>
 
         <entry id="M-VGMDB-AL-87003" title="Tenki no Ko / RADWIMPS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

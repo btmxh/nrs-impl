@@ -45,7 +45,7 @@
 
             <!-- yet another gacha game waiting to be dead xddd -->
             <!-- let enjoy it while it lasts -->
-            FeatureMusic("M-VGMDB-AL-126116")
+            <featureMusic id="M-VGMDB-AL-126116" />
             <!-- rob the bank xd -->
             NEI(0.8, Emotion.AP)
 

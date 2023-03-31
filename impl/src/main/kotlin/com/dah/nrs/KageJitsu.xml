@@ -47,7 +47,7 @@
             NEI(0.25, Emotion.AP) <!-- plot -->
 
             Meme(0.8, numDays("2023-03-01", "2023-03-12"))
-            FeatureMusic("M-VGMDB-AL-122851")
+            <featureMusic id="M-VGMDB-AL-122851" />
 
             <!-- the 7 shadow art is meh but that individual saved the anime -->
             Visual(VisualKind.Animated, 0.6, 0.4)

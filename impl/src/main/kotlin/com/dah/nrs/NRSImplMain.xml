@@ -531,7 +531,7 @@ fun main() =
             <!-- thank you based shaft -->
             Visual(VisualKind.Animated, 0.6, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            FeatureMusic("M-VGMDB-AL-101643-1")
+            <featureMusic id="M-VGMDB-AL-101643-1" />
         </entry>
 
         <entry id="A-MAL-40571" title="Majo no Tabitabi">
@@ -653,7 +653,7 @@ fun main() =
             Visual(VisualKind.Animated, 0.5, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             KilledBy("A-MAL-41530", 0.2, 0.2)
-            FeatureMusic("M-VGMDB-AL-111089-5")
+            <featureMusic id="M-VGMDB-AL-111089-5" />
         </entry>
 
         <entry id="A-MAL-44203" title="Seirei Gensouki">
@@ -748,7 +748,7 @@ fun main() =
             <!-- didn't expect mc to fall in love tho -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.2)
-            FeatureMusic("M-VGMDB-AL-51254-1")
+            <featureMusic id="M-VGMDB-AL-51254-1" />
         </entry>
 
         Kano()

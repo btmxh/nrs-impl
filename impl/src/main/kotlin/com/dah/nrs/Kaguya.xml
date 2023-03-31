@@ -51,7 +51,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 9)
             Dropped()
             Visual(VisualKind.Animated, 0.5, 0.4)
-            FeatureMusic("M-VGMDB-AL-83397-1")
+            <featureMusic id="M-VGMDB-AL-83397-1" />
             <!-- domestic kanojo war arc -->
             Meme(0.25, 90)
         </entry>

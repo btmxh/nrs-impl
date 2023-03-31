@@ -32,8 +32,8 @@
             <!-- no memes because SLN era has no memes -->
             <!-- it's just lIeN qUAn mOBiLe and dumb trendy shit -->
 
-            FeatureMusic("M-VGMDB-AL-49046-1")
-            FeatureMusic("M-VGMDB-AL-49046-18")
+            <featureMusic id="M-VGMDB-AL-49046-1" />
+            <featureMusic id="M-VGMDB-AL-49046-18" />
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 

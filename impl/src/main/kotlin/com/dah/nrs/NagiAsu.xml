@@ -42,12 +42,12 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 26)
 
-            FeatureMusic("M-VGMDB-AL-41278-1")
-            FeatureMusic("M-VGMDB-AL-41280-1")
-            FeatureMusic("M-VGMDB-AL-42900-1")
-            FeatureMusic("M-VGMDB-AL-42900-3")
-            FeatureMusic("M-VGMDB-AL-43164-1")
-            FeatureMusic("M-VGMDB-AL-45187")
+            <featureMusic id="M-VGMDB-AL-41278-1" />
+            <featureMusic id="M-VGMDB-AL-41280-1" />
+            <featureMusic id="M-VGMDB-AL-42900-1" />
+            <featureMusic id="M-VGMDB-AL-42900-3" />
+            <featureMusic id="M-VGMDB-AL-43164-1" />
+            <featureMusic id="M-VGMDB-AL-45187" />
         </entry>
     </entry>
 </document>

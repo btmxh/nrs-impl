@@ -60,7 +60,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.2)
 
-            FeatureMusic("M-VGMDB-AL-42762-1")
+            <featureMusic id="M-VGMDB-AL-42762-1" />
         </entry>
 
         <entry id="A-MAL-35608" title="Chuunibyou demo Koi ga Shitai! Movie: Take On Me"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

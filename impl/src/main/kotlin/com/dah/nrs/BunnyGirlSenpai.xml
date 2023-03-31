@@ -17,7 +17,7 @@
             <!-- plot kinda ok -->
             NEI(0.5, Emotion.AP)
             Visual(VisualKind.Animated, 0.6, 0.15)
-            FeatureMusic("M-VGMDB-AL-80253-1")
+            <featureMusic id="M-VGMDB-AL-80253-1" />
         </entry>
 
         Contains("M-VGMDB-AL-80253-1")

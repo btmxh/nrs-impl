@@ -87,7 +87,7 @@
             <!-- no clip this time -->
             Cry(Emotion.MP)
 
-            FeatureMusic("M-VGMDB-AL-47678-1")
+            <featureMusic id="M-VGMDB-AL-47678-1" />
 
             <!-- Second anime (after Sora no Method) to (be able to) -->
             <!-- use OP/ED visual + music to strengthen the sadness. -->
@@ -153,7 +153,7 @@
             <!-- she looked like best girl ngl -->
             <bestGirl name="Mimori Tougou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            FeatureMusic("M-VGMDB-AL-69821-1")
+            <featureMusic id="M-VGMDB-AL-69821-1" />
             <!-- gin's death (the consequences of the ortensia incident) -->
             <!-- and sonoko spamming magia are sad -->
             <!-- but my pepega ass doesn't watch this shit properly ffs -->
@@ -212,7 +212,7 @@
             <!-- YLIA flashbacks -->
             NEI(0.75, Emotion.CU)
 
-            FeatureMusic("M-VGMDB-AL-114186-2")
+            <featureMusic id="M-VGMDB-AL-114186-2" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             Visual(VisualKind.Animated, 0.3, 0.5)

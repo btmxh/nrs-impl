@@ -14,8 +14,8 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 00.8, 13)
             Visual(VisualKind.Animated, 0.8, 0.3)
-            FeatureMusic("M-VGMDB-AL-93329-1")
-            FeatureMusic("M-VGMDB-AL-93338-1")
+            <featureMusic id="M-VGMDB-AL-93329-1" />
+            <featureMusic id="M-VGMDB-AL-93338-1" />
         </entry>
 
         Contains("M-VGMDB-AL-93329-1")

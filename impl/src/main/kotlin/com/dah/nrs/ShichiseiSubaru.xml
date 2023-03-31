@@ -20,7 +20,7 @@
 
             Visual(VisualKind.Animated, 0.6, 0.2)
 
-            FeatureMusic("M-VGMDB-AL-78478-1")
+            <featureMusic id="M-VGMDB-AL-78478-1" />
         </entry>
 
         Contains("M-VGMDB-AL-78478-1")

@@ -17,7 +17,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             NEI(0.5, Emotion.AP)
             NEI(0.2, Emotion.CP)
-            FeatureMusic("M-VGMDB-AL-60899-1")
+            <featureMusic id="M-VGMDB-AL-60899-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-60899" title="God Save The Girls / Shino Shimoji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

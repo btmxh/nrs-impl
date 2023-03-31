@@ -118,7 +118,7 @@
             <!-- i love nio tạ so much wtf -->
             <!-- tfw you got called "tạ" but ended up literally carrying the franchise -->
 
-            FeatureMusic("M-VGMDB-AL-45361-1")
+            <featureMusic id="M-VGMDB-AL-45361-1" />
 
             Visual(VisualKind.Animated, 0.4, 0.25)
 

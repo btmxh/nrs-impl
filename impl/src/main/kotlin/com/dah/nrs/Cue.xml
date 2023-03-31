@@ -39,7 +39,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
             Visual(VisualKind.Animated, 0.5, 0.2)
 
-            FeatureMusic("M-VGMDB-AL-115724")
+            <featureMusic id="M-VGMDB-AL-115724" />
 
             <!-- duopoly shithole moment -->
             KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.25)

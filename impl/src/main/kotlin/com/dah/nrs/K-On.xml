@@ -90,8 +90,8 @@
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
-            FeatureMusic("M-VGMDB-AL-21146-9")
-            FeatureMusic("M-VGMDB-AL-22848-2")
+            <featureMusic id="M-VGMDB-AL-21146-9" />
+            <featureMusic id="M-VGMDB-AL-22848-2" />
             Visual(VisualKind.Animated, 0.65, 0.2)
         </entry>
 
@@ -105,7 +105,7 @@
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
-            FeatureMusic("M-VGMDB-AL-21146-9")
+            <featureMusic id="M-VGMDB-AL-21146-9" />
             Visual(VisualKind.Animated, 0.65, 0.2)
         </entry>
     </entry>

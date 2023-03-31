@@ -23,7 +23,7 @@
             }
             Waifu("Kurashina Asuka", "2021-06-02" to "2021-06-16")
 
-            FeatureMusic("M-VGMDB-AL-52834")
+            <featureMusic id="M-VGMDB-AL-52834" />
 
             Visual(VisualKind.VisualNovel, 0.8, 0.1)
 

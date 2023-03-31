@@ -33,7 +33,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.7, 0.3)
 
-            FeatureMusic("M-VGMDB-AL-58627-1")
+            <featureMusic id="M-VGMDB-AL-58627-1" />
         </entry>
 
         <entry id="A-MAL-34914" title="New Game!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -49,7 +49,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             Visual(VisualKind.Animated, 0.7, 0.3)
 
-            FeatureMusic("M-VGMDB-AL-68225-1")
+            <featureMusic id="M-VGMDB-AL-68225-1" />
         </entry>
 
         <entry id="M-20220317T064137-2" title="fourfolium">

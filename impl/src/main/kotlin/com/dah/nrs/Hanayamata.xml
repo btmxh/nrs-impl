@@ -22,7 +22,7 @@
 
             <!-- first ep aei -->
             AEI(0.2, Emotion.MP to 0.3, Emotion.CP to 0.7)
-            FeatureMusic("M-VGMDB-AL-46235-1")
+            <featureMusic id="M-VGMDB-AL-46235-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-46235" title="Hana ha odore ya irohani ho / Team \">Hanayamata\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

@@ -72,9 +72,9 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)
             KilledBy("M-VGMDB-AL-76155-2", potential = 0.75, effect = 0.75)
-            FeatureMusic("M-VGMDB-AL-120491")
-            FeatureMusic("M-VGMDB-AL-120492")
-            FeatureMusic("M-VGMDB-AL-121418")
+            <featureMusic id="M-VGMDB-AL-120491" />
+            <featureMusic id="M-VGMDB-AL-120492" />
+            <featureMusic id="M-VGMDB-AL-121418" />
         </entry>
 
         <entry id="M-VGMDB-AL-116433" title="My Shining Light / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

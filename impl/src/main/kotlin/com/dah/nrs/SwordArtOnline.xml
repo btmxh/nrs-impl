@@ -12,7 +12,7 @@
             </source>
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            FeatureMusic("M-VGMDB-AL-33537-1")
+            <featureMusic id="M-VGMDB-AL-33537-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
             Visual(VisualKind.Animated, 0.4, 0.25)
         </entry>

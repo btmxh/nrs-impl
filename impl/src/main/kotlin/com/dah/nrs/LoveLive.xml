@@ -352,7 +352,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            FeatureMusic("M-VGMDB-AL-36547-1")
+            <featureMusic id="M-VGMDB-AL-36547-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
@@ -367,7 +367,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            FeatureMusic("M-VGMDB-AL-34051-1")
+            <featureMusic id="M-VGMDB-AL-34051-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
@@ -395,8 +395,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
                 <mal id="21584"/>
             </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            FeatureMusic("M-VGMDB-AL-58147-1")
-            FeatureMusic("M-VGMDB-AL-58750-1")
+            <featureMusic id="M-VGMDB-AL-58147-1" />
+            <featureMusic id="M-VGMDB-AL-58750-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
@@ -411,8 +411,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- aozora was featured in ep13 -->
-            FeatureMusic("M-VGMDB-AL-58147-1")
-            FeatureMusic("M-VGMDB-AL-70622-1")
+            <featureMusic id="M-VGMDB-AL-58147-1" />
+            <featureMusic id="M-VGMDB-AL-70622-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
             Visual(VisualKind.Animated, 0.25, 0.4)
@@ -484,10 +484,10 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             KilledBy("M-VGMDB-AR-11666", potential = 0.3, effect = 0.5)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
 
-            FeatureMusic("M-VGMDB-AL-102276-1")
-            FeatureMusic("M-VGMDB-AL-102277-1")
-            FeatureMusic("M-VGMDB-AL-102281-1")
-            FeatureMusic("M-VGMDB-AL-104783-1")
+            <featureMusic id="M-VGMDB-AL-102276-1" />
+            <featureMusic id="M-VGMDB-AL-102277-1" />
+            <featureMusic id="M-VGMDB-AL-102281-1" />
+            <featureMusic id="M-VGMDB-AL-104783-1" />
 
             <!-- NO FUCKING WAY -->
             <!-- ANOTHER CONSEQUENCE OF THE ORTENSIA INCIDENT -->

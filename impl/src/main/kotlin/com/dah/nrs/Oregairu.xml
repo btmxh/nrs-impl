@@ -109,8 +109,8 @@
             Visual(VisualKind.Animated, 0.25, 0.4)
             NEI(0.75, Emotion.AP)
 
-            FeatureMusic("M-VGMDB-AL-37932-1")
-            FeatureMusic("M-VGMDB-AL-37999")
+            <featureMusic id="M-VGMDB-AL-37932-1" />
+            <featureMusic id="M-VGMDB-AL-37999" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
         </entry>
@@ -134,9 +134,9 @@
             <!-- (basically atmospheric-CU farm) -->
             AEI(0.9, Emotion.CU)
 
-            FeatureMusic("M-VGMDB-AL-51516-1")
-            FeatureMusic("M-VGMDB-AL-51394-1")
-            FeatureMusic("M-VGMDB-AL-51394-3")
+            <featureMusic id="M-VGMDB-AL-51516-1" />
+            <featureMusic id="M-VGMDB-AL-51394-1" />
+            <featureMusic id="M-VGMDB-AL-51394-3" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
         </entry>
@@ -164,8 +164,8 @@
             <!-- killed by lapis re lights lmao xd -->
             KilledBy("A-MAL-37587", potential = 0.75, effect = 0.5)
 
-            FeatureMusic("M-VGMDB-AL-96288-1")
-            FeatureMusic("M-VGMDB-AL-96290-1")
+            <featureMusic id="M-VGMDB-AL-96288-1" />
+            <featureMusic id="M-VGMDB-AL-96290-1" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>

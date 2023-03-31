@@ -15,8 +15,8 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.75)
-            FeatureMusic("M-VGMDB-AL-107257")
-            FeatureMusic("M-VGMDB-AL-108580-2")
+            <featureMusic id="M-VGMDB-AL-107257" />
+            <featureMusic id="M-VGMDB-AL-108580-2" />
             KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.2)
         </entry>
 

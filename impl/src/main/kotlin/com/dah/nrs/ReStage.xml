@@ -216,13 +216,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- also rst abused heisenberg and cucked love live and princess connect, as well as -->
             <!-- blacklisted shit like aot or kimetsu no yaiba lmfao -->
 
-            FeatureMusic("M-VGMDB-AL-89363-1")
-            FeatureMusic("M-VGMDB-AL-89363-2")
-            FeatureMusic("M-VGMDB-AL-78532-1")
-            FeatureMusic("M-VGMDB-AL-89364-3")
-            FeatureMusic("M-VGMDB-AL-78516-1")
-            FeatureMusic("M-VGMDB-AL-78764-1")
-            FeatureMusic("M-VGMDB-AL-78515-1")
+            <featureMusic id="M-VGMDB-AL-89363-1" />
+            <featureMusic id="M-VGMDB-AL-89363-2" />
+            <featureMusic id="M-VGMDB-AL-78532-1" />
+            <featureMusic id="M-VGMDB-AL-89364-3" />
+            <featureMusic id="M-VGMDB-AL-78516-1" />
+            <featureMusic id="M-VGMDB-AL-78764-1" />
+            <featureMusic id="M-VGMDB-AL-78515-1" />
 
             <!-- rst changed da world -->
             <!-- fun fact: -->

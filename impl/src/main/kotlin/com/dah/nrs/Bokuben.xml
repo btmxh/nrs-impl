@@ -17,7 +17,7 @@
             AEI(0.75, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
-            FeatureMusic("M-VGMDB-AL-85537-1")
+            <featureMusic id="M-VGMDB-AL-85537-1" />
         </entry>
 
         <entry id="A-MAL-40004" title="Bokutachi wa Benkyou ga Dekinai!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -36,7 +36,7 @@
             AEI(0.7, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.4, 0.7)
-            FeatureMusic("M-VGMDB-AL-88884-1")
+            <featureMusic id="M-VGMDB-AL-88884-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-85537" title="Seishun Seminar/Never Give It Up!! / Study"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

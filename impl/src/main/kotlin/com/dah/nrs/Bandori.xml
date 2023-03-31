@@ -249,7 +249,7 @@
 
             Visual(VisualKind.Animated, 0.4, 0.4)
 
-            FeatureMusic("M-VGMDB-AL-63624-1")
+            <featureMusic id="M-VGMDB-AL-63624-1" />
             KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.5)
         </entry>
 
@@ -269,7 +269,7 @@
             <!-- rip -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 6)
             Dropped()
-            FeatureMusic("M-VGMDB-AL-81504-1")
+            <featureMusic id="M-VGMDB-AL-81504-1" />
             KilledBy("F-VGMDB-2588", potential = 0.2, effect = 0.5)
         </entry>
     </entry>

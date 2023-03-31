@@ -16,7 +16,7 @@
             Visual(VisualKind.Animated, 0.3, 0.75)
             <!-- "plot is good" -->
             AEI(0.25, Emotion.AP)
-            FeatureMusic("M-VGMDB-AL-87927-1")
+            <featureMusic id="M-VGMDB-AL-87927-1" />
         </entry>
 
         Contains("M-VGMDB-AL-87927-1")

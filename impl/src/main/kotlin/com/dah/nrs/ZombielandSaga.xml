@@ -31,7 +31,7 @@
             Dropped()
             Visual(VisualKind.Animated, 0.4, 0.5)
             KilledBy("V-VNDB-12849", 0.3, 0.2)
-            FeatureMusic("M-VGMDB-AL-109367")
+            <featureMusic id="M-VGMDB-AL-109367" />
         </entry>
 
         <entry id="M-VGMDB-AL-109367" title="Taiga yo Tomo ni Naite Kure/Nope!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

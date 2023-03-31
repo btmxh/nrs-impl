@@ -35,7 +35,7 @@
                 contributors["localism [null entry]"] = 0.5
             }
 
-            FeatureMusic("M-VGMDB-AL-124465-1")
+            <featureMusic id="M-VGMDB-AL-124465-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-124465" title="Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

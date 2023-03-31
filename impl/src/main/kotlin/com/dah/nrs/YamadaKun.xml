@@ -12,8 +12,8 @@
             </source>
             <bestGirl name="Urara Shiraishi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            FeatureMusic("M-VGMDB-AL-51918-1")
-            FeatureMusic("M-VGMDB-AL-52045-1")
+            <featureMusic id="M-VGMDB-AL-51918-1" />
+            <featureMusic id="M-VGMDB-AL-52045-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.5, 0.3)
         </entry>

@@ -44,7 +44,7 @@
             <!-- rip Megu-nee -->
             Cry(Emotion.CU)
             Meme(0.2, 6)
-            FeatureMusic("M-VGMDB-AL-52993-1")
+            <featureMusic id="M-VGMDB-AL-52993-1" />
 
             Visual(VisualKind.Animated, 0.6, 0.25)
 

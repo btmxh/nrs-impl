@@ -21,7 +21,7 @@
             Visual(VisualKind.Animated, 0.6, 0.4)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 44.minutes)
             AEI(0.1, Emotion.MP to 0.5, Emotion.CU to 0.5)
-            FeatureMusic("M-VGMDB-AL-99082-1")
+            <featureMusic id="M-VGMDB-AL-99082-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-99082" title="Hana ni Bourei / Yorushika"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

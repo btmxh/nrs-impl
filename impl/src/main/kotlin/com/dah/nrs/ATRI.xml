@@ -18,7 +18,7 @@
             Visual(VisualKind.VisualNovel, 0.7, 0.15)
 
             Meme(0.5, 10)
-            FeatureMusic("M-VGMDB-AL-100754")
+            <featureMusic id="M-VGMDB-AL-100754" />
         </entry>
 
         <entry id="M-VGMDB-AL-100754" title="ATRI -My Dear Moments- Original Soundtrack"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

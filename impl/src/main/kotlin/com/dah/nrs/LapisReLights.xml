@@ -20,7 +20,7 @@
             <!-- funny af, love live stands no chance -->
             EHI()
             Visual(VisualKind.Animated, 0.4, 0.2)
-            FeatureMusic("M-VGMDB-AL-104957")
+            <featureMusic id="M-VGMDB-AL-104957" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
 

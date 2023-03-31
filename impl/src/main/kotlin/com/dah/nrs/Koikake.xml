@@ -43,7 +43,7 @@
             <!-- AEI(0.5, Emotion.MP) -->
 
             NeoErogeEra(1.0)
-            FeatureMusic("M-VGMDB-AL-58596")
+            <featureMusic id="M-VGMDB-AL-58596" />
 
             <!-- sena route was so sudden wtf :sadge: :clueless: -->
             <!-- Once again, Asuiro Koi Moyou predicted the future. :clueless: -->

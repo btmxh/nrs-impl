@@ -140,10 +140,10 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             </source>
             <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            FeatureMusic("M-VGMDB-AL-51276-1")
-            FeatureMusic("M-VGMDB-AL-51278-1")
-            FeatureMusic("M-VGMDB-AL-51706-1")
-            FeatureMusic("M-VGMDB-AL-51706-2")
+            <featureMusic id="M-VGMDB-AL-51276-1" />
+            <featureMusic id="M-VGMDB-AL-51278-1" />
+            <featureMusic id="M-VGMDB-AL-51706-1" />
+            <featureMusic id="M-VGMDB-AL-51706-2" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
@@ -166,10 +166,10 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- didn't care didn't ask, and the NEI/AEI rework is here either way -->
             AEI(0.7, Emotion.MP)
 
-            FeatureMusic("M-VGMDB-AL-61217-1")
-            FeatureMusic("M-VGMDB-AL-61940-1")
-            FeatureMusic("M-VGMDB-AL-61981-1")
-            FeatureMusic("M-VGMDB-AL-61981-3")
+            <featureMusic id="M-VGMDB-AL-61217-1" />
+            <featureMusic id="M-VGMDB-AL-61940-1" />
+            <featureMusic id="M-VGMDB-AL-61981-1" />
+            <featureMusic id="M-VGMDB-AL-61981-3" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.4)
@@ -192,9 +192,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- keking -->
             NEI(0.75, Emotion.MP)
 
-            FeatureMusic("M-VGMDB-AL-93440-1")
-            FeatureMusic("M-VGMDB-AL-93440-3")
-            FeatureMusic("M-VGMDB-AL-93441-1")
+            <featureMusic id="M-VGMDB-AL-93440-1" />
+            <featureMusic id="M-VGMDB-AL-93440-3" />
+            <featureMusic id="M-VGMDB-AL-93441-1" />
 
             <!-- the screentime thing -->
             <!-- mashu mp farm got fucked by the existence of the cat -->
@@ -236,20 +236,20 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- maybe chardev happened but didn't care + didn't ask for that -->
             AdditionalImpact("the cat va sucks in this season", -0.25)
 
-            FeatureMusic("M-VGMDB-AL-104341-1")
-            FeatureMusic("M-VGMDB-AL-104341-2")
-            FeatureMusic("M-VGMDB-AL-104266-3")
-            FeatureMusic("M-VGMDB-AL-104266-6")
-            FeatureMusic("M-VGMDB-AL-104267-5")
-            FeatureMusic("M-VGMDB-AL-100087-1")
+            <featureMusic id="M-VGMDB-AL-104341-1" />
+            <featureMusic id="M-VGMDB-AL-104341-2" />
+            <featureMusic id="M-VGMDB-AL-104266-3" />
+            <featureMusic id="M-VGMDB-AL-104266-6" />
+            <featureMusic id="M-VGMDB-AL-104267-5" />
+            <featureMusic id="M-VGMDB-AL-100087-1" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.65, 0.4)
         </entry>
 
         <!-- fes a live has fhana songs lmao -->
-        FeatureMusic("M-VGMDB-AL-62516-1")
-        FeatureMusic("M-VGMDB-AL-110219-1")
+        <featureMusic id="M-VGMDB-AL-62516-1" />
+        <featureMusic id="M-VGMDB-AL-110219-1" />
 
         <entry id="M-VGMDB-AL-100087" title="How To Fly / Cyan & Howan"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 

@@ -16,7 +16,7 @@
             Visual(VisualKind.Animated, 0.5, 0.3)
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             NEI(0.5, Emotion.AP)
-            FeatureMusic("M-VGMDB-AL-40263-1")
+            <featureMusic id="M-VGMDB-AL-40263-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-40263" title="Love Lab Vol.2 Bonus CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

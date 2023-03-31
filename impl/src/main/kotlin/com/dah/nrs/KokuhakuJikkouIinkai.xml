@@ -209,8 +209,8 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 3.minutes)
             NEI(0.2, Emotion.AP)
             AEI(0.1, Emotion.MP to 0.3, Emotion.CU to 0.7)
-            FeatureMusic("M-VGMDB-AL-61577-1")
-            FeatureMusic("M-20221225T015456")
+            <featureMusic id="M-VGMDB-AL-61577-1" />
+            <featureMusic id="M-20221225T015456" />
         </entry>
 
         <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -227,7 +227,7 @@
             NEI(0.2, Emotion.AP)
             <!-- classic atm farm idk -->
             AEI(0.3, Emotion.MP to 0.3, Emotion.CU to 0.7)
-            FeatureMusic("M-VGMDB-AL-120871-5")
+            <featureMusic id="M-VGMDB-AL-120871-5" />
         </entry>
 
         <entry id="A-MAL-49692" title="Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

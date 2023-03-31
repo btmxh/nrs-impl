@@ -28,7 +28,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
             Visual(VisualKind.Animated, 0.5, 0.4)
 
-            FeatureMusic("M-VGMDB-AL-35015-1")
+            <featureMusic id="M-VGMDB-AL-35015-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-35015" title="Kimi ga Yume wo Tsuretekita / Pet na Kanojotachi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

@@ -25,8 +25,8 @@
             AEI(0.5, Emotion.CU)
 
             <!-- OP/ED very good too. -->
-            FeatureMusic("M-VGMDB-AL-47402-1")
-            FeatureMusic("M-VGMDB-AL-47403-1")
+            <featureMusic id="M-VGMDB-AL-47402-1" />
+            <featureMusic id="M-VGMDB-AL-47403-1" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             Visual(VisualKind.Animated, 0.6, 0.4)

@@ -15,7 +15,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             Visual(VisualKind.Animated, 0.6, 0.2)
             NEI(0.5, Emotion.AP)
-            FeatureMusic("M-VGMDB-AL-70621-1")
+            <featureMusic id="M-VGMDB-AL-70621-1" />
             GateOpen("F-VGMDB-3275")
         </entry>
 

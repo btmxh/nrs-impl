@@ -30,8 +30,8 @@
 
             Visual(VisualKind.Animated, 0.3, 0.5)
 
-            FeatureMusic("M-VGMDB-AL-73544-1")
-            FeatureMusic("M-VGMDB-AL-73544-2")
+            <featureMusic id="M-VGMDB-AL-73544-1" />
+            <featureMusic id="M-VGMDB-AL-73544-2" />
         </entry>
 
         <entry id="M-VGMDB-AL-73544" title="Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

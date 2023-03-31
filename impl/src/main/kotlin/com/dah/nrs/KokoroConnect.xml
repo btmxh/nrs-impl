@@ -44,7 +44,7 @@
 
             Visual(VisualKind.Animated, 0.4, 0.3)
 
-            FeatureMusic("M-VGMDB-AL-35431")
+            <featureMusic id="M-VGMDB-AL-35431" />
         </entry>
 
         <entry id="A-MAL-16001" title="Kokoro Connect: Michi Random"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
