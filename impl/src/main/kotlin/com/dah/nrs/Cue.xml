@@ -63,9 +63,9 @@
 
         <entry id="M-VGMDB-AR-33857" title="AiRBLUE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-115724" />
-            }
+            </contains>
         </entry>
     </entry>
 </document>

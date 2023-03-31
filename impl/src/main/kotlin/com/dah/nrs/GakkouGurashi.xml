@@ -17,9 +17,9 @@
         <entry id="M-20220211T055120" title="Gakuen Seikatsubu">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-52993" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-53719" title="TV Anime \">Gakkou Gurashi!\" Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

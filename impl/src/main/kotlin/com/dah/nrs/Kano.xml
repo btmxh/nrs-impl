@@ -10,7 +10,7 @@
 
     <entry id="M-VGMDB-AR-11666" title="Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-95369" title="Bambino / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.2, 0.5)
@@ -249,7 +249,7 @@
                 <music base="0.5" />
                 <musicConsumedProgress length="3:29" /> <!-- impl_overridden -->
             </entry>
-        }
+        </contains>
 
         <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
             ValidatorSuppress("dah-entry-no-consumed")

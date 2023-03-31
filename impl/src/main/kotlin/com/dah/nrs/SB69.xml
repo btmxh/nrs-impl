@@ -763,7 +763,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="M-20220125T063355-2" title="Plasmagica">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-94913" />
                 <contains id="M-VGMDB-AL-51276" />
                 <contains id="M-20220125T063355-6" factor="0.5" />
@@ -775,50 +775,50 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 <contains id="M-VGMDB-AL-104266-3" />
                 <contains id="M-VGMDB-AL-100082" />
                 <contains id="M-VGMDB-AL-116297" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-20220125T063355-3" title="Tsurezurenaru Ayatsuri Mugenan">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-51278" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-20220125T063355-4" title="Mashumairesh!!">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-93440" />
                 <contains id="M-VGMDB-AL-93441" />
                 <contains id="M-VGMDB-AL-104341-1" factor="0.5" />
                 <contains id="M-VGMDB-AL-104341-2" factor="1.0" />
                 <contains id="M-VGMDB-AL-104267-8" factor="1.0" />
                 <contains id="M-20220702T030659" factor="0.5" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-20220125T063355-5" title="BUD VIRGIN LOGIC">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-61940" />
                 <contains id="M-VGMDB-AL-104267-5" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-20220125T063355-7" title="Criticrista">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-104266-6" />
                 <contains id="M-VGMDB-AL-61982" />
                 <contains id="M-VGMDB-AL-105612" />
                 <contains id="M-VGMDB-AL-86315-3" />
                 <!-- when you realized that something is missing -->
                 <contains id="M-VGMDB-AL-76155" />
-            }
+            </contains>
         </entry>
 
         <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">

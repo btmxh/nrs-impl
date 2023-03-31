@@ -22,34 +22,34 @@
         <contains id="M-20220116T062502" factor="1.0 / 5" />
         <contains id="M-20220211T055120" factor="1.0 / 4" />
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-54418-1" />
             <contains id="M-VGMDB-AL-55364-3" />
 
             //sora yori group
-            Contains(1.0 / 4.0) {
+            <contains factor="1.0 / 4.0">
                 <contains id="M-VGMDB-AL-73544" />
-            }
+            </contains>
 
             <contains id="M-VGMDB-AL-82284" factor="1.0 / 5.0" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-15350" title="M·A·O"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains id="M-20220211T055120" factor="1.0 / 4" />
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-63666" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-16380" title="Rie Takahashi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains id="M-20220211T055120" factor="1.0 / 4" />
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-53719-1" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-15998" title="Ari Ozawa"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -57,10 +57,10 @@
         <contains id="M-20220117T170733-4" factor="1.0 / 2" />
         <contains id="M-20220211T055120" factor="1.0 / 4" />
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-53719-1" factor="0.5" />
             <contains id="M-VGMDB-AL-82983-5" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-12726" title="Ayane Sakura"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -68,9 +68,9 @@
         <contains id="M-20220116T062502" factor="1.0 / 5" />
         <contains id="M-20220125T063355-2" factor="1.0 / 4" />
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-82284" factor="1.0 / 5.0" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-13211" title="Risa Taneda"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -141,28 +141,28 @@
 
     <entry id="M-VGMDB-AR-17551" title="Shuka Saito"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-97692" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29323" title="Kaori Maeda"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-99272-3" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29640" title="Aguri Onishi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-80802-2" />
             <contains id="M-VGMDB-AL-87198-1" />
             <contains id="M-VGMDB-AL-99272-1" />
             <contains id="M-VGMDB-AL-112929-2" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-27779" title="Tomori Kusunoki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -170,24 +170,24 @@
         <!-- also that isekai anime destroyer too lmfaooooo -->
 
         <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-80802-8" />
             <contains id="M-VGMDB-AL-87198-7" />
             <contains id="M-VGMDB-AL-99272-7" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-26954" title="Chiemi Tanaka"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-80802-10" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-16469" title="TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-69147" title="TAILWIND / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.3)
@@ -214,12 +214,12 @@
             <contains id="M-VGMDB-AR-32295" factor="3.0 / 51.0" />
 
             <contains id="M-VGMDB-AL-61577" factor="MusicVocalContainFactor + MusicImageContainFactor * 0.5" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-11829" title="ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-23391" />
             <contains id="M-VGMDB-AL-41292" />
             <contains id="M-VGMDB-AL-89431" />
@@ -279,13 +279,13 @@
                     OsuSong(personal = 0.4, community = 0.0)
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-20220113T184042-2" title="tamame">
         ValidatorSuppress("dah-entry-no-consumed")
 
-        Contains(0.5) {
+        <contains factor="0.5">
             <entry id="M-20220113T184042-4" title="Colorful (tamame's apostate remix)">
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393 -->
@@ -299,12 +299,12 @@
                 <musicConsumedProgress length="6:19" /> <!-- impl_overridden -->
                 <music base="0.3" />
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-13097" title="Ray"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-41278" title="lull ~Soshite Bokura wa~ / Ray"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.15, 0.35)
@@ -331,15 +331,15 @@
                 </entry>
             </entry>
 
-            Contains(0.5) {
+            <contains factor="0.5">
                 <contains id="M-20220317T064137-3" />
-            }
-        }
+            </contains>
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-5524" title="yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-41280" title="Aqua Terrarium / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.175, 0.45)
@@ -400,23 +400,23 @@
                     <music base="0.5" />
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-12665" title="Mikako Komatsu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-45187-1" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-18208" title="Yuuki Takada"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains id="M-20220317T064137-2" factor="0.25" />
         <contains id="M-20220125T063355-1" factor="1.0 / 9.0" />
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-75344-4" factor="1.0 / 3.0" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-18231" title="Megumi Yamaguchi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -443,7 +443,7 @@
 
     <entry id="M-VGMDB-AR-6876" title="Saori Hayami"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <!-- oregairu songs -->
             Contains(0.5) {
                 <contains id="M-VGMDB-AL-37999-1" />
@@ -452,15 +452,15 @@
             }
 
             //sora yori group
-            Contains(1.0 / 4.0) {
+            <contains factor="1.0 / 4.0">
                 <contains id="M-VGMDB-AL-73544" />
-            }
-        }
+            </contains>
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-11436" title="Nao Toyama"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <!-- oregairu songs -->
             Contains(0.5) {
                 <contains id="M-VGMDB-AL-37999-1" />
@@ -481,7 +481,7 @@
                     <music base="0.4" />
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-26898" title="Akari Kito"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -512,7 +512,7 @@
 
     <entry id="M-VGMDB-AR-11958" title="Miku Sawai"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-49446" title="Colorful. / Miku Sawai"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
@@ -525,7 +525,7 @@
 
             <contains id="M-20220117T170733-1" factor="0.5" />
             <contains id="M-20220117T170733-2" factor="0.5" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-20220117T170733-3" title="kamaboko">
@@ -536,32 +536,32 @@
 
     <entry id="M-VGMDB-AR-6783" title="Kana Hanazawa"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <!-- Sanshuu Chuugaku Yuushabu (post-Sonoko) -->
-            Contains(1.0 / 5.0) {
+            <contains factor="1.0 / 5.0">
                 <contains id="M-VGMDB-AL-114186" />
-            }
+            </contains>
             //sora yori group
-            Contains(1.0 / 4.0) {
+            <contains factor="1.0 / 4.0">
                 <contains id="M-VGMDB-AL-73544" />
-            }
+            </contains>
 
             <contains id="M-VGMDB-AL-82284" factor="1.0 / 5.0" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-10253" title="Suzuko Mimori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <!-- Sanshuu Chuugaku Yuushabu (pre-Sonoko) -->
-            Contains(1.0 / 4.0) {
+            <contains factor="1.0 / 4.0">
                 <contains id="M-VGMDB-AL-47678" />
-            }
+            </contains>
 
             <!-- post-Sonoko -->
-            Contains(1.0 / 5.0) {
+            <contains factor="1.0 / 5.0">
                 <contains id="M-VGMDB-AL-114186" />
-            }
+            </contains>
 
             <!-- We May Never Meet Again, But I Will Never Forget Your Voice -->
             <entry id="M-VGMDB-AL-69821" title="Egao no Kimi e / Suzuko Mimori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -573,29 +573,29 @@
                     <music base="0.35" />
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-16166" title="Eri Inagawa"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- le cat va -->
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-20220125T063355-2" factor="1.0 / 4.0" />
             <contains id="M-VGMDB-AR-32295" factor="1.0 / 51.0" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-30564" title="Hikaru Tono"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- chao e co gai hoan tinh -->
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-20220125T063355-4" factor="1.0 / 4.0" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-26886" title="WEAVER"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <!-- lemur -->
             <entry id="M-VGMDB-AL-51918" title="Kuchizuke Diamond / WEAVER"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -607,12 +607,12 @@
                     OsuSong(personal = 0.4, community = 0.5)
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-15766" title="mimimemeMIMI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-52045" title="CANDY MAGIC / mimimemeMIMI [Yuki Takao Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <!-- yuki takao version: https://vgmdb.net/album/52045 -->
@@ -643,7 +643,7 @@
                     Remix("M-VGMDB-AL-52045-1")
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-17342" title="DAOKO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -673,7 +673,7 @@
 
     <entry id="M-VGMDB-AR-11952" title="LiSA"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-33537" title="crossing field / LiSA"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.1, 0.2)
@@ -683,7 +683,7 @@
                     <music base="0.1" />
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-26614" title="kemu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -756,9 +756,9 @@
 
     <entry id="M-VGMDB-AR-9455" title="Larval Stage Planning"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-47402" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29251" title="Yuka Iwahashi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -770,7 +770,7 @@
 
     <entry id="M-VGMDB-AR-9797" title="Aoi Yuki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <!-- petit milady -->
             Contains(1.0 / 2.0) {
                 <entry id="M-VGMDB-AL-78478" title="360° Hoshi no Orchestra / petit milady"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -794,7 +794,7 @@
             }
 
             <contains id="M-VGMDB-AL-30302-2" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29249" title="Amane Makino"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -811,7 +811,7 @@
         <!-- we live in a society -->
         <!-- we live in a society -->
         <!-- rst shills are truly on another level of stupidity -->
-        Contains(0.5) {
+        <contains factor="0.5">
             <entry id="M-20220623T082620" title="Cobalt Memories (Amane Makino ver.)">
                 <!-- https://www.youtube.com/watch?v=_IWGubxbp1k -->
 
@@ -822,7 +822,7 @@
                 <musicConsumedProgress length="4:28" />
                 <music base="0.25" />
             </entry>
-        }
+        </contains>
     </entry>
 
     <!-- if you think amanero being ranked is bad already -->
@@ -837,13 +837,13 @@
         <!-- (not the whole cricri unit) -->
         <contains id="M-20220125T063355-7" factor="0.25" />
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-95314" />
             <contains id="M-VGMDB-AL-116977-11" />
             <contains id="M-VGMDB-AL-76155" factor="0.25" />
             <!-- additional 0.25 because every song on this album -->
             <!-- is sung by rosia and another girl -->
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-14761" title="Rie Murakawa"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -859,11 +859,11 @@
         <!-- 765 -->
         <contains id="M-VGMDB-AR-32295" factor="1.0 / 51.0" />
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <contains id="M-VGMDB-AL-95313" />
             <contains id="M-VGMDB-AL-45361-1" />
             <contains id="M-VGMDB-AL-76155-2" factor="0.25" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29487" title="Takahiro Yuba"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -876,7 +876,7 @@
 
     <entry id="M-VGMDB-AR-6799" title="nayuta"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.6, 0.3)
@@ -886,22 +886,22 @@
                     Remix("M-VGMDB-AL-108194-5")
                 </entry>
             </entry>
-        }
+        </contains>
 
-        Contains(MusicInstContainFactor / 3) {
+        <contains factor="MusicInstContainFactor / 3">
             <contains id="M-VGMDB-AL-74440-6" />
             <contains id="M-VGMDB-AL-108194-5" />
-        }
+        </contains>
 
-        Contains(MusicVocalContainFactor) {
+        <contains factor="MusicVocalContainFactor">
             <contains id="M-VGMDB-AL-123896-5" />
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-8196" title="Nanahira"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         <!-- aka the hasegawa mii utaite -->
 
-        Contains(MusicVocalImageContainFactor) {
+        <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 Visual(VisualKind.AlbumArt, 0.4, 0.5)
@@ -911,7 +911,7 @@
                     <music base="0.6" />
                 </entry>
             </entry>
-        }
+        </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-30942" title="Yunomi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

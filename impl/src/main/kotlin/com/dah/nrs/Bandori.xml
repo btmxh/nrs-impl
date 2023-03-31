@@ -94,14 +94,14 @@
 
         <entry id="M-VGMDB-AR-27992" title="Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-60358" />
                 <contains id="M-VGMDB-AL-63624" />
                 <contains id="M-VGMDB-AL-81504" />
                 <contains id="M-VGMDB-AL-111089" />
                 <contains id="M-VGMDB-AL-74133" />
                 <contains id="M-VGMDB-AL-95118" />
-            }
+            </contains>
 
             <contains id="M-VGMDB-AL-106577-1" factor="0.6" />
         </entry>
@@ -118,9 +118,9 @@
 
         <entry id="M-VGMDB-AR-27993" title="Roselia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-85172" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AR-31328" title="Pastel*Palettes"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -139,17 +139,17 @@
             <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
             <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-106577-6" />
                 <contains id="M-20220130T183728-4" factor="1.0 / 3" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AR-31329" title="Hello, Happy World!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-114399-8" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-82743" title="Y.O.L.O!!!!! / Afterglow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -165,9 +165,9 @@
 
         <entry id="M-VGMDB-AR-31326" title="Afterglow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-82743" />
-            }
+            </contains>
         </entry>
 
         <!-- mixed albums -->
@@ -212,9 +212,9 @@
 
         <entry id="M-VGMDB-AR-31336" title="RAISE A SUILEN"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-101643" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-101643" title="Sacred world / RAISE A SUILEN"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

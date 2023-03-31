@@ -20,9 +20,9 @@
         <entry id="M-20220116T062502" title="Petit Rabbit's">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-44890" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-55364" title="Gochuumon wa Usagi Desu ka?? Chino Character Song Album: cup of chino"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

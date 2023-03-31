@@ -488,7 +488,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
         <entry id="M-VGMDB-AR-30829" title="KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-78536" />
                 <contains id="M-VGMDB-AL-78534" />
                 <contains id="M-VGMDB-AL-78575" />
@@ -501,7 +501,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <contains id="M-VGMDB-AL-89363" />
                 <contains id="M-VGMDB-AL-104673-5" />
                 <contains id="M-VGMDB-AL-122232" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-89364" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -644,14 +644,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-89364-3" />
                 <contains id="M-VGMDB-AL-78520" />
                 <contains id="M-VGMDB-AL-78339" />
                 <contains id="M-VGMDB-AL-82983" />
                 <contains id="M-VGMDB-AL-104673-2" />
                 <contains id="M-VGMDB-AL-122926-6" />
-            }
+            </contains>
         </entry>
 
         <!-- the ortensia incident lore -->
@@ -681,18 +681,18 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220117T170733-5" title="Stellamaris">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-82369-1" />
                 <contains id="M-VGMDB-AL-104673-1" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-20220117T170733-6" title="TROIS ANGES">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-104673-3" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-78515" title="Raise Your Fist / Tetrarkhia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -710,10 +710,10 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220117T170733-7" title="Tetrarkhia">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-78515" />
                 <contains id="M-VGMDB-AL-104673-4" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-109271-48" title="私たち、四季を遊ぶんです!!">
@@ -903,9 +903,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220317T064137-4" title="Re:STAGE! ALL IDOL">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-109271-48" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-122926" title="Re:STAGE! Prism Step Concept Mini Album: Reboot"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

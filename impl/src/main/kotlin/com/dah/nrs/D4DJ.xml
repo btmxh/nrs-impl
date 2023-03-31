@@ -23,10 +23,10 @@
         <entry id="M-20220823T115611" title="Happy Around!">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-107257" />
                 <contains id="M-VGMDB-AL-108580-2" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-107257" title="Guruguru DJ TURN!! / Happy Around!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

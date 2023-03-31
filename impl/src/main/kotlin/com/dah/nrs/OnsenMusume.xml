@@ -18,11 +18,11 @@
         <entry id="M-20220125T063355-1" title="SPRiNGS">
             ValidatorSuppress("dah-entry-no-consumed")
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-75344-1" />
                 <contains id="M-VGMDB-AL-75344-5" />
                 <contains id="M-VGMDB-AL-75349" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-75344" title="Tsuioku Kaleidoscope / SPRiNGS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

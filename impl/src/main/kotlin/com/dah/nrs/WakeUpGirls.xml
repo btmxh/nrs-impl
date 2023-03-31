@@ -19,11 +19,11 @@
 
         <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Contains(MusicVocalImageContainFactor) {
+            <contains factor="MusicVocalImageContainFactor">
                 <contains id="M-VGMDB-AL-42945" />
                 <contains id="M-VGMDB-AL-46042" />
                 <contains id="M-VGMDB-AL-68276" factor="0.5" />
-            }
+            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
