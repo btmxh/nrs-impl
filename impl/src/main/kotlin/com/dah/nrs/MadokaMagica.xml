@@ -92,7 +92,7 @@
 
             <!-- 32k got killed over and over, and her lover has to -->
             <!-- time-travel everytime it happens -->
-            MaxAEIPADS(1, Emotion.CU)
+            <maxAEIPADS length="1" emotions="Emotion.CU" />
 
             <!-- Kyoko's backstory -->
             <aei base="0.9" emotions="Emotion.CU" />
@@ -153,7 +153,7 @@
             <!-- Tamaki Ui and her friends are dead, leaving -->
             <!-- Tamaki Iroha alone and (probably) depressed. -->
             <!-- This made me cry -->
-            CryPADS(5, Emotion.CU)
+            <cryPADS length="5" emotions="Emotion.CU" />
 
             <!-- Sana's backstory -->
             <!-- Basically it's very tragic. -->

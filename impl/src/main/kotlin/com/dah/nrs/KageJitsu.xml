@@ -31,7 +31,7 @@
 
             <!-- also she brought the anime a relatively light one-day PADS kekw -->
             <!-- but it kinda got out of hand :skull: -->
-            PADS(5, Emotion.CU to 0.9, Emotion.MP to 0.1) {
+            <pads length="5" emotions="Emotion.CU to 0.9, Emotion.MP to 0.1" /> {
                 contributors["A-MAL-48316"] = 0.95
                 contributors["M-VGMDB-AL-76149-1"] = 0.05
 

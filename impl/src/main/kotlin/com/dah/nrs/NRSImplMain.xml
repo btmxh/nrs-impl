@@ -511,7 +511,7 @@ fun main() =
             <!-- (basically I want to be like the girls, -->
             <!-- skipping out class etc.)" -->
             <!-- ADA foreshadowing lol -->
-            MaxAEIPADS(2, Emotion.CP)
+            <maxAEIPADS length="2" emotions="Emotion.CP" />
             KilledBy("F-VGMDB-2588", 0.75, 0.3)
         </entry>
 

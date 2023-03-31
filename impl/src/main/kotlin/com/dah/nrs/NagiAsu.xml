@@ -28,7 +28,7 @@
 
             <bestGirl name="Miuna Shiodome" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- poor best girl -->
-            MaxAEIPADS(2, Emotion.CU)
+            <maxAEIPADS length="2" emotions="Emotion.CU" />
 
             <!-- there are other relationships other than the -->
             <!-- love triangle of best girl and they did make -->

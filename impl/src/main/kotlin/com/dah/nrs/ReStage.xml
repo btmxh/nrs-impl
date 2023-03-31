@@ -179,9 +179,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- follow her pls: https://twitter.com/makinoamane -->
 
             <!-- the re stage niji incident -->
-<!--            PADS(5, Emotion.MP) -->
+<!--            <pads length="5" emotions="Emotion.MP" /> -->
             <!-- rare occurrence of a PADS without accompanying AEI -->
-            PADS(1, Emotion.MP) {
+            <pads length="1" emotions="Emotion.MP" /> {
                 ValidatorSuppress("dah-lone-pads")
             }
 

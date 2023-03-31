@@ -90,7 +90,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             contributors["A-MAL-32038"] = 0.2
             contributors["M-VGMDB-AL-51276"] = 0.1
         }
-        PADS(3, Emotion.CU) {
+        <pads length="3" emotions="Emotion.CU" /> {
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.25
             contributors["A-MAL-32038"] = 0.25
