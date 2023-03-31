@@ -103,7 +103,7 @@
                 <contains id="M-VGMDB-AL-95118" />
             }
 
-            Contains("M-VGMDB-AL-106577-1", 0.6)
+            <contains id="M-VGMDB-AL-106577-1" factor="0.6" />
         </entry>
 
         <entry id="M-VGMDB-AL-85172" title="FIRE BIRD / Roselia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -141,7 +141,7 @@
 
             Contains(MusicVocalImageContainFactor) {
                 <contains id="M-VGMDB-AL-106577-6" />
-                Contains("M-20220130T183728-4", 1.0 / 3)
+                <contains id="M-20220130T183728-4" factor="1.0 / 3" />
             }
         </entry>
 

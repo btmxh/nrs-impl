@@ -22,7 +22,7 @@
             Contains(MusicVocalImageContainFactor) {
                 <contains id="M-VGMDB-AL-42945" />
                 <contains id="M-VGMDB-AL-46042" />
-                Contains("M-VGMDB-AL-68276", 0.5)
+                <contains id="M-VGMDB-AL-68276" factor="0.5" />
             }
         </entry>
 
