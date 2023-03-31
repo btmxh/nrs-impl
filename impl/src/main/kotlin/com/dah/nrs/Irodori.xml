@@ -14,7 +14,7 @@
         <entry id="$-35" title="エンドマークに希望と涙を添えて">
             <musicConsumedProgress length="2:51" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.35" />
-            Remix("M-VGMDB-AL-93299-2")
+            <remix id="M-VGMDB-AL-93299-2" />
         </entry>
     </entry>
 

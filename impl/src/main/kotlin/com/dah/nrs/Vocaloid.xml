@@ -18,8 +18,8 @@
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
             <music base="0.425" />
             <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
-            Remix("M-20220205T023322-1")
-            Remix("M-20220205T023322-3")
+            <remix id="M-20220205T023322-1" />
+            <remix id="M-20220205T023322-3" />
         </entry>
     </entry>
 
@@ -45,7 +45,7 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
         <musicConsumedProgress length="4:23" />
         <music base="0.65" />
-        OsuSong(personal = 0.8, community = 0.0)
+        <osuSong personal="0.8" community="0.0" />
     </entry>
 
     <entry id="M-20221219T233957" title="Calc.">
@@ -117,7 +117,7 @@
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.4" />
-            OsuSong(personal = 0.5, community = 0.5)
+            <osuSong personal="0.5" community="0.5" />
         }
     </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         <visual type="albumArt" base="0.3" unique="0.3" />
@@ -179,7 +179,7 @@
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
         </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.4" />
-            OsuSong(personal = 0.5, community = 0.5)
+            <osuSong personal="0.5" community="0.5" />
         }
     </entry>   </entry>
     }

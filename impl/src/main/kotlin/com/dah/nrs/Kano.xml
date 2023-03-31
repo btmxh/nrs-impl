@@ -19,7 +19,7 @@
                     <musicConsumedProgress length="4:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
                     <nei base="0.1" emotions="MP" />
-                    Remix("M-VGMDB-AL-37130-1")
+                    <remix id="M-VGMDB-AL-37130-1" />
                 </entry>
             </entry>
 
@@ -61,7 +61,7 @@
                     <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.6" />
                     <nei base="0.2" emotions="MP" />
-                    OsuSong(personal = 0.1, community = 0.0)
+                    <osuSong personal="0.1" community="0.0" />
                 </entry>
             </entry>
 
@@ -122,7 +122,7 @@
                 <entry id="$-7" title="Walk This Way!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
-                    OsuSong(personal = 0.6, community = 0.3)
+                    <osuSong personal="0.6" community="0.3" />
                 </entry>
             </entry>
 
@@ -143,7 +143,7 @@
                     <music base="0.3" />
                     <nei base="0.1" emotions="CU" />
 
-                    Remix("M-MAL-36631-6")
+                    <remix id="M-MAL-36631-6" />
                 </entry>
             </entry>
 
@@ -243,7 +243,7 @@
 
                 <visual type="animatedMV" base="0.35" unique="0.7" />
                 <!-- 210 bpm spaced bursts -->
-                OsuSong(personal = 0.5)
+                <osuSong personal="0.5" community="0.0" />
 
                 <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
                 <music base="0.5" />
@@ -254,7 +254,7 @@
         <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
             <validatorSuppress rules="dah-entry-no-consumed" />
             <music base="0.4" />
-            OsuSong(personal = 0.6, community = 0.4)
+            <osuSong personal="0.6" community="0.4" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
             <musicConsumedProgress length="3:33" />
         </entry>
@@ -262,7 +262,7 @@
         <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
             <validatorSuppress rules="dah-entry-no-consumed" />
             <music base="0.55" />
-            OsuSong(personal = 0.7, community = 0.0)
+            <osuSong personal="0.7" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
             <musicConsumedProgress length="4:17" />
         </entry>
@@ -270,12 +270,12 @@
         <entry id="M-20221202T202421" title="Natsu no Owari, Koi no Hajimari (Kano)">
             <validatorSuppress rules="dah-entry-no-consumed" />
             <music base="0.65" />
-            OsuSong(personal = 0.0, community = 0.0)
+            <osuSong personal="0.0" community="0.0" />
             <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
             <musicConsumedProgress length="4:08" />
         </entry>
 
         <!-- kano-era -->
-        Meme(0.8, numDays("2020-11-01", "2021-04-01"))
+        <meme strength="0.8" from="2020-11-01" to="2021-04-01" />
     </entry>
 </document>

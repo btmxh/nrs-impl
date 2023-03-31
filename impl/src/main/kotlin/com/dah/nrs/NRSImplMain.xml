@@ -85,7 +85,7 @@ fun main() =
             <!-- osuhow memes -->
             <!-- This anime saved me in the Math Qualifiers lmao, -->
             <!-- and VMO2020 too. -->
-            Meme(0.3, 10)
+            <meme strength="0.3" length="10" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.3" unique="0.4" />
@@ -115,7 +115,7 @@ fun main() =
             <aei base="0.3" emotions="CU" />
 
             <!-- the first anime + Giap-Ngoc match = unlimited memes -->
-            Meme(1.0, numDays("2017-05-12" /*vietnamese premiere date*/, "2017-09-15" /*sln*/))
+            <meme strength="1.0" from="2017-05-12" /*vietnamese premiere date*/ to="2017-09-15" /*sln*/ />
 
             <!-- gate-open literally all NRS entries -->
             <!-- but it's too overkill so an impact instead -->
@@ -169,7 +169,7 @@ fun main() =
 
             <bestGirl name="Satanichia Kurumizawa McDowell" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- iToddlers BTFO -->
-            Meme(0.4, 25)
+            <meme strength="0.4" length="25" />
 
             <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
             <visual type="animated" base="0.6" unique="0.4" />
@@ -398,7 +398,7 @@ fun main() =
             <visual type="animated" base="0.3" unique="0.5" />
 
             <!-- the domestic na kanojo war lmao -->
-            Meme(0.8, 90)
+            <meme strength="0.8" length="90" />
         </entry>
 
         Gotoubun()

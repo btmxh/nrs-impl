@@ -9,7 +9,7 @@
             contributors["A-MAL-34914"] = 0.5
         </aei>
 
-        Meme(0.2, 2) {
+        <meme strength="0.2" length="2" /> {
             contributors["A-MAL-31953"] = 0.5
             contributors["A-MAL-34914"] = 0.5
         }
@@ -67,7 +67,7 @@
             <entry id="$-1" title="Now Loading!!!!">
                 <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
-                OsuSong(personal = 0.4)
+                <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
 
@@ -79,7 +79,7 @@
                 <!-- mankai step by step -->
                 <!-- this song is legendary af -->
                 <music base="0.5" />
-                OsuSong(personal = 0.8)
+                <osuSong personal="0.8" community="0.0" />
             </entry>
         </entry>
     </entry>

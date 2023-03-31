@@ -22,7 +22,7 @@
             <bestGirl name="Himeno Sena" /> <!-- oops :clueless: -->
             <!-- eroge waifu :clueless: -->
             <!-- dead? -->
-            <waifu name="Himeno Sena" from="2022-11-25" to="2022-12-31" />
+            <waifu waifu="Himeno Sena" from="2022-11-25" to="2022-12-31" />
 
             <!-- first 1.0 yay!!! the waifu method :clueless: -->
             <visual type="visualNovel" base="1.0" unique="0.3" />

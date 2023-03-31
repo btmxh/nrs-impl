@@ -48,7 +48,7 @@
             <entry id="$-2" title="One Step">
                 <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
-                OsuSong(personal = 0.4, community = 0.0)
+                <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
     </entry>

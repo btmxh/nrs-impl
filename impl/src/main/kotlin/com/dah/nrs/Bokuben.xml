@@ -46,7 +46,7 @@
             <entry id="$-1" title="Seishun Seminar">
                 <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
-                OsuSong(personal = 0.2)
+                <osuSong personal="0.2" community="0.0" />
             </entry>
         </entry>
 
@@ -57,7 +57,7 @@
             <entry id="$-1" title="Can now, Can now">
                 <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
-                OsuSong(personal = 0.1)
+                <osuSong personal="0.1" community="0.0" />
             </entry>
         </entry>
     </entry>

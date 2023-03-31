@@ -132,7 +132,7 @@
 
         <entry id="$-1" title="One In A Billion">
             <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            OsuSong(personal = 0.5, community = 0.1)
+            <osuSong personal="0.5" community="0.1" />
             <music base="0.6" />
         </entry>
     </entry>

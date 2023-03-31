@@ -140,7 +140,7 @@
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
                 <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
-                Remix("M-20221009T085407")
+                <remix id="M-20221009T085407" />
             </entry>
         </entry>
     </entry>

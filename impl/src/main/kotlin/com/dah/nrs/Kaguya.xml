@@ -12,7 +12,7 @@
             <entry id="$-1" title="Chikatto Chika Chika♡">
                 <musicConsumedProgress length="2:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
-                OsuSong(personal = 0.5, community = 0.4)
+                <osuSong personal="0.5" community="0.4" />
             </entry>
         </entry>
 
@@ -53,7 +53,7 @@
             <visual type="animated" base="0.5" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-83397-1" />
             <!-- domestic kanojo war arc -->
-            Meme(0.25, 90)
+            <meme strength="0.25" length="90" />
         </entry>
 
         <!-- these are ranked just to help to carry the AEI for s1 -->

@@ -13,7 +13,7 @@
             <!-- <bestGirl name="Satouin Reiko" /> // the sango/rosia of aokana -->
 
             <!-- the asuka route is completed -->
-            ConsumedProgress(EntryStatus.Completed, 0.9, 10.hours)
+            <consumedProgress status="Completed" boredom="0.9" duration="10:00:00" />
 
             <!-- Aokana made me love Asuka for like 2 weeks -->
             <!-- which is good -->
@@ -21,23 +21,22 @@
             <pads length="1" emotions="MP">
                 <validatorSuppress rules="dah-lone-pads" />
             </pads>
-            <waifu name="Kurashina Asuka" from="2021-06-02" to="2021-06-16" />
+            <waifu waifu="Kurashina Asuka" from="2021-06-02" to="2021-06-16" />
 
             <featureMusic id="M-VGMDB-AL-52834" />
 
             <visual type="visualNovel" base="0.8" unique="0.1" />
 
-            <killedBy id="" potential="" effect=""></killedBy>
             <!-- idk what is this ngl -->
-            Meme(0.8, 25)
+            <meme strength="0.8" length="25" />
             <killedBy id="V-VNDB-27448" potential="0.1" effect="0.1" />
         </entry>
 
-        <entry id="M-VGMDB-AL-52834" title="Ao no Kanata no Four Rhythm Vocal & Sound Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-52834" title="Ao no Kanata no Four Rhythm Vocal &amp; Sound Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- too lazy to rate every single track -->
             <music base="0.8" />
             <visual type="albumArt" base="0.2" unique="0.15" />
-            Remix("M-20221202T205008")
+            <remix id="M-20221202T205008" />
         </entry>
 
         <entry id="M-VGMDB-AL-55828" title="Contrail ~Kiseki~ / Mami Kawada"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -45,8 +44,8 @@
             <entry id="$-1" title="Contrail ~Kiseki~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />
-                OsuSong(personal = 0.75, community = 0.3)
-                Remix("M-20221202T210558")
+                <osuSong personal="0.75" community="0.3" />
+                <remix id="M-20221202T210558" />
             </entry>
         </entry>
     </entry>
@@ -54,7 +53,7 @@
     <entry id="M-20221202T205008" title="Wings of Courage -Sora o Koete- (Epsilon Remix)">
         <validatorSuppress rules="dah-entry-no-consumed" />
         <music base="0.6" />
-        OsuSong(personal = 0.3, community = 0.0)
+        <osuSong personal="0.3" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1358513 -->
         <musicConsumedProgress length="4:58" />
     </entry>

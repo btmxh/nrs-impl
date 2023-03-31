@@ -22,7 +22,7 @@
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
                 <!-- "why is the dude singing???" - some pp mapper -->
-                Meme(0.05, 6)
+                <meme strength="0.05" length="6" />
             </entry>
         </entry>
 

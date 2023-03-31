@@ -19,7 +19,7 @@
             <aei base="0.75" emotions="CU" />
 
             <!-- beasttrollminecraft -->
-            Meme(0.3, 6)
+            <meme strength="0.3" length="6" />
 
             <!-- First anime to (be able to) use OP/ED visual + music to strengthen the sadness. -->
             <aei base="0.5" emotions="CU" />

@@ -37,7 +37,7 @@
             <entry id="$-2" title="Ding Dong Holy Night♪"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />
-                OsuSong(personal = 0.5, community = 0.0)
+                <osuSong personal="0.5" community="0.0" />
             </entry>
         </entry>
     </entry>

@@ -35,7 +35,7 @@
                 <!-- [albireo princess] -->
                 <!-- hddt -->
                 <!-- haha -->
-                OsuSong(personal = 0.5, community = 0.1)
+                <osuSong personal="0.5" community="0.1" />
             </entry>
         </entry>
     </entry>

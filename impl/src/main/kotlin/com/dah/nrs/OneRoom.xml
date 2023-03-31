@@ -24,8 +24,8 @@
                 <!-- OSHIETE KURETA KIMI TO SAGASHI NI YUKOU -->
                 <!-- H A R U M A C H I   K U R O B A A A -->
                 <music base="0.35" />
-                OsuSong(personal = 0.6, community = 0.8)
-                Remix("M-20220130T185336-2")
+                <osuSong personal="0.6" community="0.8" />
+                <remix id="M-20220130T185336-2" />
             </entry>
         </entry>
 
@@ -51,6 +51,6 @@
         <!-- Length source: https://www.youtube.com/watch?v=2OfJYisHbkI -->
         <music base="0.3" />
         <musicConsumedProgress length="0:36" /> <!-- impl_overridden -->
-        OsuSong(personal = 0.6, community = 0.8)
+        <osuSong personal="0.6" community="0.8" />
     </entry>
 </document>

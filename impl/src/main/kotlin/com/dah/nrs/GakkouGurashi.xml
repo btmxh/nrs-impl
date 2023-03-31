@@ -10,7 +10,7 @@
             <entry id="$-1" title="Friend Shitai">
                 <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
-                OsuSong(personal = 0.5)
+                <osuSong personal="0.5" community="0.0" />
             </entry>
         </entry>
 
@@ -43,7 +43,7 @@
             <bestGirl name="Megumi Sakura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- rip Megu-nee -->
             <cry emotions="CU" />
-            Meme(0.2, 6)
+            <meme strength="0.2" length="6" />
             <featureMusic id="M-VGMDB-AL-52993-1" />
 
             <visual type="animated" base="0.6" unique="0.25" />

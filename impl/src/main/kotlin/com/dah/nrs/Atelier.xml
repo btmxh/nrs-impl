@@ -52,7 +52,7 @@
         <!-- but <<<<<<<<<<<<<<< ortensia dark lore 1.0 visual waifu -->
         <!-- me when mc is literally going to live longer than le cat -->
         <!-- the post-modern culture meta lmfaooooooooooooo -->
-        <waifu name="Malier Escha" from="2022-08-31" to="2022-11-25">
+        <waifu waifu="Malier Escha" from="2022-08-31" to="2022-11-25">
             contributors["A-MAL-21167"] = 0.2
             contributors["G-VGMDB-1880"] = 0.8
         </waifu>
@@ -218,7 +218,7 @@
             <entry id="$-8" title="Sky of Twilight"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="6:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />
-                OsuSong(personal = 0.5, community = 0.0)
+                <osuSong personal="0.5" community="0.0" />
             </entry>
         </entry>
     </entry>

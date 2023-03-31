@@ -24,7 +24,7 @@
                     <entry id="$-1" title="Pride Kakumei">
                         <musicConsumedProgress length="3:55" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
-                        OsuSong(personal = 0.5, community = 0.0)
+                        <osuSong personal="0.5" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -36,7 +36,7 @@
                         <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
                         <!-- monstrata's "海色 vs. アイのシナリオ" :skull: -->
-                        OsuSong(personal = 0.6, community = 0.2)
+                        <osuSong personal="0.6" community="0.2" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -47,7 +47,7 @@
                     <entry id="$-1" title="Senpai.">
                         <musicConsumedProgress length="5:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.5" />
-                        OsuSong(personal = 0.6, community = 0.0)
+                        <osuSong personal="0.6" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -58,7 +58,7 @@
                     <entry id="$-1" title="ノスタルジックレインフォール">
                         <musicConsumedProgress length="3:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.3" />
-                        OsuSong(personal = 0.3, community = 0.0)
+                        <osuSong personal="0.3" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -69,7 +69,7 @@
                     <entry id="$-1" title="Watashi Idol Sengen">
                         <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
-                        OsuSong(personal = 0.8, community = 0.0)
+                        <osuSong personal="0.8" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -80,7 +80,7 @@
                     <entry id="$-2" title="Akatsukizukuyo">
                         <musicConsumedProgress length="4:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.45" />
-                        OsuSong(personal = 0.5, community = 0.5)
+                        <osuSong personal="0.5" community="0.5" />
                         <!-- [taeyang's extra] -->
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -92,7 +92,7 @@
                     <entry id="$-2" title="color">
                         <musicConsumedProgress length="4:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.3" />
-                        OsuSong(personal = 0.4, community = 0.0)
+                        <osuSong personal="0.4" community="0.0" />
                     </entry>
                 </entry>
 
@@ -102,7 +102,7 @@
                     <entry id="$-1" title="決戦スピリット">
                         <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.5" />
-                        OsuSong(personal = 0.3, community = 0.0)
+                        <osuSong personal="0.3" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -127,7 +127,7 @@
                         <!-- Length source: https://osu.ppy.sh/beatmapsets/301561#osu/676193 -->
                         <musicConsumedProgress length="3:49" />
                         <music base="0.2" />
-                        OsuSong(personal = 0.2, community = 0.0)
+                        <osuSong personal="0.2" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
 
@@ -136,7 +136,7 @@
                         <musicConsumedProgress length="4:19" />
                         <music base="0.4" />
                         <!-- such a fucking iconic song -->
-                        OsuSong(personal = 1.0, community = 0.0)
+                        <osuSong personal="1.0" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
 
@@ -144,7 +144,7 @@
                         <!-- Length source: https://open.spotify.com/track/08GL8ARBGmSFRMqj8oQbkZ -->
                         <musicConsumedProgress length="3:29" />
                         <music base="0.45" />
-                        OsuSong(personal = 0.3, community = 0.1)
+                        <osuSong personal="0.3" community="0.1" />
                     </entry>
                 </entry>
 
@@ -155,7 +155,7 @@
                     <entry id="$-4" title="Watashi no Tenshi feat. Narumi Sena">
                         <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.45" />
-                        OsuSong(personal = 0.3, community = 0.1)
+                        <osuSong personal="0.3" community="0.1" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -167,14 +167,14 @@
                     <entry id="$-5" title="ノンファンタジー">
                         <musicConsumedProgress length="4:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.3" />
-                        OsuSong(personal = 0.4, community = 0.0)
+                        <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
 
                     <entry id="$-10" title="小さなライオン feat.南(ふてニャン/CV:豊永利行)">
                         <musicConsumedProgress length="4:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
-                        OsuSong(personal = 0.4, community = 0.0)
+                        <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>

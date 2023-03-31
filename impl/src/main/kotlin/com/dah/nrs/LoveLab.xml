@@ -24,7 +24,7 @@
             <entry id="$-1" title="Best FriendS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
-                OsuSong(personal = 0.7, community = 0.8)
+                <osuSong personal="0.7" community="0.8" />
             </entry>
         </entry>
     </entry>

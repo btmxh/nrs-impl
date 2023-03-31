@@ -17,18 +17,15 @@
             <featureMusic id="M-VGMDB-AL-85759-1" />
         </entry>
 
-        Entry{
-            id = "M-VGMDB-AL-85759"
-            title = "WONDERFUL WONDER / EDOGA-SULLIVAN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-85759" title="WONDERFUL WONDER / EDOGA-SULLIVAN">
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <!-- simple heart dt -->
             <entry id="$-1" title="WONDERFUL WONDER">
                 <musicConsumedProgress length="3:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.15" />
-                OsuSong(personal = 0.4, community = 0.2)
+                <osuSong personal="0.4" community="0.2" />
             </entry>
-        }
+        </entry>
     </entry>
-
 </document>

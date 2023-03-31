@@ -69,13 +69,13 @@
                 <!-- browiec's Wisdom -->
                 <!-- Misunderstanding -->
                 <!-- osu! 9.97⭐UTSUROI +HDDTHR 1108pp | WhiteCat -->
-                OsuSong(personal = 0.65, community = 0.1)
+                <osuSong personal="0.65" community="0.1" />
 
                 <music base="0.5" />
             </entry>
         </entry>
 
-        Meme(0.6, numDays("2019-11-01", "2020-02-15")) {
+        <meme strength="0.6" from="2019-11-01" to="2020-02-15" /> {
             contributors["A-MAL-9756"] = 0.8
             contributors["A-MAL-11981"] = 0.2
         }
@@ -122,21 +122,21 @@
             <featureMusic id="M-VGMDB-AL-41292-1" />
         </entry>
 
-        <waifu name="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
+        <waifu waifu="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
             contributors["A-MAL-38256"] = 0.5
             contributors["G-VGMDB-5237"] = 0.5
         <//entry>
 
 >
 
-        Meme(0.75, numDays("2020-02-15", "2020-08-15")) {
+        <meme strength="0.75" from="2020-02-15" to="2020-08-15" /> {
             contributors["A-MAL-38256"] = 0.4
             contributors["G-VGMDB-5237"] = 0.5
             contributors["A-MAL-9756"] = 0.08
             contributors["A-MAL-11981"] = 0.02
         }
 
-        Meme(0.3, 2) {
+        <meme strength="0.3" length="2" /> {
             contributors["A-MAL-41530"] = 1.0
         }
 

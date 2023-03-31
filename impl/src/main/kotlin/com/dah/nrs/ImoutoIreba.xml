@@ -25,7 +25,7 @@
             <entry id="$-1" title="Ashita no Kimi sae Ireba Ii.">
                 <musicConsumedProgress length="5:04" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.6" />;
-                OsuSong(personal = 0.5, community = 0.1)
+                <osuSong personal="0.5" community="0.1" />
             </entry>
         </entry>
     </entry>

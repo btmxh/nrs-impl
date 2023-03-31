@@ -17,7 +17,7 @@
 
             <visual type="visualNovel" base="0.7" unique="0.15" />
 
-            Meme(0.5, 10)
+            <meme strength="0.5" length="10" />
             <featureMusic id="M-VGMDB-AL-100754" />
         </entry>
 

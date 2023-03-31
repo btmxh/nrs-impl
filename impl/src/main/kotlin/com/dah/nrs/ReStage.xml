@@ -343,7 +343,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 ReStep<music base="0.3" /> {
                     arc3 = 5.0
                 }
-                OsuSong(personal = 0.2)
+                <osuSong personal="0.2" community="0.0" />
             </entry>
         </entry>
 
@@ -356,12 +356,12 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT -->
                 <!-- (definitely not a cheap copy of osu's 727) -->
                 <!-- still funnier than atelier's 15 -->
-                Meme(0.05, 45)
+                <meme strength="0.05" length="45" />
 
                 <!-- the song that started it all -->
                 <!-- https://www.youtube.com/watch?v=9nbo5smhj8M -->
                 <!-- [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu! -->
-                OsuSong(personal = 0.5)
+                <osuSong personal="0.5" community="0.0" />
 
                 ReStep<music base="0.5" /> {
                     arc1 = 15.0
@@ -463,7 +463,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 <!-- ty based _kotachi_ and [Karcher] (and other mapsets too, but i haven't played them) -->
                 <!-- for [It's KiRaRe!!!!], [G11K's Insane] and [Cute Mana] -->
                 <!-- also my cut ver. sucks KEKW -->
-                OsuSong(personal = 0.6)
+                <osuSong personal="0.6" community="0.0" />
 
                 <!-- one day, just like KiRaRe with this song, -->
                 <!-- the girls will shine and overtake the number 1 of Oricon ranking -->
@@ -485,7 +485,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
                 ReStep<music base="0.65" /> {
                     arc3 = 10.0
                 }
-                OsuSong(personal = 0.25, community = 0.0)
+                <osuSong personal="0.25" community="0.0" />
             </entry>
         </entry>
 
@@ -660,7 +660,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <!-- the ortensia incident lore -->
         <!-- it is already known from arc 1, but idk the details -->
         <!-- (like 20-30 days won't do much for something that's longer than 300 days) -->
-        Meme(0.3, numDays("2022-01-01"))
+        <meme strength="0.3" length="numDays("2022-01-01"" />)
 
         <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -1088,7 +1088,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     </entry>
 
     <!-- idol renaissance arc -->
-    Meme(1.0, numDays("2021-11-20", "2022-01-10")) {
+    <meme strength="1.0" from="2021-11-20" to="2022-01-10" /> {
         contributors["A-MAL-38009"] = 0.75
         contributors["GF-VGMDB-7059"] = 0.05
         TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1)

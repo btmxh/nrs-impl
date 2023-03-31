@@ -17,7 +17,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <entry id="$-1" title="Snow halation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
-                Meme(0.1, 6)
+                <meme strength="0.1" length="6" />
                 <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
                 <!-- [Reform's Expert] +HDDT FC 417pp -->
             </entry>
@@ -128,7 +128,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <entry id="$-3" title="DROPOUT!?"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
-                OsuSong(personal = 0.4, community = 0.0)
+                <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
 
@@ -253,7 +253,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <entry id="$-7" title="LIKE IT! LOVE IT!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.55" />
-                OsuSong(personal = 0.3)
+                <osuSong personal="0.3" community="0.0" />
             </entry>
         </entry>
 
@@ -306,7 +306,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <!-- shared memes between SIP (school idol project) and Sunshine -->
-        Meme(0.6, 18) {
+        <meme strength="0.6" length="18" /> {
             contributors["A-MAL-15051"] = 0.2
             contributors["A-MAL-19111"] = 0.2
             contributors["A-MAL-24997"] = 0.1
@@ -434,7 +434,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <!-- niji arcs -->
 
         <!-- arc 1 - the girl who changed the world -->
-        <waifu name="Uehara Ayumu" from="2020-11-02" to="2021-02-15">
+        <waifu waifu="Uehara Ayumu" from="2020-11-02" to="2021-02-15">
             contributors["A-MAL-40879"] = 0.9
             contributors["M-VGMDB-AL-102281-1"] = 0.1
         </waifu>
@@ -479,7 +479,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.6" unique="0.25" />
 
-            Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
+            <meme strength="1.0" from="2020-10-17" /*airtime of episode 3*/ to="2021-02-01" />
 
             <killedBy id="M-VGMDB-AR-11666" potential="0.3" effect="0.5" />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
@@ -514,7 +514,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             seasonal = true
             <animeConsumedProgress status="Temporarily On-Hold" boredom="0.9" episodes="7" />
             <dropped />
-            Meme(0.3, 6)
+            <meme strength="0.3" length="6" />
             <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
             <killedBy id="F-VGMDB-7059" potential="0.6" effect="1.0" />
             <visual type="animated" base="0.6" unique="0.25" />
@@ -589,10 +589,10 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
     <entry id="M-20220317T064137-1" title="Snow Halation (feat. BeasttrollMC)">
 
-        Meme(0.03, 6)
+        <meme strength="0.03" length="6" />
         <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
         <!-- [Reform's Expert] +HDDT FC 417pp -->
-        Remix("M-VGMDB-AL-34051-1")
+        <remix id="M-VGMDB-AL-34051-1" />
 
         <!-- hmm should i pick the dt length or the normal length :tf: -->
         <!-- Length source: https://www.youtube.com/watch?v=m6bYJ17psmg -->

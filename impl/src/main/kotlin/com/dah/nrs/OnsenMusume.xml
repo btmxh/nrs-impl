@@ -58,6 +58,6 @@
             </entry>
         </entry>
 
-        Meme(0.3, 45)
+        <meme strength="0.3" length="45" />
     </entry>
 </document>

@@ -88,7 +88,7 @@
                 <musicConsumedProgress length="4:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
                 <!-- iykyk -->
-                Meme(0.05, 10)
+                <meme strength="0.05" length="10" />
             </entry>
         </entry>
 
@@ -159,7 +159,7 @@
             <entry id="$-1" title="Y.O.L.O!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />
-                OsuSong(personal = 0.7)
+                <osuSong personal="0.7" community="0.0" />
             </entry>
         </entry>
 
@@ -178,15 +178,15 @@
             <entry id="$-1" title="Cherry Bomb"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
-                OsuSong(personal = 0.6)
+                <osuSong personal="0.6" community="0.0" />
             </entry>
 
             <entry id="$-6" title="Harumodoki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
-                OsuSong(personal = 0.5)
+                <osuSong personal="0.5" community="0.0" />
 
-                Remix("M-20220130T183728-4")
+                <remix id="M-20220130T183728-4" />
             </entry>
         </entry>
 
@@ -197,7 +197,7 @@
             <entry id="$-8" title="Silhouette"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
-                OsuSong(personal = 0.55)
+                <osuSong personal="0.55" community="0.0" />
             </entry>
         </entry>
 
@@ -206,7 +206,7 @@
             <entry id="$-3" title="Melancholic"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
-                OsuSong(personal = 0.75, community = 0.0)
+                <osuSong personal="0.75" community="0.0" />
             </entry>
         </entry>
 
@@ -244,7 +244,7 @@
             <!-- Ending pretty sadge -->
             <aei base="0.2" emotions="CU" />
             <!-- nrs1 -->
-            Meme(0.2, 6)
+            <meme strength="0.2" length="6" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
 
             <visual type="animated" base="0.4" unique="0.4" />
@@ -262,7 +262,7 @@
             </source>
             <bestGirl name="Arisa Ichigaya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- nrs1 -->
-            Meme(0.15, 2)
+            <meme strength="0.15" length="2" />
 
             <!-- cg lmfao -->
             <visual type="animated" base="0.15" unique="0.5" />
@@ -287,7 +287,7 @@
                 <!-- Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP -->
                 <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
                 <music base="0.25" />
-                Remix("M-VGMDB-AL-106577-1")
+                <remix id="M-VGMDB-AL-106577-1" />
             </entry>
         </entry>
     </entry>
@@ -302,7 +302,7 @@
             <entry id="$-1" title="Silhouette"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
-                Remix("M-VGMDB-AL-114399-8")
+                <remix id="M-VGMDB-AL-114399-8" />
             </entry>
         </entry>
     </entry>

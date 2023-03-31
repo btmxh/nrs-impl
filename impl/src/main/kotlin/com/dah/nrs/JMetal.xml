@@ -10,35 +10,37 @@
             <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
                 <musicConsumedProgress length="3:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
-                Impact {
-                    description = """this song is a cover of the famous is she owen u.n
-                    i was strongly impressed when i listened to the covers by
-                    cool&create silverforest s-sync arts and sound holic
-                    but its hard to rearrange cuz its melody's so complex
-                    one more day before you go one more night everybody dance it away
-                    swinging arms jumping bodies dont stop even if night's out
-                    (stream part)
-                    i wrote this song in a hurry
-                    i know this lyric is funny
-                    i wish at least one of you like this song thats all""".trimIndent()
-                    score = vector {
-                        set(Art.Language, 0.2)
-                    }
-                }
+                <regularImpact>
+                    <score>
+                        <!-- this song is a cover of the famous is she owen u.n
+                        i was strongly impressed when i listened to the covers by
+                        cool&create silverforest s-sync arts and sound holic
+                        but its hard to rearrange cuz its melody's so complex
+                        one more day before you go one more night everybody dance it away
+                        swinging arms jumping bodies dont stop even if night's out
+                        (stream part)
+                        i wrote this song in a hurry
+                        i know this lyric is funny
+                        i wish at least one of you like this song thats all -->
+                        <component value="0.2" factor="Art.Language" />
+                        <component value="0.1" factor="Emotion.AP" />
+                    </score>
+                </regularImpact>
             </entry>
         </entry>
 
         <!-- this and HAG - Shoujotachi no Owaranai Yoru (lit. Everlasting Night of Teenage Girls) -->
         <!-- somewhat reflect an image of "happy nights" in Ayumu-era -->
-        Impact {
-            description = "Ayumu-era Romance Image"
-            score = vector {
-                set(Art.Language, 0.1)
-            }
+        <regularImpact>
+            <!-- description = "Ayumu-era Romance Image" -->
+            <score>
+                <component value="0.1" factor="Art.Language" />
+                <component value="0.1" factor="Emotion.CP" />
+            </score>
 
             contributors["M-VGMDB-AL-43320"] = 0.4
             contributors["M-20220818T163913-2"] = 0.6
-        }
+        </regularImpact>
 
         <entry id="M-VGMDB-AL-43320" title="Stories That Last Through The Sleepless Nights"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -74,7 +76,7 @@
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
                 <musicConsumedProgress length="6:22" /> <!-- impl_overridden -->
                 <music base="0.4" />
-                OsuSong(0.0, 0.3)
+                <osuSong personal="0.0" community="0.3" />
             </entry>
         </entry>
 
@@ -84,7 +86,7 @@
                 <!-- Length source: https://open.spotify.com/album/71Im3HkxyIk8OypYiE9aBR -->
                 <musicConsumedProgress length="6:58" />
                 <music base="0.5" />
-                OsuSong(0.1, 0.4)
+                <osuSong personal="0.1" community="0.4" />
             </entry>
         </entry>
     </entry>

@@ -42,7 +42,7 @@
             <entry id="$-28" title="Grand Escape (Movie edit) feat, Miura Toko">
                 <musicConsumedProgress length="3:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
-                OsuSong(personal = 0.4)
+                <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
     </entry>

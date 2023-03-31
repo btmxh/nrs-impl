@@ -107,7 +107,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             contributors["A-MAL-41520"] = 0.4
         </aei>
 
-        <waifu name="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10">
+        <waifu waifu="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10">
             contributors["A-MAL-27441"] = 0.35
             contributors["A-MAL-32038"] = 0.35
             contributors["A-MAL-40763"] = 0.05
@@ -288,7 +288,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 20.0
                 }
 
-                Remix("M-20220125T063355-6")
+                <remix id="M-20220125T063355-6" />
             </entry>
 
             <entry id="$-2" title="Close to you"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -297,7 +297,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 10.0
                 }
 
-                Remix("M-VGMDB-AL-61981-3")
+                <remix id="M-VGMDB-AL-61981-3" />
             </entry>
         </entry>
 
@@ -379,7 +379,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                 FesALive<music base="0.2" /> {
                     arc2 = 2.5
                 }
-                Meme(0.1, 2)
+                <meme strength="0.1" length="2" />
             </entry>
         </entry>
 
@@ -411,7 +411,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc3 = 10.0
                 }
                 Meme(0.01, numDays("2022-04-01"))
-                Remix("M-20220702T030659")
+                <remix id="M-20220702T030659" />
             </entry>
 
             <entry id="$-3" title="Masshiro Start Line">
@@ -834,7 +834,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix -->
         <music base="0.6" />
         <musicConsumedProgress length="5:02" /> <!-- impl_overridden -->
-        OsuSong(personal = 0.75)
+        <osuSong personal="0.75" community="0.0" />
     </entry>
 
     <ref name="RSTSB69DuopolyEra" _.strength="0.8">

@@ -27,11 +27,11 @@
             <entry id="$-2" title="U・D・N">
                 <musicConsumedProgress length="3:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
-                OsuSong(personal = 0.3)
+                <osuSong personal="0.3" community="0.0" />
             </entry>
         </entry>
 
-        Meme(0.8, numDays("2021-11-01", "2021-11-20")) {
+        <meme strength="0.8" from="2021-11-01" to="2021-11-20" /> {
             contributors["A-MAL-25519"] = 0.5
             contributors["L-MAL-90810"] = 0.3
             contributors["A-MAL-34284"] = 0.06
@@ -54,7 +54,7 @@
         <!-- (but vertexes can sadge) -->
         <!-- update: what do you expect from the second best idol franchise ever, -->
         <!-- (future number 1 btw) they cucked her sadge -->
-        Meme(0.2, 45) {
+        <meme strength="0.2" length="45" /> {
             contributors["L-MAL-90810"] = 0.8
             contributors["A-MAL-42587"] = 0.2
         }
@@ -218,7 +218,7 @@
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
-        <waifu name="Yuuki Yuuna" length="20">
+        <waifu waifu="Yuuki Yuuna" length="20">
             contributors["A-MAL-25519"] = 0.4
             contributors["A-MAL-34445"] = 0.4
             contributors["A-MAL-42587"] = 0.2
