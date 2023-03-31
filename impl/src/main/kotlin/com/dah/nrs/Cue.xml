@@ -31,7 +31,7 @@
             <!-- ok airi and yuzuha is wholesome af -->
             <!-- ep 11 almost made me cry -->
             <!-- and i was somewhat moved by ep 10 -->
-            <aei base="0.2" emotions="Emotion.MP to 0.9, Emotion.CP to 0.1" />
+            <aei base="0.2" emotions="Emotion.MP to 0.9:CP-0.1" />
 
             <!-- comedy was weak ngl -->
             <nei base="0.5" emotions="Emotion.AP" />

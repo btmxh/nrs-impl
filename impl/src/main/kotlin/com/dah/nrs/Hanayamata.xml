@@ -21,7 +21,7 @@
             <visual type="animated" base="0.4" unique="0.7" />
 
             <!-- first ep aei -->
-            <aei base="0.2" emotions="Emotion.MP to 0.3, Emotion.CP to 0.7" />
+            <aei base="0.2" emotions="Emotion.MP to 0.3:CP-0.7" />
             <featureMusic id="M-VGMDB-AL-46235-1" />
         </entry>
 

@@ -28,7 +28,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.5" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-81448-1" />
-            <aei base="0.75" emotions="Emotion.CU to 0.5, Emotion.MP to 0.25, Emotion.AP to 0.25" />
+            <aei base="0.75" emotions="Emotion.CU to 0.5:MP-0.25:AP-0.25" />
         </entry>
 
         <entry id="M-VGMDB-AL-81448" title="Egao no Kanata / Chiho feat. majiko"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

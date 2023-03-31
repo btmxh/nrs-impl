@@ -10,7 +10,7 @@
         <!-- this is what happen when you combine -->
         <!-- atmospheric farming with idolshit -->
         <!-- also watch rst -->
-        <aei base="0.0" emotions="Emotion.CU to 0.5, Emotion.CP to 0.5" /> {
+        <aei base="0.0" emotions="Emotion.CU to 0.5:CP-0.5" /> {
             contributors["A-MAL-21189"] = 0.75
             contributors["A-MAL-19023"] = 0.2
             contributors["A-MAL-38009"] = 0.04

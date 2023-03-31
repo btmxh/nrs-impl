@@ -235,7 +235,7 @@
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- :troll-despair: -->
-            <aei base="0.5" emotions="Emotion.CU to 0.9, Emotion.MP to 0.1" />
+            <aei base="0.5" emotions="Emotion.CU to 0.9:MP-0.1" />
 
             <!-- OP -->
             <featureMusic id="M-VGMDB-AL-113295-1" />

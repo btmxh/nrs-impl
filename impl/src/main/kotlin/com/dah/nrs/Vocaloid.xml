@@ -188,7 +188,7 @@
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         <visual type="animatedMV" base="0.5" unique="0.6" />
         <music base="0.45" /> <!-- a bit dull at times but... -->
-        <ref name="KoikakeCry" _.contribution="0.85" _.emotions="Emotion.MP to 0.5, Emotion.CU to 0.5" />
+        <ref name="KoikakeCry" _.contribution="0.85" _.emotions="Emotion.MP to 0.5:CU-0.5" />
         <!-- the part though wtf -->
         <!-- did not expect to be that good ?????????? -->
 
