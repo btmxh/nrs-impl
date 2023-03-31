@@ -225,10 +225,10 @@
             <contains id="M-VGMDB-AL-89431" />
 
             <!-- colorful remixes -->
-            Contains(0.5) {
+            <contains factor="0.5">
                 <contains id="M-20220113T184042-3" />
                 <contains id="M-20220113T184042-4" />
-            }
+            </contains>
 
             <entry id="M-VGMDB-AL-69319" title="SHIORI / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 Visual(VisualKind.AlbumArt, 0.2, 0.2)
@@ -445,11 +445,11 @@
 
         <contains factor="MusicVocalImageContainFactor">
             <!-- oregairu songs -->
-            Contains(0.5) {
+            <contains factor="0.5">
                 <contains id="M-VGMDB-AL-37999-1" />
                 <contains id="M-VGMDB-AL-51394-1" />
                 <contains id="M-VGMDB-AL-96290-1" />
-            }
+            </contains>
 
             //sora yori group
             <contains factor="1.0 / 4.0">
@@ -462,11 +462,11 @@
 
         <contains factor="MusicVocalImageContainFactor">
             <!-- oregairu songs -->
-            Contains(0.5) {
+            <contains factor="0.5">
                 <contains id="M-VGMDB-AL-37999-1" />
                 <contains id="M-VGMDB-AL-51394-1" />
                 <contains id="M-VGMDB-AL-96290-1" />
-            }
+            </contains>
 
             <!-- oregairu solo songs -->
             <contains id="M-VGMDB-AL-51394-3" />
@@ -493,10 +493,7 @@
         <contains id="M-VGMDB-AR-30829" factor="1.0 / 6.0" />
         <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
 
-        Contains(
-            "M-VGMDB-AL-104618",
-            MusicVocalContainFactor + MusicImageContainFactor * MusicFeatArtistFactor
-        )
+        <contains id="M-VGMDB-AL-104618" factor="MusicVocalContainFactor + MusicImageContainFactor * MusicFeatArtistFactor" />
 
         <!-- the akari kito analogy lol -->
         <ref name="AKMEraPart1" _.strength="0.05"/>
@@ -656,9 +653,7 @@
 
         <!-- vocal: ImageVocalContainFactor * 0.2 -->
         <!-- music + lyrics + arrangement: 0.5 * (1.0 - ImageVocalContainFactor) -->
-        Contains(
-            "M-VGMDB-AL-69257", MusicInstContainFactor + MusicImageContainFactor / 2
-        )
+        <contains id="M-VGMDB-AL-69257" factor="MusicInstContainFactor + MusicImageContainFactor / 2" />
     </entry>
 
     <entry id="M-VGMDB-AL-69257" title="Uchiage Hanabi / DAOKO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -772,7 +767,7 @@
 
         <contains factor="MusicVocalImageContainFactor">
             <!-- petit milady -->
-            Contains(1.0 / 2.0) {
+            <contains factor="1.0 / 2.0">
                 <entry id="M-VGMDB-AL-78478" title="360° Hoshi no Orchestra / petit milady"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     Visual(VisualKind.AlbumArt, 0.15, 0.2)
@@ -791,7 +786,7 @@
                         OsuSong(personal = 0.6, community = 0.0)
                     </entry>
                 </entry>
-            }
+            </contains>
 
             <contains id="M-VGMDB-AL-30302-2" />
         </contains>
@@ -916,10 +911,7 @@
 
     <entry id="M-VGMDB-AR-30942" title="Yunomi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Contains(
-            "M-VGMDB-AL-104618",
-            MusicInstContainFactor + MusicImageContainFactor * MusicMainArtistFactor
-        )
+        <contains id = "M-VGMDB-AL-104618" ref = "MusicInstContainFactor + MusicImageContainFactor * MusicMainArtistFactor" />
     </entry>
 
     <entry id="M-VGMDB-AR-3240" title="Ceui"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
