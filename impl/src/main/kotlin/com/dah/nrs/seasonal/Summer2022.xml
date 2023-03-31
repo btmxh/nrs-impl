@@ -21,7 +21,7 @@
         <visual type="animated" base="0.4" unique="0.4" />
         <!-- bye lol -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
-        Dropped()
+        <dropped />
         KilledBy("F-VGMDB-4499", potential = 0.25, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.25, effect = 0.75)
     </entry>
@@ -43,7 +43,7 @@
 
         <!-- the rescue mission succeeded let's goooooo -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 9)
-        Dropped()
+        <dropped />
         KilledBy("F-VGMDB-4499", potential = 0.1, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.1, effect = 0.75)
     </entry>
@@ -64,7 +64,7 @@
 
         <!-- the prima doll incident -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
-        Dropped()
+        <dropped />
 
         <!-- somewhat unique and cute at the same time ngl -->
         <!-- but still good luck with that -1.0 boredom lol xddddddddddd -->
@@ -163,7 +163,7 @@
         <!-- https://www.youtube.com/watch?v=2mFt7arKiNE -->
         <visual type="animated" base="0.4" unique="0.5" />
         AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 7)
-        Dropped()
+        <dropped />
         KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)
         KilledBy("M-VGMDB-AL-76155-2", potential = 0.65, effect = 0.75)
     </entry>

@@ -13,7 +13,7 @@
             <bestGirl name="Sumi Sakurasawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 1)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
     </entry>

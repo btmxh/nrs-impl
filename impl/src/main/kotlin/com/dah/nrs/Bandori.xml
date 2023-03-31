@@ -268,7 +268,7 @@
             <visual type="animated" base="0.15" unique="0.5" />
             <!-- rip -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 6)
-            Dropped()
+            <dropped />
             <featureMusic id="M-VGMDB-AL-81504-1" />
             KilledBy("F-VGMDB-2588", potential = 0.2, effect = 0.5)
         </entry>

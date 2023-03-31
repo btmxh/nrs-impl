@@ -29,7 +29,7 @@
 
         <visual type="animated" base="0.6" unique="0.2" />
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 4)
-        Dropped()
+        <dropped />
     </entry>
 
     <entry id="A-MAL-47917" title="Bocchi the Rock!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -50,7 +50,7 @@
 
         <!-- ValidatorSuppress("dah-visualless-entry") -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 3)
-        Dropped()
+        <dropped />
         <visual type="animated" base="0.4" unique="0.3" />
     </entry>
 </document>

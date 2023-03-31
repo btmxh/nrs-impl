@@ -513,7 +513,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             seasonal = true
             AnimeConsumedProgress(EntryStatus.OnHold, 0.9, 7)
-            Dropped()
+            <dropped />
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
@@ -565,7 +565,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             <!-- lol after all this time xddddddddddd -->
             AnimeConsumedProgress(EntryStatus.OnHold, 0.7, 3)
-            Dropped()
+            <dropped />
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         </entry>
 

@@ -27,7 +27,7 @@
         <bestGirl name="Ireena Litz de Olhyde" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
-        Dropped()
+        <dropped />
         <visual type="animated" base="0.5" unique="0.2" />
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
     </entry>
@@ -58,7 +58,7 @@
         <!-- Thông điệp thực sự của câu văn nằm ở cái sắc hồng này. Đối với một người như Nguyễn Minh Châu, khi nhìn vào một bức tranh với trái tim đầy thù ghét, không thể nào để ý thấy sắc hồng của đôi má. Đây chắc hẳn là màu tóc hồng của cô gái ấy. Và dựa vào sự ghét cay ghét đắng của nhà văn, đây chính là Anya từ Spy x Family, hoặc Chika từ Love Is War. Qua đó bạn đọc cảm thấy xúc động trước những tư tưởng hiện đại của tác giả. Ông đã lên án sự nổi tiếng của những bộ anime "làm bằng tiền", từ đó đề cao những bộ như Re:Stage hay Show By Rock. -->
         <!-- Nếu như Tô Hoài chỉ từ 5 chữ trọng bio của _kotachi_ đã viết nên một bản trường ca Tây Bắc, thì Nguyễn Minh Châu, với một câu văn hơn hai chục chữ, đã tạo nên được biết bao lớp nghĩa ẩn hiện với biết bao ý nghĩa. Những tác phẩm ấy của họ sẽ mãi được lưu giữ trong kho tàng văn học Việt Nam cũng như là rst lore, mãi mãi bất hủ trong lòng bạn đọc. -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 4)
-        Dropped()
+        <dropped />
         <!-- unique art because manga, but chara design sucks -->
         <!-- also fuck u boat shit -->
         <visual type="animated" base="0.35" unique="0.5" />

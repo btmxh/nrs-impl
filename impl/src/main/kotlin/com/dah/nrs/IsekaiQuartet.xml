@@ -38,7 +38,7 @@
 
             <visual type="animated" base="0.3" unique="0.5" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 12)
-            Dropped()
+            <dropped />
         </entry>
     </entry>
 </document>

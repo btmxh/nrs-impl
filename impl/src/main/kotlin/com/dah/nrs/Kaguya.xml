@@ -49,7 +49,7 @@
             <!-- https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury. -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 9)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.5" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-83397-1" />
             <!-- domestic kanojo war arc -->

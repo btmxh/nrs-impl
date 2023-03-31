@@ -13,7 +13,7 @@
             <bestGirl name="Kesshouban" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 5)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.4" unique="0.1" />
             <featureMusic id="M-VGMDB-AL-77471-1" />
         </entry>

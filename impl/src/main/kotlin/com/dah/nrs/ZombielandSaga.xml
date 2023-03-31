@@ -28,7 +28,7 @@
 
             <!-- the zombieland saga incident -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 7)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.4" unique="0.5" />
             KilledBy("V-VNDB-12849", 0.3, 0.2)
             <featureMusic id="M-VGMDB-AL-109367" />

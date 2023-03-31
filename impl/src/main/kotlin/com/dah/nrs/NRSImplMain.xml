@@ -248,7 +248,7 @@ fun main() =
             <!-- they got cucked -->
 <!--            status = EntryStatus.Watching -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 3)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
@@ -284,7 +284,7 @@ fun main() =
 
             <!-- episodic ngl -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
 
@@ -363,7 +363,7 @@ fun main() =
             <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 8)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.6" unique="0.2" />
         </entry>
 
@@ -448,7 +448,7 @@ fun main() =
 
             KilledBy("F-VGMDB-1945", 0.2, 0.5)
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 2)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
 
@@ -465,7 +465,7 @@ fun main() =
             <bestGirl name="Latina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.4" unique="0.4" />
         </entry>
 
@@ -504,7 +504,7 @@ fun main() =
             <bestGirl name="Hougetsu Shimamura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 3)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.65" unique="0.3" />
 
             <!-- "A PADS about freedomism -->
@@ -545,7 +545,7 @@ fun main() =
 
             <visual type="animated" base="0.4" unique="0.3" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 6)
-            Dropped()
+            <dropped />
             KilledBy("F-VGMDB-2588", 0.5, 0.5)
             <!-- observism and the COP -->
             Politics {}
@@ -597,7 +597,7 @@ fun main() =
 
             <visual type="animated" base="0.6" unique="0.4" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 4)
-            Dropped()
+            <dropped />
             KilledBy("F-VGMDB-2588", 0.6, 0.5)
         </entry>
 
@@ -619,7 +619,7 @@ fun main() =
             <bestGirl name="Saki Saki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <visual type="animated" base="0.4" unique="0.4" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
-            Dropped()
+            <dropped />
             KilledBy("A-MAL-41530", 0.2, 0.5)
         </entry>
 
@@ -635,7 +635,7 @@ fun main() =
             <!-- idk tf this anime is talking about lol -->
             <visual type="animated" base="0.3" unique="0.7" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 16)
-            Dropped()
+            <dropped />
             KilledBy("A-MAL-41530", 0.1, 0.4)
         </entry>
 
@@ -672,7 +672,7 @@ fun main() =
             <!-- i finished ep12, but e5-10 hasn't been watched -->
             AnimeConsumed(1.0, 6)
             AnimeProgress(EntryStatus.Dropped, 12)
-            Dropped()
+            <dropped />
 
             <visual type="animated" base="0.6" unique="0.4" />
             KilledBy("A-MAL-41530", 0.1, 0.3)
@@ -711,7 +711,7 @@ fun main() =
             <bestGirl name="Kyousuke Yotsuya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 5)
-            Dropped()
+            <dropped />
             <visual type="animated" base="0.3" unique="0.6" />
             KilledBy("F-VGMDB-3245", 0.2, 0.2)
             KilledBy("F-VGMDB-7059", 0.2, 0.2)
