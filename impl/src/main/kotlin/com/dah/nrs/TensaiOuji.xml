@@ -18,7 +18,7 @@
             NEI(0.5, Emotion.MP)
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
-            Visual(VisualKind.Animated, 0.5, 0.3)
+            <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- cool plot ig -->
             NEI(0.8, Emotion.AP)
@@ -31,7 +31,7 @@
 
         <entry id="M-VGMDB-AL-116264" title="LEVEL / yanaginagi × THE SIXTH LIE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="LEVEL">
                 <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

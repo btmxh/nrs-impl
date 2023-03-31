@@ -10,7 +10,7 @@
 
         <entry id="M-VGMDB-AL-47678" title="Aurora Days / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Aurora Days">
                 <musicConsumedProgress length="4:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -20,7 +20,7 @@
 
         <entry id="M-VGMDB-AL-114186" title="Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.5)
+            <visual type="albumArt" base="0.3" unique="0.5" />
 
             <!-- the glorious udon stream map -->
             <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
@@ -93,7 +93,7 @@
             <!-- use OP/ED visual + music to strengthen the sadness. -->
             <!-- (only the ending tho) -->
             AEI(0.25, Emotion.CU)
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
 
@@ -138,7 +138,7 @@
             AEI(0.3, Emotion.CU)
 
             ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
-            Visual(VisualKind.LightNovel, 0.15, 0.5)
+            <visual type="lightNovel" base="0.15" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-34284" title="Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -160,7 +160,7 @@
             NEI(0.5, Emotion.CU)
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-34445" title="Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -185,7 +185,7 @@
             AEI(0.3, Emotion.CU)
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 6)
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-42587" title="Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -215,7 +215,7 @@
             <featureMusic id="M-VGMDB-AL-114186-2" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
         WaifuUnknownPeriod("Yuuki Yuuna", 20) {

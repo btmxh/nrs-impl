@@ -120,7 +120,7 @@
 
             <featureMusic id="M-VGMDB-AL-45361-1" />
 
-            Visual(VisualKind.Animated, 0.4, 0.25)
+            <visual type="animated" base="0.4" unique="0.25" />
 
             <!-- ig this is killed somewhat similarly to luminous witches -->
             KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.25)
@@ -128,7 +128,7 @@
 
         <entry id="M-VGMDB-AL-45361" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.25)
+            <visual type="albumArt" base="0.4" unique="0.25" />
             <entry id="$-1" title="アスイロ">
                 <musicConsumedProgress length="4:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- STOP POSTING ABOUT Asuiro Koi Moyou! I'M TIRED OF SEEING IT! -->
@@ -156,8 +156,8 @@
             <!-- "sach cho" my beloved -->
             <!-- also i forgor rosia-chan :skull: -->
 
-            Visual(VisualKind.RPG3DGame, 0.5, 0.4)
-            Visual(VisualKind.VisualNovel, 0.4, 0.3)
+            <visual type="rPG3DGame" base="0.5" unique="0.4" />
+            <visual type="visualNovel" base="0.4" unique="0.3" />
             <!-- based on ayesha since i "deleted" atelier sophie -->
             ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
         </entry>
@@ -168,8 +168,8 @@
 <!--            <bestGirl name="Harry Maguire" /> -->
 <!--            <bestGirl name="Fred dai de" /> -->
             <!-- atelier games visual comes in two part -->
-            Visual(VisualKind.RPG3DGame, 0.6, 0.4)
-            Visual(VisualKind.VisualNovel, 0.5, 0.3)
+            <visual type="rPG3DGame" base="0.6" unique="0.4" />
+            <visual type="visualNovel" base="0.5" unique="0.3" />
             <!-- it's actually something like 99hrs, but i afk'd -->
             <!-- (too lazy to turn off the pc) a lot idk -->
             ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
@@ -186,15 +186,15 @@
             <!-- I thought I was indifferent and I held back my feelings -->
 
             <!-- obligatory potential waifu buff -->
-            Visual(VisualKind.RPG3DGame, 0.7, 0.4)
-            Visual(VisualKind.VisualNovel, 0.6, 0.3)
+            <visual type="rPG3DGame" base="0.7" unique="0.4" />
+            <visual type="visualNovel" base="0.6" unique="0.3" />
             <!-- NOZS (Nyumber One! Zettai Saikyou!) Act -->
             ConsumedProgress(EntryStatus.OnHold, 1.0, 80.hours)
         </entry>
 
         <entry id="M-VGMDB-AL-45607" title="Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.35, 0.3)
+            <visual type="albumArt" base="0.35" unique="0.3" />
             <entry id="$-4" title="Miruiro no Hoshi">
                 <musicConsumedProgress length="5:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
@@ -203,7 +203,7 @@
 
         <entry id="M-VGMDB-AL-59535" title="Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.5)
+            <visual type="albumArt" base="0.2" unique="0.5" />
             <entry id="$-9" title="Into the Journey">
                 <musicConsumedProgress length="5:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.6" />
@@ -214,7 +214,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-38558" title="Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-8" title="Sky of Twilight"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="6:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />

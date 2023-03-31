@@ -14,7 +14,7 @@
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <featureMusic id="M-VGMDB-AL-33537-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
-            Visual(VisualKind.Animated, 0.4, 0.25)
+            <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
         <entry id="A-MAL-21881" title="Sword Art Online II"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -27,7 +27,7 @@
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
-            Visual(VisualKind.Animated, 0.4, 0.25)
+            <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
         <entry id="A-MAL-31765" title="Sword Art Online Movie: Ordinal Scale"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -40,7 +40,7 @@
 
             <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 1, 1.hours + 59.minutes)
-            Visual(VisualKind.Animated, 0.6, 0.25)
+            <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 
         <contains id="M-VGMDB-AL-33537-1" />

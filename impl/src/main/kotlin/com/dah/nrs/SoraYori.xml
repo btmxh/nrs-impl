@@ -28,7 +28,7 @@
             <!-- the girls are comfy too -->
             NEI(0.75, Emotion.MP)
 
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
 
             <featureMusic id="M-VGMDB-AL-73544-1" />
             <featureMusic id="M-VGMDB-AL-73544-2" />
@@ -36,7 +36,7 @@
 
         <entry id="M-VGMDB-AL-73544" title="Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.5)
+            <visual type="albumArt" base="0.3" unique="0.5" />
             <entry id="$-1" title="Koko kara, Koko kara">
                 <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />

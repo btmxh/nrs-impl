@@ -13,14 +13,14 @@
             <bestGirl name="Ao Horie" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
             Dropped()
-            Visual(VisualKind.AnimatedShort, 0.6, 0.4)
+            <visual type="animatedShort" base="0.6" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-85759-1" />
         </entry>
 
         Entry{
             id = "M-VGMDB-AL-85759"
             title = "WONDERFUL WONDER / EDOGA-SULLIVAN" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+            <visual type="albumArt" base="0.6" unique="0.4" />
 
             <!-- simple heart dt -->
             <entry id="$-1" title="WONDERFUL WONDER">

@@ -14,7 +14,7 @@
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 37.minutes)
         <!-- the cg kinda help with making the anime unique lol -->
-        Visual(VisualKind.Animated, 0.4, 0.6)
+        <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
     <entry id="A-MAL-40295" title="Another World"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -28,7 +28,7 @@
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 3)
         <!-- the cg kinda help with making the anime unique lol -->
-        Visual(VisualKind.Animated, 0.4, 0.6)
+        <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
     AEI(0.9, Emotion.CU) {

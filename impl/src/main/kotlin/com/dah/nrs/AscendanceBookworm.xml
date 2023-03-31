@@ -20,7 +20,7 @@
             <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 14)
-            Visual(VisualKind.Animated, 0.4, 0.5)
+            <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-40815" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -33,7 +33,7 @@
             <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
-            Visual(VisualKind.Animated, 0.4, 0.5)
+            <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-42429" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -46,7 +46,7 @@
             <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 10)
-            Visual(VisualKind.Animated, 0.4, 0.5)
+            <visual type="animated" base="0.4" unique="0.5" />
         </entry>
     </entry>
 </document>

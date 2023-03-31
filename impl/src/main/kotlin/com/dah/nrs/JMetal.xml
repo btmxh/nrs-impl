@@ -5,7 +5,7 @@
 
         <entry id="M-VGMDB-AL-97601" title="Truths, Ironies, The Secret Lyrics"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.15, 0.3)
+            <visual type="albumArt" base="0.15" unique="0.3" />
 
             <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
                 <musicConsumedProgress length="3:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -43,7 +43,7 @@
         <entry id="M-VGMDB-AL-43320" title="Stories That Last Through The Sleepless Nights"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <contains id="M-VGMDB-AL-97601-1" />
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-4" title="Wandering, Never Wondering (There Exists A Shade)">
                 <musicConsumedProgress length="4:33" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -68,7 +68,7 @@
     <entry id="M-20221224T220452" title="Release Hallucination">
 
         <entry id="M-VGMDB-AL-80229" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->

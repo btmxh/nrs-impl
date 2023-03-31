@@ -5,7 +5,7 @@
 
         <entry id="M-VGMDB-AL-48199" title="Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+            <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="M♭">
                 <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -44,7 +44,7 @@
             <featureMusic id="M-VGMDB-AL-49446-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             EHI()
-            Visual(VisualKind.Animated, 0.5, 0.3)
+            <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
         <entry id="A-MAL-30727" title="Saenai Heroine no Sodatekata ♭"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -57,7 +57,7 @@
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
             EHI()
-            Visual(VisualKind.Animated, 0.5, 0.3)
+            <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
         <entry id="A-MAL-36885" title="Saenai Heroine no Sodatekata Fine"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -71,7 +71,7 @@
             <!-- humor -->
             NEI(0.25, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 1.hours + 54.minutes)
-            Visual(VisualKind.Animated, 0.55, 0.3)
+            <visual type="animated" base="0.55" unique="0.3" />
         </entry>
     </entry>
 

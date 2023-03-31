@@ -26,14 +26,14 @@
             <!-- (see NewGame.kt) -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
-            Visual(VisualKind.Animated, 0.5, 0.4)
+            <visual type="animated" base="0.5" unique="0.4" />
 
             <featureMusic id="M-VGMDB-AL-35015-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-35015" title="Kimi ga Yume wo Tsuretekita / Pet na Kanojotachi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.4)
+            <visual type="albumArt" base="0.5" unique="0.4" />
             <entry id="$-1" title="Kimi ga Yume wo Tsuretekita">
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.225" />

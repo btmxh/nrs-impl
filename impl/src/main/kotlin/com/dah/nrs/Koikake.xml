@@ -25,7 +25,7 @@
             Waifu("Himeno Sena", "2022-11-25" to today())
 
             <!-- first 1.0 yay!!! the waifu method :clueless: -->
-            Visual(VisualKind.VisualNovel, 1.0, 0.3)
+            <visual type="visualNovel" base="1.0" unique="0.3" />
 
             <!-- what a ride :clueless: -->
             <!-- really enjoyed the thing :clueless: -->
@@ -92,7 +92,7 @@
 
         <entry id="M-VGMDB-AL-58596" title="KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 1.0, 0.3)
+            <visual type="albumArt" base="1.0" unique="0.3" />
 
             <entry id="$-2" title="記憶×ハジマリ">
                 <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -137,7 +137,7 @@
 
     <entry id="M-VGMDB-AL-123896" title="Starry Avenue"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Visual(VisualKind.AlbumArt, 0.6, 0.4)
+        <visual type="albumArt" base="0.6" unique="0.4" />
         <!-- NEE music :skull: -->
 
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">

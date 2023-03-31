@@ -25,7 +25,7 @@
             <!-- no fuckign way she is VA'd by the glorious akari kito -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.75, 0.2)
+            <visual type="animated" base="0.75" unique="0.2" />
             <!-- plot pretty good -->
             AEI(0.5, Emotion.AP)
         </entry>
@@ -49,7 +49,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             <!-- a lil bit worse than s1 (but still not that bad) -->
-            Visual(VisualKind.Animated, 0.6, 0.2)
+            <visual type="animated" base="0.6" unique="0.2" />
 
             <!-- plot will be good -->
             AEI(0.1, Emotion.AP)

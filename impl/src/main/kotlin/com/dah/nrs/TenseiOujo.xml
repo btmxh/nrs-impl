@@ -18,7 +18,7 @@
             <bestGirl name="Anisphia Wynn Palletia" />
 
             AnimeConsumedProgress(EntryStatus.Watching, 1.0, 9)
-            Visual(VisualKind.Animated, 0.5, 0.3)
+            <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- the first ep already gave me chill :skull: -->
             AEI(0.2, Emotion.CP to 0.8, Emotion.MP to 0.2)
@@ -40,7 +40,7 @@
 
         <entry id="M-VGMDB-AL-124465" title="Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.3)
+            <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="Only for you">
                 <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

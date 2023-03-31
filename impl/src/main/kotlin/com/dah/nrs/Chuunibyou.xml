@@ -10,7 +10,7 @@
 
         <entry id="M-VGMDB-AL-42762" title="VOICE / ZAQ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.2)
+            <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="VOICE">
                 <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -35,7 +35,7 @@
                 <mal id="14741"/>
             </source>
 
-            Visual(VisualKind.Animated, 0.6, 0.2)
+            <visual type="animated" base="0.6" unique="0.2" />
 
             <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- idk why -->
@@ -58,7 +58,7 @@
             <!-- Shichimiya memes -->
             Meme(0.4, 10)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.6, 0.2)
+            <visual type="animated" base="0.6" unique="0.2" />
 
             <featureMusic id="M-VGMDB-AL-42762-1" />
         </entry>
@@ -75,7 +75,7 @@
             <!-- movie is funny, but less content than s1 and s2 -->
             <!-- separate from s1/2 because it was watched later -->
             NEI(0.75, Emotion.AP)
-            Visual(VisualKind.Animated, 0.6, 0.2)
+            <visual type="animated" base="0.6" unique="0.2" />
         </entry>
     </entry>
 </document>

@@ -19,7 +19,7 @@
             <!-- but she had some caveats, i even picked hikari's -->
             <!-- route first lol (i haven't finished any routes btw) -->
 
-            Visual(VisualKind.VisualNovel, 0.6, 0.5)
+            <visual type="visualNovel" base="0.6" unique="0.5" />
             ConsumedProgress(EntryStatus.Dropped, 0.8, 15.hours)
             <!-- obligatory eroge romcom humor -->
             NEI(0.8, Emotion.AP)
@@ -27,7 +27,7 @@
 
         <entry id="M-VGMDB-AL-57788" title="Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD \">and Little Planets\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Finest Sky">
                 <musicConsumedProgress length="3:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

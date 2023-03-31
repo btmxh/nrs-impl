@@ -17,7 +17,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
             <!-- fuwa fuwa doki doki -->
             AEI(0.5, Emotion.AP)
-            Visual(VisualKind.Animated, 0.5, 0.5)
+            <visual type="animated" base="0.5" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-82284" />
         </entry>
 
@@ -36,11 +36,11 @@
             <!-- at first I doubted that S2 will be as good as S1 -->
             <!-- but it actually is -->
             AEI(0.25, Emotion.AP)
-            Visual(VisualKind.Animated, 0.5, 0.5)
+            <visual type="animated" base="0.5" unique="0.5" />
         </entry>
 
         <entry id="M-VGMDB-AL-82284" title="Gotoubun no Kimochi / Nakano-ke no Itsutsugo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.5, 0.5)
+            <visual type="albumArt" base="0.5" unique="0.5" />
 
             <entry id="$-1" title="Gotoubun no Kimochi">
                 <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

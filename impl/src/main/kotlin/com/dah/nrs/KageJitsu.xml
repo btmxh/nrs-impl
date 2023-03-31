@@ -50,7 +50,7 @@
             <featureMusic id="M-VGMDB-AL-122851" />
 
             <!-- the 7 shadow art is meh but that individual saved the anime -->
-            Visual(VisualKind.Animated, 0.6, 0.4)
+            <visual type="animated" base="0.6" unique="0.4" />
 
             <!-- binged ez clap -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 20)
@@ -58,7 +58,7 @@
 
         <entry id="M-VGMDB-AL-122851" title="Darling in the Night / Shichikage"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- not anime girls :anger:, this needs correction -->
-            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Darling in the Night">
                 <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

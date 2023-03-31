@@ -18,7 +18,7 @@
             <!-- "ram (fuck re:zero tho) (murakawa rie akm girl va) -->
             <bestGirl name="Ram" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
             AnimeConsumedProgress(EntryStatus.Completed, 0.5, 12)
         </entry>
 
@@ -36,7 +36,7 @@
             <!-- to make the thing balanced -->
             <bestGirl name="Filo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 12)
             Dropped()
         </entry>

@@ -28,7 +28,7 @@
 
         <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+            <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="Tachiagare!">
                 <musicConsumedProgress length="4:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -38,7 +38,7 @@
 
         <entry id="M-VGMDB-AL-42945" title="7 Girls War / Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+            <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="7 Girls War">
                 <musicConsumedProgress length="5:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -61,7 +61,7 @@
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
 
             <featureMusic id="M-VGMDB-AL-46042-1" />
-            Visual(VisualKind.Animated, 0.4, 0.6)
+            <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
         <entry id="A-MAL-19023" title="Wake Up, Girls!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -77,7 +77,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
             <featureMusic id="M-VGMDB-AL-42945-1" />
-            Visual(VisualKind.Animated, 0.4, 0.6)
+            <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
         <entry id="A-MAL-28841" title="Wake Up, Girls! Seishun no Kage"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -91,7 +91,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
-            Visual(VisualKind.Animated, 0.4, 0.6)
+            <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
         <entry id="A-MAL-30419" title="Wake Up, Girls! Beyond the Bottom"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -105,7 +105,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.95, 1, 53.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
-            Visual(VisualKind.Animated, 0.4, 0.6)
+            <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
         <entry id="A-MAL-34522" title="Wake Up, Girls! Shin Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -120,7 +120,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.5)
-            Visual(VisualKind.Animated, 0.3, 0.6)
+            <visual type="animated" base="0.3" unique="0.6" />
         </entry>
     </entry>
 
@@ -128,7 +128,7 @@
 
         <!-- dream luck be like lmfao -->
 
-        Visual(VisualKind.AlbumArt, 0.1, 0.2)
+        <visual type="albumArt" base="0.1" unique="0.2" />
 
         <entry id="$-1" title="One In A Billion">
             <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

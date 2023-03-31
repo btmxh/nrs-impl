@@ -13,7 +13,7 @@
             <bestGirl name="Kotonoha Mira" /> <!-- impl_overridden -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 00.8, 13)
-            Visual(VisualKind.Animated, 0.8, 0.3)
+            <visual type="animated" base="0.8" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-93329-1" />
             <featureMusic id="M-VGMDB-AL-93338-1" />
         </entry>
@@ -24,7 +24,7 @@
 
     <entry id="M-VGMDB-AL-93338" title="Yozora / Minori Suzuki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Visual(VisualKind.AlbumArt, 0.3, 0.2)
+        <visual type="albumArt" base="0.3" unique="0.2" />
 
         <entry id="$-1" title="夜空">
             <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

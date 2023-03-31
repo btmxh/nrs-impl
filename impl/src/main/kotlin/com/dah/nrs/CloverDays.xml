@@ -11,7 +11,7 @@
             <!-- so many routes to choose lol -->
 
             ConsumedProgress(EntryStatus.Watching, 1.0, 3.hours)
-            Visual(VisualKind.VisualNovel, 0.6, 0.4)
+            <visual type="visualNovel" base="0.6" unique="0.4" />
             NEI(0.5, Emotion.MP)
             NEI(0.25, Emotion.AP)
             <featureMusic id="M-VGMDB-AL-45544-40" />
@@ -20,7 +20,7 @@
 
         <entry id="M-VGMDB-AL-45544" title="Clover Day's ORIGINAL SOUNDTRACKS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+            <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-40" title="Clover Day's full ver.">
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

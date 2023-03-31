@@ -14,7 +14,7 @@
 
             Cry(Emotion.CU)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-            Visual(VisualKind.Animated, 0.5, 0.3)
+            <visual type="animated" base="0.5" unique="0.3" />
 
             KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
             KilledBy("F-VGMDB-3245", potential = 0.25, effect = 0.8)
@@ -30,7 +30,7 @@
 
         <entry id="M-VGMDB-AL-114102" title="SELECTION PROJECT Main Theme Song CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.3)
+            <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Glorious Days">
                 <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
@@ -39,7 +39,7 @@
 
         <entry id="M-VGMDB-AL-115010" title="SELECTION PROJECT CHARACTER SONG CD 03"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            <visual type="albumArt" base="0.3" unique="0.3" />
             <entry id="$-1" title="ENDROLL"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:53" /> <!-- impl_overridden -->
                 <music base="0.4" />

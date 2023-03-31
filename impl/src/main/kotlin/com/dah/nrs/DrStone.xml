@@ -13,7 +13,7 @@
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 24)
-            Visual(VisualKind.Animated, 0.3, 0.75)
+            <visual type="animated" base="0.3" unique="0.75" />
             <!-- "plot is good" -->
             AEI(0.25, Emotion.AP)
             <featureMusic id="M-VGMDB-AL-87927-1" />
@@ -30,7 +30,7 @@
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 11)
-            Visual(VisualKind.Animated, 0.3, 0.75)
+            <visual type="animated" base="0.3" unique="0.75" />
             AEI(0.1, Emotion.AP)
         </entry>
 
@@ -43,14 +43,14 @@
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 54.minutes)
-            Visual(VisualKind.Animated, 0.3, 0.75)
+            <visual type="animated" base="0.3" unique="0.75" />
             NEI(0.6, Emotion.AP)
         </entry>
     </entry>
 
     <entry id="M-VGMDB-AL-87927" title="Good Morning World! / BURNOUT SYNDROMES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Visual(VisualKind.AlbumArt, 0.15, 0.2)
+        <visual type="albumArt" base="0.15" unique="0.2" />
 
         <entry id="$-1" title="Good Morning World!">
             <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

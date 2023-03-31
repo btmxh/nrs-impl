@@ -5,7 +5,7 @@
 
         <entry id="M-VGMDB-AL-20118" title="Utauyo!!MIRACLE / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.65, 0.2)
+            <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-2" title="Kirakira Days">
                 <musicConsumedProgress length="3:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -18,7 +18,7 @@
 
         <entry id="M-VGMDB-AL-21146" title="HO-KAGO TEA TIME Second / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.65, 0.2)
+            <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-9" title="Tenshi ni Fureta yo!">
                 <musicConsumedProgress length="4:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -29,7 +29,7 @@
 
         <entry id="M-VGMDB-AL-22848" title="Gohan wa Okazu/U&I / HO-KAGO TEA TIME"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.65, 0.2)
+            <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-2" title="U&I">
                 <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -77,7 +77,7 @@
             <bestGirl name="Azusa Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 12)
-            Visual(VisualKind.Animated, 0.65, 0.2)
+            <visual type="animated" base="0.65" unique="0.2" />
         </entry>
 
         <entry id="A-MAL-7791" title="K-On!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -92,7 +92,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 0.6, 26)
             <featureMusic id="M-VGMDB-AL-21146-9" />
             <featureMusic id="M-VGMDB-AL-22848-2" />
-            Visual(VisualKind.Animated, 0.65, 0.2)
+            <visual type="animated" base="0.65" unique="0.2" />
         </entry>
 
         <entry id="A-MAL-9617" title="K-On! Movie"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -106,7 +106,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.85, 1, 1.hours + 50.minutes)
             <featureMusic id="M-VGMDB-AL-21146-9" />
-            Visual(VisualKind.Animated, 0.65, 0.2)
+            <visual type="animated" base="0.65" unique="0.2" />
         </entry>
     </entry>
 </document>

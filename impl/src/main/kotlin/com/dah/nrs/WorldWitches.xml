@@ -17,7 +17,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.75, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
-            Visual(VisualKind.Animated, 0.2, 0.75)
+            <visual type="animated" base="0.2" unique="0.75" />
         </entry>
 
         <entry id="A-MAL-32866" title="Brave Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -42,7 +42,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             KilledBy("F-VGMDB-694", 0.25, 0.5)
-            Visual(VisualKind.Animated, 0.3, 0.5)
+            <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-38006" title="Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -55,7 +55,7 @@
 
             <!-- mc is cute -->
             <!-- ngl this is a treat for our eyes -->
-            Visual(VisualKind.Animated, 0.8, 0.05)
+            <visual type="animated" base="0.8" unique="0.05" />
 <!--        <bestGirl name="Robertson Virginia" /> -->
             <bestGirl name="Inori Shibuya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- inori is cuter fuck u -->
@@ -78,7 +78,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-116433" title="My Shining Light / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.6, 0.2)
+            <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="My Shining Light">
                 <musicConsumedProgress length="4:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -93,7 +93,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-108019" title="Sora ni Chikau kara / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.6, 0.2)
+            <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="Sora ni Chikau kara">
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -102,7 +102,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-120491" title="WONDERFUL WORLD / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.75, 0.15)
+            <visual type="albumArt" base="0.75" unique="0.15" />
 
             <entry id="$-1" title="WONDERFUL WORLD">
                 <musicConsumedProgress length="3:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -112,7 +112,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-120492" title="Watashi to Minna no Uta / Luminous Witches"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.7, 0.15)
+            <visual type="albumArt" base="0.7" unique="0.15" />
 
             <entry id="$-1" title="Watashi to Minna no Uta">
                 <musicConsumedProgress length="4:24" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -125,7 +125,7 @@
         <!-- the carrier (not atelier reference) of post-modern culture -->
         <!-- (sasuga the mfs who are living rent-free in rst territory) -->
         <entry id="M-VGMDB-AL-121418" title="LUMINOUS WITCHES CHARACTER SONG CD vol.3"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.7, 0.15)
+            <visual type="albumArt" base="0.7" unique="0.15" />
 
             <entry id="$-5" title="歌を歌おう (finale)">
                 <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -135,7 +135,7 @@
 
         <entry id="M-VGMDB-AL-31409" title="Strike Witches Gekijouban Original Soundtrack"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.4)
+            <visual type="albumArt" base="0.3" unique="0.4" />
 
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
                 <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

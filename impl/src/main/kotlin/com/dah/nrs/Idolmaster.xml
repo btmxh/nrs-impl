@@ -12,7 +12,7 @@
 
         <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.25)
+            <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Dreaming!">
                 <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />
@@ -20,7 +20,7 @@
             </entry>
         </entry>        <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.25)
+            <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Dreaming!">
                 <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />
@@ -31,7 +31,7 @@
 
         <entry id="M-VGMDB-AL-78253" title="THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.15)
+            <visual type="albumArt" base="0.4" unique="0.15" />
 
             <entry id="$-1" title="UNION!!">
                 <musicConsumedProgress length="5:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -57,7 +57,7 @@
             <!-- idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig. -->
             <music base="0.03" />
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 25)
-            Visual(VisualKind.Animated, 0.4, 0.3)
+            <visual type="animated" base="0.4" unique="0.3" />
         </entry>
 
         NEI(0.25, Emotion.AP) {
@@ -74,7 +74,7 @@
             </source>
             <bestGirl name="Chieri Ogata" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 13)
-            Visual(VisualKind.Animated, 0.5, 0.2)
+            <visual type="animated" base="0.5" unique="0.2" />
         </entry>
 
         <entry id="A-MAL-30344" title="The iDOLM@STER Cinderella Girls 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -86,7 +86,7 @@
             </source>
             <bestGirl name="Chieri Ogata" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
-            Visual(VisualKind.Animated, 0.5, 0.2)
+            <visual type="animated" base="0.5" unique="0.2" />
         </entry>
     </entry>
 </document>

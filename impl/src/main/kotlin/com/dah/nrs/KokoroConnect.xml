@@ -5,7 +5,7 @@
 
         <entry id="M-VGMDB-AL-35431" title="Kokoro Connect Original Soundtrack 2 Hito Random & Kizu Random Opening Theme Song \">Kimochi Signal\" / Kizu Random Ending Theme Song \"Cry out\"" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.3)
+            <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Kimochi Signal">
                 <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -42,7 +42,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
 
-            Visual(VisualKind.Animated, 0.4, 0.3)
+            <visual type="animated" base="0.4" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-35431" />
         </entry>
@@ -56,7 +56,7 @@
             <bestGirl name="Iori Nagase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 4)
-            Visual(VisualKind.Animated, 0.4, 0.3)
+            <visual type="animated" base="0.4" unique="0.3" />
         </entry>
     </entry>
 </document>

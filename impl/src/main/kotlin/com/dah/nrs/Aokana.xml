@@ -25,7 +25,7 @@
 
             <featureMusic id="M-VGMDB-AL-52834" />
 
-            Visual(VisualKind.VisualNovel, 0.8, 0.1)
+            <visual type="visualNovel" base="0.8" unique="0.1" />
 
             <!-- idk what is this ngl -->
             Meme(0.8, 25)
@@ -35,12 +35,12 @@
         <entry id="M-VGMDB-AL-52834" title="Ao no Kanata no Four Rhythm Vocal & Sound Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- too lazy to rate every single track -->
             <music base="0.8" />
-            Visual(VisualKind.AlbumArt, 0.2, 0.15)
+            <visual type="albumArt" base="0.2" unique="0.15" />
             Remix("M-20221202T205008")
         </entry>
 
         <entry id="M-VGMDB-AL-55828" title="Contrail ~Kiseki~ / Mami Kawada"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            <visual type="albumArt" base="0.2" unique="0.4" />
             <entry id="$-1" title="Contrail ~Kiseki~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />

@@ -12,7 +12,7 @@
                 <mal id="32281"/>
             </source>
 
-            Visual(VisualKind.Animated, 0.5, 0.75)
+            <visual type="animated" base="0.5" unique="0.75" />
 
             <bestGirl name="Miki Okudera" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
@@ -31,14 +31,14 @@
             </source>
             <bestGirl name="Hina Amano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            Visual(VisualKind.Animated, 0.6, 0.75)
+            <visual type="animated" base="0.6" unique="0.75" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 52.minutes)
             <featureMusic id="M-VGMDB-AL-87003" />
         </entry>
 
         <entry id="M-VGMDB-AL-87003" title="Tenki no Ko / RADWIMPS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.5)
+            <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-28" title="Grand Escape (Movie edit) feat, Miura Toko">
                 <musicConsumedProgress length="3:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />

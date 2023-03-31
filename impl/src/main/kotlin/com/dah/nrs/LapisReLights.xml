@@ -19,7 +19,7 @@
 
             <!-- funny af, love live stands no chance -->
             EHI()
-            Visual(VisualKind.Animated, 0.4, 0.2)
+            <visual type="animated" base="0.4" unique="0.2" />
             <featureMusic id="M-VGMDB-AL-104957" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
@@ -34,7 +34,7 @@
 
         <entry id="M-VGMDB-AL-104957" title="700,000,000,000,000,000,000,000 no Sora de / LiGHTs"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.2)
+            <visual type="albumArt" base="0.4" unique="0.2" />
 
             <entry id="$-1" title="700,000,000,000,000,000,000,000 no Sora de">
                 <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

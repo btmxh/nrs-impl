@@ -12,7 +12,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-34051" title="Snow halation / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.1, 0.5)
+            <visual type="albumArt" base="0.1" unique="0.5" />
 
             <entry id="$-1" title="Snow halation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -25,7 +25,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-36547" title="Bokura wa Ima no Naka de / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Bokura wa Ima no Naka de"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -35,7 +35,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-75504" title="Music S.T.A.R.T!! / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-2" title="LOVELESS WORLD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -45,7 +45,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-93532" title="A song for You! You? You!! / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="A song for You! You? You!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -65,7 +65,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-58147" title="Aozora Jumping Heart / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Aozora Jumping Heart"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -75,7 +75,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-58750" title="Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu! / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Kimeta yo Hand in Hand"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -85,7 +85,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-70622" title="Yuuki wa Doko ni? Kimi no Mune ni! / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Yuuki wa Doko ni? Kimi no Mune ni!">
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -95,7 +95,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-71404" title="MY MAI☆TONIGHT/MIRACLE WAVE / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-2" title="MIRACLE WAVE">
                 <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -105,7 +105,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-78378" title="Thank you, FRIENDS!! / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Thank you, FRIENDS!!">
                 <musicConsumedProgress length="6:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -115,7 +115,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-87199" title="Mitaiken HORIZON / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Mitaiken HORIZON">
                 <musicConsumedProgress length="5:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -124,7 +124,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <entry id="M-VGMDB-AL-71405" title="Awaken the power / Saint Aqours Snow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
             <entry id="$-3" title="DROPOUT!?"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
@@ -146,7 +146,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-97692" title="LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.4)
+            <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Beginner's Sailing">
                 <musicConsumedProgress length="4:47" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -156,7 +156,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-102276" title="Nijiiro Passions! / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.25)
+            <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="Nijiiro Passions!">
                 <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -166,7 +166,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-102277" title="NEO SKY, NEO MAP! / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.25)
+            <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="NEO SKY, NEO MAP!">
                 <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -188,7 +188,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-80802" title="TOKIMEKI Runners / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            <visual type="albumArt" base="0.3" unique="0.6" />
 
             <entry id="$-1" title="TOKIMEKI Runners"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -213,7 +213,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-87198" title="Love U my friends / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            <visual type="albumArt" base="0.3" unique="0.6" />
 
             <entry id="$-10" title="Love U my friends"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -233,7 +233,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-99272" title="Just Believe!!! / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            <visual type="albumArt" base="0.3" unique="0.6" />
 
             <entry id="$-12" title="Just Believe!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -259,7 +259,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-112929" title="L!L!L! (Love the Life We Live) / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.6)
+            <visual type="albumArt" base="0.3" unique="0.6" />
 
             <entry id="$-2" title="Break The System"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -271,7 +271,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
                     " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
                     " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
 
-            Visual(VisualKind.AlbumArt, 0.65, 0.25)
+            <visual type="albumArt" base="0.65" unique="0.25" />
 
             <!-- the first ayumu-era theme song -->
             <entry id="$-1" title="Dream with You"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -291,7 +291,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AL-104783" title="Awakening Promise/Yume ga Koko kara Hajimaru yo / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.65, 0.25)
+            <visual type="albumArt" base="0.65" unique="0.25" />
 
             <entry id="$-1" title="Awakening Promise">
                 <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -355,7 +355,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <featureMusic id="M-VGMDB-AL-36547-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
-            Visual(VisualKind.Animated, 0.25, 0.4)
+            <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-19111" title="Love Live! School Idol Project 2nd Season">
@@ -370,7 +370,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <featureMusic id="M-VGMDB-AL-34051-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
-            Visual(VisualKind.Animated, 0.25, 0.4)
+            <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-24997" title="Love Live! The School Idol Movie">
@@ -384,7 +384,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 54.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.1, effect = 1.0)
-            Visual(VisualKind.Animated, 0.25, 0.4)
+            <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-32526" title="Love Live! Sunshine!!">
@@ -399,7 +399,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <featureMusic id="M-VGMDB-AL-58750-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
-            Visual(VisualKind.Animated, 0.25, 0.4)
+            <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-34973" title="Love Live! Sunshine!! 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -415,7 +415,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <featureMusic id="M-VGMDB-AL-70622-1" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
-            Visual(VisualKind.Animated, 0.25, 0.4)
+            <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-37027" title="Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -428,7 +428,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 40.minutes)
             KilledBy("F-VGMDB-7059", potential = 0.15, effect = 1.0)
-            Visual(VisualKind.Animated, 0.25, 0.4)
+            <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <!-- niji arcs -->
@@ -477,7 +477,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
             AEI(0.4, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-            Visual(VisualKind.Animated, 0.6, 0.25)
+            <visual type="animated" base="0.6" unique="0.25" />
 
             Meme(1.0, numDays("2020-10-17" /*airtime of episode 3*/, "2021-02-01"))
 
@@ -517,7 +517,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
-            Visual(VisualKind.Animated, 0.6, 0.25)
+            <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 
         NEI(0.75, Emotion.AP) {
@@ -561,7 +561,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
             <!-- jk -->
             <bestGirl name="Ayumu Uehara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            Visual(VisualKind.Animated, 0.6, 0.25)
+            <visual type="animated" base="0.6" unique="0.25" />
 
             <!-- lol after all this time xddddddddddd -->
             AnimeConsumedProgress(EntryStatus.OnHold, 0.7, 3)
@@ -580,7 +580,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
             KilledBy("F-VGMDB-7059", potential = 0.6, effect = 1.0)
-            Visual(VisualKind.Animated, 0.6, 0.25)
+            <visual type="animated" base="0.6" unique="0.25" />
             AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
         </entry>
     </entry>

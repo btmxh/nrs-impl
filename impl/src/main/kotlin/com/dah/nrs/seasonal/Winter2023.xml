@@ -22,7 +22,7 @@
         <bestGirl name="Anisphia Wynn Palletia" />
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 3)
-        Visual(VisualKind.Animated, 0.5, 0.3)
+        <visual type="animated" base="0.5" unique="0.3" />
 
         <!-- the first ep already gave me chill :skull: -->
         AEI(0.2, Emotion.CP to 0.8, Emotion.MP to 0.2)
@@ -51,7 +51,7 @@
         <bestGirl name="Ann Halford" />
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
-        Visual(VisualKind.Animated, 0.4, 0.6)
+        <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
     <entry id="A-MAL-49612" title="Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -67,7 +67,7 @@
         <bestGirl name="Tiana" />
 
         AnimeConsumedProgress(EntryStatus.Watching, 1.0, 2)
-        Visual(VisualKind.Animated, 0.3, 0.6)
+        <visual type="animated" base="0.3" unique="0.6" />
 
         <!-- focus on [trust], somewhat interesting -->
         <!-- idk will this be able to continued to other eps tho -->

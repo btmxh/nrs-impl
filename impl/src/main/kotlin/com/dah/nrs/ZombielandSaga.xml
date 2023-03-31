@@ -14,7 +14,7 @@
             <!-- kinda funny -->
             AEI(0.5, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.4, 0.5)
+            <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
         <entry id="A-MAL-40174" title="Zombieland Saga: Revenge"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -29,14 +29,14 @@
             <!-- the zombieland saga incident -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 7)
             Dropped()
-            Visual(VisualKind.Animated, 0.4, 0.5)
+            <visual type="animated" base="0.4" unique="0.5" />
             KilledBy("V-VNDB-12849", 0.3, 0.2)
             <featureMusic id="M-VGMDB-AL-109367" />
         </entry>
 
         <entry id="M-VGMDB-AL-109367" title="Taiga yo Tomo ni Naite Kure/Nope!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Taiga yo Tomo ni Naite Kure">
                 <musicConsumedProgress length="3:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.55" />

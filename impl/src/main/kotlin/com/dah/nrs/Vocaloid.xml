@@ -5,10 +5,10 @@
         <!-- there is no vgmdb entry for this -->
         <!-- but there is a mal one kek -->
 
-        Visual(VisualKind.AlbumArt, 0.1, 0.2)
+        <visual type="albumArt" base="0.1" unique="0.2" />
 
         <entry id="$-6" title="Chikyuu Saigo no Kokuhaku wo">
-            Visual(VisualKind.AnimatedMV, 0.5, 0.5)
+            <visual type="animatedMV" base="0.5" unique="0.5" />
             <!-- the legendary fifth ayumu-era theme song -->
 
             <!-- for some reason, this almost made me cry -->
@@ -41,7 +41,7 @@
 
     <entry id="M-20221115T105859" title="AI">
 
-        Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
+        <visual type="semiAnimatedMV" base="0.6" unique="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
         <musicConsumedProgress length="4:23" />
         <music base="0.65" />
@@ -50,7 +50,7 @@
 
     <entry id="M-20221219T233957" title="Calc.">
 
-        Visual(VisualKind.StaticMV, 0.2, 0.4)
+        <visual type="staticMV" base="0.2" unique="0.4" />
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         <musicConsumedProgress length="3:56" />
         <music base="0.6" />
@@ -58,7 +58,7 @@
     </entry>
 
     <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        Visual(VisualKind.AlbumArt, 0.3, 0.3)
+        <visual type="albumArt" base="0.3" unique="0.3" />
         <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -120,7 +120,7 @@
             OsuSong(personal = 0.5, community = 0.5)
         }
     </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        Visual(VisualKind.AlbumArt, 0.3, 0.3)
+        <visual type="albumArt" base="0.3" unique="0.3" />
         <entry id="$-22" title="from Y to Y">
             <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- "the pads won't stop at the seventh day" -->
@@ -186,7 +186,7 @@
 
     <entry id="M-20221217T174507" title="Kutsumigaki to Maria">
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
-        Visual(VisualKind.AnimatedMV, 0.5, 0.6)
+        <visual type="animatedMV" base="0.5" unique="0.6" />
         <music base="0.45" /> <!-- a bit dull at times but... -->
         <ref name="KoikakeCry" _.contribution="0.85" _.emotions="Emotion.MP to 0.5, Emotion.CU to 0.5" />
         <!-- the part though wtf -->
@@ -216,7 +216,7 @@
         <!-- the song still slaps tho -->
         <!-- no ei in nee sadge -->
 
-        Visual(VisualKind.SemiAnimatedMV, 0.6, 0.5)
+        <visual type="semiAnimatedMV" base="0.6" unique="0.5" />
         <music base="0.5" />
         <!-- Length source: https://www.youtube.com/watch?v=EHxFEHPBDP8 -->
         <musicConsumedProgress length="4:28" />

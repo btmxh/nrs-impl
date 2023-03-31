@@ -22,7 +22,7 @@
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 25)
-            Visual(VisualKind.Animated, 0.2, 0.6)
+            <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
         <entry id="A-MAL-25777" title="Shingeki no Kyojin Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -34,7 +34,7 @@
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.2, 0.6)
+            <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
         <entry id="A-MAL-35760" title="Shingeki no Kyojin Season 3"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -46,7 +46,7 @@
             </source>
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.2, 0.6)
+            <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
         <!-- this has more score than almost all love live animes -->
@@ -64,7 +64,7 @@
             <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 10)
             AEI(0.5, Emotion.AP)
-            Visual(VisualKind.Animated, 0.2, 0.6)
+            <visual type="animated" base="0.2" unique="0.6" />
         </entry>
     </entry>
 </document>

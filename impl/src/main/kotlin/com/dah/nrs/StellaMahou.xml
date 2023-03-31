@@ -13,7 +13,7 @@
 
             <!-- i love music composers -->
             <bestGirl name="Kayo Fujikawa" />
-            Visual(VisualKind.Animated, 0.5, 0.4)
+            <visual type="animated" base="0.5" unique="0.4" />
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             NEI(0.5, Emotion.AP)
             NEI(0.2, Emotion.CP)
@@ -21,7 +21,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-60899" title="God Save The Girls / Shino Shimoji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.2, 0.2)
+            <visual type="albumArt" base="0.2" unique="0.2" />
             <entry id="$-1" title="God Save The Girls"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />

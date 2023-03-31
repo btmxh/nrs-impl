@@ -14,7 +14,7 @@
             <bestGirl name="Rinku Aimoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-            Visual(VisualKind.Animated, 0.4, 0.75)
+            <visual type="animated" base="0.4" unique="0.75" />
             <featureMusic id="M-VGMDB-AL-107257" />
             <featureMusic id="M-VGMDB-AL-108580-2" />
             KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.2)
@@ -31,7 +31,7 @@
 
         <entry id="M-VGMDB-AL-107257" title="Guruguru DJ TURN!! / Happy Around!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.75)
+            <visual type="albumArt" base="0.4" unique="0.75" />
             <entry id="$-3" title="Guruguru DJ TURN!!">
                 <musicConsumedProgress length="3:43" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />

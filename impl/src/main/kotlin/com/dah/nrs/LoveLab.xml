@@ -13,14 +13,14 @@
 
             <bestGirl name="Riko Kurahashi" />
 
-            Visual(VisualKind.Animated, 0.5, 0.3)
+            <visual type="animated" base="0.5" unique="0.3" />
             AnimeConsumedProgress(EntryStatus.Completed, 0.9, 12)
             NEI(0.5, Emotion.AP)
             <featureMusic id="M-VGMDB-AL-40263-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-40263" title="Love Lab Vol.2 Bonus CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.1, 0.2)
+            <visual type="albumArt" base="0.1" unique="0.2" />
             <entry id="$-1" title="Best FriendS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />

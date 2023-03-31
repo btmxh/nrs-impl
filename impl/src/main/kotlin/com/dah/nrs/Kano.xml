@@ -13,7 +13,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-95369" title="Bambino / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.2, 0.5)
+                <visual type="albumArt" base="0.2" unique="0.5" />
 
                 <entry id="$-1" title="ハロ/ハワユ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -25,7 +25,7 @@
 
             <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.35, 0.4)
+                <visual type="albumArt" base="0.35" unique="0.4" />
 
                 <entry id="$-6" title="インタビュア">
                     <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -42,7 +42,7 @@
 
             <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.25, 0.5)
+                <visual type="albumArt" base="0.25" unique="0.5" />
 
                 Impact {
                     description = "Romance name"
@@ -67,7 +67,7 @@
 
             <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.55, 0.45)
+                <visual type="albumArt" base="0.55" unique="0.45" />
 
                 <entry id="$-1" title="グッドナイトエヴリワン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="5:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -84,8 +84,8 @@
 
             <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.5, 0.4)
-                Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
+                <visual type="albumArt" base="0.5" unique="0.4" />
+                <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
 
                 <entry id="$-1" title="Stella-rium">
                     <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -96,8 +96,8 @@
 
             <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.2, 0.6)
-                Visual(VisualKind.AnimatedMV, 0.6, 0.4)
+                <visual type="albumArt" base="0.2" unique="0.6" />
+                <visual type="animatedMV" base="0.6" unique="0.4" />
 
                 <entry id="$-1" title="ディアブレイブ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -108,11 +108,11 @@
 
             <entry id="M-VGMDB-AL-57564" title="nowhere / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.4, 0.5)
+                <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <entry id="$-1" title="Prima Stella"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Visual(VisualKind.SemiAnimatedMV, 0.5, 0.3)
+                    <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
                     <music base="0.5" />
                     NEI(0.1, Emotion.CU)
                 </entry>
@@ -128,14 +128,14 @@
 
             <entry id="M-VGMDB-AL-73516" title="one / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.4, 0.5)
+                <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <contains id="M-VGMDB-AL-34411-11" />
             </entry>
 
             <entry id="M-VGMDB-AL-89290" title="three / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.4, 0.5)
+                <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <entry id="$-6" title="地球最後の告白を"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
@@ -173,10 +173,10 @@
                 <!-- which is MP-based, and it's a pretty good contrast to -->
                 <!-- some songs from the album (like it's not world's end -->
                 <!-- or sakura no zenya), which are CU-based. -->
-                Visual(VisualKind.AlbumArt, 0.4, 0.7)
+                <visual type="albumArt" base="0.4" unique="0.7" />
                 NEI(0.2, Emotion.MP to 0.6, Emotion.CU to 0.4)
                 <!-- crossfade thing: https://www.nicovideo.jp/watch/sm19702966 -->
-                Visual(VisualKind.AnimatedMV, 0.3, 0.65)
+                <visual type="animatedMV" base="0.3" unique="0.65" />
 
 <!--        Impact { -->
 <!--            description = "Album art" -->
@@ -194,7 +194,7 @@
                     <musicConsumedProgress length="4:50" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <!-- the original MV is for the mix version -->
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
-                    Visual(VisualKind.SemiAnimatedMV, 0.35, 0.6)
+                    <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
                     <music base="0.25" />
                     NEI(0.125, Emotion.MP)
                 </entry>
@@ -228,7 +228,7 @@
 
                 <entry id="$-6" title="サクラノ前夜"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="6:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    Visual(VisualKind.AnimatedMV, 0.35, 0.6)
+                    <visual type="animatedMV" base="0.35" unique="0.6" />
                     <music base="0.7" />
                     NEI(0.25, Emotion.CU)
                     <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="Emotion.CU to 0.5, Emotion.MP to 0.4, Emotion.CP to 0.1" />
@@ -241,7 +241,7 @@
             <!-- oh except for this, i forgor -->
             <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
 
-                Visual(VisualKind.AnimatedMV, 0.35, 0.7)
+                <visual type="animatedMV" base="0.35" unique="0.7" />
                 <!-- 210 bpm spaced bursts -->
                 OsuSong(personal = 0.5)
 

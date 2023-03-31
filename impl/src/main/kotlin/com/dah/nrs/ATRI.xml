@@ -15,7 +15,7 @@
             AEI(0.8, Emotion.CU to 0.8, Emotion.AP to 0.2)
             ConsumedProgress(EntryStatus.OnHold, 0.8, 10.hours)
 
-            Visual(VisualKind.VisualNovel, 0.7, 0.15)
+            <visual type="visualNovel" base="0.7" unique="0.15" />
 
             Meme(0.5, 10)
             <featureMusic id="M-VGMDB-AL-100754" />
@@ -23,7 +23,7 @@
 
         <entry id="M-VGMDB-AL-100754" title="ATRI -My Dear Moments- Original Soundtrack"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.7, 0.15)
+            <visual type="albumArt" base="0.7" unique="0.15" />
 
             <!-- like the aokana soundtrack album -->
             <music base="0.6" />

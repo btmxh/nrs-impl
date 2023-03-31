@@ -19,7 +19,7 @@
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 1, 1.hours + 30.minutes)
 
             <featureMusic id="M-VGMDB-AL-69257-1" />
-            Visual(VisualKind.Animated, 0.4, 0.5)
+            <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
         <contains id="M-VGMDB-AL-69257-1" />

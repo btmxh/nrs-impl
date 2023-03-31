@@ -96,7 +96,7 @@
 
         <entry id="M-VGMDB-AL-47403" title="Hoshikuzu no Interlude / fhána"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.3)
+            <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Hoshikuzu no Interlude"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="6:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -190,7 +190,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-69147" title="TAILWIND / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.3)
+                <visual type="albumArt" base="0.1" unique="0.3" />
 
                 <entry id="$-11" title="かかわり"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -199,7 +199,7 @@
             </entry>
 
             <entry id="M-VGMDB-AL-66901" title="adrenaline!!! / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Visual(VisualKind.AlbumArt, 0.2, 0.3)
+                <visual type="albumArt" base="0.2" unique="0.3" />
                 <entry id="$-1" title="adrenaline!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
@@ -231,7 +231,7 @@
             </contains>
 
             <entry id="M-VGMDB-AL-69319" title="SHIORI / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Visual(VisualKind.AlbumArt, 0.2, 0.2)
+                <visual type="albumArt" base="0.2" unique="0.2" />
                 <entry id="$-1" title="SHIORI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.45" />
@@ -241,7 +241,7 @@
 
             <entry id="M-VGMDB-AL-23391" title="Connect / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.35, 0.6)
+                <visual type="albumArt" base="0.35" unique="0.6" />
                 <entry id="$-1" title="Connect"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.3" />
@@ -250,7 +250,7 @@
 
             <entry id="M-VGMDB-AL-41292" title="Colorful / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.2)
+                <visual type="albumArt" base="0.1" unique="0.2" />
                 <entry id="$-1" title="カラフル">
                     <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
@@ -262,7 +262,7 @@
 
             <entry id="M-VGMDB-AL-89431" title="Signal / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.2)
+                <visual type="albumArt" base="0.1" unique="0.2" />
                 <entry id="$-1" title="シグナル"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="3:43" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.7" />
@@ -271,7 +271,7 @@
 
             <entry id="M-VGMDB-AL-77471" title="CheerS / ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.4)
+                <visual type="albumArt" base="0.1" unique="0.4" />
 
                 <entry id="$-1" title="CheerS">
                     <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -307,7 +307,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-41278" title="lull ~Soshite Bokura wa~ / Ray"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.15, 0.35)
+                <visual type="albumArt" base="0.15" unique="0.35" />
 
                 <entry id="$-1" title="lull ~Soshite Bokura wa~">
                     <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -317,7 +317,7 @@
 
             <entry id="M-VGMDB-AL-42900" title="ebb and flow / Ray"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.15, 0.45)
+                <visual type="albumArt" base="0.15" unique="0.45" />
 
                 <entry id="$-1" title="ebb and flow">
                     <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -342,7 +342,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-41280" title="Aqua Terrarium / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.175, 0.45)
+                <visual type="albumArt" base="0.175" unique="0.45" />
 
                 <entry id="$-1" title="アクアテラリウム"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -352,7 +352,7 @@
 
             <entry id="M-VGMDB-AL-43164" title="Mitsuba no Musubime / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.45)
+                <visual type="albumArt" base="0.1" unique="0.45" />
 
                 <entry id="$-1" title="Mitsuba no Musubime">
                     <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -362,7 +362,7 @@
 
             <entry id="M-VGMDB-AL-37932" title="Yukitoki / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.15, 0.5)
+                <visual type="albumArt" base="0.15" unique="0.5" />
 
                 <entry id="$-1" title="Yukitoki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -372,7 +372,7 @@
 
             <entry id="M-VGMDB-AL-51516" title="Harumodoki / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.35)
+                <visual type="albumArt" base="0.1" unique="0.35" />
 
                 <entry id="$-1" title="Harumodoki">
                     <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -383,7 +383,7 @@
 
             <entry id="M-VGMDB-AL-96288" title="Megumi no Ame / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.15, 0.45)
+                <visual type="albumArt" base="0.15" unique="0.45" />
 
                 <entry id="$-1" title="芽ぐみの雨"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -393,7 +393,7 @@
 
             <entry id="M-VGMDB-AL-70716" title="over and over / yanaginagi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.05, 0.3)
+                <visual type="albumArt" base="0.05" unique="0.3" />
 
                 <entry id="$-1" title="over and over"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -474,7 +474,7 @@
 
             <entry id="M-VGMDB-AL-93329" title="Aruite Ikou! / Nao Toyama"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.15, 0.2)
+                <visual type="albumArt" base="0.15" unique="0.2" />
 
                 <entry id="$-1" title="Aruite Ikou!">
                     <musicConsumedProgress length="4:24" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -512,7 +512,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-49446" title="Colorful. / Miku Sawai"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.2)
+                <visual type="albumArt" base="0.1" unique="0.2" />
 
                 <entry id="$-1" title="Colorful.">
                     <musicConsumedProgress length="4:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -563,7 +563,7 @@
             <!-- We May Never Meet Again, But I Will Never Forget Your Voice -->
             <entry id="M-VGMDB-AL-69821" title="Egao no Kimi e / Suzuko Mimori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.25, 0.2)
+                <visual type="albumArt" base="0.25" unique="0.2" />
 
                 <entry id="$-1" title="Egao no Kimi e">
                     <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -596,7 +596,7 @@
             <!-- lemur -->
             <entry id="M-VGMDB-AL-51918" title="Kuchizuke Diamond / WEAVER"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.25)
+                <visual type="albumArt" base="0.1" unique="0.25" />
 
                 <entry id="$-1" title="Kuchizuke Diamond"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="3:57" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -613,9 +613,9 @@
             <entry id="M-VGMDB-AL-52045" title="CANDY MAGIC / mimimemeMIMI [Yuki Takao Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <!-- yuki takao version: https://vgmdb.net/album/52045 -->
-                Visual(VisualKind.AlbumArt, 0.1, 0.3)
+                <visual type="albumArt" base="0.1" unique="0.3" />
                 <!-- mememememememe version: https://vgmdb.net/album/52046 -->
-                Visual(VisualKind.AlbumArt, 0.3, 0.35)
+                <visual type="albumArt" base="0.3" unique="0.35" />
 
                 <entry id="$-1" title="CANDY MAGIC"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -625,7 +625,7 @@
 
             <entry id="M-VGMDB-AL-59371" title="hare bare fanfare / mimimemeMIMI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.5, 0.35)
+                <visual type="albumArt" base="0.5" unique="0.35" />
 
                 <!-- kek -->
                 <entry id="$-1" title="hare bare fanfare"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -658,7 +658,7 @@
 
     <entry id="M-VGMDB-AL-69257" title="Uchiage Hanabi / DAOKO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Visual(VisualKind.AlbumArt, 0.1, 0.2)
+        <visual type="albumArt" base="0.1" unique="0.2" />
 
         <entry id="$-1" title="Uchiage Hanabi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <musicConsumedProgress length="4:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -671,7 +671,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-33537" title="crossing field / LiSA"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.1, 0.2)
+                <visual type="albumArt" base="0.1" unique="0.2" />
 
                 <entry id="$-1" title="crossing field"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -770,7 +770,7 @@
             <contains factor="1.0 / 2.0">
                 <entry id="M-VGMDB-AL-78478" title="360° Hoshi no Orchestra / petit milady"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                    Visual(VisualKind.AlbumArt, 0.15, 0.2)
+                    <visual type="albumArt" base="0.15" unique="0.2" />
 
                     <entry id="$-1" title="360° Hoshi no Orchestra"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <musicConsumedProgress length="5:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -874,7 +874,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.6, 0.3)
+                <visual type="albumArt" base="0.6" unique="0.3" />
                 <entry id="$-6" title="Azure Reunion"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="5:06" /> <!-- impl_overridden -->
                     <music base="0.6" />
@@ -899,7 +899,7 @@
         <contains factor="MusicVocalImageContainFactor">
             <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-                Visual(VisualKind.AlbumArt, 0.4, 0.5)
+                <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <entry id="$-5" title="Azure Reunion">
                     <musicConsumedProgress length="5:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

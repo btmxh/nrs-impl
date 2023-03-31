@@ -18,7 +18,7 @@
         <bestGirl name="Yuzu Hosono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         <!-- art has some flaws, but whatever -->
-        Visual(VisualKind.Animated, 0.4, 0.4)
+        <visual type="animated" base="0.4" unique="0.4" />
         <!-- bye lol -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 4)
         Dropped()
@@ -39,7 +39,7 @@
         <!-- obligatory rst-cue studio(s) anime -->
         <!-- art is "interesting" ngl -->
         <!-- (basically it was somewhat decent while having 2002 character designs) -->
-        Visual(VisualKind.Animated, 0.4, 0.85)
+        <visual type="animated" base="0.4" unique="0.85" />
 
         <!-- the rescue mission succeeded let's goooooo -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 9)
@@ -68,7 +68,7 @@
 
         <!-- somewhat unique and cute at the same time ngl -->
         <!-- but still good luck with that -1.0 boredom lol xddddddddddd -->
-        Visual(VisualKind.Animated, 0.75, 0.3)
+        <visual type="animated" base="0.75" unique="0.3" />
 
         NEI(-0.1, Emotion.AU)
 
@@ -100,7 +100,7 @@
         <!-- self-explanatory -->
 
         <!-- good art (the rosia girl looks breedable af) -->
-        Visual(VisualKind.Animated, 0.65, 0.2)
+        <visual type="animated" base="0.65" unique="0.2" />
 
         <!-- still shit anime anyways -->
         <!-- lmfao they used "inverse-killedby" method to not be dropped -->
@@ -140,7 +140,7 @@
         <!-- OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD -->
         <!-- FUCK YOU GET OUT OF MY HEAD FUCK YOU GET OUT OF MY HEAD -->
 
-        Visual(VisualKind.Animated, 0.5, 0.1)
+        <visual type="animated" base="0.5" unique="0.1" />
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         KilledBy("F-VGMDB-4499", potential = 0.5, effect = 0.1)
@@ -161,7 +161,7 @@
         <!-- (they know about her songs in sb69 these cheeky mfs) -->
 
         <!-- https://www.youtube.com/watch?v=2mFt7arKiNE -->
-        Visual(VisualKind.Animated, 0.4, 0.5)
+        <visual type="animated" base="0.4" unique="0.5" />
         AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 7)
         Dropped()
         KilledBy("F-VGMDB-4499", potential = 0.65, effect = 0.1)

@@ -5,7 +5,7 @@
 
         <entry id="M-VGMDB-AL-52993" title="Friend Shitai / Gakuen Seikatsubu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.65, 0.3)
+            <visual type="albumArt" base="0.65" unique="0.3" />
 
             <entry id="$-1" title="Friend Shitai">
                 <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -24,7 +24,7 @@
 
         <entry id="M-VGMDB-AL-53719" title="TV Anime \">Gakkou Gurashi!\" Character Song 4 / Miki Naoki (CV. Rie Takahashi) & Kurumi Ebisuzawa (CV. Ari Ozawa)" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.25)
+            <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="アンハッピーエンドワールド">
                 <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -46,7 +46,7 @@
             Meme(0.2, 6)
             <featureMusic id="M-VGMDB-AL-52993-1" />
 
-            Visual(VisualKind.Animated, 0.6, 0.25)
+            <visual type="animated" base="0.6" unique="0.25" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>

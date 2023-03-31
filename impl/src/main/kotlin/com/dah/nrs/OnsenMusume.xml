@@ -8,7 +8,7 @@
 
         <entry id="M-VGMDB-AL-75349" title="Hop Step Jump! / SPRiNGS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.75, 0.25)
+            <visual type="albumArt" base="0.75" unique="0.25" />
             <entry id="$-1" title="Hop Step Jump!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:59" /> <!-- impl_overridden -->
                 <music base="0.6" />
@@ -27,12 +27,12 @@
 
         <entry id="M-VGMDB-AL-75344" title="Tsuioku Kaleidoscope / SPRiNGS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.75, 0.25)
+            <visual type="albumArt" base="0.75" unique="0.25" />
             <!-- Length source: https://open.spotify.com/album/7iKl9h6FUWmHhRE7tg8yJh -->
             <entry id="$-1" title="純情-SAKURA-"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:44" /> <!-- impl_overridden -->
                 <!-- https://www.youtube.com/watch?v=X2Q-bCS_IRs -->
-                Visual(VisualKind.AnimatedMV, 0.75, 0.25)
+                <visual type="animatedMV" base="0.75" unique="0.25" />
                 <music base="0.5" />
             </entry>
 

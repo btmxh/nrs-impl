@@ -16,7 +16,7 @@
             <!-- "this is a little bit better than gotoubun" -->
             AEI(0.75, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-            Visual(VisualKind.Animated, 0.4, 0.7)
+            <visual type="animated" base="0.4" unique="0.7" />
             <featureMusic id="M-VGMDB-AL-85537-1" />
         </entry>
 
@@ -35,13 +35,13 @@
             <!-- is what i'm thinking but fall 2019 is just another trash season lol -->
             AEI(0.7, Emotion.AP)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
-            Visual(VisualKind.Animated, 0.4, 0.7)
+            <visual type="animated" base="0.4" unique="0.7" />
             <featureMusic id="M-VGMDB-AL-88884-1" />
         </entry>
 
         <entry id="M-VGMDB-AL-85537" title="Seishun Seminar/Never Give It Up!! / Study"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.7)
+            <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Seishun Seminar">
                 <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -52,7 +52,7 @@
 
         <entry id="M-VGMDB-AL-88884" title="Can now, Can now / Study"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.7)
+            <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Can now, Can now">
                 <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

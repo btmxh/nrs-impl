@@ -43,13 +43,13 @@
             NEI(0.8, Emotion.AP)
 
             <bestGirl name="Sakura Kawasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            Visual(VisualKind.Animated, 0.6, 0.3)
+            <visual type="animated" base="0.6" unique="0.3" />
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
 
         <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.3)
+            <visual type="albumArt" base="0.6" unique="0.3" />
             <entry id="$-1" title="IDOLY PRIDE">
                 <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />

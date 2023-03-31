@@ -10,7 +10,7 @@
             <bestGirl name="Rokuonji Kaoruko" />
 
             ConsumedProgress(EntryStatus.Watching, 0.9, 3.hours)
-            Visual(VisualKind.VisualNovel, 0.7, 0.3)
+            <visual type="visualNovel" base="0.7" unique="0.3" />
             NEI(0.3, Emotion.MP)
             NEI(0.4, Emotion.AP)
             KilledBy("F-20221128T123502", potential = 0.25, effect = 1.0)
@@ -18,7 +18,7 @@
 
         <entry id="M-VGMDB-AL-67632" title="WAGAMAMA HIGHSPEC OC VOCAL ALBUM"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+            <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="Hey Darling!">
                 <musicConsumedProgress length="3:35" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

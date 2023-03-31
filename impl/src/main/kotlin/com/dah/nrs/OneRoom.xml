@@ -12,7 +12,7 @@
 
         <entry id="M-VGMDB-AL-63666" title="harumachi clover / Yui Hanasaka (CV: M·A·O)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.25)
+            <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Harumachi Clover">
                 <musicConsumedProgress length="4:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- ME NO MAE NO TOBIRA O AKETARA HARU KAZE -->
@@ -41,7 +41,7 @@
 
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 4, 4.minutes)
             Dropped()
-            Visual(VisualKind.Animated, 0.5, 0.25)
+            <visual type="animated" base="0.5" unique="0.25" />
             <featureMusic id="M-VGMDB-AL-63666-1" />
         </entry>
     </entry>

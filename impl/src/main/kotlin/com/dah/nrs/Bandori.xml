@@ -6,7 +6,7 @@
 
         <entry id="M-VGMDB-AL-60358" title="STAR BEAT! ~Hoshi no Kodou~ / Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.1)
+            <visual type="albumArt" base="0.5" unique="0.1" />
 
             <entry id="$-1" title="STAR BEAT! ~Hoshi no Kodou~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -16,7 +16,7 @@
 
         <entry id="M-VGMDB-AL-63624" title="Tokimeki Experience! / Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.2)
+            <visual type="albumArt" base="0.25" unique="0.2" />
 
             <entry id="$-1" title="Tokimeki Experience!">
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -31,7 +31,7 @@
 
         <entry id="M-VGMDB-AL-81504" title="KIZUNA MUSIC♪ / Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.15, 0.4)
+            <visual type="albumArt" base="0.15" unique="0.4" />
 
             <entry id="$-1" title="KIZUNA MUSIC♪"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -55,7 +55,7 @@
 
         <entry id="M-VGMDB-AL-111089" title="Live Beyond!! / Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.15)
+            <visual type="albumArt" base="0.6" unique="0.15" />
 
             <entry id="$-5" title="Koko kara Saki wa Uta ni Naranai">
                 <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -65,7 +65,7 @@
 
         <entry id="M-VGMDB-AL-74133" title="CiRCLiNG / Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.35, 0.15)
+            <visual type="albumArt" base="0.35" unique="0.15" />
 
             <entry id="$-2" title="Light Delight">
                 <musicConsumedProgress length="5:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -78,11 +78,11 @@
         <entry id="M-VGMDB-AL-95118" title="Initial/Yume wo Uchinuku Shunkan ni! / Poppin'Party [Special Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <!-- special edition: https://vgmdb.net/album/95118 -->
-            Visual(VisualKind.AlbumArt, 0.35, 0.15)
+            <visual type="albumArt" base="0.35" unique="0.15" />
             <!-- kirakira ver: https://vgmdb.net/album/92053 -->
-            Visual(VisualKind.AlbumArt, 0.3, 0.15)
+            <visual type="albumArt" base="0.3" unique="0.15" />
             <!-- dokidoki ver: https://vgmdb.net/album/92051 -->
-            Visual(VisualKind.AlbumArt, 0.45, 0.1)
+            <visual type="albumArt" base="0.45" unique="0.1" />
 
             <entry id="$-2" title="Yume wo Uchinuku Shunkan ni!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:40" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -108,7 +108,7 @@
 
         <entry id="M-VGMDB-AL-85172" title="FIRE BIRD / Roselia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.6)
+            <visual type="albumArt" base="0.2" unique="0.6" />
 
             <entry id="$-1" title="FIRE BIRD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -154,7 +154,7 @@
 
         <entry id="M-VGMDB-AL-82743" title="Y.O.L.O!!!!! / Afterglow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.15)
+            <visual type="albumArt" base="0.25" unique="0.15" />
 
             <entry id="$-1" title="Y.O.L.O!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -173,7 +173,7 @@
         <!-- mixed albums -->
         <entry id="M-VGMDB-AL-106577" title="BanG Dream! Girls Band Party! Cover collection vol.5"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.1)
+            <visual type="albumArt" base="0.5" unique="0.1" />
 
             <entry id="$-1" title="Cherry Bomb"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -192,7 +192,7 @@
 
         <entry id="M-VGMDB-AL-114399" title="BanG Dream! Girls Band Party! Cover collection vol.6"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.45, 0.1)
+            <visual type="albumArt" base="0.45" unique="0.1" />
 
             <entry id="$-8" title="Silhouette"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -202,7 +202,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-104105" title="Garupa Vocalo Cover Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            <visual type="albumArt" base="0.3" unique="0.3" />
             <entry id="$-3" title="Melancholic"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
@@ -219,7 +219,7 @@
 
         <entry id="M-VGMDB-AL-101643" title="Sacred world / RAISE A SUILEN"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.3)
+            <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Sacred world"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
@@ -247,7 +247,7 @@
             Meme(0.2, 6)
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 13)
 
-            Visual(VisualKind.Animated, 0.4, 0.4)
+            <visual type="animated" base="0.4" unique="0.4" />
 
             <featureMusic id="M-VGMDB-AL-63624-1" />
             KilledBy("F-VGMDB-2588", potential = 0.5, effect = 0.5)
@@ -265,7 +265,7 @@
             Meme(0.15, 2)
 
             <!-- cg lmfao -->
-            Visual(VisualKind.Animated, 0.15, 0.5)
+            <visual type="animated" base="0.15" unique="0.5" />
             <!-- rip -->
             AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 6)
             Dropped()
@@ -280,7 +280,7 @@
             ValidatorSuppress("dah-entry-no-consumed")
 
             <!-- 3d girl ew /s -->
-            Visual(VisualKind.AlbumArt, 0.1, 0.15)
+            <visual type="albumArt" base="0.1" unique="0.15" />
 
             <entry id="M-20220130T183728-2" title="Cherry Bomb">
 
@@ -297,7 +297,7 @@
         <entry id="M-VGMDB-AL-50723" title="Silhouette / KANA-BOON"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <!-- 3d men ew /s -->
-            Visual(VisualKind.AlbumArt, 0.08, 0.175)
+            <visual type="albumArt" base="0.08" unique="0.175" />
 
             <entry id="$-1" title="Silhouette"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

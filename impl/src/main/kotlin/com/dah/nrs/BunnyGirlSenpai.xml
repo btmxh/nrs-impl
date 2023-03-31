@@ -16,7 +16,7 @@
             Dropped()
             <!-- plot kinda ok -->
             NEI(0.5, Emotion.AP)
-            Visual(VisualKind.Animated, 0.6, 0.15)
+            <visual type="animated" base="0.6" unique="0.15" />
             <featureMusic id="M-VGMDB-AL-80253-1" />
         </entry>
 
@@ -26,7 +26,7 @@
     <entry id="M-VGMDB-AL-80253" title="Kimi no Sei / the peggies"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- tf is this lol -->
-        Visual(VisualKind.AlbumArt, 0.1, 0.6)
+        <visual type="albumArt" base="0.1" unique="0.6" />
 
         <entry id="$-1" title="Kimi no Sei">
             <musicConsumedProgress length="4:24" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

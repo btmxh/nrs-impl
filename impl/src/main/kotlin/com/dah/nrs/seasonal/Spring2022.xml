@@ -13,7 +13,7 @@
 
         AnimeConsumedProgress(EntryStatus.Dropped, 0.6, 5)
         <!-- weak character design, but the thing still looks cute -->
-        Visual(VisualKind.Animated, 0.75, 0.3)
+        <visual type="animated" base="0.75" unique="0.3" />
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.75)
     </entry>
     <entry id="A-MAL-48415" title="Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -28,7 +28,7 @@
 
         AnimeConsumedProgress(EntryStatus.Dropped, 0.5, 2)
         Dropped()
-        Visual(VisualKind.Animated, 0.5, 0.2)
+        <visual type="animated" base="0.5" unique="0.2" />
         KilledBy("F-VGMDB-7059", potential = 0.1, effect = 0.75)
     </entry>
     <entry id="A-MAL-50265" title="Spy x Family"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -61,7 +61,7 @@
         Dropped()
         <!-- unique art because manga, but chara design sucks -->
         <!-- also fuck u boat shit -->
-        Visual(VisualKind.Animated, 0.35, 0.5)
+        <visual type="animated" base="0.35" unique="0.5" />
         KilledBy("F-VGMDB-7059", potential = 0.5, effect = 0.75)
     </entry>
     <entry id="A-MAL-50273" title="Tomodachi Game"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -75,7 +75,7 @@
 
         AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         <!-- unique art because manga, but chara design sucks (p2) -->
-        Visual(VisualKind.Animated, 0.2, 0.5)
+        <visual type="animated" base="0.2" unique="0.5" />
         KilledBy("F-VGMDB-7059", potential = 0.15, effect = 0.75)
 
         <!-- nice plot desu -->

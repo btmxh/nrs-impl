@@ -13,7 +13,7 @@
             </source>
             <bestGirl name="Tsukasa Yuzaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            Visual(VisualKind.Animated, 0.4, 0.6)
+            <visual type="animated" base="0.4" unique="0.6" />
             AnimeConsumedProgress(EntryStatus.Dropped, 0.8, 1)
             Dropped()
             KilledBy("F-VGMDB-2588", 0.2, 0.5)
@@ -22,7 +22,7 @@
 
         <entry id="M-VGMDB-AL-104618" title="Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.6)
+            <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
                 <musicConsumedProgress length="3:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />

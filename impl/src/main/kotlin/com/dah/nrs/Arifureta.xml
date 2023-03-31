@@ -16,7 +16,7 @@
 
             <!-- MC got dumped by his friends made me kinda angry -->
             NEI(0.25, Emotion.AU)
-            Visual(VisualKind.Animated, 0.5, 0.1)
+            <visual type="animated" base="0.5" unique="0.1" />
 
             <featureMusic id="M-VGMDB-AL-86592-1" />
         </entry>
@@ -26,7 +26,7 @@
 
     <entry id="M-VGMDB-AL-86592" title="FLARE / Void_Chords feat.LIO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Visual(VisualKind.AlbumArt, 0.05, 0.5)
+        <visual type="albumArt" base="0.05" unique="0.5" />
         <entry id="$-1" title="FLARE">
             <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.1" />

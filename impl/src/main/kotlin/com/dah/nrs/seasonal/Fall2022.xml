@@ -27,7 +27,7 @@
         <!-- i hate sk (and bk too lol) -->
 
 
-        Visual(VisualKind.Animated, 0.6, 0.2)
+        <visual type="animated" base="0.6" unique="0.2" />
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 4)
         Dropped()
     </entry>
@@ -51,6 +51,6 @@
         <!-- ValidatorSuppress("dah-visualless-entry") -->
         AnimeConsumedProgress(EntryStatus.Dropped, 0.25, 3)
         Dropped()
-        Visual(VisualKind.Animated, 0.4, 0.3)
+        <visual type="animated" base="0.4" unique="0.3" />
     </entry>
 </document>

@@ -31,7 +31,7 @@
             <bestGirl name="Iijima Yun" /> <!-- impl_overridden -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
-            Visual(VisualKind.Animated, 0.7, 0.3)
+            <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-58627-1" />
         </entry>
@@ -47,7 +47,7 @@
             <bestGirl name="Aoba Suzukaze" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             AnimeConsumedProgress(EntryStatus.Completed, 0.8, 12)
-            Visual(VisualKind.Animated, 0.7, 0.3)
+            <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-68225-1" />
         </entry>
@@ -63,7 +63,7 @@
 
         <entry id="M-VGMDB-AL-58627" title="Now Loading!!!! / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.7, 0.3)
+            <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="Now Loading!!!!">
                 <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
@@ -73,7 +73,7 @@
 
         <entry id="M-VGMDB-AL-68225" title="STEP by STEP UP↑↑↑↑ / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.7, 0.3)
+            <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="STEP by STEP UP↑↑↑↑">
                 <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- mankai step by step -->

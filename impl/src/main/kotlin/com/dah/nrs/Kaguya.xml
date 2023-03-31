@@ -7,7 +7,7 @@
         <!-- kaguyashit my behated -->
 
         <entry id="M-VGMDB-AL-83397" title="Chikatto Chika Chika♡ / Chika Fujiwara (CV. Konomi Kohara)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.5, 0.4)
+            <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Chikatto Chika Chika♡">
                 <musicConsumedProgress length="2:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -18,7 +18,7 @@
 
         <entry id="M-VGMDB-AL-116977" title="KAGUYA ♡ ULTRA BEST"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.4)
+            <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-11" title="ありがとう。">
                 <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -50,7 +50,7 @@
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 9)
             Dropped()
-            Visual(VisualKind.Animated, 0.5, 0.4)
+            <visual type="animated" base="0.5" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-83397-1" />
             <!-- domestic kanojo war arc -->
             Meme(0.25, 90)
@@ -69,7 +69,7 @@
             <!-- tatoe asu de sekai ga owattemo -->
             <!-- koukai shinai yo kimi ni deaeta koto -->
 
-            Visual(VisualKind.Animated, 0.5, 0.4)
+            <visual type="animated" base="0.5" unique="0.4" />
             AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
             ValidatorSuppress("dah-entry-no-consumed")
         </entry>
@@ -89,7 +89,7 @@
             <!-- I want you to quietly listen to what I’ll say -->
             <!-- Just for now I’ll say “goodbye” to my cowardly heart -->
 
-            Visual(VisualKind.Animated, 0.5, 0.4)
+            <visual type="animated" base="0.5" unique="0.4" />
             AnimeConsumedProgress(EntryStatus.Unwatched, 0.0, 0)
             ValidatorSuppress("dah-entry-no-consumed")
         </entry>

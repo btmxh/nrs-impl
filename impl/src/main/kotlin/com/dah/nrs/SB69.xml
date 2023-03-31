@@ -146,7 +146,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <featureMusic id="M-VGMDB-AL-51706-2" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.6, 0.4)
+            <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-32038" title="Show By Rock!! #"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -172,7 +172,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <featureMusic id="M-VGMDB-AL-61981-3" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.6, 0.4)
+            <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-40763" title="Show By Rock!! Mashumairesh!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -200,7 +200,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <!-- mashu mp farm got fucked by the existence of the cat -->
             <!-- and pmgc -->
             KilledBy("M-20220125T063355-2", potential = 0.75, effect = 0.75)
-            Visual(VisualKind.Animated, 0.65, 0.4)
+            <visual type="animated" base="0.65" unique="0.4" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
         </entry>
@@ -244,7 +244,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
             <featureMusic id="M-VGMDB-AL-100087-1" />
 
             AnimeConsumedProgress(EntryStatus.Completed, 1.0, 12)
-            Visual(VisualKind.Animated, 0.65, 0.4)
+            <visual type="animated" base="0.65" unique="0.4" />
         </entry>
 
         <!-- fes a live has fhana songs lmao -->
@@ -253,11 +253,11 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-100087" title="How To Fly / Cyan & Howan"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.45, 0.3)
+            <visual type="albumArt" base="0.45" unique="0.3" />
             <entry id="$-1" title="How To Fly"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- fes a live art looks a little bit weird ngl -->
-                Visual(VisualKind.AnimatedMV, 0.45, 0.3)
+                <visual type="animatedMV" base="0.45" unique="0.3" />
                 FesALive<music base="0.35" /> {
                     arc2 = 10.0
                 }
@@ -266,7 +266,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-94913" title="My pace!! / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.7)
+            <visual type="albumArt" base="0.3" unique="0.7" />
 
             <entry id="$-1" title="My pace!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -280,7 +280,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-51276" title="Seishun wa Non-Stop! / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.6)
+            <visual type="albumArt" base="0.6" unique="0.6" />
 
             <entry id="$-1" title="Seishun wa Non-Stop!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -303,7 +303,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-51278" title="Tabimichi Yoiyoi Yume Hanabi / Tsurezurenaru Ayatsuri Mugenan"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.45, 0.5)
+            <visual type="albumArt" base="0.45" unique="0.5" />
 
             <entry id="$-1" title="Tabimichi Yoiyoi Yume Hanabi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -313,7 +313,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-51706" title="Meikyuu DESTINY/Ryuusei Dreamline / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.55, 0.4)
+            <visual type="albumArt" base="0.55" unique="0.4" />
 
             <entry id="$-1" title="Meikyuu DESTINY"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:04" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -331,7 +331,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-61217" title="Heart wo Rock!! / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.45, 0.4)
+            <visual type="albumArt" base="0.45" unique="0.4" />
 
             <entry id="$-1" title="Heart wo Rock!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf -->
@@ -344,7 +344,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-61940" title="Schlehit Melodie/Danzai no Solitude / BUD VIRGIN LOGIC"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.4)
+            <visual type="albumArt" base="0.4" unique="0.4" />
 
             <entry id="$-1" title="Schlehit Melodie"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -354,7 +354,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-61981" title="My Resolution ~Mirai e no Kizuna~ / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.4)
+            <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="My Resolution ～未来への絆～">
                 <musicConsumedProgress length="5:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -371,7 +371,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-59914" title="Do Re Mi Fa PARTY / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.35, 0.5)
+            <visual type="albumArt" base="0.35" unique="0.5" />
 
             <entry id="$-1" title="ドレミファPARTY">
                 <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -396,7 +396,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-93440" title="Hiromenes/Kimi no Rhapsody / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.3)
+            <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Hiromenes">
                 <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -433,7 +433,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-93441" title="Yell and Response / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.5, 0.3)
+            <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="エールアンドレスポンス">
                 <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -443,7 +443,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-112509" title="SHOW BY ROCK!! Trigger Rock / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.5)
+            <visual type="albumArt" base="0.3" unique="0.5" />
 
             <entry id="$-2" title="イントロダクション">
                 <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -458,7 +458,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-104341" title="Do Re Mi Fa STARS!!/Hoshizora Light Story"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.3)
+            <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Do Re Mi Fa STARS!!">
                 <musicConsumedProgress length="4:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -477,7 +477,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-104266" title="TV Anime \">SHOW BY ROCK!! STARS!!\" Sounyuuka Mini Album Vol.1" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.1, 0.2)
+            <visual type="albumArt" base="0.1" unique="0.2" />
 
             <entry id="$-3" title="Do! It! Happy Daibouken!">
                 <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -502,7 +502,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-104267" title="TV Anime \">SHOW BY ROCK!! STARS!!\" Sounyuuka Mini Album Vol.2" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.1, 0.2)
+            <visual type="albumArt" base="0.1" unique="0.2" />
 
             <entry id="$-3" title="Runner's High!!">
                 <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -545,7 +545,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-61982" title="Hanate! Dododon! / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.4)
+            <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="Hanate! Dododon!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="5:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -557,7 +557,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-76149" title="Saishuu Ressha/Hatsukoi no Oto / Uwasanopetals"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.5)
+            <visual type="albumArt" base="0.2" unique="0.5" />
 
             <entry id="$-1" title="最終列車">
                 <musicConsumedProgress length="4:11" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -575,7 +575,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-118562" title="Taikakusen wo Tsunaideyo / Uwasanopetals"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.6, 0.3)
+            <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Taikakusen wo Tsunaideyo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -604,7 +604,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-100082" title="Mirai Wanted / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Mirai Wanted"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -614,18 +614,18 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-116297" title="Bokura no Neiro / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.4, 0.5)
+            <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Bokura no Neiro"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                Visual(VisualKind.SemiAnimatedMV, 0.5, 0.6)
+                <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 FesALive<music base="0.35" />
             </entry>
         </entry>
 
         <entry id="M-VGMDB-AL-105612" title="Mot Mot Mot / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.45)
+            <visual type="albumArt" base="0.25" unique="0.45" />
 
             <entry id="$-1" title="Mot Mot Mot"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -636,7 +636,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-VGMDB-AL-86315" title="P SHOW BY ROCK!! CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.6, 0.5)
+            <visual type="albumArt" base="0.6" unique="0.5" />
 
             <entry id="$-3" title="Nyumber One! Zettai Saikyou!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -652,7 +652,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-76155" title="Loop Shiteru/Asuiro Koi Moyou / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="ループしてる"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -710,7 +710,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- adding these songs to increase Murakawa Rie and Hidaka Rina's score lol -->
         <!-- (i can't accept ayumu va to be higher than rina hidaka lol) -->
         <entry id="M-VGMDB-AL-95313" title="How Are You? / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="はうあーゆー？"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -722,7 +722,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         </entry>
 
         <entry id="M-VGMDB-AL-95314" title="Happy Happy Jump / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            Visual(VisualKind.AlbumArt, 0.3, 0.3)
+            <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="Happy Happy Jump"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -735,7 +735,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-124217" title="Hoshitachi no Orchestra Parade / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.25, 0.4)
+            <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Hoshitachi no Orchestra Parade">
                 <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -751,7 +751,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <entry id="M-VGMDB-AL-124215" title="Koishichatta! / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            Visual(VisualKind.AlbumArt, 0.2, 0.3)
+            <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Koishichatta!">
                 <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 FesALive<music base="0.3" /> {
@@ -824,7 +824,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">
 
             AllSB69Tracks.keys.forEach { Feature<music base="it" /> }
-            Visual(VisualKind.GachaCardArt, 0.4, 0.3)
+            <visual type="gachaCardArt" base="0.4" unique="0.3" />
         </entry>
     </entry>
 

@@ -55,7 +55,7 @@
 
     <entry id="M-VGMDB-AL-111027" title="hololive IDOL PROJECT / Bouquet"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        Visual(VisualKind.AlbumArt, 0.5, 0.3)
+        <visual type="albumArt" base="0.5" unique="0.3" />
 
         <entry id="$-10" title="あすいろClearSky (Bouquet Ver.)">
             <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -75,7 +75,7 @@
             <!-- compared to rst and sb69, "the franchises of all time" -->
             <music base="0.65" />
             <!-- the girls look CG af, but at least the other things are good -->
-            Visual(VisualKind.SemiAnimatedMV, 0.3, 0.2)
+            <visual type="semiAnimatedMV" base="0.3" unique="0.2" />
             <ref name="AKMEraPart1" _.strength="0.4"/>
             <ref name="AKMEraPart2" _.strength="0.1"/>
         </entry>
