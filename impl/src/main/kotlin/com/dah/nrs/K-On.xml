@@ -48,23 +48,23 @@
 
         <!-- Kinda comfy. But not that much. -->
         <nei base="0.5" emotions="MP">
-            contributors["A-MAL-5680"] = 0.4
-            contributors["A-MAL-7791"] = 0.4
-            contributors["A-MAL-9617"] = 0.2
+            <contributor id="A-MAL-5680" factor="0.4" />
+            <contributor id="A-MAL-7791" factor="0.4" />
+            <contributor id="A-MAL-9617" factor="0.2" />
         </nei>
 
         <!-- humor -->
         <nei base="0.25" emotions="AP">
-            contributors["A-MAL-5680"] = 0.4
-            contributors["A-MAL-7791"] = 0.4
-            contributors["A-MAL-9617"] = 0.2
+            <contributor id="A-MAL-5680" factor="0.4" />
+            <contributor id="A-MAL-7791" factor="0.4" />
+            <contributor id="A-MAL-9617" factor="0.2" />
         </nei>
 
         <meme strength="0.5" length="120">
-            contributors["A-MAL-5680"] = 0.35
-            contributors["A-MAL-7791"] = 0.35
-            contributors["A-MAL-9617"] = 0.15
-            contributors["A-MAL-32281"] = 0.15
+            <contributor id="A-MAL-5680" factor="0.35" />
+            <contributor id="A-MAL-7791" factor="0.35" />
+            <contributor id="A-MAL-9617" factor="0.15" />
+            <contributor id="A-MAL-32281" factor="0.15" />
         </meme>
 
         <entry id="A-MAL-5680" title="K-On!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

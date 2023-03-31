@@ -32,8 +32,8 @@
     </entry>
 
     <aei base="0.9" emotions="CU">
-        contributors["A-MAL-38816"] = 0.4
-        contributors["A-MAL-40295"] = 0.6
+        <contributor id="A-MAL-38816" factor="0.4" />
+        <contributor id="A-MAL-40295" factor="0.6" />
     <//entry>
 
 >

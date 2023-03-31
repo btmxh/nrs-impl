@@ -17,18 +17,18 @@
         <contains id="M-VGMDB-AL-49446-1" />
 
         <waifu waifu="Megumi Kato" length="90">
-            contributors["A-MAL-23277"] = 0.5
-            contributors["A-MAL-30727"] = 0.5
+            <contributor id="A-MAL-23277" factor="0.5" />
+            <contributor id="A-MAL-30727" factor="0.5" />
         </waifu>
         <meme strength="0.5" length="45" /> {
-            contributors["A-MAL-23277"] = 0.5
-            contributors["A-MAL-30727"] = 0.5
+            <contributor id="A-MAL-23277" factor="0.5" />
+            <contributor id="A-MAL-30727" factor="0.5" />
         }
 
         <!-- domestic kanojo war arc -->
         <meme strength="0.75" length="90" /> {
-            contributors["A-MAL-23277"] = 0.5
-            contributors["A-MAL-30727"] = 0.5
+            <contributor id="A-MAL-23277" factor="0.5" />
+            <contributor id="A-MAL-30727" factor="0.5" />
         }
 
         <entry id="A-MAL-23277" title="Saenai Heroine no Sodatekata"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

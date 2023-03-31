@@ -56,7 +56,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
     for ((id, value) in AllSB69Tracks) {
         val factor = value.multipliers[era.ordinal] / sum * total
         if (factor > 0) {
-            contributors[id] = factor
+            <contributor id=id factor=factor />
         }
     }
 }
@@ -85,50 +85,50 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- The days that have passed will not come back anymore -->
         <!-- 過ぎた日々はもう 戻らないけど -->
         <cry emotions="CU">
-            contributors["A-MAL-41520"] = 0.5
-            contributors["A-MAL-27441"] = 0.2
-            contributors["A-MAL-32038"] = 0.2
-            contributors["M-VGMDB-AL-51276"] = 0.1
+            <contributor id="A-MAL-41520" factor="0.5" />
+            <contributor id="A-MAL-27441" factor="0.2" />
+            <contributor id="A-MAL-32038" factor="0.2" />
+            <contributor id="M-VGMDB-AL-51276" factor="0.1" />
         </cry>
         <pads length="3" emotions="CU">
-            contributors["A-MAL-41520"] = 0.5
-            contributors["A-MAL-27441"] = 0.25
-            contributors["A-MAL-32038"] = 0.25
+            <contributor id="A-MAL-41520" factor="0.5" />
+            <contributor id="A-MAL-27441" factor="0.25" />
+            <contributor id="A-MAL-32038" factor="0.25" />
             <validatorSuppress rules="dah-lone-pads" />
         </pads>
 
         <aei base="0.5" emotions="AP">
-            contributors["A-MAL-27441"] = 0.5
-            contributors["A-MAL-32038"] = 0.5
+            <contributor id="A-MAL-27441" factor="0.5" />
+            <contributor id="A-MAL-32038" factor="0.5" />
         </aei>
 
         <aei base="0.2" emotions="AP">
-            contributors["A-MAL-40763"] = 0.6
-            contributors["A-MAL-41520"] = 0.4
+            <contributor id="A-MAL-40763" factor="0.6" />
+            <contributor id="A-MAL-41520" factor="0.4" />
         </aei>
 
         <waifu waifu="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10">
-            contributors["A-MAL-27441"] = 0.35
-            contributors["A-MAL-32038"] = 0.35
-            contributors["A-MAL-40763"] = 0.05
-            contributors["A-MAL-41520"] = 0.2
-            contributors["G-VGMDB-8429"] = 0.05
+            <contributor id="A-MAL-27441" factor="0.35" />
+            <contributor id="A-MAL-32038" factor="0.35" />
+            <contributor id="A-MAL-40763" factor="0.05" />
+            <contributor id="A-MAL-41520" factor="0.2" />
+            <contributor id="G-VGMDB-8429" factor="0.05" />
         </waifu>
 
         <killedBy id="F-VGMDB-7059" potential="0.4" effect="0.75">
-            contributors["A-MAL-27441"] = 0.2
-            contributors["A-MAL-32038"] = 0.2
-            contributors["A-MAL-40763"] = 0.2
-            contributors["A-MAL-41520"] = 0.2
-            contributors["G-VGMDB-8429"] = 0.2
+            <contributor id="A-MAL-27441" factor="0.2" />
+            <contributor id="A-MAL-32038" factor="0.2" />
+            <contributor id="A-MAL-40763" factor="0.2" />
+            <contributor id="A-MAL-41520" factor="0.2" />
+            <contributor id="G-VGMDB-8429" factor="0.2" />
         </killedBy>
 
         <killedBy id="O-20220415T155427" potential="0.2" effect="0.75">
-            contributors["A-MAL-27441"] = 0.2
-            contributors["A-MAL-32038"] = 0.2
-            contributors["A-MAL-40763"] = 0.2
-            contributors["A-MAL-41520"] = 0.2
-            contributors["G-VGMDB-8429"] = 0.2
+            <contributor id="A-MAL-27441" factor="0.2" />
+            <contributor id="A-MAL-32038" factor="0.2" />
+            <contributor id="A-MAL-40763" factor="0.2" />
+            <contributor id="A-MAL-41520" factor="0.2" />
+            <contributor id="G-VGMDB-8429" factor="0.2" />
         </killedBy>
 
         <entry id="A-MAL-27441" title="Show By Rock!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -385,13 +385,13 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
         <!-- "visual"s of hiromemes and mashiro start line are good -->
         <nei base="0.5" emotions="MP">
-            contributors["A-MAL-40763"] = 0.75
-            contributors["M-VGMDB-AL-93440-1"] = 0.25
+            <contributor id="A-MAL-40763" factor="0.75" />
+            <contributor id="M-VGMDB-AL-93440-1" factor="0.25" />
         </nei>
 
         <aei base="0.5" emotions="CP">
-            contributors["A-MAL-40763"] = 0.75
-            contributors["M-VGMDB-AL-93440-3"] = 0.25
+            <contributor id="A-MAL-40763" factor="0.75" />
+            <contributor id="M-VGMDB-AL-93440-3" factor="0.25" />
         </aei>
 
         <entry id="M-VGMDB-AL-93440" title="Hiromenes/Kimi no Rhapsody / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -410,7 +410,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
                     arc2 = 20.0
                     arc3 = 10.0
                 }
-                Meme(0.01, numDays("2022-04-01"))
+                <meme strength="0.01" from="2022-04-01" to="today" />
                 <remix id="M-20220702T030659" />
             </entry>
 
@@ -517,9 +517,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
 
                 <!-- "run with all our might" -->
                 <nei base="0.8" emotions="CP">
-                    contributors["M-VGMDB-AL-104267-3"] = 0.2
-                    contributors["O-20221003T175501-2"] = 0.2
-                    contributors["V-VNDB-17516"] = 0.6
+                    <contributor id="M-VGMDB-AL-104267-3" factor="0.2" />
+                    <contributor id="O-20221003T175501-2" factor="0.2" />
+                    <contributor id="V-VNDB-17516" factor="0.6" />
                 </nei>
             </entry>
 
@@ -838,38 +838,38 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
     </entry>
 
     <ref name="RSTSB69DuopolyEra" _.strength="0.8">
-        contributors["A-MAL-27441"] = 0.2
-        contributors["A-MAL-32038"] = 0.25
-        contributors["A-MAL-40763"] = 0.05
-        contributors["A-MAL-41520"] = 0.2
-        contributors["G-VGMDB-8429"] = 0.1
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.05" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.1" />
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.Arc2)
     </ref>
 
     <ref name="AKMEraPart1" _.strength="0.3">
-        contributors["A-MAL-27441"] = 0.2
-        contributors["A-MAL-32038"] = 0.25
-        contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.2
-        contributors["G-VGMDB-8429"] = 0.05
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.1" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.05" />
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM1)
     </ref>
 
     <ref name="AKMEraPart2" _.strength="0.75">
-        contributors["A-MAL-27441"] = 0.2
-        contributors["A-MAL-32038"] = 0.25
-        contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.2
-        contributors["G-VGMDB-8429"] = 0.05
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.1" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.05" />
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM2)
     </ref>
 
     <ref name="AKMEraPart3" _.strength="0.4">
-        contributors["A-MAL-27441"] = 0.2
-        contributors["A-MAL-32038"] = 0.25
-        contributors["A-MAL-40763"] = 0.1
-        contributors["A-MAL-41520"] = 0.2
-        contributors["G-VGMDB-8429"] = 0.05
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.1" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.05" />
         TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM3)
     </ref>
 

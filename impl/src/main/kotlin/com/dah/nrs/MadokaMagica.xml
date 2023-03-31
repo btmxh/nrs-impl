@@ -76,8 +76,8 @@
         </entry>
 
         <meme strength="0.6" from="2019-11-01" to="2020-02-15" /> {
-            contributors["A-MAL-9756"] = 0.8
-            contributors["A-MAL-11981"] = 0.2
+            <contributor id="A-MAL-9756" factor="0.8" />
+            <contributor id="A-MAL-11981" factor="0.2" />
         }
 
         <entry id="A-MAL-9756" title="Mahou Shoujo Madoka★Magica"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -123,28 +123,28 @@
         </entry>
 
         <waifu waifu="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
-            contributors["A-MAL-38256"] = 0.5
-            contributors["G-VGMDB-5237"] = 0.5
+            <contributor id="A-MAL-38256" factor="0.5" />
+            <contributor id="G-VGMDB-5237" factor="0.5" />
         <//entry>
 
 >
 
         <meme strength="0.75" from="2020-02-15" to="2020-08-15" /> {
-            contributors["A-MAL-38256"] = 0.4
-            contributors["G-VGMDB-5237"] = 0.5
-            contributors["A-MAL-9756"] = 0.08
-            contributors["A-MAL-11981"] = 0.02
+            <contributor id="A-MAL-38256" factor="0.4" />
+            <contributor id="G-VGMDB-5237" factor="0.5" />
+            <contributor id="A-MAL-9756" factor="0.08" />
+            <contributor id="A-MAL-11981" factor="0.02" />
         }
 
         <meme strength="0.3" length="2" /> {
-            contributors["A-MAL-41530"] = 1.0
+            <contributor id="A-MAL-41530" factor="1.0" />
         }
 
         <!-- magireco is kinda comfy -->
         <nei base="0.75" emotions="MP">
-            contributors["A-MAL-38256"] = 0.4
-            contributors["G-VGMDB-5237"] = 0.4
-            contributors["A-MAL-41530"] = 0.2
+            <contributor id="A-MAL-38256" factor="0.4" />
+            <contributor id="G-VGMDB-5237" factor="0.4" />
+            <contributor id="A-MAL-41530" factor="0.2" />
         </nei>
 
         <entry id="G-VGMDB-5237" title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden">

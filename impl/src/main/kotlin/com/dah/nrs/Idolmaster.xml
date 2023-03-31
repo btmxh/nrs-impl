@@ -61,8 +61,8 @@
         </entry>
 
         <nei base="0.25" emotions="AP">
-            contributors["A-MAL-23587"] = 0.5
-            contributors["A-MAL-30344"] = 0.5
+            <contributor id="A-MAL-23587" factor="0.5" />
+            <contributor id="A-MAL-30344" factor="0.5" />
         <//entry>
 
 >

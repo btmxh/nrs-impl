@@ -9,23 +9,23 @@
         <!-- https://atelier.fandom.com/wiki/Luis_Bester -->
 
         <ref name="AKMEraPart2" _.strength="0.75">
-            contributors["A-MAL-21167"] = 0.4
-            contributors["G-VGMDB-1880"] = 0.3
-            contributors["G-VGMDB-1090"] = 0.2
-            contributors["G-VGMDB-3499"] = 0.1
+            <contributor id="A-MAL-21167" factor="0.4" />
+            <contributor id="G-VGMDB-1880" factor="0.3" />
+            <contributor id="G-VGMDB-1090" factor="0.2" />
+            <contributor id="G-VGMDB-3499" factor="0.1" />
         </ref>
 
         <ref name="AKMEraPart3" _.strength="1.0">
-            contributors["A-MAL-21167"] = 0.4
-            contributors["G-VGMDB-1880"] = 0.3
-            contributors["G-VGMDB-1090"] = 0.2
-            contributors["G-VGMDB-3499"] = 0.1
+            <contributor id="A-MAL-21167" factor="0.4" />
+            <contributor id="G-VGMDB-1880" factor="0.3" />
+            <contributor id="G-VGMDB-1090" factor="0.2" />
+            <contributor id="G-VGMDB-3499" factor="0.1" />
         </ref>
 
         <ehi>
-            contributors["A-MAL-21167"] = 0.4
-            contributors["G-VGMDB-1880"] = 0.35
-            contributors["G-VGMDB-1090"] = 0.25
+            <contributor id="A-MAL-21167" factor="0.4" />
+            <contributor id="G-VGMDB-1880" factor="0.35" />
+            <contributor id="G-VGMDB-1090" factor="0.25" />
         </ehi>
         <!-- press f to pay respect for our tranny (me) -->
         <!-- rip (btw i started the escha logy game on my birthday lol) -->
@@ -53,8 +53,8 @@
         <!-- me when mc is literally going to live longer than le cat -->
         <!-- the post-modern culture meta lmfaooooooooooooo -->
         <waifu waifu="Malier Escha" from="2022-08-31" to="2022-11-25">
-            contributors["A-MAL-21167"] = 0.2
-            contributors["G-VGMDB-1880"] = 0.8
+            <contributor id="A-MAL-21167" factor="0.2" />
+            <contributor id="G-VGMDB-1880" factor="0.8" />
         </waifu>
 
         <entry id="A-MAL-21167" title="Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

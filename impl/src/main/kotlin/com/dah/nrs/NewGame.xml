@@ -5,19 +5,19 @@
 
         <!-- humor -->
         <aei base="0.25" emotions="AP">
-            contributors["A-MAL-31953"] = 0.5
-            contributors["A-MAL-34914"] = 0.5
+            <contributor id="A-MAL-31953" factor="0.5" />
+            <contributor id="A-MAL-34914" factor="0.5" />
         </aei>
 
         <meme strength="0.2" length="2" /> {
-            contributors["A-MAL-31953"] = 0.5
-            contributors["A-MAL-34914"] = 0.5
+            <contributor id="A-MAL-31953" factor="0.5" />
+            <contributor id="A-MAL-34914" factor="0.5" />
         }
 
         InterestField(true) {
-            contributors["A-MAL-31953"] = 0.25
-            contributors["A-MAL-34914"] = 0.25
-            contributors["A-MAL-13759"] = 0.5
+            <contributor id="A-MAL-31953" factor="0.25" />
+            <contributor id="A-MAL-34914" factor="0.25" />
+            <contributor id="A-MAL-13759" factor="0.5" />
         }
 
         <entry id="A-MAL-31953" title="New Game!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

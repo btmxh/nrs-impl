@@ -74,16 +74,16 @@
 
             <!-- the sadness of the story -->
             <cry emotions="CU">
-                contributors["V-VNDB-17516"] = 0.8
-                contributors["M-VGMDB-AL-58596-14"] = 0.2
+                <contributor id="V-VNDB-17516" factor="0.8" />
+                <contributor id="M-VGMDB-AL-58596-14" factor="0.2" />
             </cry>
 
             <pads length="9" emotions="CU-0.5:MP-0.3:AU-0.1:CP-0.1">
-                contributors["V-VNDB-17516"] = 0.8
-                contributors["M-VGMDB-AL-104267-3"] = 0.05
-                contributors["M-VGMDB-AL-58596-14"] = 0.05
-                contributors["M-VGMDB-AL-43320-8"] = 0.05
-                contributors["M-VGMDB-AL-78595-16"] = 0.05
+                <contributor id="V-VNDB-17516" factor="0.8" />
+                <contributor id="M-VGMDB-AL-104267-3" factor="0.05" />
+                <contributor id="M-VGMDB-AL-58596-14" factor="0.05" />
+                <contributor id="M-VGMDB-AL-43320-8" factor="0.05" />
+                <contributor id="M-VGMDB-AL-78595-16" factor="0.05" />
                 <!-- pack up boys, eroge is ending #ggwp -->
                 <!-- accompanying eis are all of the above, the Koikake* impacts of vocaloid, etc. -->
                 <validatorSuppress rules="dah-lone-pads" />

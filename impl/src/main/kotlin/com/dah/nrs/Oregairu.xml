@@ -12,8 +12,8 @@
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <music base="0.3">
-                contributors["M-VGMDB-AL-37999-1"] = 0.5
-                contributors["M-VGMDB-AL-37999-2"] = 0.5
+                <contributor id="M-VGMDB-AL-37999-1" factor="0.5" />
+                <contributor id="M-VGMDB-AL-37999-2" factor="0.5" />
             </music>
 
             <entry id="$-1" title="Hello Alone">
@@ -32,8 +32,8 @@
             <visual type="albumArt" base="0.4" unique="0.25" />
 
             <music base="0.35">
-                contributors["M-VGMDB-AL-51394-1"] = 0.5
-                contributors["M-VGMDB-AL-51394-3"] = 0.5
+                <contributor id="M-VGMDB-AL-51394-1" factor="0.5" />
+                <contributor id="M-VGMDB-AL-51394-3" factor="0.5" />
             </music>
 
             <entry id="$-1" title="エブリデイワールド">
@@ -64,35 +64,35 @@
         <!-- http://yaharianalysis.x10host.com/ -->
         <!-- (esp. http://yaharianalysis.x10host.com/parts/Yui/index.php) -->
         <maxAEIPADS length="5" emotions="CU">
-            contributors["M-VGMDB-AL-51394-3"] = 0.05
-            contributors["M-VGMDB-AL-37999-2"] = 0.05
-            contributors["A-MAL-14813"] = 0.1
-            contributors["A-MAL-23847"] = 0.8
+            <contributor id="M-VGMDB-AL-51394-3" factor="0.05" />
+            <contributor id="M-VGMDB-AL-37999-2" factor="0.05" />
+            <contributor id="A-MAL-14813" factor="0.1" />
+            <contributor id="A-MAL-23847" factor="0.8" />
         </maxAEIPADS>
 
         <!-- Hikism-Yukism -->
         Politics {
-            contributors["A-MAL-14813"] = 0.6
-            contributors["A-MAL-23847"] = 0.4
+            <contributor id="A-MAL-14813" factor="0.6" />
+            <contributor id="A-MAL-23847" factor="0.4" />
         }
 
         <meme strength="0.7" from="2019-07-14" /*the July 14th incident*/ to="2020-01-01" /> {
-            contributors["A-MAL-14813"] = 0.4
-            contributors["A-MAL-23847"] = 0.6
+            <contributor id="A-MAL-14813" factor="0.4" />
+            <contributor id="A-MAL-23847" factor="0.6" />
         }
 
         <!-- VSCC is pretty comfy (before Yui Depression) -->
         <nei base="0.6" emotions="MP">
-            contributors["A-MAL-14813"] = 0.3
-            contributors["A-MAL-23847"] = 0.7
+            <contributor id="A-MAL-14813" factor="0.3" />
+            <contributor id="A-MAL-23847" factor="0.7" />
         </nei>
 
         <!-- https://github.com/ngoduyanh/nrs-impl-kt/issues/285 -->
         <!-- tldr -->
         <!-- yui was gonna be waifu but yui depression etc etc -->
         <waifu waifu="Yui Yuigahama" length="30">
-            contributors["A-MAL-14813"] = 0.1
-            contributors["A-MAL-23847"] = 0.9
+            <contributor id="A-MAL-14813" factor="0.1" />
+            <contributor id="A-MAL-23847" factor="0.9" />
         </waifu>
 
         <entry id="A-MAL-14813" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

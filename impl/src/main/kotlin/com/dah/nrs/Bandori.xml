@@ -228,9 +228,9 @@
 
         <!-- bandori has some good comedy shit -->
         <aei base="0.2" emotions="AP">
-            contributors["A-MAL-33573"] = 0.5
-            contributors["A-MAL-37869"] = 0.3
-            contributors["G-VGMDB-5172 [null entry]"] = 0.2
+            <contributor id="A-MAL-33573" factor="0.5" />
+            <contributor id="A-MAL-37869" factor="0.3" />
+            <contributor id="G-VGMDB-5172 [null entry]" factor="0.2" />
         </aei>
 
         <entry id="A-MAL-33573" title="BanG Dream!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

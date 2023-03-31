@@ -7,10 +7,10 @@
         <!-- please fuck off (look at the comment section) -->
         <!-- https://www.youtube.com/watch?v=kbYoJNLQEiU -->
         <nei base="-0.1" emotions="AP">
-            contributors["A-MAL-16498"] = 0.25
-            contributors["A-MAL-25777"] = 0.25
-            contributors["A-MAL-35760"] = 0.25
-            contributors["A-MAL-38524"] = 0.25
+            <contributor id="A-MAL-16498" factor="0.25" />
+            <contributor id="A-MAL-25777" factor="0.25" />
+            <contributor id="A-MAL-35760" factor="0.25" />
+            <contributor id="A-MAL-38524" factor="0.25" />
         </nei>
 
         <entry id="A-MAL-16498" title="Shingeki no Kyojin"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

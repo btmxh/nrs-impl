@@ -21,10 +21,10 @@
 
         <!-- this made me laugh my ass off -->
         <aei base="0.75" emotions="AP">
-            contributors["A-MAL-14741"] = 0.75
+            <contributor id="A-MAL-14741" factor="0.75" />
             <!-- s2 has less comedy than s1 -->
             <!-- because le funny dead ppl pink-haired girl -->
-            contributors["A-MAL-18671"] = 0.25
+            <contributor id="A-MAL-18671" factor="0.25" />
         </aei>
 
         <entry id="A-MAL-14741" title="Chuunibyou demo Koi ga Shitai!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->

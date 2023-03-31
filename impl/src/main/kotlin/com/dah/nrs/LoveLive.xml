@@ -307,39 +307,39 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <!-- shared memes between SIP (school idol project) and Sunshine -->
         <meme strength="0.6" length="18" /> {
-            contributors["A-MAL-15051"] = 0.2
-            contributors["A-MAL-19111"] = 0.2
-            contributors["A-MAL-24997"] = 0.1
-            contributors["A-MAL-32526"] = 0.2
-            contributors["A-MAL-34973"] = 0.2
-            contributors["A-MAL-37027"] = 0.1
+            <contributor id="A-MAL-15051" factor="0.2" />
+            <contributor id="A-MAL-19111" factor="0.2" />
+            <contributor id="A-MAL-24997" factor="0.1" />
+            <contributor id="A-MAL-32526" factor="0.2" />
+            <contributor id="A-MAL-34973" factor="0.2" />
+            <contributor id="A-MAL-37027" factor="0.1" />
         }
 
         <!-- le "song da" analogy -->
         <ref name="AKMEraPart1" _.strength="0.05">
-            contributors["A-MAL-40879"] = 0.25
-            contributors["A-MAL-48916"] = 0.35
-            contributors["A-MAL-15051"] = 0.05
-            contributors["A-MAL-19111"] = 0.05
-            contributors["A-MAL-32526"] = 0.05
-            contributors["A-MAL-34973"] = 0.05
-            contributors["A-MAL-41169"] = 0.05
-            contributors["A-MAL-50203"] = 0.05
-            contributors["A-MAL-24997"] = 0.05
-            contributors["A-MAL-37027"] = 0.05
+            <contributor id="A-MAL-40879" factor="0.25" />
+            <contributor id="A-MAL-48916" factor="0.35" />
+            <contributor id="A-MAL-15051" factor="0.05" />
+            <contributor id="A-MAL-19111" factor="0.05" />
+            <contributor id="A-MAL-32526" factor="0.05" />
+            <contributor id="A-MAL-34973" factor="0.05" />
+            <contributor id="A-MAL-41169" factor="0.05" />
+            <contributor id="A-MAL-50203" factor="0.05" />
+            <contributor id="A-MAL-24997" factor="0.05" />
+            <contributor id="A-MAL-37027" factor="0.05" />
         </ref>
 
         <!-- SIP humor -->
         <aei base="0.8" emotions="AP">
-            contributors["A-MAL-15051"] = 0.4
-            contributors["A-MAL-19111"] = 0.4
-            contributors["A-MAL-24997"] = 0.2
+            <contributor id="A-MAL-15051" factor="0.4" />
+            <contributor id="A-MAL-19111" factor="0.4" />
+            <contributor id="A-MAL-24997" factor="0.2" />
         </aei>
 
         <aei base="0.25" emotions="AP">
-            contributors["A-MAL-32526"] = 0.4
-            contributors["A-MAL-34973"] = 0.4
-            contributors["A-MAL-37027"] = 0.2
+            <contributor id="A-MAL-32526" factor="0.4" />
+            <contributor id="A-MAL-34973" factor="0.4" />
+            <contributor id="A-MAL-37027" factor="0.2" />
         </aei>
 
         <!-- Anime -->
@@ -435,33 +435,33 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <!-- arc 1 - the girl who changed the world -->
         <waifu waifu="Uehara Ayumu" from="2020-11-02" to="2021-02-15">
-            contributors["A-MAL-40879"] = 0.9
-            contributors["M-VGMDB-AL-102281-1"] = 0.1
+            <contributor id="A-MAL-40879" factor="0.9" />
+            <contributor id="M-VGMDB-AL-102281-1" factor="0.1" />
         </waifu>
 
         <!-- arc 2 - the girl without screentime -->
         <nei base="0.8" emotions="AU-0.5:CU-0.4:AP-0.1">
-            contributors["A-MAL-40879"] = 0.8
-            contributors["M-VGMDB-AL-43320-8"] = 0.1
-            contributors["M-VGMDB-AL-34269-7"] = 0.1
+            <contributor id="A-MAL-40879" factor="0.8" />
+            <contributor id="M-VGMDB-AL-43320-8" factor="0.1" />
+            <contributor id="M-VGMDB-AL-34269-7" factor="0.1" />
         </nei>
 
         <!-- arc 3 - the ayumu dead people arc -->
         <!-- niji got carried hard by kano in this arc -->
         <maxAEIPADS length="7" emotions="CU">
-            contributors["A-MAL-40879"] = 0.6
-            contributors["M-VGMDB-AL-37130-3"] = 0.4
+            <contributor id="A-MAL-40879" factor="0.6" />
+            <contributor id="M-VGMDB-AL-37130-3" factor="0.4" />
         </maxAEIPADS>
 
         <!-- arc 4 - and then, the world has ended -->
         <!-- "Soshite kimi ga shirazu ni" -->
         <!-- When Ayumu-era ends, I felt depressed -->
         <maxAEIPADS length="5" emotions="CU">
-            contributors["A-MAL-40879"] = 0.7
-            contributors["M-MAL-36631-6"] = 0.15
-            contributors["M-20220205T023322-1"] = 0.075
-            contributors["M-20220205T023322-3"] = 0.05
-            contributors["M-VGMDB-AL-89290-6"] = 0.025
+            <contributor id="A-MAL-40879" factor="0.7" />
+            <contributor id="M-MAL-36631-6" factor="0.15" />
+            <contributor id="M-20220205T023322-1" factor="0.075" />
+            <contributor id="M-20220205T023322-3" factor="0.05" />
+            <contributor id="M-VGMDB-AL-89290-6" factor="0.025" />
         </maxAEIPADS>
 
         <entry id="A-MAL-40879" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai">
@@ -528,9 +528,9 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             <!-- unit with perfect chemistry. imagine watching love live and getting fucked -->
             <!-- in the ass by lantis cocksuckers xdddddddddddddddd -->
             <!-- all niji funny shits come from konoe kanata references -->
-            contributors["A-MAL-48916"] = 0.5
-            contributors["A-MAL-38009"] = 0.4
-            contributors["GF-VGMDB-7059"] = 0.1
+            <contributor id="A-MAL-48916" factor="0.5" />
+            <contributor id="A-MAL-38009" factor="0.4" />
+            <contributor id="GF-VGMDB-7059" factor="0.1" />
         <//entry>
 
 >
@@ -541,14 +541,14 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <!-- the leftover hate from s1 and the heisenberg bs from s2 is just too much -->
         <!-- update: the azuna episode kinda did its thing -->
         <nei base="-0.5" emotions="MU-0.5:AU-0.5">
-            contributors["A-MAL-40879"] = 0.3
-            contributors["A-MAL-48916"] = 0.6
-            contributors["A-MAL-15051"] = 0.1 / 6
-            contributors["A-MAL-19111"] = 0.1 / 6
-            contributors["A-MAL-24997"] = 0.1 / 6
-            contributors["A-MAL-32526"] = 0.1 / 6
-            contributors["A-MAL-34973"] = 0.1 / 6
-            contributors["A-MAL-37027"] = 0.1 / 6
+            <contributor id="A-MAL-40879" factor="0.3" />
+            <contributor id="A-MAL-48916" factor="0.6" />
+            <contributor id="A-MAL-15051" factor="0.1" / 6 />
+            <contributor id="A-MAL-19111" factor="0.1" / 6 />
+            <contributor id="A-MAL-24997" factor="0.1" / 6 />
+            <contributor id="A-MAL-32526" factor="0.1" / 6 />
+            <contributor id="A-MAL-34973" factor="0.1" / 6 />
+            <contributor id="A-MAL-37027" factor="0.1" / 6 />
         </nei>
 
         <entry id="A-MAL-48916" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season">

@@ -11,10 +11,10 @@
         <!-- atmospheric farming with idolshit -->
         <!-- also watch rst -->
         <aei base="0.0" emotions="CU-0.5:CP-0.5">
-            contributors["A-MAL-21189"] = 0.75
-            contributors["A-MAL-19023"] = 0.2
-            contributors["A-MAL-38009"] = 0.04
-            contributors["GF-VGMDB-7059"] = 0.01
+            <contributor id="A-MAL-21189" factor="0.75" />
+            <contributor id="A-MAL-19023" factor="0.2" />
+            <contributor id="A-MAL-38009" factor="0.04" />
+            <contributor id="GF-VGMDB-7059" factor="0.01" />
         </aei>
 
         <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

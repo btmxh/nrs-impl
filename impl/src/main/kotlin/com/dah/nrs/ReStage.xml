@@ -61,7 +61,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     for ((id, value) in AllRstTracks) {
         val factor = value.multipliers[era.ordinal] / sum * total
         if (factor > 0) {
-            contributors[id] = factor
+            <contributor id=id factor=factor />
         }
     }
 }
@@ -90,14 +90,14 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
     <!-- overture: shelter incident -->
     <aei base="0.5" emotions="CP">
-        contributors["M-VGMDB-AL-89363-2"] = 0.4
-        contributors["A-MAL-38009"] = 0.6
+        <contributor id="M-VGMDB-AL-89363-2" factor="0.4" />
+        <contributor id="A-MAL-38009" factor="0.6" />
     </aei>
 
     <!-- ed visual slaps -->
     <aei base="0.25" emotions="CP">
-        contributors["M-VGMDB-AL-78532-1"] = 0.25
-        contributors["A-MAL-38009"] = 0.75
+        <contributor id="M-VGMDB-AL-78532-1" factor="0.25" />
+        <contributor id="A-MAL-38009" factor="0.75" />
     </aei>
 
     <entry id="F-VGMDB-7059" title="Re:STAGE!">
@@ -1018,21 +1018,21 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         </entry>
 
         <killedBy id="F-VGMDB-4499" potential="0.4" effect="0.9">
-            contributors["A-MAL-38009"] = 0.8
-            contributors["GF-VGMDB-7059"] = 0.2
+            <contributor id="A-MAL-38009" factor="0.8" />
+            <contributor id="GF-VGMDB-7059" factor="0.2" />
         <//entry>
 
 >
 
         <!-- r/osuplace stuff -->
         <killedBy id="M-20220410T181408" potential="0.4" effect="0.9">
-            contributors["A-MAL-38009"] = 0.8
-            contributors["GF-VGMDB-7059"] = 0.2
+            <contributor id="A-MAL-38009" factor="0.8" />
+            <contributor id="GF-VGMDB-7059" factor="0.2" />
         </killedBy>
 
         <killedBy id="O-20220415T155427" potential="0.2" effect="0.75">
-            contributors["A-MAL-38009"] = 0.8
-            contributors["GF-VGMDB-7059"] = 0.2
+            <contributor id="A-MAL-38009" factor="0.8" />
+            <contributor id="GF-VGMDB-7059" factor="0.2" />
         </killedBy>
 
         NeoErogeEra(0.1)
@@ -1071,9 +1071,9 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
     </entry>
 
     <aei base="1.0" emotions="CP-0.9:MP-0.1">
-        contributors["A-MAL-37890"] = 0.5
-        contributors["A-MAL-38009"] = 0.45
-        contributors["GF-VGMDB-7059"] = 0.05
+        <contributor id="A-MAL-37890" factor="0.5" />
+        <contributor id="A-MAL-38009" factor="0.45" />
+        <contributor id="GF-VGMDB-7059" factor="0.05" />
     <//entry>
 
 >
@@ -1089,52 +1089,52 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
     <!-- idol renaissance arc -->
     <meme strength="1.0" from="2021-11-20" to="2022-01-10" /> {
-        contributors["A-MAL-38009"] = 0.75
-        contributors["GF-VGMDB-7059"] = 0.05
+        <contributor id="A-MAL-38009" factor="0.75" />
+        <contributor id="GF-VGMDB-7059" factor="0.05" />
         TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1)
     }
 
     <ref name="RSTSB69DuopolyEra" _.strikes="0.6">
-        contributors["A-MAL-38009"] = 0.5
-        contributors["GF-VGMDB-7059"] = 0.05
+        <contributor id="A-MAL-38009" factor="0.5" />
+        <contributor id="GF-VGMDB-7059" factor="0.05" />
         <!-- her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw -->
-        contributors["M-VGMDB-AR-29249"] = 0.15
+        <contributor id="M-VGMDB-AR-29249" factor="0.15" />
         TrackMemeImpact(0.3, ReStageMusicContext.CultureEra.Arc2)
     </ref>
 
     <!-- idol dystopia arc -->
     <ref name="IdolDystopia" _.strength="0.9">
-        contributors["A-MAL-38009"] = 0.6 <!-- this got rewatched -->
-        contributors["GF-VGMDB-7059"] = 0.1
-        contributors["M-VGMDB-AR-29249"] = 0.1
+        <contributor id="A-MAL-38009" factor="0.6" <!-- this got rewatched --> />
+        <contributor id="GF-VGMDB-7059" factor="0.1" />
+        <contributor id="M-VGMDB-AR-29249" factor="0.1" />
         TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc3)
     </ref>
 
     <ref name="AKMEraPart1" _.strength="0.8">
-        contributors["A-MAL-38009"] = 0.25
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.2
+        <contributor id="A-MAL-38009" factor="0.25" />
+        <contributor id="GF-VGMDB-7059" factor="0.15" />
+        <contributor id="M-VGMDB-AR-29249" factor="0.2" />
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM1)
     </ref>
 
     <ref name="AKMEraPart2" _.strength="0.2">
-        contributors["A-MAL-38009"] = 0.25
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.2
+        <contributor id="A-MAL-38009" factor="0.25" />
+        <contributor id="GF-VGMDB-7059" factor="0.15" />
+        <contributor id="M-VGMDB-AR-29249" factor="0.2" />
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM2)
     </ref>
 
     <ref name="AKMEraPart3" _.strength="0.8">
-        contributors["A-MAL-38009"] = 0.25
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.2
+        <contributor id="A-MAL-38009" factor="0.25" />
+        <contributor id="GF-VGMDB-7059" factor="0.15" />
+        <contributor id="M-VGMDB-AR-29249" factor="0.2" />
         TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3)
     </ref>
 
     NeoErogeEra(0.25) {
-        contributors["A-MAL-38009"] = 0.1
-        contributors["GF-VGMDB-7059"] = 0.15
-        contributors["M-VGMDB-AR-29249"] = 0.05
+        <contributor id="A-MAL-38009" factor="0.1" />
+        <contributor id="GF-VGMDB-7059" factor="0.15" />
+        <contributor id="M-VGMDB-AR-29249" factor="0.05" />
         TrackMemeImpact(0.7, ReStageMusicContext.CultureEra.NEE)
     }
 

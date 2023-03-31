@@ -30,9 +30,9 @@
             <!-- thank you based localism -->
             <!-- thank you based localism -->
             <cry emotions="CP-0.8:MP-0.2">
-                contributors["A-MAL-52736"] = 0.4
-                contributors["M-VGMDB-AL-124465-1"] = 0.1
-                contributors["localism [null entry]"] = 0.5
+                <contributor id="A-MAL-52736" factor="0.4" />
+                <contributor id="M-VGMDB-AL-124465-1" factor="0.1" />
+                <contributor id="localism [null entry]" factor="0.5" />
             </cry>
 
             <featureMusic id="M-VGMDB-AL-124465-1" />
