@@ -61,7 +61,7 @@
             <!-- absolute masterpiece, i was about to cry like 10 times or sth -->
 
             <!-- the twists -->
-            EPI(1.0)
+            <epi base="1.0" />
 
             <!-- realization of the fact that main girl didn't love mc -->
             <aei base="0.2" emotions="Emotion.AU" />

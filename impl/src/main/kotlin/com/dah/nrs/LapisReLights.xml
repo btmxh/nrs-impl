@@ -18,7 +18,7 @@
             <bestGirl name="Tiara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- funny af, love live stands no chance -->
-            EHI()
+            <ehi />
             <visual type="animated" base="0.4" unique="0.2" />
             <featureMusic id="M-VGMDB-AL-104957" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />

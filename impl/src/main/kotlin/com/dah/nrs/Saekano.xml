@@ -43,7 +43,7 @@
             <featureMusic id="M-VGMDB-AL-48199-1" />
             <featureMusic id="M-VGMDB-AL-49446-1" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
-            EHI()
+            <ehi />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
@@ -56,7 +56,7 @@
             </source>
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
-            EHI()
+            <ehi />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 

@@ -43,7 +43,7 @@
             Waifu("Sherry Barnett", "2023-03-01" to "2023-03-12")
 
             <!-- I AM atomic -->
-            EHI() <!-- humor -->
+            <ehi /> <!-- humor -->
             <nei base="0.25" emotions="Emotion.AP" /> <!-- plot -->
 
             Meme(0.8, numDays("2023-03-01", "2023-03-12"))
