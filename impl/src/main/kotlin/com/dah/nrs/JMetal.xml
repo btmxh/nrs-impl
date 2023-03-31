@@ -33,13 +33,13 @@
         <!-- somewhat reflect an image of "happy nights" in Ayumu-era -->
         <regularImpact>
             <!-- description = "Ayumu-era Romance Image" -->
+            <contributor id="M-VGMDB-AL-43320" factor="0.4" />
+            <contributor id="M-20220818T163913-2" factor="0.6" />
+
             <score>
                 <component value="0.1" factor="Art.Language" />
                 <component value="0.1" factor="Emotion.CP" />
             </score>
-
-            <contributor id="M-VGMDB-AL-43320" factor="0.4" />
-            <contributor id="M-20220818T163913-2" factor="0.6" />
         </regularImpact>
 
         <entry id="M-VGMDB-AL-43320" title="Stories That Last Through The Sleepless Nights"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

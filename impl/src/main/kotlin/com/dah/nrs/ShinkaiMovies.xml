@@ -15,8 +15,9 @@
             <visual type="animated" base="0.5" unique="0.75" />
 
             <bestGirl name="Miki Okudera" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            AdditionalImpact("Compensation for KnK-YrNa jealousy", 0.75)
-            <animeConsumedProgress status="Completed" boredom="0.75" episodes="1" episodeDuration="1.hours + 46.minutes" />
+            <!-- "Compensation for KnK-YrNa jealousy" -->
+            <additional value="0.75" />
+            <animeConsumedProgress status="Completed" boredom="0.75" episodes="1" episodeDuration="1:46:00" />
         </entry>
     </entry>
 
@@ -32,7 +33,7 @@
             <bestGirl name="Hina Amano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <visual type="animated" base="0.6" unique="0.75" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 52.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:52:00" />
             <featureMusic id="M-VGMDB-AL-87003" />
         </entry>
 

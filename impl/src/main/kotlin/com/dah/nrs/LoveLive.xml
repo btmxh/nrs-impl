@@ -3,9 +3,9 @@
 <!-- niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12 -->
 <!-- so the contain factor of the 9 original girls will be 1.5x the new girls -->
 <!-- doing the math, we got these: -->
-private const val NijiNewOldRate = 1.5
+<!-- private const val NijiNewOldRate = 1.5
 const val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
-const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
+const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate -->
 
 <document>
     <entry id="F-VGMDB-2588" title="Love Live!">
@@ -55,7 +55,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AR-13719" title="μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-34051" />
                 <contains id="M-VGMDB-AL-36547" />
                 <contains id="M-VGMDB-AL-75504" />
@@ -134,7 +134,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AR-17153" title="Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-58147" />
                 <contains id="M-VGMDB-AL-58750" />
                 <contains id="M-VGMDB-AL-70622" />
@@ -176,7 +176,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
 
         <entry id="M-VGMDB-AR-29922" title="Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-102276" />
                 <contains id="M-VGMDB-AL-102277" />
 
@@ -267,25 +267,17 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-102281" title="Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Setsuna Yuki Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
-                    " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
-
+        <entry id="M-VGMDB-AL-102279" title="Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.65" unique="0.25" />
 
             <!-- the first ayumu-era theme song -->
             <entry id="$-1" title="Dream with You"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.1" />
-                Impact {
-                    <!-- the song is shit -->
-                    <!-- but it started the most colorful era in autism history -->
-                    <!-- the ayumu era -->
-                    description = "tobitateru dreaming sky"
-                    score = vector {
-                        set(Emotion.AP, 0.5)
-                    }
-                }
+                <!-- the song is shit -->
+                <!-- but it started the most colorful era in autism history -->
+                <!-- the ayumu era -->
+                <nei base="1.0" emotions="AP" />
             </entry>
         </entry>
 
@@ -306,14 +298,14 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         </entry>
 
         <!-- shared memes between SIP (school idol project) and Sunshine -->
-        <meme strength="0.6" length="18" /> {
+        <meme strength="0.6" length="18">
             <contributor id="A-MAL-15051" factor="0.2" />
             <contributor id="A-MAL-19111" factor="0.2" />
             <contributor id="A-MAL-24997" factor="0.1" />
             <contributor id="A-MAL-32526" factor="0.2" />
             <contributor id="A-MAL-34973" factor="0.2" />
             <contributor id="A-MAL-37027" factor="0.1" />
-        }
+        </meme>
 
         <!-- le "song da" analogy -->
         <ref name="AKMEraPart1" _.strength="0.05">
@@ -382,7 +374,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 54.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:54:00" />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -426,7 +418,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
                 <mal id="37027"/>
             </source>
             <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 40.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:40:00" />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -472,14 +464,15 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
                 <ks id="42872" />
             </source>
             <bestGirl name="Ayumu Uehara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
 
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
             <aei base="0.4" emotions="AP" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
             <visual type="animated" base="0.6" unique="0.25" />
 
-            <meme strength="1.0" from="2020-10-17" /*airtime of episode 3*/ to="2021-02-01" />
+            <!-- 2020-10-17: airtime of episode 3 -->
+            <meme strength="1.0" from="2020-10-17" to="2021-02-01" />
 
             <killedBy id="M-VGMDB-AR-11666" potential="0.3" effect="0.5" />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
@@ -511,7 +504,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- insert wakeshima kanon is shibuya kanon joke here -->
             <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
             <animeConsumedProgress status="Temporarily On-Hold" boredom="0.9" episodes="7" />
             <dropped />
             <meme strength="0.3" length="6" />

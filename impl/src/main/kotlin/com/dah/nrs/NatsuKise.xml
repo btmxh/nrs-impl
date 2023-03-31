@@ -28,7 +28,7 @@
 
             <bestGirl name="Saki Mizukoshi" />
 
-            <animeConsumedProgress status="Completed" boredom="0.8" episodes="1" episodeDuration="7.minutes" />
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="1" episodeDuration="7:00" />
             <visual type="animated" base="0.5" unique="0.4" />
         </entry>
     </entry>

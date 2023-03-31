@@ -12,7 +12,7 @@
         <!-- oh fuck -->
         <bestGirl name="Ruri Ichigyou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-        <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 37.minutes" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:37:00" />
         <!-- the cg kinda help with making the anime unique lol -->
         <visual type="animated" base="0.4" unique="0.6" />
     </entry>

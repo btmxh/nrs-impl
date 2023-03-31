@@ -42,7 +42,7 @@
                 <mal id="50612"/>
             </source>
             <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="54.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="54:00" />
             <visual type="animated" base="0.3" unique="0.75" />
             <nei base="0.6" emotions="AP" />
         </entry>

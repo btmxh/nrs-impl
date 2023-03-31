@@ -37,9 +37,9 @@
                 <mal id="34392"/>
             </source>
             <bestGirl name="Yui Hanasaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
 
-            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="4" episodeDuration="4.minutes" />
+            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="4" episodeDuration="4:00" />
             <dropped />
             <visual type="animated" base="0.5" unique="0.25" />
             <featureMusic id="M-VGMDB-AL-63666-1" />

@@ -763,7 +763,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="M-20220125T063355-2" title="Plasmagica">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-94913" />
                 <contains id="M-VGMDB-AL-51276" />
                 <contains id="M-20220125T063355-6" factor="0.5" />
@@ -781,7 +781,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="M-20220125T063355-3" title="Tsurezurenaru Ayatsuri Mugenan">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-51278" />
             </contains>
         </entry>
@@ -789,7 +789,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="M-20220125T063355-4" title="Mashumairesh!!">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-93440" />
                 <contains id="M-VGMDB-AL-93441" />
                 <contains id="M-VGMDB-AL-104341-1" factor="0.5" />
@@ -802,7 +802,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="M-20220125T063355-5" title="BUD VIRGIN LOGIC">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-61940" />
                 <contains id="M-VGMDB-AL-104267-5" />
             </contains>
@@ -811,7 +811,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <entry id="M-20220125T063355-7" title="Criticrista">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-104266-6" />
                 <contains id="M-VGMDB-AL-61982" />
                 <contains id="M-VGMDB-AL-105612" />

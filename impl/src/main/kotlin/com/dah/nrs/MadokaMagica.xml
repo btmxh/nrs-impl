@@ -37,7 +37,7 @@
         <contains id="M-VGMDB-AL-41292-1" />
         <contains id="M-VGMDB-AL-69147-11" />
 
-        <entry id="M-VGMDB-AL-113295" title="TV Anime \">Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-113295" title="TV Anime &quot;Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-&quot; Theme Song Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
@@ -75,10 +75,10 @@
             </entry>
         </entry>
 
-        <meme strength="0.6" from="2019-11-01" to="2020-02-15" /> {
+        <meme strength="0.6" from="2019-11-01" to="2020-02-15">
             <contributor id="A-MAL-9756" factor="0.8" />
             <contributor id="A-MAL-11981" factor="0.2" />
-        }
+        </meme>
 
         <entry id="A-MAL-9756" title="Mahou Shoujo Madoka★Magica"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -116,7 +116,7 @@
             <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- I can't understand this movie lol -->
 
-            <animeConsumedProgress status="Completed" boredom="0.7" episodes="1" episodeDuration="1.hours + 56.minutes" />
+            <animeConsumedProgress status="Completed" boredom="0.7" episodes="1" episodeDuration="1:56:00" />
             <visual type="animated" base="0.35" unique="0.6" />
 
             <featureMusic id="M-VGMDB-AL-41292-1" />

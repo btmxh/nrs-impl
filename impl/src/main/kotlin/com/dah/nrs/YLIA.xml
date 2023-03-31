@@ -40,7 +40,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="22" />
         </entry>
 
-        <entry id="M-VGMDB-AL-49046" title="Shigatsu wa Kimi no Uso ORIGINAL SONG & SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-49046" title="Shigatsu wa Kimi no Uso ORIGINAL SONG &amp; SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Kimi wa Wasurerareru no">

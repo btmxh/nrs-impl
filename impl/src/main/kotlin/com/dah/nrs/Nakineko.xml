@@ -11,7 +11,7 @@
                 <al id="114963"/>
                 <mal id="41168"/>
             </source>
-            title = "Nakitai Watashi wa Neko wo Kaburu" <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Miyo Sasaki" />
             <!-- main girl pretty pog btw -->
@@ -19,7 +19,7 @@
 
             <!-- cool story bro -->
             <visual type="animated" base="0.6" unique="0.4" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 44.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:44:00" />
             <aei base="0.1" emotions="MP-0.5:CU-0.5" />
             <featureMusic id="M-VGMDB-AL-99082-1" />
         </entry>

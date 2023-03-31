@@ -23,7 +23,7 @@
         <entry id="M-20220319T061727" title="9-tie">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-114102" />
             </contains>
         </entry>

@@ -7,7 +7,7 @@
         <contains id="M-VGMDB-AL-51516-1" />
         <contains id="M-VGMDB-AL-96288-1" />
 
-        <entry id="M-VGMDB-AL-37999" title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-37999" title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.5" />
 
@@ -24,10 +24,9 @@
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             </entry>
-            }
         </entry>
 
-        <entry id="M-VGMDB-AL-51394" title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) & Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-51394" title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
@@ -44,10 +43,9 @@
                 <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             </entry>
-            }
         </entry>
 
-        <entry id="M-VGMDB-AL-96290" title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) & Yui Yuigahama (CV: Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-96290" title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) &amp; Yui Yuigahama (CV: Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
@@ -71,15 +69,16 @@
         </maxAEIPADS>
 
         <!-- Hikism-Yukism -->
-        Politics {
+        <politics>
             <contributor id="A-MAL-14813" factor="0.6" />
             <contributor id="A-MAL-23847" factor="0.4" />
-        }
+        </politics>
 
-        <meme strength="0.7" from="2019-07-14" /*the July 14th incident*/ to="2020-01-01" /> {
+        <!-- 2019-07-14 is the July 14th incident -->
+        <meme strength="0.7" from="2019-07-14" to="2020-01-01">
             <contributor id="A-MAL-14813" factor="0.4" />
             <contributor id="A-MAL-23847" factor="0.6" />
-        }
+        </meme>
 
         <!-- VSCC is pretty comfy (before Yui Depression) -->
         <nei base="0.6" emotions="MP">
@@ -150,7 +149,7 @@
             </source>
 
             <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
 
             <visual type="animated" base="0.4" unique="0.25" />
             <meme strength="0.2" length="2" />

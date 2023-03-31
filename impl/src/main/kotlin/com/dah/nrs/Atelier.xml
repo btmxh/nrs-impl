@@ -57,7 +57,7 @@
             <contributor id="G-VGMDB-1880" factor="0.8" />
         </waifu>
 
-        <entry id="A-MAL-21167" title="Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-21167" title="Escha &amp; Logy no Atelier: Tasogare no Sora no Renkinjutsushi"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
                 <adb id="21167"/>
                 <ks id="8091"/>
@@ -126,7 +126,7 @@
             <killedBy id="F-VGMDB-7059" potential="0.5" effect="0.25" />
         </entry>
 
-        <entry id="M-VGMDB-AL-45361" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-45361" title="Escha &amp; Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.4" unique="0.25" />
             <entry id="$-1" title="アスイロ">
@@ -156,10 +156,10 @@
             <!-- "sach cho" my beloved -->
             <!-- also i forgor rosia-chan :skull: -->
 
-            <visual type="rPG3DGame" base="0.5" unique="0.4" />
+            <visual type="rpg3dGame" base="0.5" unique="0.4" />
             <visual type="visualNovel" base="0.4" unique="0.3" />
             <!-- based on ayesha since i "deleted" atelier sophie -->
-            ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
+            <consumedProgress status="Completed" boredom="1.0" duration="50:00:00" />
         </entry>
 
         <entry id="G-VGMDB-1090" title="Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi">
@@ -168,17 +168,17 @@
 <!--            <bestGirl name="Harry Maguire" /> -->
 <!--            <bestGirl name="Fred dai de" /> -->
             <!-- atelier games visual comes in two part -->
-            <visual type="rPG3DGame" base="0.6" unique="0.4" />
+            <visual type="rpg3dGame" base="0.6" unique="0.4" />
             <visual type="visualNovel" base="0.5" unique="0.3" />
             <!-- it's actually something like 99hrs, but i afk'd -->
             <!-- (too lazy to turn off the pc) a lot idk -->
-            ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
+            <consumedProgress status="Completed" boredom="1.0" duration="50:00:00" />
 
             <!-- i hate "bủ nio" (it's a meme lol) -->
             <nei base="0.8" emotions="AU-0.5:AP-0.5" />
         </entry>
 
-        <entry id="G-VGMDB-1880" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~">
+        <entry id="G-VGMDB-1880" title="Escha &amp; Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~">
             <!-- fucking finally -->
 
             <bestGirl name="Escha Malier" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
@@ -186,10 +186,12 @@
             <!-- I thought I was indifferent and I held back my feelings -->
 
             <!-- obligatory potential waifu buff -->
-            <visual type="rPG3DGame" base="0.7" unique="0.4" />
+            <visual type="rpg3dGame" base="0.7" unique="0.4" />
             <visual type="visualNovel" base="0.6" unique="0.3" />
             <!-- NOZS (Nyumber One! Zettai Saikyou!) Act -->
-            ConsumedProgress(EntryStatus.Temporarily On-Hold, 1.0, 80.hours)
+            <consumedProgress status="Dropped" boredom="1.0" duration="80:00:00" />
+            <!-- blame nozsists lmfao -->
+            <dropped />
         </entry>
 
         <entry id="M-VGMDB-AL-45607" title="Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -213,7 +215,7 @@
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-38558" title="Twilight Sky Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-38558" title="Twilight Sky Escha &amp; Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Vocal Album"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-8" title="Sky of Twilight"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="6:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

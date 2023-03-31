@@ -94,7 +94,7 @@
 
         <entry id="M-VGMDB-AR-27992" title="Poppin'Party"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-60358" />
                 <contains id="M-VGMDB-AL-63624" />
                 <contains id="M-VGMDB-AL-81504" />
@@ -118,7 +118,7 @@
 
         <entry id="M-VGMDB-AR-27993" title="Roselia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-85172" />
             </contains>
         </entry>
@@ -139,7 +139,7 @@
             <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
             <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-106577-6" />
                 <contains id="M-20220130T183728-4" factor="1.0 / 3" />
             </contains>
@@ -147,7 +147,7 @@
 
         <entry id="M-VGMDB-AR-31329" title="Hello, Happy World!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-114399-8" />
             </contains>
         </entry>
@@ -165,7 +165,7 @@
 
         <entry id="M-VGMDB-AR-31326" title="Afterglow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-82743" />
             </contains>
         </entry>
@@ -212,7 +212,7 @@
 
         <entry id="M-VGMDB-AR-31336" title="RAISE A SUILEN"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-101643" />
             </contains>
         </entry>

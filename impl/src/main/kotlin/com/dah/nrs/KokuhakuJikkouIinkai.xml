@@ -191,7 +191,7 @@
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:03:00" />
             <nei base="0.5" emotions="AP" />
             <nei base="0.2" emotions="MP" />
         </entry>
@@ -206,7 +206,7 @@
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:03:00" />
             <nei base="0.2" emotions="AP" />
             <aei base="0.1" emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-61577-1" />

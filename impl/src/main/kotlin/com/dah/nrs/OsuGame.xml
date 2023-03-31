@@ -1,5 +1,6 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
+<!-- kind of a mess rn -->
 <document>
     <entry id="M-VGMDB-AR-12225" title="xi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -62,7 +63,8 @@
             <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.5" />
             <!-- haha tranny duy bua -->
-            <meme strength="0.01" length="numDays("2021-06-01"" />)
+            <!-- she is literally me: https://myanimelist.net/character/187922/Rafinha_Bilford -->
+            <meme strength="0.01" from="2021-06-01" to="today" />
         </entry>
     </entry>
 

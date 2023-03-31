@@ -4,67 +4,6 @@
 <!-- where is the glorious rst -->
 
 <!-- watch rst and buy the bluray -->
-private val AllRstTracks = hashMapOf<String, ReStageMusicContext>()
-private fun DSLEntry.ReStep<music base="score: Double, block: ReStageMusicContext.(" /> -> Unit = {}) {
-    <music base="score" />
-    val ctx = ReStageMusicContext()
-    block(ctx)
-    AllRstTracks[id] = ctx
-}
-
-private class ReStageMusicContext {
-    <!-- multiplier for song meme contribution factors -->
-    val multipliers = mutableListOf<Double>().apply { repeat(8) { add(1.0) } }
-    var arc1 by multiplier(0) <!-- idol renaissance arc -->
-    var arc2 by multiplier(1) <!-- rst-sb69 duopoly arc -->
-    var arc3 by multiplier(2) <!-- idol dystopia arc -->
-    var akm by multiplier(3, 4, 5) <!-- akm arc -->
-    var akm1 by multiplier(3)
-    var akm2 by multiplier(4)
-    var akm3 by multiplier(5)
-    var pme by multiplier(6) <!-- post-modern (pre-neo-eroge) -->
-    var nee by multiplier(7) <!-- neo-eroge era -->
-
-    enum class CultureEra {
-        Arc1,
-        Arc2,
-        Arc3,
-        AKM1,
-        AKM2,
-        AKM3,
-        PME,
-        NEE
-    }
-
-    fun from(era: CultureEra) {
-        val index = era.ordinal
-        multipliers.subList(0, index).fill(0.0)
-    }
-
-    companion object {
-        private fun multiplier(vararg index: Int): ReadWriteProperty<ReStageMusicContext, Double> {
-            return object : ReadWriteProperty<ReStageMusicContext, Double> {
-                override fun getValue(thisRef: ReStageMusicContext, property: KProperty<*>): Double {
-                    return thisRef.multipliers[index.first()]
-                }
-
-                override fun setValue(thisRef: ReStageMusicContext, property: KProperty<*>, value: Double) {
-                    index.forEach { thisRef.multipliers[it] = value }
-                }
-            }
-        }
-    }
-}
-
-private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.CultureEra) {
-    val sum = AllRstTracks.values.sumOf { it.multipliers[era.ordinal] }
-    for ((id, value) in AllRstTracks) {
-        val factor = value.multipliers[era.ordinal] / sum * total
-        if (factor > 0) {
-            <contributor id=id factor=factor />
-        }
-    }
-}
 
 <!-- only 0.15 NRS score from Love Live Niji -->
 <!-- top 1 anime doable LETSGO -->
@@ -230,20 +169,18 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- next to each other -->
             <!-- wtf?????? -->
             <!-- (6439 and 6438) -->
-            GateOpen("F-VGMDB-6439")
-            GateOpen("F-VGMDB-4499")
+            <!-- GateOpen("F-VGMDB-6439") -->
+            <!-- GateOpen("F-VGMDB-4499") -->
+
 
             <animeConsumedProgress status="Completed" boredom="0.95" episodes="12" />
 
+            <!-- description = "OvertuRe: CG" -->
             <regularImpact>
-                <meta key="description" value="OvertuRe: CG"></meta>
+                <score>
+                    <component value="-0.1" factor="Art.Visual" />
+                </score>
             </regularImpact>
-            Impact {
-                description = "OvertuRe: CG"
-                score = vector {
-                    set(Art.Visual, -0.1)
-                }
-            }
         </entry>
 
         <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -252,11 +189,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <entry id="$-2" title="Startin' My Re:STAGE!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.1" /> {
-                    <!-- watayuki grimoi-reference (M6.0 unranked lmfao) -->
-                    akm1 = 5.0
-                    akm2 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.1" _.eras="akm1=5.0:akm2=5.0" />
             </entry>
         </entry>
 
@@ -491,7 +424,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
         <entry id="M-VGMDB-AR-30829" title="KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78536" />
                 <contains id="M-VGMDB-AL-78534" />
                 <contains id="M-VGMDB-AL-78575" />
@@ -647,7 +580,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
 
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-89364-3" />
                 <contains id="M-VGMDB-AL-78520" />
                 <contains id="M-VGMDB-AL-78339" />
@@ -684,7 +617,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220117T170733-5" title="Stellamaris">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-82369-1" />
                 <contains id="M-VGMDB-AL-104673-1" />
             </contains>
@@ -693,7 +626,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220117T170733-6" title="TROIS ANGES">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-104673-3" />
             </contains>
         </entry>
@@ -713,7 +646,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220117T170733-7" title="Tetrarkhia">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78515" />
                 <contains id="M-VGMDB-AL-104673-4" />
             </contains>
@@ -906,7 +839,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         <entry id="M-20220317T064137-4" title="Re:STAGE! ALL IDOL">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-109271-48" />
             </contains>
         </entry>

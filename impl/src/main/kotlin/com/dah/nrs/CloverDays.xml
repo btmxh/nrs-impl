@@ -10,7 +10,7 @@
             <!-- i think this is the best char design vn ever idk -->
             <!-- so many routes to choose lol -->
 
-            ConsumedProgress(EntryStatus.Watching, 1.0, 3.hours)
+            <consumedProgress status="Temporarily On-Hold" boredom="1.0" duration="3:00:00" />
             <visual type="visualNovel" base="0.6" unique="0.4" />
             <nei base="0.5" emotions="MP" />
             <nei base="0.25" emotions="AP" />

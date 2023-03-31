@@ -20,7 +20,7 @@
         <entry id="M-20220116T062502" title="Petit Rabbit's">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-44890" />
             </contains>
         </entry>

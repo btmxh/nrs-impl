@@ -20,16 +20,16 @@
             <contributor id="A-MAL-23277" factor="0.5" />
             <contributor id="A-MAL-30727" factor="0.5" />
         </waifu>
-        <meme strength="0.5" length="45" /> {
+        <meme strength="0.5" length="45">
             <contributor id="A-MAL-23277" factor="0.5" />
             <contributor id="A-MAL-30727" factor="0.5" />
-        }
+        </meme>
 
         <!-- domestic kanojo war arc -->
-        <meme strength="0.75" length="90" /> {
+        <meme strength="0.75" length="90">
             <contributor id="A-MAL-23277" factor="0.5" />
             <contributor id="A-MAL-30727" factor="0.5" />
-        }
+        </meme>
 
         <entry id="A-MAL-23277" title="Saenai Heroine no Sodatekata"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -70,7 +70,7 @@
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             <!-- humor -->
             <nei base="0.25" emotions="AP" />
-            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1.hours + 54.minutes" />
+            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1:54:00" />
             <visual type="animated" base="0.55" unique="0.3" />
         </entry>
     </entry>

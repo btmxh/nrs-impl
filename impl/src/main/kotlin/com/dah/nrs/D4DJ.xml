@@ -23,7 +23,7 @@
         <entry id="M-20220823T115611" title="Happy Around!">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-107257" />
                 <contains id="M-VGMDB-AL-108580-2" />
             </contains>

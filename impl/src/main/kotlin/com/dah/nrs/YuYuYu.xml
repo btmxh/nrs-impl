@@ -31,13 +31,13 @@
             </entry>
         </entry>
 
-        <meme strength="0.8" from="2021-11-01" to="2021-11-20" /> {
+        <meme strength="0.8" from="2021-11-01" to="2021-11-20">
             <contributor id="A-MAL-25519" factor="0.5" />
             <contributor id="L-MAL-90810" factor="0.3" />
             <contributor id="A-MAL-34284" factor="0.06" />
             <contributor id="A-MAL-34445" factor="0.08" />
             <contributor id="A-MAL-42587" factor="0.06" />
-        }
+        </meme>
 
         <!-- yuyuyu's world building is somewhat scary ngl -->
         <aei base="0.25" emotions="MU">
@@ -54,10 +54,10 @@
         <!-- (but vertexes can sadge) -->
         <!-- update: what do you expect from the second best idol franchise ever, -->
         <!-- (future number 1 btw) they cucked her sadge -->
-        <meme strength="0.2" length="45" /> {
+        <meme strength="0.2" length="45">
             <contributor id="L-MAL-90810" factor="0.8" />
             <contributor id="A-MAL-42587" factor="0.2" />
-        }
+        </meme>
 
         <!-- killed by rst -->
         <killedBy id="F-VGMDB-7059" potential="0.6" effect="0.2">
@@ -137,7 +137,7 @@
             <!-- that didn't happen pog -->
             <aei base="0.3" emotions="CU" />
 
-            ConsumedProgress(EntryStatus.Completed, 0.75, 4.hours)
+            <consumedProgress status="Completed" boredom="0.75" duration="4:00:00" />
             <visual type="lightNovel" base="0.15" unique="0.5" />
         </entry>
 
@@ -196,7 +196,7 @@
                 <mal id="42587"/>
             </source>
 
-            seasonal = true
+            <!-- seasonal = true -->
             <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- I expected this to make a new Ayumu-era (something like -->

@@ -29,7 +29,7 @@
             </source>
             <bestGirl name="Nagi Kobotoke" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="0.9" episodes="8" episodeDuration="3.minutes" />
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="8" episodeDuration="3:00" />
             <visual type="animatedShort" base="0.4" unique="0.2" />
         </entry>
 
@@ -71,7 +71,7 @@
             <validatorSuppress rules="dah-entry-no-consumed" />
 
             <!-- times 0.6 because they are all covers -->
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-93299" />
                 <contains id="M-20220130T165739-2" />
             </contains>

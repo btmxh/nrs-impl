@@ -9,16 +9,16 @@
             <contributor id="A-MAL-34914" factor="0.5" />
         </aei>
 
-        <meme strength="0.2" length="2" /> {
+        <meme strength="0.2" length="2">
             <contributor id="A-MAL-31953" factor="0.5" />
             <contributor id="A-MAL-34914" factor="0.5" />
-        }
+        </meme>
 
-        InterestField(true) {
+        <interestField new="true">
             <contributor id="A-MAL-31953" factor="0.25" />
             <contributor id="A-MAL-34914" factor="0.25" />
             <contributor id="A-MAL-13759" factor="0.5" />
-        }
+        </interestField>
 
         <entry id="A-MAL-31953" title="New Game!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
@@ -55,7 +55,7 @@
         <entry id="M-20220317T064137-2" title="fourfolium">
             <validatorSuppress rules="dah-entry-no-consumed" />
 
-            <contains factor="MusicVocalImageContainFactor">
+            <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-58627" />
                 <contains id="M-VGMDB-AL-68225" />
             </contains>

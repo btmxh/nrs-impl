@@ -18,7 +18,7 @@
             <!-- "the cutest girl in all anime history" :clueless: -->
             <!-- like what the actual fuck you can't be this cute wtf :clueless: -->
             <!-- THISSHOULDNOTBEPOSSIBLE :clueless: -->
-            <bestGirl name="Himekek Sena" />
+            <!-- <bestGirl name="Himekek Sena" /> -->
             <bestGirl name="Himeno Sena" /> <!-- oops :clueless: -->
             <!-- eroge waifu :clueless: -->
             <!-- dead? -->
@@ -31,7 +31,7 @@
             <!-- really enjoyed the thing :clueless: -->
             <!-- i guess i will finish it in one month :clueless: -->
             <!-- (mid-term coming soon monkaW) :clueless: -->
-            ConsumedProgress(EntryStatus.Completed, 1.0, 24.hours)
+            <consumedProgress status="Completed" boredom="1.0" duration="24:00:00" />
 
             <!-- time to spam ei boys :clueless: -->
             <!-- really good atmospheric farming ngl :clueless: -->
@@ -42,7 +42,7 @@
             <!-- eroge love ig :clueless: -->
             <!-- <aei base="0.5" emotions="MP" /> -->
 
-            NeoErogeEra(1.0)
+            <ref name="NeoErogeEra" _.strength="1.0" />
             <featureMusic id="M-VGMDB-AL-58596" />
 
             <!-- sena route was so sudden wtf :sadge: :clueless: -->

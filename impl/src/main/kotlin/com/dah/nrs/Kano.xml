@@ -10,7 +10,7 @@
 
     <entry id="M-VGMDB-AR-11666" title="Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <contains factor="MusicVocalImageContainFactor">
+        <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-95369" title="Bambino / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.2" unique="0.5" />
@@ -44,12 +44,12 @@
 
                 <visual type="albumArt" base="0.25" unique="0.5" />
 
-                Impact {
-                    description = "Romance name"
-                    score = vector {
-                        set(Art.Language, 0.1)
-                    }
-                }
+                <!-- description = "Romantic name" (romance as in RFP, not chu chu <3) -->
+                <regularImpact>
+                    <score>
+                        <component value="0.1" factor="Art.Language" />
+                    </score>
+                </regularImpact>
 
                 <entry id="$-6" title="メリーメリー álbum ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <musicConsumedProgress length="4:35" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -180,9 +180,7 @@
 
 <!--        Impact { -->
 <!--            description = "Album art" -->
-//
 <!--            meta("type", "NONSTD_album_art") -->
-//
 <!--            score = vector { -->
 <!--                set(Art.Visual, 0.1) -->
 <!--                set(Emotion.MP, 0.2) -->
