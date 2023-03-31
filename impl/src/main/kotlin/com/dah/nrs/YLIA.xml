@@ -24,7 +24,7 @@
             <!-- Personality Revolution (a result of SLN). This is why I also -->
             <!-- feel hype when stuff happens. And I cried to that. -->
             <!-- No PADS since it's overshadowed by the sad impact. -->
-            Cry(Emotion.CP)
+            <cry emotions="Emotion.CP" />
 
             <!-- Also the anime itself without these historical events are still -->
             <!-- very good. It's not just lucky -->

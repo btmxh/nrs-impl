@@ -157,7 +157,7 @@
 
             <!-- Sana's backstory -->
             <!-- Basically it's very tragic. -->
-            Cry(Emotion.CU)
+            <cry emotions="Emotion.CU" />
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- Gate-opened gacha games (there is only re step in NRS tho) -->

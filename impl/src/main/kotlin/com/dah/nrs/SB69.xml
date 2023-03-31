@@ -84,7 +84,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: SB69MusicContext.Cultu
         <!-- 「あの時もし...」 考えてたって -->
         <!-- The days that have passed will not come back anymore -->
         <!-- 過ぎた日々はもう 戻らないけど -->
-        Cry(Emotion.CU) {
+        <cry emotions="Emotion.CU" /> {
             contributors["A-MAL-41520"] = 0.5
             contributors["A-MAL-27441"] = 0.2
             contributors["A-MAL-32038"] = 0.2

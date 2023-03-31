@@ -79,13 +79,13 @@
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
             <!-- ye it's the shelter of yuri yuna now lmao -->
-            Cry(Emotion.CU)
+            <cry emotions="Emotion.CU" />
 
             <!-- The main group is comfy af, and -->
             <!-- they actually used it to make some sad things. -->
             <!-- Well I cried at the other Itsuki thing -->
             <!-- no clip this time -->
-            Cry(Emotion.MP)
+            <cry emotions="Emotion.MP" />
 
             <featureMusic id="M-VGMDB-AL-47678-1" />
 

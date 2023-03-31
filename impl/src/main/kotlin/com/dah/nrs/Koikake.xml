@@ -73,7 +73,7 @@
             <aei base="0.8" emotions="Emotion.MP" />
 
             <!-- the sadness of the story -->
-            Cry(Emotion.CU) {
+            <cry emotions="Emotion.CU" /> {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }

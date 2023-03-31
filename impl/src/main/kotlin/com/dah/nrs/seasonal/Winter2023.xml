@@ -33,7 +33,7 @@
         <!-- thank you based localism -->
         <!-- thank you based localism -->
         <!-- thank you based localism -->
-        Cry(Emotion.CP to 0.8, Emotion.MP to 0.2) {
+        <cry emotions="Emotion.CP to 0.8, Emotion.MP to 0.2" /> {
             contributors["A-MAL-52736"] = 0.5
             contributors["localism [null entry]"] = 0.5
         }

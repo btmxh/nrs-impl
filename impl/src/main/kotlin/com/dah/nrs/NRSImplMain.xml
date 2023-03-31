@@ -192,7 +192,7 @@ fun main() =
 
             <!-- this is very sad guys -->
             <!-- no pads tho -->
-            Cry(Emotion.CU)
+            <cry emotions="Emotion.CU" />
             <!-- https://www.youtube.com/watch?v=fzQ6gRAEoy0 -->
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="6.minutes + 6.seconds" />
             <visual type="animated" base="0.65" unique="0.35" />

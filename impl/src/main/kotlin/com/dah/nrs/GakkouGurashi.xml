@@ -42,7 +42,7 @@
 
             <bestGirl name="Megumi Sakura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- rip Megu-nee -->
-            Cry(Emotion.CU)
+            <cry emotions="Emotion.CU" />
             Meme(0.2, 6)
             <featureMusic id="M-VGMDB-AL-52993-1" />
 
