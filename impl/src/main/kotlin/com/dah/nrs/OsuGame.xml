@@ -89,7 +89,7 @@
         <entry id="$-16" title="Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-">
             <musicConsumedProgress length="6:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.55" />
-            <ref name="KoikakeNEI" _.base="0.8" _.contribution="0.8" _.emotions="Emotion.CP to 0.75:MP-0.25" />
+            <ref name="KoikakeNEI" _.base="0.8" _.contribution="0.8" _.emotions="CP-0.75:MP-0.25" />
 
             <!-- "khi chân trời đầy nước mắt -->
             <!-- nước mắt sẽ hóa thành ước mơ" -->
@@ -719,7 +719,7 @@
         OsuSong(personal = 0.75, community = 0.5)
         <!-- Length source: https://osu.ppy.sh/beatmapsets/696175 -->
         <musicConsumedProgress length="3:48" />
-        <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="Emotion.CP to 0.5:MP-0.5" />
+        <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="CP-0.5:MP-0.5" />
     </entry>n    <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         <visual type="albumArt" base="0.2" unique="0.3" />
         <entry id="$-3" title="1+1でQ.E.D.!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

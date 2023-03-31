@@ -31,13 +31,13 @@
 
             <!-- also she brought the anime a relatively light one-day PADS kekw -->
             <!-- but it kinda got out of hand :skull: -->
-            <pads length="5" emotions="Emotion.CU to 0.9:MP-0.1" /> {
+            <pads length="5" emotions="CU-0.9:MP-0.1" /> {
                 contributors["A-MAL-48316"] = 0.95
                 contributors["M-VGMDB-AL-76149-1"] = 0.05
 
                 ValidatorSuppress("dah-lone-pads")
             }
-            <aei base="0.8" emotions="Emotion.CU to 0.9:MP-0.1" />
+            <aei base="0.8" emotions="CU-0.9:MP-0.1" />
 
             <!-- i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
             <waifu name="Sherry Barnett" from="2023-03-01" to="2023-03-12" />

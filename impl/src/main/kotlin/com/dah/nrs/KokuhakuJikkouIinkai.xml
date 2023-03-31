@@ -208,7 +208,7 @@
             <visual type="animated" base="0.4" unique="0.7" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1.hours + 3.minutes" />
             <nei base="0.2" emotions="Emotion.AP" />
-            <aei base="0.1" emotions="Emotion.MP to 0.3:CU-0.7" />
+            <aei base="0.1" emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-61577-1" />
             <featureMusic id="M-20221225T015456" />
         </entry>
@@ -226,7 +226,7 @@
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
             <nei base="0.2" emotions="Emotion.AP" />
             <!-- classic atm farm idk -->
-            <aei base="0.3" emotions="Emotion.MP to 0.3:CU-0.7" />
+            <aei base="0.3" emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-120871-5" />
         </entry>
 

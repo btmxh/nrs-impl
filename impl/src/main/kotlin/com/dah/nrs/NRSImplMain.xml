@@ -678,7 +678,7 @@ fun main() =
             KilledBy("A-MAL-41530", 0.1, 0.3)
 
             <!-- lol -->
-            <aei base="0.5" emotions="Emotion.AU to 0.5:AP-0.5" />
+            <aei base="0.5" emotions="AU-0.5:AP-0.5" />
         </entry>
 
         <entry id="A-MAL-47790" title="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru">
@@ -727,7 +727,7 @@ fun main() =
             <bestGirl name="Akagi Rin" /> <!-- impl_overridden -->
 
             <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
-            <aei base="0.5" emotions="Emotion.MP to 0.5:AP-0.5" />
+            <aei base="0.5" emotions="MP-0.5:AP-0.5" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.4" unique="0.3" />
             KilledBy("F-VGMDB-3245", 0.3, 0.15)

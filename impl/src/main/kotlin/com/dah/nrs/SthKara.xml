@@ -14,7 +14,7 @@
 
             <animeConsumedProgress status="Completed" boredom="0.7" episodes="13" />
             <!-- ending was good -->
-            <aei base="0.25" emotions="Emotion.CU to 0.9:AP-0.1" />
+            <aei base="0.25" emotions="CU-0.9:AP-0.1" />
 
             <visual type="animated" base="0.6" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-80341-1" />

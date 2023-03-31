@@ -67,7 +67,7 @@
             <!-- lolololololol -->
 
             <!-- the "selection project" of summer 2022 -->
-            <aei base="0.8" emotions="Emotion.CU to 0.9:CP-0.1" />
+            <aei base="0.8" emotions="CU-0.9:CP-0.1" />
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             KilledBy("F-VGMDB-4499", potential = 0.75, effect = 0.1)

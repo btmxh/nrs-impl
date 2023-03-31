@@ -174,7 +174,7 @@
                 <!-- some songs from the album (like it's not world's end -->
                 <!-- or sakura no zenya), which are CU-based. -->
                 <visual type="albumArt" base="0.4" unique="0.7" />
-                <nei base="0.2" emotions="Emotion.MP to 0.6:CU-0.4" />
+                <nei base="0.2" emotions="MP-0.6:CU-0.4" />
                 <!-- crossfade thing: https://www.nicovideo.jp/watch/sm19702966 -->
                 <visual type="animatedMV" base="0.3" unique="0.65" />
 
@@ -211,7 +211,7 @@
                     <musicConsumedProgress length="5:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
                     <nei base="0.5" emotions="Emotion.CU" />
-                    <ref name="KoikakeNEI" _.base="0.4" _.contribution="0.7" _.emotions="Emotion.CU to 0.8:MP-0.2" />
+                    <ref name="KoikakeNEI" _.base="0.4" _.contribution="0.7" _.emotions="CU-0.8:MP-0.2" />
                 </entry>
 
                 <entry id="$-4" title="「ねぇ。」"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -231,7 +231,7 @@
                     <visual type="animatedMV" base="0.35" unique="0.6" />
                     <music base="0.7" />
                     <nei base="0.25" emotions="Emotion.CU" />
-                    <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="Emotion.CU to 0.5:MP-0.4:CP-0.1" />
+                    <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="CU-0.5:MP-0.4:CP-0.1" />
                 </entry>
             </entry>
             <!-- after this, almost all of kano's songs suck -->

@@ -196,7 +196,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- broken legs" bs, look at the iceberg for more shit like that) -->
             <!-- (AU is from the anime's "Heisenberg Uncertainty Principle", which states that -->
             <!-- the more popular an anime is, the more hated it is by me) -->
-            <aei base="0.25" emotions="Emotion.MU to 0.5:AU-0.5" />
+            <aei base="0.25" emotions="MU-0.5:AU-0.5" />
 
             <!-- this was funny af -->
             <!-- expected from a purely mpap-based idol anime -->
@@ -209,7 +209,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
             <!-- but after this glorious franchise, it's also MP-farm, and more importantly -->
             <!-- it's what all idol fans feel, the feeling of wanting the girls to success -->
             <!-- tl;dr: the father analogy -->
-            <aei base="1.0" emotions="Emotion.CU to 0.5:CP-0.5" />
+            <aei base="1.0" emotions="CU-0.5:CP-0.5" />
 
             <visual type="animated" base="0.6" unique="0.2" />
 
@@ -1065,7 +1065,7 @@ private fun DSLImpact.TrackMemeImpact(total: Double, era: ReStageMusicContext.Cu
         KilledBy("F-VGMDB-7059", potential = 0.25, effect = 0.5)
     </entry>
 
-    <aei base="1.0" emotions="Emotion.CP to 0.9:MP-0.1" /> {
+    <aei base="1.0" emotions="CP-0.9:MP-0.1" /> {
         contributors["A-MAL-37890"] = 0.5
         contributors["A-MAL-38009"] = 0.45
         contributors["GF-VGMDB-7059"] = 0.05

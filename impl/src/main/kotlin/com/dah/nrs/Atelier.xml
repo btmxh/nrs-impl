@@ -175,7 +175,7 @@
             ConsumedProgress(EntryStatus.Completed, 1.0, 50.hours)
 
             <!-- i hate "bủ nio" (it's a meme lol) -->
-            <nei base="0.8" emotions="Emotion.AU to 0.5:AP-0.5" />
+            <nei base="0.8" emotions="AU-0.5:AP-0.5" />
         </entry>
 
         <entry id="G-VGMDB-1880" title="Escha & Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~">

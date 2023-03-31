@@ -12,7 +12,7 @@
             <!-- based rst reference -->
 
             <!-- sad plot twist thingy -->
-            <aei base="0.8" emotions="Emotion.CU to 0.8:AP-0.2" />
+            <aei base="0.8" emotions="CU-0.8:AP-0.2" />
             ConsumedProgress(EntryStatus.Temporarily On-Hold, 0.8, 10.hours)
 
             <visual type="visualNovel" base="0.7" unique="0.15" />

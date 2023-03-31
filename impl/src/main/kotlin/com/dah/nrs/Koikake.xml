@@ -67,7 +67,7 @@
             <aei base="0.2" emotions="Emotion.AU" />
 
             <!-- main girl's music career, darker than the childplay "ortensia incident" -->
-            <aei base="0.2" emotions="Emotion.AU to 0.5:MP-0.5" />
+            <aei base="0.2" emotions="AU-0.5:MP-0.5" />
 
             <!-- eroge love ig :aware: -->
             <aei base="0.8" emotions="Emotion.MP" />
@@ -78,7 +78,7 @@
                 contributors["M-VGMDB-AL-58596-14"] = 0.2
             }
 
-            <pads length="9" emotions="Emotion.CU to 0.5:MP-0.3:AU-0.1:CP-0.1" /> {
+            <pads length="9" emotions="CU-0.5:MP-0.3:AU-0.1:CP-0.1" /> {
                 contributors["V-VNDB-17516"] = 0.8
                 contributors["M-VGMDB-AL-104267-3"] = 0.05
                 contributors["M-VGMDB-AL-58596-14"] = 0.05
@@ -123,7 +123,7 @@
 
             <!-- classic "too lazy to rank all of the tracks" -->
             <music base="0.6" />
-            <ref name="KoikakeAEI" _.base="0.5" _.contribution="0.1" _.emotions="Emotion.CU to 0.8:CP-0.2" />
+            <ref name="KoikakeAEI" _.base="0.5" _.contribution="0.1" _.emotions="CU-0.8:CP-0.2" />
         </entry>
 
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
@@ -143,7 +143,7 @@
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
             <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.7" />
-            <ref name="KoikakeCry" _.contribution="0.75" _.emotions="Emotion.CP to 0.5:CU-0.25:MP-0.25" />
+            <ref name="KoikakeCry" _.contribution="0.75" _.emotions="CP-0.5:CU-0.25:MP-0.25" />
             <!-- Đó chính là, đoạn đường mà em đi -->
             <!-- That is, the path that you've chosen -->
 

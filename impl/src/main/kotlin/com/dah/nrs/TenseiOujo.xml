@@ -21,7 +21,7 @@
             <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- the first ep already gave me chill :skull: -->
-            <aei base="0.2" emotions="Emotion.CP to 0.8:MP-0.2" />
+            <aei base="0.2" emotions="CP-0.8:MP-0.2" />
 
             <!-- clueless mfs ^^^^ -->
             <!-- thank you based localism -->
@@ -29,7 +29,7 @@
             <!-- thank you based localism -->
             <!-- thank you based localism -->
             <!-- thank you based localism -->
-            <cry emotions="Emotion.CP to 0.8:MP-0.2" /> {
+            <cry emotions="CP-0.8:MP-0.2" /> {
                 contributors["A-MAL-52736"] = 0.4
                 contributors["M-VGMDB-AL-124465-1"] = 0.1
                 contributors["localism [null entry]"] = 0.5

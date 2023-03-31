@@ -440,7 +440,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         }
 
         <!-- arc 2 - the girl without screentime -->
-        <nei base="0.8" emotions="Emotion.AU to 0.5:CU-0.4:AP-0.1" /> {
+        <nei base="0.8" emotions="AU-0.5:CU-0.4:AP-0.1" /> {
             contributors["A-MAL-40879"] = 0.8
             contributors["M-VGMDB-AL-43320-8"] = 0.1
             contributors["M-VGMDB-AL-34269-7"] = 0.1
@@ -538,7 +538,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate
         <!-- i tried to watch niji in peace, but i failed -->
         <!-- the leftover hate from s1 and the heisenberg bs from s2 is just too much -->
         <!-- update: the azuna episode kinda did its thing -->
-        <nei base="-0.5" emotions="Emotion.MU to 0.5:AU-0.5" /> {
+        <nei base="-0.5" emotions="MU-0.5:AU-0.5" /> {
             contributors["A-MAL-40879"] = 0.3
             contributors["A-MAL-48916"] = 0.6
             contributors["A-MAL-15051"] = 0.1 / 6

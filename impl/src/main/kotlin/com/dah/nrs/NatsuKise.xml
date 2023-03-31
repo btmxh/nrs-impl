@@ -14,7 +14,7 @@
             <bestGirl name="Saki Mizukoshi" />
 
             <!-- something something rst something cp-based -->
-            <nei base="0.5" emotions="Emotion.CU to 0.5:CP-0.5" />
+            <nei base="0.5" emotions="CU-0.5:CP-0.5" />
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
             <visual type="animated" base="0.5" unique="0.4" />
         </entry>
