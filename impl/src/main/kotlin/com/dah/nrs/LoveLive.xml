@@ -524,9 +524,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <contributor id="A-MAL-48916" factor="0.5" />
             <contributor id="A-MAL-38009" factor="0.4" />
             <contributor id="GF-VGMDB-7059" factor="0.1" />
-        <//entry>
-
->
+        </nei>
 
         <!-- it has to happen -->
         <!-- sorry love live fans, rst got them -->
@@ -536,12 +534,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         <nei base="-0.5" emotions="MU-0.5:AU-0.5">
             <contributor id="A-MAL-40879" factor="0.3" />
             <contributor id="A-MAL-48916" factor="0.6" />
-            <contributor id="A-MAL-15051" factor="0.1" / 6 />
-            <contributor id="A-MAL-19111" factor="0.1" / 6 />
-            <contributor id="A-MAL-24997" factor="0.1" / 6 />
-            <contributor id="A-MAL-32526" factor="0.1" / 6 />
-            <contributor id="A-MAL-34973" factor="0.1" / 6 />
-            <contributor id="A-MAL-37027" factor="0.1" / 6 />
+            <contributor id="A-MAL-15051" factor="0.1 / 6" />
+            <contributor id="A-MAL-19111" factor="0.1 / 6" />
+            <contributor id="A-MAL-24997" factor="0.1 / 6" />
+            <contributor id="A-MAL-32526" factor="0.1 / 6" />
+            <contributor id="A-MAL-34973" factor="0.1 / 6" />
+            <contributor id="A-MAL-37027" factor="0.1 / 6" />
         </nei>
 
         <entry id="A-MAL-48916" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season">

@@ -900,9 +900,7 @@
         <contributor id="A-MAL-37890" factor="0.5" />
         <contributor id="A-MAL-38009" factor="0.45" />
         <contributor id="GF-VGMDB-7059" factor="0.05" />
-    <//entry>
-
->
+    </aei>
 
     <entry id="M-20220507T131634" title="Re:STAGE! Songs Compilation">
         <!-- kek 69 min song comp -->
@@ -914,55 +912,57 @@
     </entry>
 
     <!-- idol renaissance arc -->
-    <meme strength="1.0" from="2021-11-20" to="2022-01-10" /> {
+    <meme strength="1.0" from="2021-11-20" to="2022-01-10">
         <contributor id="A-MAL-38009" factor="0.75" />
         <contributor id="GF-VGMDB-7059" factor="0.05" />
-        TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1)
-    }
+        <!-- TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1) -->
+    </meme>
 
     <ref name="RSTSB69DuopolyEra" _.strikes="0.6">
         <contributor id="A-MAL-38009" factor="0.5" />
         <contributor id="GF-VGMDB-7059" factor="0.05" />
         <!-- her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw -->
         <contributor id="M-VGMDB-AR-29249" factor="0.15" />
-        TrackMemeImpact(0.3, ReStageMusicContext.CultureEra.Arc2)
+        <!-- TrackMemeImpact(0.3, ReStageMusicContext.CultureEra.Arc2) -->
     </ref>
 
     <!-- idol dystopia arc -->
     <ref name="IdolDystopia" _.strength="0.9">
-        <contributor id="A-MAL-38009" factor="0.6" <!-- this got rewatched --> />
+        <!-- this got rewatched -->
+        <contributor id="A-MAL-38009" factor="0.6" />
         <contributor id="GF-VGMDB-7059" factor="0.1" />
         <contributor id="M-VGMDB-AR-29249" factor="0.1" />
-        TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc3)
+        <!-- TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc3) -->
     </ref>
 
     <ref name="AKMEraPart1" _.strength="0.8">
         <contributor id="A-MAL-38009" factor="0.25" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.2" />
-        TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM1)
+        <!-- TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM1) -->
     </ref>
 
     <ref name="AKMEraPart2" _.strength="0.2">
         <contributor id="A-MAL-38009" factor="0.25" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.2" />
-        TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM2)
+        <!-- TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM2) -->
     </ref>
 
     <ref name="AKMEraPart3" _.strength="0.8">
         <contributor id="A-MAL-38009" factor="0.25" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.2" />
-        TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3)
+        <!-- TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3) -->
     </ref>
 
-    NeoErogeEra(0.25) {
+
+    <ref name="AKMEraPart3" _.strength="0.25">
         <contributor id="A-MAL-38009" factor="0.1" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.05" />
-        TrackMemeImpact(0.7, ReStageMusicContext.CultureEra.NEE)
-    }
+        <!-- TrackMemeImpact(0.7, ReStageMusicContext.CultureEra.NEE) -->
+    </ref>
 
     <def name="RSTSB69DuopolyEra" vars="_.strength:double" visibility="public">
         <meme strength="_.strength" from="2022-01-10" to="2022-03-10" />

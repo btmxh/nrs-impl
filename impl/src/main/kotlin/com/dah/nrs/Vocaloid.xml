@@ -49,7 +49,6 @@
     </entry>
 
     <entry id="M-20221219T233957" title="Calc.">
-
         <visual type="staticMV" base="0.2" unique="0.4" />
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         <musicConsumedProgress length="3:56" />
@@ -73,116 +72,48 @@
 
             <music base="0.5" />
             <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>        <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
+        </entry>
 
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
+        <entry id="$-90" title="Hand in Hand">
+            <musicConsumedProgress length="2:57" />
+            <music base="0.4" />
+        </entry>
 
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>          <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
+        <entry id="$-91" title="ゴーストルール">
+            <musicConsumedProgress length="3:30" />
+            <music base="0.3" />
+            <osuSong personal="0.6" community="0.6" />
+        </entry>
 
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
-
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>          <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
-
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
-
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-95" title="ヒバナ">
+            <musicConsumedProgress length="3:27" />
             <music base="0.4" />
             <osuSong personal="0.5" community="0.5" />
-        }
-    </entry>    <entry id="M-VGMDB-AL-97732" title="HATSUNE MIKU PROJECT DIVA MEGA39'S 10TH ANNIVERSARY COLLECTION"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        <visual type="albumArt" base="0.3" unique="0.3" />
-        <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
+        </entry>
+    </entry>
 
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
+    <entry id="M-VGMDB-AL-31377" title="Hajimete no Koi ga Owaru Toki / supercell">
+        <visual type="albumArt" base="0.4" unique="0.6" />
 
+        <entry id="$-1" title="Hajimete no Koi ga Owaru Toki">
+            <musicConsumedProgress length="5:15" />
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>        <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
 
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
+            <!-- interesting bit of history: -->
+            <!-- i found out this song from nayuta's cover -->
+            <!-- at that time i was playing ayane's route in koikake -->
+            <!-- and like they do the segs and nakadashi -->
+            <!-- i realized that there was no nakadashi in sena's route -->
+            <!-- it looked like a bad end flag or some shit -->
+            <!-- "i love hentai" -->
 
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>          <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
+            <!-- remod blue archvie mfs be like: "omg this is so deep" -->
 
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
-
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>          <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <!-- "the pads won't stop at the seventh day" -->
-            <!-- most happy himeno sena mf be like -->
-            <!-- :skull: -->
-            <!-- "sena"ka wo mukete kimi wa arukidashita -->
-            <!-- "sena"ka wo mukete boku wa arukidashita -->
-
-            <!-- wake up, it's your daily dose of "crying to -->
-            <!-- ayumu-era vocaloid songs while thinking about -->
-            <!-- main girl" -->
-
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
-        </entry>   <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-            <music base="0.4" />
-            <osuSong personal="0.5" community="0.5" />
-        }
-    </entry>   </entry>
-    }
+            <!-- anyways, this song is sad now for a different reason -->
+            <!-- (that is not segs fuck u) -->
+            <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.7" _.emotions="CU-0.8:MP-0.2" />
+        </entry>
+    </entry>
 
     <entry id="M-20221217T174507" title="Kutsumigaki to Maria">
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->

@@ -125,20 +125,18 @@
         <waifu waifu="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
             <contributor id="A-MAL-38256" factor="0.5" />
             <contributor id="G-VGMDB-5237" factor="0.5" />
-        <//entry>
+        </waifu>
 
->
-
-        <meme strength="0.75" from="2020-02-15" to="2020-08-15" /> {
+        <meme strength="0.75" from="2020-02-15" to="2020-08-15">
             <contributor id="A-MAL-38256" factor="0.4" />
             <contributor id="G-VGMDB-5237" factor="0.5" />
             <contributor id="A-MAL-9756" factor="0.08" />
             <contributor id="A-MAL-11981" factor="0.02" />
-        }
+        </meme>
 
-        <meme strength="0.3" length="2" /> {
+        <meme strength="0.3" length="2">
             <contributor id="A-MAL-41530" factor="1.0" />
-        }
+        </meme>
 
         <!-- magireco is kinda comfy -->
         <nei base="0.75" emotions="MP">
@@ -163,7 +161,7 @@
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- Gate-opened gacha games (there is only re step in NRS tho) -->
-            GateOpen("GF-VGMDB-7059")
+            <!-- GateOpen("GF-VGMDB-7059") -->
 
             <featureMusic id="M-VGMDB-AL-69147-11" />
             <featureMusic id="M-VGMDB-AL-89431-1" />
@@ -179,7 +177,7 @@
             </source>
 
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
             <!-- MagiReco-era is one of the most important eras in autism history -->
             <!-- This is the anime that brought it to life -->
 
@@ -189,8 +187,8 @@
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- Gate-opened gacha games -->
-            GateOpen("G-VGMDB-5237")
-            GateOpen("GF-VGMDB-7059")
+            <!-- GateOpen("G-VGMDB-5237") -->
+            <!-- GateOpen("GF-VGMDB-7059") -->
 
             <featureMusic id="M-VGMDB-AL-95029-1" />
         </entry>
@@ -204,19 +202,19 @@
             </source>
 
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="8" />
             <visual type="animated" base="0.5" unique="0.4" />
 
             <!-- the animation tho -->
-            Impact {
-                description = "Animation"
-                score = vector {
-                    set(Art.Visual, 0.5)
-                    set(Emotion.AP, 0.4)
-                }
-            }
+            <!-- description = "Animation" -->
+            <regularImpact>
+                <score>
+                    <component value="0.5" factor="Art.Visual" />
+                    <component value="0.4" factor="Emotion.AP" />
+                </score>
+            </regularImpact>
 
             <!-- OP -->
             <featureMusic id="M-VGMDB-AL-113295-1" />
@@ -231,7 +229,7 @@
             </source>
 
             <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            seasonal = true
+            <!-- seasonal = true -->
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="4" />
             <visual type="animated" base="0.5" unique="0.4" />
