@@ -199,19 +199,16 @@
 
             <entry id="$-1" title="リメンバーズ!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.3" /> {
-                    <!-- haha funny centuRe: reference -->
-                    arc2 = 20.0 <!-- the century man -->
-                    arc3 = 10.0 <!-- rst song comp -->
-                }
+                <!-- haha funny centuRe: reference -->
+                <!-- arc2 = 20.0 the century man -->
+                <!-- arc3 = 10.0 rst song comp -->
+                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="arc2=20.0:arc3=10.0" />
             </entry>
 
             <entry id="$-2" title="君に贈るAngel Yell"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- the angel yell incident -->
-                ReStep<music base="0.75" /> {
-                    arc1 = 25.0
-                }
+                <ref name="ReStepMusic" _.base="0.75" _.from="arc1" _.eras="arc1=25.0" />
                 <!-- "Amazing saikou no Brilliant (HEY!!)" -->
                 <!-- wtf this song is nozsist i hate rst now -->
             </entry>
@@ -224,7 +221,7 @@
 
             <entry id="$-1" title="Natsu no Yakusoku"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.15" />
+                <ref name="ReStepMusic" _.base="0.15" _.from="arc1" _.eras="" />
             </entry>
         </entry>
 
@@ -234,10 +231,7 @@
 
             <entry id="$-1" title="憧れFuture Sign"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.3" /> {
-                    arc1 = 1.5
-                    nee = 2.5
-                }
+                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="arc1=1.5:nee=2.5" />
 
                 <!-- thank you based atelier, very cool -->
                 <!-- thank you based yuiko, very cool -->
@@ -254,10 +248,7 @@
             <entry id="$-1" title="Do it!! PARTY!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:33" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- do it happy daibouken reference -->
-                ReStep<music base="0.5" /> {
-                    arc1 = 10.0
-                    arc2 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.5" _.from="arc1" _.eras="arc1=10.0:arc2=5.0" />
             </entry>
 
             <contains id="M-VGMDB-AL-78534-1" />
@@ -273,9 +264,7 @@
             <entry id="$-1" title="宣誓センセーション"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- [plasmagunstepgica] -->
-                ReStep<music base="0.3" /> {
-                    arc3 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="arc3=5.0" />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
         </entry>
@@ -296,10 +285,7 @@
                 <!-- [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu! -->
                 <osuSong personal="0.5" community="0.0" />
 
-                ReStep<music base="0.5" /> {
-                    arc1 = 15.0
-                    arc2 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.5" _.from="arc1" _.eras="arc1=15.0:arc2=10.0" />
             </entry>
         </entry>
 
@@ -308,44 +294,31 @@
             <visual type="albumArt" base="0.5" unique="0.4" />
             <entry id="$-1" title="ハッピータイフーン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.08" /> {
-                    arc1 = 2.5
-                }
+                <ref name="ReStepMusic" _.base="0.08" _.from="arc1" _.eras="arc1=2.5" />
             </entry>
 
             <entry id="$-2" title="ステレオライフ">
                 <musicConsumedProgress length="4:28" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- yozora ni kagayaku yume no ryuusei wa -->
                 <!-- kek -->
-                ReStep<music base="0.1" /> {
-                    arc2 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="arc2=5.0" />
             </entry>
         </entry>
 
         <entry id="M-VGMDB-AL-86622" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                "Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-1" title="Don't think, smile!!">
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.25" /> {
-                    arc1 = 7.5
-                }
+                <ref name="ReStepMusic" _.base="0.25" _.from="arc1" _.eras="7.5" />
             </entry>
 
             <entry id="$-2" title="Akogare Future Sign (Piano Strings Arrange)">
                 <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.2" /> {
-                    arc1 = 10.0
-                    nee = 15.0
-                }
+                <ref name="ReStepMusic" _.base="0.2" _.from="arc1" _.eras="arc1=10.0:nee=15.0" />
             </entry>
         </entry>
 
         <entry id="M-VGMDB-AL-89363" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                "Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-
             <contains id="M-VGMDB-AL-78516-1" />
             <contains id="M-VGMDB-AL-78764-1" />
 
@@ -356,9 +329,7 @@
                 <!-- mot nguoi diet het moi tuong lai uoc mo -->
                 <!-- xinh dep bac nhat tren thai binh que to -->
                 <!-- co gai hoan love luon khien cho ca truong chuyen don dau -->
-                ReStep<music base="0.45" /> {
-                    arc1 = 25.0
-                }
+                <ref name="ReStepMusic" _.base="0.45" _.from="arc1" _.eras="arc1=25.0" />
             </entry>
 
             <entry id="$-2" title="OvertuRe:">
@@ -403,21 +374,15 @@
                 <!-- demon slayer? more like got slayed by rst lmao xddddd -->
                 <!-- love live? more like love die because you got cucked by rst xddddddd KEKW ING -->
                 <!-- we will be on the top and people will have to smoke COPIUM just like me rn -->
-                ReStep<music base="0.8" /> {
-                    arc1 = 25.0
-                    arc3 = 25.0
-                }
+                <ref name="ReStepMusic" _.base="0.8" _.from="arc1" _.eras="arc1=25.0:arc3=25.0" />
             </entry>
         </entry>
 
         <entry id="M-VGMDB-AL-90208" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                "Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-5" title="Invisible Diamond"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.65" /> {
-                    arc3 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.65" _.from="arc1" _.eras="arc3=10.0" />
                 <osuSong personal="0.25" community="0.0" />
             </entry>
         </entry>
@@ -441,7 +406,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-89364" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                "Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver." <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.6" unique="0.2" />
             <contains id="M-VGMDB-AL-89363-1" />
@@ -450,9 +414,7 @@
 
             <entry id="$-3" title="Yes, We Are!!!">
                 <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.35" /> {
-                    arc1 = 20.0
-                }
+                <ref name="ReStepMusic" _.base="0.35" _.from="arc1" _.eras="arc1=20.0" />
             </entry>
         </entry>
 
@@ -462,17 +424,13 @@
 
             <entry id="$-1" title="Purple Rays">
                 <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.3" />
+                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="" />
             </entry>
 
             <entry id="$-2" title="Dear マイフレンド">
                 <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.4" /> {
-                    arc1 = 2.5
-                    arc3 = 2.5
-                    <!-- blame localism -->
-                    nee = 20.0
-                }
+                <!-- blame localism -->
+                <ref name="ReStepMusic" _.base="0.4" _.from="arc1" _.eras="arc1=2.5:arc3=2.5:nee=20.0" />
             </entry>
         </entry>
 
@@ -481,7 +439,7 @@
             <visual type="albumArt" base="0.25" unique="0.65" />
             <entry id="$-1" title="*Heart Confusion*">
                 <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.1" />
+                <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="" />
             </entry>
 
             <entry id="$-2" title="crave"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -491,9 +449,7 @@
                 <!-- >still makes a song for rst anyway, but other franchises get none -->
                 <!-- >refuses to elaborate further -->
                 <!-- >leaves -->
-                ReStep<music base="0.25" /> {
-                    arc1 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.25" _.from="arc1" _.eras="arc1=5.0" />
             </entry>
         </entry>
 
@@ -507,9 +463,7 @@
 
             <entry id="$-5" title="Ano ne">
                 <musicConsumedProgress length="3:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.2" /> {
-                    arc1 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.2" _.from="arc1" _.eras="arc1=5.0" />
             </entry>
         </entry>
 
@@ -518,59 +472,59 @@
             <!-- not even close tho -->
 
             <!-- # The ortensia incident -->
-            //
+            <!-- -->
             <!-- **The ortensia incident** is an event that happened on November 1st, 2019. [Yumiri Hanamori](https://en.wikipedia.org/wiki/Yumiri_Hanamori), the voice actress for the rst girl Haruka Itsumura, was announced to be *graduating* from rst due to a knee injury. This incident happened right after the rst anime was finished. This has led to multiple *conspiracy theorists* and *rst lore enjoyers* raising their concerns with the future of the franchise. -->
-            //
+            <!-- -->
             <!-- This piece of rst lore spreaded like wildfire and as a result, it became one of the best memes of rst, with rst copyright-claiming both of the words "accident" and "incident". As a result, whenever something bad happen, it's an rst reference, like the airship incident in [Atelier Escha & Logy: Alchemists of the Dusk Sky](https://en.wikipedia.org/wiki/Atelier_Escha_%26_Logy:_Alchemists_of_the_Dusk_Sky), or that time [Akari Kitō](https://en.wikipedia.org/wiki/Akari_Kit%C5%8D) was unable to show up at the Love Live Niji's 5th live. -->
-            //
+            <!-- -->
             <!-- ## Background -->
-            //
+            <!-- -->
             <!-- In Summer 2019, [Re:Stage! Dream Days♪](https://en.wikipedia.org/wiki/Re:Stage!#Anime), one of the anime of all time, was aired. It was pretty underrated, since people are llfags who are unable to comprehend the superiority of the glorious franchise. After the end of the anime, several albums were released in October and November (after the incident), before the franchise goes on hiatus for a year. -->
-            //
+            <!-- -->
             <!-- Yumiri Hanamori is one of the eighteen main voice actresses for rst. She has a pretty major role in the anime, and was paired with [Ari Ozawa](https://en.wikipedia.org/wiki/Ari_Ozawa) in the unit [ortensia](https://projectrst.fandom.com/wiki/Ortensia). The unit name is where the incident gets its name from. -->
-            //
+            <!-- -->
             <!-- ## The incident -->
-            //
+            <!-- -->
             <!-- On November 1, 2019, a notice regarding the *graduation* of Yumiri Hanamori in rst's homepage. It referenced a more detailed notice from her affiliation, which also contains her feelings with the incident. Although Yumiri Hanamori would still take part in rst 3rd live on November 17th, it would be her last time standing on the stage with the role of Haruka Itsumura's voice actress. It was also briefly mentioned that the cast of Haruka Itsumura would be announced later. -->
-            //
+            <!-- -->
             <!-- The reason for Hanamori's graduation was announced to be due to a knee injury, or to be exact, *patellar subluxation and meniscal tear*. She was advised not to take part in any performances that could put strain on her knees. -->
-            //
+            <!-- -->
             <!-- On December 10, 2019, the replacement for Hanamori's role was announced. Tomomi Mineuchi, who is known for her voice in [Slow Start](https://myanimelist.net/anime/35540/Slow_Start), and [Summer Pockets](https://en.wikipedia.org/wiki/Summer_Pockets), would be the cast for Haruka Itsumura. -->
-            //
+            <!-- -->
             <!-- ## Conspiracy theories -->
-            //
+            <!-- -->
             <!-- Although Hanamori's thoughts were included in the m&i's graduation notice, people were still skeptical. -->
-            //
+            <!-- -->
             <!-- ### Potentially true reason #1: The anime flopped -->
-            //
+            <!-- -->
             <!-- rst was Pony Canyon's first step into the anime idol industry. They did gave rst a lot of help, including anime BGM from [Shingeki no Kyojin](https://en.wikipedia.org/wiki/Attack_on_Titan)'s composer, Kohta Yamamoto, as well as a wide range of famous VOCALOID producers, like [keeno](https://vocaloid.fandom.com/wiki/keeno), DECO*27, yuyoyuppe, etc. This clearly had shown the vision that Pony Canyon once had with the franchise. -->
-            //
+            <!-- -->
             <!-- But after the anime finished airing, rst enjoyers had to wait more than one year to get their new album, which was now in a brand new form: *Concept Album*. The next year, they got a compilation album, which only included a new song titled *Watashitachi, Shiki o Asobun Desu!!*, and some new versions of ortensia songs (because the cast has changed). This made people skeptical of the fact that Pony Canyon had dropped their plans with rst, and realized that the anime had flopped. -->
-            //
+            <!-- -->
             <!-- Knowing about Pony Canyon's vision, Yumiri Hanamori might sensed that rst was not going to make it, and decided to leave, since she couldn't change anything if this happen. -->
-            //
+            <!-- -->
             <!-- ### Potential true reason #2: ChuChu analogy -->
-            //
+            <!-- -->
             <!-- The ChuChu analogy is an explanation for several voice actresses actions and their motives under the hood. It was based on the character ChuChu from the anime [Show by Rock!!](https://en.wikipedia.org/wiki/Show_by_Rock!!), a girl with great ambition, who would consider her current band merely a stepping stone to reach her dreams. -->
-            //
+            <!-- -->
             <!-- The analogy stated that in rst, there are several voice actresses with a similar mindset. They don't care about the franchise, and just wanted to fill a slot in their portfolios. If this was the case for Tomomi Mineuchi, after realizing that the anime was going to be unpopular till the end of time, quiting and spending her time for better roles should clearly be the superior choice. -->
-            //
+            <!-- -->
             <!-- ### Potential true reason #3: Displeasure -->
-            //
+            <!-- -->
             <!-- An anon from 4chan has stated that Hanamori leaving rst was partly due to her disinterest with the job in this franchise. This is somewhat widespread, but it doesn't have a good backing evidence. -->
-            //
+            <!-- -->
             <!-- ### Potential true reason #4: Bullying -->
-            //
+            <!-- -->
             <!-- Prior to the airing of rst anime, Yumiri had a major role in kaguyashit anime, which is Hayasaka Ai's voice actress. This may be the reason why she got bullied by her companions, which are loyal to the franchise and would never sell their souls to shit franchises. -->
-            //
+            <!-- -->
             <!-- (This was just anti-kaguyashit propaganda.) -->
-            //
+            <!-- -->
             <!-- ## Consequences -->
-            //
+            <!-- -->
             <!-- Every major incident after rst were the consequences of the ortensia incident. Many people believed that this event has triggered some sort of universal shifts that had forever changed the world as we know it. Similarly to the Harambe's incident, a butterfly effect was believed to happen in early 2020. One of the most recognizable consequences of the event is the COVID-19 pandemic. This had led to the stagnation of multiple multimedia franchises, including rst itself. -->
-            //
+            <!-- -->
             <!-- The event also was considered triggering point of multiple fictional events, such as Gin Minowa's death in the [Yuusha series](https://en.wikipedia.org/wiki/Yuki_Yuna_is_a_Hero) and the aforementioned airship incident. -->
-            //
+            <!-- -->
             <!-- Literally anything that had gone wrong after 2020 can be traced back to the incident, and therefore, this event has shaped the world as we know it. -->
 
             <!-- # The ortensia incident 2: electric boogaloo -->
@@ -593,7 +547,7 @@
         <!-- the ortensia incident lore -->
         <!-- it is already known from arc 1, but idk the details -->
         <!-- (like 20-30 days won't do much for something that's longer than 300 days) -->
-        <meme strength="0.3" length="numDays("2022-01-01"" />)
+        <meme strength="0.3" from="2022-01-01" to="today" />
 
         <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -601,16 +555,12 @@
 
             <entry id="$-1" title="InFiction"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.45" /> {
-                    arc3 = 2.5
-                }
+                <ref name="ReStepMusic" _.base="0.45" _.from="arc1" _.eras="arc3=2.5" />
             </entry>
 
             <entry id="$-8" title="DESERT BLACK FLOWER"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.75" /> {
-                    arc3 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.75" _.from="arc1" _.eras="arc3=10.0" />
             </entry>
         </entry>
 
@@ -637,9 +587,7 @@
 
             <entry id="$-1" title="カナリア"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.6" /> {
-                    arc1 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.6" _.from="arc1" _.eras="arc1=5.0" />
             </entry>
         </entry>
 
@@ -659,10 +607,7 @@
             <!-- - sotarks map roasting -->
             <!-- - btmc map requests -->
             <!-- (both failed lmfao) -->
-            ReStep<music base="0.8" /> {
-                arc1 = 10.0
-                arc2 = 2.5
-            }
+            <ref name="ReStepMusic" _.base="0.8" _.from="arc1" _.eras="arc1=10.0:arc2=2.5" />
 
             <!-- hige driver composed and arranged this btw -->
             <!-- (ye the dude who make dadadadadada) -->
@@ -683,18 +628,12 @@
                 <!-- la nguoi mang niem tin hi vong cho toi -->
                 <!-- se mang lai biet bao su huy hoang -->
 
-                ReStep<music base="0.7" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.7" _.from="arc3" _.eras="arc3=10.0" />
             </entry>
 
             <entry id="$-2" title="Re:Rays"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.5" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.5" _.from="arc3" _.eras="arc3=10.0" />
             </entry>
 
             <entry id="$-3" title="Tomorrow Melodies"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -703,18 +642,12 @@
                 <!-- nguoi dan ong da khien ca truong, -->
                 <!-- ca truong chuyen da luon lo so -->
 
-                ReStep<music base="0.7" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.7" _.from="arc3" _.eras="arc3=10.0" />
             </entry>
 
-            <entry id="$-4" title="Pins&Needles">
+            <entry id="$-4" title="Pins&amp;Needles">
                 <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.45" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 2.0
-                }
+                <ref name="ReStepMusic" _.base="0.45" _.from="arc3" _.eras="arc3=2.0" />
             </entry>
 
             <entry id="$-5" title="We Remember">
@@ -724,10 +657,7 @@
                 <!-- tai vi sao a qua ngau -->
                 <!-- (the gian d ai sanh bang) -->
 
-                ReStep<music base="0.3" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 1.5
-                }
+                <ref name="ReStepMusic" _.base="0.3" _.from="arc3" _.eras="arc3=1.5" />
             </entry>
         </entry>
 
@@ -735,8 +665,7 @@
         <!-- these new songs are "saved" for future use, therefore their -->
         <!-- scores are not that high rn -->
         <!-- (except for the absolute banger clematis) -->
-        <entry id="M-VGMDB-AL-120845" title="Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                "Sin City / Kasumi Honjou, Ruka Ichijou & Mikuru Bandou" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120845" title="Sin City / Kasumi Honjou, Ruka Ichijou &amp; Mikuru Bandou"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- https://linkco.re/5XDmDcHp -->
             <!-- aka sussin city -->
 
@@ -744,15 +673,11 @@
 
             <entry id="$-1" title="Sin City"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:52" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.35" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.35" _.from="arc3" _.eras="arc3=10.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-120844" title="Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                "Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka & Sango Misaki" <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120844" title="Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka &amp; Sango Misaki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- https://linkco.re/AM0HVHA5 -->
             <!-- aka mismatched melody -->
 
@@ -761,10 +686,7 @@
             <!-- ty for going back based akari kito -->
             <entry id="$-1" title="Chiguhagu Melody"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:55" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.2" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.2" _.from="arc3" _.eras="arc3=3.0" />
             </entry>
         </entry>
 
@@ -780,11 +702,7 @@
             <visual type="semiAnimatedMV" base="0.2" unique="0.6" />
             <entry id="$-1" title="ユニゾンモノローグ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="3:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.3" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                    arc3 = 3.0
-                    nee = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.3" _.from="arc3" _.eras="arc3=3.0:nee=3.0" />
             </entry>
         </entry>
 
@@ -794,9 +712,7 @@
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Ginga no Shizuku"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.15" /> {
-                    from(ReStageMusicContext.CultureEra.Arc3)
-                }
+                <ref name="ReStepMusic" _.base="0.15" _.from="arc3" _.eras="" />
             </entry>
         </entry>
 
@@ -814,10 +730,7 @@
 
             <entry id="$-1" title="Clematis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.65" /> {
-                    from(ReStageMusicContext.CultureEra.AKM1)
-                    akm1 = 10.0
-                }
+                <ref name="ReStepMusic" _.base="0.65" _.from="akm1" _.eras="akm1=10.0" />
             </entry>
         </entry>
 
@@ -829,10 +742,7 @@
 
             <entry id="$-1" title="Ideal/Idol"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.15" /> {
-                    from(ReStageMusicContext.CultureEra.AKM2)
-                    akm2 = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.15" _.from="arc2" _.eras="akm2=3.0" />
             </entry>
         </entry>
 
@@ -868,47 +778,35 @@
                 <!-- me waiting for ameko be like -->
                 <!-- https://knowyourmeme.com/memes/pablo-escobar-waiting -->
 
-                ReStep<music base="0.5" /> {
-                    from(ReStageMusicContext.CultureEra.AKM3)
-                    akm3 = 5.0
-                }
+                <ref name="ReStepMusic" _.base="0.5" _.from="akm3" _.eras="akm3=5.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-124585" title="Glass Wings / Sango Misaki & Kanade Hokaze"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-124585" title="Glass Wings / Sango Misaki &amp; Kanade Hokaze"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Glass Wings">
                 <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.3" /> {
-                    from(ReStageMusicContext.CultureEra.NEE)
-                    nee = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.3" _.from="nee" _.eras="nee=3.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-124586" title="Artemis / Ruka Ichijou & Nagisa Himura"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-124586" title="Artemis / Ruka Ichijou &amp; Nagisa Himura"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Artemis">
                 <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.25" /> {
-                    from(ReStageMusicContext.CultureEra.NEE)
-                    nee = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.25" _.from="nee" _.eras="nee=3.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-124587" title="Imperial Stage / Aone Shikimiya & Amaha Shiratori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-124587" title="Imperial Stage / Aone Shikimiya &amp; Amaha Shiratori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Imperial Stage">
                 <!-- Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8 -->
                 <musicConsumedProgress length="3:24" /> <!-- impl_overridden --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                ReStep<music base="0.2" /> {
-                    from(ReStageMusicContext.CultureEra.NEE)
-                    nee = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.2" _.from="nee" _.eras="nee=3.0" />
             </entry>
         </entry>
 
@@ -926,10 +824,7 @@
                 <!-- to banger eroge as such, not something as shallow -->
                 <!-- as 'the ortensia incident'" - mfs who don't even know -->
                 <!-- the true depth of the ortensia incident -->
-                ReStep<music base="0.45" /> {
-                    from(ReStageMusicContext.CultureEra.NEE)
-                    nee = 3.0
-                }
+                <ref name="ReStepMusic" _.base="0.45" _.from="nee" _.eras="nee=3.0" />
             </entry>
         </entry>
 
@@ -944,18 +839,16 @@
             <!-- illustrator art style is not that good) -->
             <visual type="gachaCardArt" base="0.75" unique="0.75" />
 
-            GateOpen("F-VGMDB-6439")
-            GateOpen("F-VGMDB-4499")
+            <!-- GateOpen("F-VGMDB-6439") -->
+            <!-- GateOpen("F-VGMDB-4499") -->
 
-            AllRstTracks.keys.forEach { Feature<music base="it" /> }
+            <!-- AllRstTracks.keys.forEach { Feature<music base="it" /> } -->
         </entry>
 
         <killedBy id="F-VGMDB-4499" potential="0.4" effect="0.9">
             <contributor id="A-MAL-38009" factor="0.8" />
             <contributor id="GF-VGMDB-7059" factor="0.2" />
-        <//entry>
-
->
+        </killedBy>
 
         <!-- r/osuplace stuff -->
         <killedBy id="M-20220410T181408" potential="0.4" effect="0.9">
@@ -968,7 +861,7 @@
             <contributor id="GF-VGMDB-7059" factor="0.2" />
         </killedBy>
 
-        NeoErogeEra(0.1)
+        <ref name="NeoErogeEra" _.strength="0.1" />
     </entry>
 
     <!-- the "watch rst" anime -->
