@@ -841,6 +841,7 @@ fun main() =
         Koikake()
 
         KokuhakuJikkouIinkai()
+        Nakineko()
         Winter2023()
         Bird()
         BlueArchive()
