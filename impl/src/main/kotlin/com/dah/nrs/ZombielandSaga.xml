@@ -1,7 +1,8 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
-    <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA"><entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
+    <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
+        <entry id="A-MAL-37976" title="Zombieland Saga">
             <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
                 <adb id="37976"/>

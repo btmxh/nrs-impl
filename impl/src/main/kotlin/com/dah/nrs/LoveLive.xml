@@ -428,7 +428,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         <!-- arc 1 - the girl who changed the world -->
         <waifu waifu="Uehara Ayumu" from="2020-11-02" to="2021-02-15">
             <contributor id="A-MAL-40879" factor="0.9" />
-            <contributor id="M-VGMDB-AL-102281-1" factor="0.1" />
+            <contributor id="M-VGMDB-AL-102279-1" factor="0.1" />
         </waifu>
 
         <!-- arc 2 - the girl without screentime -->
@@ -479,7 +479,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <featureMusic id="M-VGMDB-AL-102276-1" />
             <featureMusic id="M-VGMDB-AL-102277-1" />
-            <featureMusic id="M-VGMDB-AL-102281-1" />
+            <featureMusic id="M-VGMDB-AL-102279-1" />
             <featureMusic id="M-VGMDB-AL-104783-1" />
 
             <!-- NO FUCKING WAY -->
