@@ -11,23 +11,22 @@
         </entry>
 
         <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-
             <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Dreaming!">
                 <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />
                 <osuSong personal="0.8" community="0.0" />
             </entry>
-        </entry>        <entry id="M-VGMDB-AL-53945" title="THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        </entry>
 
-            <visual type="albumArt" base="0.5" unique="0.25" />
-            <entry id="$-1" title="Dreaming!">
-                <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <music base="0.35" />
-                <osuSong personal="0.8" community="0.0" />
+        <entry id="M-VGMDB-AL-64249" title="THE IDOLM@STER CINDERELLA MASTER EVERMORE">
+            <visual type="albumArt" base="0.3" unique="0.3" />
+
+            <entry id="$-1" title="EVERMORE (M@STER VERSION)">
+                <musicConsumedProgress length="6:05" />
+                <music base="0.4" />
             </entry>
-        </entry>   </entry>
-        }
+        </entry>
 
         <entry id="M-VGMDB-AL-78253" title="THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
@@ -63,9 +62,7 @@
         <nei base="0.25" emotions="AP">
             <contributor id="A-MAL-23587" factor="0.5" />
             <contributor id="A-MAL-30344" factor="0.5" />
-        <//entry>
-
->
+        </nei>
 
         <entry id="A-MAL-23587" title="The iDOLM@STER Cinderella Girls"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
