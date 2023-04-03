@@ -1,6 +1,21 @@
 <?xml-model href="../../../../../../../temp/schema.xsd"?>
 
 <document>
+    <def name="FesALiveMusic" vars="_.base:double,_.eras:string,_.from:string" visibility="public">
+        <!-- bind macro variables to local scope -->
+        <script>
+            local.base = _.base;
+            local.eras = "_.eras";
+            local.from = "_.from";
+        </script>
+        <!-- invoke the script itself -->
+        <script src="scripts/RSTSB69Music.js" entryPoint="sb69" />
+        <!-- add the music impact -->
+        <music base="_.base">
+            <validatorSuppress rules="dah-rst-sb69-music-impact" />
+        </music>
+    </def>
+
     <!-- Almost every cat seems to enjoy catching birds. -->
     <!-- But there is a cat, that wants to be a bird. -->
     <!-- She wants to fly on that blue sky once painted pink. -->

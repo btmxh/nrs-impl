@@ -9,6 +9,21 @@
 <!-- top 1 anime doable LETSGO -->
 <!-- this is the first step of our global (oricon) domination plan -->
 <document>
+    <def name="ReStepMusic" vars="_.base:double,_.eras:string,_.from:string" visibility="public">
+        <!-- bind macro variables to local scope -->
+        <script>
+            local.base = _.base;
+            local.eras = "_.eras";
+            local.from = "_.from";
+        </script>
+        <!-- invoke the script itself -->
+        <script src="scripts/RSTSB69Music.js" entryPoint="rst" />
+        <!-- add the music impact -->
+        <music base="_.base">
+            <validatorSuppress rules="dah-rst-sb69-music-impact" />
+        </music>
+    </def>
+
     <!-- changed da world -->
 
     <!-- A sky, filled with colors, which was painted by a girl. -->
@@ -189,7 +204,7 @@
 
             <entry id="$-2" title="Startin' My Re:STAGE!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.1" _.eras="akm1=5.0:akm2=5.0" />
+                <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="akm1=5.0:akm2=5.0" />
             </entry>
         </entry>
 
@@ -309,7 +324,7 @@
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-1" title="Don't think, smile!!">
                 <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.25" _.from="arc1" _.eras="7.5" />
+                <ref name="ReStepMusic" _.base="0.25" _.from="arc1" _.eras="arc1=7.5" />
             </entry>
 
             <entry id="$-2" title="Akogare Future Sign (Piano Strings Arrange)">
