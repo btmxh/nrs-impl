@@ -861,7 +861,10 @@
             <!-- idk find them yourself, they're really good -->
             <!-- (despite rst having average character design + the -->
             <!-- illustrator art style is not that good) -->
-            <visual type="gachaCardArt" base="0.75" unique="0.75" />
+            <!-- i'm speechless please kill me -->
+            <!-- truly the peak of culture -->
+            <!-- context: https://github.com/ngoduyanh/nrs-impl-kt/issues/408 -->
+            <visual type="gachaCardArt" base="1.0" unique="0.75" />
 
             <!-- GateOpen("F-VGMDB-6439") -->
             <!-- GateOpen("F-VGMDB-4499") -->
