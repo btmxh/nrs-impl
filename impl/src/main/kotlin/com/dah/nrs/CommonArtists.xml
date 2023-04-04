@@ -8,7 +8,7 @@
         <contains id="M-20220130T183728-4" factor="1.0 / 3" />
         <contains id="M-20220117T170733-1" factor="0.5" />
         <contains id="M-20220125T063355-6" factor="0.5" />
-        <contains id="M-20221202T205118" factor="MusicInstContainFactor" />
+        <contains id="M-20221202T205118" factor="inst" />
     </entry>
 
     <entry id="M-20220130T183728-3" title="Rakakun">
@@ -121,18 +121,18 @@
 
     <entry id="M-VGMDB-AR-15119" title="Scop"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <contains id="M-VGMDB-AL-37130-1" factor="MusicInstContainFactor / 3.0" />
-        <contains id="M-VGMDB-AL-37130-2" factor="MusicInstContainFactor / 3.0" />
-        <contains id="M-VGMDB-AL-37130-3" factor="MusicInstContainFactor / 3.0" />
+        <contains id="M-VGMDB-AL-37130-1" factor="inst / 3.0" />
+        <contains id="M-VGMDB-AL-37130-2" factor="inst / 3.0" />
+        <contains id="M-VGMDB-AL-37130-3" factor="inst / 3.0" />
 
-        <contains id="M-VGMDB-AL-34411-11" factor="MusicInstContainFactor" />
+        <contains id="M-VGMDB-AL-34411-11" factor="inst" />
     </entry>
 
     <entry id="M-VGMDB-AR-15120" title="keeno"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <contains id="M-VGMDB-AL-37130-4" factor="MusicInstContainFactor / 3.0" />
-        <contains id="M-VGMDB-AL-37130-5" factor="MusicInstContainFactor / 3.0" />
-        <contains id="M-VGMDB-AL-37130-6" factor="MusicInstContainFactor / 3.0" />
+        <contains id="M-VGMDB-AL-37130-4" factor="inst / 3.0" />
+        <contains id="M-VGMDB-AL-37130-5" factor="inst / 3.0" />
+        <contains id="M-VGMDB-AL-37130-6" factor="inst / 3.0" />
 
         <contains id="M-VGMDB-AL-49423-8" factor="0.2" />
 
@@ -148,7 +148,7 @@
 
     <entry id="M-VGMDB-AR-29323" title="Kaori Maeda"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
+        <contains id="M-VGMDB-AR-29922" factor="1.5/16.5 // NijiOldGirlContainFactor" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-99272-3" />
         </contains>
@@ -156,7 +156,7 @@
 
     <entry id="M-VGMDB-AR-29640" title="Aguri Onishi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
+        <contains id="M-VGMDB-AR-29922" factor="1.5/16.5 // NijiOldGirlContainFactor" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-80802-2" />
             <contains id="M-VGMDB-AL-87198-1" />
@@ -169,7 +169,7 @@
         <!-- the prima doll destroyer -->
         <!-- also that isekai anime destroyer too lmfaooooo -->
 
-        <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
+        <contains id="M-VGMDB-AR-29922" factor="1.5/16.5 // NijiOldGirlContainFactor" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-80802-8" />
             <contains id="M-VGMDB-AL-87198-7" />
@@ -179,7 +179,7 @@
 
     <entry id="M-VGMDB-AR-26954" title="Chiemi Tanaka"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
+        <contains id="M-VGMDB-AR-29922" factor="1.5/16.5 // NijiOldGirlContainFactor" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-80802-10" />
         </contains>
@@ -213,17 +213,13 @@
             <!-- 765 MILLION ALLSTARS -->
             <contains id="M-VGMDB-AR-32295" factor="3.0 / 51.0" />
 
-            <contains id="M-VGMDB-AL-61577" factor="MusicVocalContainFactor + MusicImageContainFactor * 0.5" />
+            <contains id="M-VGMDB-AL-61577" factor="vocal + image * 0.5" />
         </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-11829" title="ClariS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains factor="vocal+image">
-            <contains id="M-VGMDB-AL-23391" />
-            <contains id="M-VGMDB-AL-41292" />
-            <contains id="M-VGMDB-AL-89431" />
-
             <!-- colorful remixes -->
             <contains factor="0.5">
                 <contains id="M-20220113T184042-3" />
@@ -491,9 +487,9 @@
         <!-- *insert high-copium pasta about love live < rst but in reality it's the opposite* -->
 
         <contains id="M-VGMDB-AR-30829" factor="1.0 / 6.0" />
-        <contains id="M-VGMDB-AR-29922" factor="NijiOldGirlContainFactor" />
+        <contains id="M-VGMDB-AR-29922" factor="1.5/16.5 // NijiOldGirlContainFactor" />
 
-        <contains id="M-VGMDB-AL-104618" factor="MusicVocalContainFactor + MusicImageContainFactor * MusicFeatArtistFactor" />
+        <contains id="M-VGMDB-AL-104618" factor="vocal + image * feat" />
 
         <!-- the akari kito analogy lol -->
         <ref name="AKMEraPart1" _.strength="0.05"/>
@@ -646,14 +642,14 @@
     <entry id="M-VGMDB-AR-17342" title="DAOKO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- vocal: ImageVocalContainFactor * 0.8 -->
-        <contains id="M-VGMDB-AL-69257" factor="MusicVocalContainFactor + MusicImageContainFactor / 2" />
+        <contains id="M-VGMDB-AL-69257" factor="vocal + image / 2" />
     </entry>
 
     <entry id="M-VGMDB-AR-15121" title="Kenshi Yonezu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <!-- vocal: ImageVocalContainFactor * 0.2 -->
         <!-- music + lyrics + arrangement: 0.5 * (1.0 - ImageVocalContainFactor) -->
-        <contains id="M-VGMDB-AL-69257" factor="MusicInstContainFactor + MusicImageContainFactor / 2" />
+        <contains id="M-VGMDB-AL-69257" factor="inst + image / 2" />
     </entry>
 
     <entry id="M-VGMDB-AL-69257" title="Uchiage Hanabi / DAOKO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -695,9 +691,9 @@
         <!-- backing vocal for akogare future sign (piano arrange ver.) -->
         <contains id="M-VGMDB-AL-86622-2" factor="0.05" />
 
-        <contains id="M-VGMDB-AL-58596-25" factor="MusicVocalContainFactor" />
-        <contains id="M-20221202T202405" factor="MusicVocalContainFactor" />
-        <contains id="M-20221202T205325" factor="MusicVocalContainFactor" />
+        <contains id="M-VGMDB-AL-58596-25" factor="vocal" />
+        <contains id="M-20221202T202405" factor="vocal" />
+        <contains id="M-20221202T205325" factor="vocal" />
 
         <ref name="NeoErogeEra" _.strength="0.05" />
     </entry>
@@ -864,9 +860,9 @@
     <entry id="M-VGMDB-AR-29487" title="Takahiro Yuba"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
         <!-- aka the gigachad who made akm and destroyed civilization as we know it -->
 
-        <contains id="M-VGMDB-AL-76155-2" factor="MusicInstContainFactor" />
-        <contains id="M-VGMDB-AL-74440-6" factor="MusicInstContainFactor * 2 / 3" />
-        <contains id="M-VGMDB-AL-108194-5" factor="MusicInstContainFactor * 2 / 3" />
+        <contains id="M-VGMDB-AL-76155-2" factor="inst" />
+        <contains id="M-VGMDB-AL-74440-6" factor="inst * 2 / 3" />
+        <contains id="M-VGMDB-AL-108194-5" factor="inst * 2 / 3" />
     </entry>
 
     <entry id="M-VGMDB-AR-6799" title="nayuta"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
@@ -883,12 +879,12 @@
             </entry>
         </contains>
 
-        <contains factor="MusicInstContainFactor / 3">
+        <contains factor="inst / 3">
             <contains id="M-VGMDB-AL-74440-6" />
             <contains id="M-VGMDB-AL-108194-5" />
         </contains>
 
-        <contains factor="MusicVocalContainFactor">
+        <contains factor="vocal">
             <contains id="M-VGMDB-AL-123896-5" />
         </contains>
     </entry>
@@ -910,7 +906,7 @@
     </entry>
 
     <entry id="M-VGMDB-AR-30942" title="Yunomi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-        <contains id="M-VGMDB-AL-104618" factor="inst+image*mainArtist" />
+        <contains id="M-VGMDB-AL-104618" factor="inst+image*main" />
     </entry>
 
     <entry id="M-VGMDB-AR-3240" title="Ceui"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

@@ -62,6 +62,8 @@
         </ref>
     </entry>
     <def name="RemodernizationEra" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2023-01-01" to="today" />
+        <meme strength="_.strength" from="2023-01-01" to="today">
+            <children />
+        </meme>
     </def>
 </document>

@@ -3,9 +3,13 @@
 <!-- niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12 -->
 <!-- so the contain factor of the 9 original girls will be 1.5x the new girls -->
 <!-- doing the math, we got these: -->
+
 <!-- private const val NijiNewOldRate = 1.5
 const val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
 const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate -->
+
+<!-- NijiNewGirlsContainFactor=1.0/16.5 -->
+<!-- NijiOldGirlContainFactor=1.5/16.5 -->
 
 <document>
     <entry id="F-VGMDB-2588" title="Love Live!">

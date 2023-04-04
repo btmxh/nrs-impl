@@ -17,7 +17,7 @@
             <!-- these ppl are responsible for so many osu! songs wtf -->
 
             <!-- * with honeyworks -->
-            <contains factor="MusicInstContainFactor + MusicImageContainFactor * 0.5">
+            <contains factor="inst + image * 0.5">
                 <entry id="M-VGMDB-AL-53266" title="Pride Kakumei / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.2" unique="0.5" />
@@ -108,7 +108,7 @@
                 </entry>
             </contains>
 
-            <contains factor="MusicInstContainFactor + MusicImageContainFactor">
+            <contains factor="inst + image">
                 <entry id="M-VGMDB-AL-80437" title="Zutto Mae kara Suki deshita. / HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.3" unique="0.5" />

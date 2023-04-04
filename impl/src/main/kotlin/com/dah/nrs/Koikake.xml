@@ -193,7 +193,9 @@
     </entry>
 
     <def name="NeoErogeEra" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-11-25" to="2022-12-31" />
+        <meme strength="_.strength" from="2022-11-25" to="2022-12-31">
+            <children />
+        </meme>
     </def>
 
     <def name="KoikakeAEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
@@ -202,6 +204,7 @@
                 this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
                 this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
             </script>
+            <children />
         </aei>
     </def>
 
@@ -211,6 +214,7 @@
                 this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
                 this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
             </script>
+            <children />
         </nei>
     </def>
 
@@ -220,6 +224,7 @@
                 this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
                 this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
             </script>
+            <children />
         </cry>
     </def>
 </document>

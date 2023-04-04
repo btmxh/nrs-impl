@@ -21,7 +21,16 @@
         <!-- add the music impact -->
         <music base="_.base">
             <validatorSuppress rules="dah-rst-sb69-music-impact" />
+            <children />
         </music>
+    </def>
+
+    <def name="ReStepTrackMemeImpact" vars="_.base:double,_.era:string">
+        <script>
+            local.base = _.base;
+            local.era = "_.era";
+        </script>
+        <script src="scripts/RSTSB69Music.js" entryPoint="rstTrackMemeImpact" />
     </def>
 
     <!-- changed da world -->
@@ -930,7 +939,7 @@
     <meme strength="1.0" from="2021-11-20" to="2022-01-10">
         <contributor id="A-MAL-38009" factor="0.75" />
         <contributor id="GF-VGMDB-7059" factor="0.05" />
-        <!-- TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc1) -->
+        <ref name="ReStepTrackMemeImpact" _.base="0.2" _.era="arc1" />
     </meme>
 
     <ref name="RSTSB69DuopolyEra" _.strikes="0.6">
@@ -938,7 +947,7 @@
         <contributor id="GF-VGMDB-7059" factor="0.05" />
         <!-- her theme song: https://www.youtube.com/watch?v=Ux5cQbO_ybw -->
         <contributor id="M-VGMDB-AR-29249" factor="0.15" />
-        <!-- TrackMemeImpact(0.3, ReStageMusicContext.CultureEra.Arc2) -->
+        <ref name="ReStepTrackMemeImpact" _.base="0.3" _.era="arc2" />
     </ref>
 
     <!-- idol dystopia arc -->
@@ -947,43 +956,39 @@
         <contributor id="A-MAL-38009" factor="0.6" />
         <contributor id="GF-VGMDB-7059" factor="0.1" />
         <contributor id="M-VGMDB-AR-29249" factor="0.1" />
-        <!-- TrackMemeImpact(0.2, ReStageMusicContext.CultureEra.Arc3) -->
+        <ref name="ReStepTrackMemeImpact" _.base="0.2" _.era="arc3" />
     </ref>
 
     <ref name="AKMEraPart1" _.strength="0.8">
         <contributor id="A-MAL-38009" factor="0.25" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.2" />
-        <!-- TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM1) -->
+        <ref name="ReStepTrackMemeImpact" _.base="0.4" _.era="akm1" />
     </ref>
 
     <ref name="AKMEraPart2" _.strength="0.2">
         <contributor id="A-MAL-38009" factor="0.25" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.2" />
-        <!-- TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM2) -->
+        <ref name="ReStepTrackMemeImpact" _.base="0.4" _.era="akm2" />
     </ref>
 
     <ref name="AKMEraPart3" _.strength="0.8">
         <contributor id="A-MAL-38009" factor="0.25" />
         <contributor id="GF-VGMDB-7059" factor="0.15" />
         <contributor id="M-VGMDB-AR-29249" factor="0.2" />
-        <!-- TrackMemeImpact(0.4, ReStageMusicContext.CultureEra.AKM3) -->
-    </ref>
-
-
-    <ref name="AKMEraPart3" _.strength="0.25">
-        <contributor id="A-MAL-38009" factor="0.1" />
-        <contributor id="GF-VGMDB-7059" factor="0.15" />
-        <contributor id="M-VGMDB-AR-29249" factor="0.05" />
-        <!-- TrackMemeImpact(0.7, ReStageMusicContext.CultureEra.NEE) -->
+        <ref name="ReStepTrackMemeImpact" _.base="0.4" _.era="akm3" />
     </ref>
 
     <def name="RSTSB69DuopolyEra" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-01-10" to="2022-03-10" />
+        <meme strength="_.strength" from="2022-01-10" to="2022-03-10">
+            <children />
+        </meme>
     </def>
 
     <def name="IdolDystopia" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-03-10" to="2022-06-03" />
+        <meme strength="_.strength" from="2022-03-10" to="2022-06-03">
+            <children />
+        </meme>
     </def>
 </document>

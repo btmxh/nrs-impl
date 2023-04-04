@@ -64,6 +64,30 @@ local.sb69 = () => {
   common(global.sb69Tracks);
 };
 
-// TODO
-local.rstTrackMemeImpact = () => {};
-local.sb69TrackMemeImpact = () => {};
+function trackMemeImpact(map) {
+  const base = local.base;
+  const era = local.era;
+  if(base < 0.0 || base > 1.0) {
+    throw new Error("base must be between 0.0 and 1.0");
+  }
+  const eraIndex = allEras.indexOf(era);
+  if(eraIndex < 0) {
+    throw new Error(`unknown era ${era}`);
+  }
+
+  const sum = [...map.values()].map(arr => arr[eraIndex]).reduce((a, b) => a + b);
+  for(const [id, multipliers] of map) {
+    const factor = multipliers[eraIndex] * base / sum;
+    if(factor > 0) {
+      self.value[0].contributors.set(id, factor);
+    }
+  }
+}
+
+local.rstTrackMemeImpact = () => {
+  trackMemeImpact(global.rstTracks);
+};
+
+local.sb69TrackMemeImpact = () => {
+  trackMemeImpact(global.sb69Tracks);
+};

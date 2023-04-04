@@ -101,9 +101,9 @@
                 <contains id="M-VGMDB-AL-111089" />
                 <contains id="M-VGMDB-AL-74133" />
                 <contains id="M-VGMDB-AL-95118" />
+                <contains id="M-VGMDB-AL-106577-1" />
             </contains>
 
-            <contains id="M-VGMDB-AL-106577-1" factor="0.6" />
         </entry>
 
         <entry id="M-VGMDB-AL-85172" title="FIRE BIRD / Roselia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->

@@ -13,7 +13,17 @@
         <!-- add the music impact -->
         <music base="_.base">
             <validatorSuppress rules="dah-rst-sb69-music-impact" />
+            <children />
         </music>
+    </def>
+
+    <def name="SB69TrackMemeImpact" vars="_.base:double,_.era:string">
+        <script>
+            local.base = _.base;
+            local.era = "_.era";
+        </script>
+        <script src="scripts/RSTSB69Music.js" entryPoint="sb69TrackMemeImpact" />
+        <children />
     </def>
 
     <!-- Almost every cat seems to enjoy catching birds. -->
@@ -745,7 +755,7 @@
         <contributor id="A-MAL-40763" factor="0.05" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.1" />
-        <!-- TrackMemeImpact(0.2, SB69MusicContext.CultureEra.Arc2) -->
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="arc2" />
     </ref>
 
     <ref name="AKMEraPart1" _.strength="0.3">
@@ -754,7 +764,7 @@
         <contributor id="A-MAL-40763" factor="0.1" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.05" />
-        <!-- TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM1) -->
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm1" />
     </ref>
 
     <ref name="AKMEraPart2" _.strength="0.75">
@@ -763,7 +773,7 @@
         <contributor id="A-MAL-40763" factor="0.1" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.05" />
-        <!-- TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM2) -->
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm2" />
     </ref>
 
     <ref name="AKMEraPart3" _.strength="0.4">
@@ -772,7 +782,7 @@
         <contributor id="A-MAL-40763" factor="0.1" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.05" />
-        <!-- TrackMemeImpact(0.2, SB69MusicContext.CultureEra.AKM3) -->
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm3" />
     </ref>
 
     <entry id="M-20221127T140645" title="Bibibeach Bibibibeach! (411 Socacore Remix)">
@@ -797,7 +807,9 @@
     <!-- while literally a song not even 5 minutes was able -->
     <!-- to turn modern culture into the shittiest hellhole ever. -->
     <def name="AKMEraPart1" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-06-03" to="2022-07-17" />
+        <meme strength="_.strength" from="2022-06-03" to="2022-07-17">
+            <children />
+        </meme>
     </def>
 
     <!-- AKM era arc 2 -->
@@ -858,7 +870,9 @@
     <!-- fuck her -->
     <!-- (pls save me) -->
     <def name="AKMEraPart2" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-07-21" to="2022-08-31" />
+        <meme strength="_.strength" from="2022-07-21" to="2022-08-31">
+            <children />
+        </meme>
     </def>
 
     <!-- I heard somewhere that “Love strikes so suddenly” -->
@@ -881,6 +895,8 @@
     <!-- where only rst and sb69 are able to benefit from it (more idol dystopia -->
     <!-- let's gooooooooo) -->
     <def name="AKMEraPart3" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-09-01" to="2022-10-01" />
+        <meme strength="_.strength" from="2022-09-01" to="2022-10-01">
+            <children />
+        </meme>
     </def>
 </document>
