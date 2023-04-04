@@ -343,10 +343,7 @@ fun DSLScope.LoveLive() {
         }
 
         Entry {
-            id = "M-VGMDB-AL-102281"
-            title = "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Setsuna Yuki Edition]" // generated(fill_music_metadata.dart v0.1.1)
-                    " Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki)" +
-                    " from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
+            id = "M-VGMDB-AL-102279"
 
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
@@ -519,7 +516,7 @@ fun DSLScope.LoveLive() {
         // arc 1 - the girl who changed the world
         Waifu("Uehara Ayumu", "2020-11-02" to "2021-02-15") {
             contributors["A-MAL-40879"] = 0.9
-            contributors["M-VGMDB-AL-102281-1"] = 0.1
+            contributors["M-VGMDB-AL-102279-1"] = 0.1
         }
 
         // arc 2 - the girl without screentime
@@ -569,7 +566,7 @@ fun DSLScope.LoveLive() {
 
             FeatureMusic("M-VGMDB-AL-102276-1")
             FeatureMusic("M-VGMDB-AL-102277-1")
-            FeatureMusic("M-VGMDB-AL-102281-1")
+            FeatureMusic("M-VGMDB-AL-102279-1")
             FeatureMusic("M-VGMDB-AL-104783-1")
 
             // NO FUCKING WAY
