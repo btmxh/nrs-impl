@@ -344,6 +344,7 @@ fun DSLScope.LoveLive() {
 
         Entry {
             id = "M-VGMDB-AL-102279"
+            title = "Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Ayumu Uehara Edition]" // generated(fill_music_metadata.dart v0.1.1)
 
             Visual(VisualKind.AlbumArt, 0.65, 0.25)
 
