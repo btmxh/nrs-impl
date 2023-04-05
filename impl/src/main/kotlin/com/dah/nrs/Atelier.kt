@@ -205,7 +205,8 @@ fun DSLScope.Atelier() {
             Visual(VisualKind.RPG3DGame, 0.7, 0.4)
             Visual(VisualKind.VisualNovel, 0.6, 0.3)
             // NOZS (Nyumber One! Zettai Saikyou!) Act
-            ConsumedProgress(EntryStatus.OnHold, 1.0, 80.hours)
+            ConsumedProgress(EntryStatus.Dropped, 1.0, 80.hours)
+            Dropped()
         }
 
         Entry {

@@ -21,7 +21,8 @@ fun DSLScope.ATRI() {
 
             // sad plot twist thingy
             AEI(0.8, Emotion.CU to 0.8, Emotion.AP to 0.2)
-            ConsumedProgress(EntryStatus.OnHold, 0.8, 10.hours)
+            ConsumedProgress(EntryStatus.Dropped, 0.8, 10.hours)
+            Dropped()
 
             Visual(VisualKind.VisualNovel, 0.7, 0.15)
 

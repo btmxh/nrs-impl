@@ -593,7 +593,7 @@ fun DSLScope.LoveLive() {
             // insert wakeshima kanon is shibuya kanon joke here
             bestGirl = "Chisato Arashi" // generated(generate_best_girls.dart v0.1.0)
             seasonal = true
-            AnimeConsumedProgress(EntryStatus.OnHold, 0.9, 7)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.9, 7)
             Dropped()
             Meme(0.3, 6)
             KilledBy("A-MAL-41530", potential = 0.6, effect = 0.25)
@@ -645,7 +645,7 @@ fun DSLScope.LoveLive() {
             Visual(VisualKind.Animated, 0.6, 0.25)
 
             // lol after all this time xddddddddddd
-            AnimeConsumedProgress(EntryStatus.OnHold, 0.7, 3)
+            AnimeConsumedProgress(EntryStatus.Dropped, 0.7, 3)
             Dropped()
             KilledBy("F-VGMDB-7059", potential = 0.8, effect = 1.0)
         }
