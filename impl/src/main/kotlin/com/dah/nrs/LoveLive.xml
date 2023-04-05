@@ -281,7 +281,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <!-- the song is shit -->
                 <!-- but it started the most colorful era in autism history -->
                 <!-- the ayumu era -->
-                <nei base="1.0" emotions="AP" />
+                <nei base="0.5" emotions="AP" />
             </entry>
         </entry>
 
