@@ -6,7 +6,7 @@ import com.dah.nrs.exts.*
 
 // strength is relatively small (it's post-modern after all)
 fun AcceptImpact.PostModernMeme(strength: Double, block: DSLImpact.() -> Unit = {}) {
-    Meme(strength, numDays("2022-10-01"), block)
+    Meme(strength, numDays("2022-10-01", "2022-11-25"), block)
 }
 
 fun DSLScope.PostModern() {
