@@ -2,7 +2,7 @@
 
 <document>
     <!-- strength is relatively small (it's post-modern after all) -->
-    <def name="PostModernMeme" vars="_.strength" visibility="public">
+    <def name="PostModernMeme" vars="_.strength:double" visibility="public">
         <meme strength="_.strength" from="2022-10-01" to="2022-11-25">
             <children />
         </meme>
