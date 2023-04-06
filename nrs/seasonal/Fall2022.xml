@@ -1,0 +1,56 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <!-- one of the anime seasons of all time -->
+    <!-- (why is boatshit everywhere i hate my life) -->
+
+    <!-- this is peak idol dystopia -->
+    <entry id="A-MAL-49849" title="Shinmai Renkinjutsushi no Tenpo Keiei"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="49849"/>
+            <ks id="45222"/>
+            <al id="139369"/>
+            <mal id="49849"/>
+        </source>
+
+        <!-- haha obligatory atelier reference -->
+        <!-- i hate mc btw -->
+        <bestGirl name="Reisalin Stout" /> <!-- impl_overridden -->
+        <!-- mi ưhen lô ve li ve vi ây -->
+
+        <!-- NOZSP (Number One Zettai Saikyou Party) the anime -->
+        <!-- average post-modern anime lol: -->
+        <!-- mc literally graduated from hust -->
+        <!-- dusk reference in that parents last words thingy -->
+        <!-- mc has autism (average NOZSP mf) -->
+        <!-- "Yes, since they want alchemists out in the country as well." - my fucking ass -->
+        <!-- i hate sk (and bk too lol) -->
+
+
+        <visual type="animated" base="0.6" unique="0.2" />
+        <animeConsumedProgress status="Dropped" boredom="0.25" episodes="4" />
+        <dropped />
+    </entry>
+
+    <entry id="A-MAL-47917" title="Bocchi the Rock!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="47917"/>
+            <ks id="44196"/>
+            <al id="130003"/>
+            <mal id="47917"/>
+        </source>
+
+        <!-- le cat is back noway!!1!1! -->
+        <!-- average NAP/NOZSP member -->
+        <bestGirl name="Hitori Gotou" />
+        <!-- mi ưhen cloverworks -->
+
+        <!-- pls die shit anime not even close to the glorious koikake -->
+        <aei base="-0.3" emotions="AU-0.5:MU-0.5" />
+
+        <!-- <validatorSuppress rules="dah-visualless-entry" /> -->
+        <animeConsumedProgress status="Dropped" boredom="0.25" episodes="3" />
+        <dropped />
+        <visual type="animated" base="0.4" unique="0.3" />
+    </entry>
+</document>

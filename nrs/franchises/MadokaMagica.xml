@@ -1,0 +1,259 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <!-- also include MagiReco -->
+
+    <entry id="F-VGMDB-1945" title="Mahou Shoujo Madoka☆Magica">
+
+        <contains id="M-VGMDB-AL-23391-1" />
+
+        <entry id="M-VGMDB-AL-30302" title="Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.35" unique="0.6" />
+            <entry id="$-2" title="Mata Ashita">
+                <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-24725" title="Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.35" unique="0.6" />
+            <entry id="$-4" title="Believing in Justice">
+                <musicConsumedProgress length="1:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.25" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-39170" title="Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.35" unique="0.6" />
+            <entry id="$-2" title="and I'm home">
+                <musicConsumedProgress length="2:50" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.15" />
+            </entry>
+        </entry>
+
+        <contains id="M-VGMDB-AL-41292-1" />
+        <contains id="M-VGMDB-AL-69147-11" />
+
+        <entry id="M-VGMDB-AL-113295" title="TV Anime &quot;Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-&quot; Theme Song Collection"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.5" unique="0.4" />
+
+            <entry id="$-1" title="ケアレス">
+                <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.6" />
+            </entry>
+        </entry>
+
+        <contains id="M-VGMDB-AL-89431-1" />
+
+        <entry id="M-VGMDB-AL-95029" title="Gomakashi / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.5" unique="0.4" />
+
+            <entry id="$-1" title="Gomakashi">
+                <musicConsumedProgress length="4:11" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.65" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-91985" title="Utsuroi / TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.45" unique="0.4" />
+
+            <entry id="$-1" title="Utsuroi">
+                <musicConsumedProgress length="3:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- the game -->
+                <!-- browiec's Wisdom -->
+                <!-- Misunderstanding -->
+                <!-- osu! 9.97⭐UTSUROI +HDDTHR 1108pp | WhiteCat -->
+                <osuSong personal="0.65" community="0.1" />
+
+                <music base="0.5" />
+            </entry>
+        </entry>
+
+        <meme strength="0.6" from="2019-11-01" to="2020-02-15">
+            <contributor id="A-MAL-9756" factor="0.8" />
+            <contributor id="A-MAL-11981" factor="0.2" />
+        </meme>
+
+        <entry id="A-MAL-9756" title="Mahou Shoujo Madoka★Magica"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="9756"/>
+                <ks id="5853"/>
+                <al id="9756"/>
+                <mal id="9756"/>
+            </source>
+
+            <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- 32k got killed over and over, and her lover has to -->
+            <!-- time-travel everytime it happens -->
+            <maxAEIPADS length="1" emotions="CU" />
+
+            <!-- Kyoko's backstory -->
+            <aei base="0.9" emotions="CU" />
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.35" unique="0.6" />
+
+            <featureMusic id="M-VGMDB-AL-23391-1" />
+            <featureMusic id="M-VGMDB-AL-30302-2" />
+            <featureMusic id="M-VGMDB-AL-24725-4" />
+            <featureMusic id="M-VGMDB-AL-39170-2" />
+        </entry>
+
+        <entry id="A-MAL-11981" title="Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <ks id="6638"/>
+                <al id="11981"/>
+                <mal id="11981"/>
+            </source>
+
+            <bestGirl name="Madoka Kaname" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- I can't understand this movie lol -->
+
+            <animeConsumedProgress status="Completed" boredom="0.7" episodes="1" episodeDuration="1:56:00" />
+            <visual type="animated" base="0.35" unique="0.6" />
+
+            <featureMusic id="M-VGMDB-AL-41292-1" />
+        </entry>
+
+        <waifu waifu="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
+            <contributor id="A-MAL-38256" factor="0.5" />
+            <contributor id="G-VGMDB-5237" factor="0.5" />
+        </waifu>
+
+        <meme strength="0.75" from="2020-02-15" to="2020-08-15">
+            <contributor id="A-MAL-38256" factor="0.4" />
+            <contributor id="G-VGMDB-5237" factor="0.5" />
+            <contributor id="A-MAL-9756" factor="0.08" />
+            <contributor id="A-MAL-11981" factor="0.02" />
+        </meme>
+
+        <meme strength="0.3" length="2">
+            <contributor id="A-MAL-41530" factor="1.0" />
+        </meme>
+
+        <!-- magireco is kinda comfy -->
+        <nei base="0.75" emotions="MP">
+            <contributor id="A-MAL-38256" factor="0.4" />
+            <contributor id="G-VGMDB-5237" factor="0.4" />
+            <contributor id="A-MAL-41530" factor="0.2" />
+        </nei>
+
+        <entry id="G-VGMDB-5237" title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden">
+
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- Madokami's MGS -->
+            <!-- It's revealed that in 99% other universes, -->
+            <!-- Tamaki Ui and her friends are dead, leaving -->
+            <!-- Tamaki Iroha alone and (probably) depressed. -->
+            <!-- This made me cry -->
+            <cryPADS length="5" emotions="CU" />
+
+            <!-- Sana's backstory -->
+            <!-- Basically it's very tragic. -->
+            <cry emotions="CU" />
+            <visual type="animated" base="0.5" unique="0.4" />
+
+            <!-- Gate-opened gacha games (there is only re step in NRS tho) -->
+            <!-- GateOpen("GF-VGMDB-7059") -->
+
+            <featureMusic id="M-VGMDB-AL-69147-11" />
+            <featureMusic id="M-VGMDB-AL-89431-1" />
+            <featureMusic id="M-VGMDB-AL-91985-1" />
+        </entry>
+
+        <entry id="A-MAL-38256" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38256"/>
+                <ks id="42016"/>
+                <al id="104051"/>
+                <mal id="38256"/>
+            </source>
+
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- seasonal = true -->
+            <!-- MagiReco-era is one of the most important eras in autism history -->
+            <!-- This is the anime that brought it to life -->
+
+            <!-- Emotional impacts are all in the game -->
+            <!-- (Madokami's MGS, Sana's backstory) -->
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <visual type="animated" base="0.5" unique="0.4" />
+
+            <!-- Gate-opened gacha games -->
+            <!-- GateOpen("G-VGMDB-5237") -->
+            <!-- GateOpen("GF-VGMDB-7059") -->
+
+            <featureMusic id="M-VGMDB-AL-95029-1" />
+        </entry>
+
+        <entry id="A-MAL-41530" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41530"/>
+                <ks id="43090"/>
+                <al id="117002"/>
+                <mal id="41530"/>
+            </source>
+
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- seasonal = true -->
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="8" />
+            <visual type="animated" base="0.5" unique="0.4" />
+
+            <!-- the animation tho -->
+            <!-- description = "Animation" -->
+            <regularImpact>
+                <score>
+                    <component value="0.5" factor="Art.Visual" />
+                    <component value="0.4" factor="Emotion.AP" />
+                </score>
+            </regularImpact>
+
+            <!-- OP -->
+            <featureMusic id="M-VGMDB-AL-113295-1" />
+        </entry>
+
+        <entry id="A-MAL-49291" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="49291"/>
+                <ks id="44813"/>
+                <al id="136080"/>
+                <mal id="49291"/>
+            </source>
+
+            <bestGirl name="Iroha Tamaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- seasonal = true -->
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="4" />
+            <visual type="animated" base="0.5" unique="0.4" />
+
+            <!-- :troll-despair: -->
+            <aei base="0.5" emotions="CU-0.9:MP-0.1" />
+
+            <!-- OP -->
+            <featureMusic id="M-VGMDB-AL-113295-1" />
+            <!-- first madomagi thing to be cucked by rst -->
+            <killedBy id="F-VGMDB-7059" potential="0.75" effect="0.75" />
+        </entry>
+    </entry>
+
+    <entry id="M-20220113T184042-1" title="Magibeat">
+        <validatorSuppress rules="dah-entry-no-consumed" />
+
+        <contains factor="0.5">
+            <entry id="M-20220113T184042-3" title="Colorful - Magibeat Remix">
+
+                <!-- Length source: https://www.nicovideo.jp/watch/sm22151925 -->
+                <music base="0.35" />
+                <musicConsumedProgress length="4:35" />
+            </entry>
+        </contains>
+    </entry>
+</document>

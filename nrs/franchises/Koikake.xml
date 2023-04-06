@@ -1,0 +1,230 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <!-- THE ORTENSIA INCIDENT <<<<<<<<<<<<<<<<<< KOIKAKE DARK LORE -->
+    <!-- <<<<<<<<<<<<<<<<<< SHERRY BACKSTORY -->
+    <!-- WTF WHO LET THE SHERRYPOSTERS OUT CATCH THEM BEFORE TOO LATE -->
+    <!-- HOLY FUCK THIS IS AN ABSOLUTE BANGER -->
+    <!-- I LOVE THIS EROGE SO FUCKING MUCH -->
+    <!-- THE GREATEST EROGE OF ALL TIME -->
+
+    <!-- Winter is when love comes -->
+    <entry id="F-20221128T123502" title="Koi x Shin Ai Kanojo">
+
+        <entry id="V-VNDB-17516" title="Koi x Shin Ai Kanojo">
+            <!-- unironically better than all drama romance anime lmfao :clueless: -->
+            <!-- we do be living in a society tho :clueless: -->
+
+            <!-- "the cutest girl in all anime history" :clueless: -->
+            <!-- like what the actual fuck you can't be this cute wtf :clueless: -->
+            <!-- THISSHOULDNOTBEPOSSIBLE :clueless: -->
+            <!-- <bestGirl name="Himekek Sena" /> -->
+            <bestGirl name="Himeno Sena" /> <!-- oops :clueless: -->
+            <!-- eroge waifu :clueless: -->
+            <!-- dead? -->
+            <waifu waifu="Himeno Sena" from="2022-11-25" to="2022-12-31" />
+
+            <!-- first 1.0 yay!!! the waifu method :clueless: -->
+            <visual type="visualNovel" base="1.0" unique="0.3" />
+
+            <!-- what a ride :clueless: -->
+            <!-- really enjoyed the thing :clueless: -->
+            <!-- i guess i will finish it in one month :clueless: -->
+            <!-- (mid-term coming soon monkaW) :clueless: -->
+            <consumedProgress status="Completed" boredom="1.0" duration="24:00:00" />
+
+            <!-- time to spam ei boys :clueless: -->
+            <!-- really good atmospheric farming ngl :clueless: -->
+            <!-- funnychamp :clueless: -->
+            <!-- ayane route omegalul + good story ngl :clueless: -->
+            <aei base="0.3" emotions="AP" />
+
+            <!-- eroge love ig :clueless: -->
+            <!-- <aei base="0.5" emotions="MP" /> -->
+
+            <ref name="NeoErogeEra" _.strength="1.0" />
+            <featureMusic id="M-VGMDB-AL-58596" />
+
+            <!-- sena route was so sudden wtf :sadge: :clueless: -->
+            <!-- Once again, Asuiro Koi Moyou predicted the future. :clueless: -->
+            <!-- "But our paces don’t suit each other; you’ve become even more distant" :clueless: -->
+            <!-- "It happened so suddenly, but from now on" :clueless: -->
+
+            <!-- "Even if our paces do not match, :clueless: -->
+            <!--  If I ran with all my might, :clueless: -->
+            <!--  We may be able to meet again." :clueless: -->
+            <aei base="0.8" emotions="CU" />
+
+            <!-- the :aware: part -->
+
+            <!-- last episode is one of the best piece of story i've ever seen -->
+            <!-- absolute masterpiece, i was about to cry like 10 times or sth -->
+
+            <!-- the twists -->
+            <epi base="1.0" />
+
+            <!-- realization of the fact that main girl didn't love mc -->
+            <aei base="0.2" emotions="AU" />
+
+            <!-- main girl's music career, darker than the childplay "ortensia incident" -->
+            <aei base="0.2" emotions="AU-0.5:MP-0.5" />
+
+            <!-- eroge love ig :aware: -->
+            <aei base="0.8" emotions="MP" />
+
+            <!-- the sadness of the story -->
+            <cry emotions="CU">
+                <contributor id="V-VNDB-17516" factor="0.8" />
+                <contributor id="M-VGMDB-AL-58596-14" factor="0.2" />
+            </cry>
+
+            <pads length="9" emotions="CU-0.5:MP-0.3:AU-0.1:CP-0.1">
+                <contributor id="V-VNDB-17516" factor="0.8" />
+                <contributor id="M-VGMDB-AL-104267-3" factor="0.05" />
+                <contributor id="M-VGMDB-AL-58596-14" factor="0.05" />
+                <contributor id="M-VGMDB-AL-43320-8" factor="0.05" />
+                <contributor id="M-VGMDB-AL-78595-16" factor="0.05" />
+                <!-- pack up boys, eroge is ending #ggwp -->
+                <!-- accompanying eis are all of the above, the Koikake* impacts of vocaloid, etc. -->
+                <validatorSuppress rules="dah-lone-pads" />
+            </pads>
+        </entry>
+
+        <entry id="M-VGMDB-AL-58596" title="KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="1.0" unique="0.3" />
+
+            <entry id="$-2" title="記憶×ハジマリ">
+                <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- chorus sucks but -->
+                <!-- the inst is atm-farm-pilled af -->
+                <!-- unironically can be meta soon :eyes: -->
+
+                <!-- gyze i found the mv for this song :skull: -->
+                <!-- https://www.youtube.com/watch?v=e_IIORCnBxI -->
+                <music base="0.35" />
+            </entry>
+
+            <entry id="$-14" title="東の空から始まる世界">
+                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.6" />
+            </entry>
+
+            <entry id="$-25" title="GLORIOUS DAYS">
+                <musicConsumedProgress length="4:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️ -->
+                <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
+                <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
+                <!-- This blue 🟦 sky ☁️ will always ♾️ be right 👉 here 👇 -->
+                <music base="0.75" />
+                <!-- <nei base="Emotion.CU" emotions="0.2" /> -->
+                <!-- :Pause: :pepeLaugh: -->
+            </entry>
+
+            <!-- classic "too lazy to rank all of the tracks" -->
+            <music base="0.6" />
+            <ref name="KoikakeAEI" _.base="0.5" _.contribution="0.1" _.emotions="CU-0.8:CP-0.2" />
+        </entry>
+
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+        <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
+    </entry>
+
+    <entry id="M-VGMDB-AL-123896" title="Starry Avenue"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+        <visual type="albumArt" base="0.6" unique="0.4" />
+        <!-- NEE music :skull: -->
+
+        <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
+            <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <music base="0.7" />
+            <ref name="KoikakeCry" _.contribution="0.75" _.emotions="CP-0.5:CU-0.25:MP-0.25" />
+            <!-- Đó chính là, đoạn đường mà em đi -->
+            <!-- That is, the path that you've chosen -->
+
+            <!-- Đoạn đường đầy những vì sao -->
+            <!-- The path that is filled with stars -->
+
+            <!-- Với bao điều mơ ước trong tim mình -->
+            <!-- And full of dreams in your heart -->
+
+            <!-- Ngày mai, mặc dù tình yêu đã chết -->
+            <!-- Tomorrow, even though our love has died -->
+
+            <!-- Ước mơ trong em luôn còn -->
+            <!-- The dream within you is still there -->
+
+            <!-- Và lại cùng em bước đi -->
+            <!-- And once again, you will continue to walk -->
+
+
+            <!-- Đó chính là, đoạn đường đầy chông gai -->
+            <!-- That is, the path full of thorns. -->
+
+            <!-- Đoạn đường đầy những khổ đau -->
+            <!-- A path that is filled with pain -->
+
+            <!-- Với bao điều đau đớn trong tim mình -->
+            <!-- Full of wounds in your heart -->
+
+            <!-- Ngày mai, mặc dù bầu trời xanh đã chết -->
+            <!-- Tomorrow, even if the blue sky has died -->
+
+            <!-- Nước mắt trong em rơi dài -->
+            <!-- Tears in your eyes fall down -->
+
+            <!-- Thì dù sao, em vẫn sẽ, luôn bước đi -->
+            <!-- Even so, you will continue to go -->
+
+            <!-- Ah, bản tình ca, của 1 ngày xưa đã chết ở trong bóng đêm -->
+            <!-- Ah, a love song, of a past, died in the night -->
+
+            <!-- La la la la, trở thành niềm tin mới -->
+            <!-- La la la la, will become the faith -->
+
+            <!-- Để trái tim này bước đi... -->
+            <!-- For this heart to keep going forward... -->
+        </entry>
+    </entry>
+
+    <def name="NeoErogeEra" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-11-25" to="2022-12-31">
+            <children />
+        </meme>
+    </def>
+
+    <def name="KoikakeAEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
+        <aei base="_.base" emotions="_.emotions">
+            <script>
+                this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
+                this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
+            </script>
+            <children />
+        </aei>
+    </def>
+
+    <def name="KoikakeNEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
+        <nei base="_.base" emotions="_.emotions">
+            <script>
+                this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
+                this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
+            </script>
+            <children />
+        </nei>
+    </def>
+
+    <def name="KoikakeCry" vars="_.contribution:double,_.emotions:string" visibility="public">
+        <cry emotions="_.emotions">
+            <script>
+                this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
+                this.value[0].contributors.set("V-VNDB-17516", 1.0 - _.contribution);
+            </script>
+            <children />
+        </cry>
+    </def>
+</document>

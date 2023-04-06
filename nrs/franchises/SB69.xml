@@ -1,0 +1,902 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <def name="FesALiveMusic" vars="_.base:double,_.eras:string,_.from:string" visibility="public">
+        <!-- bind macro variables to local scope -->
+        <script>
+            local.base = _.base;
+            local.eras = "_.eras";
+            local.from = "_.from";
+        </script>
+        <!-- invoke the script itself -->
+        <script src="franchises/scripts/RSTSB69Music.js" entryPoint="sb69" />
+        <!-- add the music impact -->
+        <music base="_.base">
+            <validatorSuppress rules="dah-rst-sb69-music-impact" />
+            <children />
+        </music>
+    </def>
+
+    <def name="SB69TrackMemeImpact" vars="_.base:double,_.era:string">
+        <script>
+            local.base = _.base;
+            local.era = "_.era";
+        </script>
+        <script src="franchises/../scripts/RSTSB69Music.js" entryPoint="sb69TrackMemeImpact" />
+        <children />
+    </def>
+
+    <!-- Almost every cat seems to enjoy catching birds. -->
+    <!-- But there is a cat, that wants to be a bird. -->
+    <!-- She wants to fly on that blue sky once painted pink. -->
+
+    <!-- In the past, there is a legendary rabbit. -->
+    <!-- A bunny that changed the world by flying in that sky. -->
+    <!-- No one expected it to be able to soar through the clouds like a bird. -->
+
+    <!-- Bunnies can fly, and so can cats. -->
+    <entry id="F-VGMDB-4499" title="Show By Rock!!">
+
+        <!-- in sb69 s1, s2, the cat have so much screentime, but i didn't -->
+        <!-- value it. and when s4 comes, the cat changed and lose screentime, -->
+        <!-- thus giving me nostalgia of the prequels, -->
+        <!-- when pmgc was the center of the franchise, -->
+        <!-- when rosia and retoree decided to be friends, -->
+        <!-- when the cat got taught a good lesson by grateful king. -->
+        <!-- To quote rst mfs: -->
+        <!-- "If that time ..." I was thinking -->
+        <!-- 「あの時もし...」 考えてたって -->
+        <!-- The days that have passed will not come back anymore -->
+        <!-- 過ぎた日々はもう 戻らないけど -->
+        <cry emotions="CU">
+            <contributor id="A-MAL-41520" factor="0.5" />
+            <contributor id="A-MAL-27441" factor="0.2" />
+            <contributor id="A-MAL-32038" factor="0.2" />
+            <contributor id="M-VGMDB-AL-51276" factor="0.1" />
+        </cry>
+        <pads length="3" emotions="CU">
+            <contributor id="A-MAL-41520" factor="0.5" />
+            <contributor id="A-MAL-27441" factor="0.25" />
+            <contributor id="A-MAL-32038" factor="0.25" />
+            <validatorSuppress rules="dah-lone-pads" />
+        </pads>
+
+        <aei base="0.5" emotions="AP">
+            <contributor id="A-MAL-27441" factor="0.5" />
+            <contributor id="A-MAL-32038" factor="0.5" />
+        </aei>
+
+        <aei base="0.2" emotions="AP">
+            <contributor id="A-MAL-40763" factor="0.6" />
+            <contributor id="A-MAL-41520" factor="0.4" />
+        </aei>
+
+        <waifu waifu="Hijirikawa Cyan" from="2022-01-15" to="2022-03-10">
+            <contributor id="A-MAL-27441" factor="0.35" />
+            <contributor id="A-MAL-32038" factor="0.35" />
+            <contributor id="A-MAL-40763" factor="0.05" />
+            <contributor id="A-MAL-41520" factor="0.2" />
+            <contributor id="G-VGMDB-8429" factor="0.05" />
+        </waifu>
+
+        <killedBy id="F-VGMDB-7059" potential="0.4" effect="0.75">
+            <contributor id="A-MAL-27441" factor="0.2" />
+            <contributor id="A-MAL-32038" factor="0.2" />
+            <contributor id="A-MAL-40763" factor="0.2" />
+            <contributor id="A-MAL-41520" factor="0.2" />
+            <contributor id="G-VGMDB-8429" factor="0.2" />
+        </killedBy>
+
+        <killedBy id="O-20220415T155427" potential="0.2" effect="0.75">
+            <contributor id="A-MAL-27441" factor="0.2" />
+            <contributor id="A-MAL-32038" factor="0.2" />
+            <contributor id="A-MAL-40763" factor="0.2" />
+            <contributor id="A-MAL-41520" factor="0.2" />
+            <contributor id="G-VGMDB-8429" factor="0.2" />
+        </killedBy>
+
+        <entry id="A-MAL-27441" title="Show By Rock!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="27441"/>
+                <ks id="9729"/>
+                <al id="20843"/>
+                <mal id="27441"/>
+            </source>
+            <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <featureMusic id="M-VGMDB-AL-51276-1" />
+            <featureMusic id="M-VGMDB-AL-51278-1" />
+            <featureMusic id="M-VGMDB-AL-51706-1" />
+            <featureMusic id="M-VGMDB-AL-51706-2" />
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.6" unique="0.4" />
+        </entry>
+
+        <entry id="A-MAL-32038" title="Show By Rock!! #"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="32038"/>
+                <ks id="11494"/>
+                <al id="21476"/>
+                <mal id="32038"/>
+            </source>
+            <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- the lesson thingy was pretty cool ig -->
+            <aei base="0.2" emotions="MP" />
+
+            <!-- I almost cried at the ailane thing -->
+            <!-- <strikethrough>but NEI because gigachad animes don't farm tears</strikethrough> -->
+            <!-- didn't care didn't ask, and the NEI/AEI rework is here either way -->
+            <aei base="0.7" emotions="MP" />
+
+            <featureMusic id="M-VGMDB-AL-61217-1" />
+            <featureMusic id="M-VGMDB-AL-61940-1" />
+            <featureMusic id="M-VGMDB-AL-61981-1" />
+            <featureMusic id="M-VGMDB-AL-61981-3" />
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.6" unique="0.4" />
+        </entry>
+
+        <entry id="A-MAL-40763" title="Show By Rock!! Mashumairesh!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40763"/>
+                <ks id="42885"/>
+                <al id="113470"/>
+                <mal id="40763"/>
+            </source>
+            <bestGirl name="Himeko Mashima" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <!-- main girl is hoan tinh xdddddddddd -->
+            <!-- chao em co gai howan tinh -->
+            <!-- actually the cat appeared in last ep but idc -->
+
+            <!-- my heart skipped a beat when the cat -->
+            <!-- appeared in last ep -->
+            <!-- keking -->
+            <nei base="0.75" emotions="MP" />
+
+            <featureMusic id="M-VGMDB-AL-93440-1" />
+            <featureMusic id="M-VGMDB-AL-93440-3" />
+            <featureMusic id="M-VGMDB-AL-93441-1" />
+
+            <!-- the screentime thing -->
+            <!-- mashu mp farm got fucked by the existence of the cat -->
+            <!-- and pmgc -->
+            <killedBy id="M-20220125T063355-2" potential="0.75" effect="0.75" />
+            <visual type="animated" base="0.65" unique="0.4" />
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        </entry>
+
+        <entry id="A-MAL-41520" title="Show by Rock!! Stars!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="41520"/>
+                <ks id="43590"/>
+                <al id="113476"/>
+                <mal id="41520"/>
+            </source>
+            <bestGirl name="Hijirikawa Cyan" /> <!-- aka the ayumu cat -->
+            <!-- aka show by rock!! banded rocking records high school idol club -->
+            <!-- the gen2 niji -->
+
+            <!-- although this is not watched during its release -->
+            <!-- to make sure sb69 not killing rst, and maybe sb69 stars -->
+            <!-- can pull up a niji moment, this is watched in a "seasonal" -->
+            <!-- way, at every 12pm saturday from 2022/1/22 -->
+            <!-- update: shit happened and no more seasonal -->
+            <!-- seasonal = false -->
+
+            <bestGirl name="Cyan Hijirikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- bro the ayumu shit happened again xddddddddddd -->
+            <!-- basically in ep 1&2, the cat has little screentime, -->
+            <!-- and considering i have to wait 2 long weeks to watch -->
+            <!-- this, it's frustrating af. -->
+            <nei base="0.5" emotions="AU" />
+
+            <!-- basically the cat va in s4 focuses on moe more -->
+            <!-- than the fact that the cat is kinda reserved and shit -->
+            <!-- maybe chardev happened but didn't care + didn't ask for that -->
+            <additional value="-0.25" note="the cat va sucks in this season" />
+
+            <featureMusic id="M-VGMDB-AL-104341-1" />
+            <featureMusic id="M-VGMDB-AL-104341-2" />
+            <featureMusic id="M-VGMDB-AL-104266-3" />
+            <featureMusic id="M-VGMDB-AL-104266-6" />
+            <featureMusic id="M-VGMDB-AL-104267-5" />
+            <featureMusic id="M-VGMDB-AL-100087-1" />
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.65" unique="0.4" />
+        </entry>
+
+        <!-- fes a live has fhana songs lmao -->
+        <featureMusic id="M-VGMDB-AL-62516-1" />
+        <featureMusic id="M-VGMDB-AL-110219-1" />
+
+        <entry id="M-VGMDB-AL-100087" title="How To Fly / Cyan &amp; Howan"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.45" unique="0.3" />
+            <entry id="$-1" title="How To Fly"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- fes a live art looks a little bit weird ngl -->
+                <visual type="animatedMV" base="0.45" unique="0.3" />
+                <ref name="FesALiveMusic" _.base="0.35" _.eras="arc2=10.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-94913" title="My pace!! / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.3" unique="0.7" />
+
+            <entry id="$-1" title="My pace!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- really interesting vocal -->
+                <!-- (somewhat resemble kano) -->
+                <ref name="FesALiveMusic" _.base="0.25" _.eras="arc2=5.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-51276" title="Seishun wa Non-Stop! / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.6" unique="0.6" />
+
+            <entry id="$-1" title="Seishun wa Non-Stop!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.25" _.eras="arc2=20.0" _.from="arc2" />
+
+                <remix id="M-20220125T063355-6" />
+            </entry>
+
+            <entry id="$-2" title="Close to you"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:43" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.4" _.eras="arc2=10.0" _.from="arc2" />
+
+                <remix id="M-VGMDB-AL-61981-3" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-51278" title="Tabimichi Yoiyoi Yume Hanabi / Tsurezurenaru Ayatsuri Mugenan"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.45" unique="0.5" />
+
+            <entry id="$-1" title="Tabimichi Yoiyoi Yume Hanabi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.3" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-51706" title="Meikyuu DESTINY/Ryuusei Dreamline / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.55" unique="0.4" />
+
+            <entry id="$-1" title="Meikyuu DESTINY"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:04" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="" _.from="arc2" />
+            </entry>
+
+            <entry id="$-2" title="Ryuusei Dreamline"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- kekekekekekek -->
+                <ref name="FesALiveMusic" _.base="0.225" _.eras="arc2=15.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-61217" title="Heart wo Rock!! / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.45" unique="0.4" />
+
+            <entry id="$-1" title="Heart wo Rock!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf -->
+                <musicConsumedProgress length="4:12" /> <!-- impl_overridden -->
+                <ref name="FesALiveMusic" _.base="0.7" _.eras="arc2=2.5" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-61940" title="Schlehit Melodie/Danzai no Solitude / BUD VIRGIN LOGIC"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.4" unique="0.4" />
+
+            <entry id="$-1" title="Schlehit Melodie"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.4" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-61981" title="My Resolution ~Mirai e no Kizuna~ / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.5" unique="0.4" />
+
+            <entry id="$-1" title="My Resolution ～未来への絆～">
+                <musicConsumedProgress length="5:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="" _.from="arc2" />
+            </entry>
+
+            <entry id="$-3" title="Close to you (詩杏 ver.)">
+                <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.35" _.eras="" _.from="arc2" />
+
+                <nei base="0.25" emotions="MP" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-59914" title="Do Re Mi Fa PARTY / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.35" unique="0.5" />
+
+            <entry id="$-1" title="ドレミファPARTY">
+                <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- xd -->
+                <ref name="FesALiveMusic" _.base="0.2" _.eras="arc2=2.5" _.from="arc2" />
+                <meme strength="0.1" length="2" />
+            </entry>
+        </entry>
+
+        <!-- "visual"s of hiromemes and mashiro start line are good -->
+        <nei base="0.5" emotions="MP">
+            <contributor id="A-MAL-40763" factor="0.75" />
+            <contributor id="M-VGMDB-AL-93440-1" factor="0.25" />
+        </nei>
+
+        <aei base="0.5" emotions="CP">
+            <contributor id="A-MAL-40763" factor="0.75" />
+            <contributor id="M-VGMDB-AL-93440-3" factor="0.25" />
+        </aei>
+
+        <entry id="M-VGMDB-AL-93440" title="Hiromenes/Kimi no Rhapsody / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.4" unique="0.3" />
+
+            <entry id="$-1" title="Hiromenes">
+                <musicConsumedProgress length="4:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.6" _.eras="" _.from="arc2" />
+            </entry>
+
+            <entry id="$-2" title="Kimi no Rhapsody">
+                <musicConsumedProgress length="3:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- hahahahahaaha the howan tinh song -->
+                <ref name="FesALiveMusic" _.base="0.25" _.eras="arc2=20.0:arc3=10.0" _.from="arc2" />
+                <meme strength="0.01" from="2022-04-01" to="today" />
+                <remix id="M-20220702T030659" />
+            </entry>
+
+            <entry id="$-3" title="Masshiro Start Line">
+                <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.6" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-20220702T030659" title="Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)">
+            <!-- aka hoantinh theme song -->
+
+            <!-- Length source: (rip db.showbyrock.net) -->
+            <ref name="FesALiveMusic" _.base="0.4" _.eras="arc2=20.0:arc3=10.0" _.from="arc2" />
+            <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
+        </entry>
+
+        <entry id="M-VGMDB-AL-93441" title="Yell and Response / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.5" unique="0.3" />
+
+            <entry id="$-1" title="エールアンドレスポンス">
+                <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.2" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-112509" title="SHOW BY ROCK!! Trigger Rock / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.3" unique="0.5" />
+
+            <entry id="$-2" title="イントロダクション">
+                <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- and we will fly beyond the sky -->
+                <!-- let's death, you will pay -->
+                <ref name="FesALiveMusic" _.base="0.6" _.eras="pme=10.0:nee=2.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-104341" title="Do Re Mi Fa STARS!!/Hoshizora Light Story"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.6" unique="0.3" />
+
+            <entry id="$-1" title="Do Re Mi Fa STARS!!">
+                <musicConsumedProgress length="4:06" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- aka ceui - colorful days (mp-based franchise ver.) -->
+                <!-- or the counting song -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="arc2=10.0" _.from="arc2" />
+            </entry>
+
+            <entry id="$-2" title="Hoshizora Light Story"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.35" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-104266" title="TV Anime &quot;SHOW BY ROCK!! STARS!!&quot; Sounyuuka Mini Album Vol.1"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.1" unique="0.2" />
+
+            <entry id="$-3" title="Do! It! Happy Daibouken!">
+                <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- do it party reference lmfao -->
+                <ref name="FesALiveMusic" _.base="0.65" _.eras="arc2=2.5" _.from="arc2" />
+            </entry>
+
+            <entry id="$-6" title="Kyukyukyun♡Heart Shaker"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- aaaaa co sao method thong minh the -->
+                <!-- co le dell ai ngau giong anh chang -->
+                <!-- ngau loi nhat ca doi tuyen toan -->
+                <!-- do co le la em toi -->
+
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="akm1=10.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-104267" title="TV Anime &quot;SHOW BY ROCK!! STARS!!&quot; Sounyuuka Mini Album Vol.2"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.1" unique="0.2" />
+
+            <entry id="$-3" title="Runner's High!!">
+                <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="" _.from="arc2" />
+                <!-- Và bước đi, và bước đi -->
+                <!-- Con đường đầy máu, bao chông gai, đớn buồn -->
+                <!-- Có sao! Em chịu đau đớn băng qua nơi này -->
+                <!-- Về nơi biển xanh, về chân trời cao, hàng ngàn vì sao soi sáng con đường -->
+
+                <!-- hippity hoppity, this is now koikake property -->
+                <!-- truly the cultural era of all time -->
+
+                <!-- "run with all our might" -->
+                <nei base="0.8" emotions="CP">
+                    <contributor id="M-VGMDB-AL-104267-3" factor="0.2" />
+                    <contributor id="O-20221003T175501-2" factor="0.2" />
+                    <contributor id="V-VNDB-17516" factor="0.6" />
+                </nei>
+            </entry>
+
+            <entry id="$-5" title="EMPIRE DOMINATOR"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.25" _.eras="" _.from="arc2" />
+            </entry>
+
+            <entry id="$-8" title="Anokanatarium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- this was unranked all this time????? -->
+                <!-- lmfao -->
+                <ref name="FesALiveMusic" _.base="0.65" _.eras="arc2=10.0" _.from="arc2" />
+
+                <!-- there's no one who is cooler -->
+                <!-- there's no one who's like him -->
+                <!-- the one who shines like the sun -->
+                <!-- forever shining is the method -->
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-61982" title="Hanate! Dododon! / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.6" unique="0.4" />
+
+            <entry id="$-1" title="Hanate! Dododon!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="akm1=10.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-76149" title="Saishuu Ressha/Hatsukoi no Oto / Uwasanopetals"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.2" unique="0.5" />
+
+            <entry id="$-1" title="最終列車">
+                <musicConsumedProgress length="4:11" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="" _.from="arc2" />
+            </entry>
+
+            <entry id="$-2" title="ハツコイノオト">
+                <musicConsumedProgress length="3:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
+                <!-- himeno sena 2023 fascism neo-autism nozsism autism -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-118562" title="Taikakusen wo Tsunaideyo / Uwasanopetals"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.6" unique="0.3" />
+
+            <entry id="$-1" title="Taikakusen wo Tsunaideyo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.65" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-104418" title="Good Day by Day / Cyan (cv. Eri Inagawa), A (cv. Saori Hayami), Ailane (cv. Ruriko Noguchi), Shibarin (cv. Marika Kohno)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <!-- this thing: -->
+            <!-- https://medium-media.vgm.io/albums/81/104418/104418-9cc8d5c0abf7.jpg -->
+            <!-- is from the blu-ray, so it doesn't count -->
+            <validatorSuppress rules="dah-visualless-entry" />
+
+            <!-- also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno) -->
+            <entry id="$-1" title="グッデイバイデイ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.35" _.eras="arc2=5.0" _.from="arc2" />
+            </entry>
+
+            <!-- if u understand, u understand -->
+            <!-- RemixOf("M-VGMDB-AL-97688-16") -->
+        </entry>
+
+        <entry id="M-VGMDB-AL-100082" title="Mirai Wanted / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.4" unique="0.5" />
+
+            <entry id="$-1" title="Mirai Wanted"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-116297" title="Bokura no Neiro / Plasmagica"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.4" unique="0.5" />
+
+            <entry id="$-1" title="Bokura no Neiro"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
+                <ref name="FesALiveMusic" _.base="0.35" _.eras="" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-105612" title="Mot Mot Mot / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.25" unique="0.45" />
+
+            <entry id="$-1" title="Mot Mot Mot"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.65" _.eras="akm1=10.0" _.from="arc2" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-86315" title="P SHOW BY ROCK!! CD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <visual type="albumArt" base="0.6" unique="0.5" />
+
+            <entry id="$-3" title="Nyumber One! Zettai Saikyou!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- what else do you expect xddddddddddddd -->
+                <ref name="FesALiveMusic" _.base="0.7" _.eras="nee=100.0" _.from="arc2" />
+                <!-- welcome to the post-modern shithole where everything is political -->
+                <!-- NOZSP is truly the party of all time -->
+                <!-- chair gaming -->
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-76155" title="Loop Shiteru/Asuiro Koi Moyou / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.3" unique="0.3" />
+
+            <entry id="$-1" title="ループしてる"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- :tf: -->
+                <ref name="FesALiveMusic" _.base="0.25" _.eras="" _.from="arc2" />
+            </entry>
+
+            <entry id="$-2" title="あすいろ恋模様"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:33" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <!-- absolute catjammer -->
+                <!-- cricri is just too fking based -->
+
+                <!-- Even if the world were to ends tomorrow, -->
+                <!-- I wouldn't have any regrets, because I was able to meet you. -->
+                <!-- These are my true and genuine feelings -->
+                <!-- I want to convey that to the you who is densetrollmc af -->
+
+                <!-- btw kaguyashit pls fuck off from this beautiful lyrics -->
+                <!-- this is also known as "A-Sử-iro Koi Moyou" -->
+                <!-- ("vợ chồng a phủ" reference lmfao) -->
+
+                <!-- the "ai kotoba iii" of rst-sb69 -->
+                <!-- which marks the continuation of the duopoly era -->
+                <!-- ^ clueless mfs -->
+
+                <ref name="FesALiveMusic" _.base="0.8" _.eras="arc2=3.0" _.from="arc2" />
+                <nei base="0.5" emotions="MP" />
+
+                <!-- (the love song parody lyrics shit of me to rst, translated to english) -->
+
+                <!-- Bởi vì khi con tim ngừng đập -->
+                <!-- Because when our hearts stop beating -->
+
+                <!-- chẳng phải khi ta đã chết đi trong lòng người khác -->
+                <!-- is not when they are no longer living in any other hearts -->
+
+                <!-- Em luôn ở đây, kề bên anh soi sáng con đường -->
+                <!-- You are always here, lighting the path for me. -->
+
+                <!-- Giờ đây là khi, mình tay cầm tay -->
+                <!-- Now it's time, we hand in hand -->
+
+                <!-- Và cùng nhau ta sẽ thắp sáng ước mơ -->
+                <!-- And together we will [shine our dreams] (lmfao rst song comp diff name) -->
+
+                <!-- "morbius is a movie of all time" -->
+                <ref name="AKMEraPart1" _.strength="1.0"/>
+                <ref name="AKMEraPart2" _.strength="1.0"/>
+                <ref name="AKMEraPart3" _.strength="0.6"/>
+            </entry>
+        </entry>
+
+        <!-- adding these songs to increase Murakawa Rie and Hidaka Rina's score lol -->
+        <!-- (i can't accept ayumu va to be higher than rina hidaka lol) -->
+        <entry id="M-VGMDB-AL-95313" title="How Are You? / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <visual type="albumArt" base="0.3" unique="0.3" />
+
+            <entry id="$-1" title="はうあーゆー？"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.6" _.eras="akm1=5.0" _.from="akm1" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-95314" title="Happy Happy Jump / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <visual type="albumArt" base="0.3" unique="0.3" />
+
+            <entry id="$-1" title="Happy Happy Jump"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.5" _.eras="akm1=5.0" _.from="akm1" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-124217" title="Hoshitachi no Orchestra Parade / Mashumairesh!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.25" unique="0.4" />
+
+            <entry id="$-1" title="Hoshitachi no Orchestra Parade">
+                <musicConsumedProgress length="3:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.7" _.eras="nee=5.0" _.from="nee" />
+                <!-- cleaning koikake :tf: -->
+                <!-- <aei base="0.3" emotions="MP" /> -->
+                <ref name="KoikakeAEI" _.base="0.3" _.contribution="0.7" _.emotions="MP" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-124215" title="Koishichatta! / Criticrista"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.2" unique="0.3" />
+            <entry id="$-1" title="Koishichatta!">
+                <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <ref name="FesALiveMusic" _.base="0.3" _.eras="" _.from="nee" />
+            </entry>
+        </entry>
+
+        <entry id="M-20220125T063355-2" title="Plasmagica">
+            <validatorSuppress rules="dah-entry-no-consumed" />
+
+            <contains factor="vocal+image">
+                <contains id="M-VGMDB-AL-94913" />
+                <contains id="M-VGMDB-AL-51276" />
+                <contains id="M-20220125T063355-6" factor="0.5" />
+                <contains id="M-VGMDB-AL-51706" />
+                <contains id="M-VGMDB-AL-61217" />
+                <contains id="M-VGMDB-AL-61981" />
+                <contains id="M-VGMDB-AL-59914" />
+                <contains id="M-VGMDB-AL-104341-1" factor="0.5" />
+                <contains id="M-VGMDB-AL-104266-3" />
+                <contains id="M-VGMDB-AL-100082" />
+                <contains id="M-VGMDB-AL-116297" />
+            </contains>
+        </entry>
+
+        <entry id="M-20220125T063355-3" title="Tsurezurenaru Ayatsuri Mugenan">
+            <validatorSuppress rules="dah-entry-no-consumed" />
+
+            <contains factor="vocal+image">
+                <contains id="M-VGMDB-AL-51278" />
+            </contains>
+        </entry>
+
+        <entry id="M-20220125T063355-4" title="Mashumairesh!!">
+            <validatorSuppress rules="dah-entry-no-consumed" />
+
+            <contains factor="vocal+image">
+                <contains id="M-VGMDB-AL-93440" />
+                <contains id="M-VGMDB-AL-93441" />
+                <contains id="M-VGMDB-AL-104341-1" factor="0.5" />
+                <contains id="M-VGMDB-AL-104341-2" factor="1.0" />
+                <contains id="M-VGMDB-AL-104267-8" factor="1.0" />
+                <contains id="M-20220702T030659" factor="0.5" />
+            </contains>
+        </entry>
+
+        <entry id="M-20220125T063355-5" title="BUD VIRGIN LOGIC">
+            <validatorSuppress rules="dah-entry-no-consumed" />
+
+            <contains factor="vocal+image">
+                <contains id="M-VGMDB-AL-61940" />
+                <contains id="M-VGMDB-AL-104267-5" />
+            </contains>
+        </entry>
+
+        <entry id="M-20220125T063355-7" title="Criticrista">
+            <validatorSuppress rules="dah-entry-no-consumed" />
+
+            <contains factor="vocal+image">
+                <contains id="M-VGMDB-AL-104266-6" />
+                <contains id="M-VGMDB-AL-61982" />
+                <contains id="M-VGMDB-AL-105612" />
+                <contains id="M-VGMDB-AL-86315-3" />
+                <!-- when you realized that something is missing -->
+                <contains id="M-VGMDB-AL-76155" />
+            </contains>
+        </entry>
+
+        <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">
+
+            <!-- AllSB69Tracks.keys.forEach { Feature<music base="it" /> } -->
+            <visual type="gachaCardArt" base="0.4" unique="0.3" />
+        </entry>
+    </entry>
+
+    <!-- the famous speed-finger control map -->
+    <entry id="M-20220125T063355-6" title="Seishun wa Non-Stop! (Asterisk DnB Remix)">
+
+        <!-- Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix -->
+        <music base="0.6" />
+        <musicConsumedProgress length="5:02" /> <!-- impl_overridden -->
+        <osuSong personal="0.75" community="0.0" />
+    </entry>
+
+    <ref name="RSTSB69DuopolyEra" _.strength="0.8">
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.05" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.1" />
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="arc2" />
+    </ref>
+
+    <ref name="AKMEraPart1" _.strength="0.3">
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.1" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.05" />
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm1" />
+    </ref>
+
+    <ref name="AKMEraPart2" _.strength="0.75">
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.1" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.05" />
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm2" />
+    </ref>
+
+    <ref name="AKMEraPart3" _.strength="0.4">
+        <contributor id="A-MAL-27441" factor="0.2" />
+        <contributor id="A-MAL-32038" factor="0.25" />
+        <contributor id="A-MAL-40763" factor="0.1" />
+        <contributor id="A-MAL-41520" factor="0.2" />
+        <contributor id="G-VGMDB-8429" factor="0.05" />
+        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm3" />
+    </ref>
+
+    <entry id="M-20221127T140645" title="Bibibeach Bibibibeach! (411 Socacore Remix)">
+        <validatorSuppress rules="dah-entry-no-consumed" />
+        <music base="0.7" />
+        <!-- Length source: https://osu.ppy.sh/beatmapsets/1092567 -->
+        <musicConsumedProgress length="4:32" />
+    </entry>
+
+    <!-- " -->
+    <!-- rst-sb69 duopoly era season 2: electric boogaloo (June 3rd, 2022 onwards) -->
+    <!-- featuring modern vietnamese literature, esters, tien duc and more... -->
+    <!-- " - clueless mf doesn't know about the song -->
+
+    <!-- Asuiro Koi Moyou era (part 1) -->
+    <!-- AKM is basically the "child" of rst and sb69, -->
+    <!-- inheriting rst's love and sb69's catjam af music -->
+    <!-- This arc features dumb shit like MVL (modern vietnamese literature) -->
+
+    <!-- all of this shit basically spits on all other anime -->
+    <!-- that was unable to be meta'd for longer than a month -->
+    <!-- while literally a song not even 5 minutes was able -->
+    <!-- to turn modern culture into the shittiest hellhole ever. -->
+    <def name="AKMEraPart1" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-06-03" to="2022-07-17">
+            <children />
+        </meme>
+    </def>
+
+    <!-- AKM era arc 2 -->
+    <!-- seasonal anime now exists, le boat analogy is dying, etc. -->
+    <!-- sb69 top 1 franchise now xd -->
+
+    <!-- july then comes with a bunch of new seasonal anime, -->
+    <!-- and some of them were infused with akm shit such as: -->
+    <!-- - classroom of the elite: a girl with same VA as rosia -->
+    <!-- was declared "potential waifu" -->
+    <!-- - something motokano something: another girl with same -->
+    <!-- VA as rosia -->
+    <!-- - atelier (not seasonal): have OP named "asuiro" and -->
+    <!-- sang by the VA of jacklyn, who also was the VA for the -->
+    <!-- main girl aka "botaental guaifu" aka "mc xinh vl" aka -->
+    <!-- "sklol" aka "we live in a society" (btw if u can't tell -->
+    <!-- i'm talking about the escha logy anime) -->
+    <!-- (and then i downloaded the game(s) lol XDDDDDDDDDDDDD) -->
+    <!-- - toji no miko (not seasonal): main antagonist has the -->
+    <!-- same VA as rosia -->
+    <!-- - the idol pride unit: iiix, comsisting of: -->
+    <!--   + the zenryoku i love you reijing signal girl -->
+    <!--   + the glory star rst misaki sango girl -->
+    <!--   + the asuiro koi moyou jacklyn girl -->
+    <!-- (now i finally understood why le gigachad mapper like -->
+    <!-- aipuru so much lol) -->
+    <!-- etc. (btw for somewhateverreason, all of these girls -->
+    <!-- VA'd by these two seiyuus have great waifu material -->
+    <!-- ngl, except for the iiix girls tho, oh wait, and that toji -->
+    <!-- no miko girl, whatever) -->
+    <!-- p/s: i wanna kms -->
+
+    <!-- btw no fucking way mii hasegawa covered akm: -->
+    <!-- https://www.youtube.com/watch?v=aDh26KX6X0s -->
+
+    <!-- rosia-chan realized that le cat has so much waifu material that -->
+    <!-- rosia-chan can not be her rival, even though she sang "asuiwanttodie -->
+    <!-- pleasesavemefromthismadness moyou", but she has learned a skill from -->
+    <!-- her senpai's, which is stealing content from other franchises. -->
+
+    <!-- rosia-chan had an idea, she called jacklyn-chan to discuss the matter -->
+    <!-- and jacklyn-chan accepted. rosia-chan and jacklyn-chan are going to -->
+    <!-- use the seiyuu-no-jutsu to yoink waifus. -->
+
+    <!-- jacklyn-chan, decided to give her blessings to the atelier franchise, -->
+    <!-- while rosia-chan, jumping on the seasonal hype train and going for -->
+    <!-- the COTE route. -->
+
+    <!-- both of them haven't succeeded yet, but their plan has resulted in -->
+    <!-- the unfunniest meme of all time: "potential waifu". this also means -->
+    <!-- that those franchises will have a little bit of contribution to this -->
+    <!-- shitty era. -->
+
+    <!-- and they got the first step right ffs fuck this crap -->
+    <!-- i hate atelier -->
+    <!-- worst game franchise of all time -->
+    <!-- i hate the mc -->
+    <!-- fuck her -->
+    <!-- (pls save me) -->
+    <def name="AKMEraPart2" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-07-21" to="2022-08-31">
+            <children />
+        </meme>
+    </def>
+
+    <!-- I heard somewhere that “Love strikes so suddenly” -->
+    <!-- and so suddenly it is, that atelier girl is now a fucking canon waifu -->
+    <!-- rip arisu tho (she is probably just a bait anyways) -->
+
+    <!-- so, post-rst culture will have another shot with waifu meta, after failing -->
+    <!-- with le cat because of 'lack of content'. let's hope for the best for miss -->
+    <!-- 15-year-old escha malier to turn this culture into absolute chaos. -->
+
+    <!-- rip modern culture -->
+    <!-- surely this is a way for rst to force me to study calc 1 and shit -->
+    <!-- flags: -->
+    <!-- atelier dusk series being post-apocalyptic -->
+    <!-- https://twitter.com/SB69F/status/1575350648966479873 (sb69f dead) -->
+    <!-- fall 2022 shit anime season -->
+    <!-- me getting into uni and the rise of post-modern politics (i love NAP) -->
+
+    <!-- after the glorious days of modern culture, we will live in a society -->
+    <!-- where only rst and sb69 are able to benefit from it (more idol dystopia -->
+    <!-- let's gooooooooo) -->
+    <def name="AKMEraPart3" vars="_.strength:double" visibility="public">
+        <meme strength="_.strength" from="2022-09-01" to="2022-10-01">
+            <children />
+        </meme>
+    </def>
+</document>

@@ -1,0 +1,815 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <include src="franchises/Aipura.xml" />
+    <include src="franchises/AoChan.xml" />
+    <include src="franchises/Aokana.xml" />
+    <include src="franchises/AOT.xml" />
+    <include src="franchises/Arifureta.xml" />
+    <include src="franchises/AscendanceBookworm.xml" />
+    <include src="franchises/Atelier.xml" />
+    <include src="franchises/ATRI.xml" />
+    <include src="franchises/Bandori.xml" />
+    <include src="meme/Bird.xml" />
+    <include src="franchises/BlueArchive.xml" />
+    <include src="franchises/Bokuben.xml" />
+    <include src="franchises/BunnyGirlSenpai.xml" />
+    <include src="franchises/CellAtWork.xml" />
+    <include src="franchises/Charlotte.xml" />
+    <include src="franchises/Chuunibyou.xml" />
+    <include src="franchises/CloverDays.xml" />
+    <include src="franchises/CommonArtists.xml" />
+    <include src="franchises/COTE.xml" />
+    <include src="franchises/Cue.xml" />
+    <include src="franchises/D4DJ.xml" />
+    <include src="franchises/DrStone.xml" />
+    <include src="franchises/EgaoDaika.xml" />
+    <include src="seasonal/Fall2022.xml" />
+    <include src="franchises/GakkouGurashi.xml" />
+    <include src="franchises/GochiUsa.xml" />
+    <include src="franchises/Gotoubun.xml" />
+    <include src="franchises/Hanayamata.xml" />
+    <include src="franchises/HelloWorld.xml" />
+    <include src="franchises/Idolmaster.xml" />
+    <include src="franchises/ImoutoIreba.xml" />
+    <include src="franchises/Irodori.xml" />
+    <include src="franchises/IsekaiQuartet.xml" />
+    <include src="franchises/JMetal.xml" />
+    <include src="franchises/JustBecause.xml" />
+    <include src="franchises/K-On.xml" />
+    <include src="franchises/KageJitsu.xml" />
+    <include src="franchises/Kaguya.xml" />
+    <include src="franchises/Kano.xml" />
+    <include src="franchises/KobayashiMaidDragon.xml" />
+    <include src="franchises/Koikake.xml" />
+    <include src="franchises/KoisuruAsteroid.xml" />
+    <include src="franchises/KokoroConnect.xml" />
+    <include src="franchises/KokuhakuJikkouIinkai.xml" />
+    <include src="franchises/LapisReLights.xml" />
+    <include src="franchises/LoveLab.xml" />
+    <include src="franchises/LoveLive.xml" />
+    <include src="franchises/MadokaMagica.xml" />
+    <include src="meme/Method.xml" />
+    <include src="franchises/MiaZora.xml" />
+    <include src="meme/MVLiterature.xml" />
+    <include src="franchises/NagiAsu.xml" />
+    <include src="franchises/Nakineko.xml" />
+    <include src="franchises/NatsuKise.xml" />
+    <include src="franchises/NewGame.xml" />
+    <include src="franchises/OneRoom.xml" />
+    <include src="franchises/OnsenMusume.xml" />
+    <include src="franchises/Oregairu.xml" />
+    <include src="franchises/OsuGame.xml" />
+    <include src="meme/PostModern.xml" />
+    <include src="franchises/Priconne.xml" />
+    <include src="franchises/RentAGirlfriend.xml" />
+    <include src="franchises/ReStage.xml" />
+    <include src="franchises/RikeKoi.xml" />
+    <include src="franchises/Saekano.xml" />
+    <include src="franchises/Sakurasou.xml" />
+    <include src="franchises/SB69.xml" />
+    <include src="franchises/SelePro.xml" />
+    <include src="franchises/ShichiseiSubaru.xml" />
+    <include src="franchises/ShinkaiMovies.xml" />
+    <include src="franchises/SoraMethod.xml" />
+    <include src="franchises/SoraYori.xml" />
+    <include src="seasonal/Spring2022.xml" />
+    <include src="franchises/StellaMahou.xml" />
+    <include src="franchises/SthKara.xml" />
+    <include src="seasonal/Summer2022.xml" />
+    <include src="franchises/SwordArtOnline.xml" />
+    <include src="franchises/Tanmoshi.xml" />
+    <include src="franchises/TariTari.xml" />
+    <include src="franchises/TateYuusha.xml" />
+    <include src="franchises/TensaiOuji.xml" />
+    <include src="franchises/TenseiOujo.xml" />
+    <include src="franchises/Tenshi3P.xml" />
+    <include src="franchises/ToniKawa.xml" />
+    <include src="franchises/UchiageHanabi.xml" />
+    <include src="franchises/Vocaloid.xml" />
+    <include src="franchises/WagamamaHighSpec.xml" />
+    <include src="franchises/WakeUpGirls.xml" />
+    <include src="seasonal/Winter2023.xml" />
+    <include src="franchises/WorldWitches.xml" />
+    <include src="franchises/YamadaKun.xml" />
+    <include src="franchises/YLIA.xml" />
+    <include src="franchises/YuYuYu.xml" />
+    <include src="franchises/ZombielandSaga.xml" />
+
+    <!-- TODO: insert more here -->
+    <entry id="A-MAL-21995" title="Ao Haru Ride"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="21995"/>
+            <ks id="8246"/>
+            <al id="20596"/>
+            <mal id="21995"/>
+        </source>
+
+        <bestGirl name="Futaba Yoshioka" />
+        <!-- old af and nothing special iirc -->
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+        <visual type="animated" base="0.3" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-12175" title="Koi to Senkyo to Chocolate">
+        <source>
+            <adb id="12175"/>
+            <ks id="6682"/>
+            <al id="12175"/>
+            <mal id="12175"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Chisato Sumiyoshi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- iirc i liked this anime's plot -->
+        <aei base="0.3" emotions="AP" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.3" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-12189" title="Hyouka">
+        <source>
+            <adb id="12189"/>
+            <ks id="6686"/>
+            <al id="12189"/>
+            <mal id="12189"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Eru Chitanda" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- ig it's kinda good -->
+        <nei base="0.3" emotions="AP" />
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="22" />
+        <visual type="animated" base="0.5" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-21845" title="Ushinawareta Mirai wo Motomete">
+        <source>
+            <adb id="21845"/>
+            <ks id="8199"/>
+            <al id="20591"/>
+            <mal id="21845"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <!-- kaomeme -->
+        <bestGirl name="Kaori Sasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- Ending did hit me -->
+        <nei base="0.5" emotions="CU" />
+        <!-- osuhow memes -->
+        <!-- This anime saved me in the Math Qualifiers lmao, -->
+        <!-- and VMO2020 too. -->
+        <meme strength="0.3" length="10" />
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.3" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-28851" title="Koe no Katachi">
+        <source>
+            <adb id="28851"/>
+            <ks id="10028"/>
+            <al id="20954"/>
+            <mal id="28851"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Shouko Nishimiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- Koe no Katachi has solid drama -->
+        <!-- But sadly, it's the first anime so there's no PADS -->
+        <!-- or tears -->
+        <aei base="0.3" emotions="CU" />
+
+        <!-- the first anime + Giap-Ngoc match = unlimited memes -->
+        <!-- 2017-05-12 is the vietnamese premiere date of the movie -->
+        <!-- 2017-09-15 is the start of the SLN -->
+        <meme strength="1.0" from="2017-05-12" to="2017-09-15" />
+
+        <!-- gate-open literally all NRS entries -->
+        <!-- but it's too overkill so an impact instead -->
+        <additional value="1.0" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="2:10:00" />
+        <visual type="animated" base="0.5" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-31952" title="Kono Bijutsubu ni wa Mondai ga Aru!">
+        <source>
+            <ks id="11466"/>
+            <al id="21457"/>
+            <mal id="31952"/>
+            <adb id="31952" />
+        </source>
+
+        <bestGirl name="Mizuki Usami" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+
+    <entry id="A-MAL-32729" title="Orange">
+        <source>
+            <adb id="32729"/>
+            <ks id="11844"/>
+            <al id="21647"/>
+            <mal id="32729"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Naho Takamiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- from nrs1 -->
+        <aei base="0.25" emotions="CU" />
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="13" />
+        <visual type="animated" base="0.3" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-33731" title="Gabriel DropOut">
+        <source>
+            <adb id="33731"/>
+            <ks id="12497"/>
+            <al id="21878"/>
+            <mal id="33731"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Satanichia Kurumizawa McDowell" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- iToddlers BTFO -->
+        <meme strength="0.4" length="25" />
+
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+        <visual type="animated" base="0.6" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-34240" title="Shelter (Music)">
+        <source>
+            <adb id="34240"/>
+            <ks id="12668"/>
+            <al id="97731"/>
+            <mal id="34240"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Rin" /> <!-- impl_overridden -->
+
+        <!-- catJAM -->
+        <music base="0.6" />
+
+        <!-- Short anime buff -->
+        <additional value="0.75" />
+
+        <!-- this is very sad guys -->
+        <!-- no pads tho -->
+        <cry emotions="CU" />
+        <!-- https://www.youtube.com/watch?v=fzQ6gRAEoy0 -->
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="6:06" />
+        <visual type="animated" base="0.65" unique="0.35" />
+    </entry>
+
+    <entry id="A-MAL-34280" title="Gamers!">
+        <source>
+            <adb id="34280"/>
+            <ks id="12754"/>
+            <al id="97766"/>
+            <mal id="34280"/>
+        </source>
+
+        <!-- seasonal = true iirc -->
+
+        <bestGirl name="Karen Tendou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.6" unique="0.3" />
+    </entry>
+
+    <entry id="A-MAL-34822" title="Tsuki ga Kirei">
+        <source>
+            <adb id="34822"/>
+            <ks id="13234"/>
+            <al id="98202"/>
+            <mal id="34822"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Akane Mizuno" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- ending sadge -->
+        <aei base="0.25" emotions="CU" />
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+        <visual type="animated" base="0.3" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-35241" title="Konohana Kitan">
+        <source>
+            <adb id="35241"/>
+            <ks id="13752"/>
+            <al id="98506"/>
+            <mal id="35241"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Natsume" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- definitely not reminding me of mashu mashu from sb69 -->
+
+        <!-- this was pretty boring ngl -->
+        <!-- and now it's the duopoly era so -->
+        <!-- they got cucked -->
+<!--            status = EntryStatus.Watching -->
+        <animeConsumedProgress status="Dropped" boredom="0.6" episodes="3" />
+        <dropped />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+
+
+    <entry id="A-MAL-35756" title="Comic Girls">
+        <source>
+            <adb id="35756"/>
+            <ks id="13722"/>
+            <al id="99131"/>
+            <mal id="35756"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Kaoruko Moeta" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+        <nei base="0.2" emotions="AP" />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+
+    <entry id="A-MAL-35860" title="Karakai Jouzu no Takagi-san">
+        <source>
+            <adb id="35860"/>
+            <ks id="13635"/>
+            <al id="99468"/>
+            <mal id="35860"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Takagi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- episodic ngl -->
+        <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
+        <dropped />
+        <visual type="animated" base="0.3" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-36038" title="Net-juu no Susume">
+        <source>
+            <adb id="36038"/>
+            <ks id="13703"/>
+            <al id="99726"/>
+            <mal id="36038"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <!-- lmfao -->
+        <bestGirl name="Washing Machine" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
+        <visual type="animated" base="0.3" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-36098" title="Kimi no Suizou wo Tabetai">
+        <source>
+            <adb id="36098"/>
+            <ks id="13723"/>
+            <al id="99750"/>
+            <mal id="36098"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <!-- facebook anime lmfao -->
+        <bestGirl name="Sakura Yamauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1:48:00" />
+        <aei base="0.1" emotions="CU" />
+        <visual type="animated" base="0.4" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-36266" title="Mahou Shoujo Site">
+        <source>
+            <adb id="36266"/>
+            <ks id="14137"/>
+            <al id="100010"/>
+            <mal id="36266"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Aya Asagiri" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- poor best girl -->
+        <aei base="0.2" emotions="CU" />
+
+        <!-- sad ending (i don't remember now lmfao) -->
+        <aei base="0.5" emotions="CU" />
+        <visual type="animated" base="0.4" unique="0.5" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+    </entry>
+
+    <entry id="A-MAL-37744" title="Isekai Cheat Magician">
+        <source>
+            <adb id="37744"/>
+            <ks id="42319"/>
+            <al id="101547"/>
+            <mal id="37744"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
+
+        <animeConsumedProgress status="Dropped" boredom="0.6" episodes="8" />
+        <dropped />
+        <visual type="animated" base="0.6" unique="0.2" />
+    </entry>
+
+    <entry id="A-MAL-37926" title="Nakanohito Genome [Jikkyouchuu]">
+        <source>
+            <ks id = "41336" />
+            <mal id = "37926" />
+            <adb id = "37926" />
+            <al id = "102926" />
+        </source>
+        <bestGirl name="Karin Sarayashiki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- akari kito va lmfao -->
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <!-- this was funny af (iirc), really enjoyed it -->
+        <aei base="0.6" emotions="AP" />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+
+    <entry id="A-MAL-37982" title="Domestic na Kanojo"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="37982"/>
+            <ks id="41479"/>
+            <al id="103139"/>
+            <mal id="37982"/>
+        </source>
+        <bestGirl name="Hina Tachibana" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.3" unique="0.5" />
+
+        <!-- the domestic na kanojo war lmao -->
+        <meme strength="0.8" length="90" />
+    </entry>
+
+    <entry id="A-MAL-38656" title="Darwin's Game"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="38656"/>
+            <ks id="42260"/>
+            <al id="105190"/>
+            <mal id="38656"/>
+        </source>
+        <bestGirl name="Shuka Karino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
+        <visual type="animated" base="0.3" unique="0.4" />
+        <!-- "plot is good" -->
+        <aei base="0.5" emotions="AP" />
+    </entry>
+
+    <entry id="A-MAL-38659" title="Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="38659"/>
+            <ks id="42079"/>
+            <al id="105156"/>
+            <mal id="38659"/>
+        </source>
+        <!-- very funny lmao -->
+        <aei base="0.5" emotions="AP" />
+        <!-- restep sequel leaked no way -->
+        <bestGirl name="Ristarte" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.4" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-38790" title="Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.">
+        <source>
+            <adb id="38790" />
+            <al id="106479" />
+            <mal id="38790" />
+            <ks id="42043" />
+        </source>
+        <bestGirl name="Maple" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <killedBy id="F-VGMDB-1945" potential="0.2" effect="0.5" />
+        <animeConsumedProgress status="Dropped" boredom="0.7" episodes="2" />
+        <dropped />
+        <visual type="animated" base="0.5" unique="0.2" />
+    </entry>
+
+    <entry id="A-MAL-39324" title="Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.">
+        <source>
+            <adb id="39324"/>
+            <ks id="42203"/>
+            <al id="107956"/>
+            <mal id="39324"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Latina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Dropped" boredom="0.7" episodes="4" />
+        <dropped />
+        <visual type="animated" base="0.4" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-39523" title="Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!">
+        <source>
+            <adb id="39523"/>
+            <ks id="42222"/>
+            <al id="108388"/>
+            <mal id="39523"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <!-- rst girl vs akm girl lol -->
+        <bestGirl name="Shinobu Sarutobi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- also akari kito ed wtf -->
+        <!-- and the op is that osu song -->
+        <!-- imagine if this was in summer 2022 -->
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+
+    <entry id="A-MAL-39790" title="Adachi to Shimamura">
+        <source>
+            <adb id="39790"/>
+            <ks id="42342"/>
+            <al id="109287"/>
+            <mal id="39790"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Hougetsu Shimamura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Dropped" boredom="0.9" episodes="3" />
+        <dropped />
+        <visual type="animated" base="0.65" unique="0.3" />
+
+        <!-- "A PADS about freedomism -->
+        <!-- (basically I want to be like the girls, -->
+        <!-- skipping out class etc.)" -->
+        <!-- ADA foreshadowing lol -->
+        <maxAEIPADS length="2" emotions="CP" />
+        <killedBy id="F-VGMDB-2588" potential="0.75" effect="0.3" />
+    </entry>
+
+    <entry id="A-MAL-40550" title="Assault Lily: Bouquet">
+        <source>
+            <adb id="40550"/>
+            <ks id="42625"/>
+            <al id="112479"/>
+            <mal id="40550"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Shirai Yuyu" /> <!-- himekek my beloved -->
+        <bestGirl name="Wang Yujia" /> <!-- noway it's the kimi no rhapsody girl -->
+        <bestGirl name="Thi Mai Yoshimura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- in all seriousness, this is quite good. -->
+        <!-- the 2 main girls are pretty match -->
+        <!-- thank you based shaft -->
+        <visual type="animated" base="0.6" unique="0.3" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <featureMusic id="M-VGMDB-AL-101643-1" />
+    </entry>
+
+    <entry id="A-MAL-40571" title="Majo no Tabitabi">
+        <source>
+            <adb id="40571"/>
+            <ks id="42627"/>
+            <al id="112609"/>
+            <mal id="40571"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Elaina" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <visual type="animated" base="0.4" unique="0.3" />
+        <animeConsumedProgress status="Dropped" boredom="0.8" episodes="6" />
+        <dropped />
+        <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.5" />
+        <!-- observism and the COP -->
+        <politics />
+    </entry>
+
+    <entry id="A-MAL-40783" title="Shachou, Battle no Jikan Desu!">
+        <source>
+            <adb id="40783"/>
+            <ks id="42850"/>
+            <al id="113570"/>
+            <mal id="40783"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <!-- insert hatsune miku joke here -->
+        <bestGirl name="Akari" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- the hatsune miku method -->
+        <aei base="0.2" emotions="AP" />
+        <visual type="animated" base="0.3" unique="0.3" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+    </entry>
+
+    <entry id="A-MAL-41619" title="Munou na Nana">
+        <source>
+            <adb id="41619"/>
+            <ks id="43534"/>
+            <al id="117343"/>
+            <mal id="41619"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Nana Hiiragi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <visual type="animated" base="0.4" unique="0.5" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+        <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.3" />
+        <!-- plot is very good -->
+        <aei base="0.4" emotions="AP" />
+    </entry>
+
+    <entry id="A-MAL-41930" title="Kamisama ni Natta Hi">
+        <source>
+            <adb id="41930"/>
+            <ks id="43204"/>
+            <al id="118419"/>
+            <mal id="41930"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Kyouko Izanami" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <visual type="animated" base="0.6" unique="0.4" />
+        <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
+        <dropped />
+        <killedBy id="F-VGMDB-2588" potential="0.6" effect="0.5" />
+    </entry>
+
+    <entry id="A-MAL-43969" title="Kanojo mo Kanojo">
+        <source>
+            <ks id="44165"/>
+            <al id="126192"/>
+            <mal id="43969"/>
+            <adb id="43969" />
+        </source>
+        <!-- this is one of the only rom-coms that is -->
+        <!-- watched in the post-MagiReco era, which is -->
+        <!-- already impressive -->
+        <!-- but that's not enough because MagiReco S2 -->
+        <!-- is just too good -->
+        <bestGirl name="Saki Saki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <visual type="animated" base="0.4" unique="0.4" />
+        <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
+        <dropped />
+        <killedBy id="A-MAL-41530" potential="0.2" effect="0.5" />
+    </entry>
+
+    <entry id="A-MAL-46093" title="Shiroi Suna no Aquatope">
+        <source>
+            <adb id="46093"/>
+            <ks id="44116"/>
+            <al id="128545"/>
+            <mal id="46093"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Fuuka Miyazawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- idk tf this anime is talking about lol -->
+        <visual type="animated" base="0.3" unique="0.7" />
+        <animeConsumedProgress status="Dropped" boredom="0.6" episodes="16" />
+        <dropped />
+        <killedBy id="A-MAL-41530" potential="0.1" effect="0.4" />
+    </entry>
+
+    <entry id="A-MAL-40904" title="Bokutachi no Remake">
+        <source>
+            <adb id="40904"/>
+            <ks id="42924"/>
+            <al id="114065"/>
+            <mal id="40904"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Eiko Kawasegawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- this was expected to be a good compoly -->
+        <!-- anime, but it doesn't care about that -->
+        <!-- and just march on with its plot -->
+        <visual type="animated" base="0.5" unique="0.3" />
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+        <killedBy id="A-MAL-41530" potential="0.2" effect="0.2" />
+        <featureMusic id="M-VGMDB-AL-111089-5" />
+    </entry>
+
+    <entry id="A-MAL-44203" title="Seirei Gensouki">
+        <source>
+            <adb id="44203"/>
+            <ks id="44174"/>
+            <al id="126546"/>
+            <mal id="44203"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <!-- kimi no rhapsody girl -->
+        <bestGirl name="Celia Claire" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- the hoan tinh anime pt.1 -->
+        <!-- from ep 5 to 10 there's no hoan tinh madge -->
+<!--            AnimeProgress(Boredom.PartiallyDropped(0.25)) -->
+        <!-- i finished ep12, but e5-10 hasn't been watched -->
+        <!-- TODO: use separate apis -->
+        <animeConsumedProgress status="Dropped" boredom="1.0" episodes="6" />
+        <!-- AnimeConsumed(1.0, 6)
+        AnimeProgress(EntryStatus.Dropped, 12) -->
+        <dropped />
+
+        <visual type="animated" base="0.6" unique="0.4" />
+        <killedBy id="A-MAL-41530" potential="0.1" effect="0.3" />
+
+        <!-- lol -->
+        <aei base="0.5" emotions="AU-0.5:AP-0.5" />
+    </entry>
+
+    <entry id="A-MAL-47790" title="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru">
+        <source>
+            <adb id="47790"/>
+            <ks id="44393"/>
+            <al id="129898"/>
+            <mal id="47790"/>
+        </source>
+        <bestGirl name="Dia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- this initially was dropped, but rewatched in the remod era, hence the low boredom value -->
+        <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.4" />
+        <killedBy id="F-VGMDB-3245" potential="0.1" effect="0.2" />
+        <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.2" />
+        <nei base="0.8" emotions="AP" />
+    </entry>
+
+    <entry id="A-MAL-48483" title="Mieruko-chan">
+        <source>
+            <adb id="48483"/>
+            <ks id="44185"/>
+            <al id="131083"/>
+            <mal id="48483"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <!-- "babe pls have sex with me im so horny" -->
+        <!-- "haha the ortensia incident" -->
+        <bestGirl name="Kyousuke Yotsuya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
+        <dropped />
+        <visual type="animated" base="0.3" unique="0.6" />
+        <killedBy id="F-VGMDB-3245" potential="0.2" effect="0.2" />
+        <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.2" />
+    </entry>
+
+    <entry id="A-MAL-48644" title="Gyakuten Sekai no Denchi Shoujo">
+        <source>
+            <adb id="48644"/>
+            <ks id="44300"/>
+            <al id="131878"/>
+            <mal id="48644"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Akagi Rin" /> <!-- impl_overridden -->
+
+        <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
+        <aei base="0.5" emotions="MP-0.5:AP-0.5" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.4" unique="0.3" />
+        <killedBy id="F-VGMDB-3245" potential="0.3" effect="0.15" />
+        <killedBy id="F-VGMDB-7059" potential="0.3" effect="0.15" />
+    </entry>
+
+    <entry id="A-MAL-17919" title="Houkago no Pleiades (TV)">
+        <source>
+            <adb id="17919"/>
+            <ks id="7713"/>
+            <al id="17919"/>
+            <mal id="17919"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <bestGirl name="Subaru" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+        <!-- didn't expect mc to fall in love tho -->
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.2" />
+        <featureMusic id="M-VGMDB-AL-51254-1" />
+    </entry>
+
+    <entry id="A-MAL-35589" title="Toji no Miko">
+        <source>
+            <adb id="35589"/>
+            <ks id="13710"/>
+            <al id="98747"/>
+            <mal id="35589"/>
+        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
+        <bestGirl name="Tagitsuhime" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <!-- i hate my life -->
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
+
+        <!-- decent plot ngl -->
+        <nei base="0.8" emotions="AP" />
+        <visual type="animated" base="0.5" unique="0.4" />
+    </entry>
+
+    <entry id="A-MAL-38091" title="Hachigatsu no Cinderella Nine (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="38091"/>
+            <ks id="42144"/>
+            <al id="104989"/>
+            <mal id="38091"/>
+        </source>
+
+        <!-- haha chuchu analogy ahaha yes we are ahahdajd -->
+        <bestGirl name="Akane Ukita" />
+
+        <!-- risuteji xi jin ping -->
+        <nei base="0.3" emotions="CP" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <visual type="animated" base="0.4" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-37481" title="Ongaku Shoujo (TV)"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <source>
+            <adb id="37481"/>
+            <ks id="41066"/>
+            <al id="101309"/>
+            <mal id="37481"/>
+        </source>
+
+        <!-- gyze it's the chuchu analogy girl amirite hahahaha -->
+        <bestGirl name="Kiri Mukae" />
+
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+</document>

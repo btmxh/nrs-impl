@@ -1,8 +1,5 @@
-build
 output
-.gradle
 .vscode
-.idea
 
 # libreoffice csv lock file
 .~lock.*#
