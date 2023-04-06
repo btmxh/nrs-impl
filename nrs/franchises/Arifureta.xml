@@ -1,0 +1,36 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <entry id="F-VGMDB-6083" title="Arifureta Shokugyou de Sekaisaikyou">
+
+        <entry id="A-MAL-36882" title="Arifureta Shokugyou de Sekai Saikyou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="36882"/>
+                <ks id="14043"/>
+                <al id="100668"/>
+                <mal id="36882"/>
+            </source>
+            <bestGirl name="Yue" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="13" />
+
+            <!-- MC got dumped by his friends made me kinda angry -->
+            <nei base="0.25" emotions="AU" />
+            <visual type="animated" base="0.5" unique="0.1" />
+
+            <featureMusic id="M-VGMDB-AL-86592-1" />
+        </entry>
+
+        <contains id="M-VGMDB-AL-86592-1" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-86592" title="FLARE / Void_Chords feat.LIO"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+        <visual type="albumArt" base="0.05" unique="0.5" />
+        <entry id="$-1" title="FLARE">
+            <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <music base="0.1" />
+            <osuSong personal="0.1" community="0.05" />
+        </entry>
+    </entry>
+</document>

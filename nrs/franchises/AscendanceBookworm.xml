@@ -1,0 +1,52 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <entry id="F-VGMDB-7638" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen">
+
+        <!-- world-building ig -->
+        <aei base="0.3" emotions="AP">
+            <contributor id="A-MAL-39468" factor="0.3" />
+            <contributor id="A-MAL-40815" factor="0.3" />
+            <contributor id="A-MAL-42429" factor="0.4" />
+        </aei>
+
+        <entry id="A-MAL-39468" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="39468"/>
+                <ks id="42241"/>
+                <al id="108268"/>
+                <mal id="39468"/>
+            </source>
+            <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="14" />
+            <visual type="animated" base="0.4" unique="0.5" />
+        </entry>
+
+        <entry id="A-MAL-40815" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40815"/>
+                <ks id="42838"/>
+                <al id="113693"/>
+                <mal id="40815"/>
+            </source>
+            <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+            <visual type="animated" base="0.4" unique="0.5" />
+        </entry>
+
+        <entry id="A-MAL-42429" title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="42429"/>
+                <ks id="43607"/>
+                <al id="121176"/>
+                <mal id="42429"/>
+            </source>
+            <bestGirl name="Myne" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="10" />
+            <visual type="animated" base="0.4" unique="0.5" />
+        </entry>
+    </entry>
+</document>

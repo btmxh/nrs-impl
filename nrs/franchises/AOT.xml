@@ -1,0 +1,70 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<!-- imagine losing to a contentless franchise xddddddddddddd -->
+<document>
+    <entry id="F-VGMDB-2931" title="Shingeki no Kyojin">
+
+        <!-- please fuck off (look at the comment section) -->
+        <!-- https://www.youtube.com/watch?v=kbYoJNLQEiU -->
+        <nei base="-0.1" emotions="AP">
+            <contributor id="A-MAL-16498" factor="0.25" />
+            <contributor id="A-MAL-25777" factor="0.25" />
+            <contributor id="A-MAL-35760" factor="0.25" />
+            <contributor id="A-MAL-38524" factor="0.25" />
+        </nei>
+
+        <entry id="A-MAL-16498" title="Shingeki no Kyojin"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="16498"/>
+                <ks id="7442"/>
+                <al id="16498"/>
+                <mal id="16498"/>
+            </source>
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="25" />
+            <visual type="animated" base="0.2" unique="0.6" />
+        </entry>
+
+        <entry id="A-MAL-25777" title="Shingeki no Kyojin Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="25777"/>
+                <ks id="8671"/>
+                <al id="20958"/>
+                <mal id="25777"/>
+            </source>
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.2" unique="0.6" />
+        </entry>
+
+        <entry id="A-MAL-35760" title="Shingeki no Kyojin Season 3"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35760"/>
+                <ks id="13569"/>
+                <al id="99147"/>
+                <mal id="35760"/>
+            </source>
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.2" unique="0.6" />
+        </entry>
+
+        <!-- this has more score than almost all love live animes -->
+        <!-- and almost the same score as sb69 stars wtf. -->
+
+        <!-- aged well lmfao after the seishun wa non-stop incident -->
+        <!-- xddddddddddddddddddddd -->
+        <entry id="A-MAL-38524" title="Shingeki no Kyojin Season 3 Part 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="38524"/>
+                <ks id="41982"/>
+                <al id="104578"/>
+                <mal id="38524"/>
+            </source>
+            <bestGirl name="Mikasa Ackerman" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
+            <aei base="0.5" emotions="AP" />
+            <visual type="animated" base="0.2" unique="0.6" />
+        </entry>
+    </entry>
+</document>

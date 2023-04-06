@@ -1,0 +1,32 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <entry id="F-VGMDB-6424" title="Stella no Mahou">
+
+        <entry id="A-MAL-32555" title="Stella no Mahou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="32555"/>
+                <ks id="11756"/>
+                <al id="21597"/>
+                <mal id="32555"/>
+            </source>
+
+            <!-- i love music composers -->
+            <bestGirl name="Kayo Fujikawa" />
+            <visual type="animated" base="0.5" unique="0.4" />
+            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+            <nei base="0.5" emotions="AP" />
+            <nei base="0.2" emotions="CP" />
+            <featureMusic id="M-VGMDB-AL-60899-1" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-60899" title="God Save The Girls / Shino Shimoji"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <visual type="albumArt" base="0.2" unique="0.2" />
+            <entry id="$-1" title="God Save The Girls"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.45" />
+                <osuSong personal="0.25" community="0.0" />
+            </entry>
+        </entry>
+    </entry>
+</document>

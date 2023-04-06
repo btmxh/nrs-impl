@@ -1,0 +1,47 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
+        <entry id="A-MAL-37976" title="Zombieland Saga">
+            <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="37976"/>
+                <ks id="41459"/>
+                <al id="103871"/>
+                <mal id="37976"/>
+            </source>
+            <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- kinda funny -->
+            <aei base="0.5" emotions="AP" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <visual type="animated" base="0.4" unique="0.5" />
+        </entry>
+
+        <entry id="A-MAL-40174" title="Zombieland Saga: Revenge"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40174"/>
+                <ks id="42467"/>
+                <al id="110733"/>
+                <mal id="40174"/>
+            </source>
+            <bestGirl name="Sakura Minamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- the zombieland saga incident -->
+            <animeConsumedProgress status="Dropped" boredom="0.9" episodes="7" />
+            <dropped />
+            <visual type="animated" base="0.4" unique="0.5" />
+            <killedBy id="V-VNDB-12849" potential="0.3" effect="0.2" />
+            <featureMusic id="M-VGMDB-AL-109367" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-109367" title="Taiga yo Tomo ni Naite Kure/Nope!!!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.4" unique="0.5" />
+            <entry id="$-1" title="Taiga yo Tomo ni Naite Kure">
+                <musicConsumedProgress length="3:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.55" />
+            </entry>
+        </entry>
+    </entry>
+</document>

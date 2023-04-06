@@ -1,0 +1,75 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <entry id="F-VGMDB-9358" title="Idoly Pride">
+
+        <!-- A moment of silence for Ms. Kanda Sayaka -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <entry id="A-MAL-40842" title="Idoly Pride"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="40842"/>
+                <ks id="42868"/>
+                <al id="113814"/>
+                <mal id="40842"/>
+            </source>
+            <!-- aka the pp anime -->
+            <!-- aka the _kotachi_ gigachad mapper "supremacy" anime -->
+            <!-- aka the bang bang "zenryoku i love you", "glory star" and "asuiro koi moyou" anime -->
+            <!-- (they wasn't featured but idc) -->
+            <!-- aka love live's cue! -->
+
+            <!-- vaxei_osu -->
+
+            <!-- the memes were funny -->
+            <nei base="0.8" emotions="AP" />
+
+            <bestGirl name="Sakura Kawasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <visual type="animated" base="0.6" unique="0.3" />
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.6" unique="0.3" />
+            <entry id="$-1" title="IDOLY PRIDE">
+                <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.5" />
+            </entry>
+
+            <!-- 2nd song (aka the ED) name is "The Sun, Moon and Stars", -->
+            <!-- which is clearly a reference to this osu song: -->
+            <!-- https://www.youtube.com/watch?v=bw3UygAi2oo -->
+            <!-- lmfao -->
+        </entry>
+
+        <!-- a little bit off topic but the Rie Murakawa girl -->
+        <!-- https://idoly-pride.fandom.com/wiki/Miho -->
+        <!-- "miho used to be a member of a popular two-member idol group that suddenly -->
+        <!-- disbanded just before they could reach the BIG 4. She is the brains of the -->
+        <!-- group, and is mild-mannered, but has a vindictive side." -->
+        <!-- clearly the "two-member idol group" is an AKM reference, -->
+        <!-- BIG 4 is Criticrista, "the brains" is somewhat an -->
+        <!-- Atelier-Chemistry reference (?) -->
+        <!-- the gigachad mapper sure know their stuff -->
+        <!-- sasuga le gigachad mapper -->
+    </entry>
+</document>

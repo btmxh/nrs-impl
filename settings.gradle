@@ -1,5 +1,0 @@
-rootProject.name = 'nrs-impl-kt'
-
-include ':core'
-include ':impl'
-include ':validator'

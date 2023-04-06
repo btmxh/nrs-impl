@@ -1,58 +1,47 @@
-name: Fill metadata & Release output files
+name: NRS CI
 
 on: [push, workflow_dispatch]
 
 jobs:
-  do-ci-thing:
-    runs-on: ubuntu-20.04
+  lint:
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout sources
       uses: actions/checkout@v3.5.0
-      with:
-        submodules: recursive
-    - name: Setup Gradle
-      uses: gradle/gradle-build-action@v2
-    - name: Setup Dart
-      uses: dart-lang/setup-dart@v1
-    - name: Setup Python 2.7
-      uses: actions/setup-python@v4
-      with:
-        python-version: '2.7'
-        cache: 'pip'
-    - name: Setup VGMDB cache
-      uses: actions/cache@v3
-      with:
-        path: .vgmdb-cache
-        key: vgmdb-cache-key
+    - name: Install xmllint
+      run: sudo apt update && sudo apt install libxml2-utils
     - name: Create temp directory
-      run: mkdir temp
-    - name: Download anime-offline-database-minified.json
-      run: curl https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database-minified.json -o temp/anime-offline-database-minified.json
-    - name: Checkout hufman/vgmdb
+      run: mkdir -p temp
+    - name: Retrieve schema file
+      run: curl https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd -o temp/schema.xsd
+    - name: Validate the NRSML documents
+      run: xmllint --schema temp/schema.xsd nrs/**/*.xml --noout
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout sources
       uses: actions/checkout@v3.5.0
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
       with:
-        repository: 'hufman/vgmdb'
-        path: temp/vgmdb
-    - name: Install vgmdb python dependencies
-      run: pip install -r temp/vgmdb/requirements.txt
-    - name: Run vgmdb API server
-      run: python run.py &
-      working-directory: temp/vgmdb
-    - name: Install Dart dependencies
-      run: dart pub get
-      working-directory: ./nrs_mod
-    - name: Run fill_music_metadata.dart
-      run: dart run scripts/fill_music_metadata.dart .. http://0.0.0.0:9990
-      working-directory: nrs_mod
-    - name: Install Python dependencies
+        deno-version: vx.x.x
+    # TODO: run the validator (which doesn't exist at the moment)
+    # - name: Run the validator
+    #   uses: actions/validator (this is what the AI suggests me)
+  release:
+    runs-on: ubuntu-latest
+    needs: [lint, validate]
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v3.5.0
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: vx.x.x
+    - name: Install python dependencies
       run: pip install -r scripts/requirements.txt
-    - name: Run Gradle task :updateWithoutSync
-      run: ./gradlew updateWithoutSync
-    - name: Make commit
-      uses: stefanzweifel/git-auto-commit-action@v4
-      if: ${{ !contains(github.ref, 'dependabot') }}
-      with:
-        commit_message: 'chore(impl): :bookmark: Filled metadata'
+    - name: Generate output files
+      run: deno run --allow-all scripts/generate.ts && python scripts/make_csv.py
     - name: Split branch name
       id: split
       run: echo "fragment=${BRANCH##*/}" >> $GITHUB_OUTPUT
@@ -76,6 +65,7 @@ jobs:
           output/scores.json
           output/impacts.json
           output/relations.json
+          output/bulk.json
           output/nrs.csv
     - name: Update latest release
       uses: marvinpinto/action-automatic-releases@latest
@@ -92,4 +82,6 @@ jobs:
           output/scores.json
           output/impacts.json
           output/relations.json
+          output/bulk.json
           output/nrs.csv
+

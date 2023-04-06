@@ -1,0 +1,27 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <entry id="F-VGMDB-5919" title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?">
+
+        <entry id="A-MAL-34498" title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="34498"/>
+                <ks id="12794"/>
+                <al id="97908"/>
+                <mal id="34498"/>
+            </source>
+
+            <!-- SLN rng -->
+            <aei base="0.1" emotions="CU" />
+
+            <bestGirl name="Nazuna Oikawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:30:00" />
+
+            <featureMusic id="M-VGMDB-AL-69257-1" />
+            <visual type="animated" base="0.4" unique="0.5" />
+        </entry>
+
+        <contains id="M-VGMDB-AL-69257-1" />
+    </entry>
+</document>

@@ -1,0 +1,55 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+
+<document>
+    <!-- the first CP farmer in NRS -->
+    <!-- but they got dropped sadge -->
+
+    <entry id="F-VGMDB-7040" title="Sora yori mo Tooi Basho">
+
+        <entry id="A-MAL-35839" title="Sora yori mo Tooi Basho"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+            <source>
+                <adb id="35839"/>
+                <ks id="13615"/>
+                <al id="99426"/>
+                <mal id="35839"/>
+            </source>
+            <bestGirl name="Yuzuki Shiraishi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+
+            <!-- the beginning was good, since they're making progress -->
+            <!-- but the last episodes (like from ep 6,7 onwards) suck -->
+            <!-- since they're just formulaic-episodic drama -->
+            <!-- (btw i haven't watch the last 3 episodes yet, so idk what -->
+            <!-- happened there) -->
+            <animeConsumedProgress status="Dropped" boredom="0.9" episodes="9" />
+
+            <!-- first anime to do cp-farming -->
+            <aei base="0.8" emotions="CP" />
+
+            <!-- the girls are comfy too -->
+            <nei base="0.75" emotions="MP" />
+
+            <visual type="animated" base="0.3" unique="0.5" />
+
+            <featureMusic id="M-VGMDB-AL-73544-1" />
+            <featureMusic id="M-VGMDB-AL-73544-2" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-73544" title="Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+
+            <visual type="albumArt" base="0.3" unique="0.5" />
+            <entry id="$-1" title="Koko kara, Koko kara">
+                <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.5" />
+                <!-- make v-tuber a thing (hanayori dorm bs) -->
+                <!-- and when hanayori bs dead, vtuber dead lmfao -->
+                <!-- and then hololive becomes le boat xd -->
+            </entry>
+
+            <entry id="$-2" title="One Step">
+                <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <music base="0.3" />
+                <osuSong personal="0.4" community="0.0" />
+            </entry>
+        </entry>
+    </entry>
+</document>
