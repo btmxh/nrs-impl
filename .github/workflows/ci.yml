@@ -8,10 +8,6 @@ jobs:
     steps:
     - name: Checkout sources
       uses: actions/checkout@v3.5.0
-    - name: Setup Deno
-      uses: denoland/setup-deno@v1
-      with:
-        deno-version: vx.x.x
     - name: Install xmllint
       run: sudo apt update && sudo apt install libxml2-utils
     - name: Create temp directory
@@ -43,7 +39,7 @@ jobs:
       with:
         deno-version: vx.x.x
     - name: Generate output files
-      run: deno --allow-all scripts/generate.ts && python scripts/make_csv.py
+      run: deno run --allow-all scripts/generate.ts && python scripts/make_csv.py
     - name: Split branch name
       id: split
       run: echo "fragment=${BRANCH##*/}" >> $GITHUB_OUTPUT
