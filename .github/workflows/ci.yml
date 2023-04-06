@@ -38,6 +38,8 @@ jobs:
       uses: denoland/setup-deno@v1
       with:
         deno-version: vx.x.x
+    - name: Install python dependencies
+      run: pip install -r scripts/requirements.txt
     - name: Generate output files
       run: deno run --allow-all scripts/generate.ts && python scripts/make_csv.py
     - name: Split branch name
