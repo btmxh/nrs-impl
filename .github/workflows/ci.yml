@@ -8,19 +8,27 @@ jobs:
     steps:
     - name: Checkout sources
       uses: actions/checkout@v3.5.0
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: vx.x.x
     - name: Install xmllint
-      runs: sudo apt updata && sudo apt install libxml2-utils
+      run: sudo apt updata && sudo apt install libxml2-utils
     - name: Create temp directory
-      runs: mkdir -p temp
+      run: mkdir -p temp
     - name: Retrieve schema file
-      runs: curl https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd -o temp/schema.xsd
+      run: curl https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd -o temp/schema.xsd
     - name: Validate the NRSML documents
-      runs: xmllint --schema temp/schema.xsd nrs/**/*.xml --noout
+      run: xmllint --schema temp/schema.xsd nrs/**/*.xml --noout
   validate:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout sources
       uses: actions/checkout@v3.5.0
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: vx.x.x
     # TODO: run the validator (which doesn't exist at the moment)
     # - name: Run the validator
     #   uses: actions/validator (this is what the AI suggests me)
@@ -29,8 +37,12 @@ jobs:
     needs: [lint, validate]
     - name: Checkout sources
       uses: actions/checkout@v3.5.0
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: vx.x.x
     - name: Generate output files
-      runs: deno --allow-all scripts/generate.ts && python scripts/make_csv.py
+      run: deno --allow-all scripts/generate.ts && python scripts/make_csv.py
     - name: Split branch name
       id: split
       run: echo "fragment=${BRANCH##*/}" >> $GITHUB_OUTPUT
