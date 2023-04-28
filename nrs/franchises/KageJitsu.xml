@@ -50,11 +50,15 @@
             <ehi /> <!-- humor -->
             <nei base="0.25" emotions="AP" /> <!-- plot -->
 
-            <meme strength="0.8" from="2023-03-01" to="2023-03-12">
-                <contributor id="A-MAL-48316" factor="0.9" />
+            <meme strength="0.8" from="2023-03-01" to="2023-03-12" />
+
+            <ref name="RemodernizationEra" _.strength="0.5">
+                <contributor id="A-MAL-48316" factor="0.7" />
+                <contributor id="M-VGMDB-AL-121695-1" factor="0.2" />
                 <!-- haha himeno sena 2023 -->
                 <contributor id="F-20221128T123502" factor="0.1" />
-            </meme>
+            </ref>
+
             <featureMusic id="M-VGMDB-AL-122851" />
 
             <!-- the 7 shadow art is meh but that individual saved the anime -->
