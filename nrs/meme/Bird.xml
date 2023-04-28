@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- limit tanuki LMFAOOOOOOOO -->
     <entry id="O-20230203T141812" title="The Bird">
@@ -7,5 +6,15 @@
         <bestGirl name="Procellariiformes" />
 
         <ref name="RemodernizationEra" _.strength="0.3" />
+    </entry>
+
+    <entry
+        id="M-VGMDB-AL-101608"
+        title="Bokura dake no Shudaika / Centimillimental"
+    >
+        <visual type="albumArt" base="0.1" unique="0.3" />
+        <entry id="$-1" title=" 僕らだけの主題歌">
+            <music base="0.4" />
+        </entry>
     </entry>
 </document>

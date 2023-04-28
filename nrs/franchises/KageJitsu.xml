@@ -32,12 +32,16 @@
             <!-- also she brought the anime a relatively light one-day PADS kekw -->
             <!-- but it kinda got out of hand :skull: -->
             <pads length="5" emotions="CU-0.9:MP-0.1">
-                <contributor id="A-MAL-48316" factor="0.95" />
+                <contributor id="A-MAL-48316" factor="0.85" />
+                <contributor id="F-20221128T123502" factor="0.1" />
                 <contributor id="M-VGMDB-AL-76149-1" factor="0.05" />
 
                 <validatorSuppress rules="dah-lone-pads" />
             </pads>
-            <aei base="0.8" emotions="CU-0.9:MP-0.1" />
+            <aei base="0.8" emotions="CU-0.9:MP-0.1">
+                <contributor id="A-MAL-48316" factor="0.9" />
+                <contributor id="F-20221128T123502" factor="0.1" />
+            </aei>
 
             <!-- i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
             <waifu waifu="Sherry Barnett" from="2023-03-01" to="2023-03-12" />
@@ -46,7 +50,11 @@
             <ehi /> <!-- humor -->
             <nei base="0.25" emotions="AP" /> <!-- plot -->
 
-            <meme strength="0.8" from="2023-03-01" to="2023-03-12" />
+            <meme strength="0.8" from="2023-03-01" to="2023-03-12">
+                <contributor id="A-MAL-48316" factor="0.9" />
+                <!-- haha himeno sena 2023 -->
+                <contributor id="F-20221128T123502" factor="0.1" />
+            </meme>
             <featureMusic id="M-VGMDB-AL-122851" />
 
             <!-- the 7 shadow art is meh but that individual saved the anime -->
