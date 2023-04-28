@@ -47,13 +47,6 @@
             <nei base="0.25" emotions="AP" /> <!-- plot -->
 
             <meme strength="0.8" from="2023-03-01" to="2023-03-12" />
-
-            <!-- sherryposting meme -->
-            <ref name="RemodernizationEra" _.strength="0.5">
-                <contributor id="A-MAL-48316" factor="0.8" />
-                <contributor id="M-VGMDB-AL-121695" factor="0.2" />
-            </ref>
-
             <featureMusic id="M-VGMDB-AL-122851" />
 
             <!-- the 7 shadow art is meh but that individual saved the anime -->
