@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- the good old days -->
     <!-- everything was in order -->
@@ -7,17 +6,24 @@
     <!-- no himeno sena, no culture-loving culture -->
     <entry id="F-VGMDB-2924" title="Hanayamata">
 
-        <entry id="A-MAL-21681" title="Hanayamata"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-21681"
+            title="Hanayamata"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="21681"/>
-                <ks id="8138"/>
-                <al id="20575"/>
-                <mal id="21681"/>
+                <adb id="21681" />
+                <ks id="8138" />
+                <al id="20575" />
+                <mal id="21681" />
             </source>
 
             <bestGirl name="Naru Sekiya" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <visual type="animated" base="0.4" unique="0.7" />
 
             <!-- first ep aei -->
@@ -25,12 +31,17 @@
             <featureMusic id="M-VGMDB-AL-46235-1" />
         </entry>
 
-        <entry id="M-VGMDB-AL-46235" title="Hana ha odore ya irohani ho / Team &quot;Hanayamata&quot;"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-46235"
+            title="Hana ha odore ya irohani ho / Team &quot;Hanayamata&quot;"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Hana wa Odore ya Irohaniho">
-                <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:10"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.6" />
             </entry>
         </entry>

@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- le meme artist (kano) has a very distinctive voice, -->
     <!-- making her literally the best singer in j-pop -->
@@ -8,39 +7,63 @@
     <!-- which is what a "kano impact" is -->
     <!-- (it will be represented as an NEI/AEI) -->
 
-    <entry id="M-VGMDB-AR-11666" title="Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AR-11666"
+        title="Kano"
+    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-95369" title="Bambino / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-95369"
+                title="Bambino / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.2" unique="0.5" />
 
-                <entry id="$-1" title="ハロ/ハワユ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-1"
+                    title="ハロ/ハワユ"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:48"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
                     <nei base="0.1" emotions="MP" />
                     <remix id="M-VGMDB-AL-37130-1" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-34411"
+                title="Aimai Bambina / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.35" unique="0.4" />
 
                 <entry id="$-6" title="インタビュア">
-                    <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:27"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
                     <nei base="0.15" emotions="CU" />
                 </entry>
 
-                <entry id="$-11" title="アイロニ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-11"
+                    title="アイロニ"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:10"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.175" />
                     <nei base="0.15" emotions="CU" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-42961"
+                title="Aru Machi no Hakuchuumu / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.25" unique="0.5" />
 
@@ -51,67 +74,105 @@
                     </score>
                 </regularImpact>
 
-                <entry id="$-6" title="メリーメリー álbum ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:35" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-6"
+                    title="メリーメリー álbum ver."
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:35"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
                     <nei base="0.25" emotions="MP" />
                 </entry>
 
                 <entry id="$-9" title="World on Color">
-                    <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:39"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.6" />
                     <nei base="0.2" emotions="MP" />
                     <osuSong personal="0.1" community="0.0" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-49423"
+                title="Good Hello / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.55" unique="0.45" />
 
-                <entry id="$-1" title="グッドナイトエヴリワン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="5:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-1"
+                    title="グッドナイトエヴリワン"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="5:49"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
                     <nei base="0.2" emotions="CU" />
                 </entry>
 
                 <entry id="$-8" title="decide">
-                    <musicConsumedProgress length="5:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="5:54"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
                     <nei base="0.25" emotions="CU" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-51254"
+                title="Stella-rium / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.5" unique="0.4" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
 
                 <entry id="$-1" title="Stella-rium">
-                    <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:08"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
                     <nei base="0.5" emotions="MP" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-54307"
+                title="Dear Brave / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.2" unique="0.6" />
                 <visual type="animatedMV" base="0.6" unique="0.4" />
 
-                <entry id="$-1" title="ディアブレイブ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-1"
+                    title="ディアブレイブ"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:19"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
                     <nei base="0.1" emotions="CU" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-57564" title="nowhere / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-57564"
+                title="nowhere / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
-                <entry id="$-1" title="Prima Stella"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-1"
+                    title="Prima Stella"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:26"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
                     <music base="0.5" />
                     <nei base="0.1" emotions="CU" />
@@ -119,27 +180,43 @@
 
                 <contains id="M-VGMDB-AL-51254-1" />
                 <contains id="M-VGMDB-AL-54307-1" />
-                <entry id="$-7" title="Walk This Way!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-7"
+                    title="Walk This Way!"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:08"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.4" />
                     <osuSong personal="0.6" community="0.3" />
                 </entry>
             </entry>
 
-            <entry id="M-VGMDB-AL-73516" title="one / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-73516"
+                title="one / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <contains id="M-VGMDB-AL-34411-11" />
             </entry>
 
-            <entry id="M-VGMDB-AL-89290" title="three / Kano"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="M-VGMDB-AL-89290"
+                title="three / Kano"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
-                <entry id="$-6" title="地球最後の告白を"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-6"
+                    title="地球最後の告白を"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
-                    <musicConsumedProgress length="4:33" /> <!-- impl_overridden -->
+                    <musicConsumedProgress
+                        length="4:33"
+                    /> <!-- impl_overridden -->
                     <music base="0.3" />
                     <nei base="0.1" emotions="CU" />
 
@@ -147,7 +224,10 @@
                 </entry>
             </entry>
 
-            <entry id="M-20220130T032649" title="Kimiiro Hanabi -album version-">
+            <entry
+                id="M-20220130T032649"
+                title="Kimiiro Hanabi -album version-"
+            >
                 <!-- from the album "Colorful Wonder Note", track number 8 -->
                 <!-- and yes this is from osugame too -->
 
@@ -188,8 +268,13 @@
 <!--            } -->
 <!--        } -->
 
-                <entry id="$-1" title="ハロ/ハワユ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:50" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-1"
+                    title="ハロ/ハワユ"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:50"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <!-- the original MV is for the mix version -->
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
                     <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
@@ -197,8 +282,13 @@
                     <nei base="0.125" emotions="MP" />
                 </entry>
 
-                <entry id="$-2" title="うたうたいのうた"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-2"
+                    title="うたうたいのうた"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="4:39"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.8" />
                     <nei base="0.15" emotions="MP" />
                 </entry>
@@ -206,30 +296,57 @@
                 <!-- the best kano song ever. period. -->
                 <!-- also the fourth ayumu-era theme song -->
                 <entry id="$-3" title="[It's not] World's end">
-                    <musicConsumedProgress length="5:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="5:36"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.5" />
                     <nei base="0.5" emotions="CU" />
-                    <ref name="KoikakeNEI" _.base="0.4" _.contribution="0.7" _.emotions="CU-0.8:MP-0.2" />
+                    <ref
+                        name="KoikakeNEI"
+                        _.base="0.4"
+                        _.contribution="0.7"
+                        _.emotions="CU-0.8:MP-0.2"
+                    />
                 </entry>
 
-                <entry id="$-4" title="「ねぇ。」"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="6:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-4"
+                    title="「ねぇ。」"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="6:23"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
                     <nei base="0.25" emotions="CU" />
                 </entry>
 
-                <entry id="$-5" title="朝焼け、君の唄。"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="5:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-5"
+                    title="朝焼け、君の唄。"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="5:08"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <music base="0.2" />
                     <nei base="0.2" emotions="MP" />
                 </entry>
 
-                <entry id="$-6" title="サクラノ前夜"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                    <musicConsumedProgress length="6:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="$-6"
+                    title="サクラノ前夜"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <musicConsumedProgress
+                        length="6:00"
+                    /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                     <visual type="animatedMV" base="0.35" unique="0.6" />
                     <music base="0.7" />
                     <nei base="0.25" emotions="CU" />
-                    <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="CU-0.5:MP-0.4:CP-0.1" />
+                    <ref
+                        name="KoikakeNEI"
+                        _.base="0.5"
+                        _.contribution="0.8"
+                        _.emotions="CU-0.5:MP-0.4:CP-0.1"
+                    />
                 </entry>
             </entry>
             <!-- after this, almost all of kano's songs suck -->
@@ -265,7 +382,10 @@
             <musicConsumedProgress length="4:17" />
         </entry>
 
-        <entry id="M-20221202T202421" title="Natsu no Owari, Koi no Hajimari (Kano)">
+        <entry
+            id="M-20221202T202421"
+            title="Natsu no Owari, Koi no Hajimari (Kano)"
+        >
             <validatorSuppress rules="dah-entry-no-consumed" />
             <music base="0.65" />
             <osuSong personal="0.0" community="0.0" />

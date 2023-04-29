@@ -1,39 +1,59 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <!-- when you are having a bad day, remember that rikekoi exists -->
 <document>
-    <entry id="F-VGMDB-9552" title="Rikei ga Koi ni Ochita no de Shoumei Shite Mita.">
+    <entry
+        id="F-VGMDB-9552"
+        title="Rikei ga Koi ni Ochita no de Shoumei Shite Mita."
+    >
 
         <!-- cucked by magireco lmfao -->
         <!-- i'm impressed that they survived tho -->
-        <entry id="A-MAL-38992" title="Rikei ga Koi ni Ochita no de Shoumei shitemita."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-38992"
+            title="Rikei ga Koi ni Ochita no de Shoumei shitemita."
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="38992"/>
-                <ks id="42297"/>
-                <al id="107067"/>
-                <mal id="38992"/>
+                <adb id="38992" />
+                <ks id="42297" />
+                <al id="107067" />
+                <mal id="38992" />
             </source>
 
-            <bestGirl name="Kotonoha Kanade" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Kotonoha Kanade"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="0.75" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.75"
+                episodes="12"
+            />
             <visual type="animated" base="0.25" unique="0.5" />
             <killedBy id="F-VGMDB-1945" potential="0.5" effect="0.75" />
         </entry>
 
         <!-- then got fucked by rst's idol dystopia lol -->
         <!-- rip -->
-        <entry id="A-MAL-43470" title="Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-43470"
+            title="Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="43470"/>
-                <ks id="43681"/>
-                <al id="125124"/>
-                <mal id="43470"/>
+                <adb id="43470" />
+                <ks id="43681" />
+                <al id="125124" />
+                <mal id="43470" />
             </source>
 
-            <bestGirl name="Kotonoha Kanade" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Kotonoha Kanade"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.5"
+                episodes="2"
+            />
             <dropped />
             <visual type="animated" base="0.25" unique="0.5" />
             <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.75" />

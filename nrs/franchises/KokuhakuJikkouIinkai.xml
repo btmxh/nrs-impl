@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- holy fuck how many of these songs have been heard by me in osu! bro -->
     <!-- also i hate himeno sena -->
@@ -13,27 +12,40 @@
         <!-- wtf they even made an eroge???? -->
         <!-- https://vndb.org/v17516 -->
 
-        <entry id="M-VGMDB-AR-14655" title="HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AR-14655"
+            title="HoneyWorks"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- these ppl are responsible for so many osu! songs wtf -->
 
             <!-- * with honeyworks -->
             <contains factor="inst + image * 0.5">
-                <entry id="M-VGMDB-AL-53266" title="Pride Kakumei / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-53266"
+                    title="Pride Kakumei / CHiCO with HoneyWorks"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="Pride Kakumei">
-                        <musicConsumedProgress length="3:55" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="3:55"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
                         <osuSong personal="0.5" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-50202" title="Ai no Scenario / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-50202"
+                    title="Ai no Scenario / CHiCO with HoneyWorks"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="Ai no Scenario">
-                        <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:18"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
                         <!-- monstrata's "海色 vs. アイのシナリオ" :skull: -->
                         <osuSong personal="0.6" community="0.2" />
@@ -41,44 +53,64 @@
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-61577" title="Senpai. / HoneyWorks meets TrySail"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-61577"
+                    title="Senpai. / HoneyWorks meets TrySail"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.1" unique="0.3" />
                     <entry id="$-1" title="Senpai.">
-                        <musicConsumedProgress length="5:14" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="5:14"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.5" />
                         <osuSong personal="0.6" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-73678" title="Nostalgic Rainfall / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-73678"
+                    title="Nostalgic Rainfall / CHiCO with HoneyWorks"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="ノスタルジックレインフォール">
-                        <musicConsumedProgress length="3:58" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="3:58"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.3" />
                         <osuSong personal="0.3" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-74820" title="Watashi wo Someru I no Uta / CHiCO with HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-74820"
+                    title="Watashi wo Someru I no Uta / CHiCO with HoneyWorks"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="Watashi Idol Sengen">
-                        <musicConsumedProgress length="4:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:27"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
                         <osuSong personal="0.8" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-54636" title="Kotoba no Iranai Yakusoku/Akatsukizukuyo / sana/HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-54636"
+                    title="Kotoba no Iranai Yakusoku/Akatsukizukuyo / sana/HoneyWorks"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.3" unique="0.5" />
                     <entry id="$-2" title="Akatsukizukuyo">
-                        <musicConsumedProgress length="4:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:42"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.45" />
                         <osuSong personal="0.5" community="0.5" />
                         <!-- [taeyang's extra] -->
@@ -86,21 +118,31 @@
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-46039" title="Sekai wa Koi ni Ochiteiru / CHiCO with HoneyWorks [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-46039"
+                    title="Sekai wa Koi ni Ochiteiru / CHiCO with HoneyWorks [Limited Edition]"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.4" unique="0.4" />
                     <entry id="$-2" title="color">
-                        <musicConsumedProgress length="4:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:00"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.3" />
                         <osuSong personal="0.4" community="0.0" />
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-92983" title="Kessen Spirit / CHiCO with HoneyWorks [CHiCO with HoneyWorks Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-92983"
+                    title="Kessen Spirit / CHiCO with HoneyWorks [CHiCO with HoneyWorks Edition]"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="決戦スピリット">
-                        <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:32"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.5" />
                         <osuSong personal="0.3" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
@@ -109,17 +151,25 @@
             </contains>
 
             <contains factor="inst + image">
-                <entry id="M-VGMDB-AL-80437" title="Zutto Mae kara Suki deshita. / HoneyWorks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-80437"
+                    title="Zutto Mae kara Suki deshita. / HoneyWorks"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.3" unique="0.5" />
                     <entry id="$-1" title="Yakimochi no Kotae">
-                        <musicConsumedProgress length="3:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="3:37"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.5" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
 
-                <entry id="M-20221225T010305" title="Boku Ja Dame Desu ka? ~Kokuhaku Jikkou Iinkai Character Song Collection~">
+                <entry
+                    id="M-20221225T010305"
+                    title="Boku Ja Dame Desu ka? ~Kokuhaku Jikkou Iinkai Character Song Collection~"
+                >
                     <!-- https://lovecommittee.fandom.com/wiki/Boku_Ja_Dame_Desu_ka%3F_~Kokuhaku_Jikkou_Iinkai_Character_Song_Collection~ -->
 
                     <visual type="albumArt" base="0.3" unique="0.5" />
@@ -148,31 +198,46 @@
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-91835" title="Sukisugite Yabai. ~Kokuhaku Jikkou Iinkai Character Song Collection~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-91835"
+                    title="Sukisugite Yabai. ~Kokuhaku Jikkou Iinkai Character Song Collection~"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.3" unique="0.5" />
 
                     <entry id="$-4" title="Watashi no Tenshi feat. Narumi Sena">
-                        <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:22"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.45" />
                         <osuSong personal="0.3" community="0.1" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
 
-                <entry id="M-VGMDB-AL-120871" title="Docchi no kiss ka, Erabe yo. / LIP×LIP [COMPLETE BOX]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <entry
+                    id="M-VGMDB-AL-120871"
+                    title="Docchi no kiss ka, Erabe yo. / LIP×LIP [COMPLETE BOX]"
+                > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
                     <visual type="albumArt" base="0.15" unique="0.5" />
 
                     <entry id="$-5" title="ノンファンタジー">
-                        <musicConsumedProgress length="4:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                        <musicConsumedProgress
+                            length="4:03"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.3" />
                         <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
 
-                    <entry id="$-10" title="小さなライオン feat.南(ふてニャン/CV:豊永利行)">
-                        <musicConsumedProgress length="4:03" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                    <entry
+                        id="$-10"
+                        title="小さなライオン feat.南(ふてニャン/CV:豊永利行)"
+                    >
+                        <musicConsumedProgress
+                            length="4:03"
+                        /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                         <music base="0.4" />
                         <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
@@ -181,61 +246,87 @@
             </contains>
         </entry>
 
-        <entry id="A-MAL-31245" title="Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-31245"
+            title="Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="31245"/>
-                <ks id="11204"/>
-                <al id="21296"/>
-                <mal id="31245"/>
+                <adb id="31245" />
+                <ks id="11204" />
+                <al id="21296" />
+                <mal id="31245" />
             </source>
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:03:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="1"
+                episodeDuration="1:03:00"
+            />
             <nei base="0.5" emotions="AP" />
             <nei base="0.2" emotions="MP" />
         </entry>
 
-        <entry id="A-MAL-33036" title="Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-33036"
+            title="Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="33036"/>
-                <ks id="12001"/>
-                <al id="21757"/>
-                <mal id="33036"/>
+                <adb id="33036" />
+                <ks id="12001" />
+                <al id="21757" />
+                <mal id="33036" />
             </source>
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:03:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="1"
+                episodeDuration="1:03:00"
+            />
             <nei base="0.2" emotions="AP" />
             <aei base="0.1" emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-61577-1" />
             <featureMusic id="M-20221225T015456" />
         </entry>
 
-        <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-36220"
+            title="Itsudatte Bokura no Koi wa 10 cm Datta."
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="36220"/>
-                <ks id="13788"/>
-                <al id="98977"/>
-                <mal id="36220"/>
+                <adb id="36220" />
+                <ks id="13788" />
+                <al id="98977" />
+                <mal id="36220" />
             </source>
 
             <bestGirl name="Miou Aida" />
             <visual type="animated" base="0.4" unique="0.7" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="6"
+            />
             <nei base="0.2" emotions="AP" />
             <!-- classic atm farm idk -->
             <aei base="0.3" emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-120871-5" />
         </entry>
 
-        <entry id="A-MAL-49692" title="Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-49692"
+            title="Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="49692"/>
-                <ks id="45031"/>
-                <al id="138459"/>
-                <mal id="49692"/>
+                <adb id="49692" />
+                <ks id="45031" />
+                <al id="138459" />
+                <mal id="49692" />
             </source>
 
             <!-- who is best girl gyze? -->
@@ -252,7 +343,11 @@
             <bestGirl name="Hiyori Suzumi" />
 
             <!-- speedrun this in one night lol -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <visual type="animated" base="0.4" unique="0.6" />
 
             <!-- main girl's friend betraying her was somewhat unexpected ig -->

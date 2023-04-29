@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-20221122T195753" title="Clover Day's">
 
@@ -10,7 +9,11 @@
             <!-- i think this is the best char design vn ever idk -->
             <!-- so many routes to choose lol -->
 
-            <consumedProgress status="Temporarily On-Hold" boredom="1.0" duration="3:00:00" />
+            <consumedProgress
+                status="Temporarily On-Hold"
+                boredom="1.0"
+                duration="3:00:00"
+            />
             <visual type="visualNovel" base="0.6" unique="0.4" />
             <nei base="0.5" emotions="MP" />
             <nei base="0.25" emotions="AP" />
@@ -18,12 +21,17 @@
             <killedBy id="F-20221128T123502" potential="0.5" effect="1.0" />
         </entry>
 
-        <entry id="M-VGMDB-AL-45544" title="Clover Day's ORIGINAL SOUNDTRACKS"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-45544"
+            title="Clover Day's ORIGINAL SOUNDTRACKS"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-40" title="Clover Day's full ver.">
-                <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:32"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
                 <osuSong personal="0.8" community="0.2" />
             </entry>

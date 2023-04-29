@@ -1,45 +1,72 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-2633" title="Sword Art Online">
 
-        <entry id="A-MAL-11757" title="Sword Art Online"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-11757"
+            title="Sword Art Online"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="11757"/>
-                <ks id="6589"/>
-                <al id="11757"/>
-                <mal id="11757"/>
+                <adb id="11757" />
+                <ks id="6589" />
+                <al id="11757" />
+                <mal id="11757" />
             </source>
 
-            <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Asuna Yuuki"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <featureMusic id="M-VGMDB-AL-33537-1" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="25" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="25"
+            />
             <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
-        <entry id="A-MAL-21881" title="Sword Art Online II"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-21881"
+            title="Sword Art Online II"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="21881"/>
-                <ks id="8174"/>
-                <al id="20594"/>
-                <mal id="21881"/>
+                <adb id="21881" />
+                <ks id="8174" />
+                <al id="20594" />
+                <mal id="21881" />
             </source>
 
-            <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
+            <bestGirl
+                name="Asuna Yuuki"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="24"
+            />
             <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
-        <entry id="A-MAL-31765" title="Sword Art Online Movie: Ordinal Scale"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-31765"
+            title="Sword Art Online Movie: Ordinal Scale"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="31765"/>
-                <ks id="11423"/>
-                <al id="21403"/>
-                <mal id="31765"/>
+                <adb id="31765" />
+                <ks id="11423" />
+                <al id="21403" />
+                <mal id="31765" />
             </source>
 
-            <bestGirl name="Asuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="0.75" episodes="1" episodeDuration="1:59:00" />
+            <bestGirl
+                name="Asuna Yuuki"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.75"
+                episodes="1"
+                episodeDuration="1:59:00"
+            />
             <visual type="animated" base="0.6" unique="0.25" />
         </entry>
 

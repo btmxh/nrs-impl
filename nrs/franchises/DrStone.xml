@@ -1,18 +1,26 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-9159" title="Dr. Stone">
         <!-- bac si da -->
 
-        <entry id="A-MAL-38691" title="Dr. Stone"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-38691"
+            title="Dr. Stone"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="38691"/>
-                <ks id="42080"/>
-                <al id="105333"/>
-                <mal id="38691"/>
+                <adb id="38691" />
+                <ks id="42080" />
+                <al id="105333" />
+                <mal id="38691" />
             </source>
-            <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
+            <bestGirl
+                name="Yuzuriha Ogawa"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="24"
+            />
             <visual type="animated" base="0.3" unique="0.75" />
             <!-- "plot is good" -->
             <aei base="0.25" emotions="AP" />
@@ -21,39 +29,63 @@
 
         <contains id="M-VGMDB-AL-87927-1" />
 
-        <entry id="A-MAL-40852" title="Dr. Stone: Stone Wars"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-40852"
+            title="Dr. Stone: Stone Wars"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="40852"/>
-                <ks id="42867"/>
-                <al id="113936"/>
-                <mal id="40852"/>
+                <adb id="40852" />
+                <ks id="42867" />
+                <al id="113936" />
+                <mal id="40852" />
             </source>
-            <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
+            <bestGirl
+                name="Yuzuriha Ogawa"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="11"
+            />
             <visual type="animated" base="0.3" unique="0.75" />
             <aei base="0.1" emotions="AP" />
         </entry>
 
-        <entry id="A-MAL-50612" title="Dr. Stone: Ryuusui"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-50612"
+            title="Dr. Stone: Ryuusui"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="50612"/>
-                <ks id="45615"/>
-                <al id="142876"/>
-                <mal id="50612"/>
+                <adb id="50612" />
+                <ks id="45615" />
+                <al id="142876" />
+                <mal id="50612" />
             </source>
-            <bestGirl name="Yuzuriha Ogawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="54:00" />
+            <bestGirl
+                name="Yuzuriha Ogawa"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="1"
+                episodeDuration="54:00"
+            />
             <visual type="animated" base="0.3" unique="0.75" />
             <nei base="0.6" emotions="AP" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-87927" title="Good Morning World! / BURNOUT SYNDROMES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-87927"
+        title="Good Morning World! / BURNOUT SYNDROMES"
+    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <visual type="albumArt" base="0.15" unique="0.2" />
 
         <entry id="$-1" title="Good Morning World!">
-            <musicConsumedProgress length="4:09" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress
+                length="4:09"
+            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <music base="0.25" />
             <osuSong personal="0.1" community="0.0" />
         </entry>

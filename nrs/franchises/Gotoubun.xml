@@ -1,49 +1,71 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-9342" title="Gotoubun no Hanayome">
 
-        <entry id="A-MAL-38101" title="5-toubun no Hanayome"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-38101"
+            title="5-toubun no Hanayome"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="38101"/>
-                <ks id="41966"/>
-                <al id="103572"/>
-                <mal id="38101"/>
+                <adb id="38101" />
+                <ks id="41966" />
+                <al id="103572" />
+                <mal id="38101" />
             </source>
 
             <!-- i miss yuyuyu's idke memes -->
-            <bestGirl name="Itsuki Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Itsuki Nakano"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <!-- fuwa fuwa doki doki -->
             <aei base="0.5" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-82284" />
         </entry>
 
-        <entry id="A-MAL-39783" title="5-toubun no Hanayome ∬"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-39783"
+            title="5-toubun no Hanayome ∬"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="39783"/>
-                <ks id="42324"/>
-                <al id="109261"/>
-                <mal id="39783"/>
+                <adb id="39783" />
+                <ks id="42324" />
+                <al id="109261" />
+                <mal id="39783" />
             </source>
 
             <!-- lmfao "muh yuyuyu idc" -->
-            <bestGirl name="Itsuki Nakano" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Itsuki Nakano"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <!-- at first I doubted that S2 will be as good as S1 -->
             <!-- but it actually is -->
             <aei base="0.25" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.5" />
         </entry>
 
-        <entry id="M-VGMDB-AL-82284" title="Gotoubun no Kimochi / Nakano-ke no Itsutsugo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-82284"
+            title="Gotoubun no Kimochi / Nakano-ke no Itsutsugo"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.5" unique="0.5" />
 
             <entry id="$-1" title="Gotoubun no Kimochi">
-                <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:42"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
         </entry>

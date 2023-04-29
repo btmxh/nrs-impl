@@ -1,14 +1,18 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-4000" title="Gakkougurashi!">
 
-        <entry id="M-VGMDB-AL-52993" title="Friend Shitai / Gakuen Seikatsubu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-52993"
+            title="Friend Shitai / Gakuen Seikatsubu"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.65" unique="0.3" />
 
             <entry id="$-1" title="Friend Shitai">
-                <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:38"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
                 <osuSong personal="0.5" community="0.0" />
             </entry>
@@ -22,25 +26,35 @@
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-53719" title="TV Anime &quot;Gakkou Gurashi!&quot; Character Song 4 / Miki Naoki (CV. Rie Takahashi) &amp; Kurumi Ebisuzawa (CV. Ari Ozawa)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-53719"
+            title="TV Anime &quot;Gakkou Gurashi!&quot; Character Song 4 / Miki Naoki (CV. Rie Takahashi) &amp; Kurumi Ebisuzawa (CV. Ari Ozawa)"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="アンハッピーエンドワールド">
-                <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:26"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
             </entry>
         </entry>
 
-        <entry id="A-MAL-24765" title="Gakkougurashi!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-24765"
+            title="Gakkougurashi!"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="24765"/>
-                <ks id="8644"/>
-                <al id="20754"/>
-                <mal id="24765"/>
+                <adb id="24765" />
+                <ks id="8644" />
+                <al id="20754" />
+                <mal id="24765" />
             </source>
 
-            <bestGirl name="Megumi Sakura" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Megumi Sakura"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- rip Megu-nee -->
             <cry emotions="CU" />
             <meme strength="0.2" length="6" />
@@ -48,7 +62,11 @@
 
             <visual type="animated" base="0.6" unique="0.25" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
         </entry>
     </entry>
 </document>

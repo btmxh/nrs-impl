@@ -1,14 +1,16 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-10006" title="Tensai Ouji no Akaji Kokka Saiseijutsu">
 
-        <entry id="A-MAL-47159" title="Tensai Ouji no Akaji Kokka Saisei Jutsu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-47159"
+            title="Tensai Ouji no Akaji Kokka Saisei Jutsu"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="47159"/>
-                <ks id="44020"/>
-                <al id="129190"/>
-                <mal id="47159"/>
+                <adb id="47159" />
+                <ks id="44020" />
+                <al id="129190" />
+                <mal id="47159" />
             </source>
             <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
@@ -17,7 +19,11 @@
             <!-- ngl main girl and mc relationship is wholesome af -->
             <nei base="0.5" emotions="MP" />
 
-            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="12"
+            />
             <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- cool plot ig -->
@@ -29,12 +35,17 @@
             <killedBy id="F-VGMDB-4499" potential="0.05" effect="0.2" />
         </entry>
 
-        <entry id="M-VGMDB-AL-116264" title="LEVEL / yanaginagi × THE SIXTH LIE"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-116264"
+            title="LEVEL / yanaginagi × THE SIXTH LIE"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="LEVEL">
-                <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:13"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
             </entry>
         </entry>

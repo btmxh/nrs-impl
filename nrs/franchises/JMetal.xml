@@ -1,14 +1,21 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
-    <entry id="M-VGMDB-AR-8482" title="Foreground Eclipse"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AR-8482"
+        title="Foreground Eclipse"
+    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
-        <entry id="M-VGMDB-AL-97601" title="Truths, Ironies, The Secret Lyrics"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-97601"
+            title="Truths, Ironies, The Secret Lyrics"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.15" unique="0.3" />
 
             <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
-                <musicConsumedProgress length="3:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:37"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
                 <regularImpact>
                     <score>
@@ -42,37 +49,60 @@
             </score>
         </regularImpact>
 
-        <entry id="M-VGMDB-AL-43320" title="Stories That Last Through The Sleepless Nights"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-43320"
+            title="Stories That Last Through The Sleepless Nights"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <contains id="M-VGMDB-AL-97601-1" />
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry id="$-4" title="Wandering, Never Wondering (There Exists A Shade)">
-                <musicConsumedProgress length="4:33" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-4"
+                title="Wandering, Never Wondering (There Exists A Shade)"
+            >
+                <musicConsumedProgress
+                    length="4:33"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
             </entry>
 
             <entry id="$-7" title="From Under Cover (Caught Up In A Love Song)">
-                <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:27"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
             </entry>
 
             <!-- the second ayumu-era theme song -->
             <entry id="$-8" title="Storytellers">
-                <musicConsumedProgress length="3:57" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:57"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
 
-                <ref name="KoikakeNEI" _.base="0.8" _.contribution="0.75" _.emotions="AU-0.5:MP-0.5" />
+                <ref
+                    name="KoikakeNEI"
+                    _.base="0.8"
+                    _.contribution="0.75"
+                    _.emotions="AU-0.5:MP-0.5"
+                />
             </entry>
         </entry>
     </entry>
 
     <entry id="M-20221224T220452" title="Release Hallucination">
 
-        <entry id="M-VGMDB-AL-80229" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-80229"
+            title="Chronostasis"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.2" unique="0.4" />
 
-            <entry id="$-1" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Chronostasis"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
                 <musicConsumedProgress length="6:22" /> <!-- impl_overridden -->
                 <music base="0.4" />

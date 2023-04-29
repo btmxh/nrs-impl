@@ -1,20 +1,28 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-7166" title="Tate no Yuusha no Nariagari">
 
-        <entry id="A-MAL-35790" title="Tate no Yuusha no Nariagari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-35790"
+            title="Tate no Yuusha no Nariagari"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="35790"/>
-                <ks id="13593"/>
-                <al id="99263"/>
-                <mal id="35790"/>
+                <adb id="35790" />
+                <ks id="13593" />
+                <al id="99263" />
+                <mal id="35790" />
             </source>
             <!-- This became popular thanks to Reddit. -->
             <!-- And yes, it's watched in the Reddit-era -->
-            <bestGirl name="Raphtalia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Raphtalia"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="25" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="25"
+            />
 
             <!-- Anger when MC is treated unfairly (like Oregairu's 8man) -->
             <nei base="0.5" emotions="AU" />
@@ -22,16 +30,25 @@
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
 
-        <entry id="A-MAL-40356" title="Tate no Yuusha no Nariagari Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-40356"
+            title="Tate no Yuusha no Nariagari Season 2"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="40356"/>
-                <ks id="42530"/>
-                <al id="111321"/>
-                <mal id="40356"/>
+                <adb id="40356" />
+                <ks id="42530" />
+                <al id="111321" />
+                <mal id="40356" />
             </source>
-            <bestGirl name="Raphtalia" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Raphtalia"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="3" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.7"
+                episodes="3"
+            />
             <dropped />
             <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.75" />
             <visual type="animated" base="0.4" unique="0.2" />

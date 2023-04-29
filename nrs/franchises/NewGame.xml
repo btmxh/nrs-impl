@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-4168" title="NEW GAME!">
 
@@ -20,33 +19,49 @@
             <contributor id="A-MAL-13759" factor="0.5" />
         </interestField>
 
-        <entry id="A-MAL-31953" title="New Game!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-31953"
+            title="New Game!"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="31953"/>
-                <ks id="11467"/>
-                <al id="21455"/>
-                <mal id="31953"/>
+                <adb id="31953" />
+                <ks id="11467" />
+                <al id="21455" />
+                <mal id="31953" />
             </source>
             <!-- idk who is better, aoba or yun, so one girl each season -->
             <bestGirl name="Iijima Yun" /> <!-- impl_overridden -->
 
-            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="12"
+            />
             <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-58627-1" />
         </entry>
 
-        <entry id="A-MAL-34914" title="New Game!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-34914"
+            title="New Game!!"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="34914"/>
-                <ks id="13236"/>
-                <al id="98292"/>
-                <mal id="34914"/>
+                <adb id="34914" />
+                <ks id="13236" />
+                <al id="98292" />
+                <mal id="34914" />
             </source>
             <!-- idk who is better, aoba or yun, so one girl each season -->
-            <bestGirl name="Aoba Suzukaze" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Aoba Suzukaze"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="12"
+            />
             <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-68225-1" />
@@ -61,21 +76,31 @@
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-58627" title="Now Loading!!!! / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-58627"
+            title="Now Loading!!!! / fourfolium"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="Now Loading!!!!">
-                <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:13"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-68225" title="STEP by STEP UP↑↑↑↑ / fourfolium"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-68225"
+            title="STEP by STEP UP↑↑↑↑ / fourfolium"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="STEP by STEP UP↑↑↑↑">
-                <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:12"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <!-- mankai step by step -->
                 <!-- this song is legendary af -->
                 <music base="0.5" />
