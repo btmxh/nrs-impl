@@ -1,0 +1,52 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="F-VGMDB-3124" title="SHIROBAKO">
+        <entry id="A-MAL-25835" title="Shirobako">
+            <source>
+                <adb id="10779" />
+                <al id="20812" />
+                <ks id="8698" />
+                <mal id="25835" />
+            </source>
+            <!-- mid tbh -->
+
+            <!-- asmr girl -->
+            <bestGirl name="Ema Yasuhara" />
+
+            <visual type="animated" base="0.5" unique="0.3" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="24"
+            />
+
+            <!-- there are some memes like "spreading misinformation" etc. etc. -->
+            <nei base="0.3" emotions="AP" />
+
+        </entry>
+
+        <entry id="A-MAL-37804" title="Shirobako Movie">
+            <source>
+                <adb id="14061" />
+                <al id="101574" />
+                <ks id="41255" />
+                <mal id="37804" />
+            </source>
+
+            <!-- asmr girl -->
+            <bestGirl name="Ema Yasuhara" />
+
+            <visual type="animated" base="0.5" unique="0.3" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="1"
+                episodeDuration="2:00:00"
+            />
+
+            <!-- bla bla bla post-nozsism cultural renaissance -->
+            <aei base="0.5" emotions="CP" />
+        </entry>
+    </entry>
+</document>
