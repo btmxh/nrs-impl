@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-7481" title="Bokutachi wa Benkyou ga Dekinai">
 
-        <entry
-            id="A-MAL-38186"
-            title="Bokutachi wa Benkyou ga Dekinai"
-        >
+        <entry id="A-MAL-38186" title="Bokutachi wa Benkyou ga Dekinai">
             <source>
                 <adb id="38186" />
                 <ks id="41956" />
@@ -13,9 +10,7 @@
                 <mal id="38186" />
             </source>
 
-            <bestGirl
-                name="Mafuyu Kirisu"
-            />
+            <bestGirl name="Mafuyu Kirisu" />
             <!-- le bang bang zenryoku i love you girl lol -->
             <!-- "this is a little bit better than gotoubun" -->
             <aei base="0.75" emotions="AP" />
@@ -28,10 +23,7 @@
             <featureMusic id="M-VGMDB-AL-85537-1" />
         </entry>
 
-        <entry
-            id="A-MAL-40004"
-            title="Bokutachi wa Benkyou ga Dekinai!"
-        >
+        <entry id="A-MAL-40004" title="Bokutachi wa Benkyou ga Dekinai!">
             <source>
                 <adb id="40004" />
                 <ks id="42414" />
@@ -39,9 +31,7 @@
                 <mal id="40004" />
             </source>
 
-            <bestGirl
-                name="Fumino Furuhashi"
-            />
+            <bestGirl name="Fumino Furuhashi" />
             <!-- va jokes aside, fumino is best girl -->
 
             <!-- "this is a little bit better than gotoubun" lmfao copy paste error -->
@@ -64,25 +54,18 @@
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Seishun Seminar">
-                <musicConsumedProgress
-                    length="4:15"
-                />
+                <musicConsumedProgress length="4:15" />
                 <music base="0.25" />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-88884"
-            title="Can now, Can now / Study"
-        >
+        <entry id="M-VGMDB-AL-88884" title="Can now, Can now / Study">
 
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Can now, Can now">
-                <musicConsumedProgress
-                    length="4:02"
-                />
+                <musicConsumedProgress length="4:02" />
                 <music base="0.25" />
                 <osuSong personal="0.1" community="0.0" />
             </entry>

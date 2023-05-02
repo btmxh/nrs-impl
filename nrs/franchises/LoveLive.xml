@@ -10,20 +10,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 <document>
     <entry id="F-VGMDB-2588" title="Love Live!">
 
-        <entry
-            id="M-VGMDB-AL-34051"
-            title="Snow halation / μ's"
-        >
+        <entry id="M-VGMDB-AL-34051" title="Snow halation / μ's">
 
             <visual type="albumArt" base="0.1" unique="0.5" />
 
-            <entry
-                id="$-1"
-                title="Snow halation"
-            >
-                <musicConsumedProgress
-                    length="4:17"
-                />
+            <entry id="$-1" title="Snow halation">
+                <musicConsumedProgress length="4:17" />
                 <music base="0.25" />
                 <meme strength="0.1" length="6" />
                 <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
@@ -31,64 +23,37 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-36547"
-            title="Bokura wa Ima no Naka de / μ's"
-        >
+        <entry id="M-VGMDB-AL-36547" title="Bokura wa Ima no Naka de / μ's">
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Bokura wa Ima no Naka de"
-            >
-                <musicConsumedProgress
-                    length="4:36"
-                />
+            <entry id="$-1" title="Bokura wa Ima no Naka de">
+                <musicConsumedProgress length="4:36" />
                 <music base="0.3" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-75504"
-            title="Music S.T.A.R.T!! / μ's"
-        >
+        <entry id="M-VGMDB-AL-75504" title="Music S.T.A.R.T!! / μ's">
 
             <visual type="albumArt" base="0.2" unique="0.4" />
 
-            <entry
-                id="$-2"
-                title="LOVELESS WORLD"
-            >
-                <musicConsumedProgress
-                    length="5:18"
-                />
+            <entry id="$-2" title="LOVELESS WORLD">
+                <musicConsumedProgress length="5:18" />
                 <music base="0.4" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-93532"
-            title="A song for You! You? You!! / μ's"
-        >
+        <entry id="M-VGMDB-AL-93532" title="A song for You! You? You!! / μ's">
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="A song for You! You? You!!"
-            >
-                <musicConsumedProgress
-                    length="5:53"
-                />
+            <entry id="$-1" title="A song for You! You? You!!">
+                <musicConsumedProgress length="5:53" />
                 <music base="0.5" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AR-13719"
-            title="μ's"
-        >
+        <entry id="M-VGMDB-AR-13719" title="μ's">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-34051" />
@@ -98,20 +63,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </contains>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-58147"
-            title="Aozora Jumping Heart / Aqours"
-        >
+        <entry id="M-VGMDB-AL-58147" title="Aozora Jumping Heart / Aqours">
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Aozora Jumping Heart"
-            >
-                <musicConsumedProgress
-                    length="4:44"
-                />
+            <entry id="$-1" title="Aozora Jumping Heart">
+                <musicConsumedProgress length="4:44" />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -123,13 +80,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Kimeta yo Hand in Hand"
-            >
-                <musicConsumedProgress
-                    length="4:26"
-                />
+            <entry id="$-1" title="Kimeta yo Hand in Hand">
+                <musicConsumedProgress length="4:26" />
                 <music base="0.35" />
             </entry>
         </entry>
@@ -142,9 +94,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Yuuki wa Doko ni? Kimi no Mune ni!">
-                <musicConsumedProgress
-                    length="4:44"
-                />
+                <musicConsumedProgress length="4:44" />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -157,39 +107,27 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-2" title="MIRACLE WAVE">
-                <musicConsumedProgress
-                    length="4:08"
-                />
+                <musicConsumedProgress length="4:08" />
                 <music base="0.3" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78378"
-            title="Thank you, FRIENDS!! / Aqours"
-        >
+        <entry id="M-VGMDB-AL-78378" title="Thank you, FRIENDS!! / Aqours">
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Thank you, FRIENDS!!">
-                <musicConsumedProgress
-                    length="6:23"
-                />
+                <musicConsumedProgress length="6:23" />
                 <music base="0.35" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-87199"
-            title="Mitaiken HORIZON / Aqours"
-        >
+        <entry id="M-VGMDB-AL-87199" title="Mitaiken HORIZON / Aqours">
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Mitaiken HORIZON">
-                <musicConsumedProgress
-                    length="5:19"
-                />
+                <musicConsumedProgress length="5:19" />
                 <music base="0.45" />
             </entry>
         </entry>
@@ -199,22 +137,14 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             title="Awaken the power / Saint Aqours Snow"
         >
             <visual type="albumArt" base="0.25" unique="0.4" />
-            <entry
-                id="$-3"
-                title="DROPOUT!?"
-            >
-                <musicConsumedProgress
-                    length="3:56"
-                />
+            <entry id="$-3" title="DROPOUT!?">
+                <musicConsumedProgress length="3:56" />
                 <music base="0.4" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AR-17153"
-            title="Aqours"
-        >
+        <entry id="M-VGMDB-AR-17153" title="Aqours">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-58147" />
@@ -234,9 +164,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Beginner's Sailing">
-                <musicConsumedProgress
-                    length="4:47"
-                />
+                <musicConsumedProgress length="4:47" />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -249,9 +177,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="Nijiiro Passions!">
-                <musicConsumedProgress
-                    length="4:15"
-                />
+                <musicConsumedProgress length="4:15" />
                 <music base="0.3" />
             </entry>
         </entry>
@@ -264,17 +190,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="NEO SKY, NEO MAP!">
-                <musicConsumedProgress
-                    length="4:38"
-                />
+                <musicConsumedProgress length="4:38" />
                 <music base="0.65" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AR-29922"
-            title="Nijigasaki High School Idol Club"
-        >
+        <entry id="M-VGMDB-AR-29922" title="Nijigasaki High School Idol Club">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-102276" />
@@ -293,43 +214,23 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="TOKIMEKI Runners"
-            >
-                <musicConsumedProgress
-                    length="4:36"
-                />
+            <entry id="$-1" title="TOKIMEKI Runners">
+                <musicConsumedProgress length="4:36" />
                 <music base="0.3" />
             </entry>
 
-            <entry
-                id="$-2"
-                title="Yume e no Ippo"
-            >
-                <musicConsumedProgress
-                    length="4:47"
-                />
+            <entry id="$-2" title="Yume e no Ippo">
+                <musicConsumedProgress length="4:47" />
                 <music base="0.05" />
             </entry>
 
-            <entry
-                id="$-8"
-                title="CHASE!"
-            >
-                <musicConsumedProgress
-                    length="4:18"
-                />
+            <entry id="$-8" title="CHASE!">
+                <musicConsumedProgress length="4:18" />
                 <music base="0.15" />
             </entry>
 
-            <entry
-                id="$-10"
-                title="Dokipipo☆Emotion"
-            >
-                <musicConsumedProgress
-                    length="4:30"
-                />
+            <entry id="$-10" title="Dokipipo☆Emotion">
+                <musicConsumedProgress length="4:30" />
                 <music base="0.3" />
             </entry>
         </entry>
@@ -341,33 +242,18 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry
-                id="$-10"
-                title="Love U my friends"
-            >
-                <musicConsumedProgress
-                    length="4:00"
-                />
+            <entry id="$-10" title="Love U my friends">
+                <musicConsumedProgress length="4:00" />
                 <music base="0.3" />
             </entry>
 
-            <entry
-                id="$-1"
-                title="Kaika Sengen"
-            >
-                <musicConsumedProgress
-                    length="4:19"
-                />
+            <entry id="$-1" title="Kaika Sengen">
+                <musicConsumedProgress length="4:19" />
                 <music base="0.2" />
             </entry>
 
-            <entry
-                id="$-7"
-                title="MELODY"
-            >
-                <musicConsumedProgress
-                    length="4:29"
-                />
+            <entry id="$-7" title="MELODY">
+                <musicConsumedProgress length="4:29" />
                 <music base="0.45" />
             </entry>
         </entry>
@@ -379,43 +265,23 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry
-                id="$-12"
-                title="Just Believe!!!"
-            >
-                <musicConsumedProgress
-                    length="4:05"
-                />
+            <entry id="$-12" title="Just Believe!!!">
+                <musicConsumedProgress length="4:05" />
                 <music base="0.4" />
             </entry>
 
-            <entry
-                id="$-1"
-                title="Say Good-Bye Namida"
-            >
-                <musicConsumedProgress
-                    length="4:01"
-                />
+            <entry id="$-1" title="Say Good-Bye Namida">
+                <musicConsumedProgress length="4:01" />
                 <music base="0.25" />
             </entry>
 
-            <entry
-                id="$-3"
-                title="Yagate Hitotsu no Monogatari"
-            >
-                <musicConsumedProgress
-                    length="4:20"
-                />
+            <entry id="$-3" title="Yagate Hitotsu no Monogatari">
+                <musicConsumedProgress length="4:20" />
                 <music base="0.25" />
             </entry>
 
-            <entry
-                id="$-7"
-                title="LIKE IT! LOVE IT!"
-            >
-                <musicConsumedProgress
-                    length="4:21"
-                />
+            <entry id="$-7" title="LIKE IT! LOVE IT!">
+                <musicConsumedProgress length="4:21" />
                 <music base="0.55" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
@@ -428,13 +294,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry
-                id="$-2"
-                title="Break The System"
-            >
-                <musicConsumedProgress
-                    length="3:44"
-                />
+            <entry id="$-2" title="Break The System">
+                <musicConsumedProgress length="3:44" />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -446,13 +307,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.65" unique="0.25" />
 
             <!-- the first ayumu-era theme song -->
-            <entry
-                id="$-1"
-                title="Dream with You"
-            >
-                <musicConsumedProgress
-                    length="4:18"
-                />
+            <entry id="$-1" title="Dream with You">
+                <musicConsumedProgress length="4:18" />
                 <music base="0.1" />
                 <!-- the song is shit -->
                 <!-- but it started the most colorful era in autism history -->
@@ -469,17 +325,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.65" unique="0.25" />
 
             <entry id="$-1" title="Awakening Promise">
-                <musicConsumedProgress
-                    length="4:13"
-                />
+                <musicConsumedProgress length="4:13" />
                 <music base="0.125" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AR-37385"
-            title="Liella!"
-        >
+        <entry id="M-VGMDB-AR-37385" title="Liella!">
             <!-- Liella hasn't got any notable songs -->
             <!-- also they got fucked in the rst-sb69 duopoly era because -->
             <!-- rst is a fucking nazi -->
@@ -530,9 +381,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <al id="15051" />
                 <mal id="15051" />
             </source>
-            <bestGirl
-                name="Maki Nishikino"
-            />
+            <bestGirl name="Maki Nishikino" />
 
             <featureMusic id="M-VGMDB-AL-36547-1" />
             <animeConsumedProgress
@@ -554,9 +403,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <al id="19111" />
                 <mal id="19111" />
             </source>
-            <bestGirl
-                name="Maki Nishikino"
-            />
+            <bestGirl name="Maki Nishikino" />
 
             <featureMusic id="M-VGMDB-AL-34051-1" />
             <animeConsumedProgress
@@ -575,9 +422,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <al id="20766" />
                 <mal id="24997" />
             </source>
-            <bestGirl
-                name="Maki Nishikino"
-            />
+            <bestGirl name="Maki Nishikino" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -596,9 +441,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <al id="32526" />
                 <mal id="21584" />
             </source>
-            <bestGirl
-                name="Riko Sakurauchi"
-            />
+            <bestGirl name="Riko Sakurauchi" />
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-58750-1" />
             <animeConsumedProgress
@@ -610,19 +453,14 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
-        <entry
-            id="A-MAL-34973"
-            title="Love Live! Sunshine!! 2nd Season"
-        >
+        <entry id="A-MAL-34973" title="Love Live! Sunshine!! 2nd Season">
             <source>
                 <adb id="34973" />
                 <ks id="13299" />
                 <al id="98349" />
                 <mal id="34973" />
             </source>
-            <bestGirl
-                name="Riko Sakurauchi"
-            />
+            <bestGirl name="Riko Sakurauchi" />
             <!-- aozora was featured in ep13 -->
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-70622-1" />
@@ -645,9 +483,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <al id="100965" />
                 <mal id="37027" />
             </source>
-            <bestGirl
-                name="Riko Sakurauchi"
-            />
+            <bestGirl name="Riko Sakurauchi" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -701,9 +537,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <mal id="40879" />
                 <ks id="42872" />
             </source>
-            <bestGirl
-                name="Ayumu Uehara"
-            />
+            <bestGirl name="Ayumu Uehara" />
             <!-- seasonal = true -->
 
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
@@ -747,9 +581,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <mal id="41169" />
             </source>
             <!-- insert wakeshima kanon is shibuya kanon joke here -->
-            <bestGirl
-                name="Chisato Arashi"
-            />
+            <bestGirl name="Chisato Arashi" />
             <!-- seasonal = true -->
             <animeConsumedProgress
                 status="Dropped"
@@ -806,9 +638,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <bestGirl name="Kanata Konoe" />
 
             <!-- jk -->
-            <bestGirl
-                name="Ayumu Uehara"
-            />
+            <bestGirl name="Ayumu Uehara" />
             <visual type="animated" base="0.6" unique="0.25" />
 
             <!-- lol after all this time xddddddddddd -->
@@ -829,9 +659,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <mal id="50203" />
             </source>
 
-            <bestGirl
-                name="Chisato Arashi"
-            />
+            <bestGirl name="Chisato Arashi" />
             <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
             <killedBy id="F-VGMDB-7059" potential="0.6" effect="1.0" />
             <visual type="animated" base="0.6" unique="0.25" />

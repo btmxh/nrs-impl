@@ -19,9 +19,7 @@
             <!-- SLN rng -->
             <aei base="0.1" emotions="CU" />
 
-            <bestGirl
-                name="Nazuna Oikawa"
-            />
+            <bestGirl name="Nazuna Oikawa" />
 
             <animeConsumedProgress
                 status="Completed"

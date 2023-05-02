@@ -10,9 +10,7 @@
             <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Kimochi Signal">
-                <musicConsumedProgress
-                    length="4:13"
-                />
+                <musicConsumedProgress length="4:13" />
                 <music base="0.15" />
             </entry>
         </entry>
@@ -35,19 +33,14 @@
             <contributor id="A-MAL-16001" factor="0.4" />
         </aei>
 
-        <entry
-            id="A-MAL-11887"
-            title="Kokoro Connect"
-        >
+        <entry id="A-MAL-11887" title="Kokoro Connect">
             <source>
                 <adb id="11887" />
                 <ks id="6626" />
                 <al id="11887" />
                 <mal id="11887" />
             </source>
-            <bestGirl
-                name="Iori Nagase"
-            />
+            <bestGirl name="Iori Nagase" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -60,18 +53,13 @@
             <featureMusic id="M-VGMDB-AL-35431" />
         </entry>
 
-        <entry
-            id="A-MAL-16001"
-            title="Kokoro Connect: Michi Random"
-        >
+        <entry id="A-MAL-16001" title="Kokoro Connect: Michi Random">
             <source>
                 <ks id="7355" />
                 <al id="16001" />
                 <mal id="16001" />
             </source>
-            <bestGirl
-                name="Iori Nagase"
-            />
+            <bestGirl name="Iori Nagase" />
 
             <animeConsumedProgress
                 status="Completed"

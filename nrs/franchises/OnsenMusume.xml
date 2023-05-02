@@ -5,16 +5,10 @@
 
     <entry id="F-VGMDB-6439" title="Onsen Musume">
 
-        <entry
-            id="M-VGMDB-AL-75349"
-            title="Hop Step Jump! / SPRiNGS"
-        >
+        <entry id="M-VGMDB-AL-75349" title="Hop Step Jump! / SPRiNGS">
 
             <visual type="albumArt" base="0.75" unique="0.25" />
-            <entry
-                id="$-1"
-                title="Hop Step Jump!"
-            >
+            <entry id="$-1" title="Hop Step Jump!">
                 <musicConsumedProgress length="4:59" /> <!-- impl_overridden -->
                 <music base="0.6" />
             </entry>
@@ -30,17 +24,11 @@
             </contains>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-75344"
-            title="Tsuioku Kaleidoscope / SPRiNGS"
-        >
+        <entry id="M-VGMDB-AL-75344" title="Tsuioku Kaleidoscope / SPRiNGS">
 
             <visual type="albumArt" base="0.75" unique="0.25" />
             <!-- Length source: https://open.spotify.com/album/7iKl9h6FUWmHhRE7tg8yJh -->
-            <entry
-                id="$-1"
-                title="純情-SAKURA-"
-            >
+            <entry id="$-1" title="純情-SAKURA-">
                 <musicConsumedProgress length="3:44" /> <!-- impl_overridden -->
                 <!-- https://www.youtube.com/watch?v=X2Q-bCS_IRs -->
                 <visual type="animatedMV" base="0.75" unique="0.25" />
@@ -48,34 +36,22 @@
             </entry>
 
             <!-- 2-4 are subunit songs -->
-            <entry
-                id="$-2"
-                title="ロマンスの林檎"
-            >
+            <entry id="$-2" title="ロマンスの林檎">
                 <musicConsumedProgress length="4:20" /> <!-- impl_overridden -->
                 <music base="0.7" />
             </entry>
 
-            <entry
-                id="$-3"
-                title="SILENT VOICES"
-            >
+            <entry id="$-3" title="SILENT VOICES">
                 <musicConsumedProgress length="4:58" /> <!-- impl_overridden -->
                 <music base="0.45" />
             </entry>
 
-            <entry
-                id="$-4"
-                title="おはようジャポニカ"
-            >
+            <entry id="$-4" title="おはようジャポニカ">
                 <musicConsumedProgress length="4:26" /> <!-- impl_overridden -->
                 <music base="0.6" />
             </entry>
 
-            <entry
-                id="$-5"
-                title="さよなら花火"
-            >
+            <entry id="$-5" title="さよなら花火">
                 <musicConsumedProgress length="4:01" /> <!-- impl_overridden -->
                 <music base="0.2" />
             </entry>

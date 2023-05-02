@@ -10,9 +10,7 @@
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="M♭">
-                <musicConsumedProgress
-                    length="3:42"
-                />
+                <musicConsumedProgress length="3:42" />
                 <music base="0.2" />
                 <osuSong personal="0.1" community="0.0" />
             </entry>
@@ -35,10 +33,7 @@
             <contributor id="A-MAL-30727" factor="0.5" />
         </meme>
 
-        <entry
-            id="A-MAL-23277"
-            title="Saenai Heroine no Sodatekata"
-        >
+        <entry id="A-MAL-23277" title="Saenai Heroine no Sodatekata">
             <source>
                 <adb id="23277" />
                 <ks id="8406" />
@@ -58,10 +53,7 @@
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
-        <entry
-            id="A-MAL-30727"
-            title="Saenai Heroine no Sodatekata ♭"
-        >
+        <entry id="A-MAL-30727" title="Saenai Heroine no Sodatekata ♭">
             <source>
                 <adb id="30727" />
                 <ks id="10909" />
@@ -78,10 +70,7 @@
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
-        <entry
-            id="A-MAL-36885"
-            title="Saenai Heroine no Sodatekata Fine"
-        >
+        <entry id="A-MAL-36885" title="Saenai Heroine no Sodatekata Fine">
             <source>
                 <adb id="36885" />
                 <ks id="14050" />

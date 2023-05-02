@@ -13,9 +13,7 @@
 
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-2" title="Mata Ashita">
-                <musicConsumedProgress
-                    length="4:27"
-                />
+                <musicConsumedProgress length="4:27" />
                 <music base="0.2" />
             </entry>
         </entry>
@@ -27,9 +25,7 @@
 
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-4" title="Believing in Justice">
-                <musicConsumedProgress
-                    length="1:56"
-                />
+                <musicConsumedProgress length="1:56" />
                 <music base="0.25" />
             </entry>
         </entry>
@@ -41,9 +37,7 @@
 
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-2" title="and I'm home">
-                <musicConsumedProgress
-                    length="2:50"
-                />
+                <musicConsumedProgress length="2:50" />
                 <music base="0.15" />
             </entry>
         </entry>
@@ -59,41 +53,29 @@
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="ケアレス">
-                <musicConsumedProgress
-                    length="4:14"
-                />
+                <musicConsumedProgress length="4:14" />
                 <music base="0.6" />
             </entry>
         </entry>
 
         <contains id="M-VGMDB-AL-89431-1" />
 
-        <entry
-            id="M-VGMDB-AL-95029"
-            title="Gomakashi / TrySail"
-        >
+        <entry id="M-VGMDB-AL-95029" title="Gomakashi / TrySail">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Gomakashi">
-                <musicConsumedProgress
-                    length="4:11"
-                />
+                <musicConsumedProgress length="4:11" />
                 <music base="0.65" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-91985"
-            title="Utsuroi / TrySail"
-        >
+        <entry id="M-VGMDB-AL-91985" title="Utsuroi / TrySail">
 
             <visual type="albumArt" base="0.45" unique="0.4" />
 
             <entry id="$-1" title="Utsuroi">
-                <musicConsumedProgress
-                    length="3:49"
-                />
+                <musicConsumedProgress length="3:49" />
                 <!-- the game -->
                 <!-- browiec's Wisdom -->
                 <!-- Misunderstanding -->
@@ -109,10 +91,7 @@
             <contributor id="A-MAL-11981" factor="0.2" />
         </meme>
 
-        <entry
-            id="A-MAL-9756"
-            title="Mahou Shoujo Madoka★Magica"
-        >
+        <entry id="A-MAL-9756" title="Mahou Shoujo Madoka★Magica">
             <source>
                 <adb id="9756" />
                 <ks id="5853" />
@@ -120,9 +99,7 @@
                 <mal id="9756" />
             </source>
 
-            <bestGirl
-                name="Madoka Kaname"
-            />
+            <bestGirl name="Madoka Kaname" />
 
             <!-- 32k got killed over and over, and her lover has to -->
             <!-- time-travel everytime it happens -->
@@ -154,9 +131,7 @@
                 <mal id="11981" />
             </source>
 
-            <bestGirl
-                name="Madoka Kaname"
-            />
+            <bestGirl name="Madoka Kaname" />
             <!-- I can't understand this movie lol -->
 
             <animeConsumedProgress
@@ -198,9 +173,7 @@
             title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
         >
 
-            <bestGirl
-                name="Iroha Tamaki"
-            />
+            <bestGirl name="Iroha Tamaki" />
             <!-- Madokami's MGS -->
             <!-- It's revealed that in 99% other universes, -->
             <!-- Tamaki Ui and her friends are dead, leaving -->
@@ -232,9 +205,7 @@
                 <mal id="38256" />
             </source>
 
-            <bestGirl
-                name="Iroha Tamaki"
-            />
+            <bestGirl name="Iroha Tamaki" />
             <!-- seasonal = true -->
             <!-- MagiReco-era is one of the most important eras in autism history -->
             <!-- This is the anime that brought it to life -->
@@ -266,9 +237,7 @@
                 <mal id="41530" />
             </source>
 
-            <bestGirl
-                name="Iroha Tamaki"
-            />
+            <bestGirl name="Iroha Tamaki" />
             <!-- seasonal = true -->
 
             <animeConsumedProgress
@@ -302,9 +271,7 @@
                 <mal id="49291" />
             </source>
 
-            <bestGirl
-                name="Iroha Tamaki"
-            />
+            <bestGirl name="Iroha Tamaki" />
             <!-- seasonal = true -->
 
             <animeConsumedProgress

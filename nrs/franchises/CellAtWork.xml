@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-8677" title="Hataraku Saibou">
 
-        <entry
-            id="A-MAL-37141"
-            title="Hataraku Saibou"
-        >
+        <entry id="A-MAL-37141" title="Hataraku Saibou">
             <source>
                 <adb id="37141" />
                 <ks id="14212" />
                 <al id="100977" />
                 <mal id="37141" />
             </source>
-            <bestGirl
-                name="Kesshouban"
-            />
+            <bestGirl name="Kesshouban" />
 
             <animeConsumedProgress
                 status="Dropped"

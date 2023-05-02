@@ -19,10 +19,7 @@
             <contributor id="A-MAL-13759" factor="0.5" />
         </interestField>
 
-        <entry
-            id="A-MAL-31953"
-            title="New Game!"
-        >
+        <entry id="A-MAL-31953" title="New Game!">
             <source>
                 <adb id="31953" />
                 <ks id="11467" />
@@ -42,10 +39,7 @@
             <featureMusic id="M-VGMDB-AL-58627-1" />
         </entry>
 
-        <entry
-            id="A-MAL-34914"
-            title="New Game!!"
-        >
+        <entry id="A-MAL-34914" title="New Game!!">
             <source>
                 <adb id="34914" />
                 <ks id="13236" />
@@ -53,9 +47,7 @@
                 <mal id="34914" />
             </source>
             <!-- idk who is better, aoba or yun, so one girl each season -->
-            <bestGirl
-                name="Aoba Suzukaze"
-            />
+            <bestGirl name="Aoba Suzukaze" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -76,31 +68,21 @@
             </contains>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-58627"
-            title="Now Loading!!!! / fourfolium"
-        >
+        <entry id="M-VGMDB-AL-58627" title="Now Loading!!!! / fourfolium">
 
             <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="Now Loading!!!!">
-                <musicConsumedProgress
-                    length="4:13"
-                />
+                <musicConsumedProgress length="4:13" />
                 <music base="0.4" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-68225"
-            title="STEP by STEP UP↑↑↑↑ / fourfolium"
-        >
+        <entry id="M-VGMDB-AL-68225" title="STEP by STEP UP↑↑↑↑ / fourfolium">
 
             <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="STEP by STEP UP↑↑↑↑">
-                <musicConsumedProgress
-                    length="4:12"
-                />
+                <musicConsumedProgress length="4:12" />
                 <!-- mankai step by step -->
                 <!-- this song is legendary af -->
                 <music base="0.5" />

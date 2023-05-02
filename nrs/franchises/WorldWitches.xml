@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-4639" title="World Witches Series">
 
-        <entry
-            id="A-MAL-3667"
-            title="Strike Witches"
-        >
+        <entry id="A-MAL-3667" title="Strike Witches">
             <source>
                 <adb id="3667" />
                 <ks id="3179" />
@@ -13,9 +10,7 @@
                 <mal id="3667" />
             </source>
 
-            <bestGirl
-                name="Eila Ilmatar Juutilainen"
-            />
+            <bestGirl name="Eila Ilmatar Juutilainen" />
             <!-- "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..." -->
             <!-- haha 15 funny amirite -->
 
@@ -28,10 +23,7 @@
             <visual type="animated" base="0.2" unique="0.75" />
         </entry>
 
-        <entry
-            id="A-MAL-32866"
-            title="Brave Witches"
-        >
+        <entry id="A-MAL-32866" title="Brave Witches">
             <source>
                 <adb id="32866" />
                 <ks id="11887" />
@@ -75,9 +67,7 @@
             <!-- ngl this is a treat for our eyes -->
             <visual type="animated" base="0.8" unique="0.05" />
 <!--        <bestGirl name="Robertson Virginia" /> -->
-            <bestGirl
-                name="Inori Shibuya"
-            />
+            <bestGirl name="Inori Shibuya" />
             <!-- inori is cuter fuck u -->
 
             <!-- the ultimate L moment -->
@@ -108,17 +98,13 @@
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="My Shining Light">
-                <musicConsumedProgress
-                    length="4:40"
-                />
+                <musicConsumedProgress length="4:40" />
                 <!-- the "azure reunion" of asuiro clear sky -->
                 <music base="0.7" />
             </entry>
 
             <entry id="$-2" title="Luminossense">
-                <musicConsumedProgress
-                    length="4:18"
-                />
+                <musicConsumedProgress length="4:18" />
                 <music base="0.3" />
             </entry>
         </entry>
@@ -130,9 +116,7 @@
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="Sora ni Chikau kara">
-                <musicConsumedProgress
-                    length="4:32"
-                />
+                <musicConsumedProgress length="4:32" />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -144,9 +128,7 @@
             <visual type="albumArt" base="0.75" unique="0.15" />
 
             <entry id="$-1" title="WONDERFUL WORLD">
-                <musicConsumedProgress
-                    length="3:58"
-                />
+                <musicConsumedProgress length="3:58" />
 
                 <music base="0.4" />
             </entry>
@@ -159,9 +141,7 @@
             <visual type="albumArt" base="0.7" unique="0.15" />
 
             <entry id="$-1" title="Watashi to Minna no Uta">
-                <musicConsumedProgress
-                    length="4:24"
-                />
+                <musicConsumedProgress length="4:24" />
 
                 <music base="0.4" />
             </entry>
@@ -177,9 +157,7 @@
             <visual type="albumArt" base="0.7" unique="0.15" />
 
             <entry id="$-5" title="歌を歌おう (finale)">
-                <musicConsumedProgress
-                    length="3:54"
-                />
+                <musicConsumedProgress length="3:54" />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -192,9 +170,7 @@
             <visual type="albumArt" base="0.3" unique="0.4" />
 
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
-                <musicConsumedProgress
-                    length="4:09"
-                />
+                <musicConsumedProgress length="4:09" />
                 <music base="0.4" />
                 <remix id="M-20221009T085407" />
             </entry>

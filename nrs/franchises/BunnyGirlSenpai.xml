@@ -12,9 +12,7 @@
                 <al id="101291" />
                 <mal id="37450" />
             </source>
-            <bestGirl
-                name="Shouko Makinohara"
-            />
+            <bestGirl name="Shouko Makinohara" />
 
             <animeConsumedProgress
                 status="Dropped"
@@ -31,18 +29,13 @@
         <contains id="M-VGMDB-AL-80253-1" />
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-80253"
-        title="Kimi no Sei / the peggies"
-    >
+    <entry id="M-VGMDB-AL-80253" title="Kimi no Sei / the peggies">
 
         <!-- tf is this lol -->
         <visual type="albumArt" base="0.1" unique="0.6" />
 
         <entry id="$-1" title="Kimi no Sei">
-            <musicConsumedProgress
-                length="4:24"
-            />
+            <musicConsumedProgress length="4:24" />
             <music base="0.1" />
         </entry>
     </entry>

@@ -37,9 +37,7 @@
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Finest Sky">
-                <musicConsumedProgress
-                    length="3:48"
-                />
+                <musicConsumedProgress length="3:48" />
                 <music base="0.35" />
                 <!-- [albireo princess] -->
                 <!-- hddt -->

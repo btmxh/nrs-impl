@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-3554" title="Charlotte">
 
-        <entry
-            id="A-MAL-28999"
-            title="Charlotte"
-        >
+        <entry id="A-MAL-28999" title="Charlotte">
             <source>
                 <adb id="28999" />
                 <ks id="10103" />
                 <al id="20997" />
                 <mal id="28999" />
             </source>
-            <bestGirl
-                name="Nao Tomori"
-            />
+            <bestGirl name="Nao Tomori" />
 
             <visual type="animated" base="0.5" unique="0.1" />
 

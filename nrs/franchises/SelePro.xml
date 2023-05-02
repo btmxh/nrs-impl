@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-9703" title="SELECTION PROJECT">
 
-        <entry
-            id="A-MAL-44275"
-            title="Selection Project"
-        >
+        <entry id="A-MAL-44275" title="Selection Project">
             <source>
                 <adb id="44275" />
                 <ks id="44211" />
                 <al id="126790" />
                 <mal id="44275" />
             </source>
-            <bestGirl
-                name="Uta Koizumi"
-            />
+            <bestGirl name="Uta Koizumi" />
 
             <cry emotions="CU" />
             <animeConsumedProgress
@@ -43,9 +38,7 @@
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Glorious Days">
-                <musicConsumedProgress
-                    length="3:54"
-                />
+                <musicConsumedProgress length="3:54" />
                 <music base="0.5" />
             </entry>
         </entry>
@@ -56,10 +49,7 @@
         >
 
             <visual type="albumArt" base="0.3" unique="0.3" />
-            <entry
-                id="$-1"
-                title="ENDROLL"
-            >
+            <entry id="$-1" title="ENDROLL">
                 <musicConsumedProgress length="3:53" /> <!-- impl_overridden -->
                 <music base="0.4" />
             </entry>

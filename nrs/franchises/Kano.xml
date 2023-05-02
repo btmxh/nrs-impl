@@ -7,63 +7,39 @@
     <!-- which is what a "kano impact" is -->
     <!-- (it will be represented as an NEI/AEI) -->
 
-    <entry
-        id="M-VGMDB-AR-11666"
-        title="Kano"
-    >
+    <entry id="M-VGMDB-AR-11666" title="Kano">
 
         <contains factor="vocal+image">
-            <entry
-                id="M-VGMDB-AL-95369"
-                title="Bambino / Kano"
-            >
+            <entry id="M-VGMDB-AL-95369" title="Bambino / Kano">
 
                 <visual type="albumArt" base="0.2" unique="0.5" />
 
-                <entry
-                    id="$-1"
-                    title="ハロ/ハワユ"
-                >
-                    <musicConsumedProgress
-                        length="4:48"
-                    />
+                <entry id="$-1" title="ハロ/ハワユ">
+                    <musicConsumedProgress length="4:48" />
                     <music base="0.2" />
                     <nei base="0.1" emotions="MP" />
                     <remix id="M-VGMDB-AL-37130-1" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-34411"
-                title="Aimai Bambina / Kano"
-            >
+            <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano">
 
                 <visual type="albumArt" base="0.35" unique="0.4" />
 
                 <entry id="$-6" title="インタビュア">
-                    <musicConsumedProgress
-                        length="4:27"
-                    />
+                    <musicConsumedProgress length="4:27" />
                     <music base="0.4" />
                     <nei base="0.15" emotions="CU" />
                 </entry>
 
-                <entry
-                    id="$-11"
-                    title="アイロニ"
-                >
-                    <musicConsumedProgress
-                        length="4:10"
-                    />
+                <entry id="$-11" title="アイロニ">
+                    <musicConsumedProgress length="4:10" />
                     <music base="0.175" />
                     <nei base="0.15" emotions="CU" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-42961"
-                title="Aru Machi no Hakuchuumu / Kano"
-            >
+            <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano">
 
                 <visual type="albumArt" base="0.25" unique="0.5" />
 
@@ -74,105 +50,67 @@
                     </score>
                 </regularImpact>
 
-                <entry
-                    id="$-6"
-                    title="メリーメリー álbum ver."
-                >
-                    <musicConsumedProgress
-                        length="4:35"
-                    />
+                <entry id="$-6" title="メリーメリー álbum ver.">
+                    <musicConsumedProgress length="4:35" />
                     <music base="0.4" />
                     <nei base="0.25" emotions="MP" />
                 </entry>
 
                 <entry id="$-9" title="World on Color">
-                    <musicConsumedProgress
-                        length="4:39"
-                    />
+                    <musicConsumedProgress length="4:39" />
                     <music base="0.6" />
                     <nei base="0.2" emotions="MP" />
                     <osuSong personal="0.1" community="0.0" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-49423"
-                title="Good Hello / Kano"
-            >
+            <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano">
 
                 <visual type="albumArt" base="0.55" unique="0.45" />
 
-                <entry
-                    id="$-1"
-                    title="グッドナイトエヴリワン"
-                >
-                    <musicConsumedProgress
-                        length="5:49"
-                    />
+                <entry id="$-1" title="グッドナイトエヴリワン">
+                    <musicConsumedProgress length="5:49" />
                     <music base="0.4" />
                     <nei base="0.2" emotions="CU" />
                 </entry>
 
                 <entry id="$-8" title="decide">
-                    <musicConsumedProgress
-                        length="5:54"
-                    />
+                    <musicConsumedProgress length="5:54" />
                     <music base="0.2" />
                     <nei base="0.25" emotions="CU" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-51254"
-                title="Stella-rium / Kano"
-            >
+            <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano">
 
                 <visual type="albumArt" base="0.5" unique="0.4" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
 
                 <entry id="$-1" title="Stella-rium">
-                    <musicConsumedProgress
-                        length="4:08"
-                    />
+                    <musicConsumedProgress length="4:08" />
                     <music base="0.5" />
                     <nei base="0.5" emotions="MP" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-54307"
-                title="Dear Brave / Kano"
-            >
+            <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano">
 
                 <visual type="albumArt" base="0.2" unique="0.6" />
                 <visual type="animatedMV" base="0.6" unique="0.4" />
 
-                <entry
-                    id="$-1"
-                    title="ディアブレイブ"
-                >
-                    <musicConsumedProgress
-                        length="4:19"
-                    />
+                <entry id="$-1" title="ディアブレイブ">
+                    <musicConsumedProgress length="4:19" />
                     <music base="0.5" />
                     <nei base="0.1" emotions="CU" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-57564"
-                title="nowhere / Kano"
-            >
+            <entry id="M-VGMDB-AL-57564" title="nowhere / Kano">
 
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
-                <entry
-                    id="$-1"
-                    title="Prima Stella"
-                >
-                    <musicConsumedProgress
-                        length="4:26"
-                    />
+                <entry id="$-1" title="Prima Stella">
+                    <musicConsumedProgress length="4:26" />
                     <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
                     <music base="0.5" />
                     <nei base="0.1" emotions="CU" />
@@ -180,39 +118,25 @@
 
                 <contains id="M-VGMDB-AL-51254-1" />
                 <contains id="M-VGMDB-AL-54307-1" />
-                <entry
-                    id="$-7"
-                    title="Walk This Way!"
-                >
-                    <musicConsumedProgress
-                        length="4:08"
-                    />
+                <entry id="$-7" title="Walk This Way!">
+                    <musicConsumedProgress length="4:08" />
                     <music base="0.4" />
                     <osuSong personal="0.6" community="0.3" />
                 </entry>
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-73516"
-                title="one / Kano"
-            >
+            <entry id="M-VGMDB-AL-73516" title="one / Kano">
 
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <contains id="M-VGMDB-AL-34411-11" />
             </entry>
 
-            <entry
-                id="M-VGMDB-AL-89290"
-                title="three / Kano"
-            >
+            <entry id="M-VGMDB-AL-89290" title="three / Kano">
 
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
-                <entry
-                    id="$-6"
-                    title="地球最後の告白を"
-                >
+                <entry id="$-6" title="地球最後の告白を">
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
                     <musicConsumedProgress
                         length="4:33"
@@ -268,13 +192,8 @@
 <!--            } -->
 <!--        } -->
 
-                <entry
-                    id="$-1"
-                    title="ハロ/ハワユ"
-                >
-                    <musicConsumedProgress
-                        length="4:50"
-                    />
+                <entry id="$-1" title="ハロ/ハワユ">
+                    <musicConsumedProgress length="4:50" />
                     <!-- the original MV is for the mix version -->
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
                     <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
@@ -282,13 +201,8 @@
                     <nei base="0.125" emotions="MP" />
                 </entry>
 
-                <entry
-                    id="$-2"
-                    title="うたうたいのうた"
-                >
-                    <musicConsumedProgress
-                        length="4:39"
-                    />
+                <entry id="$-2" title="うたうたいのうた">
+                    <musicConsumedProgress length="4:39" />
                     <music base="0.8" />
                     <nei base="0.15" emotions="MP" />
                 </entry>
@@ -296,9 +210,7 @@
                 <!-- the best kano song ever. period. -->
                 <!-- also the fourth ayumu-era theme song -->
                 <entry id="$-3" title="[It's not] World's end">
-                    <musicConsumedProgress
-                        length="5:36"
-                    />
+                    <musicConsumedProgress length="5:36" />
                     <music base="0.5" />
                     <nei base="0.5" emotions="CU" />
                     <ref
@@ -309,35 +221,20 @@
                     />
                 </entry>
 
-                <entry
-                    id="$-4"
-                    title="「ねぇ。」"
-                >
-                    <musicConsumedProgress
-                        length="6:23"
-                    />
+                <entry id="$-4" title="「ねぇ。」">
+                    <musicConsumedProgress length="6:23" />
                     <music base="0.2" />
                     <nei base="0.25" emotions="CU" />
                 </entry>
 
-                <entry
-                    id="$-5"
-                    title="朝焼け、君の唄。"
-                >
-                    <musicConsumedProgress
-                        length="5:08"
-                    />
+                <entry id="$-5" title="朝焼け、君の唄。">
+                    <musicConsumedProgress length="5:08" />
                     <music base="0.2" />
                     <nei base="0.2" emotions="MP" />
                 </entry>
 
-                <entry
-                    id="$-6"
-                    title="サクラノ前夜"
-                >
-                    <musicConsumedProgress
-                        length="6:00"
-                    />
+                <entry id="$-6" title="サクラノ前夜">
+                    <musicConsumedProgress length="6:00" />
                     <visual type="animatedMV" base="0.35" unique="0.6" />
                     <music base="0.7" />
                     <nei base="0.25" emotions="CU" />

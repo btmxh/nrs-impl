@@ -12,19 +12,14 @@
             <contributor id="A-MAL-38524" factor="0.25" />
         </nei>
 
-        <entry
-            id="A-MAL-16498"
-            title="Shingeki no Kyojin"
-        >
+        <entry id="A-MAL-16498" title="Shingeki no Kyojin">
             <source>
                 <adb id="16498" />
                 <ks id="7442" />
                 <al id="16498" />
                 <mal id="16498" />
             </source>
-            <bestGirl
-                name="Mikasa Ackerman"
-            />
+            <bestGirl name="Mikasa Ackerman" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -33,19 +28,14 @@
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
-        <entry
-            id="A-MAL-25777"
-            title="Shingeki no Kyojin Season 2"
-        >
+        <entry id="A-MAL-25777" title="Shingeki no Kyojin Season 2">
             <source>
                 <adb id="25777" />
                 <ks id="8671" />
                 <al id="20958" />
                 <mal id="25777" />
             </source>
-            <bestGirl
-                name="Mikasa Ackerman"
-            />
+            <bestGirl name="Mikasa Ackerman" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -54,19 +44,14 @@
             <visual type="animated" base="0.2" unique="0.6" />
         </entry>
 
-        <entry
-            id="A-MAL-35760"
-            title="Shingeki no Kyojin Season 3"
-        >
+        <entry id="A-MAL-35760" title="Shingeki no Kyojin Season 3">
             <source>
                 <adb id="35760" />
                 <ks id="13569" />
                 <al id="99147" />
                 <mal id="35760" />
             </source>
-            <bestGirl
-                name="Mikasa Ackerman"
-            />
+            <bestGirl name="Mikasa Ackerman" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -80,19 +65,14 @@
 
         <!-- aged well lmfao after the seishun wa non-stop incident -->
         <!-- xddddddddddddddddddddd -->
-        <entry
-            id="A-MAL-38524"
-            title="Shingeki no Kyojin Season 3 Part 2"
-        >
+        <entry id="A-MAL-38524" title="Shingeki no Kyojin Season 3 Part 2">
             <source>
                 <adb id="38524" />
                 <ks id="41982" />
                 <al id="104578" />
                 <mal id="38524" />
             </source>
-            <bestGirl
-                name="Mikasa Ackerman"
-            />
+            <bestGirl name="Mikasa Ackerman" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.8"

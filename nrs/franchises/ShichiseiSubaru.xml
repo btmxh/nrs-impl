@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-6418" title="Shichisei no Subaru">
 
-        <entry
-            id="A-MAL-36316"
-            title="Shichisei no Subaru"
-        >
+        <entry id="A-MAL-36316" title="Shichisei no Subaru">
             <source>
                 <adb id="36316" />
                 <ks id="40893" />
                 <al id="100085" />
                 <mal id="36316" />
             </source>
-            <bestGirl
-                name="Asahi Kuga"
-            />
+            <bestGirl name="Asahi Kuga" />
 
             <animeConsumedProgress
                 status="Completed"

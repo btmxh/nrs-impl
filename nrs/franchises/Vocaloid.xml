@@ -69,9 +69,7 @@
     >
         <visual type="albumArt" base="0.3" unique="0.3" />
         <entry id="$-22" title="from Y to Y">
-            <musicConsumedProgress
-                length="3:16"
-            />
+            <musicConsumedProgress length="3:16" />
             <!-- "the pads won't stop at the seventh day" -->
             <!-- most happy himeno sena mf be like -->
             <!-- :skull: -->

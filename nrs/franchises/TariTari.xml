@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-4296" title="TARI TARI">
 
-        <entry
-            id="A-MAL-13333"
-            title="Tari Tari"
-        >
+        <entry id="A-MAL-13333" title="Tari Tari">
             <source>
                 <adb id="13333" />
                 <ks id="6941" />
@@ -13,9 +10,7 @@
                 <mal id="13333" />
             </source>
 
-            <bestGirl
-                name="Konatsu Miyamoto"
-            />
+            <bestGirl name="Konatsu Miyamoto" />
 
             <!-- pa works is the best atmospheric farmer -->
             <cry emotions="CU" />

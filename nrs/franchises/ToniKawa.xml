@@ -3,19 +3,14 @@
 
     <entry id="F-VGMDB-10135" title="Tonikaku Kawaii">
 
-        <entry
-            id="A-MAL-41389"
-            title="Tonikaku Kawaii"
-        >
+        <entry id="A-MAL-41389" title="Tonikaku Kawaii">
             <source>
                 <adb id="41389" />
                 <ks id="43034" />
                 <al id="116267" />
                 <mal id="41389" />
             </source>
-            <bestGirl
-                name="Tsukasa Yuzaki"
-            />
+            <bestGirl name="Tsukasa Yuzaki" />
 
             <visual type="animated" base="0.4" unique="0.6" />
             <animeConsumedProgress
@@ -35,9 +30,7 @@
 
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
-                <musicConsumedProgress
-                    length="3:29"
-                />
+                <musicConsumedProgress length="3:29" />
                 <music base="0.4" />
             </entry>
         </entry>

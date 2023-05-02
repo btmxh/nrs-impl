@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-3559" title="THE IDOLM@STER">
 
-        <entry
-            id="M-VGMDB-AR-32295"
-            title="765 MILLION ALLSTARS"
-        >
+        <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78253-1" />
@@ -18,9 +15,7 @@
         >
             <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Dreaming!">
-                <musicConsumedProgress
-                    length="4:38"
-                />
+                <musicConsumedProgress length="4:38" />
                 <music base="0.35" />
                 <osuSong personal="0.8" community="0.0" />
             </entry>
@@ -46,27 +41,20 @@
             <visual type="albumArt" base="0.4" unique="0.15" />
 
             <entry id="$-1" title="UNION!!">
-                <musicConsumedProgress
-                    length="5:29"
-                />
+                <musicConsumedProgress length="5:29" />
                 <music base="0.35" />
                 <osuSong personal="0.5" community="0.2" />
             </entry>
         </entry>
 
-        <entry
-            id="A-MAL-10278"
-            title="The iDOLM@STER"
-        >
+        <entry id="A-MAL-10278" title="The iDOLM@STER">
             <source>
                 <adb id="10278" />
                 <ks id="6111" />
                 <al id="10278" />
                 <mal id="10278" />
             </source>
-            <bestGirl
-                name="Iori Minase"
-            />
+            <bestGirl name="Iori Minase" />
             <!-- ending pretty sadge -->
             <nei base="0.6" emotions="CU" />
 
@@ -88,19 +76,14 @@
             <contributor id="A-MAL-30344" factor="0.5" />
         </nei>
 
-        <entry
-            id="A-MAL-23587"
-            title="The iDOLM@STER Cinderella Girls"
-        >
+        <entry id="A-MAL-23587" title="The iDOLM@STER Cinderella Girls">
             <source>
                 <adb id="23587" />
                 <ks id="8777" />
                 <al id="20693" />
                 <mal id="23587" />
             </source>
-            <bestGirl
-                name="Chieri Ogata"
-            />
+            <bestGirl name="Chieri Ogata" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.8"
@@ -119,9 +102,7 @@
                 <al id="21094" />
                 <mal id="30344" />
             </source>
-            <bestGirl
-                name="Chieri Ogata"
-            />
+            <bestGirl name="Chieri Ogata" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.8"

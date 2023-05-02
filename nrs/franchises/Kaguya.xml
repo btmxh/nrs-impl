@@ -15,25 +15,18 @@
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Chikatto Chika Chika♡">
-                <musicConsumedProgress
-                    length="2:58"
-                />
+                <musicConsumedProgress length="2:58" />
                 <music base="0.25" />
                 <osuSong personal="0.5" community="0.4" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-116977"
-            title="KAGUYA ♡ ULTRA BEST"
-        >
+        <entry id="M-VGMDB-AL-116977" title="KAGUYA ♡ ULTRA BEST">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-11" title="ありがとう。">
-                <musicConsumedProgress
-                    length="4:14"
-                />
+                <musicConsumedProgress length="4:14" />
                 <!-- the grass-touching experience -->
                 <music base="0.35" />
             </entry>
@@ -60,9 +53,7 @@
                 <al id="101921" />
                 <mal id="37999" />
             </source>
-            <bestGirl
-                name="Ai Hayasaka"
-            />
+            <bestGirl name="Ai Hayasaka" />
             <!-- https://en.wikipedia.org/wiki/Yumiri_Hanamori#:~:text=On%20November%201%2C%202019%2C%20it%20was%20announced%20that%20Hanamori%20would%20be%20%22graduating%22%20from%20Re%3AStage!%20due%20to%20a%20knee%20injury. -->
 
             <animeConsumedProgress
@@ -92,9 +83,7 @@
                 <al id="112641" />
                 <mal id="40591" />
             </source>
-            <bestGirl
-                name="Kobachi Osaragi"
-            />
+            <bestGirl name="Kobachi Osaragi" />
             <!-- tatoe asu de sekai ga owattemo -->
             <!-- koukai shinai yo kimi ni deaeta koto -->
 
@@ -120,9 +109,7 @@
             <!-- imagine almost every anime losing to this shit lol y'all sucks (the MAL top 2 thing) -->
             <!-- (rst still better copium) -->
 
-            <bestGirl
-                name="Kobachi Osaragi"
-            />
+            <bestGirl name="Kobachi Osaragi" />
             <!-- It happened so suddenly, but from now on -->
             <!-- I want you to quietly listen to what I’ll say -->
             <!-- Just for now I’ll say “goodbye” to my cowardly heart -->

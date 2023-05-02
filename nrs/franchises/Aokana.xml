@@ -8,9 +8,7 @@
             <!-- i still use her skin in osugame lmfao -->
             <!-- (because all of the best girls post-aokana -->
             <!-- lives in unpopular franchises like rst and sb69) -->
-            <bestGirl
-                name="Asuka Kurashina"
-            />
+            <bestGirl name="Asuka Kurashina" />
             <!-- <bestGirl name="Satouin Reiko" /> // the sango/rosia of aokana -->
 
             <!-- the asuka route is completed -->
@@ -47,18 +45,10 @@
             <remix id="M-20221202T205008" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-55828"
-            title="Contrail ~Kiseki~ / Mami Kawada"
-        >
+        <entry id="M-VGMDB-AL-55828" title="Contrail ~Kiseki~ / Mami Kawada">
             <visual type="albumArt" base="0.2" unique="0.4" />
-            <entry
-                id="$-1"
-                title="Contrail ~Kiseki~"
-            >
-                <musicConsumedProgress
-                    length="4:39"
-                />
+            <entry id="$-1" title="Contrail ~Kiseki~">
+                <musicConsumedProgress length="4:39" />
                 <music base="0.45" />
                 <osuSong personal="0.75" community="0.3" />
                 <remix id="M-20221202T210558" />

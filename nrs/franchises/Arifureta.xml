@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-6083" title="Arifureta Shokugyou de Sekaisaikyou">
 
-        <entry
-            id="A-MAL-36882"
-            title="Arifureta Shokugyou de Sekai Saikyou"
-        >
+        <entry id="A-MAL-36882" title="Arifureta Shokugyou de Sekai Saikyou">
             <source>
                 <adb id="36882" />
                 <ks id="14043" />
                 <al id="100668" />
                 <mal id="36882" />
             </source>
-            <bestGirl
-                name="Yue"
-            />
+            <bestGirl name="Yue" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -32,16 +27,11 @@
         <contains id="M-VGMDB-AL-86592-1" />
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-86592"
-        title="FLARE / Void_Chords feat.LIO"
-    >
+    <entry id="M-VGMDB-AL-86592" title="FLARE / Void_Chords feat.LIO">
 
         <visual type="albumArt" base="0.05" unique="0.5" />
         <entry id="$-1" title="FLARE">
-            <musicConsumedProgress
-                length="4:37"
-            />
+            <musicConsumedProgress length="4:37" />
             <music base="0.1" />
             <osuSong personal="0.1" community="0.05" />
         </entry>

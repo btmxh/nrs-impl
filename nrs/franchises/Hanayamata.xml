@@ -6,10 +6,7 @@
     <!-- no himeno sena, no culture-loving culture -->
     <entry id="F-VGMDB-2924" title="Hanayamata">
 
-        <entry
-            id="A-MAL-21681"
-            title="Hanayamata"
-        >
+        <entry id="A-MAL-21681" title="Hanayamata">
             <source>
                 <adb id="21681" />
                 <ks id="8138" />
@@ -39,9 +36,7 @@
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Hana wa Odore ya Irohaniho">
-                <musicConsumedProgress
-                    length="4:10"
-                />
+                <musicConsumedProgress length="4:10" />
                 <music base="0.6" />
             </entry>
         </entry>

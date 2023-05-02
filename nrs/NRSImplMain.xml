@@ -96,10 +96,7 @@
     <include src="franchises/ZombielandSaga.xml" />
 
     <!-- TODO: insert more here -->
-    <entry
-        id="A-MAL-21995"
-        title="Ao Haru Ride"
-    >
+    <entry id="A-MAL-21995" title="Ao Haru Ride">
         <source>
             <adb id="21995" />
             <ks id="8246" />
@@ -120,9 +117,7 @@
             <al id="12175" />
             <mal id="12175" />
         </source>
-        <bestGirl
-            name="Chisato Sumiyoshi"
-        />
+        <bestGirl name="Chisato Sumiyoshi" />
 
         <!-- iirc i liked this anime's plot -->
         <aei base="0.3" emotions="AP" />
@@ -137,9 +132,7 @@
             <al id="12189" />
             <mal id="12189" />
         </source>
-        <bestGirl
-            name="Eru Chitanda"
-        />
+        <bestGirl name="Eru Chitanda" />
 
         <!-- ig it's kinda good -->
         <nei base="0.3" emotions="AP" />
@@ -156,9 +149,7 @@
         </source>
 
         <!-- kaomeme -->
-        <bestGirl
-            name="Kaori Sasaki"
-        />
+        <bestGirl name="Kaori Sasaki" />
         <!-- Ending did hit me -->
         <nei base="0.5" emotions="CU" />
         <!-- osuhow memes -->
@@ -178,9 +169,7 @@
             <mal id="28851" />
         </source>
 
-        <bestGirl
-            name="Shouko Nishimiya"
-        />
+        <bestGirl name="Shouko Nishimiya" />
         <!-- Koe no Katachi has solid drama -->
         <!-- But sadly, it's the first anime so there's no PADS -->
         <!-- or tears -->
@@ -211,9 +200,7 @@
             <adb id="31952" />
         </source>
 
-        <bestGirl
-            name="Mizuki Usami"
-        />
+        <bestGirl name="Mizuki Usami" />
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
     </entry>
@@ -226,9 +213,7 @@
             <mal id="32729" />
         </source>
 
-        <bestGirl
-            name="Naho Takamiya"
-        />
+        <bestGirl name="Naho Takamiya" />
 
         <!-- from nrs1 -->
         <aei base="0.25" emotions="CU" />
@@ -244,9 +229,7 @@
             <mal id="33731" />
         </source>
 
-        <bestGirl
-            name="Satanichia Kurumizawa McDowell"
-        />
+        <bestGirl name="Satanichia Kurumizawa McDowell" />
         <!-- iToddlers BTFO -->
         <meme strength="0.4" length="25" />
 
@@ -293,9 +276,7 @@
 
         <!-- seasonal = true iirc -->
 
-        <bestGirl
-            name="Karen Tendou"
-        />
+        <bestGirl name="Karen Tendou" />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.6" unique="0.3" />
@@ -309,9 +290,7 @@
             <mal id="34822" />
         </source>
 
-        <bestGirl
-            name="Akane Mizuno"
-        />
+        <bestGirl name="Akane Mizuno" />
         <!-- ending sadge -->
         <aei base="0.25" emotions="CU" />
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
@@ -325,9 +304,7 @@
             <al id="98506" />
             <mal id="35241" />
         </source>
-        <bestGirl
-            name="Natsume"
-        />
+        <bestGirl name="Natsume" />
 
         <!-- definitely not reminding me of mashu mashu from sb69 -->
 
@@ -348,9 +325,7 @@
             <al id="99131" />
             <mal id="35756" />
         </source>
-        <bestGirl
-            name="Kaoruko Moeta"
-        />
+        <bestGirl name="Kaoruko Moeta" />
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <nei base="0.2" emotions="AP" />
@@ -365,9 +340,7 @@
             <mal id="35860" />
         </source>
 
-        <bestGirl
-            name="Takagi"
-        />
+        <bestGirl name="Takagi" />
 
         <!-- episodic ngl -->
         <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
@@ -384,9 +357,7 @@
         </source>
 
         <!-- lmfao -->
-        <bestGirl
-            name="Washing Machine"
-        />
+        <bestGirl name="Washing Machine" />
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
         <visual type="animated" base="0.3" unique="0.4" />
@@ -401,9 +372,7 @@
         </source>
 
         <!-- facebook anime lmfao -->
-        <bestGirl
-            name="Sakura Yamauchi"
-        />
+        <bestGirl name="Sakura Yamauchi" />
 
         <animeConsumedProgress
             status="Completed"
@@ -423,9 +392,7 @@
             <mal id="36266" />
         </source>
 
-        <bestGirl
-            name="Aya Asagiri"
-        />
+        <bestGirl name="Aya Asagiri" />
 
         <!-- poor best girl -->
         <aei base="0.2" emotions="CU" />
@@ -457,9 +424,7 @@
             <adb id="37926" />
             <al id="102926" />
         </source>
-        <bestGirl
-            name="Karin Sarayashiki"
-        />
+        <bestGirl name="Karin Sarayashiki" />
         <!-- akari kito va lmfao -->
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -468,19 +433,14 @@
         <visual type="animated" base="0.5" unique="0.3" />
     </entry>
 
-    <entry
-        id="A-MAL-37982"
-        title="Domestic na Kanojo"
-    >
+    <entry id="A-MAL-37982" title="Domestic na Kanojo">
         <source>
             <adb id="37982" />
             <ks id="41479" />
             <al id="103139" />
             <mal id="37982" />
         </source>
-        <bestGirl
-            name="Hina Tachibana"
-        />
+        <bestGirl name="Hina Tachibana" />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.3" unique="0.5" />
@@ -489,19 +449,14 @@
         <meme strength="0.8" length="90" />
     </entry>
 
-    <entry
-        id="A-MAL-38656"
-        title="Darwin's Game"
-    >
+    <entry id="A-MAL-38656" title="Darwin's Game">
         <source>
             <adb id="38656" />
             <ks id="42260" />
             <al id="105190" />
             <mal id="38656" />
         </source>
-        <bestGirl
-            name="Shuka Karino"
-        />
+        <bestGirl name="Shuka Karino" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
         <visual type="animated" base="0.3" unique="0.4" />
         <!-- "plot is good" -->
@@ -521,9 +476,7 @@
         <!-- very funny lmao -->
         <aei base="0.5" emotions="AP" />
         <!-- restep sequel leaked no way -->
-        <bestGirl
-            name="Ristarte"
-        />
+        <bestGirl name="Ristarte" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.4" unique="0.5" />
     </entry>
@@ -538,9 +491,7 @@
             <mal id="38790" />
             <ks id="42043" />
         </source>
-        <bestGirl
-            name="Maple"
-        />
+        <bestGirl name="Maple" />
 
         <killedBy id="F-VGMDB-1945" potential="0.2" effect="0.5" />
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="2" />
@@ -558,9 +509,7 @@
             <al id="107956" />
             <mal id="39324" />
         </source>
-        <bestGirl
-            name="Latina"
-        />
+        <bestGirl name="Latina" />
 
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="4" />
         <dropped />
@@ -579,9 +528,7 @@
         </source>
 
         <!-- rst girl vs akm girl lol -->
-        <bestGirl
-            name="Shinobu Sarutobi"
-        />
+        <bestGirl name="Shinobu Sarutobi" />
 
         <!-- also akari kito ed wtf -->
         <!-- and the op is that osu song -->
@@ -598,9 +545,7 @@
             <al id="109287" />
             <mal id="39790" />
         </source>
-        <bestGirl
-            name="Hougetsu Shimamura"
-        />
+        <bestGirl name="Hougetsu Shimamura" />
 
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="3" />
         <dropped />
@@ -625,9 +570,7 @@
         <bestGirl
             name="Wang Yujia"
         /> <!-- noway it's the kimi no rhapsody girl -->
-        <bestGirl
-            name="Thi Mai Yoshimura"
-        />
+        <bestGirl name="Thi Mai Yoshimura" />
 
         <!-- in all seriousness, this is quite good. -->
         <!-- the 2 main girls are pretty match -->
@@ -644,9 +587,7 @@
             <al id="112609" />
             <mal id="40571" />
         </source>
-        <bestGirl
-            name="Elaina"
-        />
+        <bestGirl name="Elaina" />
 
         <visual type="animated" base="0.4" unique="0.3" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="6" />
@@ -664,9 +605,7 @@
             <mal id="40783" />
         </source>
         <!-- insert hatsune miku joke here -->
-        <bestGirl
-            name="Akari"
-        />
+        <bestGirl name="Akari" />
 
         <!-- the hatsune miku method -->
         <aei base="0.2" emotions="AP" />
@@ -681,9 +620,7 @@
             <al id="117343" />
             <mal id="41619" />
         </source>
-        <bestGirl
-            name="Nana Hiiragi"
-        />
+        <bestGirl name="Nana Hiiragi" />
 
         <visual type="animated" base="0.4" unique="0.5" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
@@ -699,9 +636,7 @@
             <al id="118419" />
             <mal id="41930" />
         </source>
-        <bestGirl
-            name="Kyouko Izanami"
-        />
+        <bestGirl name="Kyouko Izanami" />
 
         <visual type="animated" base="0.6" unique="0.4" />
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
@@ -721,9 +656,7 @@
         <!-- already impressive -->
         <!-- but that's not enough because MagiReco S2 -->
         <!-- is just too good -->
-        <bestGirl
-            name="Saki Saki"
-        />
+        <bestGirl name="Saki Saki" />
         <visual type="animated" base="0.4" unique="0.4" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
         <dropped />
@@ -737,9 +670,7 @@
             <al id="128545" />
             <mal id="46093" />
         </source>
-        <bestGirl
-            name="Fuuka Miyazawa"
-        />
+        <bestGirl name="Fuuka Miyazawa" />
 
         <!-- idk tf this anime is talking about lol -->
         <visual type="animated" base="0.3" unique="0.7" />
@@ -755,9 +686,7 @@
             <al id="114065" />
             <mal id="40904" />
         </source>
-        <bestGirl
-            name="Eiko Kawasegawa"
-        />
+        <bestGirl name="Eiko Kawasegawa" />
         <!-- this was expected to be a good compoly -->
         <!-- anime, but it doesn't care about that -->
         <!-- and just march on with its plot -->
@@ -775,9 +704,7 @@
             <mal id="44203" />
         </source>
         <!-- kimi no rhapsody girl -->
-        <bestGirl
-            name="Celia Claire"
-        />
+        <bestGirl name="Celia Claire" />
 
         <!-- the hoan tinh anime pt.1 -->
         <!-- from ep 5 to 10 there's no hoan tinh madge -->
@@ -806,9 +733,7 @@
             <al id="129898" />
             <mal id="47790" />
         </source>
-        <bestGirl
-            name="Dia"
-        />
+        <bestGirl name="Dia" />
 
         <!-- this initially was dropped, but rewatched in the remod era, hence the low boredom value -->
         <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
@@ -828,9 +753,7 @@
 
         <!-- "babe pls have sex with me im so horny" -->
         <!-- "haha the ortensia incident" -->
-        <bestGirl
-            name="Kyousuke Yotsuya"
-        />
+        <bestGirl name="Kyousuke Yotsuya" />
 
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
         <dropped />
@@ -863,9 +786,7 @@
             <al id="17919" />
             <mal id="17919" />
         </source>
-        <bestGirl
-            name="Subaru"
-        />
+        <bestGirl name="Subaru" />
 
         <!-- didn't expect mc to fall in love tho -->
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -881,9 +802,7 @@
             <mal id="35589" />
         </source>
 
-        <bestGirl
-            name="Tagitsuhime"
-        />
+        <bestGirl name="Tagitsuhime" />
         <!-- i hate my life -->
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
@@ -893,10 +812,7 @@
         <visual type="animated" base="0.5" unique="0.4" />
     </entry>
 
-    <entry
-        id="A-MAL-38091"
-        title="Hachigatsu no Cinderella Nine (TV)"
-    >
+    <entry id="A-MAL-38091" title="Hachigatsu no Cinderella Nine (TV)">
         <source>
             <adb id="38091" />
             <ks id="42144" />
@@ -913,10 +829,7 @@
         <visual type="animated" base="0.4" unique="0.5" />
     </entry>
 
-    <entry
-        id="A-MAL-37481"
-        title="Ongaku Shoujo (TV)"
-    >
+    <entry id="A-MAL-37481" title="Ongaku Shoujo (TV)">
         <source>
             <adb id="37481" />
             <ks id="41066" />

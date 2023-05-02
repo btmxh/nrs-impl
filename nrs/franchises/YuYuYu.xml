@@ -15,9 +15,7 @@
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Aurora Days">
-                <musicConsumedProgress
-                    length="4:00"
-                />
+                <musicConsumedProgress length="4:00" />
                 <music base="0.15" />
             </entry>
         </entry>
@@ -32,9 +30,7 @@
             <!-- the glorious udon stream map -->
             <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
             <entry id="$-2" title="U・D・N">
-                <musicConsumedProgress
-                    length="3:12"
-                />
+                <musicConsumedProgress length="3:12" />
                 <music base="0.4" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
@@ -77,19 +73,14 @@
             <contributor id="A-MAL-42587" factor="0.06" />
         </killedBy>
 
-        <entry
-            id="A-MAL-25519"
-            title="Yuuki Yuuna wa Yuusha de Aru"
-        >
+        <entry id="A-MAL-25519" title="Yuuki Yuuna wa Yuusha de Aru">
             <source>
                 <adb id="25519" />
                 <ks id="8638" />
                 <al id="20800" />
                 <mal id="25519" />
             </source>
-            <bestGirl
-                name="Yuuna Yuuki"
-            />
+            <bestGirl name="Yuuna Yuuki" />
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
             <!-- ye it's the shelter of yuri yuna now lmao -->
@@ -130,9 +121,7 @@
             <!-- well, at least chikage koori is still a meme -->
 
             <!-- based best girl -->
-            <bestGirl
-                name="Chikage Koori"
-            />
+            <bestGirl name="Chikage Koori" />
 <!--            status = EntryStatus.Watching -->
 
             <!-- There are a lot of sad things in this LN -->
@@ -178,9 +167,7 @@
             <!-- this was not taken very seriously -->
 
             <!-- she looked like best girl ngl -->
-            <bestGirl
-                name="Mimori Tougou"
-            />
+            <bestGirl name="Mimori Tougou" />
 
             <featureMusic id="M-VGMDB-AL-69821-1" />
             <!-- gin's death (the consequences of the ortensia incident) -->
@@ -207,9 +194,7 @@
                 <mal id="34445" />
             </source>
             <!-- "The Michi Random of Yuuki Yuuna" -->
-            <bestGirl
-                name="Yuuna Yuuki"
-            />
+            <bestGirl name="Yuuna Yuuki" />
 
             <!-- that conversation is peak drama -->
             <!-- it captures my heart and does make -->
@@ -242,9 +227,7 @@
             </source>
 
             <!-- seasonal = true -->
-            <bestGirl
-                name="Yuuna Yuuki"
-            />
+            <bestGirl name="Yuuna Yuuki" />
 
             <!-- I expected this to make a new Ayumu-era (something like -->
             <!-- Yuuna-era or some dumb shit like that), but it doesn't -->

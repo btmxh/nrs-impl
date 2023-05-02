@@ -6,10 +6,7 @@
     <!-- goodbye mr teppen and prima doll lol -->
     <!-- (the prima doll incident) -->
 
-    <entry
-        id="A-MAL-50760"
-        title="Teppen!!!!!!!!!!!!!!!"
-    >
+    <entry id="A-MAL-50760" title="Teppen!!!!!!!!!!!!!!!">
         <source>
             <adb id="50760" />
             <ks id="45729" />
@@ -17,9 +14,7 @@
             <mal id="50760" />
         </source>
 
-        <bestGirl
-            name="Yuzu Hosono"
-        />
+        <bestGirl name="Yuzu Hosono" />
 
         <!-- art has some flaws, but whatever -->
         <visual type="animated" base="0.4" unique="0.4" />
@@ -30,10 +25,7 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.25" effect="0.75" />
     </entry>
 
-    <entry
-        id="A-MAL-41589"
-        title="Tokyo Mew Mew New ♡"
-    >
+    <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡">
         <source>
             <adb id="41589" />
             <ks id="43098" />
@@ -41,9 +33,7 @@
             <mal id="41589" />
         </source>
 
-        <bestGirl
-            name="Ichigo Momomiya"
-        />
+        <bestGirl name="Ichigo Momomiya" />
 
         <!-- obligatory rst-cue studio(s) anime -->
         <!-- art is "interesting" ngl -->
@@ -57,10 +47,7 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
     </entry>
 
-    <entry
-        id="A-MAL-50917"
-        title="Prima Doll"
-    >
+    <entry id="A-MAL-50917" title="Prima Doll">
         <source>
             <adb id="50917" />
             <ks id="45812" />
@@ -71,9 +58,7 @@
         <!-- yep, ep 1 was ruined because of that bullcrap -->
         <!-- yep, the whole anime was ruined because of that girl -->
 
-        <bestGirl
-            name="Otome Okumiya"
-        />
+        <bestGirl name="Otome Okumiya" />
         <!-- ichijou ruka my beloved (she can't save this anime sadge) -->
 
         <!-- the prima doll incident -->
@@ -94,10 +79,7 @@
         <!-- kusunoki tomori - the prima doll destroyer -->
     </entry>
 
-    <entry
-        id="A-MAL-49470"
-        title="Mamahaha no Tsurego ga Motokano datta"
-    >
+    <entry id="A-MAL-49470" title="Mamahaha no Tsurego ga Motokano datta">
         <source>
             <adb id="49470" />
             <ks id="44913" />
@@ -113,9 +95,7 @@
         <!-- > Main                           Japanese -->
         <!-- oh i see -->
 
-        <bestGirl
-            name="Yume Irido"
-        />
+        <bestGirl name="Yume Irido" />
         <!-- self-explanatory -->
 
         <!-- good art (the rosia girl looks breedable af) -->
@@ -131,10 +111,7 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
     </entry>
 
-    <entry
-        id="A-MAL-50999"
-        title="Extreme Hearts"
-    >
+    <entry id="A-MAL-50999" title="Extreme Hearts">
         <source>
             <adb id="50999" />
             <ks id="45855" />
@@ -142,9 +119,7 @@
             <mal id="50999" />
         </source>
 
-        <bestGirl
-            name="Saki Kodaka"
-        />
+        <bestGirl name="Saki Kodaka" />
         <!-- saki is someone that we need but we don't deserve -->
 
         <!-- no fucking way ari ozawa and tomomi mineuchi in the same anime -->
@@ -171,10 +146,7 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.5" effect="0.75" />
     </entry>
 
-    <entry
-        id="A-MAL-50221"
-        title="Shine Post"
-    >
+    <entry id="A-MAL-50221" title="Shine Post">
         <source>
             <adb id="50221" />
             <ks id="45389" />
@@ -182,9 +154,7 @@
             <mal id="50221" />
         </source>
 
-        <bestGirl
-            name="Rio Seibu"
-        />
+        <bestGirl name="Rio Seibu" />
         <!-- lmfao himekek VA -->
         <!-- they even got her to sing a ballad omegalul -->
         <!-- (they know about her songs in sb69 these cheeky mfs) -->

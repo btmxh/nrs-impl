@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-5485" title="Imouto sae Ireba Ii.">
 
-        <entry
-            id="A-MAL-35413"
-            title="Imouto sae Ireba Ii."
-        >
+        <entry id="A-MAL-35413" title="Imouto sae Ireba Ii.">
             <source>
                 <adb id="35413" />
                 <ks id="11207" />
                 <al id="98596" />
                 <mal id="35413" />
             </source>
-            <bestGirl
-                name="Miyako Shirakawa"
-            />
+            <bestGirl name="Miyako Shirakawa" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -34,9 +29,7 @@
             <visual type="albumArt" base="0.5" unique="0.2" />
 
             <entry id="$-1" title="Ashita no Kimi sae Ireba Ii.">
-                <musicConsumedProgress
-                    length="5:04"
-                />
+                <musicConsumedProgress length="5:04" />
                 <music base="0.6" />
                 <osuSong personal="0.5" community="0.1" />
             </entry>

@@ -1,9 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
-    <entry
-        id="A-MAL-38816"
-        title="Hello World"
-    >
+    <entry id="A-MAL-38816" title="Hello World">
         <source>
             <adb id="38816" />
             <ks id="42030" />
@@ -12,9 +9,7 @@
         </source>
         <bestGirl name="Ichijou Ruka" />
         <!-- oh fuck -->
-        <bestGirl
-            name="Ruri Ichigyou"
-        />
+        <bestGirl name="Ruri Ichigyou" />
 
         <animeConsumedProgress
             status="Completed"
@@ -26,19 +21,14 @@
         <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
-    <entry
-        id="A-MAL-40295"
-        title="Another World"
-    >
+    <entry id="A-MAL-40295" title="Another World">
         <source>
             <adb id="40295" />
             <ks id="42527" />
             <al id="111733" />
             <mal id="40295" />
         </source>
-        <bestGirl
-            name="Ruri Ichigyou"
-        />
+        <bestGirl name="Ruri Ichigyou" />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="3" />
         <!-- the cg kinda help with making the anime unique lol -->

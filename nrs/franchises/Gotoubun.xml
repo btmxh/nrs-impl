@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-9342" title="Gotoubun no Hanayome">
 
-        <entry
-            id="A-MAL-38101"
-            title="5-toubun no Hanayome"
-        >
+        <entry id="A-MAL-38101" title="5-toubun no Hanayome">
             <source>
                 <adb id="38101" />
                 <ks id="41966" />
@@ -14,9 +11,7 @@
             </source>
 
             <!-- i miss yuyuyu's idke memes -->
-            <bestGirl
-                name="Itsuki Nakano"
-            />
+            <bestGirl name="Itsuki Nakano" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -29,10 +24,7 @@
             <featureMusic id="M-VGMDB-AL-82284" />
         </entry>
 
-        <entry
-            id="A-MAL-39783"
-            title="5-toubun no Hanayome ∬"
-        >
+        <entry id="A-MAL-39783" title="5-toubun no Hanayome ∬">
             <source>
                 <adb id="39783" />
                 <ks id="42324" />
@@ -41,9 +33,7 @@
             </source>
 
             <!-- lmfao "muh yuyuyu idc" -->
-            <bestGirl
-                name="Itsuki Nakano"
-            />
+            <bestGirl name="Itsuki Nakano" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -63,9 +53,7 @@
             <visual type="albumArt" base="0.5" unique="0.5" />
 
             <entry id="$-1" title="Gotoubun no Kimochi">
-                <musicConsumedProgress
-                    length="3:42"
-                />
+                <musicConsumedProgress length="3:42" />
                 <music base="0.3" />
             </entry>
         </entry>

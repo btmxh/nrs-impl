@@ -8,10 +8,7 @@
 
         <!-- ("... except for the fact that he is actually powerful, not like me xdddd") -->
 
-        <entry
-            id="A-MAL-48316"
-            title="Kage no Jitsuryokusha ni Naritakute!"
-        >
+        <entry id="A-MAL-48316" title="Kage no Jitsuryokusha ni Naritakute!">
             <source>
                 <adb id="48316" />
                 <ks id="44107" />
@@ -74,17 +71,12 @@
             />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-122851"
-            title="Darling in the Night / Shichikage"
-        >
+        <entry id="M-VGMDB-AL-122851" title="Darling in the Night / Shichikage">
             <!-- not anime girls :anger:, this needs correction -->
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Darling in the Night">
-                <musicConsumedProgress
-                    length="4:12"
-                />
+                <musicConsumedProgress length="4:12" />
                 <!-- same composer as "WONDERFUL WORLD", "Watashi to Minna no Uta" -->
                 <!-- (luminous witches song W), new game's step by step up -->
                 <!-- :arrow_up: :arrow_up: :arrow_up: and especially :skull: -->

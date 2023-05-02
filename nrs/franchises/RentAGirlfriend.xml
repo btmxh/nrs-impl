@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-9260" title="Kanojo, Okarishimasu">
 
-        <entry
-            id="A-MAL-40839"
-            title="Kanojo, Okarishimasu"
-        >
+        <entry id="A-MAL-40839" title="Kanojo, Okarishimasu">
             <source>
                 <adb id="40839" />
                 <ks id="43028" />
                 <al id="113813" />
                 <mal id="40839" />
             </source>
-            <bestGirl
-                name="Sumi Sakurasawa"
-            />
+            <bestGirl name="Sumi Sakurasawa" />
 
             <animeConsumedProgress
                 status="Dropped"

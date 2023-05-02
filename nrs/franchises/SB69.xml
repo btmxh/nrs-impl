@@ -101,19 +101,14 @@
             <contributor id="G-VGMDB-8429" factor="0.2" />
         </killedBy>
 
-        <entry
-            id="A-MAL-27441"
-            title="Show By Rock!!"
-        >
+        <entry id="A-MAL-27441" title="Show By Rock!!">
             <source>
                 <adb id="27441" />
                 <ks id="9729" />
                 <al id="20843" />
                 <mal id="27441" />
             </source>
-            <bestGirl
-                name="Cyan Hijirikawa"
-            />
+            <bestGirl name="Cyan Hijirikawa" />
 
             <featureMusic id="M-VGMDB-AL-51276-1" />
             <featureMusic id="M-VGMDB-AL-51278-1" />
@@ -128,19 +123,14 @@
             <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
-        <entry
-            id="A-MAL-32038"
-            title="Show By Rock!! #"
-        >
+        <entry id="A-MAL-32038" title="Show By Rock!! #">
             <source>
                 <adb id="32038" />
                 <ks id="11494" />
                 <al id="21476" />
                 <mal id="32038" />
             </source>
-            <bestGirl
-                name="Cyan Hijirikawa"
-            />
+            <bestGirl name="Cyan Hijirikawa" />
 
             <!-- the lesson thingy was pretty cool ig -->
             <aei base="0.2" emotions="MP" />
@@ -163,19 +153,14 @@
             <visual type="animated" base="0.6" unique="0.4" />
         </entry>
 
-        <entry
-            id="A-MAL-40763"
-            title="Show By Rock!! Mashumairesh!!"
-        >
+        <entry id="A-MAL-40763" title="Show By Rock!! Mashumairesh!!">
             <source>
                 <adb id="40763" />
                 <ks id="42885" />
                 <al id="113470" />
                 <mal id="40763" />
             </source>
-            <bestGirl
-                name="Himeko Mashima"
-            />
+            <bestGirl name="Himeko Mashima" />
             <!-- main girl is hoan tinh xdddddddddd -->
             <!-- chao em co gai howan tinh -->
             <!-- actually the cat appeared in last ep but idc -->
@@ -202,10 +187,7 @@
             />
         </entry>
 
-        <entry
-            id="A-MAL-41520"
-            title="Show by Rock!! Stars!!"
-        >
+        <entry id="A-MAL-41520" title="Show by Rock!! Stars!!">
             <source>
                 <adb id="41520" />
                 <ks id="43590" />
@@ -223,9 +205,7 @@
             <!-- update: shit happened and no more seasonal -->
             <!-- seasonal = false -->
 
-            <bestGirl
-                name="Cyan Hijirikawa"
-            />
+            <bestGirl name="Cyan Hijirikawa" />
 
             <!-- bro the ayumu shit happened again xddddddddddd -->
             <!-- basically in ep 1&2, the cat has little screentime, -->
@@ -257,19 +237,11 @@
         <featureMusic id="M-VGMDB-AL-62516-1" />
         <featureMusic id="M-VGMDB-AL-110219-1" />
 
-        <entry
-            id="M-VGMDB-AL-100087"
-            title="How To Fly / Cyan &amp; Howan"
-        >
+        <entry id="M-VGMDB-AL-100087" title="How To Fly / Cyan &amp; Howan">
 
             <visual type="albumArt" base="0.45" unique="0.3" />
-            <entry
-                id="$-1"
-                title="How To Fly"
-            >
-                <musicConsumedProgress
-                    length="4:01"
-                />
+            <entry id="$-1" title="How To Fly">
+                <musicConsumedProgress length="4:01" />
                 <!-- fes a live art looks a little bit weird ngl -->
                 <visual type="animatedMV" base="0.45" unique="0.3" />
                 <ref
@@ -281,20 +253,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-94913"
-            title="My pace!! / Plasmagica"
-        >
+        <entry id="M-VGMDB-AL-94913" title="My pace!! / Plasmagica">
 
             <visual type="albumArt" base="0.3" unique="0.7" />
 
-            <entry
-                id="$-1"
-                title="My pace!!"
-            >
-                <musicConsumedProgress
-                    length="4:15"
-                />
+            <entry id="$-1" title="My pace!!">
+                <musicConsumedProgress length="4:15" />
                 <!-- really interesting vocal -->
                 <!-- (somewhat resemble kano) -->
                 <ref
@@ -306,20 +270,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-51276"
-            title="Seishun wa Non-Stop! / Plasmagica"
-        >
+        <entry id="M-VGMDB-AL-51276" title="Seishun wa Non-Stop! / Plasmagica">
 
             <visual type="albumArt" base="0.6" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="Seishun wa Non-Stop!"
-            >
-                <musicConsumedProgress
-                    length="4:17"
-                />
+            <entry id="$-1" title="Seishun wa Non-Stop!">
+                <musicConsumedProgress length="4:17" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.25"
@@ -330,13 +286,8 @@
                 <remix id="M-20220125T063355-6" />
             </entry>
 
-            <entry
-                id="$-2"
-                title="Close to you"
-            >
-                <musicConsumedProgress
-                    length="3:43"
-                />
+            <entry id="$-2" title="Close to you">
+                <musicConsumedProgress length="3:43" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.4"
@@ -355,13 +306,8 @@
 
             <visual type="albumArt" base="0.45" unique="0.5" />
 
-            <entry
-                id="$-1"
-                title="Tabimichi Yoiyoi Yume Hanabi"
-            >
-                <musicConsumedProgress
-                    length="4:21"
-                />
+            <entry id="$-1" title="Tabimichi Yoiyoi Yume Hanabi">
+                <musicConsumedProgress length="4:21" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.3"
@@ -378,13 +324,8 @@
 
             <visual type="albumArt" base="0.55" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Meikyuu DESTINY"
-            >
-                <musicConsumedProgress
-                    length="4:04"
-                />
+            <entry id="$-1" title="Meikyuu DESTINY">
+                <musicConsumedProgress length="4:04" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.5"
@@ -393,13 +334,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-2"
-                title="Ryuusei Dreamline"
-            >
-                <musicConsumedProgress
-                    length="3:54"
-                />
+            <entry id="$-2" title="Ryuusei Dreamline">
+                <musicConsumedProgress length="3:54" />
                 <!-- kekekekekekek -->
                 <ref
                     name="FesALiveMusic"
@@ -410,17 +346,11 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-61217"
-            title="Heart wo Rock!! / Plasmagica"
-        >
+        <entry id="M-VGMDB-AL-61217" title="Heart wo Rock!! / Plasmagica">
 
             <visual type="albumArt" base="0.45" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Heart wo Rock!!"
-            >
+            <entry id="$-1" title="Heart wo Rock!!">
                 <!-- Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf -->
                 <musicConsumedProgress length="4:12" /> <!-- impl_overridden -->
                 <ref
@@ -439,13 +369,8 @@
 
             <visual type="albumArt" base="0.4" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Schlehit Melodie"
-            >
-                <musicConsumedProgress
-                    length="3:46"
-                />
+            <entry id="$-1" title="Schlehit Melodie">
+                <musicConsumedProgress length="3:46" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.4"
@@ -463,9 +388,7 @@
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="My Resolution ～未来への絆～">
-                <musicConsumedProgress
-                    length="5:03"
-                />
+                <musicConsumedProgress length="5:03" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.5"
@@ -475,9 +398,7 @@
             </entry>
 
             <entry id="$-3" title="Close to you (詩杏 ver.)">
-                <musicConsumedProgress
-                    length="4:02"
-                />
+                <musicConsumedProgress length="4:02" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.35"
@@ -489,17 +410,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-59914"
-            title="Do Re Mi Fa PARTY / Plasmagica"
-        >
+        <entry id="M-VGMDB-AL-59914" title="Do Re Mi Fa PARTY / Plasmagica">
 
             <visual type="albumArt" base="0.35" unique="0.5" />
 
             <entry id="$-1" title="ドレミファPARTY">
-                <musicConsumedProgress
-                    length="3:41"
-                />
+                <musicConsumedProgress length="3:41" />
                 <!-- xd -->
                 <ref
                     name="FesALiveMusic"
@@ -530,9 +446,7 @@
             <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Hiromenes">
-                <musicConsumedProgress
-                    length="4:14"
-                />
+                <musicConsumedProgress length="4:14" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.6"
@@ -542,9 +456,7 @@
             </entry>
 
             <entry id="$-2" title="Kimi no Rhapsody">
-                <musicConsumedProgress
-                    length="3:36"
-                />
+                <musicConsumedProgress length="3:36" />
                 <!-- hahahahahaaha the howan tinh song -->
                 <ref
                     name="FesALiveMusic"
@@ -557,9 +469,7 @@
             </entry>
 
             <entry id="$-3" title="Masshiro Start Line">
-                <musicConsumedProgress
-                    length="4:15"
-                />
+                <musicConsumedProgress length="4:15" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.6"
@@ -585,17 +495,12 @@
             <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-93441"
-            title="Yell and Response / Mashumairesh!!"
-        >
+        <entry id="M-VGMDB-AL-93441" title="Yell and Response / Mashumairesh!!">
 
             <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="エールアンドレスポンス">
-                <musicConsumedProgress
-                    length="3:46"
-                />
+                <musicConsumedProgress length="3:46" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.2"
@@ -613,9 +518,7 @@
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <entry id="$-2" title="イントロダクション">
-                <musicConsumedProgress
-                    length="4:20"
-                />
+                <musicConsumedProgress length="4:20" />
                 <!-- and we will fly beyond the sky -->
                 <!-- let's death, you will pay -->
                 <ref
@@ -635,9 +538,7 @@
             <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Do Re Mi Fa STARS!!">
-                <musicConsumedProgress
-                    length="4:06"
-                />
+                <musicConsumedProgress length="4:06" />
                 <!-- aka ceui - colorful days (mp-based franchise ver.) -->
                 <!-- or the counting song -->
                 <ref
@@ -648,13 +549,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-2"
-                title="Hoshizora Light Story"
-            >
-                <musicConsumedProgress
-                    length="4:05"
-                />
+            <entry id="$-2" title="Hoshizora Light Story">
+                <musicConsumedProgress length="4:05" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.35"
@@ -672,9 +568,7 @@
             <visual type="albumArt" base="0.1" unique="0.2" />
 
             <entry id="$-3" title="Do! It! Happy Daibouken!">
-                <musicConsumedProgress
-                    length="4:10"
-                />
+                <musicConsumedProgress length="4:10" />
                 <!-- do it party reference lmfao -->
                 <ref
                     name="FesALiveMusic"
@@ -684,13 +578,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-6"
-                title="Kyukyukyun♡Heart Shaker"
-            >
-                <musicConsumedProgress
-                    length="3:15"
-                />
+            <entry id="$-6" title="Kyukyukyun♡Heart Shaker">
+                <musicConsumedProgress length="3:15" />
                 <!-- aaaaa co sao method thong minh the -->
                 <!-- co le dell ai ngau giong anh chang -->
                 <!-- ngau loi nhat ca doi tuyen toan -->
@@ -713,9 +602,7 @@
             <visual type="albumArt" base="0.1" unique="0.2" />
 
             <entry id="$-3" title="Runner's High!!">
-                <musicConsumedProgress
-                    length="4:22"
-                />
+                <musicConsumedProgress length="4:22" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.5"
@@ -738,13 +625,8 @@
                 </nei>
             </entry>
 
-            <entry
-                id="$-5"
-                title="EMPIRE DOMINATOR"
-            >
-                <musicConsumedProgress
-                    length="3:42"
-                />
+            <entry id="$-5" title="EMPIRE DOMINATOR">
+                <musicConsumedProgress length="3:42" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.25"
@@ -753,13 +635,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-8"
-                title="Anokanatarium"
-            >
-                <musicConsumedProgress
-                    length="4:46"
-                />
+            <entry id="$-8" title="Anokanatarium">
+                <musicConsumedProgress length="4:46" />
                 <!-- this was unranked all this time????? -->
                 <!-- lmfao -->
                 <ref
@@ -776,20 +653,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-61982"
-            title="Hanate! Dododon! / Criticrista"
-        >
+        <entry id="M-VGMDB-AL-61982" title="Hanate! Dododon! / Criticrista">
 
             <visual type="albumArt" base="0.6" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Hanate! Dododon!"
-            >
-                <musicConsumedProgress
-                    length="5:00"
-                />
+            <entry id="$-1" title="Hanate! Dododon!">
+                <musicConsumedProgress length="5:00" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.5"
@@ -807,9 +676,7 @@
             <visual type="albumArt" base="0.2" unique="0.5" />
 
             <entry id="$-1" title="最終列車">
-                <musicConsumedProgress
-                    length="4:11"
-                />
+                <musicConsumedProgress length="4:11" />
                 <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
                 <ref
                     name="FesALiveMusic"
@@ -820,9 +687,7 @@
             </entry>
 
             <entry id="$-2" title="ハツコイノオト">
-                <musicConsumedProgress
-                    length="3:12"
-                />
+                <musicConsumedProgress length="3:12" />
                 <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
                 <!-- himeno sena 2023 fascism neo-autism nozsism autism -->
                 <ref
@@ -841,13 +706,8 @@
 
             <visual type="albumArt" base="0.6" unique="0.3" />
 
-            <entry
-                id="$-1"
-                title="Taikakusen wo Tsunaideyo"
-            >
-                <musicConsumedProgress
-                    length="3:44"
-                />
+            <entry id="$-1" title="Taikakusen wo Tsunaideyo">
+                <musicConsumedProgress length="3:44" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.65"
@@ -868,13 +728,8 @@
             <validatorSuppress rules="dah-visualless-entry" />
 
             <!-- also sung by Ailane (cv. Ruriko Noguchi) and Shibarin (cv. Marika Kohno) -->
-            <entry
-                id="$-1"
-                title="グッデイバイデイ"
-            >
-                <musicConsumedProgress
-                    length="4:26"
-                />
+            <entry id="$-1" title="グッデイバイデイ">
+                <musicConsumedProgress length="4:26" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.35"
@@ -887,20 +742,12 @@
             <!-- RemixOf("M-VGMDB-AL-97688-16") -->
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-100082"
-            title="Mirai Wanted / Plasmagica"
-        >
+        <entry id="M-VGMDB-AL-100082" title="Mirai Wanted / Plasmagica">
 
             <visual type="albumArt" base="0.4" unique="0.5" />
 
-            <entry
-                id="$-1"
-                title="Mirai Wanted"
-            >
-                <musicConsumedProgress
-                    length="4:23"
-                />
+            <entry id="$-1" title="Mirai Wanted">
+                <musicConsumedProgress length="4:23" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.5"
@@ -910,20 +757,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-116297"
-            title="Bokura no Neiro / Plasmagica"
-        >
+        <entry id="M-VGMDB-AL-116297" title="Bokura no Neiro / Plasmagica">
 
             <visual type="albumArt" base="0.4" unique="0.5" />
 
-            <entry
-                id="$-1"
-                title="Bokura no Neiro"
-            >
-                <musicConsumedProgress
-                    length="4:23"
-                />
+            <entry id="$-1" title="Bokura no Neiro">
+                <musicConsumedProgress length="4:23" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <ref
                     name="FesALiveMusic"
@@ -934,20 +773,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-105612"
-            title="Mot Mot Mot / Criticrista"
-        >
+        <entry id="M-VGMDB-AL-105612" title="Mot Mot Mot / Criticrista">
 
             <visual type="albumArt" base="0.25" unique="0.45" />
 
-            <entry
-                id="$-1"
-                title="Mot Mot Mot"
-            >
-                <musicConsumedProgress
-                    length="3:42"
-                />
+            <entry id="$-1" title="Mot Mot Mot">
+                <musicConsumedProgress length="3:42" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.65"
@@ -957,19 +788,11 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-86315"
-            title="P SHOW BY ROCK!! CD"
-        >
+        <entry id="M-VGMDB-AL-86315" title="P SHOW BY ROCK!! CD">
             <visual type="albumArt" base="0.6" unique="0.5" />
 
-            <entry
-                id="$-3"
-                title="Nyumber One! Zettai Saikyou!"
-            >
-                <musicConsumedProgress
-                    length="4:23"
-                />
+            <entry id="$-3" title="Nyumber One! Zettai Saikyou!">
+                <musicConsumedProgress length="4:23" />
                 <!-- what else do you expect xddddddddddddd -->
                 <ref
                     name="FesALiveMusic"
@@ -990,13 +813,8 @@
 
             <visual type="albumArt" base="0.3" unique="0.3" />
 
-            <entry
-                id="$-1"
-                title="ループしてる"
-            >
-                <musicConsumedProgress
-                    length="3:45"
-                />
+            <entry id="$-1" title="ループしてる">
+                <musicConsumedProgress length="3:45" />
                 <!-- :tf: -->
                 <ref
                     name="FesALiveMusic"
@@ -1006,13 +824,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-2"
-                title="あすいろ恋模様"
-            >
-                <musicConsumedProgress
-                    length="4:33"
-                />
+            <entry id="$-2" title="あすいろ恋模様">
+                <musicConsumedProgress length="4:33" />
                 <!-- absolute catjammer -->
                 <!-- cricri is just too fking based -->
 
@@ -1063,19 +876,11 @@
 
         <!-- adding these songs to increase Murakawa Rie and Hidaka Rina's score lol -->
         <!-- (i can't accept ayumu va to be higher than rina hidaka lol) -->
-        <entry
-            id="M-VGMDB-AL-95313"
-            title="How Are You? / Criticrista"
-        >
+        <entry id="M-VGMDB-AL-95313" title="How Are You? / Criticrista">
             <visual type="albumArt" base="0.3" unique="0.3" />
 
-            <entry
-                id="$-1"
-                title="はうあーゆー？"
-            >
-                <musicConsumedProgress
-                    length="4:01"
-                />
+            <entry id="$-1" title="はうあーゆー？">
+                <musicConsumedProgress length="4:01" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.6"
@@ -1085,19 +890,11 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-95314"
-            title="Happy Happy Jump / Criticrista"
-        >
+        <entry id="M-VGMDB-AL-95314" title="Happy Happy Jump / Criticrista">
             <visual type="albumArt" base="0.3" unique="0.3" />
 
-            <entry
-                id="$-1"
-                title="Happy Happy Jump"
-            >
-                <musicConsumedProgress
-                    length="3:44"
-                />
+            <entry id="$-1" title="Happy Happy Jump">
+                <musicConsumedProgress length="3:44" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.5"
@@ -1115,9 +912,7 @@
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Hoshitachi no Orchestra Parade">
-                <musicConsumedProgress
-                    length="3:54"
-                />
+                <musicConsumedProgress length="3:54" />
                 <ref
                     name="FesALiveMusic"
                     _.base="0.7"
@@ -1135,16 +930,11 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-124215"
-            title="Koishichatta! / Criticrista"
-        >
+        <entry id="M-VGMDB-AL-124215" title="Koishichatta! / Criticrista">
 
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Koishichatta!">
-                <musicConsumedProgress
-                    length="4:17"
-                />
+                <musicConsumedProgress length="4:17" />
                 <ref name="FesALiveMusic" _.base="0.3" _.eras="" _.from="nee" />
             </entry>
         </entry>

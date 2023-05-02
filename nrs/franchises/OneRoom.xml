@@ -16,9 +16,7 @@
 
             <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Harumachi Clover">
-                <musicConsumedProgress
-                    length="4:06"
-                />
+                <musicConsumedProgress length="4:06" />
                 <!-- ME NO MAE NO TOBIRA O AKETARA HARU KAZE -->
                 <!-- TORI TACHI MO KIGI DE MACHIAWASE -->
                 <!-- KIMI E MUKAU SHINGOU AOZORA IRO -->
@@ -33,19 +31,14 @@
             </entry>
         </entry>
 
-        <entry
-            id="A-MAL-34392"
-            title="One Room"
-        >
+        <entry id="A-MAL-34392" title="One Room">
             <source>
                 <adb id="34392" />
                 <ks id="12758" />
                 <al id="97857" />
                 <mal id="34392" />
             </source>
-            <bestGirl
-                name="Yui Hanasaka"
-            />
+            <bestGirl name="Yui Hanasaka" />
             <!-- seasonal = true -->
 
             <animeConsumedProgress

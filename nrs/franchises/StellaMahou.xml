@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-6424" title="Stella no Mahou">
 
-        <entry
-            id="A-MAL-32555"
-            title="Stella no Mahou"
-        >
+        <entry id="A-MAL-32555" title="Stella no Mahou">
             <source>
                 <adb id="32555" />
                 <ks id="11756" />
@@ -26,18 +23,10 @@
             <featureMusic id="M-VGMDB-AL-60899-1" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-60899"
-            title="God Save The Girls / Shino Shimoji"
-        >
+        <entry id="M-VGMDB-AL-60899" title="God Save The Girls / Shino Shimoji">
             <visual type="albumArt" base="0.2" unique="0.2" />
-            <entry
-                id="$-1"
-                title="God Save The Girls"
-            >
-                <musicConsumedProgress
-                    length="4:19"
-                />
+            <entry id="$-1" title="God Save The Girls">
+                <musicConsumedProgress length="4:19" />
                 <music base="0.45" />
                 <osuSong personal="0.25" community="0.0" />
             </entry>

@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-7175" title="Midara na Ao-chan wa Benkyou ga Dekinai">
 
-        <entry
-            id="A-MAL-38778"
-            title="Midara na Ao-chan wa Benkyou ga Dekinai"
-        >
+        <entry id="A-MAL-38778" title="Midara na Ao-chan wa Benkyou ga Dekinai">
             <source>
                 <adb id="38778" />
                 <ks id="42024" />
                 <al id="105989" />
                 <mal id="38778" />
             </source>
-            <bestGirl
-                name="Ao Horie"
-            />
+            <bestGirl name="Ao Horie" />
             <animeConsumedProgress
                 status="Dropped"
                 boredom="0.7"
@@ -30,9 +25,7 @@
 
             <!-- simple heart dt -->
             <entry id="$-1" title="WONDERFUL WONDER">
-                <musicConsumedProgress
-                    length="3:03"
-                />
+                <musicConsumedProgress length="3:03" />
                 <music base="0.15" />
                 <osuSong personal="0.4" community="0.2" />
             </entry>

@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-2520" title="Love Lab">
 
-        <entry
-            id="A-MAL-16353"
-            title="Love Lab"
-        >
+        <entry id="A-MAL-16353" title="Love Lab">
             <source>
                 <adb id="16353" />
                 <ks id="7410" />
@@ -25,18 +22,10 @@
             <featureMusic id="M-VGMDB-AL-40263-1" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-40263"
-            title="Love Lab Vol.2 Bonus CD"
-        >
+        <entry id="M-VGMDB-AL-40263" title="Love Lab Vol.2 Bonus CD">
             <visual type="albumArt" base="0.1" unique="0.2" />
-            <entry
-                id="$-1"
-                title="Best FriendS"
-            >
-                <musicConsumedProgress
-                    length="4:32"
-                />
+            <entry id="$-1" title="Best FriendS">
+                <musicConsumedProgress length="4:32" />
                 <music base="0.4" />
                 <osuSong personal="0.7" community="0.8" />
             </entry>

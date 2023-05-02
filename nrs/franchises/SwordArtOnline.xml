@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-2633" title="Sword Art Online">
 
-        <entry
-            id="A-MAL-11757"
-            title="Sword Art Online"
-        >
+        <entry id="A-MAL-11757" title="Sword Art Online">
             <source>
                 <adb id="11757" />
                 <ks id="6589" />
@@ -13,9 +10,7 @@
                 <mal id="11757" />
             </source>
 
-            <bestGirl
-                name="Asuna Yuuki"
-            />
+            <bestGirl name="Asuna Yuuki" />
             <featureMusic id="M-VGMDB-AL-33537-1" />
             <animeConsumedProgress
                 status="Completed"
@@ -25,10 +20,7 @@
             <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
-        <entry
-            id="A-MAL-21881"
-            title="Sword Art Online II"
-        >
+        <entry id="A-MAL-21881" title="Sword Art Online II">
             <source>
                 <adb id="21881" />
                 <ks id="8174" />
@@ -36,9 +28,7 @@
                 <mal id="21881" />
             </source>
 
-            <bestGirl
-                name="Asuna Yuuki"
-            />
+            <bestGirl name="Asuna Yuuki" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -47,10 +37,7 @@
             <visual type="animated" base="0.4" unique="0.25" />
         </entry>
 
-        <entry
-            id="A-MAL-31765"
-            title="Sword Art Online Movie: Ordinal Scale"
-        >
+        <entry id="A-MAL-31765" title="Sword Art Online Movie: Ordinal Scale">
             <source>
                 <adb id="31765" />
                 <ks id="11423" />
@@ -58,9 +45,7 @@
                 <mal id="31765" />
             </source>
 
-            <bestGirl
-                name="Asuna Yuuki"
-            />
+            <bestGirl name="Asuna Yuuki" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.75"

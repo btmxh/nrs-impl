@@ -4,10 +4,7 @@
     <!-- (why is boatshit everywhere i hate my life) -->
 
     <!-- this is peak idol dystopia -->
-    <entry
-        id="A-MAL-49849"
-        title="Shinmai Renkinjutsushi no Tenpo Keiei"
-    >
+    <entry id="A-MAL-49849" title="Shinmai Renkinjutsushi no Tenpo Keiei">
         <source>
             <adb id="49849" />
             <ks id="45222" />
@@ -34,10 +31,7 @@
         <dropped />
     </entry>
 
-    <entry
-        id="A-MAL-47917"
-        title="Bocchi the Rock!"
-    >
+    <entry id="A-MAL-47917" title="Bocchi the Rock!">
         <source>
             <adb id="47917" />
             <ks id="44196" />

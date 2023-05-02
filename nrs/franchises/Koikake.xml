@@ -116,9 +116,7 @@
             <visual type="albumArt" base="1.0" unique="0.3" />
 
             <entry id="$-2" title="記憶×ハジマリ">
-                <musicConsumedProgress
-                    length="4:23"
-                />
+                <musicConsumedProgress length="4:23" />
                 <!-- chorus sucks but -->
                 <!-- the inst is atm-farm-pilled af -->
                 <!-- unironically can be meta soon :eyes: -->
@@ -129,16 +127,12 @@
             </entry>
 
             <entry id="$-14" title="東の空から始まる世界">
-                <musicConsumedProgress
-                    length="4:01"
-                />
+                <musicConsumedProgress length="4:01" />
                 <music base="0.6" />
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
-                <musicConsumedProgress
-                    length="4:16"
-                />
+                <musicConsumedProgress length="4:16" />
                 <!-- Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️ -->
                 <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
@@ -167,18 +161,13 @@
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-123896"
-        title="Starry Avenue"
-    >
+    <entry id="M-VGMDB-AL-123896" title="Starry Avenue">
 
         <visual type="albumArt" base="0.6" unique="0.4" />
         <!-- NEE music :skull: -->
 
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
-            <musicConsumedProgress
-                length="4:53"
-            />
+            <musicConsumedProgress length="4:53" />
             <music base="0.7" />
             <ref
                 name="KoikakeCry"

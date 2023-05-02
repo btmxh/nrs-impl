@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-6626" title="Iroduku Sekai no Ashita kara">
 
-        <entry
-            id="A-MAL-37497"
-            title="Irozuku Sekai no Ashita kara"
-        >
+        <entry id="A-MAL-37497" title="Irozuku Sekai no Ashita kara">
             <source>
                 <adb id="37497" />
                 <ks id="41101" />
                 <al id="101316" />
                 <mal id="37497" />
             </source>
-            <bestGirl
-                name="Hitomi Tsukishiro"
-            />
+            <bestGirl name="Hitomi Tsukishiro" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -31,17 +26,12 @@
         <contains id="M-VGMDB-AL-80341-1" />
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-80341"
-        title="17-sai / Haruka to Miyuki"
-    >
+    <entry id="M-VGMDB-AL-80341" title="17-sai / Haruka to Miyuki">
 
         <visual type="albumArt" base="0.2" unique="0.3" />
 
         <entry id="$-1" title="17-sai">
-            <musicConsumedProgress
-                length="4:33"
-            />
+            <musicConsumedProgress length="4:33" />
             <music base="0.5" />
         </entry>
     </entry>

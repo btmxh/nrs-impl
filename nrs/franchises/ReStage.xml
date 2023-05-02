@@ -69,10 +69,7 @@
 
     <entry id="F-VGMDB-7059" title="Re:STAGE!">
 
-        <entry
-            id="A-MAL-38009"
-            title="Re:Stage! Dream Days♪"
-        >
+        <entry id="A-MAL-38009" title="Re:Stage! Dream Days♪">
             <source>
                 <adb id="38009" />
                 <ks id="42280" />
@@ -139,9 +136,7 @@
             <!-- https://srgym.official.ec/p/00001 -->
 
             <!-- for rst shills <3: https://www.google.com/search?q=grass&tbm=isch -->
-            <bestGirl
-                name="Mana Shikimiya"
-            />
+            <bestGirl name="Mana Shikimiya" />
             <!-- her seiyuu is the GINGACHAD seiyuu amane makino btw -->
             <!-- play this: https://www.youtube.com/watch?v=QJJYpsA5tv8 -->
             <!-- follow her pls: https://twitter.com/makinoamane -->
@@ -220,20 +215,12 @@
             </regularImpact>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78536"
-            title="Startin' My Re:STAGE!! / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe">
 
             <visual type="albumArt" base="0.2" unique="0.6" />
 
-            <entry
-                id="$-2"
-                title="Startin' My Re:STAGE!!"
-            >
-                <musicConsumedProgress
-                    length="4:01"
-                />
+            <entry id="$-2" title="Startin' My Re:STAGE!!">
+                <musicConsumedProgress length="4:01" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.1"
@@ -243,20 +230,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78534"
-            title="Remembers! / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78534" title="Remembers! / KiRaRe">
 
             <visual type="albumArt" base="0.4" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="リメンバーズ!"
-            >
-                <musicConsumedProgress
-                    length="4:25"
-                />
+            <entry id="$-1" title="リメンバーズ!">
+                <musicConsumedProgress length="4:25" />
                 <!-- haha funny centuRe: reference -->
                 <!-- arc2 = 20.0 the century man -->
                 <!-- arc3 = 10.0 rst song comp -->
@@ -268,13 +247,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-2"
-                title="君に贈るAngel Yell"
-            >
-                <musicConsumedProgress
-                    length="4:25"
-                />
+            <entry id="$-2" title="君に贈るAngel Yell">
+                <musicConsumedProgress length="4:25" />
                 <!-- the angel yell incident -->
                 <ref
                     name="ReStepMusic"
@@ -287,39 +261,23 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78575"
-            title="Natsu no Yakusoku / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78575" title="Natsu no Yakusoku / KiRaRe">
 
             <!-- 367days background lmfao -->
             <visual type="albumArt" base="0.25" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="Natsu no Yakusoku"
-            >
-                <musicConsumedProgress
-                    length="4:20"
-                />
+            <entry id="$-1" title="Natsu no Yakusoku">
+                <musicConsumedProgress length="4:20" />
                 <ref name="ReStepMusic" _.base="0.15" _.from="arc1" _.eras="" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78532"
-            title="Akogare Future Sign / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78532" title="Akogare Future Sign / KiRaRe">
 
             <visual type="albumArt" base="0.25" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="憧れFuture Sign"
-            >
-                <musicConsumedProgress
-                    length="4:53"
-                />
+            <entry id="$-1" title="憧れFuture Sign">
+                <musicConsumedProgress length="4:53" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.3"
@@ -335,20 +293,12 @@
             <contains id="M-VGMDB-AL-78575-1" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78530"
-            title="KiRaRhythm / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78530" title="KiRaRhythm / KiRaRe">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Do it!! PARTY!!"
-            >
-                <musicConsumedProgress
-                    length="4:33"
-                />
+            <entry id="$-1" title="Do it!! PARTY!!">
+                <musicConsumedProgress length="4:33" />
                 <!-- do it happy daibouken reference -->
                 <ref
                     name="ReStepMusic"
@@ -365,19 +315,11 @@
             <contains id="M-VGMDB-AL-78536-2" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78516"
-            title="SENSEI Sensation / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78516" title="SENSEI Sensation / KiRaRe">
 
             <visual type="albumArt" base="0.25" unique="0.6" />
-            <entry
-                id="$-1"
-                title="宣誓センセーション"
-            >
-                <musicConsumedProgress
-                    length="4:20"
-                />
+            <entry id="$-1" title="宣誓センセーション">
+                <musicConsumedProgress length="4:20" />
                 <!-- [plasmagunstepgica] -->
                 <ref
                     name="ReStepMusic"
@@ -389,20 +331,12 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78764"
-            title="367Days / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-78764" title="367Days / KiRaRe">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="367Days"
-            >
-                <musicConsumedProgress
-                    length="5:10"
-                />
+            <entry id="$-1" title="367Days">
+                <musicConsumedProgress length="5:10" />
                 <!-- THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT -->
                 <!-- (definitely not a cheap copy of osu's 727) -->
                 <!-- still funnier than atelier's 15 -->
@@ -422,19 +356,11 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-84229"
-            title="HAPPY TYPHOON / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-84229" title="HAPPY TYPHOON / KiRaRe">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
-            <entry
-                id="$-1"
-                title="ハッピータイフーン"
-            >
-                <musicConsumedProgress
-                    length="4:34"
-                />
+            <entry id="$-1" title="ハッピータイフーン">
+                <musicConsumedProgress length="4:34" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.08"
@@ -444,9 +370,7 @@
             </entry>
 
             <entry id="$-2" title="ステレオライフ">
-                <musicConsumedProgress
-                    length="4:28"
-                />
+                <musicConsumedProgress length="4:28" />
                 <!-- yozora ni kagayaku yume no ryuusei wa -->
                 <!-- kek -->
                 <ref
@@ -464,9 +388,7 @@
         >
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-1" title="Don't think, smile!!">
-                <musicConsumedProgress
-                    length="4:44"
-                />
+                <musicConsumedProgress length="4:44" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.25"
@@ -476,9 +398,7 @@
             </entry>
 
             <entry id="$-2" title="Akogare Future Sign (Piano Strings Arrange)">
-                <musicConsumedProgress
-                    length="4:56"
-                />
+                <musicConsumedProgress length="4:56" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.2"
@@ -497,9 +417,7 @@
 
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-1" title="Kirameki Future">
-                <musicConsumedProgress
-                    length="4:02"
-                />
+                <musicConsumedProgress length="4:02" />
                 <!-- ca truong chuyen deu luon luon khiep so -->
                 <!-- mot nguoi diet het moi tuong lai uoc mo -->
                 <!-- xinh dep bac nhat tren thai binh que to -->
@@ -513,9 +431,7 @@
             </entry>
 
             <entry id="$-2" title="OvertuRe:">
-                <musicConsumedProgress
-                    length="4:51"
-                />
+                <musicConsumedProgress length="4:51" />
                 <!-- meme lyrics xddd -->
                 <!-- I can't rely on one -->
                 <!-- 一つじゃ頼りない -->
@@ -570,13 +486,8 @@
             title="Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE."
         >
             <visual type="albumArt" base="0.6" unique="0.2" />
-            <entry
-                id="$-5"
-                title="Invisible Diamond"
-            >
-                <musicConsumedProgress
-                    length="3:53"
-                />
+            <entry id="$-5" title="Invisible Diamond">
+                <musicConsumedProgress length="3:53" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.65"
@@ -587,10 +498,7 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AR-30829"
-            title="KiRaRe"
-        >
+        <entry id="M-VGMDB-AR-30829" title="KiRaRe">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78536" />
@@ -619,9 +527,7 @@
             <contains id="M-VGMDB-AL-78520-1" />
 
             <entry id="$-3" title="Yes, We Are!!!">
-                <musicConsumedProgress
-                    length="4:08"
-                />
+                <musicConsumedProgress length="4:08" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.35"
@@ -631,24 +537,17 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78520"
-            title="Purple Rays / ortensia"
-        >
+        <entry id="M-VGMDB-AL-78520" title="Purple Rays / ortensia">
 
             <visual type="albumArt" base="0.35" unique="0.55" />
 
             <entry id="$-1" title="Purple Rays">
-                <musicConsumedProgress
-                    length="4:02"
-                />
+                <musicConsumedProgress length="4:02" />
                 <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="" />
             </entry>
 
             <entry id="$-2" title="Dear マイフレンド">
-                <musicConsumedProgress
-                    length="4:29"
-                />
+                <musicConsumedProgress length="4:29" />
                 <!-- blame localism -->
                 <ref
                     name="ReStepMusic"
@@ -659,26 +558,16 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78339"
-            title="*Heart Confusion* / ortensia"
-        >
+        <entry id="M-VGMDB-AL-78339" title="*Heart Confusion* / ortensia">
 
             <visual type="albumArt" base="0.25" unique="0.65" />
             <entry id="$-1" title="*Heart Confusion*">
-                <musicConsumedProgress
-                    length="3:46"
-                />
+                <musicConsumedProgress length="3:46" />
                 <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="" />
             </entry>
 
-            <entry
-                id="$-2"
-                title="crave"
-            >
-                <musicConsumedProgress
-                    length="4:35"
-                />
+            <entry id="$-2" title="crave">
+                <musicConsumedProgress length="4:35" />
                 <!-- gigachad keeno: -->
                 <!-- >doesn't give a shit about multimedia franchises -->
                 <!-- >still makes a song for rst anyway, but other franchises get none -->
@@ -693,10 +582,7 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-82983"
-            title="Pullulate / ortensia"
-        >
+        <entry id="M-VGMDB-AL-82983" title="Pullulate / ortensia">
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <contains id="M-VGMDB-AL-78339-1" />
@@ -705,9 +591,7 @@
             <contains id="M-VGMDB-AL-78520-2" />
 
             <entry id="$-5" title="Ano ne">
-                <musicConsumedProgress
-                    length="3:45"
-                />
+                <musicConsumedProgress length="3:45" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.2"
@@ -799,20 +683,12 @@
         <!-- (like 20-30 days won't do much for something that's longer than 300 days) -->
         <meme strength="0.3" from="2022-01-01" to="today" />
 
-        <entry
-            id="M-VGMDB-AL-82369"
-            title="Q.E.D. / Stellamaris"
-        >
+        <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris">
 
             <visual type="albumArt" base="0.4" unique="0.5" />
 
-            <entry
-                id="$-1"
-                title="InFiction"
-            >
-                <musicConsumedProgress
-                    length="3:30"
-                />
+            <entry id="$-1" title="InFiction">
+                <musicConsumedProgress length="3:30" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.45"
@@ -821,13 +697,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-8"
-                title="DESERT BLACK FLOWER"
-            >
-                <musicConsumedProgress
-                    length="4:32"
-                />
+            <entry id="$-8" title="DESERT BLACK FLOWER">
+                <musicConsumedProgress length="4:32" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.75"
@@ -854,20 +725,12 @@
             </contains>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-78515"
-            title="Raise Your Fist / Tetrarkhia"
-        >
+        <entry id="M-VGMDB-AL-78515" title="Raise Your Fist / Tetrarkhia">
 
             <visual type="albumArt" base="0.4" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="カナリア"
-            >
-                <musicConsumedProgress
-                    length="3:16"
-                />
+            <entry id="$-1" title="カナリア">
+                <musicConsumedProgress length="3:16" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.6"
@@ -887,9 +750,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-109271-48" title="私たち、四季を遊ぶんです!!">
-            <musicConsumedProgress
-                length="4:34"
-            />
+            <musicConsumedProgress length="4:34" />
 
             <!-- i mapped and tried to shill it on: -->
             <!-- - sotarks map roasting -->
@@ -914,13 +775,8 @@
 
             <visual type="albumArt" base="0.5" unique="0.2" />
 
-            <entry
-                id="$-1"
-                title="Bridge to Dream"
-            >
-                <musicConsumedProgress
-                    length="3:36"
-                />
+            <entry id="$-1" title="Bridge to Dream">
+                <musicConsumedProgress length="3:36" />
                 <!-- method, la method -->
                 <!-- nguoi ma mang lai nhung dieu ma ta tin -->
                 <!-- method -->
@@ -937,13 +793,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-2"
-                title="Re:Rays"
-            >
-                <musicConsumedProgress
-                    length="4:10"
-                />
+            <entry id="$-2" title="Re:Rays">
+                <musicConsumedProgress length="4:10" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.5"
@@ -952,13 +803,8 @@
                 />
             </entry>
 
-            <entry
-                id="$-3"
-                title="Tomorrow Melodies"
-            >
-                <musicConsumedProgress
-                    length="5:01"
-                />
+            <entry id="$-3" title="Tomorrow Melodies">
+                <musicConsumedProgress length="5:01" />
                 <!-- do chinh la method -->
                 <!-- nguoi dan ong da khien ca truong, -->
                 <!-- ca truong chuyen da luon lo so -->
@@ -972,9 +818,7 @@
             </entry>
 
             <entry id="$-4" title="Pins&amp;Needles">
-                <musicConsumedProgress
-                    length="3:42"
-                />
+                <musicConsumedProgress length="3:42" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.45"
@@ -984,9 +828,7 @@
             </entry>
 
             <entry id="$-5" title="We Remember">
-                <musicConsumedProgress
-                    length="4:47"
-                />
+                <musicConsumedProgress length="4:47" />
                 <!-- ngau loi vai ra -->
                 <!-- nay nhat minh oi nay nhat minh oi -->
                 <!-- tai vi sao a qua ngau -->
@@ -1014,13 +856,8 @@
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="Sin City"
-            >
-                <musicConsumedProgress
-                    length="3:52"
-                />
+            <entry id="$-1" title="Sin City">
+                <musicConsumedProgress length="3:52" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.35"
@@ -1040,13 +877,8 @@
             <visual type="albumArt" base="0.35" unique="0.6" />
 
             <!-- ty for going back based akari kito -->
-            <entry
-                id="$-1"
-                title="Chiguhagu Melody"
-            >
-                <musicConsumedProgress
-                    length="3:55"
-                />
+            <entry id="$-1" title="Chiguhagu Melody">
+                <musicConsumedProgress length="3:55" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.2"
@@ -1056,10 +888,7 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-120842"
-            title="Unison Monologue / Tetrarkhia"
-        >
+        <entry id="M-VGMDB-AL-120842" title="Unison Monologue / Tetrarkhia">
             <!-- https://linkco.re/YShsnTEb -->
             <!-- aka the 330 bpm song but actually an alt-165 bpm one -->
 
@@ -1069,13 +898,8 @@
             <!-- also rst chads keep winning -->
             <!-- TODO: put this in the track entry or the album entry? -->
             <visual type="semiAnimatedMV" base="0.2" unique="0.6" />
-            <entry
-                id="$-1"
-                title="ユニゾンモノローグ"
-            >
-                <musicConsumedProgress
-                    length="3:49"
-                />
+            <entry id="$-1" title="ユニゾンモノローグ">
+                <musicConsumedProgress length="3:49" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.3"
@@ -1085,28 +909,17 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-120836"
-            title="Ginga no Shizuku / TROIS ANGES"
-        >
+        <entry id="M-VGMDB-AL-120836" title="Ginga no Shizuku / TROIS ANGES">
             <!-- le gingachad seiyuu -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
-            <entry
-                id="$-1"
-                title="Ginga no Shizuku"
-            >
-                <musicConsumedProgress
-                    length="4:49"
-                />
+            <entry id="$-1" title="Ginga no Shizuku">
+                <musicConsumedProgress length="4:49" />
                 <ref name="ReStepMusic" _.base="0.15" _.from="arc3" _.eras="" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-121168"
-            title="Clematis / Stellamaris"
-        >
+        <entry id="M-VGMDB-AL-121168" title="Clematis / Stellamaris">
             <!-- catjam tho -->
             <!-- no one's like the "intelligent update", no one's like the king (clap x2) -->
             <!-- shining like the dawn, scared the whole high school (clap x2) -->
@@ -1118,13 +931,8 @@
 
             <visual type="albumArt" base="0.35" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="Clematis"
-            >
-                <musicConsumedProgress
-                    length="4:30"
-                />
+            <entry id="$-1" title="Clematis">
+                <musicConsumedProgress length="4:30" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.65"
@@ -1134,22 +942,14 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-122232"
-            title="Ideal/Idol / KiRaRe"
-        >
+        <entry id="M-VGMDB-AL-122232" title="Ideal/Idol / KiRaRe">
             <!-- inb4 the "i'd like to interject for a moment, -->
             <!-- what ur refering to as idol, is in fact ideal/idol..." pasta -->
 
             <visual type="albumArt" base="0.25" unique="0.6" />
 
-            <entry
-                id="$-1"
-                title="Ideal/Idol"
-            >
-                <musicConsumedProgress
-                    length="4:07"
-                />
+            <entry id="$-1" title="Ideal/Idol">
+                <musicConsumedProgress length="4:07" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.15"
@@ -1183,9 +983,7 @@
             <contains id="M-VGMDB-AL-122232-1" />
 
             <entry id="$-6" title="Amaoto Fanfare">
-                <musicConsumedProgress
-                    length="4:37"
-                />
+                <musicConsumedProgress length="4:37" />
                 <!-- inb4 ortensia banger -->
                 <!-- based ortensia is back with an absolute catjammer -->
                 <!-- https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s -->
@@ -1212,9 +1010,7 @@
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Glass Wings">
-                <musicConsumedProgress
-                    length="3:41"
-                />
+                <musicConsumedProgress length="3:41" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.3"
@@ -1231,9 +1027,7 @@
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Artemis">
-                <musicConsumedProgress
-                    length="4:39"
-                />
+                <musicConsumedProgress length="4:39" />
                 <ref
                     name="ReStepMusic"
                     _.base="0.25"
@@ -1251,9 +1045,7 @@
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Imperial Stage">
                 <!-- Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8 -->
-                <musicConsumedProgress
-                    length="3:24"
-                /> <!-- impl_overridden -->
+                <musicConsumedProgress length="3:24" /> <!-- impl_overridden -->
                 <ref
                     name="ReStepMusic"
                     _.base="0.2"
@@ -1263,16 +1055,11 @@
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-125354"
-            title="Rainbow FlowerS / ortensia"
-        >
+        <entry id="M-VGMDB-AL-125354" title="Rainbow FlowerS / ortensia">
 
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Rainbow FlowerS">
-                <musicConsumedProgress
-                    length="4:25"
-                />
+                <musicConsumedProgress length="4:25" />
                 <!-- farewell ~sena-chan get the fuck out wtf -->
                 <!-- are the koikake fuckers doing here it's -->
                 <!-- arc 3 idol dystopia not nee~ mineuchi tomomi -->
@@ -1341,10 +1128,7 @@
     <!-- it's what all idol fans feel, the feeling of wanting the girls to success -->
     <!-- " - me in the rst anime part -->
     <!-- this is literally the plot of this anime lmfao -->
-    <entry
-        id="A-MAL-37890"
-        title="Oshi ga Budoukan Ittekuretara Shinu"
-    >
+    <entry id="A-MAL-37890" title="Oshi ga Budoukan Ittekuretara Shinu">
         <source>
             <adb id="37890" />
             <ks id="41309" />
@@ -1354,9 +1138,7 @@
         <!-- aka "If RST can overtake Love Live in the Oricon ranking, I can die happy" -->
         <bestGirl name="Shikimiya Maina" />
         <!-- oops -->
-        <bestGirl
-            name="Maina Ichii"
-        />
+        <bestGirl name="Maina Ichii" />
 
         <visual type="animated" base="0.2" unique="0.5" />
 

@@ -7,19 +7,14 @@
         <!-- the first idol anime of history -->
         <!-- also first music cgdct except k-on -->
         <!-- (k-on sucks so it doesn't count keep coping keionfags) -->
-        <entry
-            id="A-MAL-37587"
-            title="Lapis Re:LiGHTs"
-        >
+        <entry id="A-MAL-37587" title="Lapis Re:LiGHTs">
             <source>
                 <adb id="37587" />
                 <ks id="41115" />
                 <al id="104937" />
                 <mal id="37587" />
             </source>
-            <bestGirl
-                name="Tiara"
-            />
+            <bestGirl name="Tiara" />
 
             <!-- funny af, love live stands no chance -->
             <ehi />
@@ -48,9 +43,7 @@
             <visual type="albumArt" base="0.4" unique="0.2" />
 
             <entry id="$-1" title="700,000,000,000,000,000,000,000 no Sora de">
-                <musicConsumedProgress
-                    length="4:36"
-                />
+                <musicConsumedProgress length="4:36" />
                 <music base="0.4" />
             </entry>
         </entry>

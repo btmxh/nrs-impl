@@ -1,30 +1,20 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <!-- kind of a mess rn -->
 <document>
-    <entry
-        id="M-VGMDB-AR-12225"
-        title="xi"
-    >
+    <entry id="M-VGMDB-AR-12225" title="xi">
 
-        <entry
-            id="M-VGMDB-AL-34269"
-            title="Parousia"
-        >
+        <entry id="M-VGMDB-AL-34269" title="Parousia">
 
             <visual type="albumArt" base="0.15" unique="0.4" />
 
             <!-- the third ayumu-era theme song -->
             <entry id="$-7" title="Ascension to Heaven">
-                <musicConsumedProgress
-                    length="5:11"
-                />
+                <musicConsumedProgress length="5:11" />
                 <music base="0.3" />
             </entry>
 
             <entry id="$-12" title="FREEDOM DiVE↓">
-                <musicConsumedProgress
-                    length="4:29"
-                />
+                <musicConsumedProgress length="4:29" />
                 <!-- not gonna rate all of the backgrounds and shit -->
                 <music base="0.15" />
                 <!-- i'm not overstreaming 222 bpm -->
@@ -46,32 +36,21 @@
         <musicConsumedProgress length="4:42" /> <!-- impl_overridden -->
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-49508"
-        title="Tsukinami / Kanon Wakeshima"
-    >
+    <entry id="M-VGMDB-AL-49508" title="Tsukinami / Kanon Wakeshima">
 
         <visual type="albumArt" base="0.25" unique="0.5" />
-        <entry
-            id="$-2"
-            title="ツキナミ"
-        >
+        <entry id="$-2" title="ツキナミ">
             <music base="0.4" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396 -->
             <musicConsumedProgress length="4:44" /> <!-- impl_overridden -->
         </entry>
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-79187"
-        title="Kisses and Kills / THE ORAL CIGARETTES"
-    >
+    <entry id="M-VGMDB-AL-79187" title="Kisses and Kills / THE ORAL CIGARETTES">
 
         <visual type="albumArt" base="0.1" unique="0.2" />
         <entry id="$-1" title="もういいかい?">
-            <musicConsumedProgress
-                length="2:19"
-            />
+            <musicConsumedProgress length="2:19" />
             <music base="0.4" />
         </entry>
     </entry>
@@ -83,9 +62,7 @@
 
         <visual type="albumArt" base="0.5" unique="0.5" />
         <entry id="$-1" title="Girl meets Love">
-            <musicConsumedProgress
-                length="4:12"
-            />
+            <musicConsumedProgress length="4:12" />
             <music base="0.5" />
             <!-- haha tranny duy bua -->
             <!-- she is literally me: https://myanimelist.net/character/187922/Rafinha_Bilford -->
@@ -93,16 +70,11 @@
         </entry>
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-33518"
-        title="Irotoridori no Hikari Theme Songs Plus"
-    >
+    <entry id="M-VGMDB-AL-33518" title="Irotoridori no Hikari Theme Songs Plus">
 
         <visual type="albumArt" base="0.4" unique="0.6" />
         <entry id="$-2" title="COLORFUL DAYS!!">
-            <musicConsumedProgress
-                length="4:31"
-            />
+            <musicConsumedProgress length="4:31" />
             <music base="0.7" />
         </entry>
     </entry>
@@ -115,9 +87,7 @@
         <visual type="albumArt" base="0.4" unique="0.6" />
 
         <entry id="$-9" title="Euphorium">
-            <musicConsumedProgress
-                length="4:44"
-            />
+            <musicConsumedProgress length="4:44" />
             <music base="0.45" />
             <osuSong personal="0.3" community="0.3" />
             <!-- mrekk pp haha -->
@@ -127,9 +97,7 @@
             id="$-16"
             title="Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-"
         >
-            <musicConsumedProgress
-                length="6:10"
-            />
+            <musicConsumedProgress length="6:10" />
             <music base="0.55" />
             <ref
                 name="KoikakeNEI"
@@ -150,9 +118,7 @@
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Haruoto＊Bell fullver.">
-            <musicConsumedProgress
-                length="4:24"
-            />
+            <musicConsumedProgress length="4:24" />
             <music base="0.65" />
         </entry>
     </entry>
@@ -164,9 +130,7 @@
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Have a live day fullver.">
-            <musicConsumedProgress
-                length="4:29"
-            />
+            <musicConsumedProgress length="4:29" />
             <music base="0.55" />
         </entry>
     </entry>
@@ -177,10 +141,7 @@
     >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
-        <entry
-            id="$-1"
-            title="Ringing＊Days fullver."
-        >
+        <entry id="$-1" title="Ringing＊Days fullver.">
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
             <musicConsumedProgress length="5:07" /> <!-- impl_overridden -->
             <music base="0.6" />

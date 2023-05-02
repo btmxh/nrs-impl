@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-7086" title="PRINCESS CONNECT!">
 
-        <entry
-            id="A-MAL-39292"
-            title="Princess Connect! Re:Dive"
-        >
+        <entry id="A-MAL-39292" title="Princess Connect! Re:Dive">
             <source>
                 <adb id="39292" />
                 <ks id="42892" />
@@ -23,10 +20,7 @@
             <nei base="0.9" emotions="AP" /> <!-- funny ig -->
         </entry>
 
-        <entry
-            id="A-MAL-42670"
-            title="Princess Connect! Re:Dive Season 2"
-        >
+        <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2">
             <source>
                 <adb id="42670" />
                 <ks id="43600" />
@@ -50,13 +44,8 @@
             title="PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07"
         >
             <visual type="albumArt" base="0.5" unique="0.4" />
-            <entry
-                id="$-2"
-                title="Ding Dong Holy Night♪"
-            >
-                <musicConsumedProgress
-                    length="4:18"
-                />
+            <entry id="$-2" title="Ding Dong Holy Night♪">
+                <musicConsumedProgress length="4:18" />
                 <music base="0.45" />
                 <osuSong personal="0.5" community="0.0" />
             </entry>

@@ -19,17 +19,12 @@
             <killedBy id="F-20221128T123502" potential="0.25" effect="1.0" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-67632"
-            title="WAGAMAMA HIGHSPEC OC VOCAL ALBUM"
-        >
+        <entry id="M-VGMDB-AL-67632" title="WAGAMAMA HIGHSPEC OC VOCAL ALBUM">
 
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="Hey Darling!">
-                <musicConsumedProgress
-                    length="3:35"
-                />
+                <musicConsumedProgress length="3:35" />
                 <music base="0.65" />
             </entry>
         </entry>

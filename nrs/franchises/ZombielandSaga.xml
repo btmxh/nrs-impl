@@ -9,9 +9,7 @@
                 <al id="103871" />
                 <mal id="37976" />
             </source>
-            <bestGirl
-                name="Sakura Minamoto"
-            />
+            <bestGirl name="Sakura Minamoto" />
 
             <!-- kinda funny -->
             <aei base="0.5" emotions="AP" />
@@ -23,19 +21,14 @@
             <visual type="animated" base="0.4" unique="0.5" />
         </entry>
 
-        <entry
-            id="A-MAL-40174"
-            title="Zombieland Saga: Revenge"
-        >
+        <entry id="A-MAL-40174" title="Zombieland Saga: Revenge">
             <source>
                 <adb id="40174" />
                 <ks id="42467" />
                 <al id="110733" />
                 <mal id="40174" />
             </source>
-            <bestGirl
-                name="Sakura Minamoto"
-            />
+            <bestGirl name="Sakura Minamoto" />
 
             <!-- the zombieland saga incident -->
             <animeConsumedProgress
@@ -56,9 +49,7 @@
 
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Taiga yo Tomo ni Naite Kure">
-                <musicConsumedProgress
-                    length="3:29"
-                />
+                <musicConsumedProgress length="3:29" />
                 <music base="0.55" />
             </entry>
         </entry>

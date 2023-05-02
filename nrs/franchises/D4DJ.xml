@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-8339" title="D4DJ">
 
-        <entry
-            id="A-MAL-39681"
-            title="D4DJ: First Mix"
-        >
+        <entry id="A-MAL-39681" title="D4DJ: First Mix">
             <source>
                 <adb id="39681" />
                 <ks id="43557" />
@@ -13,9 +10,7 @@
                 <mal id="39681" />
             </source>
 
-            <bestGirl
-                name="Rinku Aimoto"
-            />
+            <bestGirl name="Rinku Aimoto" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -44,9 +39,7 @@
 
             <visual type="albumArt" base="0.4" unique="0.75" />
             <entry id="$-3" title="Guruguru DJ TURN!!">
-                <musicConsumedProgress
-                    length="3:43"
-                />
+                <musicConsumedProgress length="3:43" />
                 <music base="0.35" />
             </entry>
         </entry>
@@ -58,10 +51,7 @@
         >
 
             <validatorSuppress rules="dah-visualless-entry" />
-            <entry
-                id="$-2"
-                title="Brand New World"
-            >
+            <entry id="$-2" title="Brand New World">
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 <musicConsumedProgress length="4:06" /> <!-- impl_overridden -->
                 <music base="0.4" />

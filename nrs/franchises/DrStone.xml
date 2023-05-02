@@ -3,19 +3,14 @@
     <entry id="F-VGMDB-9159" title="Dr. Stone">
         <!-- bac si da -->
 
-        <entry
-            id="A-MAL-38691"
-            title="Dr. Stone"
-        >
+        <entry id="A-MAL-38691" title="Dr. Stone">
             <source>
                 <adb id="38691" />
                 <ks id="42080" />
                 <al id="105333" />
                 <mal id="38691" />
             </source>
-            <bestGirl
-                name="Yuzuriha Ogawa"
-            />
+            <bestGirl name="Yuzuriha Ogawa" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -29,19 +24,14 @@
 
         <contains id="M-VGMDB-AL-87927-1" />
 
-        <entry
-            id="A-MAL-40852"
-            title="Dr. Stone: Stone Wars"
-        >
+        <entry id="A-MAL-40852" title="Dr. Stone: Stone Wars">
             <source>
                 <adb id="40852" />
                 <ks id="42867" />
                 <al id="113936" />
                 <mal id="40852" />
             </source>
-            <bestGirl
-                name="Yuzuriha Ogawa"
-            />
+            <bestGirl name="Yuzuriha Ogawa" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -51,19 +41,14 @@
             <aei base="0.1" emotions="AP" />
         </entry>
 
-        <entry
-            id="A-MAL-50612"
-            title="Dr. Stone: Ryuusui"
-        >
+        <entry id="A-MAL-50612" title="Dr. Stone: Ryuusui">
             <source>
                 <adb id="50612" />
                 <ks id="45615" />
                 <al id="142876" />
                 <mal id="50612" />
             </source>
-            <bestGirl
-                name="Yuzuriha Ogawa"
-            />
+            <bestGirl name="Yuzuriha Ogawa" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -83,9 +68,7 @@
         <visual type="albumArt" base="0.15" unique="0.2" />
 
         <entry id="$-1" title="Good Morning World!">
-            <musicConsumedProgress
-                length="4:09"
-            />
+            <musicConsumedProgress length="4:09" />
             <music base="0.25" />
             <osuSong personal="0.1" community="0.0" />
         </entry>

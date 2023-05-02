@@ -2,19 +2,14 @@
 <document>
     <entry id="F-VGMDB-9850" title="Tantei wa Mou, Shindeiru.">
 
-        <entry
-            id="A-MAL-46471"
-            title="Tantei wa Mou, Shindeiru."
-        >
+        <entry id="A-MAL-46471" title="Tantei wa Mou, Shindeiru.">
             <source>
                 <adb id="46471" />
                 <ks id="44022" />
                 <al id="128712" />
                 <mal id="46471" />
             </source>
-            <bestGirl
-                name="Nagisa Natsunagi"
-            />
+            <bestGirl name="Nagisa Natsunagi" />
 
             <!-- siesta arc is shit -->
             <!-- cope -->
@@ -30,16 +25,11 @@
         </entry>
 
         <!-- Kano's friend's album lol -->
-        <entry
-            id="M-VGMDB-AL-113531"
-            title="Kodou / Nanakagura"
-        >
+        <entry id="M-VGMDB-AL-113531" title="Kodou / Nanakagura">
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Kodou">
-                <musicConsumedProgress
-                    length="4:31"
-                />
+                <musicConsumedProgress length="4:31" />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -51,9 +41,7 @@
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Koko de Ikiteru">
-                <musicConsumedProgress
-                    length="3:22"
-                />
+                <musicConsumedProgress length="3:22" />
                 <music base="0.4" />
             </entry>
         </entry>

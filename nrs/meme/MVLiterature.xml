@@ -52,17 +52,12 @@
         <ref name="AKMEraPart1" _.strength="0.3" />
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-111027"
-        title="hololive IDOL PROJECT / Bouquet"
-    >
+    <entry id="M-VGMDB-AL-111027" title="hololive IDOL PROJECT / Bouquet">
 
         <visual type="albumArt" base="0.5" unique="0.3" />
 
         <entry id="$-10" title="あすいろClearSky (Bouquet Ver.)">
-            <musicConsumedProgress
-                length="4:38"
-            />
+            <musicConsumedProgress length="4:38" />
             <!-- asuiro koi moyou and its consequences -->
             <!-- hololiveshit stole rst & sb69 composer -->
             <!-- hololiveshit stole rst & sb69 composer -->

@@ -1,21 +1,13 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
-    <entry
-        id="M-VGMDB-AR-8482"
-        title="Foreground Eclipse"
-    >
+    <entry id="M-VGMDB-AR-8482" title="Foreground Eclipse">
 
-        <entry
-            id="M-VGMDB-AL-97601"
-            title="Truths, Ironies, The Secret Lyrics"
-        >
+        <entry id="M-VGMDB-AL-97601" title="Truths, Ironies, The Secret Lyrics">
 
             <visual type="albumArt" base="0.15" unique="0.3" />
 
             <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
-                <musicConsumedProgress
-                    length="3:37"
-                />
+                <musicConsumedProgress length="3:37" />
                 <music base="0.3" />
                 <regularImpact>
                     <score>
@@ -61,24 +53,18 @@
                 id="$-4"
                 title="Wandering, Never Wondering (There Exists A Shade)"
             >
-                <musicConsumedProgress
-                    length="4:33"
-                />
+                <musicConsumedProgress length="4:33" />
                 <music base="0.25" />
             </entry>
 
             <entry id="$-7" title="From Under Cover (Caught Up In A Love Song)">
-                <musicConsumedProgress
-                    length="3:27"
-                />
+                <musicConsumedProgress length="3:27" />
                 <music base="0.4" />
             </entry>
 
             <!-- the second ayumu-era theme song -->
             <entry id="$-8" title="Storytellers">
-                <musicConsumedProgress
-                    length="3:57"
-                />
+                <musicConsumedProgress length="3:57" />
                 <music base="0.5" />
 
                 <ref
@@ -94,16 +80,10 @@
     <entry id="M-20221224T220452" title="Release Hallucination">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
-        <entry
-            id="M-VGMDB-AL-80229"
-            title="Chronostasis"
-        >
+        <entry id="M-VGMDB-AL-80229" title="Chronostasis">
             <visual type="albumArt" base="0.2" unique="0.4" />
 
-            <entry
-                id="$-1"
-                title="Chronostasis"
-            >
+            <entry id="$-1" title="Chronostasis">
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
                 <musicConsumedProgress length="6:22" /> <!-- impl_overridden -->
                 <music base="0.4" />

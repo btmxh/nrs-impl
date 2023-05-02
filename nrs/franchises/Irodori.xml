@@ -1,25 +1,17 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <!-- original of irodori covers -->
-    <entry
-        id="M-VGMDB-AR-9553"
-        title="cosMo@bousouP"
-    >
+    <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP">
 
         <contains id="M-VGMDB-AL-91187-35" />
     </entry>
 
-    <entry
-        id="M-VGMDB-AL-91187"
-        title="CHUNITHM ALL JUSTICE COLLECTION ep.I"
-    >
+    <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I">
 
         <visual type="albumArt" base="0.05" unique="0.5" />
 
         <entry id="$-35" title="エンドマークに希望と涙を添えて">
-            <musicConsumedProgress
-                length="2:51"
-            />
+            <musicConsumedProgress length="2:51" />
             <music base="0.35" />
             <remix id="M-VGMDB-AL-93299-2" />
         </entry>
@@ -27,19 +19,14 @@
 
     <entry id="F-VGMDB-10978" title="Irodorimidori">
 
-        <entry
-            id="A-MAL-50267"
-            title="Irodorimidori"
-        >
+        <entry id="A-MAL-50267" title="Irodorimidori">
             <source>
                 <adb id="50267" />
                 <ks id="45577" />
                 <al id="140950" />
                 <mal id="50267" />
             </source>
-            <bestGirl
-                name="Nagi Kobotoke"
-            />
+            <bestGirl name="Nagi Kobotoke" />
 
             <animeConsumedProgress
                 status="Completed"

@@ -2,10 +2,7 @@
 <document>
     <entry id="F-20220823T083245" title="Isekai Quartet">
 
-        <entry
-            id="A-MAL-38472"
-            title="Isekai Quartet"
-        >
+        <entry id="A-MAL-38472" title="Isekai Quartet">
             <source>
                 <adb id="38472" />
                 <ks id="42032" />
@@ -18,9 +15,7 @@
             <!-- "darkness (ai kayano cricri girl va)" -->
             <!-- "chris + eris (suwa ayaka rst girl va)" -->
             <!-- "ram (fuck re:zero tho) (murakawa rie akm girl va) -->
-            <bestGirl
-                name="Ram"
-            />
+            <bestGirl name="Ram" />
 
             <visual type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress
@@ -30,10 +25,7 @@
             />
         </entry>
 
-        <entry
-            id="A-MAL-39988"
-            title="Isekai Quartet 2"
-        >
+        <entry id="A-MAL-39988" title="Isekai Quartet 2">
             <source>
                 <adb id="39988" />
                 <ks id="42410" />
@@ -45,9 +37,7 @@
             <!-- then it must be 𝐓𝐇𝐄 𝐆𝐈𝐆𝐀𝐂𝐇𝐀𝐃 𝐒𝐄𝐈𝐘𝐔𝐔, -->
             <!-- or the other akm girl, i'll let rina hidaka have this just -->
             <!-- to make the thing balanced -->
-            <bestGirl
-                name="Filo"
-            />
+            <bestGirl name="Filo" />
 
             <visual type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress

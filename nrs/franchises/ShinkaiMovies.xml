@@ -3,10 +3,7 @@
     <entry id="F-VGMDB-4615" title="Kimi no Na wa">
         <!-- TODO: add music ig, too lazy to do that tho (and the music sucks) -->
 
-        <entry
-            id="A-MAL-32281"
-            title="Kimi no Na wa."
-        >
+        <entry id="A-MAL-32281" title="Kimi no Na wa.">
             <source>
                 <adb id="32281" />
                 <ks id="11614" />
@@ -16,9 +13,7 @@
 
             <visual type="animated" base="0.5" unique="0.75" />
 
-            <bestGirl
-                name="Miki Okudera"
-            />
+            <bestGirl name="Miki Okudera" />
             <!-- "Compensation for KnK-YrNa jealousy" -->
             <additional value="0.75" />
             <animeConsumedProgress
@@ -32,19 +27,14 @@
 
     <entry id="F-VGMDB-7292" title="Tenki no Ko">
 
-        <entry
-            id="A-MAL-38826"
-            title="Tenki no Ko"
-        >
+        <entry id="A-MAL-38826" title="Tenki no Ko">
             <source>
                 <adb id="38826" />
                 <ks id="42028" />
                 <al id="106286" />
                 <mal id="38826" />
             </source>
-            <bestGirl
-                name="Hina Amano"
-            />
+            <bestGirl name="Hina Amano" />
 
             <visual type="animated" base="0.6" unique="0.75" />
             <animeConsumedProgress
@@ -56,16 +46,11 @@
             <featureMusic id="M-VGMDB-AL-87003" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-87003"
-            title="Tenki no Ko / RADWIMPS"
-        >
+        <entry id="M-VGMDB-AL-87003" title="Tenki no Ko / RADWIMPS">
 
             <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-28" title="Grand Escape (Movie edit) feat, Miura Toko">
-                <musicConsumedProgress
-                    length="3:08"
-                />
+                <musicConsumedProgress length="3:08" />
                 <music base="0.5" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>

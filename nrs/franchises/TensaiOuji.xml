@@ -2,10 +2,7 @@
 <document>
     <entry id="F-VGMDB-10006" title="Tensai Ouji no Akaji Kokka Saiseijutsu">
 
-        <entry
-            id="A-MAL-47159"
-            title="Tensai Ouji no Akaji Kokka Saisei Jutsu"
-        >
+        <entry id="A-MAL-47159" title="Tensai Ouji no Akaji Kokka Saisei Jutsu">
             <source>
                 <adb id="47159" />
                 <ks id="44020" />
@@ -43,9 +40,7 @@
             <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="LEVEL">
-                <musicConsumedProgress
-                    length="4:13"
-                />
+                <musicConsumedProgress length="4:13" />
                 <music base="0.5" />
             </entry>
         </entry>

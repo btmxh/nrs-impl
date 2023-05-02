@@ -16,10 +16,7 @@
             <contributor id="GF-VGMDB-7059" factor="0.01" />
         </aei>
 
-        <entry
-            id="M-VGMDB-AR-15137"
-            title="Wake Up, Girls!"
-        >
+        <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-42945" />
@@ -28,40 +25,27 @@
             </contains>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-46042"
-            title="Tachiagare! / Wake Up, Girls!"
-        >
+        <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!">
 
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="Tachiagare!">
-                <musicConsumedProgress
-                    length="4:54"
-                />
+                <musicConsumedProgress length="4:54" />
                 <music base="0.6" />
             </entry>
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-42945"
-            title="7 Girls War / Wake Up, Girls!"
-        >
+        <entry id="M-VGMDB-AL-42945" title="7 Girls War / Wake Up, Girls!">
 
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="7 Girls War">
-                <musicConsumedProgress
-                    length="5:07"
-                />
+                <musicConsumedProgress length="5:07" />
                 <music base="0.35" />
             </entry>
         </entry>
 
-        <entry
-            id="A-MAL-21189"
-            title="Wake Up, Girls! Shichinin no Idol"
-        >
+        <entry id="A-MAL-21189" title="Wake Up, Girls! Shichinin no Idol">
             <source>
                 <adb id="21189" />
                 <ks id="8200" />
@@ -69,9 +53,7 @@
                 <mal id="21189" />
             </source>
 
-            <bestGirl
-                name="Mayu Shimada"
-            />
+            <bestGirl name="Mayu Shimada" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -86,10 +68,7 @@
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry
-            id="A-MAL-19023"
-            title="Wake Up, Girls!"
-        >
+        <entry id="A-MAL-19023" title="Wake Up, Girls!">
             <source>
                 <adb id="19023" />
                 <ks id="7774" />
@@ -97,9 +76,7 @@
                 <mal id="19023" />
             </source>
 
-            <bestGirl
-                name="Mayu Shimada"
-            />
+            <bestGirl name="Mayu Shimada" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -112,19 +89,14 @@
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry
-            id="A-MAL-28841"
-            title="Wake Up, Girls! Seishun no Kage"
-        >
+        <entry id="A-MAL-28841" title="Wake Up, Girls! Seishun no Kage">
             <source>
                 <ks id="10068" />
                 <al id="20989" />
                 <mal id="28841" />
             </source>
 
-            <bestGirl
-                name="Mayu Shimada"
-            />
+            <bestGirl name="Mayu Shimada" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -136,19 +108,14 @@
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry
-            id="A-MAL-30419"
-            title="Wake Up, Girls! Beyond the Bottom"
-        >
+        <entry id="A-MAL-30419" title="Wake Up, Girls! Beyond the Bottom">
             <source>
                 <ks id="10845" />
                 <al id="21107" />
                 <mal id="30419" />
             </source>
 
-            <bestGirl
-                name="Mayu Shimada"
-            />
+            <bestGirl name="Mayu Shimada" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -160,10 +127,7 @@
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry
-            id="A-MAL-34522"
-            title="Wake Up, Girls! Shin Shou"
-        >
+        <entry id="A-MAL-34522" title="Wake Up, Girls! Shin Shou">
             <source>
                 <adb id="34522" />
                 <ks id="13707" />
@@ -171,9 +135,7 @@
                 <mal id="34522" />
             </source>
 
-            <bestGirl
-                name="Mayu Shimada"
-            />
+            <bestGirl name="Mayu Shimada" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -195,9 +157,7 @@
         <visual type="albumArt" base="0.1" unique="0.2" />
 
         <entry id="$-1" title="One In A Billion">
-            <musicConsumedProgress
-                length="4:17"
-            />
+            <musicConsumedProgress length="4:17" />
             <osuSong personal="0.5" community="0.1" />
             <music base="0.6" />
         </entry>

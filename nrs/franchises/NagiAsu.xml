@@ -8,24 +8,16 @@
         <contains id="M-VGMDB-AL-42900-3" />
         <contains id="M-VGMDB-AL-43164-1" />
 
-        <entry
-            id="M-VGMDB-AL-45187"
-            title="Nagi no Asukara Character Song CD3"
-        >
+        <entry id="M-VGMDB-AL-45187" title="Nagi no Asukara Character Song CD3">
 
             <visual type="albumArt" base="0.4" unique="0.4" />
             <entry id="$-1" title="ripple ~my first love~">
-                <musicConsumedProgress
-                    length="4:22"
-                />
+                <musicConsumedProgress length="4:22" />
                 <music base="0.6" />
             </entry>
         </entry>
 
-        <entry
-            id="A-MAL-16067"
-            title="Nagi no Asu kara"
-        >
+        <entry id="A-MAL-16067" title="Nagi no Asu kara">
             <source>
                 <adb id="16067" />
                 <ks id="7370" />
@@ -33,9 +25,7 @@
                 <mal id="16067" />
             </source>
 
-            <bestGirl
-                name="Miuna Shiodome"
-            />
+            <bestGirl name="Miuna Shiodome" />
             <!-- poor best girl -->
             <maxAEIPADS length="2" emotions="CU" />
 

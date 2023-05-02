@@ -21,17 +21,12 @@
             <killedBy id="F-20221128T123502" potential="0.5" effect="1.0" />
         </entry>
 
-        <entry
-            id="M-VGMDB-AL-45544"
-            title="Clover Day's ORIGINAL SOUNDTRACKS"
-        >
+        <entry id="M-VGMDB-AL-45544" title="Clover Day's ORIGINAL SOUNDTRACKS">
 
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-40" title="Clover Day's full ver.">
-                <musicConsumedProgress
-                    length="4:32"
-                />
+                <musicConsumedProgress length="4:32" />
                 <music base="0.5" />
                 <osuSong personal="0.8" community="0.2" />
             </entry>
