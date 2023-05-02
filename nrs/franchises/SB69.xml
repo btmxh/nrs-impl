@@ -9,7 +9,7 @@
             local.from = "_.from";
         </script>
         <!-- invoke the script itself -->
-        <script src="franchises/scripts/RSTSB69Music.js" entryPoint="sb69" />
+        <script src="../scripts/RSTSB69Music.js" entryPoint="sb69" />
         <!-- add the music impact -->
         <music base="_.base">
             <validatorSuppress rules="dah-rst-sb69-music-impact" />
@@ -22,7 +22,7 @@
             local.base = _.base;
             local.era = "_.era";
         </script>
-        <script src="franchises/../scripts/RSTSB69Music.js" entryPoint="sb69TrackMemeImpact" />
+        <script src="../scripts/RSTSB69Music.js" entryPoint="sb69TrackMemeImpact" />
         <children />
     </def>
 

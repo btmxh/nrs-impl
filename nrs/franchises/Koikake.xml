@@ -12,9 +12,9 @@
     <entry id="F-20221128T123502" title="Koi x Shin Ai Kanojo">
         <!-- the himeno sena 2023 meme -->
         <meme strength="0.75" from="2023-03-01" to="today">
-            <contributor id="F-20221128T123502" factor="0.4" />
-            <contributor id="O-20221003T175501-2" factor="0.1" />
-            <contributor id="F-VGMDB-9991" factor="0.1" />
+            <contributor id="V-VNDB-17516" factor="0.4" />
+            <contributor id="O-20221003T175501-2" factor="0.15" />
+            <contributor id="A-MAL-48316" factor="0.1" />
             <contributor id="M-VGMDB-AL-101608-1" factor="0.1" />
 
             <!-- new bird lore just dropped -->

@@ -5,4 +5,4 @@ export {
 export {
   FileResolver,
   processNRSXML,
-} from "https://raw.githubusercontent.com/ngoduyanh/nrsml/v0.1.4/mod.ts";
+} from "https://raw.githubusercontent.com/ngoduyanh/nrsml/v1.0.0/mod.ts";
