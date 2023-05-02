@@ -71,7 +71,7 @@
 
             <visual type="animated" base="0.5" unique="0.4" />
             <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         </entry>
 
         <entry id="A-MAL-43608" title="Kaguya-sama wa Kokurasetai: Ultra Romantic"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -91,7 +91,7 @@
 
             <visual type="animated" base="0.5" unique="0.4" />
             <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         </entry>
     </entry>
 </document>

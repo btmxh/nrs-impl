@@ -21,7 +21,7 @@
         </entry>
 
         <entry id="M-20220823T115611" title="Happy Around!">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-107257" />

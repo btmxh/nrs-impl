@@ -16,7 +16,7 @@
         </entry>
 
         <entry id="M-20220125T063355-1" title="SPRiNGS">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-75344-1" />

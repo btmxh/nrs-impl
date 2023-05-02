@@ -556,7 +556,7 @@
             <!-- this is just too funny xdddddddddddddddddd -->
             <!-- lesson: you can never predict rst lore -->
 
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-89364-3" />
@@ -589,7 +589,7 @@
         </entry>
 
         <entry id="M-20220117T170733-5" title="Stellamaris">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-82369-1" />
@@ -598,7 +598,7 @@
         </entry>
 
         <entry id="M-20220117T170733-6" title="TROIS ANGES">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-104673-3" />
@@ -616,7 +616,7 @@
         </entry>
 
         <entry id="M-20220117T170733-7" title="Tetrarkhia">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78515" />
@@ -771,7 +771,7 @@
         </entry>
 
         <entry id="M-20220317T064137-4" title="Re:STAGE! ALL IDOL">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-109271-48" />

@@ -245,7 +245,7 @@
     </entry>
 
     <entry id="M-20220113T184042-1" title="Magibeat">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains factor="0.5">
             <entry id="M-20220113T184042-3" title="Colorful - Magibeat Remix">

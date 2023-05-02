@@ -68,7 +68,7 @@
     </entry>
 
     <entry id="M-20221224T220452" title="Release Hallucination">
-        <validatorSuppress rules="dah-entry-no-consumed"/>
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress"/>
 
         <entry id="M-VGMDB-AL-80229" title="Chronostasis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.2" unique="0.4" />
@@ -82,7 +82,7 @@
         </entry>
 
         <entry id="M-20221224T220636" title="Imperfection of Imaginary Number">
-            <validatorSuppress rules="dah-entry-no-consumed"/>
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress"/>
 
             <entry id="$-3" title="I.F.">
                 <!-- Length source: https://open.spotify.com/album/71Im3HkxyIk8OypYiE9aBR -->
