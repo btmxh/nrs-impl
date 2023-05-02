@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-9358" title="Idoly Pride">
 
@@ -24,12 +23,12 @@
 
 
 
-        <entry id="A-MAL-40842" title="Idoly Pride"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-40842" title="Idoly Pride">
             <source>
-                <adb id="40842"/>
-                <ks id="42868"/>
-                <al id="113814"/>
-                <mal id="40842"/>
+                <adb id="40842" />
+                <ks id="42868" />
+                <al id="113814" />
+                <mal id="40842" />
             </source>
             <!-- aka the pp anime -->
             <!-- aka the _kotachi_ gigachad mapper "supremacy" anime -->
@@ -42,16 +41,20 @@
             <!-- the memes were funny -->
             <nei base="0.8" emotions="AP" />
 
-            <bestGirl name="Sakura Kawasaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Sakura Kawasaki" />
             <visual type="animated" base="0.6" unique="0.3" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
         </entry>
 
-        <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production">
 
             <visual type="albumArt" base="0.6" unique="0.3" />
             <entry id="$-1" title="IDOLY PRIDE">
-                <musicConsumedProgress length="3:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:38" />
                 <music base="0.5" />
             </entry>
 

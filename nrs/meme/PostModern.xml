@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- strength is relatively small (it's post-modern after all) -->
     <def name="PostModernMeme" vars="_.strength:double" visibility="public">

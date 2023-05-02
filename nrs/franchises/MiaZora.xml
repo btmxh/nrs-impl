@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-5607" title="Miagete Goran, Yozora no Hoshi wo">
 
@@ -20,18 +19,25 @@
             <!-- route first lol (i haven't finished any routes btw) -->
 
             <visual type="visualNovel" base="0.6" unique="0.5" />
-            <consumedProgress status="Dropped" boredom="0.8" duration="15:00:00" />
+            <consumedProgress
+                status="Dropped"
+                boredom="0.8"
+                duration="15:00:00"
+            />
             <dropped />
             <!-- obligatory eroge romcom humor -->
             <nei base="0.8" emotions="AP" />
         </entry>
 
-        <entry id="M-VGMDB-AL-57788" title="Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD &quot;and Little Planets&quot;"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-57788"
+            title="Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD &quot;and Little Planets&quot;"
+        >
 
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Finest Sky">
-                <musicConsumedProgress length="3:48" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:48" />
                 <music base="0.35" />
                 <!-- [albireo princess] -->
                 <!-- hddt -->

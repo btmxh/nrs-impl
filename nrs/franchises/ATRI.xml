@@ -1,12 +1,11 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- the funny visual novel that got fucked by e2e lmfao -->
     <entry id="F-VGMDB-8817" title="ATRI -My Dear Moments-">
 
         <entry id="V-VNDB-27448" title="ATRI -My Dear Moments-">
 
-            <bestGirl name="Atri" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Atri" />
             <!-- wait wtf -->
             <!-- minamo's va is the same person as aone's va -->
             <!-- based rst reference -->
@@ -14,7 +13,11 @@
             <!-- sad plot twist thingy -->
             <aei base="0.8" emotions="CU-0.8:AP-0.2" />
             <!-- sadge -->
-            <consumedProgress status="Dropped" boredom="0.8" duration="10:00:00" />
+            <consumedProgress
+                status="Dropped"
+                boredom="0.8"
+                duration="10:00:00"
+            />
             <dropped />
 
             <visual type="visualNovel" base="0.7" unique="0.15" />
@@ -23,7 +26,10 @@
             <featureMusic id="M-VGMDB-AL-100754" />
         </entry>
 
-        <entry id="M-VGMDB-AL-100754" title="ATRI -My Dear Moments- Original Soundtrack"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-100754"
+            title="ATRI -My Dear Moments- Original Soundtrack"
+        >
 
             <visual type="albumArt" base="0.7" unique="0.15" />
 

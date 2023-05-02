@@ -1,21 +1,20 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <!-- kind of a mess rn -->
 <document>
-    <entry id="M-VGMDB-AR-12225" title="xi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-12225" title="xi">
 
-        <entry id="M-VGMDB-AL-34269" title="Parousia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-34269" title="Parousia">
 
             <visual type="albumArt" base="0.15" unique="0.4" />
 
             <!-- the third ayumu-era theme song -->
             <entry id="$-7" title="Ascension to Heaven">
-                <musicConsumedProgress length="5:11" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:11" />
                 <music base="0.3" />
             </entry>
 
             <entry id="$-12" title="FREEDOM DiVE↓">
-                <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:29" />
                 <!-- not gonna rate all of the backgrounds and shit -->
                 <music base="0.15" />
                 <!-- i'm not overstreaming 222 bpm -->
@@ -37,30 +36,33 @@
         <musicConsumedProgress length="4:42" /> <!-- impl_overridden -->
     </entry>
 
-    <entry id="M-VGMDB-AL-49508" title="Tsukinami / Kanon Wakeshima"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-49508" title="Tsukinami / Kanon Wakeshima">
 
         <visual type="albumArt" base="0.25" unique="0.5" />
-        <entry id="$-2" title="ツキナミ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-2" title="ツキナミ">
             <music base="0.4" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396 -->
             <musicConsumedProgress length="4:44" /> <!-- impl_overridden -->
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-79187" title="Kisses and Kills / THE ORAL CIGARETTES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-79187" title="Kisses and Kills / THE ORAL CIGARETTES">
 
         <visual type="albumArt" base="0.1" unique="0.2" />
         <entry id="$-1" title="もういいかい?">
-            <musicConsumedProgress length="2:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="2:19" />
             <music base="0.4" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-52234" title="HANASAKI WORK SPRING! COMPLETE SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-52234"
+        title="HANASAKI WORK SPRING! COMPLETE SOUNDTRACK"
+    >
 
         <visual type="albumArt" base="0.5" unique="0.5" />
         <entry id="$-1" title="Girl meets Love">
-            <musicConsumedProgress length="4:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:12" />
             <music base="0.5" />
             <!-- haha tranny duy bua -->
             <!-- she is literally me: https://myanimelist.net/character/187922/Rafinha_Bilford -->
@@ -68,58 +70,78 @@
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-33518" title="Irotoridori no Hikari Theme Songs Plus"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-33518" title="Irotoridori no Hikari Theme Songs Plus">
 
         <visual type="albumArt" base="0.4" unique="0.6" />
         <entry id="$-2" title="COLORFUL DAYS!!">
-            <musicConsumedProgress length="4:31" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:31" />
             <music base="0.7" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-78595" title="AstralAir no Shiroki Towa - ETERNAL BEST -"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-78595"
+        title="AstralAir no Shiroki Towa - ETERNAL BEST -"
+    >
 
         <visual type="albumArt" base="0.4" unique="0.6" />
 
         <entry id="$-9" title="Euphorium">
-            <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:44" />
             <music base="0.45" />
             <osuSong personal="0.3" community="0.3" />
             <!-- mrekk pp haha -->
         </entry>
 
-        <entry id="$-16" title="Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-">
-            <musicConsumedProgress length="6:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="$-16"
+            title="Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-"
+        >
+            <musicConsumedProgress length="6:10" />
             <music base="0.55" />
-            <ref name="KoikakeNEI" _.base="0.8" _.contribution="0.8" _.emotions="CP-0.75:MP-0.25" />
+            <ref
+                name="KoikakeNEI"
+                _.base="0.8"
+                _.contribution="0.8"
+                _.emotions="CP-0.75:MP-0.25"
+            />
 
             <!-- "khi chân trời đầy nước mắt -->
             <!-- nước mắt sẽ hóa thành ước mơ" -->
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-66742" title="HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-66742"
+        title="HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-"
+    >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Haruoto＊Bell fullver.">
-            <musicConsumedProgress length="4:24" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:24" />
             <music base="0.65" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-79717" title="Shirokoi Sakura*Gram THEME SONG COLLECTION! 4"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-79717"
+        title="Shirokoi Sakura*Gram THEME SONG COLLECTION! 4"
+    >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Have a live day fullver.">
-            <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:29" />
             <music base="0.55" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-117099" title="HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-117099"
+        title="HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5"
+    >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
-        <entry id="$-1" title="Ringing＊Days fullver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="$-1" title="Ringing＊Days fullver.">
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
             <musicConsumedProgress length="5:07" /> <!-- impl_overridden -->
             <music base="0.6" />
@@ -128,62 +150,88 @@
 
     <entry id="M-VGMDB-AL-99204" title="SMASH The PAINT!! / Nijisanji">
         <visual type="albumArt" base="0.2" unique="0.3" />
-        <entry id="$-3" title="1+1でQ.E.D.!!" >
-            <musicConsumedProgress length="3:35" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-3" title="1+1でQ.E.D.!!">
+            <musicConsumedProgress
+                length="3:35"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.4" />
             <osuSong personal="0.3" community="0.0" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-60475" title="1HOPE SNIPER / Azusa Tadokoro [Anime Jacket Edition]">
+    <entry
+        id="M-VGMDB-AL-60475"
+        title="1HOPE SNIPER / Azusa Tadokoro [Anime Jacket Edition]"
+    >
         <visual type="albumArt" base="0.3" unique="0.6" />
-        <entry id="$-1" title="1HOPE SNIPER" >
-            <musicConsumedProgress length="3:32" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="1HOPE SNIPER">
+            <musicConsumedProgress
+                length="3:32"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.45" />
             <osuSong personal="0.1" community="0.0" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-81136" title="ADAMAS/Akai Wana (who loves it?) / LiSA [Limited Edition]">
+    <entry
+        id="M-VGMDB-AL-81136"
+        title="ADAMAS/Akai Wana (who loves it?) / LiSA [Limited Edition]"
+    >
         <visual type="albumArt" base="0.5" unique="0.5" />
-        <entry id="$-1" title="ADAMAS" >
-            <musicConsumedProgress length="3:44" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="ADAMAS">
+            <musicConsumedProgress
+                length="3:44"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.15" />
             <osuSong personal="0.05" community="0.0" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-5135" title="AIR MAN GA TAOSENAI">
         <visual type="albumArt" base="0.2" unique="0.4" />
-        <entry id="$-1" title="Air Man Ga Taosenai" >
-            <musicConsumedProgress length="3:53" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Air Man Ga Taosenai">
+            <musicConsumedProgress
+                length="3:53"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.2" />
             <osuSong personal="0.5" community="0.3" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-43788" title="Innocent Girl Theme Song &amp; Soundtrack">
+    <entry
+        id="M-VGMDB-AL-43788"
+        title="Innocent Girl Theme Song &amp; Soundtrack"
+    >
         <visual type="albumArt" base="0.4" unique="0.75" />
-        <entry id="$-1" title="Art as ♡" >
-            <musicConsumedProgress length="3:18" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Art as ♡">
+            <musicConsumedProgress
+                length="3:18"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.65" />
             <osuSong personal="0.4" community="0.0" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-79122" title="BLACK CLOVER MUSIC COLLECTION Vol.2">
         <visual type="albumArt" base="0.2" unique="0.3" />
-        <entry id="$-1" title="Black Rover (TV-SIZE)" >
-            <musicConsumedProgress length="1:32" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Black Rover (TV-SIZE)">
+            <musicConsumedProgress
+                length="1:32"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.25" />
             <osuSong personal="0.6" community="0.7" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-71831" title="COLORS POWER NI OMAKASERO! / COLORS☆SLASH [Limited Edition]">
+    <entry
+        id="M-VGMDB-AL-71831"
+        title="COLORS POWER NI OMAKASERO! / COLORS☆SLASH [Limited Edition]"
+    >
         <visual type="albumArt" base="0.2" unique="0.2" />
-        <entry id="$-1" title="Colors Power ni Omakasero!" >
-            <musicConsumedProgress length="4:10" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Colors Power ni Omakasero!">
+            <musicConsumedProgress
+                length="4:10"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.25" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-121238" title="Shade of Mythology">
         <visual type="albumArt" base="0.3" unique="0.5" />
-        <entry id="$-2" title="EOS -Long Version-" >
+        <entry id="$-2" title="EOS -Long Version-">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/160493#osu/392028 -->
             <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
             <music base="0.4" />
@@ -192,7 +240,7 @@
     </entry>
     <entry id="M-VGMDB-AL-60678" title="PLANET//SHAPER">
         <visual type="albumArt" base="0.3" unique="0.6" />
-        <entry id="$-11" title="Exit This Earth's Atomosphere" >
+        <entry id="$-11" title="Exit This Earth's Atomosphere">
             <!-- Length source: https://www.youtube.com/watch?v=QsuAKlNe_rI -->
             <musicConsumedProgress length="5:32" /> <!-- impl_overridden -->
             <music base="0.5" />
@@ -201,16 +249,20 @@
     </entry>
     <entry id="M-VGMDB-AL-43924" title="TOHO COMPLETE BOX">
         <visual type="albumArt" base="0.2" unique="0.5" />
-        <entry id="$-47" title="Frozen" >
-            <musicConsumedProgress length="3:20" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-47" title="Frozen">
+            <musicConsumedProgress
+                length="3:20"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.45" />
             <osuSong personal="0.5" community="0.1" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-66456" title="Hakkensha wa Watashi / Tapimiru">
         <visual type="albumArt" base="0.2" unique="0.2" />
-        <entry id="$-1" title="Hakkensha wa Watashi" >
-            <musicConsumedProgress length="4:32" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Hakkensha wa Watashi">
+            <musicConsumedProgress
+                length="4:32"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.4" />
             <osuSong personal="0.25" community="0.5" />
 
@@ -222,103 +274,142 @@
     </entry>
     <entry id="M-VGMDB-AL-43075" title="Heart Realize / Tia [Limited Edition]">
         <visual type="albumArt" base="0.5" unique="0.6" />
-        <entry id="$-1" title="Heart Realize" >
-            <musicConsumedProgress length="4:55" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Heart Realize">
+            <musicConsumedProgress
+                length="4:55"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.5" />
             <osuSong personal="0.75" community="0.3" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-43222" title="HIKARI / ViViD">
         <visual type="albumArt" base="0.1" unique="0.3" />
-        <entry id="$-1" title="HIKARI" >
-            <musicConsumedProgress length="4:10" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="HIKARI">
+            <musicConsumedProgress
+                length="4:10"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.5" />
             <osuSong personal="0.8" community="0.8" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-95204" title="TV Animation &quot;Hatena ☆ Illusion&quot; Original Soundtrack">
+    <entry
+        id="M-VGMDB-AL-95204"
+        title="TV Animation &quot;Hatena ☆ Illusion&quot; Original Soundtrack"
+    >
         <visual type="albumArt" base="0.6" unique="0.3" />
-        <entry id="$-1" title="Hatena☆Illusion" >
-            <musicConsumedProgress length="2:50" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Hatena☆Illusion">
+            <musicConsumedProgress
+                length="2:50"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.5" />
             <osuSong personal="0.3" community="0.1" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-103004" title="One Day / SPYAIR">
         <visual type="albumArt" base="0.3" unique="0.5" />
-        <entry id="$-3" title="イマジネーション" >
-            <musicConsumedProgress length="3:01" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-3" title="イマジネーション">
+            <musicConsumedProgress
+                length="3:01"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.45" />
             <osuSong personal="0.4" community="0.2" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-59355" title="DJ'TEKINA//SOMETHING">
         <visual type="albumArt" base="0.2" unique="0.5" />
-        <entry id="$-2" title="Internet bxxch (feat. YUCe')" >
-            <musicConsumedProgress length="5:04" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-2" title="Internet bxxch (feat. YUCe')">
+            <musicConsumedProgress
+                length="5:04"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.6" />
             <osuSong personal="0.5" community="0.4" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-81535" title="Duca Works 15th Anniversary BEST">
         <visual type="albumArt" base="0.15" unique="0.2" />
-        <entry id="$-9" title="Kanransha ~Ano Hi to, Kinou to Kyou to Ashita to~" >
-            <musicConsumedProgress length="4:11" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry
+            id="$-9"
+            title="Kanransha ~Ano Hi to, Kinou to Kyou to Ashita to~"
+        >
+            <musicConsumedProgress
+                length="4:11"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.75" />
             <osuSong personal="0.5" community="0.0" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-62350" title="TV ANIMATION LONGRIDERS! ORIGINAL SOUNDTRACK">
+    <entry
+        id="M-VGMDB-AL-62350"
+        title="TV ANIMATION LONGRIDERS! ORIGINAL SOUNDTRACK"
+    >
         <visual type="albumArt" base="0.2" unique="0.4" />
-        <entry id="$-1" title="♡km/h (TV size)" >
-            <musicConsumedProgress length="1:32" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="♡km/h (TV size)">
+            <musicConsumedProgress
+                length="1:32"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.5" />
             <osuSong personal="0.6" community="0.1" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-67908" title="Hoshizora TeaParty Extra ~&quot;Ai&quot; Hajimarimashita!~ Hoshizora Ongakukai -ORIGINAL SOUNDTRACK-">
+    <entry
+        id="M-VGMDB-AL-67908"
+        title="Hoshizora TeaParty Extra ~&quot;Ai&quot; Hajimarimashita!~ Hoshizora Ongakukai -ORIGINAL SOUNDTRACK-"
+    >
         <visual type="albumArt" base="0.7" unique="0.7" />
-        <entry id="$-1" title="ここにいるよ" >
-            <musicConsumedProgress length="4:34" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="ここにいるよ">
+            <musicConsumedProgress
+                length="4:34"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.65" />
             <osuSong personal="0.6" community="0.0" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-62477" title="Senketsu no Chikai / Yousei Teikoku">
         <visual type="albumArt" base="0.3" unique="0.6" />
-        <entry id="$-3" title="Kokou no Sousei" >
-            <musicConsumedProgress length="5:11" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-3" title="Kokou no Sousei">
+            <musicConsumedProgress
+                length="5:11"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.5" />
             <osuSong personal="0.6" community="0.75" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-54932" title="UNDERTALE Soundtrack">
         <visual type="albumArt" base="0.3" unique="0.5" />
-        <entry id="$-96" title="Last Goodbye" >
-            <musicConsumedProgress length="2:16" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-96" title="Last Goodbye">
+            <musicConsumedProgress
+                length="2:16"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.55" />
             <osuSong personal="0.75" community="0.65" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-116264" title="LEVEL / yanaginagi × THE SIXTH LIE">
         <visual type="albumArt" base="0.2" unique="0.3" />
-        <entry id="$-1" title="LEVEL" >
-            <musicConsumedProgress length="4:13" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="LEVEL">
+            <musicConsumedProgress
+                length="4:13"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.65" />
             <osuSong personal="0.25" community="0.0" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-86010" title="CLARITY / PassCode">
         <visual type="albumArt" base="0.3" unique="0.5" />
-        <entry id="$-3" title="Ray" >
-            <musicConsumedProgress length="3:49" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-3" title="Ray">
+            <musicConsumedProgress
+                length="3:49"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.6" />
             <osuSong personal="0.5" community="0.6" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-53986" title="Sendan Life / Remo Prototype (CV: Yumiri Hanamori)">
+    <entry
+        id="M-VGMDB-AL-53986"
+        title="Sendan Life / Remo Prototype (CV: Yumiri Hanamori)"
+    >
         <visual type="albumArt" base="0.4" unique="0.4" />
-        <entry id="$-1" title="Sendan Life" >
+        <entry id="$-1" title="Sendan Life">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/416153#osu/901854 -->
             <musicConsumedProgress length="3:52" /> <!-- impl_overridden -->
             <music base="0.5" />
@@ -327,32 +418,43 @@
     </entry>
     <entry id="M-VGMDB-AL-31638" title="Ongaku / wac">
         <visual type="albumArt" base="0.2" unique="0.2" />
-        <entry id="$-9" title="Shounen Ripples" >
-            <musicConsumedProgress length="4:45" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-9" title="Shounen Ripples">
+            <musicConsumedProgress
+                length="4:45"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.4" />
             <osuSong personal="0.75" community="0.2" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-67439" title="crossbeats REV. Limited Premium BOX">
         <visual type="albumArt" base="0.2" unique="0.6" />
-        <entry id="$-13" title="Sunglow" >
-            <musicConsumedProgress length="1:58" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-13" title="Sunglow">
+            <musicConsumedProgress
+                length="1:58"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.4" />
             <osuSong personal="0.75" community="0.75" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-46812" title="The Glory Days / Tia">
         <visual type="albumArt" base="0.4" unique="0.6" />
-        <entry id="$-1" title="The Glory Days" >
-            <musicConsumedProgress length="4:16" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="The Glory Days">
+            <musicConsumedProgress
+                length="4:16"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.6" />
             <osuSong personal="0.9" community="0.7" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-62503" title="Wagamama MIRROR HEART / Ayaka Ohashi [Aki Edition]">
+    <entry
+        id="M-VGMDB-AL-62503"
+        title="Wagamama MIRROR HEART / Ayaka Ohashi [Aki Edition]"
+    >
         <visual type="albumArt" base="0.5" unique="0.4" />
-        <entry id="$-1" title="Wagamama MIRROR HEART" >
-            <musicConsumedProgress length="4:34" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Wagamama MIRROR HEART">
+            <musicConsumedProgress
+                length="4:34"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.45" />
             <osuSong personal="0.9" community="0.0" />
         </entry>
@@ -360,25 +462,35 @@
     <entry id="M-VGMDB-AL-85759" title="WONDERFUL WONDER / EDOGA-SULLIVAN">
         <visual type="albumArt" base="0.6" unique="0.4" />
     </entry>
-    <entry id="M-VGMDB-AL-103012" title="CHUNITHM ALL JUSTICE COLLECTION ep. II">
+    <entry
+        id="M-VGMDB-AL-103012"
+        title="CHUNITHM ALL JUSTICE COLLECTION ep. II"
+    >
         <visual type="albumArt" base="0.1" unique="0.3" />
-        <entry id="$-16" title="Xevel" >
-            <musicConsumedProgress length="2:21" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-16" title="Xevel">
+            <musicConsumedProgress
+                length="2:21"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.4" />
             <osuSong personal="0.6" community="0.8" />
         </entry>
     </entry>
-    <entry id="M-VGMDB-AL-50020" title="Yomi Yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.">
+    <entry
+        id="M-VGMDB-AL-50020"
+        title="Yomi Yori Kikoyu, Koukoku no Tou to Honoo no Shoujo."
+    >
         <visual type="albumArt" base="0.3" unique="0.6" />
-        <entry id="$-1" title="黄泉より聴こゆ、皇国の燈と焔の少女。" >
-            <musicConsumedProgress length="8:20" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="黄泉より聴こゆ、皇国の燈と焔の少女。">
+            <musicConsumedProgress
+                length="8:20"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.45" />
             <osuSong personal="1.0" community="1.0" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-43511" title="yuima-ru★world / Rie Ayase">
         <visual type="albumArt" base="0.25" unique="0.5" />
-        <entry id="$-1" title="Yuima-ru★World" >
+        <entry id="$-1" title="Yuima-ru★World">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1151399#osu/2403410 -->
             <musicConsumedProgress length="2:03" /> <!-- impl_overridden -->
             <music base="0.25" />
@@ -397,7 +509,10 @@
         <!-- Length source: https://www.youtube.com/watch?v=p3Zuryi74ts -->
         <musicConsumedProgress length="4:21" />
     </entry>
-    <entry id="M-20221202T205118" title="World's End, Girl's Rondo(Asterisk DnB Remix)">
+    <entry
+        id="M-20221202T205118"
+        title="World's End, Girl's Rondo(Asterisk DnB Remix)"
+    >
         <music base="0.7" />
         <osuSong personal="0.75" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/331499 -->
@@ -433,7 +548,10 @@
         <!-- Length source: https://open.spotify.com/track/7b1nJaOmQowF0ySjQuCrHw -->
         <musicConsumedProgress length="3:14" />
     </entry>
-    <entry id="M-20221202T204553" title="(Foreground Eclipse) Songs Compilation">
+    <entry
+        id="M-20221202T204553"
+        title="(Foreground Eclipse) Songs Compilation"
+    >
         <music base="0.7" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/765497 -->
@@ -513,7 +631,10 @@
         <!-- Length source: https://www.youtube.com/watch?v=6ABGdYFQbLk -->
         <musicConsumedProgress length="4:41" />
     </entry>
-    <entry id="M-20221202T202405" title="Natsu no Owari, Koi no Hajimari (yuikonnu)">
+    <entry
+        id="M-20221202T202405"
+        title="Natsu no Owari, Koi no Hajimari (yuikonnu)"
+    >
         <music base="0.6" />
         <osuSong personal="0.6" community="0.1" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/206335#osu/486613 -->
@@ -603,7 +724,10 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1614847 -->
         <musicConsumedProgress length="4:34" />
     </entry>
-    <entry id="M-20221202T192736" title="Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?">
+    <entry
+        id="M-20221202T192736"
+        title="Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?"
+    >
         <music base="0.6" />
         <osuSong personal="0.6" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1312124 -->
@@ -639,12 +763,17 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1063490 -->
         <musicConsumedProgress length="3:11" />
     </entry>
-    <entry id="M-VGMDB-AL-106436" title="Ganbare! Kumoko san no Theme / &quot;Watashi&quot; (CV: Aoi Yuki)">
+    <entry
+        id="M-VGMDB-AL-106436"
+        title="Ganbare! Kumoko san no Theme / &quot;Watashi&quot; (CV: Aoi Yuki)"
+    >
 
         <visual type="albumArt" base="0.3" unique="0.6" />
 
-        <entry id="$-1" title="Ganbare! Kumoko san no Theme" >
-            <musicConsumedProgress length="4:03" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+        <entry id="$-1" title="Ganbare! Kumoko san no Theme">
+            <musicConsumedProgress
+                length="4:03"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
             <music base="0.4" />
             <osuSong personal="0.2" community="0.3" />
         </entry>
@@ -660,16 +789,27 @@
         <osuSong personal="0.75" community="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/696175 -->
         <musicConsumedProgress length="3:48" />
-        <ref name="KoikakeNEI" _.base="0.5" _.contribution="0.8" _.emotions="CP-0.5:MP-0.5" />
+        <ref
+            name="KoikakeNEI"
+            _.base="0.5"
+            _.contribution="0.8"
+            _.emotions="CP-0.5:MP-0.5"
+        />
     </entry>
-    <entry id="M-20221202T191455" title="Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)">
+    <entry
+        id="M-20221202T191455"
+        title="Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)"
+    >
         <music base="0.5" />
         <osuSong personal="0.6" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/855677 -->
         <musicConsumedProgress length="6:31" />
         <remix id="M-VGMDB-AL-60678-11" />
     </entry>
-    <entry id="M-20221202T190955" title="Eu Li Na Biblia (Sped Up &amp; Cut Ver.)">
+    <entry
+        id="M-20221202T190955"
+        title="Eu Li Na Biblia (Sped Up &amp; Cut Ver.)"
+    >
         <music base="0.4" />
         <osuSong personal="0.1" community="0.2" />
         <!-- original version is too different to be the length source -->
@@ -693,7 +833,10 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/636839 -->
         <musicConsumedProgress length="5:07" />
     </entry>
-    <entry id="M-20221202T182453" title="Clarity feat. Foxes (IOSYS uno DENPA Remix)">
+    <entry
+        id="M-20221202T182453"
+        title="Clarity feat. Foxes (IOSYS uno DENPA Remix)"
+    >
         <music base="0.4" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/615644 -->
         <musicConsumedProgress length="3:24" />
@@ -704,32 +847,42 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/983911 -->
         <musicConsumedProgress length="2:18" />
     </entry>
-    <entry id="M-20221127T140415" title="Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)">
+    <entry
+        id="M-20221127T140415"
+        title="Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)"
+    >
         <music base="0.55" />
         <osuSong personal="0.6" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1211809 -->
         <musicConsumedProgress length="3:32" />
     </entry>
-    <entry id="M-VGMDB-AL-74120" title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) &amp; Erika (CV. Anju Inami) [Limited Edition]">
+    <entry
+        id="M-VGMDB-AL-74120"
+        title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) &amp; Erika (CV. Anju Inami) [Limited Edition]"
+    >
 
         <visual type="albumArt" base="0.3" unique="0.5" />
 
-        <entry id="$-1" title="アニメを語レ!～アニメガタリ同好会のテーマ～" >
+        <entry id="$-1" title="アニメを語レ!～アニメガタリ同好会のテーマ～">
             <music base="0.4" />
             <osuSong personal="0.4" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
-            <musicConsumedProgress length="3:36" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+            <musicConsumedProgress
+                length="3:36"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
 
         <visual type="albumArt" base="0.4" unique="0.5" />
 
-        <entry id="$-7" title="Ange du Blanc Pur" >
+        <entry id="$-7" title="Ange du Blanc Pur">
             <music base="0.45" />
             <osuSong personal="0.75" community="0.25" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1188740 -->
-            <musicConsumedProgress length="4:03" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+            <musicConsumedProgress
+                length="4:03"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
         </entry>
     </entry>
     <entry id="M-20221127T140303" title="Akaneiro no Mahou">
@@ -768,7 +921,9 @@
         <visual type="albumArt" base="0.2" unique="0.2" />
 
         <entry id="$-12" title="奇跡メロディ">
-            <musicConsumedProgress length="4:05" /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+            <musicConsumedProgress
+                length="4:05"
+            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
 
             <music base="0.4" />
             <!-- haha segs -->

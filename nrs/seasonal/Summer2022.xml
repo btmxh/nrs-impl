@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- welcome to summer 2022, where everything is either an AKM reference or a -->
     <!-- disguised idol anime. -->
@@ -7,15 +6,15 @@
     <!-- goodbye mr teppen and prima doll lol -->
     <!-- (the prima doll incident) -->
 
-    <entry id="A-MAL-50760" title="Teppen!!!!!!!!!!!!!!!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50760" title="Teppen!!!!!!!!!!!!!!!">
         <source>
-            <adb id="50760"/>
-            <ks id="45729"/>
-            <al id="143417"/>
-            <mal id="50760"/>
+            <adb id="50760" />
+            <ks id="45729" />
+            <al id="143417" />
+            <mal id="50760" />
         </source>
 
-        <bestGirl name="Yuzu Hosono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Yuzu Hosono" />
 
         <!-- art has some flaws, but whatever -->
         <visual type="animated" base="0.4" unique="0.4" />
@@ -26,15 +25,15 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.25" effect="0.75" />
     </entry>
 
-    <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡">
         <source>
-            <adb id="41589"/>
-            <ks id="43098"/>
-            <al id="117196"/>
-            <mal id="41589"/>
+            <adb id="41589" />
+            <ks id="43098" />
+            <al id="117196" />
+            <mal id="41589" />
         </source>
 
-        <bestGirl name="Ichigo Momomiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Ichigo Momomiya" />
 
         <!-- obligatory rst-cue studio(s) anime -->
         <!-- art is "interesting" ngl -->
@@ -48,18 +47,18 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
     </entry>
 
-    <entry id="A-MAL-50917" title="Prima Doll"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50917" title="Prima Doll">
         <source>
-            <adb id="50917"/>
-            <ks id="45812"/>
-            <al id="144509"/>
-            <mal id="50917"/>
+            <adb id="50917" />
+            <ks id="45812" />
+            <al id="144509" />
+            <mal id="50917" />
         </source>
         <!-- the "fuck u setsuna yuki" and "akari kito pls come back" anime -->
         <!-- yep, ep 1 was ruined because of that bullcrap -->
         <!-- yep, the whole anime was ruined because of that girl -->
 
-        <bestGirl name="Otome Okumiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Otome Okumiya" />
         <!-- ichijou ruka my beloved (she can't save this anime sadge) -->
 
         <!-- the prima doll incident -->
@@ -80,12 +79,12 @@
         <!-- kusunoki tomori - the prima doll destroyer -->
     </entry>
 
-    <entry id="A-MAL-49470" title="Mamahaha no Tsurego ga Motokano datta"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-49470" title="Mamahaha no Tsurego ga Motokano datta">
         <source>
-            <adb id="49470"/>
-            <ks id="44913"/>
-            <al id="136934"/>
-            <mal id="49470"/>
+            <adb id="49470" />
+            <ks id="44913" />
+            <al id="136934" />
+            <mal id="49470" />
         </source>
         <!-- from the creators of Seirei Gensouki (kimi no rhapsody reference) -->
         <!-- and something something villager a (kimi no rhapsody reference once -->
@@ -96,7 +95,7 @@
         <!-- > Main                           Japanese -->
         <!-- oh i see -->
 
-        <bestGirl name="Yume Irido" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Yume Irido" />
         <!-- self-explanatory -->
 
         <!-- good art (the rosia girl looks breedable af) -->
@@ -112,15 +111,15 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
     </entry>
 
-    <entry id="A-MAL-50999" title="Extreme Hearts"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50999" title="Extreme Hearts">
         <source>
-            <adb id="50999"/>
-            <ks id="45855"/>
-            <al id="145001"/>
-            <mal id="50999"/>
+            <adb id="50999" />
+            <ks id="45855" />
+            <al id="145001" />
+            <mal id="50999" />
         </source>
 
-        <bestGirl name="Saki Kodaka" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Saki Kodaka" />
         <!-- saki is someone that we need but we don't deserve -->
 
         <!-- no fucking way ari ozawa and tomomi mineuchi in the same anime -->
@@ -147,15 +146,15 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.5" effect="0.75" />
     </entry>
 
-    <entry id="A-MAL-50221" title="Shine Post"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50221" title="Shine Post">
         <source>
-            <adb id="50221"/>
-            <ks id="45389"/>
-            <al id="140753"/>
-            <mal id="50221"/>
+            <adb id="50221" />
+            <ks id="45389" />
+            <al id="140753" />
+            <mal id="50221" />
         </source>
 
-        <bestGirl name="Rio Seibu" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Rio Seibu" />
         <!-- lmfao himekek VA -->
         <!-- they even got her to sing a ballad omegalul -->
         <!-- (they know about her songs in sb69 these cheeky mfs) -->

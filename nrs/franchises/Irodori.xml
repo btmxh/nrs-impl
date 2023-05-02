@@ -1,18 +1,17 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- original of irodori covers -->
-    <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP">
 
         <contains id="M-VGMDB-AL-91187-35" />
     </entry>
 
-    <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I">
 
         <visual type="albumArt" base="0.05" unique="0.5" />
 
         <entry id="$-35" title="エンドマークに希望と涙を添えて">
-            <musicConsumedProgress length="2:51" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="2:51" />
             <music base="0.35" />
             <remix id="M-VGMDB-AL-93299-2" />
         </entry>
@@ -20,24 +19,35 @@
 
     <entry id="F-VGMDB-10978" title="Irodorimidori">
 
-        <entry id="A-MAL-50267" title="Irodorimidori"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-50267" title="Irodorimidori">
             <source>
-                <adb id="50267"/>
-                <ks id="45577"/>
-                <al id="140950"/>
-                <mal id="50267"/>
+                <adb id="50267" />
+                <ks id="45577" />
+                <al id="140950" />
+                <mal id="50267" />
             </source>
-            <bestGirl name="Nagi Kobotoke" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Nagi Kobotoke" />
 
-            <animeConsumedProgress status="Completed" boredom="0.9" episodes="8" episodeDuration="3:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="8"
+                episodeDuration="3:00"
+            />
             <visual type="animatedShort" base="0.4" unique="0.2" />
         </entry>
 
-        <entry id="M-VGMDB-AL-93299" title="GO!GO! Chunithm♥Endmark / IRODORIMIDORI"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-93299"
+            title="GO!GO! Chunithm♥Endmark / IRODORIMIDORI"
+        >
 
             <visual type="albumArt" base="0.5" unique="0.35" />
 
-            <entry id="$-2" title="エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-2"
+                title="エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～"
+            >
                 <!-- Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc -->
                 <musicConsumedProgress length="4:35" /> <!-- impl_overridden -->
 
@@ -59,7 +69,10 @@
                 <musicConsumedProgress length="5:16" /> <!-- impl_overridden -->
             </entry>
 
-            <entry id="M-20220130T165739-4" title="Zero kara hajimeru Brain Power">
+            <entry
+                id="M-20220130T165739-4"
+                title="Zero kara hajimeru Brain Power"
+            >
 
                 <!-- Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc -->
                 <music base="0.25" />

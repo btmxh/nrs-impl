@@ -1,13 +1,18 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
-    <entry id="F-VGMDB-3274" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru.">
+    <entry
+        id="F-VGMDB-3274"
+        title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+    >
 
         <contains id="M-VGMDB-AL-37932-1" />
         <contains id="M-VGMDB-AL-51516-1" />
         <contains id="M-VGMDB-AL-96288-1" />
 
-        <entry id="M-VGMDB-AL-37999" title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-37999"
+            title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"
+        >
 
             <visual type="albumArt" base="0.3" unique="0.5" />
 
@@ -17,15 +22,18 @@
             </music>
 
             <entry id="$-1" title="Hello Alone">
-                <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:39" />
 
             </entry>
             <entry id="$-2" title="Hello Alone -Yui Ballade-">
-                <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:53" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-51394" title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-51394"
+            title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"
+        >
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
@@ -35,21 +43,27 @@
             </music>
 
             <entry id="$-1" title="エブリデイワールド">
-                <musicConsumedProgress length="4:22" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:22" />
 
             </entry>
-            <entry id="$-3" title=" Everyday World -Ballade Arrange- Yui Solo Ver.">
-                <musicConsumedProgress length="5:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-3"
+                title=" Everyday World -Ballade Arrange- Yui Solo Ver."
+            >
+                <musicConsumedProgress length="5:29" />
 
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-96290" title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) &amp; Yui Yuigahama (CV: Nao Toyama)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-96290"
+            title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) &amp; Yui Yuigahama (CV: Nao Toyama)"
+        >
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
             <entry id="$-1" title="Diamond no Jundo">
-                <musicConsumedProgress length="3:27" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:27" />
                 <music base="0.3" />
             </entry>
         </entry>
@@ -93,16 +107,19 @@
             <contributor id="A-MAL-23847" factor="0.9" />
         </waifu>
 
-        <entry id="A-MAL-14813" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-14813"
+            title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+        >
             <source>
-                <adb id="14813"/>
-                <ks id="7169"/>
-                <al id="14813"/>
-                <mal id="14813"/>
+                <adb id="14813" />
+                <ks id="7169" />
+                <al id="14813" />
+                <mal id="14813" />
             </source>
 
             <!-- Brain's Base drew Yukino better than Yui -->
-            <bestGirl name="Yukino Yukinoshita" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yukino Yukinoshita" />
 
             <visual type="animated" base="0.25" unique="0.4" />
             <nei base="0.75" emotions="AP" />
@@ -110,19 +127,26 @@
             <featureMusic id="M-VGMDB-AL-37932-1" />
             <featureMusic id="M-VGMDB-AL-37999" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
         </entry>
 
-        <entry id="A-MAL-23847" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-23847"
+            title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+        >
             <source>
-                <adb id="23847"/>
-                <ks id="8478"/>
-                <al id="20698"/>
-                <mal id="23847"/>
+                <adb id="23847" />
+                <ks id="8478" />
+                <al id="20698" />
+                <mal id="23847" />
             </source>
 
             <!-- feel. drew Yui better -->
-            <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yui Yuigahama" />
 
             <visual type="animated" base="0.4" unique="0.25" />
             <nei base="0.25" emotions="AP" />
@@ -136,18 +160,25 @@
             <featureMusic id="M-VGMDB-AL-51394-1" />
             <featureMusic id="M-VGMDB-AL-51394-3" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
         </entry>
 
-        <entry id="A-MAL-39547" title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-39547"
+            title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+        >
             <source>
-                <adb id="39547"/>
-                <ks id="42194"/>
-                <al id="108489"/>
-                <mal id="39547"/>
+                <adb id="39547" />
+                <ks id="42194" />
+                <al id="108489" />
+                <mal id="39547" />
             </source>
 
-            <bestGirl name="Yui Yuigahama" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Yui Yuigahama" />
             <!-- seasonal = true -->
 
             <visual type="animated" base="0.4" unique="0.25" />
@@ -165,7 +196,11 @@
             <featureMusic id="M-VGMDB-AL-96288-1" />
             <featureMusic id="M-VGMDB-AL-96290-1" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
         </entry>
     </entry>
 </document>

@@ -1,14 +1,13 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-6946" title="Egao no Daika">
 
-        <entry id="A-MAL-38544" title="Egao no Daika"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38544" title="Egao no Daika">
             <source>
-                <adb id="38544"/>
-                <ks id="42001"/>
-                <al id="104674"/>
-                <mal id="38544"/>
+                <adb id="38544" />
+                <ks id="42001" />
+                <al id="104674" />
+                <mal id="38544" />
             </source>
 
             <bestGirl name="Yuuki Soleil" />
@@ -25,15 +24,22 @@
             <!-- pretty cool and sad for her ig -->
             <!-- also ortensia incident -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <visual type="animated" base="0.5" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-81448-1" />
             <aei base="0.75" emotions="CU-0.5:MP-0.25:AP-0.25" />
         </entry>
 
-        <entry id="M-VGMDB-AL-81448" title="Egao no Kanata / Chiho feat. majiko"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-81448"
+            title="Egao no Kanata / Chiho feat. majiko"
+        >
             <visual type="albumArt" base="0.5" unique="0.3" />
-            <entry id="$-1" title="Egao no Kanata"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Egao no Kanata">
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1048878#osu/2192351 -->
                 <musicConsumedProgress length="3:50" /> <!-- impl_overridden -->
                 <music base="0.5" />

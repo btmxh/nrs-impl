@@ -1,14 +1,16 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-3483" title="Kokoro Connect">
 
-        <entry id="M-VGMDB-AL-35431" title="Kokoro Connect Original Soundtrack 2 Hito Random &amp; Kizu Random Opening Theme Song &quot;Kimochi Signal&quot; / Kizu Random Ending Theme Song &quot;Cry out&quot;"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-35431"
+            title="Kokoro Connect Original Soundtrack 2 Hito Random &amp; Kizu Random Opening Theme Song &quot;Kimochi Signal&quot; / Kizu Random Ending Theme Song &quot;Cry out&quot;"
+        >
 
             <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Kimochi Signal">
-                <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:13" />
                 <music base="0.15" />
             </entry>
         </entry>
@@ -31,31 +33,39 @@
             <contributor id="A-MAL-16001" factor="0.4" />
         </aei>
 
-        <entry id="A-MAL-11887" title="Kokoro Connect"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-11887" title="Kokoro Connect">
             <source>
-                <adb id="11887"/>
-                <ks id="6626"/>
-                <al id="11887"/>
-                <mal id="11887"/>
+                <adb id="11887" />
+                <ks id="6626" />
+                <al id="11887" />
+                <mal id="11887" />
             </source>
-            <bestGirl name="Iori Nagase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iori Nagase" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
 
             <visual type="animated" base="0.4" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-35431" />
         </entry>
 
-        <entry id="A-MAL-16001" title="Kokoro Connect: Michi Random"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-16001" title="Kokoro Connect: Michi Random">
             <source>
-                <ks id="7355"/>
-                <al id="16001"/>
-                <mal id="16001"/>
+                <ks id="7355" />
+                <al id="16001" />
+                <mal id="16001" />
             </source>
-            <bestGirl name="Iori Nagase" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Iori Nagase" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="4" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="4"
+            />
             <visual type="animated" base="0.4" unique="0.3" />
         </entry>
     </entry>

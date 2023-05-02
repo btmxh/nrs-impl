@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- himeno sena and her consequences :skull: -->
     <!-- tl;dr: cultural doomerism died, cultural revisionism and -->
@@ -7,12 +6,15 @@
     <!-- remodernization, the return of romance and the weakening of -->
     <!-- the heisenberg uncertainty principle -->
 
-    <entry id="A-MAL-52736" title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry
+        id="A-MAL-52736"
+        title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"
+    >
         <source>
-            <adb id="52736"/>
-            <ks id="46335"/>
-            <al id="153629"/>
-            <mal id="52736"/>
+            <adb id="52736" />
+            <ks id="46335" />
+            <al id="153629" />
+            <mal id="52736" />
         </source>
 
         <!-- pogpega it's le cat !!1!1!! -->
@@ -39,12 +41,12 @@
         </cry>
     </entry>
 
-    <entry id="A-MAL-49980" title="Sugar Apple Fairy Tale"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-49980" title="Sugar Apple Fairy Tale">
         <source>
-            <adb id="49980"/>
-            <ks id="45270"/>
-            <al id="139821"/>
-            <mal id="49980"/>
+            <adb id="49980" />
+            <ks id="45270" />
+            <al id="139821" />
+            <mal id="49980" />
         </source>
 
         <!-- lmfao "escha 2023" -->
@@ -54,12 +56,15 @@
         <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
-    <entry id="A-MAL-49612" title="Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry
+        id="A-MAL-49612"
+        title="Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
+    >
         <source>
-            <adb id="49612"/>
-            <ks id="44982"/>
-            <al id="137909"/>
-            <mal id="49612"/>
+            <adb id="49612" />
+            <ks id="44982" />
+            <al id="137909" />
+            <mal id="49612" />
         </source>
 
         <!-- lmfao "wilbell 2023" -->

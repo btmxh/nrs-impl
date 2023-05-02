@@ -1,15 +1,14 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
-    <entry id="A-MAL-48363" title="RPG Fudousan"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-48363" title="RPG Fudousan">
         <source>
-            <adb id="48363"/>
-            <ks id="44376"/>
-            <al id="130319"/>
-            <mal id="48363"/>
+            <adb id="48363" />
+            <ks id="44376" />
+            <al id="130319" />
+            <mal id="48363" />
         </source>
 
-        <bestGirl name="Kotone Kazairo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Kotone Kazairo" />
 
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="5" />
         <dropped />
@@ -17,27 +16,30 @@
         <visual type="animated" base="0.75" unique="0.3" />
         <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.75" />
     </entry>
-    <entry id="A-MAL-48415" title="Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry
+        id="A-MAL-48415"
+        title="Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
+    >
         <source>
-            <adb id="48415"/>
-            <ks id="44187"/>
-            <al id="130586"/>
-            <mal id="48415"/>
+            <adb id="48415" />
+            <ks id="44187" />
+            <al id="130586" />
+            <mal id="48415" />
         </source>
 
-        <bestGirl name="Ireena Litz de Olhyde" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Ireena Litz de Olhyde" />
 
         <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
         <dropped />
         <visual type="animated" base="0.5" unique="0.2" />
         <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.75" />
     </entry>
-    <entry id="A-MAL-50265" title="Spy x Family"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50265" title="Spy x Family">
         <source>
-            <adb id="50265"/>
-            <ks id="45398"/>
-            <al id="140960"/>
-            <mal id="50265"/>
+            <adb id="50265" />
+            <ks id="45398" />
+            <al id="140960" />
+            <mal id="50265" />
         </source>
 
         <validatorSuppress rules="dah-no-best-girl" />
@@ -65,14 +67,14 @@
         <visual type="animated" base="0.35" unique="0.5" />
         <killedBy id="F-VGMDB-7059" potential="0.5" effect="0.75" />
     </entry>
-    <entry id="A-MAL-50273" title="Tomodachi Game"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-50273" title="Tomodachi Game">
         <source>
-            <adb id="50273"/>
-            <ks id="45401"/>
-            <al id="141014"/>
-            <mal id="50273"/>
+            <adb id="50273" />
+            <ks id="45401" />
+            <al id="141014" />
+            <mal id="50273" />
         </source>
-        <bestGirl name="Maria Mizuse" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Maria Mizuse" />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <!-- unique art because manga, but chara design sucks (p2) -->

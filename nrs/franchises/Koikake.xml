@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- THE ORTENSIA INCIDENT <<<<<<<<<<<<<<<<<< KOIKAKE DARK LORE -->
     <!-- <<<<<<<<<<<<<<<<<< SHERRY BACKSTORY (NO IT'S NOT STFU) -->
@@ -46,7 +45,11 @@
             <!-- really enjoyed the thing :clueless: -->
             <!-- i guess i will finish it in one month :clueless: -->
             <!-- (mid-term coming soon monkaW) :clueless: -->
-            <consumedProgress status="Completed" boredom="1.0" duration="24:00:00" />
+            <consumedProgress
+                status="Completed"
+                boredom="1.0"
+                duration="24:00:00"
+            />
 
             <!-- time to spam ei boys :clueless: -->
             <!-- really good atmospheric farming ngl :clueless: -->
@@ -105,12 +108,15 @@
             </pads>
         </entry>
 
-        <entry id="M-VGMDB-AL-58596" title="KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-58596"
+            title="KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks"
+        >
 
             <visual type="albumArt" base="1.0" unique="0.3" />
 
             <entry id="$-2" title="記憶×ハジマリ">
-                <musicConsumedProgress length="4:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:23" />
                 <!-- chorus sucks but -->
                 <!-- the inst is atm-farm-pilled af -->
                 <!-- unironically can be meta soon :eyes: -->
@@ -121,12 +127,12 @@
             </entry>
 
             <entry id="$-14" title="東の空から始まる世界">
-                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:01" />
                 <music base="0.6" />
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
-                <musicConsumedProgress length="4:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:16" />
                 <!-- Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️ -->
                 <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
@@ -138,7 +144,12 @@
 
             <!-- classic "too lazy to rank all of the tracks" -->
             <music base="0.6" />
-            <ref name="KoikakeAEI" _.base="0.5" _.contribution="0.1" _.emotions="CU-0.8:CP-0.2" />
+            <ref
+                name="KoikakeAEI"
+                _.base="0.5"
+                _.contribution="0.1"
+                _.emotions="CU-0.8:CP-0.2"
+            />
         </entry>
 
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
@@ -150,15 +161,19 @@
         <!-- THE DECEMBER 18TH KOIKAKE PURCHASING INCIDENT :trolldespair: -->
     </entry>
 
-    <entry id="M-VGMDB-AL-123896" title="Starry Avenue"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AL-123896" title="Starry Avenue">
 
         <visual type="albumArt" base="0.6" unique="0.4" />
         <!-- NEE music :skull: -->
 
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
-            <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:53" />
             <music base="0.7" />
-            <ref name="KoikakeCry" _.contribution="0.75" _.emotions="CP-0.5:CU-0.25:MP-0.25" />
+            <ref
+                name="KoikakeCry"
+                _.contribution="0.75"
+                _.emotions="CP-0.5:CU-0.25:MP-0.25"
+            />
             <!-- Đó chính là, đoạn đường mà em đi -->
             <!-- That is, the path that you've chosen -->
 
@@ -213,7 +228,11 @@
         </meme>
     </def>
 
-    <def name="KoikakeAEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
+    <def
+        name="KoikakeAEI"
+        vars="_.base:double,_.contribution:double,_.emotions:string"
+        visibility="public"
+    >
         <aei base="_.base" emotions="_.emotions">
             <script>
                 this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
@@ -223,7 +242,11 @@
         </aei>
     </def>
 
-    <def name="KoikakeNEI" vars="_.base:double,_.contribution:double,_.emotions:string" visibility="public">
+    <def
+        name="KoikakeNEI"
+        vars="_.base:double,_.contribution:double,_.emotions:string"
+        visibility="public"
+    >
         <nei base="_.base" emotions="_.emotions">
             <script>
                 this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);
@@ -233,7 +256,11 @@
         </nei>
     </def>
 
-    <def name="KoikakeCry" vars="_.contribution:double,_.emotions:string" visibility="public">
+    <def
+        name="KoikakeCry"
+        vars="_.contribution:double,_.emotions:string"
+        visibility="public"
+    >
         <cry emotions="_.emotions">
             <script>
                 this.value[0].contributors.set(this.parent.entry.value.id, _.contribution);

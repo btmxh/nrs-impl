@@ -1,14 +1,13 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-20220823T083245" title="Isekai Quartet">
 
-        <entry id="A-MAL-38472" title="Isekai Quartet"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38472" title="Isekai Quartet">
             <source>
-                <adb id="38472"/>
-                <ks id="42032"/>
-                <al id="104454"/>
-                <mal id="38472"/>
+                <adb id="38472" />
+                <ks id="42032" />
+                <al id="104454" />
+                <mal id="38472" />
             </source>
             <!-- selecting bestGirl of this anime be like -->
             <!-- template: https://imgflip.com/memetemplate/294461925/Two-Guys-Fighting-then-One-Guy-Kills-Them -->
@@ -16,28 +15,36 @@
             <!-- "darkness (ai kayano cricri girl va)" -->
             <!-- "chris + eris (suwa ayaka rst girl va)" -->
             <!-- "ram (fuck re:zero tho) (murakawa rie akm girl va) -->
-            <bestGirl name="Ram" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Ram" />
 
             <visual type="animated" base="0.3" unique="0.5" />
-            <animeConsumedProgress status="Completed" boredom="0.5" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.5"
+                episodes="12"
+            />
         </entry>
 
-        <entry id="A-MAL-39988" title="Isekai Quartet 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-39988" title="Isekai Quartet 2">
             <source>
-                <adb id="39988"/>
-                <ks id="42410"/>
-                <al id="110178"/>
-                <mal id="39988"/>
+                <adb id="39988" />
+                <ks id="42410" />
+                <al id="110178" />
+                <mal id="39988" />
             </source>
 
             <!-- if there is someone that murakawa rie loses to, -->
             <!-- then it must be 𝐓𝐇𝐄 𝐆𝐈𝐆𝐀𝐂𝐇𝐀𝐃 𝐒𝐄𝐈𝐘𝐔𝐔, -->
             <!-- or the other akm girl, i'll let rina hidaka have this just -->
             <!-- to make the thing balanced -->
-            <bestGirl name="Filo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Filo" />
 
             <visual type="animated" base="0.3" unique="0.5" />
-            <animeConsumedProgress status="Dropped" boredom="0.5" episodes="12" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.5"
+                episodes="12"
+            />
             <dropped />
         </entry>
     </entry>

@@ -1,30 +1,36 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
 
     <entry id="F-VGMDB-10135" title="Tonikaku Kawaii">
 
-        <entry id="A-MAL-41389" title="Tonikaku Kawaii"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-41389" title="Tonikaku Kawaii">
             <source>
-                <adb id="41389"/>
-                <ks id="43034"/>
-                <al id="116267"/>
-                <mal id="41389"/>
+                <adb id="41389" />
+                <ks id="43034" />
+                <al id="116267" />
+                <mal id="41389" />
             </source>
-            <bestGirl name="Tsukasa Yuzaki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Tsukasa Yuzaki" />
 
             <visual type="animated" base="0.4" unique="0.6" />
-            <animeConsumedProgress status="Dropped" boredom="0.8" episodes="1" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.8"
+                episodes="1"
+            />
             <dropped />
             <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
             <featureMusic id="M-VGMDB-AL-104618" />
         </entry>
 
-        <entry id="M-VGMDB-AL-104618" title="Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-104618"
+            title="Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"
+        >
 
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
-                <musicConsumedProgress length="3:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:29" />
                 <music base="0.4" />
             </entry>
         </entry>

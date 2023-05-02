@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- A wise man once said: -->
     <!-- Every EI (emotional impact) post rst arc 1, -->
@@ -17,7 +16,7 @@
             <contributor id="GF-VGMDB-7059" factor="0.01" />
         </aei>
 
-        <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-42945" />
@@ -26,37 +25,42 @@
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!">
 
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="Tachiagare!">
-                <musicConsumedProgress length="4:54" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:54" />
                 <music base="0.6" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-42945" title="7 Girls War / Wake Up, Girls!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-42945" title="7 Girls War / Wake Up, Girls!">
 
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="7 Girls War">
-                <musicConsumedProgress length="5:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="5:07" />
                 <music base="0.35" />
             </entry>
         </entry>
 
-        <entry id="A-MAL-21189" title="Wake Up, Girls! Shichinin no Idol"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-21189" title="Wake Up, Girls! Shichinin no Idol">
             <source>
-                <adb id="21189"/>
-                <ks id="8200"/>
-                <al id="20512"/>
-                <mal id="21189"/>
+                <adb id="21189" />
+                <ks id="8200" />
+                <al id="20512" />
+                <mal id="21189" />
             </source>
 
-            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="52:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="1"
+                episodeDuration="52:00"
+            />
             <!-- partially benefitted from rst -->
             <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.5" />
 
@@ -64,74 +68,96 @@
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry id="A-MAL-19023" title="Wake Up, Girls!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-19023" title="Wake Up, Girls!">
             <source>
-                <adb id="19023"/>
-                <ks id="7774"/>
-                <al id="19023"/>
-                <mal id="19023"/>
+                <adb id="19023" />
+                <ks id="7774" />
+                <al id="19023" />
+                <mal id="19023" />
             </source>
 
-            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" />
 
-            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="53:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.95"
+                episodes="1"
+                episodeDuration="53:00"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <featureMusic id="M-VGMDB-AL-42945-1" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry id="A-MAL-28841" title="Wake Up, Girls! Seishun no Kage"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-28841" title="Wake Up, Girls! Seishun no Kage">
             <source>
-                <ks id="10068"/>
-                <al id="20989"/>
-                <mal id="28841"/>
+                <ks id="10068" />
+                <al id="20989" />
+                <mal id="28841" />
             </source>
 
-            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" />
 
-            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="54:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.95"
+                episodes="1"
+                episodeDuration="54:00"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry id="A-MAL-30419" title="Wake Up, Girls! Beyond the Bottom"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-30419" title="Wake Up, Girls! Beyond the Bottom">
             <source>
-                <ks id="10845"/>
-                <al id="21107"/>
-                <mal id="30419"/>
+                <ks id="10845" />
+                <al id="21107" />
+                <mal id="30419" />
             </source>
 
-            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" />
 
-            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="53:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.95"
+                episodes="1"
+                episodeDuration="53:00"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.4" unique="0.6" />
         </entry>
 
-        <entry id="A-MAL-34522" title="Wake Up, Girls! Shin Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-34522" title="Wake Up, Girls! Shin Shou">
             <source>
-                <adb id="34522"/>
-                <ks id="13707"/>
-                <al id="97933"/>
-                <mal id="34522"/>
+                <adb id="34522" />
+                <ks id="13707" />
+                <al id="97933" />
+                <mal id="34522" />
             </source>
 
-            <bestGirl name="Mayu Shimada" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mayu Shimada" />
 
-            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="12"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.3" unique="0.6" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-68276" title="One In A Billion / Wake Up, May'n! [Limited Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-68276"
+        title="One In A Billion / Wake Up, May'n! [Limited Edition]"
+    >
 
         <!-- dream luck be like lmfao -->
 
         <visual type="albumArt" base="0.1" unique="0.2" />
 
         <entry id="$-1" title="One In A Billion">
-            <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:17" />
             <osuSong personal="0.5" community="0.1" />
             <music base="0.6" />
         </entry>

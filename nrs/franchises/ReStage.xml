@@ -1,15 +1,16 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <!-- gee-zay honesty -->
 <!-- where is the glorious rst -->
-
 <!-- watch rst and buy the bluray -->
-
 <!-- only 0.15 NRS score from Love Live Niji -->
 <!-- top 1 anime doable LETSGO -->
 <!-- this is the first step of our global (oricon) domination plan -->
 <document>
-    <def name="ReStepMusic" vars="_.base:double,_.eras:string,_.from:string" visibility="public">
+    <def
+        name="ReStepMusic"
+        vars="_.base:double,_.eras:string,_.from:string"
+        visibility="public"
+    >
         <!-- bind macro variables to local scope -->
         <script>
             local.base = _.base;
@@ -30,7 +31,10 @@
             local.base = _.base;
             local.era = "_.era";
         </script>
-        <script src="../scripts/RSTSB69Music.js" entryPoint="rstTrackMemeImpact" />
+        <script
+            src="../scripts/RSTSB69Music.js"
+            entryPoint="rstTrackMemeImpact"
+        />
     </def>
 
     <!-- changed da world -->
@@ -65,12 +69,12 @@
 
     <entry id="F-VGMDB-7059" title="Re:STAGE!">
 
-        <entry id="A-MAL-38009" title="Re:Stage! Dream Days♪"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-38009" title="Re:Stage! Dream Days♪">
             <source>
-                <adb id="38009"/>
-                <ks id="42280"/>
-                <al id="103048"/>
-                <mal id="38009"/>
+                <adb id="38009" />
+                <ks id="42280" />
+                <al id="103048" />
+                <mal id="38009" />
             </source>
 
             <!-- pasta inc -->
@@ -132,7 +136,7 @@
             <!-- https://srgym.official.ec/p/00001 -->
 
             <!-- for rst shills <3: https://www.google.com/search?q=grass&tbm=isch -->
-            <bestGirl name="Mana Shikimiya" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Mana Shikimiya" />
             <!-- her seiyuu is the GINGACHAD seiyuu amane makino btw -->
             <!-- play this: https://www.youtube.com/watch?v=QJJYpsA5tv8 -->
             <!-- follow her pls: https://twitter.com/makinoamane -->
@@ -197,7 +201,11 @@
             <!-- GateOpen("F-VGMDB-4499") -->
 
 
-            <animeConsumedProgress status="Completed" boredom="0.95" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.95"
+                episodes="12"
+            />
 
             <!-- description = "OvertuRe: CG" -->
             <regularImpact>
@@ -207,55 +215,75 @@
             </regularImpact>
         </entry>
 
-        <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe">
 
             <visual type="albumArt" base="0.2" unique="0.6" />
 
-            <entry id="$-2" title="Startin' My Re:STAGE!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="akm1=5.0:akm2=5.0" />
+            <entry id="$-2" title="Startin' My Re:STAGE!!">
+                <musicConsumedProgress length="4:01" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.1"
+                    _.from="arc1"
+                    _.eras="akm1=5.0:akm2=5.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78534" title="Remembers! / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78534" title="Remembers! / KiRaRe">
 
             <visual type="albumArt" base="0.4" unique="0.4" />
 
-            <entry id="$-1" title="リメンバーズ!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="リメンバーズ!">
+                <musicConsumedProgress length="4:25" />
                 <!-- haha funny centuRe: reference -->
                 <!-- arc2 = 20.0 the century man -->
                 <!-- arc3 = 10.0 rst song comp -->
-                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="arc2=20.0:arc3=10.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.3"
+                    _.from="arc1"
+                    _.eras="arc2=20.0:arc3=10.0"
+                />
             </entry>
 
-            <entry id="$-2" title="君に贈るAngel Yell"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="君に贈るAngel Yell">
+                <musicConsumedProgress length="4:25" />
                 <!-- the angel yell incident -->
-                <ref name="ReStepMusic" _.base="0.75" _.from="arc1" _.eras="arc1=25.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.75"
+                    _.from="arc1"
+                    _.eras="arc1=25.0"
+                />
                 <!-- "Amazing saikou no Brilliant (HEY!!)" -->
                 <!-- wtf this song is nozsist i hate rst now -->
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78575" title="Natsu no Yakusoku / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78575" title="Natsu no Yakusoku / KiRaRe">
 
             <!-- 367days background lmfao -->
             <visual type="albumArt" base="0.25" unique="0.6" />
 
-            <entry id="$-1" title="Natsu no Yakusoku"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Natsu no Yakusoku">
+                <musicConsumedProgress length="4:20" />
                 <ref name="ReStepMusic" _.base="0.15" _.from="arc1" _.eras="" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78532" title="Akogare Future Sign / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78532" title="Akogare Future Sign / KiRaRe">
 
             <visual type="albumArt" base="0.25" unique="0.6" />
 
-            <entry id="$-1" title="憧れFuture Sign"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="arc1=1.5:nee=2.5" />
+            <entry id="$-1" title="憧れFuture Sign">
+                <musicConsumedProgress length="4:53" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.3"
+                    _.from="arc1"
+                    _.eras="arc1=1.5:nee=2.5"
+                />
 
                 <!-- thank you based atelier, very cool -->
                 <!-- thank you based yuiko, very cool -->
@@ -265,14 +293,19 @@
             <contains id="M-VGMDB-AL-78575-1" />
         </entry>
 
-        <entry id="M-VGMDB-AL-78530" title="KiRaRhythm / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78530" title="KiRaRhythm / KiRaRe">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
-            <entry id="$-1" title="Do it!! PARTY!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:33" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Do it!! PARTY!!">
+                <musicConsumedProgress length="4:33" />
                 <!-- do it happy daibouken reference -->
-                <ref name="ReStepMusic" _.base="0.5" _.from="arc1" _.eras="arc1=10.0:arc2=5.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.5"
+                    _.from="arc1"
+                    _.eras="arc1=10.0:arc2=5.0"
+                />
             </entry>
 
             <contains id="M-VGMDB-AL-78534-1" />
@@ -282,23 +315,28 @@
             <contains id="M-VGMDB-AL-78536-2" />
         </entry>
 
-        <entry id="M-VGMDB-AL-78516" title="SENSEI Sensation / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78516" title="SENSEI Sensation / KiRaRe">
 
             <visual type="albumArt" base="0.25" unique="0.6" />
-            <entry id="$-1" title="宣誓センセーション"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="宣誓センセーション">
+                <musicConsumedProgress length="4:20" />
                 <!-- [plasmagunstepgica] -->
-                <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="arc3=5.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.3"
+                    _.from="arc1"
+                    _.eras="arc3=5.0"
+                />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78764" title="367Days / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78764" title="367Days / KiRaRe">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
-            <entry id="$-1" title="367Days"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="5:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="367Days">
+                <musicConsumedProgress length="5:10" />
                 <!-- THE FUNNY NUMBER, WHEN YOU FUCKING SEE IT -->
                 <!-- (definitely not a cheap copy of osu's 727) -->
                 <!-- still funnier than atelier's 15 -->
@@ -309,55 +347,91 @@
                 <!-- [9.06⭐Live] rushia1 | KiRaRe - 367Days [Over the Dreams] +HDDT 95.81% {#4 1005pp 1❌} - osu! -->
                 <osuSong personal="0.5" community="0.0" />
 
-                <ref name="ReStepMusic" _.base="0.5" _.from="arc1" _.eras="arc1=15.0:arc2=10.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.5"
+                    _.from="arc1"
+                    _.eras="arc1=15.0:arc2=10.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-84229" title="HAPPY TYPHOON / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-84229" title="HAPPY TYPHOON / KiRaRe">
 
             <visual type="albumArt" base="0.5" unique="0.4" />
-            <entry id="$-1" title="ハッピータイフーン"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.08" _.from="arc1" _.eras="arc1=2.5" />
+            <entry id="$-1" title="ハッピータイフーン">
+                <musicConsumedProgress length="4:34" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.08"
+                    _.from="arc1"
+                    _.eras="arc1=2.5"
+                />
             </entry>
 
             <entry id="$-2" title="ステレオライフ">
-                <musicConsumedProgress length="4:28" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:28" />
                 <!-- yozora ni kagayaku yume no ryuusei wa -->
                 <!-- kek -->
-                <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="arc2=5.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.1"
+                    _.from="arc1"
+                    _.eras="arc2=5.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-86622" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-86622"
+            title="Re:STAGE! DREAM DAYS♪ SONG SERIES 1: Don't think, smile!!"
+        >
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-1" title="Don't think, smile!!">
-                <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.25" _.from="arc1" _.eras="arc1=7.5" />
+                <musicConsumedProgress length="4:44" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.25"
+                    _.from="arc1"
+                    _.eras="arc1=7.5"
+                />
             </entry>
 
             <entry id="$-2" title="Akogare Future Sign (Piano Strings Arrange)">
-                <musicConsumedProgress length="4:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.2" _.from="arc1" _.eras="arc1=10.0:nee=15.0" />
+                <musicConsumedProgress length="4:56" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.2"
+                    _.from="arc1"
+                    _.eras="arc1=10.0:nee=15.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-89363" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-89363"
+            title="Re:STAGE! DREAM DAYS♪ SONG SERIES 5 INSERT SONG MINI ALBUM: DRe:AMER KiRaRe ver."
+        >
             <contains id="M-VGMDB-AL-78516-1" />
             <contains id="M-VGMDB-AL-78764-1" />
 
             <visual type="albumArt" base="0.6" unique="0.2" />
             <entry id="$-1" title="Kirameki Future">
-                <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:02" />
                 <!-- ca truong chuyen deu luon luon khiep so -->
                 <!-- mot nguoi diet het moi tuong lai uoc mo -->
                 <!-- xinh dep bac nhat tren thai binh que to -->
                 <!-- co gai hoan love luon khien cho ca truong chuyen don dau -->
-                <ref name="ReStepMusic" _.base="0.45" _.from="arc1" _.eras="arc1=25.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.45"
+                    _.from="arc1"
+                    _.eras="arc1=25.0"
+                />
             </entry>
 
             <entry id="$-2" title="OvertuRe:">
-                <musicConsumedProgress length="4:51" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:51" />
                 <!-- meme lyrics xddd -->
                 <!-- I can't rely on one -->
                 <!-- 一つじゃ頼りない -->
@@ -398,20 +472,33 @@
                 <!-- demon slayer? more like got slayed by rst lmao xddddd -->
                 <!-- love live? more like love die because you got cucked by rst xddddddd KEKW ING -->
                 <!-- we will be on the top and people will have to smoke COPIUM just like me rn -->
-                <ref name="ReStepMusic" _.base="0.8" _.from="arc1" _.eras="arc1=25.0:arc3=25.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.8"
+                    _.from="arc1"
+                    _.eras="arc1=25.0:arc3=25.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-90208" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-90208"
+            title="Re:STAGE! DREAM DAYS♪ SONG SERIES 10 INSERT SONG MINI ALBUM: Be the CHANGE."
+        >
             <visual type="albumArt" base="0.6" unique="0.2" />
-            <entry id="$-5" title="Invisible Diamond"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.65" _.from="arc1" _.eras="arc3=10.0" />
+            <entry id="$-5" title="Invisible Diamond">
+                <musicConsumedProgress length="3:53" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.65"
+                    _.from="arc1"
+                    _.eras="arc3=10.0"
+                />
                 <osuSong personal="0.25" community="0.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-30829" title="KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AR-30829" title="KiRaRe">
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78536" />
@@ -429,7 +516,10 @@
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-89364" title="Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-89364"
+            title="Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."
+        >
 
             <visual type="albumArt" base="0.6" unique="0.2" />
             <contains id="M-VGMDB-AL-89363-1" />
@@ -437,47 +527,62 @@
             <contains id="M-VGMDB-AL-78520-1" />
 
             <entry id="$-3" title="Yes, We Are!!!">
-                <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.35" _.from="arc1" _.eras="arc1=20.0" />
+                <musicConsumedProgress length="4:08" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.35"
+                    _.from="arc1"
+                    _.eras="arc1=20.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78520" title="Purple Rays / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78520" title="Purple Rays / ortensia">
 
             <visual type="albumArt" base="0.35" unique="0.55" />
 
             <entry id="$-1" title="Purple Rays">
-                <musicConsumedProgress length="4:02" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:02" />
                 <ref name="ReStepMusic" _.base="0.3" _.from="arc1" _.eras="" />
             </entry>
 
             <entry id="$-2" title="Dear マイフレンド">
-                <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:29" />
                 <!-- blame localism -->
-                <ref name="ReStepMusic" _.base="0.4" _.from="arc1" _.eras="arc1=2.5:arc3=2.5:nee=20.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.4"
+                    _.from="arc1"
+                    _.eras="arc1=2.5:arc3=2.5:nee=20.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78339" title="*Heart Confusion* / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78339" title="*Heart Confusion* / ortensia">
 
             <visual type="albumArt" base="0.25" unique="0.65" />
             <entry id="$-1" title="*Heart Confusion*">
-                <musicConsumedProgress length="3:46" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="3:46" />
                 <ref name="ReStepMusic" _.base="0.1" _.from="arc1" _.eras="" />
             </entry>
 
-            <entry id="$-2" title="crave"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:35" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="crave">
+                <musicConsumedProgress length="4:35" />
                 <!-- gigachad keeno: -->
                 <!-- >doesn't give a shit about multimedia franchises -->
                 <!-- >still makes a song for rst anyway, but other franchises get none -->
                 <!-- >refuses to elaborate further -->
                 <!-- >leaves -->
-                <ref name="ReStepMusic" _.base="0.25" _.from="arc1" _.eras="arc1=5.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.25"
+                    _.from="arc1"
+                    _.eras="arc1=5.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-82983" title="Pullulate / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-82983" title="Pullulate / ortensia">
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <contains id="M-VGMDB-AL-78339-1" />
@@ -486,8 +591,13 @@
             <contains id="M-VGMDB-AL-78520-2" />
 
             <entry id="$-5" title="Ano ne">
-                <musicConsumedProgress length="3:45" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.2" _.from="arc1" _.eras="arc1=5.0" />
+                <musicConsumedProgress length="3:45" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.2"
+                    _.from="arc1"
+                    _.eras="arc1=5.0"
+                />
             </entry>
         </entry>
 
@@ -573,18 +683,28 @@
         <!-- (like 20-30 days won't do much for something that's longer than 300 days) -->
         <meme strength="0.3" from="2022-01-01" to="today" />
 
-        <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris">
 
             <visual type="albumArt" base="0.4" unique="0.5" />
 
-            <entry id="$-1" title="InFiction"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.45" _.from="arc1" _.eras="arc3=2.5" />
+            <entry id="$-1" title="InFiction">
+                <musicConsumedProgress length="3:30" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.45"
+                    _.from="arc1"
+                    _.eras="arc3=2.5"
+                />
             </entry>
 
-            <entry id="$-8" title="DESERT BLACK FLOWER"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:32" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.75" _.from="arc1" _.eras="arc3=10.0" />
+            <entry id="$-8" title="DESERT BLACK FLOWER">
+                <musicConsumedProgress length="4:32" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.75"
+                    _.from="arc1"
+                    _.eras="arc3=10.0"
+                />
             </entry>
         </entry>
 
@@ -605,13 +725,18 @@
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-78515" title="Raise Your Fist / Tetrarkhia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-78515" title="Raise Your Fist / Tetrarkhia">
 
             <visual type="albumArt" base="0.4" unique="0.4" />
 
-            <entry id="$-1" title="カナリア"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:16" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.6" _.from="arc1" _.eras="arc1=5.0" />
+            <entry id="$-1" title="カナリア">
+                <musicConsumedProgress length="3:16" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.6"
+                    _.from="arc1"
+                    _.eras="arc1=5.0"
+                />
             </entry>
         </entry>
 
@@ -625,25 +750,33 @@
         </entry>
 
         <entry id="M-VGMDB-AL-109271-48" title="私たち、四季を遊ぶんです!!">
-            <musicConsumedProgress length="4:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress length="4:34" />
 
             <!-- i mapped and tried to shill it on: -->
             <!-- - sotarks map roasting -->
             <!-- - btmc map requests -->
             <!-- (both failed lmfao) -->
-            <ref name="ReStepMusic" _.base="0.8" _.from="arc1" _.eras="arc1=10.0:arc2=2.5" />
+            <ref
+                name="ReStepMusic"
+                _.base="0.8"
+                _.from="arc1"
+                _.eras="arc1=10.0:arc2=2.5"
+            />
 
             <!-- hige driver composed and arranged this btw -->
             <!-- (ye the dude who make dadadadadada) -->
         </entry>
 
-        <entry id="M-VGMDB-AL-104673" title="Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-104673"
+            title="Re:STAGE! CONCEPT MINI ALBUM: Chain of Dream"
+        >
             <!-- aka method appreciation album -->
 
             <visual type="albumArt" base="0.5" unique="0.2" />
 
-            <entry id="$-1" title="Bridge to Dream"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Bridge to Dream">
+                <musicConsumedProgress length="3:36" />
                 <!-- method, la method -->
                 <!-- nguoi ma mang lai nhung dieu ma ta tin -->
                 <!-- method -->
@@ -652,36 +785,61 @@
                 <!-- la nguoi mang niem tin hi vong cho toi -->
                 <!-- se mang lai biet bao su huy hoang -->
 
-                <ref name="ReStepMusic" _.base="0.7" _.from="arc3" _.eras="arc3=10.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.7"
+                    _.from="arc3"
+                    _.eras="arc3=10.0"
+                />
             </entry>
 
-            <entry id="$-2" title="Re:Rays"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:10" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.5" _.from="arc3" _.eras="arc3=10.0" />
+            <entry id="$-2" title="Re:Rays">
+                <musicConsumedProgress length="4:10" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.5"
+                    _.from="arc3"
+                    _.eras="arc3=10.0"
+                />
             </entry>
 
-            <entry id="$-3" title="Tomorrow Melodies"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="5:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-3" title="Tomorrow Melodies">
+                <musicConsumedProgress length="5:01" />
                 <!-- do chinh la method -->
                 <!-- nguoi dan ong da khien ca truong, -->
                 <!-- ca truong chuyen da luon lo so -->
 
-                <ref name="ReStepMusic" _.base="0.7" _.from="arc3" _.eras="arc3=10.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.7"
+                    _.from="arc3"
+                    _.eras="arc3=10.0"
+                />
             </entry>
 
             <entry id="$-4" title="Pins&amp;Needles">
-                <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.45" _.from="arc3" _.eras="arc3=2.0" />
+                <musicConsumedProgress length="3:42" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.45"
+                    _.from="arc3"
+                    _.eras="arc3=2.0"
+                />
             </entry>
 
             <entry id="$-5" title="We Remember">
-                <musicConsumedProgress length="4:47" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:47" />
                 <!-- ngau loi vai ra -->
                 <!-- nay nhat minh oi nay nhat minh oi -->
                 <!-- tai vi sao a qua ngau -->
                 <!-- (the gian d ai sanh bang) -->
 
-                <ref name="ReStepMusic" _.base="0.3" _.from="arc3" _.eras="arc3=1.5" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.3"
+                    _.from="arc3"
+                    _.eras="arc3=1.5"
+                />
             </entry>
         </entry>
 
@@ -689,32 +847,48 @@
         <!-- these new songs are "saved" for future use, therefore their -->
         <!-- scores are not that high rn -->
         <!-- (except for the absolute banger clematis) -->
-        <entry id="M-VGMDB-AL-120845" title="Sin City / Kasumi Honjou, Ruka Ichijou &amp; Mikuru Bandou"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-120845"
+            title="Sin City / Kasumi Honjou, Ruka Ichijou &amp; Mikuru Bandou"
+        >
             <!-- https://linkco.re/5XDmDcHp -->
             <!-- aka sussin city -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry id="$-1" title="Sin City"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:52" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.35" _.from="arc3" _.eras="arc3=10.0" />
+            <entry id="$-1" title="Sin City">
+                <musicConsumedProgress length="3:52" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.35"
+                    _.from="arc3"
+                    _.eras="arc3=10.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-120844" title="Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka &amp; Sango Misaki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-120844"
+            title="Chiguhagu Melody / Mana Shikimiya, Sayu Tsukisaka &amp; Sango Misaki"
+        >
             <!-- https://linkco.re/AM0HVHA5 -->
             <!-- aka mismatched melody -->
 
             <visual type="albumArt" base="0.35" unique="0.6" />
 
             <!-- ty for going back based akari kito -->
-            <entry id="$-1" title="Chiguhagu Melody"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:55" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.2" _.from="arc3" _.eras="arc3=3.0" />
+            <entry id="$-1" title="Chiguhagu Melody">
+                <musicConsumedProgress length="3:55" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.2"
+                    _.from="arc3"
+                    _.eras="arc3=3.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-120842" title="Unison Monologue / Tetrarkhia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120842" title="Unison Monologue / Tetrarkhia">
             <!-- https://linkco.re/YShsnTEb -->
             <!-- aka the 330 bpm song but actually an alt-165 bpm one -->
 
@@ -724,23 +898,28 @@
             <!-- also rst chads keep winning -->
             <!-- TODO: put this in the track entry or the album entry? -->
             <visual type="semiAnimatedMV" base="0.2" unique="0.6" />
-            <entry id="$-1" title="ユニゾンモノローグ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.3" _.from="arc3" _.eras="arc3=3.0:nee=3.0" />
+            <entry id="$-1" title="ユニゾンモノローグ">
+                <musicConsumedProgress length="3:49" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.3"
+                    _.from="arc3"
+                    _.eras="arc3=3.0:nee=3.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-120836" title="Ginga no Shizuku / TROIS ANGES"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-120836" title="Ginga no Shizuku / TROIS ANGES">
             <!-- le gingachad seiyuu -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
-            <entry id="$-1" title="Ginga no Shizuku"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:49" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-1" title="Ginga no Shizuku">
+                <musicConsumedProgress length="4:49" />
                 <ref name="ReStepMusic" _.base="0.15" _.from="arc3" _.eras="" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-121168" title="Clematis / Stellamaris"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-121168" title="Clematis / Stellamaris">
             <!-- catjam tho -->
             <!-- no one's like the "intelligent update", no one's like the king (clap x2) -->
             <!-- shining like the dawn, scared the whole high school (clap x2) -->
@@ -752,21 +931,31 @@
 
             <visual type="albumArt" base="0.35" unique="0.6" />
 
-            <entry id="$-1" title="Clematis"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.65" _.from="akm1" _.eras="akm1=10.0" />
+            <entry id="$-1" title="Clematis">
+                <musicConsumedProgress length="4:30" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.65"
+                    _.from="akm1"
+                    _.eras="akm1=10.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-122232" title="Ideal/Idol / KiRaRe"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-122232" title="Ideal/Idol / KiRaRe">
             <!-- inb4 the "i'd like to interject for a moment, -->
             <!-- what ur refering to as idol, is in fact ideal/idol..." pasta -->
 
             <visual type="albumArt" base="0.25" unique="0.6" />
 
-            <entry id="$-1" title="Ideal/Idol"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:07" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.15" _.from="arc2" _.eras="akm2=3.0" />
+            <entry id="$-1" title="Ideal/Idol">
+                <musicConsumedProgress length="4:07" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.15"
+                    _.from="arc2"
+                    _.eras="akm2=3.0"
+                />
             </entry>
         </entry>
 
@@ -778,7 +967,10 @@
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-122926" title="Re:STAGE! Prism Step Concept Mini Album: Reboot"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-122926"
+            title="Re:STAGE! Prism Step Concept Mini Album: Reboot"
+        >
             <!-- pre-register the new album now -->
             <!-- https://twitter.com/rst_project/status/1550075801852588032 -->
 
@@ -791,7 +983,7 @@
             <contains id="M-VGMDB-AL-122232-1" />
 
             <entry id="$-6" title="Amaoto Fanfare">
-                <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:37" />
                 <!-- inb4 ortensia banger -->
                 <!-- based ortensia is back with an absolute catjammer -->
                 <!-- https://www.youtube.com/watch?v=bYwwlGeauS4&t=3038s -->
@@ -802,43 +994,72 @@
                 <!-- me waiting for ameko be like -->
                 <!-- https://knowyourmeme.com/memes/pablo-escobar-waiting -->
 
-                <ref name="ReStepMusic" _.base="0.5" _.from="akm3" _.eras="akm3=5.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.5"
+                    _.from="akm3"
+                    _.eras="akm3=5.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-124585" title="Glass Wings / Sango Misaki &amp; Kanade Hokaze"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-124585"
+            title="Glass Wings / Sango Misaki &amp; Kanade Hokaze"
+        >
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Glass Wings">
-                <musicConsumedProgress length="3:41" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.3" _.from="nee" _.eras="nee=3.0" />
+                <musicConsumedProgress length="3:41" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.3"
+                    _.from="nee"
+                    _.eras="nee=3.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-124586" title="Artemis / Ruka Ichijou &amp; Nagisa Himura"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-124586"
+            title="Artemis / Ruka Ichijou &amp; Nagisa Himura"
+        >
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Artemis">
-                <musicConsumedProgress length="4:39" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.25" _.from="nee" _.eras="nee=3.0" />
+                <musicConsumedProgress length="4:39" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.25"
+                    _.from="nee"
+                    _.eras="nee=3.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-124587" title="Imperial Stage / Aone Shikimiya &amp; Amaha Shiratori"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-124587"
+            title="Imperial Stage / Aone Shikimiya &amp; Amaha Shiratori"
+        >
 
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Imperial Stage">
                 <!-- Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8 -->
-                <musicConsumedProgress length="3:24" /> <!-- impl_overridden --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <ref name="ReStepMusic" _.base="0.2" _.from="nee" _.eras="nee=3.0" />
+                <musicConsumedProgress length="3:24" /> <!-- impl_overridden -->
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.2"
+                    _.from="nee"
+                    _.eras="nee=3.0"
+                />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-125354" title="Rainbow FlowerS / ortensia"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-125354" title="Rainbow FlowerS / ortensia">
 
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Rainbow FlowerS">
-                <musicConsumedProgress length="4:25" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:25" />
                 <!-- farewell ~sena-chan get the fuck out wtf -->
                 <!-- are the koikake fuckers doing here it's -->
                 <!-- arc 3 idol dystopia not nee~ mineuchi tomomi -->
@@ -848,7 +1069,12 @@
                 <!-- to banger eroge as such, not something as shallow -->
                 <!-- as 'the ortensia incident'" - mfs who don't even know -->
                 <!-- the true depth of the ortensia incident -->
-                <ref name="ReStepMusic" _.base="0.45" _.from="nee" _.eras="nee=3.0" />
+                <ref
+                    name="ReStepMusic"
+                    _.base="0.45"
+                    _.from="nee"
+                    _.eras="nee=3.0"
+                />
             </entry>
         </entry>
 
@@ -902,17 +1128,17 @@
     <!-- it's what all idol fans feel, the feeling of wanting the girls to success -->
     <!-- " - me in the rst anime part -->
     <!-- this is literally the plot of this anime lmfao -->
-    <entry id="A-MAL-37890" title="Oshi ga Budoukan Ittekuretara Shinu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    <entry id="A-MAL-37890" title="Oshi ga Budoukan Ittekuretara Shinu">
         <source>
-            <adb id="37890"/>
-            <ks id="41309"/>
-            <al id="104391"/>
-            <mal id="37890"/>
+            <adb id="37890" />
+            <ks id="41309" />
+            <al id="104391" />
+            <mal id="37890" />
         </source>
         <!-- aka "If RST can overtake Love Live in the Oricon ranking, I can die happy" -->
         <bestGirl name="Shikimiya Maina" />
         <!-- oops -->
-        <bestGirl name="Maina Ichii" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        <bestGirl name="Maina Ichii" />
 
         <visual type="animated" base="0.2" unique="0.5" />
 

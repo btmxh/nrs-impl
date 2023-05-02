@@ -1,17 +1,16 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-3345" title="Shigatsu wa Kimi no Uso">
 
-        <entry id="A-MAL-23273" title="Shigatsu wa Kimi no Uso"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-23273" title="Shigatsu wa Kimi no Uso">
             <source>
-                <adb id="23273"/>
-                <ks id="8403"/>
-                <al id="20665"/>
-                <mal id="23273"/>
+                <adb id="23273" />
+                <ks id="8403" />
+                <al id="20665" />
+                <mal id="23273" />
             </source>
 
-            <bestGirl name="Kaori Miyazono" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Kaori Miyazono" />
 
             <!-- YLIA is watched during the SLN days (Second-Love-Ngoc era), -->
             <!-- this has lead to the connection between myself and the -->
@@ -37,27 +36,37 @@
 
             <visual type="animated" base="0.3" unique="0.5" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="22" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="22"
+            />
         </entry>
 
-        <entry id="M-VGMDB-AL-49046" title="Shigatsu wa Kimi no Uso ORIGINAL SONG &amp; SOUNDTRACK"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-49046"
+            title="Shigatsu wa Kimi no Uso ORIGINAL SONG &amp; SOUNDTRACK"
+        >
 
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Kimi wa Wasurerareru no">
-                <musicConsumedProgress length="1:34" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="1:34" />
                 <music base="0.3" />
                 <aei base="0.5" emotions="CU" />
             </entry>
 
-            <entry id="$-18" title="Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu">
-                <musicConsumedProgress length="2:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-18"
+                title="Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu"
+            >
+                <musicConsumedProgress length="2:26" />
                 <music base="0.3" />
                 <aei base="0.5" emotions="CU" />
             </entry>
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AR-9069" title="Masaru Yokoyama"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-9069" title="Masaru Yokoyama">
 
         <contains id="M-VGMDB-AL-49046" />
     </entry>

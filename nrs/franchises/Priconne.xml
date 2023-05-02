@@ -1,41 +1,51 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-7086" title="PRINCESS CONNECT!">
 
-        <entry id="A-MAL-39292" title="Princess Connect! Re:Dive"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-39292" title="Princess Connect! Re:Dive">
             <source>
-                <adb id="39292"/>
-                <ks id="42892"/>
-                <al id="107871"/>
-                <mal id="39292"/>
+                <adb id="39292" />
+                <ks id="42892" />
+                <al id="107871" />
+                <mal id="39292" />
             </source>
 
             <bestGirl name="Karyl" />
             <visual type="animated" base="0.55" unique="0.25" />
-            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="12"
+            />
             <nei base="0.9" emotions="AP" /> <!-- funny ig -->
         </entry>
 
-        <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2">
             <source>
-                <adb id="42670"/>
-                <ks id="43600"/>
-                <al id="122808"/>
-                <mal id="42670"/>
+                <adb id="42670" />
+                <ks id="43600" />
+                <al id="122808" />
+                <mal id="42670" />
             </source>
 
             <bestGirl name="Karyl" />
             <visual type="animated" base="0.55" unique="0.25" />
-            <animeConsumedProgress status="Completed" boredom="0.5" episodes="5" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.5"
+                episodes="5"
+            />
             <nei base="0.5" emotions="CP" /> <!-- idk lol -->
             <nei base="0.75" emotions="AP" /> <!-- funny ig -->
         </entry>
 
-        <entry id="M-VGMDB-AL-82981" title="PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-82981"
+            title="PRINCESS CONNECT! Re:Dive PRICONNE CHARACTER SONG 07"
+        >
             <visual type="albumArt" base="0.5" unique="0.4" />
-            <entry id="$-2" title="Ding Dong Holy Night♪"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry id="$-2" title="Ding Dong Holy Night♪">
+                <musicConsumedProgress length="4:18" />
                 <music base="0.45" />
                 <osuSong personal="0.5" community="0.0" />
             </entry>

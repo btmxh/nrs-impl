@@ -1,18 +1,21 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-6418" title="Shichisei no Subaru">
 
-        <entry id="A-MAL-36316" title="Shichisei no Subaru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-36316" title="Shichisei no Subaru">
             <source>
-                <adb id="36316"/>
-                <ks id="40893"/>
-                <al id="100085"/>
-                <mal id="36316"/>
+                <adb id="36316" />
+                <ks id="40893" />
+                <al id="100085" />
+                <mal id="36316" />
             </source>
-            <bestGirl name="Asahi Kuga" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Asahi Kuga" />
 
-            <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="12"
+            />
 
             <!-- The drama in this anime is executed fairly well. -->
             <!-- (It only exists in the first episodes tho) -->

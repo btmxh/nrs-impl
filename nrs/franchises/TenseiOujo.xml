@@ -1,14 +1,19 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
-    <entry id="F-VGMDB-12258" title="Tensei Oujo to Tensai Reijou no Mahou Kakumei">
+    <entry
+        id="F-VGMDB-12258"
+        title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"
+    >
 
-        <entry id="A-MAL-52736" title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-52736"
+            title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"
+        >
             <source>
-                <adb id="52736"/>
-                <ks id="46335"/>
-                <al id="153629"/>
-                <mal id="52736"/>
+                <adb id="52736" />
+                <ks id="46335" />
+                <al id="153629" />
+                <mal id="52736" />
             </source>
 
             <!-- pogpega it's le cat !!1!1!! -->
@@ -17,7 +22,11 @@
             <!-- like bruh himeno sena exists now you fucking dumbass -->
             <bestGirl name="Anisphia Wynn Palletia" />
 
-            <animeConsumedProgress status="Watching" boredom="1.0" episodes="9" />
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="9"
+            />
             <visual type="animated" base="0.5" unique="0.3" />
 
             <!-- the first ep already gave me chill :skull: -->
@@ -38,12 +47,15 @@
             <featureMusic id="M-VGMDB-AL-124465-1" />
         </entry>
 
-        <entry id="M-VGMDB-AL-124465" title="Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-124465"
+            title="Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)"
+        >
 
             <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="Only for you">
-                <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:05" />
                 <music base="0.4" />
             </entry>
         </entry>

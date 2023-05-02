@@ -1,19 +1,18 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
-    <entry id="M-VGMDB-AR-12516" title="ZAQ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry id="M-VGMDB-AR-12516" title="ZAQ">
 
         <contains id="M-VGMDB-AL-42762" />
     </entry>
 
     <entry id="F-VGMDB-2330" title="Chuunibyou demo Koi ga Shitai!">
 
-        <entry id="M-VGMDB-AL-42762" title="VOICE / ZAQ"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry id="M-VGMDB-AL-42762" title="VOICE / ZAQ">
 
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="VOICE">
-                <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress length="4:18" />
                 <music base="0.2" />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
@@ -27,51 +26,67 @@
             <contributor id="A-MAL-18671" factor="0.25" />
         </aei>
 
-        <entry id="A-MAL-14741" title="Chuunibyou demo Koi ga Shitai!"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-14741" title="Chuunibyou demo Koi ga Shitai!">
             <source>
-                <adb id="14741"/>
-                <ks id="7160"/>
-                <al id="14741"/>
-                <mal id="14741"/>
+                <adb id="14741" />
+                <ks id="7160" />
+                <al id="14741" />
+                <mal id="14741" />
             </source>
 
             <visual type="animated" base="0.6" unique="0.2" />
 
-            <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Shinka Nibutani" />
             <!-- idk why -->
             <!-- this is taken from NRS1 -->
             <meme strength="0.15" length="2" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
         </entry>
 
-        <entry id="A-MAL-18671" title="Chuunibyou demo Koi ga Shitai! Ren"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry id="A-MAL-18671" title="Chuunibyou demo Koi ga Shitai! Ren">
             <source>
-                <adb id="18671"/>
-                <ks id="7705"/>
-                <al id="18671"/>
-                <mal id="18671"/>
+                <adb id="18671" />
+                <ks id="7705" />
+                <al id="18671" />
+                <mal id="18671" />
             </source>
-            <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl name="Shinka Nibutani" />
             <!-- Shichimiya dead people almost made me cry -->
             <!-- YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI -->
             <aei base="1.0" emotions="CU" />
             <!-- Shichimiya memes -->
             <meme strength="0.4" length="10" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <visual type="animated" base="0.6" unique="0.2" />
 
             <featureMusic id="M-VGMDB-AL-42762-1" />
         </entry>
 
-        <entry id="A-MAL-35608" title="Chuunibyou demo Koi ga Shitai! Movie: Take On Me"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-35608"
+            title="Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+        >
             <source>
-                <adb id="35608"/>
-                <ks id="13524"/>
-                <al id="98762"/>
-                <mal id="35608"/>
+                <adb id="35608" />
+                <ks id="13524" />
+                <al id="98762" />
+                <mal id="35608" />
             </source>
-            <bestGirl name="Shinka Nibutani" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="0.9" episodes="1" episodeDuration="1:33:00" />
+            <bestGirl name="Shinka Nibutani" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="1"
+                episodeDuration="1:33:00"
+            />
             <!-- movie is funny, but less content than s1 and s2 -->
             <!-- separate from s1/2 because it was watched later -->
             <nei base="0.75" emotions="AP" />
