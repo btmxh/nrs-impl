@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-28999"
             title="Charlotte"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="28999" />
                 <ks id="10103" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Nao Tomori"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.5" unique="0.1" />
 

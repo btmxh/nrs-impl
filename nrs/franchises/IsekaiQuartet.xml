@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-38472"
             title="Isekai Quartet"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38472" />
                 <ks id="42032" />
@@ -20,7 +20,7 @@
             <!-- "ram (fuck re:zero tho) (murakawa rie akm girl va) -->
             <bestGirl
                 name="Ram"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress
@@ -33,7 +33,7 @@
         <entry
             id="A-MAL-39988"
             title="Isekai Quartet 2"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="39988" />
                 <ks id="42410" />
@@ -47,7 +47,7 @@
             <!-- to make the thing balanced -->
             <bestGirl
                 name="Filo"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress

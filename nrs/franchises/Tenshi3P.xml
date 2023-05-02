@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-34177"
             title="Tenshi no 3P!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="34177" />
                 <ks id="12624" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Sakura Toriumi"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- OP is catJAM osugame -->
             <!-- the map was made by the gigachad mapper: https://www.youtube.com/watch?v=QJJYpsA5tv8 -->
             <!-- fuck the ED i hate that map -->
@@ -32,13 +32,13 @@
         <entry
             id="M-VGMDB-AL-68189"
             title="Habataki no Birthday / Baby's breath"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Habataki no Birthday">
                 <musicConsumedProgress
                     length="4:32"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -46,12 +46,12 @@
         <entry
             id="M-VGMDB-AL-69018"
             title="Kusabi / Baby's breath"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry
                 id="$-1"
                 title="Kusabi"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <!-- Length source: https://music.apple.com/jp/album/e6-a5-94-single/1268529061?l=en -->
                 <musicConsumedProgress length="4:26" /> <!-- impl_overridden -->
                 <music base="0.3" />

@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-38186"
             title="Bokutachi wa Benkyou ga Dekinai"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38186" />
                 <ks id="41956" />
@@ -15,7 +15,7 @@
 
             <bestGirl
                 name="Mafuyu Kirisu"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- le bang bang zenryoku i love you girl lol -->
             <!-- "this is a little bit better than gotoubun" -->
             <aei base="0.75" emotions="AP" />
@@ -31,7 +31,7 @@
         <entry
             id="A-MAL-40004"
             title="Bokutachi wa Benkyou ga Dekinai!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="40004" />
                 <ks id="42414" />
@@ -41,7 +41,7 @@
 
             <bestGirl
                 name="Fumino Furuhashi"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- va jokes aside, fumino is best girl -->
 
             <!-- "this is a little bit better than gotoubun" lmfao copy paste error -->
@@ -59,14 +59,14 @@
         <entry
             id="M-VGMDB-AL-85537"
             title="Seishun Seminar/Never Give It Up!! / Study"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Seishun Seminar">
                 <musicConsumedProgress
                     length="4:15"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.25" />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
@@ -75,14 +75,14 @@
         <entry
             id="M-VGMDB-AL-88884"
             title="Can now, Can now / Study"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Can now, Can now">
                 <musicConsumedProgress
                     length="4:02"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.25" />
                 <osuSong personal="0.1" community="0.0" />
             </entry>

@@ -6,14 +6,14 @@
         <entry
             id="A-MAL-41168"
             title="Nakitai Watashi wa Neko wo Kaburu"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="41168" />
                 <ks id="42965" />
                 <al id="114963" />
                 <mal id="41168" />
             </source>
-            <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
 
             <bestGirl name="Miyo Sasaki" />
             <!-- main girl pretty pog btw -->
@@ -34,13 +34,13 @@
         <entry
             id="M-VGMDB-AL-99082"
             title="Hana ni Bourei / Yorushika"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.2" unique="0.3" />
 
             <entry id="$-1" title="Hana ni Bourei">
                 <musicConsumedProgress
                     length="4:00"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>

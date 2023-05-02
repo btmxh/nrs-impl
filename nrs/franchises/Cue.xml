@@ -9,7 +9,7 @@
         <entry
             id="A-MAL-43735"
             title="Cue!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="43735" />
                 <ks id="44979" />
@@ -26,7 +26,7 @@
             <!-- there is also a girl named kano lmao -->
             <bestGirl
                 name="Haruna Mutsuishi"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- the character interaction was lacking in ep1 and ep2 -->
             <!-- in ep3 iirc there is some -->
@@ -57,21 +57,21 @@
         <entry
             id="M-VGMDB-AL-115724"
             title="Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.2" />
 
             <entry id="$-1" title="スタートライン">
                 <musicConsumedProgress
                     length="5:42"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.7" />
             </entry>
 
             <entry id="$-2" title="はじまりの鐘の音が鳴り響く空">
                 <musicConsumedProgress
                     length="4:12"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -79,7 +79,7 @@
         <entry
             id="M-VGMDB-AR-33857"
             title="AiRBLUE"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-115724" />

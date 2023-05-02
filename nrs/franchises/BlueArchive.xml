@@ -14,14 +14,14 @@
         <entry
             id="M-VGMDB-AL-126116"
             title="Blue Archive Original Soundtrack Vol.3 ~Reaching for the precious time~"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <!-- hfiumi buff (without hfiumi base is 0.3) -->
             <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-4" title="Hifumi Daisuki">
                 <musicConsumedProgress
                     length="2:29"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
                 <!-- :crying emoji: -->
                 <!-- i love leah kate -->
@@ -31,7 +31,7 @@
             <entry id="$-24" title="RE Aoharu">
                 <musicConsumedProgress
                     length="2:21"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.5" />
             </entry>
         </entry>
@@ -39,13 +39,13 @@
         <entry
             id="M-VGMDB-AL-108549"
             title="Clear Morning / Yui Ogura"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Clear Morning">
                 <musicConsumedProgress
                     length="4:38"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- me catjamming to the beat drop -->
                 <!-- :catJAMMER: :EDM: :catJAMMER: :EDM: :catJAMMER: :EDM: :catJAMMER: -->
                 <music base="0.5" />

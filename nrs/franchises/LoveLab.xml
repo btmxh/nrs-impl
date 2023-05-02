@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-16353"
             title="Love Lab"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="16353" />
                 <ks id="7410" />
@@ -28,15 +28,15 @@
         <entry
             id="M-VGMDB-AL-40263"
             title="Love Lab Vol.2 Bonus CD"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.1" unique="0.2" />
             <entry
                 id="$-1"
                 title="Best FriendS"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:32"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
                 <osuSong personal="0.7" community="0.8" />
             </entry>

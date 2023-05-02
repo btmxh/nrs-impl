@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-36882"
             title="Arifureta Shokugyou de Sekai Saikyou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="36882" />
                 <ks id="14043" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Yue"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -35,13 +35,13 @@
     <entry
         id="M-VGMDB-AL-86592"
         title="FLARE / Void_Chords feat.LIO"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.05" unique="0.5" />
         <entry id="$-1" title="FLARE">
             <musicConsumedProgress
                 length="4:37"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.1" />
             <osuSong personal="0.1" community="0.05" />
         </entry>

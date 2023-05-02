@@ -8,7 +8,7 @@
         <entry
             id="A-MAL-34498"
             title="Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="34498" />
                 <ks id="12794" />
@@ -21,7 +21,7 @@
 
             <bestGirl
                 name="Nazuna Oikawa"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"

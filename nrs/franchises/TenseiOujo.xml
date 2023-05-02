@@ -8,7 +8,7 @@
         <entry
             id="A-MAL-52736"
             title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="52736" />
                 <ks id="46335" />
@@ -50,14 +50,14 @@
         <entry
             id="M-VGMDB-AL-124465"
             title="Only for you / Anisphia Wynn Palettia (CV: Sayaka Senbongi), Euphyllia Magenta (CV: Manaka Iwami)"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="Only for you">
                 <musicConsumedProgress
                     length="4:05"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>

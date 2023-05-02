@@ -3,7 +3,7 @@
     <entry
         id="A-MAL-48363"
         title="RPG Fudousan"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="48363" />
             <ks id="44376" />
@@ -13,7 +13,7 @@
 
         <bestGirl
             name="Kotone Kazairo"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="5" />
         <dropped />
@@ -24,7 +24,7 @@
     <entry
         id="A-MAL-48415"
         title="Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="48415" />
             <ks id="44187" />
@@ -34,7 +34,7 @@
 
         <bestGirl
             name="Ireena Litz de Olhyde"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
         <dropped />
@@ -44,7 +44,7 @@
     <entry
         id="A-MAL-50265"
         title="Spy x Family"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="50265" />
             <ks id="45398" />
@@ -80,7 +80,7 @@
     <entry
         id="A-MAL-50273"
         title="Tomodachi Game"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="50273" />
             <ks id="45401" />
@@ -89,7 +89,7 @@
         </source>
         <bestGirl
             name="Maria Mizuse"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <!-- unique art because manga, but chara design sucks (p2) -->

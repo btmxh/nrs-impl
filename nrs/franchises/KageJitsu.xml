@@ -11,14 +11,14 @@
         <entry
             id="A-MAL-48316"
             title="Kage no Jitsuryokusha ni Naritakute!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="48316" />
                 <ks id="44107" />
                 <al id="130298" />
                 <mal id="48316" />
             </source>
-            <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
 
             <bestGirl name="Sherry Barnett" />
             <!-- aka himeno sena 2023 -->
@@ -77,14 +77,14 @@
         <entry
             id="M-VGMDB-AL-122851"
             title="Darling in the Night / Shichikage"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <!-- not anime girls :anger:, this needs correction -->
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Darling in the Night">
                 <musicConsumedProgress
                     length="4:12"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- same composer as "WONDERFUL WORLD", "Watashi to Minna no Uta" -->
                 <!-- (luminous witches song W), new game's step by step up -->
                 <!-- :arrow_up: :arrow_up: :arrow_up: and especially :skull: -->

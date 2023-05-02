@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-37450"
             title="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="37450" />
                 <ks id="41056" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Shouko Makinohara"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Dropped"
@@ -34,7 +34,7 @@
     <entry
         id="M-VGMDB-AL-80253"
         title="Kimi no Sei / the peggies"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <!-- tf is this lol -->
         <visual type="albumArt" base="0.1" unique="0.6" />
@@ -42,7 +42,7 @@
         <entry id="$-1" title="Kimi no Sei">
             <musicConsumedProgress
                 length="4:24"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.1" />
         </entry>
     </entry>

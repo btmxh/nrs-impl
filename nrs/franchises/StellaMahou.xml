@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-32555"
             title="Stella no Mahou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="32555" />
                 <ks id="11756" />
@@ -29,15 +29,15 @@
         <entry
             id="M-VGMDB-AL-60899"
             title="God Save The Girls / Shino Shimoji"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.2" unique="0.2" />
             <entry
                 id="$-1"
                 title="God Save The Girls"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:19"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.45" />
                 <osuSong personal="0.25" community="0.0" />
             </entry>

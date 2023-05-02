@@ -5,14 +5,14 @@
         <entry
             id="M-VGMDB-AL-20118"
             title="Utauyo!!MIRACLE / HO-KAGO TEA TIME"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-2" title="Kirakira Days">
                 <musicConsumedProgress
                     length="3:40"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
                 <!-- binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD -->
                 <meme strength="0.1" length="6" />
@@ -23,14 +23,14 @@
         <entry
             id="M-VGMDB-AL-21146"
             title="HO-KAGO TEA TIME Second / HO-KAGO TEA TIME"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-9" title="Tenshi ni Fureta yo!">
                 <musicConsumedProgress
                     length="4:42"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
                 <music base="0.05" />
             </entry>
@@ -39,14 +39,14 @@
         <entry
             id="M-VGMDB-AL-22848"
             title="Gohan wa Okazu/U&amp;I / HO-KAGO TEA TIME"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-2" title="U&amp;I">
                 <musicConsumedProgress
                     length="4:36"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.1" />
             </entry>
         </entry>
@@ -54,7 +54,7 @@
         <entry
             id="M-VGMDB-AR-8870"
             title="HO-KAGO TEA TIME"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-20118" />
@@ -87,7 +87,7 @@
         <entry
             id="A-MAL-5680"
             title="K-On!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="5680" />
                 <ks id="4240" />
@@ -96,7 +96,7 @@
             </source>
             <bestGirl
                 name="Azusa Nakano"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -109,7 +109,7 @@
         <entry
             id="A-MAL-7791"
             title="K-On!!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="7791" />
                 <ks id="5124" />
@@ -118,7 +118,7 @@
             </source>
             <bestGirl
                 name="Azusa Nakano"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -133,7 +133,7 @@
         <entry
             id="A-MAL-9617"
             title="K-On! Movie"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="9617" />
                 <ks id="5810" />
@@ -142,7 +142,7 @@
             </source>
             <bestGirl
                 name="Azusa Nakano"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"

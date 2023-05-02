@@ -7,7 +7,7 @@
 
             <bestGirl
                 name="Atri"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- wait wtf -->
             <!-- minamo's va is the same person as aone's va -->
             <!-- based rst reference -->
@@ -31,7 +31,7 @@
         <entry
             id="M-VGMDB-AL-100754"
             title="ATRI -My Dear Moments- Original Soundtrack"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.7" unique="0.15" />
 

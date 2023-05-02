@@ -24,14 +24,14 @@
         <entry
             id="M-VGMDB-AL-45544"
             title="Clover Day's ORIGINAL SOUNDTRACKS"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-40" title="Clover Day's full ver.">
                 <musicConsumedProgress
                     length="4:32"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.5" />
                 <osuSong personal="0.8" community="0.2" />
             </entry>

@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-35639"
             title="Just Because!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="35639" />
                 <ks id="13530" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Mio Natsume"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"

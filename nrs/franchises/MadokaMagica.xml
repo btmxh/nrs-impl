@@ -9,13 +9,13 @@
         <entry
             id="M-VGMDB-AL-30302"
             title="Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-2" title="Mata Ashita">
                 <musicConsumedProgress
                     length="4:27"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.2" />
             </entry>
         </entry>
@@ -23,13 +23,13 @@
         <entry
             id="M-VGMDB-AL-24725"
             title="Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-4" title="Believing in Justice">
                 <musicConsumedProgress
                     length="1:56"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.25" />
             </entry>
         </entry>
@@ -37,13 +37,13 @@
         <entry
             id="M-VGMDB-AL-39170"
             title="Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-2" title="and I'm home">
                 <musicConsumedProgress
                     length="2:50"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.15" />
             </entry>
         </entry>
@@ -54,14 +54,14 @@
         <entry
             id="M-VGMDB-AL-113295"
             title="TV Anime &quot;Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-&quot; Theme Song Collection"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="ケアレス">
                 <musicConsumedProgress
                     length="4:14"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -71,14 +71,14 @@
         <entry
             id="M-VGMDB-AL-95029"
             title="Gomakashi / TrySail"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Gomakashi">
                 <musicConsumedProgress
                     length="4:11"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.65" />
             </entry>
         </entry>
@@ -86,14 +86,14 @@
         <entry
             id="M-VGMDB-AL-91985"
             title="Utsuroi / TrySail"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.45" unique="0.4" />
 
             <entry id="$-1" title="Utsuroi">
                 <musicConsumedProgress
                     length="3:49"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- the game -->
                 <!-- browiec's Wisdom -->
                 <!-- Misunderstanding -->
@@ -112,7 +112,7 @@
         <entry
             id="A-MAL-9756"
             title="Mahou Shoujo Madoka★Magica"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="9756" />
                 <ks id="5853" />
@@ -122,7 +122,7 @@
 
             <bestGirl
                 name="Madoka Kaname"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- 32k got killed over and over, and her lover has to -->
             <!-- time-travel everytime it happens -->
@@ -147,7 +147,7 @@
         <entry
             id="A-MAL-11981"
             title="Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <ks id="6638" />
                 <al id="11981" />
@@ -156,7 +156,7 @@
 
             <bestGirl
                 name="Madoka Kaname"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- I can't understand this movie lol -->
 
             <animeConsumedProgress
@@ -200,7 +200,7 @@
 
             <bestGirl
                 name="Iroha Tamaki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- Madokami's MGS -->
             <!-- It's revealed that in 99% other universes, -->
             <!-- Tamaki Ui and her friends are dead, leaving -->
@@ -224,7 +224,7 @@
         <entry
             id="A-MAL-38256"
             title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38256" />
                 <ks id="42016" />
@@ -234,7 +234,7 @@
 
             <bestGirl
                 name="Iroha Tamaki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- seasonal = true -->
             <!-- MagiReco-era is one of the most important eras in autism history -->
             <!-- This is the anime that brought it to life -->
@@ -258,7 +258,7 @@
         <entry
             id="A-MAL-41530"
             title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="41530" />
                 <ks id="43090" />
@@ -268,7 +268,7 @@
 
             <bestGirl
                 name="Iroha Tamaki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- seasonal = true -->
 
             <animeConsumedProgress
@@ -294,7 +294,7 @@
         <entry
             id="A-MAL-49291"
             title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="49291" />
                 <ks id="44813" />
@@ -304,7 +304,7 @@
 
             <bestGirl
                 name="Iroha Tamaki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- seasonal = true -->
 
             <animeConsumedProgress

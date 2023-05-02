@@ -15,7 +15,7 @@
         <entry
             id="A-MAL-39468"
             title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="39468" />
                 <ks id="42241" />
@@ -24,7 +24,7 @@
             </source>
             <bestGirl
                 name="Myne"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -37,7 +37,7 @@
         <entry
             id="A-MAL-40815"
             title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="40815" />
                 <ks id="42838" />
@@ -46,7 +46,7 @@
             </source>
             <bestGirl
                 name="Myne"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -59,7 +59,7 @@
         <entry
             id="A-MAL-42429"
             title="Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="42429" />
                 <ks id="43607" />
@@ -68,7 +68,7 @@
             </source>
             <bestGirl
                 name="Myne"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"

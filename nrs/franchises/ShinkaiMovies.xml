@@ -6,7 +6,7 @@
         <entry
             id="A-MAL-32281"
             title="Kimi no Na wa."
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="32281" />
                 <ks id="11614" />
@@ -18,7 +18,7 @@
 
             <bestGirl
                 name="Miki Okudera"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- "Compensation for KnK-YrNa jealousy" -->
             <additional value="0.75" />
             <animeConsumedProgress
@@ -35,7 +35,7 @@
         <entry
             id="A-MAL-38826"
             title="Tenki no Ko"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38826" />
                 <ks id="42028" />
@@ -44,7 +44,7 @@
             </source>
             <bestGirl
                 name="Hina Amano"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.6" unique="0.75" />
             <animeConsumedProgress
@@ -59,13 +59,13 @@
         <entry
             id="M-VGMDB-AL-87003"
             title="Tenki no Ko / RADWIMPS"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-28" title="Grand Escape (Movie edit) feat, Miura Toko">
                 <musicConsumedProgress
                     length="3:08"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.5" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>

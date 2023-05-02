@@ -2,7 +2,7 @@
 <document>
     <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
         <entry id="A-MAL-37976" title="Zombieland Saga">
-            <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
             <source>
                 <adb id="37976" />
                 <ks id="41459" />
@@ -11,7 +11,7 @@
             </source>
             <bestGirl
                 name="Sakura Minamoto"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- kinda funny -->
             <aei base="0.5" emotions="AP" />
@@ -26,7 +26,7 @@
         <entry
             id="A-MAL-40174"
             title="Zombieland Saga: Revenge"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="40174" />
                 <ks id="42467" />
@@ -35,7 +35,7 @@
             </source>
             <bestGirl
                 name="Sakura Minamoto"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- the zombieland saga incident -->
             <animeConsumedProgress
@@ -52,13 +52,13 @@
         <entry
             id="M-VGMDB-AL-109367"
             title="Taiga yo Tomo ni Naite Kure/Nope!!!!!"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Taiga yo Tomo ni Naite Kure">
                 <musicConsumedProgress
                     length="3:29"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.55" />
             </entry>
         </entry>

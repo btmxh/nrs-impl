@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-35790"
             title="Tate no Yuusha no Nariagari"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="35790" />
                 <ks id="13593" />
@@ -16,7 +16,7 @@
             <!-- And yes, it's watched in the Reddit-era -->
             <bestGirl
                 name="Raphtalia"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -33,7 +33,7 @@
         <entry
             id="A-MAL-40356"
             title="Tate no Yuusha no Nariagari Season 2"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="40356" />
                 <ks id="42530" />
@@ -42,7 +42,7 @@
             </source>
             <bestGirl
                 name="Raphtalia"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Dropped"

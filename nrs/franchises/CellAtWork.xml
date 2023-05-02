@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-37141"
             title="Hataraku Saibou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="37141" />
                 <ks id="14212" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Kesshouban"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Dropped"

@@ -32,14 +32,14 @@
         <entry
             id="M-VGMDB-AL-57788"
             title="Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD &quot;and Little Planets&quot;"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Finest Sky">
                 <musicConsumedProgress
                     length="3:48"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.35" />
                 <!-- [albireo princess] -->
                 <!-- hddt -->

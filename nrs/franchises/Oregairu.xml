@@ -12,7 +12,7 @@
         <entry
             id="M-VGMDB-AL-37999"
             title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.3" unique="0.5" />
 
@@ -24,20 +24,20 @@
             <entry id="$-1" title="Hello Alone">
                 <musicConsumedProgress
                     length="4:39"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
             </entry>
             <entry id="$-2" title="Hello Alone -Yui Ballade-">
                 <musicConsumedProgress
                     length="4:53"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
             </entry>
         </entry>
 
         <entry
             id="M-VGMDB-AL-51394"
             title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
@@ -49,7 +49,7 @@
             <entry id="$-1" title="エブリデイワールド">
                 <musicConsumedProgress
                     length="4:22"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
             </entry>
             <entry
@@ -58,7 +58,7 @@
             >
                 <musicConsumedProgress
                     length="5:29"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
             </entry>
         </entry>
@@ -66,14 +66,14 @@
         <entry
             id="M-VGMDB-AL-96290"
             title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) &amp; Yui Yuigahama (CV: Nao Toyama)"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.25" />
 
             <entry id="$-1" title="Diamond no Jundo">
                 <musicConsumedProgress
                     length="3:27"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
             </entry>
         </entry>
@@ -120,7 +120,7 @@
         <entry
             id="A-MAL-14813"
             title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="14813" />
                 <ks id="7169" />
@@ -131,7 +131,7 @@
             <!-- Brain's Base drew Yukino better than Yui -->
             <bestGirl
                 name="Yukino Yukinoshita"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.25" unique="0.4" />
             <nei base="0.75" emotions="AP" />
@@ -149,7 +149,7 @@
         <entry
             id="A-MAL-23847"
             title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="23847" />
                 <ks id="8478" />
@@ -160,7 +160,7 @@
             <!-- feel. drew Yui better -->
             <bestGirl
                 name="Yui Yuigahama"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.4" unique="0.25" />
             <nei base="0.25" emotions="AP" />
@@ -184,7 +184,7 @@
         <entry
             id="A-MAL-39547"
             title="Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="39547" />
                 <ks id="42194" />
@@ -194,7 +194,7 @@
 
             <bestGirl
                 name="Yui Yuigahama"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- seasonal = true -->
 
             <visual type="animated" base="0.4" unique="0.25" />

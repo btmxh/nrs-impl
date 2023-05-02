@@ -4,12 +4,12 @@
     <entry
         id="M-VGMDB-AR-12225"
         title="xi"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <entry
             id="M-VGMDB-AL-34269"
             title="Parousia"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.15" unique="0.4" />
 
@@ -17,14 +17,14 @@
             <entry id="$-7" title="Ascension to Heaven">
                 <musicConsumedProgress
                     length="5:11"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
             </entry>
 
             <entry id="$-12" title="FREEDOM DiVE↓">
                 <musicConsumedProgress
                     length="4:29"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- not gonna rate all of the backgrounds and shit -->
                 <music base="0.15" />
                 <!-- i'm not overstreaming 222 bpm -->
@@ -49,13 +49,13 @@
     <entry
         id="M-VGMDB-AL-49508"
         title="Tsukinami / Kanon Wakeshima"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.25" unique="0.5" />
         <entry
             id="$-2"
             title="ツキナミ"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <music base="0.4" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396 -->
             <musicConsumedProgress length="4:44" /> <!-- impl_overridden -->
@@ -65,13 +65,13 @@
     <entry
         id="M-VGMDB-AL-79187"
         title="Kisses and Kills / THE ORAL CIGARETTES"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.1" unique="0.2" />
         <entry id="$-1" title="もういいかい?">
             <musicConsumedProgress
                 length="2:19"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.4" />
         </entry>
     </entry>
@@ -79,13 +79,13 @@
     <entry
         id="M-VGMDB-AL-52234"
         title="HANASAKI WORK SPRING! COMPLETE SOUNDTRACK"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.5" unique="0.5" />
         <entry id="$-1" title="Girl meets Love">
             <musicConsumedProgress
                 length="4:12"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.5" />
             <!-- haha tranny duy bua -->
             <!-- she is literally me: https://myanimelist.net/character/187922/Rafinha_Bilford -->
@@ -96,13 +96,13 @@
     <entry
         id="M-VGMDB-AL-33518"
         title="Irotoridori no Hikari Theme Songs Plus"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.4" unique="0.6" />
         <entry id="$-2" title="COLORFUL DAYS!!">
             <musicConsumedProgress
                 length="4:31"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.7" />
         </entry>
     </entry>
@@ -110,14 +110,14 @@
     <entry
         id="M-VGMDB-AL-78595"
         title="AstralAir no Shiroki Towa - ETERNAL BEST -"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.4" unique="0.6" />
 
         <entry id="$-9" title="Euphorium">
             <musicConsumedProgress
                 length="4:44"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.45" />
             <osuSong personal="0.3" community="0.3" />
             <!-- mrekk pp haha -->
@@ -129,7 +129,7 @@
         >
             <musicConsumedProgress
                 length="6:10"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.55" />
             <ref
                 name="KoikakeNEI"
@@ -146,13 +146,13 @@
     <entry
         id="M-VGMDB-AL-66742"
         title="HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Haruoto＊Bell fullver.">
             <musicConsumedProgress
                 length="4:24"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.65" />
         </entry>
     </entry>
@@ -160,13 +160,13 @@
     <entry
         id="M-VGMDB-AL-79717"
         title="Shirokoi Sakura*Gram THEME SONG COLLECTION! 4"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Have a live day fullver.">
             <musicConsumedProgress
                 length="4:29"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.55" />
         </entry>
     </entry>
@@ -174,13 +174,13 @@
     <entry
         id="M-VGMDB-AL-117099"
         title="HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry
             id="$-1"
             title="Ringing＊Days fullver."
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
             <musicConsumedProgress length="5:07" /> <!-- impl_overridden -->
             <music base="0.6" />

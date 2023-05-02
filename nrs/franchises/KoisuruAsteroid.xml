@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-39388"
             title="Koisuru Asteroid"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="39388" />
                 <ks id="42470" />
@@ -31,14 +31,14 @@
     <entry
         id="M-VGMDB-AL-93338"
         title="Yozora / Minori Suzuki"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.3" unique="0.2" />
 
         <entry id="$-1" title="夜空">
             <musicConsumedProgress
                 length="4:37"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <!-- play the gigachad mapper's map: -->
             <!-- https://osu.ppy.sh/beatmapsets/1256770#osu/2611562 -->
             <!-- https://osu.ppy.sh/beatmapsets/1256770#osu/2611562 -->

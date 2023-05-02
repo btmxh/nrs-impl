@@ -4,7 +4,7 @@
     <entry
         id="M-VGMDB-AR-9553"
         title="cosMo@bousouP"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <contains id="M-VGMDB-AL-91187-35" />
     </entry>
@@ -12,14 +12,14 @@
     <entry
         id="M-VGMDB-AL-91187"
         title="CHUNITHM ALL JUSTICE COLLECTION ep.I"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.05" unique="0.5" />
 
         <entry id="$-35" title="エンドマークに希望と涙を添えて">
             <musicConsumedProgress
                 length="2:51"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.35" />
             <remix id="M-VGMDB-AL-93299-2" />
         </entry>
@@ -30,7 +30,7 @@
         <entry
             id="A-MAL-50267"
             title="Irodorimidori"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="50267" />
                 <ks id="45577" />
@@ -39,7 +39,7 @@
             </source>
             <bestGirl
                 name="Nagi Kobotoke"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -53,14 +53,14 @@
         <entry
             id="M-VGMDB-AL-93299"
             title="GO!GO! Chunithm♥Endmark / IRODORIMIDORI"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.35" />
 
             <entry
                 id="$-2"
                 title="エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <!-- Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc -->
                 <musicConsumedProgress length="4:35" /> <!-- impl_overridden -->
 

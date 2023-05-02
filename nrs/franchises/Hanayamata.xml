@@ -9,7 +9,7 @@
         <entry
             id="A-MAL-21681"
             title="Hanayamata"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="21681" />
                 <ks id="8138" />
@@ -34,14 +34,14 @@
         <entry
             id="M-VGMDB-AL-46235"
             title="Hana ha odore ya irohani ho / Team &quot;Hanayamata&quot;"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.7" />
 
             <entry id="$-1" title="Hana wa Odore ya Irohaniho">
                 <musicConsumedProgress
                     length="4:10"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>

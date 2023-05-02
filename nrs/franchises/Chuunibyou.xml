@@ -3,7 +3,7 @@
     <entry
         id="M-VGMDB-AR-12516"
         title="ZAQ"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <contains id="M-VGMDB-AL-42762" />
     </entry>
@@ -13,14 +13,14 @@
         <entry
             id="M-VGMDB-AL-42762"
             title="VOICE / ZAQ"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="VOICE">
                 <musicConsumedProgress
                     length="4:18"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.2" />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
@@ -37,7 +37,7 @@
         <entry
             id="A-MAL-14741"
             title="Chuunibyou demo Koi ga Shitai!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="14741" />
                 <ks id="7160" />
@@ -49,7 +49,7 @@
 
             <bestGirl
                 name="Shinka Nibutani"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- idk why -->
             <!-- this is taken from NRS1 -->
             <meme strength="0.15" length="2" />
@@ -63,7 +63,7 @@
         <entry
             id="A-MAL-18671"
             title="Chuunibyou demo Koi ga Shitai! Ren"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="18671" />
                 <ks id="7705" />
@@ -72,7 +72,7 @@
             </source>
             <bestGirl
                 name="Shinka Nibutani"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- Shichimiya dead people almost made me cry -->
             <!-- YouTube link: https://www.youtube.com/watch?v=vFjJ6skYoxI -->
             <aei base="1.0" emotions="CU" />
@@ -91,7 +91,7 @@
         <entry
             id="A-MAL-35608"
             title="Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="35608" />
                 <ks id="13524" />
@@ -100,7 +100,7 @@
             </source>
             <bestGirl
                 name="Shinka Nibutani"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.9"

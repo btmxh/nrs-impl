@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-23273"
             title="Shigatsu wa Kimi no Uso"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="23273" />
                 <ks id="8403" />
@@ -15,7 +15,7 @@
 
             <bestGirl
                 name="Kaori Miyazono"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- YLIA is watched during the SLN days (Second-Love-Ngoc era), -->
             <!-- this has lead to the connection between myself and the -->
@@ -51,13 +51,13 @@
         <entry
             id="M-VGMDB-AL-49046"
             title="Shigatsu wa Kimi no Uso ORIGINAL SONG &amp; SOUNDTRACK"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Kimi wa Wasurerareru no">
                 <musicConsumedProgress
                     length="1:34"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
                 <aei base="0.5" emotions="CU" />
             </entry>
@@ -68,7 +68,7 @@
             >
                 <musicConsumedProgress
                     length="2:26"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
                 <aei base="0.5" emotions="CU" />
             </entry>
@@ -78,7 +78,7 @@
     <entry
         id="M-VGMDB-AR-9069"
         title="Masaru Yokoyama"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <contains id="M-VGMDB-AL-49046" />
     </entry>

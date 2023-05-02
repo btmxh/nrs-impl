@@ -5,14 +5,14 @@
         <entry
             id="A-MAL-47159"
             title="Tensai Ouji no Akaji Kokka Saisei Jutsu"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="47159" />
                 <ks id="44020" />
                 <al id="129190" />
                 <mal id="47159" />
             </source>
-            <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+
 
             <bestGirl name="Ninym Ralei" />
 
@@ -38,14 +38,14 @@
         <entry
             id="M-VGMDB-AL-116264"
             title="LEVEL / yanaginagi × THE SIXTH LIE"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="LEVEL">
                 <musicConsumedProgress
                     length="4:13"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.5" />
             </entry>
         </entry>

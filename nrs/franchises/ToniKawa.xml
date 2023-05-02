@@ -6,7 +6,7 @@
         <entry
             id="A-MAL-41389"
             title="Tonikaku Kawaii"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="41389" />
                 <ks id="43034" />
@@ -15,7 +15,7 @@
             </source>
             <bestGirl
                 name="Tsukasa Yuzaki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <visual type="animated" base="0.4" unique="0.6" />
             <animeConsumedProgress
@@ -31,13 +31,13 @@
         <entry
             id="M-VGMDB-AL-104618"
             title="Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
                 <musicConsumedProgress
                     length="3:29"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>

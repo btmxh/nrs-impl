@@ -10,14 +10,14 @@
         <entry
             id="M-VGMDB-AL-47678"
             title="Aurora Days / Sanshuu Chuugaku Yuushabu"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Aurora Days">
                 <musicConsumedProgress
                     length="4:00"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.15" />
             </entry>
         </entry>
@@ -25,7 +25,7 @@
         <entry
             id="M-VGMDB-AL-114186"
             title="Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.3" unique="0.5" />
 
@@ -34,7 +34,7 @@
             <entry id="$-2" title="U・D・N">
                 <musicConsumedProgress
                     length="3:12"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
@@ -80,7 +80,7 @@
         <entry
             id="A-MAL-25519"
             title="Yuuki Yuuna wa Yuusha de Aru"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="25519" />
                 <ks id="8638" />
@@ -89,7 +89,7 @@
             </source>
             <bestGirl
                 name="Yuuna Yuuki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
             <!-- ye it's the shelter of yuri yuna now lmao -->
@@ -132,7 +132,7 @@
             <!-- based best girl -->
             <bestGirl
                 name="Chikage Koori"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 <!--            status = EntryStatus.Watching -->
 
             <!-- There are a lot of sad things in this LN -->
@@ -168,7 +168,7 @@
         <entry
             id="A-MAL-34284"
             title="Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="34284" />
                 <ks id="12678" />
@@ -180,7 +180,7 @@
             <!-- she looked like best girl ngl -->
             <bestGirl
                 name="Mimori Tougou"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <featureMusic id="M-VGMDB-AL-69821-1" />
             <!-- gin's death (the consequences of the ortensia incident) -->
@@ -199,7 +199,7 @@
         <entry
             id="A-MAL-34445"
             title="Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="34445" />
                 <ks id="13160" />
@@ -209,7 +209,7 @@
             <!-- "The Michi Random of Yuuki Yuuna" -->
             <bestGirl
                 name="Yuuna Yuuki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- that conversation is peak drama -->
             <!-- it captures my heart and does make -->
@@ -233,7 +233,7 @@
         <entry
             id="A-MAL-42587"
             title="Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="42587" />
                 <ks id="44333" />
@@ -244,7 +244,7 @@
             <!-- seasonal = true -->
             <bestGirl
                 name="Yuuna Yuuki"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- I expected this to make a new Ayumu-era (something like -->
             <!-- Yuuna-era or some dumb shit like that), but it doesn't -->

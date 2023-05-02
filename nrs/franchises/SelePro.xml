@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-44275"
             title="Selection Project"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="44275" />
                 <ks id="44211" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Uta Koizumi"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <cry emotions="CU" />
             <animeConsumedProgress
@@ -39,13 +39,13 @@
         <entry
             id="M-VGMDB-AL-114102"
             title="SELECTION PROJECT Main Theme Song CD"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Glorious Days">
                 <musicConsumedProgress
                     length="3:54"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.5" />
             </entry>
         </entry>
@@ -53,13 +53,13 @@
         <entry
             id="M-VGMDB-AL-115010"
             title="SELECTION PROJECT CHARACTER SONG CD 03"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.3" unique="0.3" />
             <entry
                 id="$-1"
                 title="ENDROLL"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress length="3:53" /> <!-- impl_overridden -->
                 <music base="0.4" />
             </entry>

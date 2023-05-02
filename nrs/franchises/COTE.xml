@@ -18,7 +18,7 @@
         <entry
             id="A-MAL-35507"
             title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="35507" />
                 <ks id="13503" />
@@ -28,7 +28,7 @@
 
             <bestGirl
                 name="Suzune Horikita"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- no fuckign way she is VA'd by the glorious akari kito -->
 
             <animeConsumedProgress
@@ -44,7 +44,7 @@
         <entry
             id="A-MAL-51096"
             title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="51096" />
                 <ks id="45925" />
@@ -54,7 +54,7 @@
 
             <bestGirl
                 name="Arisu Sakayanagi"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- no fuckign way they also got the "asuiro koi moyou 3537 rosia-chan" girl -->
             <!-- nice b8 m8 -->
 

@@ -6,7 +6,7 @@
         <entry
             id="A-MAL-38691"
             title="Dr. Stone"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38691" />
                 <ks id="42080" />
@@ -15,7 +15,7 @@
             </source>
             <bestGirl
                 name="Yuzuriha Ogawa"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -32,7 +32,7 @@
         <entry
             id="A-MAL-40852"
             title="Dr. Stone: Stone Wars"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="40852" />
                 <ks id="42867" />
@@ -41,7 +41,7 @@
             </source>
             <bestGirl
                 name="Yuzuriha Ogawa"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -54,7 +54,7 @@
         <entry
             id="A-MAL-50612"
             title="Dr. Stone: Ryuusui"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="50612" />
                 <ks id="45615" />
@@ -63,7 +63,7 @@
             </source>
             <bestGirl
                 name="Yuzuriha Ogawa"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -78,14 +78,14 @@
     <entry
         id="M-VGMDB-AL-87927"
         title="Good Morning World! / BURNOUT SYNDROMES"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.15" unique="0.2" />
 
         <entry id="$-1" title="Good Morning World!">
             <musicConsumedProgress
                 length="4:09"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.25" />
             <osuSong personal="0.1" community="0.0" />
         </entry>

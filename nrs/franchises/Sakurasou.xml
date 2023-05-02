@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-13759"
             title="Sakura-sou no Pet na Kanojo"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="13759" />
                 <ks id="7023" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Mashiro Shiina"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- This is a very good compoly story, meaning -->
             <!-- there are a lot of truly sad moments in this -->
@@ -42,13 +42,13 @@
         <entry
             id="M-VGMDB-AL-35015"
             title="Kimi ga Yume wo Tsuretekita / Pet na Kanojotachi"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.4" />
             <entry id="$-1" title="Kimi ga Yume wo Tsuretekita">
                 <musicConsumedProgress
                     length="4:17"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.225" />
             </entry>
         </entry>

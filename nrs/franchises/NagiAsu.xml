@@ -11,13 +11,13 @@
         <entry
             id="M-VGMDB-AL-45187"
             title="Nagi no Asukara Character Song CD3"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.4" />
             <entry id="$-1" title="ripple ~my first love~">
                 <musicConsumedProgress
                     length="4:22"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -25,7 +25,7 @@
         <entry
             id="A-MAL-16067"
             title="Nagi no Asu kara"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="16067" />
                 <ks id="7370" />
@@ -35,7 +35,7 @@
 
             <bestGirl
                 name="Miuna Shiodome"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- poor best girl -->
             <maxAEIPADS length="2" emotions="CU" />
 

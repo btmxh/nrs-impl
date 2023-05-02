@@ -9,7 +9,7 @@
     <entry
         id="A-MAL-50760"
         title="Teppen!!!!!!!!!!!!!!!"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="50760" />
             <ks id="45729" />
@@ -19,7 +19,7 @@
 
         <bestGirl
             name="Yuzu Hosono"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- art has some flaws, but whatever -->
         <visual type="animated" base="0.4" unique="0.4" />
@@ -33,7 +33,7 @@
     <entry
         id="A-MAL-41589"
         title="Tokyo Mew Mew New ♡"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="41589" />
             <ks id="43098" />
@@ -43,7 +43,7 @@
 
         <bestGirl
             name="Ichigo Momomiya"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- obligatory rst-cue studio(s) anime -->
         <!-- art is "interesting" ngl -->
@@ -60,7 +60,7 @@
     <entry
         id="A-MAL-50917"
         title="Prima Doll"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="50917" />
             <ks id="45812" />
@@ -73,7 +73,7 @@
 
         <bestGirl
             name="Otome Okumiya"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- ichijou ruka my beloved (she can't save this anime sadge) -->
 
         <!-- the prima doll incident -->
@@ -97,7 +97,7 @@
     <entry
         id="A-MAL-49470"
         title="Mamahaha no Tsurego ga Motokano datta"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="49470" />
             <ks id="44913" />
@@ -115,7 +115,7 @@
 
         <bestGirl
             name="Yume Irido"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- self-explanatory -->
 
         <!-- good art (the rosia girl looks breedable af) -->
@@ -134,7 +134,7 @@
     <entry
         id="A-MAL-50999"
         title="Extreme Hearts"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="50999" />
             <ks id="45855" />
@@ -144,7 +144,7 @@
 
         <bestGirl
             name="Saki Kodaka"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- saki is someone that we need but we don't deserve -->
 
         <!-- no fucking way ari ozawa and tomomi mineuchi in the same anime -->
@@ -174,7 +174,7 @@
     <entry
         id="A-MAL-50221"
         title="Shine Post"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="50221" />
             <ks id="45389" />
@@ -184,7 +184,7 @@
 
         <bestGirl
             name="Rio Seibu"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- lmfao himekek VA -->
         <!-- they even got her to sing a ballad omegalul -->
         <!-- (they know about her songs in sb69 these cheeky mfs) -->

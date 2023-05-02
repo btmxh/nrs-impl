@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-39681"
             title="D4DJ: First Mix"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="39681" />
                 <ks id="43557" />
@@ -15,7 +15,7 @@
 
             <bestGirl
                 name="Rinku Aimoto"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -40,13 +40,13 @@
         <entry
             id="M-VGMDB-AL-107257"
             title="Guruguru DJ TURN!! / Happy Around!"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.75" />
             <entry id="$-3" title="Guruguru DJ TURN!!">
                 <musicConsumedProgress
                     length="3:43"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.35" />
             </entry>
         </entry>
@@ -55,13 +55,13 @@
         <entry
             id="M-VGMDB-AL-108580"
             title="D4DJ Special Disc Photon Maiden Ver."
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <validatorSuppress rules="dah-visualless-entry" />
             <entry
                 id="$-2"
                 title="Brand New World"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 <musicConsumedProgress length="4:06" /> <!-- impl_overridden -->
                 <music base="0.4" />

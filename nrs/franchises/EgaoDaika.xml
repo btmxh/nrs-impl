@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-38544"
             title="Egao no Daika"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38544" />
                 <ks id="42001" />
@@ -40,12 +40,12 @@
         <entry
             id="M-VGMDB-AL-81448"
             title="Egao no Kanata / Chiho feat. majiko"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry
                 id="$-1"
                 title="Egao no Kanata"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1048878#osu/2192351 -->
                 <musicConsumedProgress length="3:50" /> <!-- impl_overridden -->
                 <music base="0.5" />

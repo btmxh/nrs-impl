@@ -99,7 +99,7 @@
     <entry
         id="A-MAL-21995"
         title="Ao Haru Ride"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="21995" />
             <ks id="8246" />
@@ -119,10 +119,10 @@
             <ks id="6682" />
             <al id="12175" />
             <mal id="12175" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Chisato Sumiyoshi"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- iirc i liked this anime's plot -->
         <aei base="0.3" emotions="AP" />
@@ -136,10 +136,10 @@
             <ks id="6686" />
             <al id="12189" />
             <mal id="12189" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Eru Chitanda"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- ig it's kinda good -->
         <nei base="0.3" emotions="AP" />
@@ -153,12 +153,12 @@
             <ks id="8199" />
             <al id="20591" />
             <mal id="21845" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <!-- kaomeme -->
         <bestGirl
             name="Kaori Sasaki"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- Ending did hit me -->
         <nei base="0.5" emotions="CU" />
         <!-- osuhow memes -->
@@ -176,11 +176,11 @@
             <ks id="10028" />
             <al id="20954" />
             <mal id="28851" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Shouko Nishimiya"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- Koe no Katachi has solid drama -->
         <!-- But sadly, it's the first anime so there's no PADS -->
         <!-- or tears -->
@@ -213,7 +213,7 @@
 
         <bestGirl
             name="Mizuki Usami"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
     </entry>
@@ -224,11 +224,11 @@
             <ks id="11844" />
             <al id="21647" />
             <mal id="32729" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Naho Takamiya"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- from nrs1 -->
         <aei base="0.25" emotions="CU" />
@@ -242,11 +242,11 @@
             <ks id="12497" />
             <al id="21878" />
             <mal id="33731" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Satanichia Kurumizawa McDowell"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- iToddlers BTFO -->
         <meme strength="0.4" length="25" />
 
@@ -260,7 +260,7 @@
             <ks id="12668" />
             <al id="97731" />
             <mal id="34240" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl name="Rin" /> <!-- impl_overridden -->
 
@@ -295,7 +295,7 @@
 
         <bestGirl
             name="Karen Tendou"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.6" unique="0.3" />
@@ -307,11 +307,11 @@
             <ks id="13234" />
             <al id="98202" />
             <mal id="34822" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Akane Mizuno"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- ending sadge -->
         <aei base="0.25" emotions="CU" />
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
@@ -324,10 +324,10 @@
             <ks id="13752" />
             <al id="98506" />
             <mal id="35241" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Natsume"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- definitely not reminding me of mashu mashu from sb69 -->
 
@@ -347,10 +347,10 @@
             <ks id="13722" />
             <al id="99131" />
             <mal id="35756" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Kaoruko Moeta"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <nei base="0.2" emotions="AP" />
@@ -363,11 +363,11 @@
             <ks id="13635" />
             <al id="99468" />
             <mal id="35860" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Takagi"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- episodic ngl -->
         <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
@@ -381,12 +381,12 @@
             <ks id="13703" />
             <al id="99726" />
             <mal id="36038" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <!-- lmfao -->
         <bestGirl
             name="Washing Machine"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
         <visual type="animated" base="0.3" unique="0.4" />
@@ -398,12 +398,12 @@
             <ks id="13723" />
             <al id="99750" />
             <mal id="36098" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <!-- facebook anime lmfao -->
         <bestGirl
             name="Sakura Yamauchi"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress
             status="Completed"
@@ -421,11 +421,11 @@
             <ks id="14137" />
             <al id="100010" />
             <mal id="36266" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Aya Asagiri"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- poor best girl -->
         <aei base="0.2" emotions="CU" />
@@ -442,7 +442,7 @@
             <ks id="42319" />
             <al id="101547" />
             <mal id="37744" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
 
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="8" />
@@ -459,7 +459,7 @@
         </source>
         <bestGirl
             name="Karin Sarayashiki"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- akari kito va lmfao -->
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -471,7 +471,7 @@
     <entry
         id="A-MAL-37982"
         title="Domestic na Kanojo"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="37982" />
             <ks id="41479" />
@@ -480,7 +480,7 @@
         </source>
         <bestGirl
             name="Hina Tachibana"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.3" unique="0.5" />
@@ -492,7 +492,7 @@
     <entry
         id="A-MAL-38656"
         title="Darwin's Game"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="38656" />
             <ks id="42260" />
@@ -501,7 +501,7 @@
         </source>
         <bestGirl
             name="Shuka Karino"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
         <visual type="animated" base="0.3" unique="0.4" />
         <!-- "plot is good" -->
@@ -511,7 +511,7 @@
     <entry
         id="A-MAL-38659"
         title="Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="38659" />
             <ks id="42079" />
@@ -523,7 +523,7 @@
         <!-- restep sequel leaked no way -->
         <bestGirl
             name="Ristarte"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.4" unique="0.5" />
     </entry>
@@ -540,7 +540,7 @@
         </source>
         <bestGirl
             name="Maple"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <killedBy id="F-VGMDB-1945" potential="0.2" effect="0.5" />
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="2" />
@@ -557,10 +557,10 @@
             <ks id="42203" />
             <al id="107956" />
             <mal id="39324" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Latina"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="4" />
         <dropped />
@@ -576,12 +576,12 @@
             <ks id="42222" />
             <al id="108388" />
             <mal id="39523" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <!-- rst girl vs akm girl lol -->
         <bestGirl
             name="Shinobu Sarutobi"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- also akari kito ed wtf -->
         <!-- and the op is that osu song -->
@@ -597,10 +597,10 @@
             <ks id="42342" />
             <al id="109287" />
             <mal id="39790" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Hougetsu Shimamura"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="3" />
         <dropped />
@@ -620,14 +620,14 @@
             <ks id="42625" />
             <al id="112479" />
             <mal id="40550" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl name="Shirai Yuyu" /> <!-- himekek my beloved -->
         <bestGirl
             name="Wang Yujia"
         /> <!-- noway it's the kimi no rhapsody girl -->
         <bestGirl
             name="Thi Mai Yoshimura"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- in all seriousness, this is quite good. -->
         <!-- the 2 main girls are pretty match -->
@@ -643,10 +643,10 @@
             <ks id="42627" />
             <al id="112609" />
             <mal id="40571" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Elaina"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <visual type="animated" base="0.4" unique="0.3" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="6" />
@@ -662,11 +662,11 @@
             <ks id="42850" />
             <al id="113570" />
             <mal id="40783" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <!-- insert hatsune miku joke here -->
         <bestGirl
             name="Akari"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- the hatsune miku method -->
         <aei base="0.2" emotions="AP" />
@@ -680,10 +680,10 @@
             <ks id="43534" />
             <al id="117343" />
             <mal id="41619" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Nana Hiiragi"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <visual type="animated" base="0.4" unique="0.5" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
@@ -698,10 +698,10 @@
             <ks id="43204" />
             <al id="118419" />
             <mal id="41930" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Kyouko Izanami"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <visual type="animated" base="0.6" unique="0.4" />
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
@@ -723,7 +723,7 @@
         <!-- is just too good -->
         <bestGirl
             name="Saki Saki"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <visual type="animated" base="0.4" unique="0.4" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
         <dropped />
@@ -736,10 +736,10 @@
             <ks id="44116" />
             <al id="128545" />
             <mal id="46093" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Fuuka Miyazawa"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- idk tf this anime is talking about lol -->
         <visual type="animated" base="0.3" unique="0.7" />
@@ -754,10 +754,10 @@
             <ks id="42924" />
             <al id="114065" />
             <mal id="40904" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Eiko Kawasegawa"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- this was expected to be a good compoly -->
         <!-- anime, but it doesn't care about that -->
         <!-- and just march on with its plot -->
@@ -773,11 +773,11 @@
             <ks id="44174" />
             <al id="126546" />
             <mal id="44203" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <!-- kimi no rhapsody girl -->
         <bestGirl
             name="Celia Claire"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- the hoan tinh anime pt.1 -->
         <!-- from ep 5 to 10 there's no hoan tinh madge -->
@@ -808,7 +808,7 @@
         </source>
         <bestGirl
             name="Dia"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- this initially was dropped, but rewatched in the remod era, hence the low boredom value -->
         <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
@@ -824,13 +824,13 @@
             <ks id="44185" />
             <al id="131083" />
             <mal id="48483" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <!-- "babe pls have sex with me im so horny" -->
         <!-- "haha the ortensia incident" -->
         <bestGirl
             name="Kyousuke Yotsuya"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
         <dropped />
@@ -845,7 +845,7 @@
             <ks id="44300" />
             <al id="131878" />
             <mal id="48644" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl name="Akagi Rin" /> <!-- impl_overridden -->
 
         <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
@@ -862,10 +862,10 @@
             <ks id="7713" />
             <al id="17919" />
             <mal id="17919" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
         <bestGirl
             name="Subaru"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <!-- didn't expect mc to fall in love tho -->
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
@@ -879,11 +879,11 @@
             <ks id="13710" />
             <al id="98747" />
             <mal id="35589" />
-        </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        </source>
 
         <bestGirl
             name="Tagitsuhime"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
         <!-- i hate my life -->
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
@@ -896,7 +896,7 @@
     <entry
         id="A-MAL-38091"
         title="Hachigatsu no Cinderella Nine (TV)"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="38091" />
             <ks id="42144" />
@@ -916,7 +916,7 @@
     <entry
         id="A-MAL-37481"
         title="Ongaku Shoujo (TV)"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="37481" />
             <ks id="41066" />

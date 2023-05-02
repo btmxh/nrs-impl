@@ -111,14 +111,14 @@
         <entry
             id="M-VGMDB-AL-58596"
             title="KOI-KAKERU SHIN-AI KANOJO Complete Sound Tracks"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="1.0" unique="0.3" />
 
             <entry id="$-2" title="記憶×ハジマリ">
                 <musicConsumedProgress
                     length="4:23"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- chorus sucks but -->
                 <!-- the inst is atm-farm-pilled af -->
                 <!-- unironically can be meta soon :eyes: -->
@@ -131,14 +131,14 @@
             <entry id="$-14" title="東の空から始まる世界">
                 <musicConsumedProgress
                     length="4:01"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
                 <musicConsumedProgress
                     length="4:16"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- Resounding 🔉 far away 🚗 and beyond ✈️ is the strength 💪 of my feelings ❤️️ -->
                 <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
@@ -170,7 +170,7 @@
     <entry
         id="M-VGMDB-AL-123896"
         title="Starry Avenue"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <visual type="albumArt" base="0.6" unique="0.4" />
         <!-- NEE music :skull: -->
@@ -178,7 +178,7 @@
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
             <musicConsumedProgress
                 length="4:53"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <music base="0.7" />
             <ref
                 name="KoikakeCry"

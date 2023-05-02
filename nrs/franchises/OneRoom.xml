@@ -12,13 +12,13 @@
         <entry
             id="M-VGMDB-AL-63666"
             title="harumachi clover / Yui Hanasaka (CV: M·A·O)"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Harumachi Clover">
                 <musicConsumedProgress
                     length="4:06"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- ME NO MAE NO TOBIRA O AKETARA HARU KAZE -->
                 <!-- TORI TACHI MO KIGI DE MACHIAWASE -->
                 <!-- KIMI E MUKAU SHINGOU AOZORA IRO -->
@@ -36,7 +36,7 @@
         <entry
             id="A-MAL-34392"
             title="One Room"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="34392" />
                 <ks id="12758" />
@@ -45,7 +45,7 @@
             </source>
             <bestGirl
                 name="Yui Hanasaka"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- seasonal = true -->
 
             <animeConsumedProgress

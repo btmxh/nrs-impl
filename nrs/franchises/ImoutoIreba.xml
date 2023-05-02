@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-35413"
             title="Imouto sae Ireba Ii."
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="35413" />
                 <ks id="11207" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Miyako Shirakawa"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -30,13 +30,13 @@
         <entry
             id="M-VGMDB-AL-70621"
             title="Ashita no Kimi sae Ireba Ii. / ChouCho"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.5" unique="0.2" />
 
             <entry id="$-1" title="Ashita no Kimi sae Ireba Ii.">
                 <musicConsumedProgress
                     length="5:04"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
                 <osuSong personal="0.5" community="0.1" />
             </entry>

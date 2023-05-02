@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-3667"
             title="Strike Witches"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="3667" />
                 <ks id="3179" />
@@ -15,7 +15,7 @@
 
             <bestGirl
                 name="Eila Ilmatar Juutilainen"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- "The fifteen-year-old top ace of the Suomus Air Force 24th Unit ..." -->
             <!-- haha 15 funny amirite -->
 
@@ -31,7 +31,7 @@
         <entry
             id="A-MAL-32866"
             title="Brave Witches"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="32866" />
                 <ks id="11887" />
@@ -63,7 +63,7 @@
         <entry
             id="A-MAL-38006"
             title="Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="38006" />
                 <ks id="44227" />
@@ -77,7 +77,7 @@
 <!--        <bestGirl name="Robertson Virginia" /> -->
             <bestGirl
                 name="Inori Shibuya"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- inori is cuter fuck u -->
 
             <!-- the ultimate L moment -->
@@ -104,13 +104,13 @@
         <entry
             id="M-VGMDB-AL-116433"
             title="My Shining Light / Luminous Witches"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="My Shining Light">
                 <musicConsumedProgress
                     length="4:40"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- the "azure reunion" of asuiro clear sky -->
                 <music base="0.7" />
             </entry>
@@ -118,7 +118,7 @@
             <entry id="$-2" title="Luminossense">
                 <musicConsumedProgress
                     length="4:18"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
             </entry>
         </entry>
@@ -126,13 +126,13 @@
         <entry
             id="M-VGMDB-AL-108019"
             title="Sora ni Chikau kara / Luminous Witches"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="Sora ni Chikau kara">
                 <musicConsumedProgress
                     length="4:32"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -140,13 +140,13 @@
         <entry
             id="M-VGMDB-AL-120491"
             title="WONDERFUL WORLD / Luminous Witches"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.75" unique="0.15" />
 
             <entry id="$-1" title="WONDERFUL WORLD">
                 <musicConsumedProgress
                     length="3:58"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
                 <music base="0.4" />
             </entry>
@@ -155,13 +155,13 @@
         <entry
             id="M-VGMDB-AL-120492"
             title="Watashi to Minna no Uta / Luminous Witches"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.7" unique="0.15" />
 
             <entry id="$-1" title="Watashi to Minna no Uta">
                 <musicConsumedProgress
                     length="4:24"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
 
                 <music base="0.4" />
             </entry>
@@ -173,13 +173,13 @@
         <entry
             id="M-VGMDB-AL-121418"
             title="LUMINOUS WITCHES CHARACTER SONG CD vol.3"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.7" unique="0.15" />
 
             <entry id="$-5" title="歌を歌おう (finale)">
                 <musicConsumedProgress
                     length="3:54"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -187,14 +187,14 @@
         <entry
             id="M-VGMDB-AL-31409"
             title="Strike Witches Gekijouban Original Soundtrack"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.3" unique="0.4" />
 
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
                 <musicConsumedProgress
                     length="4:09"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
                 <remix id="M-20221009T085407" />
             </entry>

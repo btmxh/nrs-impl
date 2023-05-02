@@ -6,17 +6,17 @@
         <entry
             id="M-VGMDB-AL-60358"
             title="STAR BEAT! ~Hoshi no Kodou~ / Poppin'Party"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.1" />
 
             <entry
                 id="$-1"
                 title="STAR BEAT! ~Hoshi no Kodou~"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="5:19"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -24,24 +24,24 @@
         <entry
             id="M-VGMDB-AL-63624"
             title="Tokimeki Experience! / Poppin'Party"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.25" unique="0.2" />
 
             <entry id="$-1" title="Tokimeki Experience!">
                 <musicConsumedProgress
                     length="4:17"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.15" />
             </entry>
 
             <entry
                 id="$-2"
                 title="1000 kai Urunda Sora"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="5:31"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -49,17 +49,17 @@
         <entry
             id="M-VGMDB-AL-81504"
             title="KIZUNA MUSIC♪ / Poppin'Party"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.15" unique="0.4" />
 
             <entry
                 id="$-1"
                 title="KIZUNA MUSIC♪"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="5:17"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- this song got memed in the rst-sb69 era because of two things -->
                 <!-- (update: it's still somewhat huge in arc 3 because method, but -->
                 <!-- bridge to dream is better cope bandofags) -->
@@ -81,14 +81,14 @@
         <entry
             id="M-VGMDB-AL-111089"
             title="Live Beyond!! / Poppin'Party"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.6" unique="0.15" />
 
             <entry id="$-5" title="Koko kara Saki wa Uta ni Naranai">
                 <musicConsumedProgress
                     length="4:37"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.45" />
             </entry>
         </entry>
@@ -96,14 +96,14 @@
         <entry
             id="M-VGMDB-AL-74133"
             title="CiRCLiNG / Poppin'Party"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.35" unique="0.15" />
 
             <entry id="$-2" title="Light Delight">
                 <musicConsumedProgress
                     length="5:09"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <!-- naite naite -->
                 <!-- daite daite -->
                 <music base="0.6" />
@@ -113,7 +113,7 @@
         <entry
             id="M-VGMDB-AL-95118"
             title="Initial/Yume wo Uchinuku Shunkan ni! / Poppin'Party [Special Edition]"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <!-- special edition: https://vgmdb.net/album/95118 -->
             <visual type="albumArt" base="0.35" unique="0.15" />
@@ -125,10 +125,10 @@
             <entry
                 id="$-2"
                 title="Yume wo Uchinuku Shunkan ni!"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:40"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
                 <!-- iykyk -->
                 <meme strength="0.05" length="10" />
@@ -138,7 +138,7 @@
         <entry
             id="M-VGMDB-AR-27992"
             title="Poppin'Party"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-60358" />
@@ -155,17 +155,17 @@
         <entry
             id="M-VGMDB-AL-85172"
             title="FIRE BIRD / Roselia"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.2" unique="0.6" />
 
             <entry
                 id="$-1"
                 title="FIRE BIRD"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="5:25"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.35" />
             </entry>
         </entry>
@@ -173,7 +173,7 @@
         <entry
             id="M-VGMDB-AR-27993"
             title="Roselia"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-85172" />
@@ -183,7 +183,7 @@
         <entry
             id="M-VGMDB-AR-31328"
             title="Pastel*Palettes"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <!-- HAHAHAHAHAHAHHAHAHAHA GET FUCKED THE ORTENSIA INCIDENT PART 2 STRIKED -->
             <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
@@ -208,7 +208,7 @@
         <entry
             id="M-VGMDB-AR-31329"
             title="Hello, Happy World!"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-114399-8" />
@@ -218,17 +218,17 @@
         <entry
             id="M-VGMDB-AL-82743"
             title="Y.O.L.O!!!!! / Afterglow"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.25" unique="0.15" />
 
             <entry
                 id="$-1"
                 title="Y.O.L.O!!!!!"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:30"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.35" />
                 <osuSong personal="0.7" community="0.0" />
             </entry>
@@ -237,7 +237,7 @@
         <entry
             id="M-VGMDB-AR-31326"
             title="Afterglow"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-82743" />
@@ -248,17 +248,17 @@
         <entry
             id="M-VGMDB-AL-106577"
             title="BanG Dream! Girls Band Party! Cover collection vol.5"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.1" />
 
             <entry
                 id="$-1"
                 title="Cherry Bomb"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:07"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
                 <osuSong personal="0.6" community="0.0" />
             </entry>
@@ -266,10 +266,10 @@
             <entry
                 id="$-6"
                 title="Harumodoki"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:30"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.25" />
                 <osuSong personal="0.5" community="0.0" />
 
@@ -280,17 +280,17 @@
         <entry
             id="M-VGMDB-AL-114399"
             title="BanG Dream! Girls Band Party! Cover collection vol.6"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.45" unique="0.1" />
 
             <entry
                 id="$-8"
                 title="Silhouette"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:01"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.5" />
                 <osuSong personal="0.55" community="0.0" />
             </entry>
@@ -299,15 +299,15 @@
         <entry
             id="M-VGMDB-AL-104105"
             title="Garupa Vocalo Cover Collection"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
             <visual type="albumArt" base="0.3" unique="0.3" />
             <entry
                 id="$-3"
                 title="Melancholic"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="3:41"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.3" />
                 <osuSong personal="0.75" community="0.0" />
             </entry>
@@ -316,7 +316,7 @@
         <entry
             id="M-VGMDB-AR-31336"
             title="RAISE A SUILEN"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-101643" />
@@ -326,16 +326,16 @@
         <entry
             id="M-VGMDB-AL-101643"
             title="Sacred world / RAISE A SUILEN"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry
                 id="$-1"
                 title="Sacred world"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="5:00"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -350,7 +350,7 @@
         <entry
             id="A-MAL-33573"
             title="BanG Dream!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="33573" />
                 <ks id="12330" />
@@ -359,7 +359,7 @@
             </source>
             <bestGirl
                 name="Arisa Ichigaya"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- Ending pretty sadge -->
             <aei base="0.2" emotions="CU" />
             <!-- nrs1 -->
@@ -379,7 +379,7 @@
         <entry
             id="A-MAL-37869"
             title="BanG Dream! 2nd Season"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="37869" />
                 <ks id="41289" />
@@ -388,7 +388,7 @@
             </source>
             <bestGirl
                 name="Arisa Ichigaya"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
             <!-- nrs1 -->
             <meme strength="0.15" length="2" />
 
@@ -409,7 +409,7 @@
     <entry
         id="M-VGMDB-AR-31509"
         title="SILENT SIREN"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <entry id="M-20220130T183728-1" title="S">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
@@ -430,12 +430,12 @@
     <entry
         id="M-VGMDB-AR-25291"
         title="KANA-BOON"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <entry
             id="M-VGMDB-AL-50723"
             title="Silhouette / KANA-BOON"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <!-- 3d men ew /s -->
             <visual type="albumArt" base="0.08" unique="0.175" />
@@ -443,10 +443,10 @@
             <entry
                 id="$-1"
                 title="Silhouette"
-            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            >
                 <musicConsumedProgress
                     length="4:01"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
                 <remix id="M-VGMDB-AL-114399-8" />
             </entry>

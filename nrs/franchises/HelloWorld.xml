@@ -3,7 +3,7 @@
     <entry
         id="A-MAL-38816"
         title="Hello World"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="38816" />
             <ks id="42030" />
@@ -14,7 +14,7 @@
         <!-- oh fuck -->
         <bestGirl
             name="Ruri Ichigyou"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress
             status="Completed"
@@ -29,7 +29,7 @@
     <entry
         id="A-MAL-40295"
         title="Another World"
-    > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+    >
         <source>
             <adb id="40295" />
             <ks id="42527" />
@@ -38,7 +38,7 @@
         </source>
         <bestGirl
             name="Ruri Ichigyou"
-        /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+        />
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="3" />
         <!-- the cg kinda help with making the anime unique lol -->

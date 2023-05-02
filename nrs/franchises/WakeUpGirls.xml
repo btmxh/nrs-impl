@@ -19,7 +19,7 @@
         <entry
             id="M-VGMDB-AR-15137"
             title="Wake Up, Girls!"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-42945" />
@@ -31,14 +31,14 @@
         <entry
             id="M-VGMDB-AL-46042"
             title="Tachiagare! / Wake Up, Girls!"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="Tachiagare!">
                 <musicConsumedProgress
                     length="4:54"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.6" />
             </entry>
         </entry>
@@ -46,14 +46,14 @@
         <entry
             id="M-VGMDB-AL-42945"
             title="7 Girls War / Wake Up, Girls!"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="7 Girls War">
                 <musicConsumedProgress
                     length="5:07"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.35" />
             </entry>
         </entry>
@@ -61,7 +61,7 @@
         <entry
             id="A-MAL-21189"
             title="Wake Up, Girls! Shichinin no Idol"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="21189" />
                 <ks id="8200" />
@@ -71,7 +71,7 @@
 
             <bestGirl
                 name="Mayu Shimada"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -89,7 +89,7 @@
         <entry
             id="A-MAL-19023"
             title="Wake Up, Girls!"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="19023" />
                 <ks id="7774" />
@@ -99,7 +99,7 @@
 
             <bestGirl
                 name="Mayu Shimada"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -115,7 +115,7 @@
         <entry
             id="A-MAL-28841"
             title="Wake Up, Girls! Seishun no Kage"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <ks id="10068" />
                 <al id="20989" />
@@ -124,7 +124,7 @@
 
             <bestGirl
                 name="Mayu Shimada"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -139,7 +139,7 @@
         <entry
             id="A-MAL-30419"
             title="Wake Up, Girls! Beyond the Bottom"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <ks id="10845" />
                 <al id="21107" />
@@ -148,7 +148,7 @@
 
             <bestGirl
                 name="Mayu Shimada"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -163,7 +163,7 @@
         <entry
             id="A-MAL-34522"
             title="Wake Up, Girls! Shin Shou"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="34522" />
                 <ks id="13707" />
@@ -173,7 +173,7 @@
 
             <bestGirl
                 name="Mayu Shimada"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Completed"
@@ -188,7 +188,7 @@
     <entry
         id="M-VGMDB-AL-68276"
         title="One In A Billion / Wake Up, May'n! [Limited Edition]"
-    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    >
 
         <!-- dream luck be like lmfao -->
 
@@ -197,7 +197,7 @@
         <entry id="$-1" title="One In A Billion">
             <musicConsumedProgress
                 length="4:17"
-            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            />
             <osuSong personal="0.5" community="0.1" />
             <music base="0.6" />
         </entry>

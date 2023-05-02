@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-40839"
             title="Kanojo, Okarishimasu"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="40839" />
                 <ks id="43028" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Sumi Sakurasawa"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <animeConsumedProgress
                 status="Dropped"

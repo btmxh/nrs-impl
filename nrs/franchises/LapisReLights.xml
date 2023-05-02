@@ -10,7 +10,7 @@
         <entry
             id="A-MAL-37587"
             title="Lapis Re:LiGHTs"
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="37587" />
                 <ks id="41115" />
@@ -19,7 +19,7 @@
             </source>
             <bestGirl
                 name="Tiara"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- funny af, love live stands no chance -->
             <ehi />
@@ -43,14 +43,14 @@
         <entry
             id="M-VGMDB-AL-104957"
             title="700,000,000,000,000,000,000,000 no Sora de / LiGHTs"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.4" unique="0.2" />
 
             <entry id="$-1" title="700,000,000,000,000,000,000,000 no Sora de">
                 <musicConsumedProgress
                     length="4:36"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>

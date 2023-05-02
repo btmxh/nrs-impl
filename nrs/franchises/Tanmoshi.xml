@@ -5,7 +5,7 @@
         <entry
             id="A-MAL-46471"
             title="Tantei wa Mou, Shindeiru."
-        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        >
             <source>
                 <adb id="46471" />
                 <ks id="44022" />
@@ -14,7 +14,7 @@
             </source>
             <bestGirl
                 name="Nagisa Natsunagi"
-            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            />
 
             <!-- siesta arc is shit -->
             <!-- cope -->
@@ -33,13 +33,13 @@
         <entry
             id="M-VGMDB-AL-113531"
             title="Kodou / Nanakagura"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Kodou">
                 <musicConsumedProgress
                     length="4:31"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>
@@ -47,13 +47,13 @@
         <entry
             id="M-VGMDB-AL-113660"
             title="Koko de Ikiteru / mary &amp; jon-YAKITORY"
-        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        >
 
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Koko de Ikiteru">
                 <musicConsumedProgress
                     length="3:22"
-                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                />
                 <music base="0.4" />
             </entry>
         </entry>
