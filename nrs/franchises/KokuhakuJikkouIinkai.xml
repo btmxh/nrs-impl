@@ -178,6 +178,15 @@
                         <music base="0.45" />
                         <osuSong personal="0.3" community="0.1" />
                     </entry>
+
+                    <entry
+                        id="M-20230428T120308"
+                        title="Sayonara Ryou-Kataomoi"
+                    >
+                        <!-- Length source: https://www.youtube.com/watch?v=tR39Dt54nD0 -->
+                        <musicConsumedProgress length="4:29" />
+                        <music base="0.6" />
+                    </entry>
                 </entry>
 
                 <entry
@@ -217,6 +226,29 @@
                         <music base="0.4" />
                         <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
+                    </entry>
+                </entry>
+
+                <entry
+                    id="M-VGMDB-AL-127729"
+                    title="Ne, Sukitte Itaiyo. ~Kokuhaku Jikko Iinkai Character Song Collection~ / HoneyWorks"
+                >
+                    <!-- <visual type="albumArt" base="0.15" unique="0.5" /> -->
+
+                    <entry
+                        id="$-9"
+                        title="Kawaikute gomen feat. Chuu-tan (CV: Hayami Saori)"
+                    >
+                        <musicConsumedProgress length="3:39" />
+                        <music base="0.5" />
+                        <!-- propaganda noises -->
+                        <politics>
+                            <contributor
+                                id="M-VGMDB-AL-127729-9"
+                                factor="0.4"
+                            />
+                            <contributor id="idk [null entry]" factor="0.6" />
+                        </politics>
                     </entry>
                 </entry>
             </contains>
