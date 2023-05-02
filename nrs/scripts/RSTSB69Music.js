@@ -45,11 +45,14 @@ function common(map) {
     throw new Error(`unknown era ${from}`);
   }
 
-  const eraIndexed = eras.map(([era, multiplier]) => [allEras.indexOf(era), multiplier]);
+  const eraIndexed = eras.map(([era, multiplier]) => [
+    allEras.indexOf(era),
+    multiplier,
+  ]);
   const fromIndex = allEras.indexOf(from);
 
-  const multipliers = allEras.map((_, i) => i >= fromIndex? 1.0 : 0.0);
-  for(const [eraIndex, multiplier] of eraIndexed) {
+  const multipliers = allEras.map((_, i) => (i >= fromIndex ? 1.0 : 0.0));
+  for (const [eraIndex, multiplier] of eraIndexed) {
     multipliers[eraIndex] = multiplier;
   }
 
@@ -67,18 +70,20 @@ local.sb69 = () => {
 function trackMemeImpact(map) {
   const base = local.base;
   const era = local.era;
-  if(base < 0.0 || base > 1.0) {
+  if (base < 0.0 || base > 1.0) {
     throw new Error("base must be between 0.0 and 1.0");
   }
   const eraIndex = allEras.indexOf(era);
-  if(eraIndex < 0) {
+  if (eraIndex < 0) {
     throw new Error(`unknown era ${era}`);
   }
 
-  const sum = [...map.values()].map(arr => arr[eraIndex]).reduce((a, b) => a + b);
-  for(const [id, multipliers] of map) {
-    const factor = multipliers[eraIndex] * base / sum;
-    if(factor > 0) {
+  const sum = [...map.values()]
+    .map((arr) => arr[eraIndex])
+    .reduce((a, b) => a + b);
+  for (const [id, multipliers] of map) {
+    const factor = (multipliers[eraIndex] * base) / sum;
+    if (factor > 0) {
       self.value[0].contributors.set(id, factor);
     }
   }

@@ -1,18 +1,26 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-9260" title="Kanojo, Okarishimasu">
 
-        <entry id="A-MAL-40839" title="Kanojo, Okarishimasu"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-40839"
+            title="Kanojo, Okarishimasu"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="40839"/>
-                <ks id="43028"/>
-                <al id="113813"/>
-                <mal id="40839"/>
+                <adb id="40839" />
+                <ks id="43028" />
+                <al id="113813" />
+                <mal id="40839" />
             </source>
-            <bestGirl name="Sumi Sakurasawa" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Sumi Sakurasawa"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="1" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.7"
+                episodes="1"
+            />
             <dropped />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>

@@ -1,14 +1,18 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-3305" title="Saenai Heroine no Sodatekata">
 
-        <entry id="M-VGMDB-AL-48199" title="Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-48199"
+            title="Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="M♭">
-                <musicConsumedProgress length="3:42" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:42"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.2" />
                 <osuSong personal="0.1" community="0.0" />
             </entry>
@@ -31,46 +35,68 @@
             <contributor id="A-MAL-30727" factor="0.5" />
         </meme>
 
-        <entry id="A-MAL-23277" title="Saenai Heroine no Sodatekata"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-23277"
+            title="Saenai Heroine no Sodatekata"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="23277"/>
-                <ks id="8406"/>
-                <al id="20657"/>
-                <mal id="23277"/>
+                <adb id="23277" />
+                <ks id="8406" />
+                <al id="20657" />
+                <mal id="23277" />
             </source>
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
 
             <featureMusic id="M-VGMDB-AL-48199-1" />
             <featureMusic id="M-VGMDB-AL-49446-1" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
             <ehi />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
-        <entry id="A-MAL-30727" title="Saenai Heroine no Sodatekata ♭"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-30727"
+            title="Saenai Heroine no Sodatekata ♭"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="30727"/>
-                <ks id="10909"/>
-                <al id="21180"/>
-                <mal id="30727"/>
+                <adb id="30727" />
+                <ks id="10909" />
+                <al id="21180" />
+                <mal id="30727" />
             </source>
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="11" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="11"
+            />
             <ehi />
             <visual type="animated" base="0.5" unique="0.3" />
         </entry>
 
-        <entry id="A-MAL-36885" title="Saenai Heroine no Sodatekata Fine"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-36885"
+            title="Saenai Heroine no Sodatekata Fine"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="36885"/>
-                <ks id="14050"/>
-                <al id="100675"/>
-                <mal id="36885"/>
+                <adb id="36885" />
+                <ks id="14050" />
+                <al id="100675" />
+                <mal id="36885" />
             </source>
             <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
             <!-- humor -->
             <nei base="0.25" emotions="AP" />
-            <animeConsumedProgress status="Completed" boredom="0.95" episodes="1" episodeDuration="1:54:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.95"
+                episodes="1"
+                episodeDuration="1:54:00"
+            />
             <visual type="animated" base="0.55" unique="0.3" />
         </entry>
     </entry>

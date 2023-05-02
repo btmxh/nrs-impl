@@ -1,18 +1,24 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-7865" title="Koisuru Asteroid">
 
-        <entry id="A-MAL-39388" title="Koisuru Asteroid"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-39388"
+            title="Koisuru Asteroid"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="39388"/>
-                <ks id="42470"/>
-                <al id="108092"/>
-                <mal id="39388"/>
+                <adb id="39388" />
+                <ks id="42470" />
+                <al id="108092" />
+                <mal id="39388" />
             </source>
             <bestGirl name="Kotonoha Mira" /> <!-- impl_overridden -->
 
-            <animeConsumedProgress status="Completed" boredom="00.8" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="00.8"
+                episodes="13"
+            />
             <visual type="animated" base="0.8" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-93329-1" />
             <featureMusic id="M-VGMDB-AL-93338-1" />
@@ -22,12 +28,17 @@
         <contains id="M-VGMDB-AL-93338-1" />
     </entry>
 
-    <entry id="M-VGMDB-AL-93338" title="Yozora / Minori Suzuki"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-93338"
+        title="Yozora / Minori Suzuki"
+    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <visual type="albumArt" base="0.3" unique="0.2" />
 
         <entry id="$-1" title="夜空">
-            <musicConsumedProgress length="4:37" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress
+                length="4:37"
+            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- play the gigachad mapper's map: -->
             <!-- https://osu.ppy.sh/beatmapsets/1256770#osu/2611562 -->
             <!-- https://osu.ppy.sh/beatmapsets/1256770#osu/2611562 -->

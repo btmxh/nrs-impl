@@ -18,8 +18,8 @@ To sync your NRS list with MyAnimeList/AniList, use [nrs_app](https://github.com
 
 nrs-impl-kt is divided into three modules.
 
-* `core`: This is where all of the calculation, JSON export, and NRS extensions are defined.
-* `impl`: The DSL code for this implementation. If you want to make your own NRS rankings, this is the place to do it.
-* `validator`: A program that will analyze the output JSON files, and make sure that they're all valid. This is used to detect any implementation errors.
+- `core`: This is where all of the calculation, JSON export, and NRS extensions are defined.
+- `impl`: The DSL code for this implementation. If you want to make your own NRS rankings, this is the place to do it.
+- `validator`: A program that will analyze the output JSON files, and make sure that they're all valid. This is used to detect any implementation errors.
 
 Some scripts are also provided, and they're in the `scripts/` directory.

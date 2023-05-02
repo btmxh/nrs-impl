@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <!-- kirare - happy typhoon and u's - a song for yuyuyu reference -->
     <!-- somewhat changed da world -->
@@ -8,24 +7,34 @@
 
         <contains id="M-VGMDB-AL-69821-1" />
 
-        <entry id="M-VGMDB-AL-47678" title="Aurora Days / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-47678"
+            title="Aurora Days / Sanshuu Chuugaku Yuushabu"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Aurora Days">
-                <musicConsumedProgress length="4:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:00"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.15" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-114186" title="Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-114186"
+            title="Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <!-- the glorious udon stream map -->
             <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
             <entry id="$-2" title="U・D・N">
-                <musicConsumedProgress length="3:12" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:12"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
@@ -68,14 +77,19 @@
             <contributor id="A-MAL-42587" factor="0.06" />
         </killedBy>
 
-        <entry id="A-MAL-25519" title="Yuuki Yuuna wa Yuusha de Aru"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-25519"
+            title="Yuuki Yuuna wa Yuusha de Aru"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="25519"/>
-                <ks id="8638"/>
-                <al id="20800"/>
-                <mal id="25519"/>
+                <adb id="25519" />
+                <ks id="8638" />
+                <al id="20800" />
+                <mal id="25519" />
             </source>
-            <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Yuuna Yuuki"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- The Itsuki thing made me cry I guess, but there's no PADS. -->
             <!-- YouTube clip: https://www.youtube.com/watch?v=0bjxQMWXsRE -->
             <!-- ye it's the shelter of yuri yuna now lmao -->
@@ -94,7 +108,11 @@
             <!-- (only the ending tho) -->
             <aei base="0.25" emotions="CU" />
             <visual type="animated" base="0.3" unique="0.5" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
         </entry>
 
         <entry id="L-MAL-90810" title="Nogi Wakaba wa Yuusha de Aru">
@@ -112,7 +130,9 @@
             <!-- well, at least chikage koori is still a meme -->
 
             <!-- based best girl -->
-            <bestGirl name="Chikage Koori" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Chikage Koori"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 <!--            status = EntryStatus.Watching -->
 
             <!-- There are a lot of sad things in this LN -->
@@ -137,21 +157,30 @@
             <!-- that didn't happen pog -->
             <aei base="0.3" emotions="CU" />
 
-            <consumedProgress status="Completed" boredom="0.75" duration="4:00:00" />
+            <consumedProgress
+                status="Completed"
+                boredom="0.75"
+                duration="4:00:00"
+            />
             <visual type="lightNovel" base="0.15" unique="0.5" />
         </entry>
 
-        <entry id="A-MAL-34284" title="Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-34284"
+            title="Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="34284"/>
-                <ks id="12678"/>
-                <al id="100791"/>
-                <mal id="34284"/>
+                <adb id="34284" />
+                <ks id="12678" />
+                <al id="100791" />
+                <mal id="34284" />
             </source>
             <!-- this was not taken very seriously -->
 
             <!-- she looked like best girl ngl -->
-            <bestGirl name="Mimori Tougou" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Mimori Tougou"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <featureMusic id="M-VGMDB-AL-69821-1" />
             <!-- gin's death (the consequences of the ortensia incident) -->
@@ -159,19 +188,28 @@
             <!-- but my pepega ass doesn't watch this shit properly ffs -->
             <nei base="0.5" emotions="CU" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="6"
+            />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
-        <entry id="A-MAL-34445" title="Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-34445"
+            title="Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="34445"/>
-                <ks id="13160"/>
-                <al id="97769"/>
-                <mal id="34445"/>
+                <adb id="34445" />
+                <ks id="13160" />
+                <al id="97769" />
+                <mal id="34445" />
             </source>
             <!-- "The Michi Random of Yuuki Yuuna" -->
-            <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Yuuna Yuuki"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- that conversation is peak drama -->
             <!-- it captures my heart and does make -->
@@ -184,20 +222,29 @@
             <!--                  yuyuyu reference !!!11!!1 -->
             <aei base="0.3" emotions="CU" />
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="6" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="6"
+            />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 
-        <entry id="A-MAL-42587" title="Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-42587"
+            title="Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="42587"/>
-                <ks id="44333"/>
-                <al id="122292"/>
-                <mal id="42587"/>
+                <adb id="42587" />
+                <ks id="44333" />
+                <al id="122292" />
+                <mal id="42587" />
             </source>
 
             <!-- seasonal = true -->
-            <bestGirl name="Yuuna Yuuki" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Yuuna Yuuki"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- I expected this to make a new Ayumu-era (something like -->
             <!-- Yuuna-era or some dumb shit like that), but it doesn't -->
@@ -214,7 +261,11 @@
 
             <featureMusic id="M-VGMDB-AL-114186-2" />
 
-            <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="12"
+            />
             <visual type="animated" base="0.3" unique="0.5" />
         </entry>
 

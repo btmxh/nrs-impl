@@ -1,25 +1,29 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <!-- niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12 -->
 <!-- so the contain factor of the 9 original girls will be 1.5x the new girls -->
 <!-- doing the math, we got these: -->
-
 <!-- private const val NijiNewOldRate = 1.5
 const val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
 const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate -->
-
 <!-- NijiNewGirlsContainFactor=1.0/16.5 -->
 <!-- NijiOldGirlContainFactor=1.5/16.5 -->
-
 <document>
     <entry id="F-VGMDB-2588" title="Love Live!">
 
-        <entry id="M-VGMDB-AL-34051" title="Snow halation / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-34051"
+            title="Snow halation / μ's"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.1" unique="0.5" />
 
-            <entry id="$-1" title="Snow halation"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:17" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Snow halation"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:17"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
                 <meme strength="0.1" length="6" />
                 <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
@@ -27,37 +31,64 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-36547" title="Bokura wa Ima no Naka de / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-36547"
+            title="Bokura wa Ima no Naka de / μ's"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry id="$-1" title="Bokura wa Ima no Naka de"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Bokura wa Ima no Naka de"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:36"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-75504" title="Music S.T.A.R.T!! / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-75504"
+            title="Music S.T.A.R.T!! / μ's"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.2" unique="0.4" />
 
-            <entry id="$-2" title="LOVELESS WORLD"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="5:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-2"
+                title="LOVELESS WORLD"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="5:18"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-93532" title="A song for You! You? You!! / μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-93532"
+            title="A song for You! You? You!! / μ's"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry id="$-1" title="A song for You! You? You!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="5:53" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="A song for You! You? You!!"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="5:53"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.5" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-13719" title="μ's"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AR-13719"
+            title="μ's"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-34051" />
@@ -67,76 +98,123 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-58147" title="Aozora Jumping Heart / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-58147"
+            title="Aozora Jumping Heart / Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry id="$-1" title="Aozora Jumping Heart"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Aozora Jumping Heart"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:44"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-58750" title="Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu! / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-58750"
+            title="Kimeta yo Hand in Hand/Daisuki Dattara Daijoubu! / Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
-            <entry id="$-1" title="Kimeta yo Hand in Hand"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:26" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Kimeta yo Hand in Hand"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:26"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-70622" title="Yuuki wa Doko ni? Kimi no Mune ni! / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-70622"
+            title="Yuuki wa Doko ni? Kimi no Mune ni! / Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Yuuki wa Doko ni? Kimi no Mune ni!">
-                <musicConsumedProgress length="4:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:44"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.6" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-71404" title="MY MAI☆TONIGHT/MIRACLE WAVE / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-71404"
+            title="MY MAI☆TONIGHT/MIRACLE WAVE / Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-2" title="MIRACLE WAVE">
-                <musicConsumedProgress length="4:08" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:08"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-78378" title="Thank you, FRIENDS!! / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-78378"
+            title="Thank you, FRIENDS!! / Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Thank you, FRIENDS!!">
-                <musicConsumedProgress length="6:23" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="6:23"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.35" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-87199" title="Mitaiken HORIZON / Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-87199"
+            title="Mitaiken HORIZON / Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Mitaiken HORIZON">
-                <musicConsumedProgress length="5:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="5:19"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-71405" title="Awaken the power / Saint Aqours Snow"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-71405"
+            title="Awaken the power / Saint Aqours Snow"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.25" unique="0.4" />
-            <entry id="$-3" title="DROPOUT!?"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:56" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-3"
+                title="DROPOUT!?"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:56"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-17153" title="Aqours"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AR-17153"
+            title="Aqours"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-58147" />
@@ -148,37 +226,55 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-97692" title="LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-97692"
+            title="LoveLive! Sunshine!! Watanabe You First Solo Concert ALBUM ~Beginner's Sailing~"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Beginner's Sailing">
-                <musicConsumedProgress length="4:47" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:47"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-102276" title="Nijiiro Passions! / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-102276"
+            title="Nijiiro Passions! / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="Nijiiro Passions!">
-                <musicConsumedProgress length="4:15" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:15"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-102277" title="NEO SKY, NEO MAP! / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-102277"
+            title="NEO SKY, NEO MAP! / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="NEO SKY, NEO MAP!">
-                <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:38"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.65" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-29922" title="Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AR-29922"
+            title="Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-102276" />
@@ -190,93 +286,173 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </contains>
         </entry>
 
-        <entry id="M-VGMDB-AL-80802" title="TOKIMEKI Runners / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-80802"
+            title="TOKIMEKI Runners / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry id="$-1" title="TOKIMEKI Runners"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:36" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="TOKIMEKI Runners"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:36"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
 
-            <entry id="$-2" title="Yume e no Ippo"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:47" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-2"
+                title="Yume e no Ippo"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:47"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.05" />
             </entry>
 
-            <entry id="$-8" title="CHASE!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-8"
+                title="CHASE!"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:18"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.15" />
             </entry>
 
-            <entry id="$-10" title="Dokipipo☆Emotion"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:30" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-10"
+                title="Dokipipo☆Emotion"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:30"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-87198" title="Love U my friends / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-87198"
+            title="Love U my friends / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry id="$-10" title="Love U my friends"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:00" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-10"
+                title="Love U my friends"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:00"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.3" />
             </entry>
 
-            <entry id="$-1" title="Kaika Sengen"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:19" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Kaika Sengen"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:19"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.2" />
             </entry>
 
-            <entry id="$-7" title="MELODY"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:29" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-7"
+                title="MELODY"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:29"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.45" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-99272" title="Just Believe!!! / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-99272"
+            title="Just Believe!!! / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry id="$-12" title="Just Believe!!!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:05" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-12"
+                title="Just Believe!!!"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:05"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
             </entry>
 
-            <entry id="$-1" title="Say Good-Bye Namida"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:01" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Say Good-Bye Namida"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:01"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
             </entry>
 
-            <entry id="$-3" title="Yagate Hitotsu no Monogatari"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:20" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-3"
+                title="Yagate Hitotsu no Monogatari"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:20"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.25" />
             </entry>
 
-            <entry id="$-7" title="LIKE IT! LOVE IT!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:21" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-7"
+                title="LIKE IT! LOVE IT!"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:21"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.55" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-112929" title="L!L!L! (Love the Life We Live) / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-112929"
+            title="L!L!L! (Love the Life We Live) / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.3" unique="0.6" />
 
-            <entry id="$-2" title="Break The System"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="3:44" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-2"
+                title="Break The System"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="3:44"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.4" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-102279" title="Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-102279"
+            title="Dream with You/Poppin' Up!/DIVE! / Ayumu Uehara (CV. Aguri Onishi), Kasumi Nakasu (CV. Mayu Sagara), Setsuna Yuki (CV. Tomori Kusunoki) from Nijigasaki High School Idol Club [Ayumu Uehara Edition]"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <visual type="albumArt" base="0.65" unique="0.25" />
 
             <!-- the first ayumu-era theme song -->
-            <entry id="$-1" title="Dream with You"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
-                <musicConsumedProgress length="4:18" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <entry
+                id="$-1"
+                title="Dream with You"
+            > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:18"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.1" />
                 <!-- the song is shit -->
                 <!-- but it started the most colorful era in autism history -->
@@ -285,17 +461,25 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AL-104783" title="Awakening Promise/Yume ga Koko kara Hajimaru yo / Nijigasaki High School Idol Club"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AL-104783"
+            title="Awakening Promise/Yume ga Koko kara Hajimaru yo / Nijigasaki High School Idol Club"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
             <visual type="albumArt" base="0.65" unique="0.25" />
 
             <entry id="$-1" title="Awakening Promise">
-                <musicConsumedProgress length="4:13" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+                <musicConsumedProgress
+                    length="4:13"
+                /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
                 <music base="0.125" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-37385" title="Liella!"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+        <entry
+            id="M-VGMDB-AR-37385"
+            title="Liella!"
+        > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- Liella hasn't got any notable songs -->
             <!-- also they got fucked in the rst-sb69 duopoly era because -->
             <!-- rst is a fucking nazi -->
@@ -341,88 +525,135 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         <!-- Anime -->
         <entry id="A-MAL-15051" title="Love Live! School Idol Project">
             <source>
-                <adb id="15051"/>
-                <ks id="7203"/>
-                <al id="15051"/>
-                <mal id="15051"/>
+                <adb id="15051" />
+                <ks id="7203" />
+                <al id="15051" />
+                <mal id="15051" />
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Maki Nishikino"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <featureMusic id="M-VGMDB-AL-36547-1" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
-        <entry id="A-MAL-19111" title="Love Live! School Idol Project 2nd Season">
+        <entry
+            id="A-MAL-19111"
+            title="Love Live! School Idol Project 2nd Season"
+        >
             <source>
-                <adb id="19111"/>
-                <ks id="7871"/>
-                <al id="19111"/>
-                <mal id="19111"/>
+                <adb id="19111" />
+                <ks id="7871" />
+                <al id="19111" />
+                <mal id="19111" />
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Maki Nishikino"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <featureMusic id="M-VGMDB-AL-34051-1" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-24997" title="Love Live! The School Idol Movie">
             <source>
-                <adb id="24997"/>
-                <ks id="8531"/>
-                <al id="20766"/>
-                <mal id="24997"/>
+                <adb id="24997" />
+                <ks id="8531" />
+                <al id="20766" />
+                <mal id="24997" />
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
-            <bestGirl name="Maki Nishikino" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Maki Nishikino"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:54:00" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="1"
+                episodeDuration="1:54:00"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
         <entry id="A-MAL-32526" title="Love Live! Sunshine!!">
             <source>
-                <adb id="11745"/>
-                <ks id="32526"/>
-                <al id="32526"/>
-                <mal id="21584"/>
+                <adb id="11745" />
+                <ks id="32526" />
+                <al id="32526" />
+                <mal id="21584" />
             </source>
-            <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Riko Sakurauchi"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-58750-1" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
-        <entry id="A-MAL-34973" title="Love Live! Sunshine!! 2nd Season"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-34973"
+            title="Love Live! Sunshine!! 2nd Season"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="34973"/>
-                <ks id="13299"/>
-                <al id="98349"/>
-                <mal id="34973"/>
+                <adb id="34973" />
+                <ks id="13299" />
+                <al id="98349" />
+                <mal id="34973" />
             </source>
-            <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Riko Sakurauchi"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- aozora was featured in ep13 -->
             <featureMusic id="M-VGMDB-AL-58147-1" />
             <featureMusic id="M-VGMDB-AL-70622-1" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
 
-        <entry id="A-MAL-37027" title="Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-37027"
+            title="Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="37027"/>
-                <ks id="14188"/>
-                <al id="100965"/>
-                <mal id="37027"/>
+                <adb id="37027" />
+                <ks id="14188" />
+                <al id="100965" />
+                <mal id="37027" />
             </source>
-            <bestGirl name="Riko Sakurauchi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:40:00" />
+            <bestGirl
+                name="Riko Sakurauchi"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="1"
+                episodeDuration="1:40:00"
+            />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
         </entry>
@@ -460,19 +691,28 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <contributor id="M-VGMDB-AL-89290-6" factor="0.025" />
         </maxAEIPADS>
 
-        <entry id="A-MAL-40879" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai">
+        <entry
+            id="A-MAL-40879"
+            title="Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+        >
             <source>
                 <adb id="40879" />
                 <al id="113970" />
                 <mal id="40879" />
                 <ks id="42872" />
             </source>
-            <bestGirl name="Ayumu Uehara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Ayumu Uehara"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- seasonal = true -->
 
             <!-- pretty funny ngl, but overshadowed by the ayumu shit -->
             <aei base="0.4" emotions="AP" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
             <visual type="animated" base="0.6" unique="0.25" />
 
             <!-- 2020-10-17: airtime of episode 3 -->
@@ -501,15 +741,21 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
         <entry id="A-MAL-41169" title="Love Live! Superstar!!">
             <source>
-                <adb id="41169"/>
-                <ks id="44124"/>
-                <al id="114979"/>
-                <mal id="41169"/>
+                <adb id="41169" />
+                <ks id="44124" />
+                <al id="114979" />
+                <mal id="41169" />
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <!-- insert wakeshima kanon is shibuya kanon joke here -->
-            <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Chisato Arashi"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <!-- seasonal = true -->
-            <animeConsumedProgress status="Dropped" boredom="0.9" episodes="7" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.9"
+                episodes="7"
+            />
             <dropped />
             <meme strength="0.3" length="6" />
             <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
@@ -546,39 +792,54 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <contributor id="A-MAL-37027" factor="0.1 / 6" />
         </nei>
 
-        <entry id="A-MAL-48916" title="Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season">
+        <entry
+            id="A-MAL-48916"
+            title="Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season"
+        >
             <source>
-                <adb id="48916"/>
-                <ks id="44537"/>
-                <al id="133891"/>
-                <mal id="48916"/>
+                <adb id="48916" />
+                <ks id="44537" />
+                <al id="133891" />
+                <mal id="48916" />
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
             <bestGirl name="Kanata Konoe" />
 
             <!-- jk -->
-            <bestGirl name="Ayumu Uehara" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Ayumu Uehara"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <visual type="animated" base="0.6" unique="0.25" />
 
             <!-- lol after all this time xddddddddddd -->
-            <animeConsumedProgress status="Dropped" boredom="0.7" episodes="3" />
+            <animeConsumedProgress
+                status="Dropped"
+                boredom="0.7"
+                episodes="3"
+            />
             <dropped />
             <killedBy id="F-VGMDB-7059" potential="0.8" effect="1.0" />
         </entry>
 
         <entry id="A-MAL-50203" title="Love Live! Superstar!! 2nd Season">
             <source>
-                <adb id="50203"/>
-                <ks id="45360"/>
-                <al id="140642"/>
-                <mal id="50203"/>
+                <adb id="50203" />
+                <ks id="45360" />
+                <al id="140642" />
+                <mal id="50203" />
             </source> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
 
-            <bestGirl name="Chisato Arashi" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Chisato Arashi"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
             <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
             <killedBy id="F-VGMDB-7059" potential="0.6" effect="1.0" />
             <visual type="animated" base="0.6" unique="0.25" />
-            <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
+            <animeConsumedProgress
+                status="Unwatched"
+                boredom="0.0"
+                episodes="0"
+            />
         </entry>
     </entry>
 

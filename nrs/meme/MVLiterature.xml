@@ -1,5 +1,4 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <!-- modern vietnamese literature -->
 <document>
     <!-- based rst turning literally everything into a meme -->
@@ -8,7 +7,7 @@
 
         <!-- the river analogy states that the love live franchise is our opponents/enemies -->
         <!-- (Sông Đà hung bạo) as well as our friends (Sông Đà trữ tình) -->
-        <ref name="AKMEraPart1" _.strength="0.15"/>
+        <ref name="AKMEraPart1" _.strength="0.15" />
     </entry>
 
     <entry id="O-20220702T030659-2" title="Vợ chồng A Phủ">
@@ -26,7 +25,7 @@
 
         <!-- also the character "A Sử" made the famous meme -->
         <!-- "A-Sử-iro Koi Moyou" -->
-        <ref name="AKMEraPart1" _.strength="0.25"/>
+        <ref name="AKMEraPart1" _.strength="0.25" />
     </entry>
 
     <entry id="O-20220702T030659-3" title="Chiếc thuyền ngoài xa">
@@ -50,15 +49,20 @@
         <!-- 今日、2021年7月7日、ベトナムでは卒業試験です。昨日、この人、キッドのような名前は -->
         <!-- 「国語はChiếc thuyền ngoài xaと思います」ってフェスブックで言ったことがあります。 -->
         <!-- 2年前、この人も2回正しい卒業試験の国語の答えを行った、 -->
-        <ref name="AKMEraPart1" _.strength="0.3"/>
+        <ref name="AKMEraPart1" _.strength="0.3" />
     </entry>
 
-    <entry id="M-VGMDB-AL-111027" title="hololive IDOL PROJECT / Bouquet"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+    <entry
+        id="M-VGMDB-AL-111027"
+        title="hololive IDOL PROJECT / Bouquet"
+    > <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <visual type="albumArt" base="0.5" unique="0.3" />
 
         <entry id="$-10" title="あすいろClearSky (Bouquet Ver.)">
-            <musicConsumedProgress length="4:38" /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
+            <musicConsumedProgress
+                length="4:38"
+            /> <!-- generatedBy="fill_music_metadata.dart v0.1.1" --> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
             <!-- asuiro koi moyou and its consequences -->
             <!-- hololiveshit stole rst & sb69 composer -->
             <!-- hololiveshit stole rst & sb69 composer -->
@@ -76,8 +80,8 @@
             <music base="0.65" />
             <!-- the girls look CG af, but at least the other things are good -->
             <visual type="semiAnimatedMV" base="0.3" unique="0.2" />
-            <ref name="AKMEraPart1" _.strength="0.4"/>
-            <ref name="AKMEraPart2" _.strength="0.1"/>
+            <ref name="AKMEraPart1" _.strength="0.4" />
+            <ref name="AKMEraPart2" _.strength="0.1" />
         </entry>
     </entry>
 </document>

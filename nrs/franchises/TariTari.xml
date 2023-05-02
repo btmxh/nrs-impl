@@ -1,21 +1,29 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
-
 <document>
     <entry id="F-VGMDB-4296" title="TARI TARI">
 
-        <entry id="A-MAL-13333" title="Tari Tari"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
+        <entry
+            id="A-MAL-13333"
+            title="Tari Tari"
+        > <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
             <source>
-                <adb id="13333"/>
-                <ks id="6941"/>
-                <al id="13333"/>
-                <mal id="13333"/>
+                <adb id="13333" />
+                <ks id="6941" />
+                <al id="13333" />
+                <mal id="13333" />
             </source>
 
-            <bestGirl name="Konatsu Miyamoto" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
+            <bestGirl
+                name="Konatsu Miyamoto"
+            /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
             <!-- pa works is the best atmospheric farmer -->
             <cry emotions="CU" />
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
 
             <visual type="animated" base="0.4" unique="0.3" />
             <killedBy id="F-VGMDB-7059" potential="0.6" effect="0.5" />
