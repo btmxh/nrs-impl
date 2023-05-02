@@ -41,9 +41,14 @@ jobs:
     steps:
       - name: Checkout sources
         uses: actions/checkout@v3.5.2
-      - uses: actionsx/prettier@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          args: --ignore-path .gitignore --check .
+          node-version: 18
+      - name: Install prettier
+        runs: npm install -g prettier @prettier/plugin-xml
+      - name: Run prettier check
+        runs: prettier --ignore-path .gitignore --check .
   release:
     runs-on: ubuntu-latest
     needs: [lint, validate, prettier]
