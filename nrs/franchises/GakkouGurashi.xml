@@ -15,7 +15,7 @@
         </entry>
 
         <entry id="M-20220211T055120" title="Gakuen Seikatsubu">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-52993" />

@@ -50,6 +50,9 @@
 
             <animeConsumedProgress status="Completed" boredom="1.0" episodes="9" />
             <dropped />
+            <!-- ep12 of this thing was watched, sure, but the other last episodes -->
+            <!-- (9-11 or some shit) were ditches because bla bla bla -->
+            <validatorSuppress rules="dah-no-dropped-impact" />
             <visual type="animated" base="0.5" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-83397-1" />
             <!-- domestic kanojo war arc -->
@@ -71,7 +74,7 @@
 
             <visual type="animated" base="0.5" unique="0.4" />
             <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         </entry>
 
         <entry id="A-MAL-43608" title="Kaguya-sama wa Kokurasetai: Ultra Romantic"> <!-- generatedBy="fill_anime_metadata.dart v0.1.1" -->
@@ -91,7 +94,7 @@
 
             <visual type="animated" base="0.5" unique="0.4" />
             <animeConsumedProgress status="Unwatched" boredom="0.0" episodes="0" />
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         </entry>
     </entry>
 </document>

@@ -3,7 +3,7 @@
 <document>
     <entry id="M-20220113T154228" title="Asterisk">
         <!-- "Initial commit" - 2022-01-13T15:42:28Z -->
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains id="M-20220130T183728-4" factor="1.0 / 3" />
         <contains id="M-20220117T170733-1" factor="0.5" />
@@ -12,7 +12,7 @@
     </entry>
 
     <entry id="M-20220130T183728-3" title="Rakakun">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains id="M-20220130T183728-4" factor="1.0 / 3" />
     </entry>
@@ -279,7 +279,7 @@
     </entry>
 
     <entry id="M-20220113T184042-2" title="tamame">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains factor="0.5">
             <entry id="M-20220113T184042-4" title="Colorful (tamame's apostate remix)">
@@ -431,7 +431,7 @@
     </entry>
 
     <entry id="M-20220130T185336-1" title="Will Stetson">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains id="M-20220130T185336-2" factor="0.3" />
         <contains id="M-20220317T064137-1" factor="0.45" />
@@ -522,7 +522,7 @@
     </entry>
 
     <entry id="M-20220117T170733-3" title="kamaboko">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains id="M-20220117T170733-2" factor="0.5" />
     </entry>
@@ -699,12 +699,12 @@
     </entry>
 
     <entry id="M-20220205T023322-2" title="H△G">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains id="M-20220205T023322-3" factor="0.75" />
 
         <entry id="M-20220818T163913-1" title="Everlasting Night of Teenage Girls">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <!-- Length source: https://open.spotify.com/album/2ztJCuDBki1rNOEi2TrH2W -->
             <entry id="M-20220818T163913-2" title="Shoujotachi no Owaranai Yoru">
@@ -723,7 +723,7 @@
         </entry>
 
         <entry id="M-20221202T203615" title="Rokugatsu no Himitsu Kichi">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <music base="0.45" />
             <osuSong personal="0.6" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1094362 -->
@@ -731,7 +731,7 @@
         </entry>
 
         <entry id="M-20221202T194015" title="HAG - Hoshikuzu Orchestra">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <music base="0.55" />
             <osuSong personal="0.5" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/804193 -->
@@ -740,7 +740,7 @@
     </entry>
 
     <entry id="M-20220211T055120" title="Chiho">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <contains id="M-20220205T023322-2" factor="0.5" />
     </entry>

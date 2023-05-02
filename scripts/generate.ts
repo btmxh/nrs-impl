@@ -1,11 +1,9 @@
 import {
   newContext,
   processContext,
-} from "https://raw.githubusercontent.com/ngoduyanh/nrs-lib-ts/v0.1.1/mod.ts";
-import {
   FileResolver,
   processNRSXML,
-} from "https://raw.githubusercontent.com/ngoduyanh/nrsml/v0.1.1/mod.ts";
+} from "./deps.ts";
 import { writableStreamFromWriter } from "https://deno.land/std@0.181.0/streams/mod.ts";
 import * as fs from "https://deno.land/std@0.182.0/fs/mod.ts";
 
@@ -28,6 +26,7 @@ const baseAnimeContextConfig = {
     DAH_serialize: {},
     DAH_serialize_json: {},
     DAH_standards: {},
+    DAH_validator_suppress: {},
   },
 };
 
@@ -54,7 +53,7 @@ const mainDocumentContent = Deno.readTextFileSync(mainDocumentPath);
 const { nrsData } = processNRSXML(
   context,
   mainDocumentContent,
-  fileResolver.getParseOptions(mainDocumentPath)
+  fileResolver.getProcessOptions(mainDocumentPath)
 );
 
 processContext(context, nrsData);

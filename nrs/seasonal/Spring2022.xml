@@ -12,6 +12,7 @@
         <bestGirl name="Kotone Kazairo" /> <!-- generatedBy="generate_best_girls.dart v0.1.0" -->
 
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="5" />
+        <dropped />
         <!-- weak character design, but the thing still looks cute -->
         <visual type="animated" base="0.75" unique="0.3" />
         <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.75" />

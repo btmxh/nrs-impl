@@ -25,7 +25,7 @@
         </entry>
 
         <entry id="M-20220324T055811" title="LiGHTs">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-104957" />

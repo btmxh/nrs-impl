@@ -9,7 +9,7 @@
             local.from = "_.from";
         </script>
         <!-- invoke the script itself -->
-        <script src="franchises/scripts/RSTSB69Music.js" entryPoint="sb69" />
+        <script src="../scripts/RSTSB69Music.js" entryPoint="sb69" />
         <!-- add the music impact -->
         <music base="_.base">
             <validatorSuppress rules="dah-rst-sb69-music-impact" />
@@ -22,7 +22,7 @@
             local.base = _.base;
             local.era = "_.era";
         </script>
-        <script src="franchises/../scripts/RSTSB69Music.js" entryPoint="sb69TrackMemeImpact" />
+        <script src="../scripts/RSTSB69Music.js" entryPoint="sb69TrackMemeImpact" />
         <children />
     </def>
 
@@ -673,7 +673,7 @@
         </entry>
 
         <entry id="M-20220125T063355-2" title="Plasmagica">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-94913" />
@@ -691,7 +691,7 @@
         </entry>
 
         <entry id="M-20220125T063355-3" title="Tsurezurenaru Ayatsuri Mugenan">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-51278" />
@@ -699,7 +699,7 @@
         </entry>
 
         <entry id="M-20220125T063355-4" title="Mashumairesh!!">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-93440" />
@@ -712,7 +712,7 @@
         </entry>
 
         <entry id="M-20220125T063355-5" title="BUD VIRGIN LOGIC">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-61940" />
@@ -721,7 +721,7 @@
         </entry>
 
         <entry id="M-20220125T063355-7" title="Criticrista">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-104266-6" />
@@ -786,7 +786,7 @@
     </ref>
 
     <entry id="M-20221127T140645" title="Bibibeach Bibibibeach! (411 Socacore Remix)">
-        <validatorSuppress rules="dah-entry-no-consumed" />
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092567 -->
         <musicConsumedProgress length="4:32" />

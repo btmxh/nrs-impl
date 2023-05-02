@@ -21,6 +21,7 @@
             <!-- (btw i haven't watch the last 3 episodes yet, so idk what -->
             <!-- happened there) -->
             <animeConsumedProgress status="Dropped" boredom="0.9" episodes="9" />
+            <dropped />
 
             <!-- first anime to do cp-farming -->
             <aei base="0.8" emotions="CP" />

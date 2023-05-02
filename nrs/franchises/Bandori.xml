@@ -277,7 +277,7 @@
     <entry id="M-VGMDB-AR-31509" title="SILENT SIREN"> <!-- generatedBy="fill_music_metadata.dart v0.1.1" -->
 
         <entry id="M-20220130T183728-1" title="S">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
             <!-- 3d girl ew /s -->
             <visual type="albumArt" base="0.1" unique="0.15" />
