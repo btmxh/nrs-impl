@@ -70,6 +70,7 @@
     <include src="franchises/SelePro.xml" />
     <include src="franchises/ShichiseiSubaru.xml" />
     <include src="franchises/ShinkaiMovies.xml" />
+    <include src="franchises/Shirobako.xml" />
     <include src="franchises/SoraMethod.xml" />
     <include src="franchises/SoraYori.xml" />
     <include src="seasonal/Spring2022.xml" />
