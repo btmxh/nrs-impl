@@ -941,9 +941,12 @@
 
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
-                <musicConsumedProgress length="5:43" />
-                <music base="0.5" />
-                <remix id="M-VGMDB-AL-108194-5" />
+                <entry id="$-8" title="Raririreru, Ririro, Riraro">
+                    <musicConsumedProgress length="5:43" />
+                    <music base="0.5" />
+                    <remix id="M-VGMDB-AL-108194-5" />
+                    <nei base="0.2" emotions="CU" />
+                </entry>
             </entry>
 
             <contains id="M-VGMDB-AL-108194-5" />
@@ -956,6 +959,7 @@
         <entry id="$-4" title="ラリリレル、リリロ、リラロ">
             <musicConsumedProgress length="5:45" />
             <music base="0.5" />
+            <nei base="0.3" emotions="CU" />
         </entry>
 
         <entry id="$-5" title="Azure Reunion">
