@@ -32,7 +32,10 @@
 
         </entry>
 
-        <entry id="A-MAL-42282" title="Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X">
+        <entry
+            id="A-MAL-42282"
+            title="Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X"
+        >
             <source>
                 <adb id="15604" />
                 <al id="120209" />
@@ -55,7 +58,10 @@
             <nei base="0.5" emotions="AP" />
         </entry>
 
-        <entry id="M-VGMDB-AL-96350" title="Otome no Route wa Hitotsu ja Nai! / angela [Anime Edition]">
+        <entry
+            id="M-VGMDB-AL-96350"
+            title="Otome no Route wa Hitotsu ja Nai! / angela [Anime Edition]"
+        >
             <visual type="albumArt" base="0.4" unique="0.4" />
 
             <entry id="$-1" title="Otome no Route wa Hitotsu ja Nai!">
