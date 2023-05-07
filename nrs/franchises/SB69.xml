@@ -495,7 +495,10 @@
             <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
         </entry>
 
-        <entry id="M-20230507T160907" title="Hoshizora Light Story (DJ DEVILMINTKIRYU Remix)">
+        <entry
+            id="M-20230507T160907"
+            title="Hoshizora Light Story (DJ DEVILMINTKIRYU Remix)"
+        >
             <!-- pogpega howan tinhf 2023 -->
             <ref
                 name="FesALiveMusic"
