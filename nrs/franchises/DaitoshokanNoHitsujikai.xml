@@ -1,0 +1,111 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="F-VGMDB-3065" title="Daitoshokan no Hitsujikai">
+        <entry id="A-MAL-17827" title="Daitoshokan no Hitsujikai">
+            <source>
+                <adb id="9765" />
+                <al id="17827" />
+                <ks id="8002" />
+                <mal id="17827" />
+            </source>
+
+            <!-- haha himeno sena 2023 #367 i'm so funny -->
+            <bestGirl name="Shirasaki Tsugumi" />
+
+            <!-- NO :madge: kodachi is peak she deserves to be best girl -->
+            <!-- stfu kodachi L bozo mid like that franchise (:skull:) -->
+            <!-- (why did that run girls run stooped so low for that :skull:) -->
+            <!-- kana is better -->
+
+            <!-- the three most popular girls on myanimelist are actually -->
+            <!-- these funny individuals wtf, checkmate observists -->
+
+            <visual type="animated" base="0.4" unique="0.5" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
+
+            <!-- funny stuff -->
+            <nei base="0.8" emotions="AP" />
+
+            <featureMusic id="M-VGMDB-AL-48292-1" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-34086" title="Straight Sheep / Yumekai Biyori">
+            <visual type="albumArt" base="0.5" unique="0.6" />
+            <entry id="$-1" title="Straight Sheep">
+                <music base="0.4" />
+                <musicConsumedProgress length="4:00" />
+                <remix id="M-20230507T151127" />
+                <remix id="M-20230507T151751" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-48292" title="On my Sheep / Mitsuki Nakae">
+            <visual type="albumArt" base="0.4" unique="0.5" />
+
+            <entry id="$-1" title="On my Sheep">
+                <music base="0.5" />
+                <musicConsumedProgress length="3:50" />
+                <remix id="M-20230507T153203" />
+            </entry>
+        </entry>
+
+        <entry
+            id="M-VGMDB-AL-44261"
+            title="Daitoshokan no Hitsujikai -Dreaming Sheep- OP&amp;ED Maxi Single"
+        >
+            <visual type="albumArt" base="0.5" unique="0.6" />
+
+            <entry id="$-1" title="Dreaming Sheep">
+                <music base="0.4" />
+                <musicConsumedProgress length="4:21" />
+                <remix id="M-20230507T153901" />
+                <remix id="M-20230507T154204" />
+            </entry>
+        </entry>
+    </entry>
+
+    <entry
+        id="M-20230507T151127"
+        title="大図書館の羊飼いPV - ストレイトシープ(Epsilon Remix)"
+    >
+        <music base="0.35" />
+        <!-- Length source: https://soundcloud.com/sakuralys-epsilon/pv-epsilon-remix -->
+        <musicConsumedProgress length="4:42" />
+    </entry>
+
+    <entry
+        id="M-20230507T151751"
+        title="大図書館の羊飼いPV - ストレイトシープ(Epsilon Remix 2015)"
+    >
+        <music base="0.4" />
+        <!-- Length source: https://soundcloud.com/sakuralys-epsilon/pv-epsilon-remix-2015 -->
+        <musicConsumedProgress length="4:51" />
+    </entry>
+
+    <entry id="M-20230507T153203" title="Travelling Sheep">
+        <music base="0.5" />
+        <!-- from album A-Remix Nation 12 -->
+        <!-- Length source: https://www.discogs.com/release/6612909-Various-A-Remix-Nation-12 -->
+        <musicConsumedProgress length="5:27" />
+    </entry>
+
+    <entry id="M-20230507T153901" title="Vivacious Sheep">
+        <music base="0.5" />
+        <!-- from album A-Remix Nation 11 -->
+        <!-- Length source: https://www.discogs.com/release/5790859-Various-A-Remix-Nation-11 -->
+        <musicConsumedProgress length="5:01" />
+    </entry>
+
+    <entry
+        id="M-20230507T154204"
+        title=" 【大図書館の羊飼い -Dreaming Sheep-】 中恵光城 - Dreaming Sheep (UDON* Remix Live Edit) **Full Version** [172BPM] "
+    >
+        <music base="0.5" />
+        <!-- Length source: https://soundcloud.com/dj-udon-s-pecializ/dreaming-sheep-dreaming-sheep -->
+        <musicConsumedProgress length="5:16" />
+    </entry>
+</document>
