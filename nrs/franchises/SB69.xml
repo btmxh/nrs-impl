@@ -495,6 +495,22 @@
             <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
         </entry>
 
+        <entry id="M-20230507T160907" title="Hoshizora Light Story (DJ DEVILMINTKIRYU Remix)">
+            <!-- pogpega howan tinhf 2023 -->
+            <ref
+                name="FesALiveMusic"
+                _.base="0.3"
+                _.eras="ac=100.0"
+                _.from="ac"
+            />
+
+            <!-- 2023-03-22 is when my first period of physics I started -->
+            <meme strength="0.1" from="2023-03-22" to="today" />
+
+            <!-- Length source: https://show-by-rock-fes-a-live.fandom.com/wiki/Starry_Sky_Light_Story_(DJ_DEVILMINTKIRYU_Remix)#Game_Stats -->
+            <musicConsumedProgress length="1:46" />
+        </entry>
+
         <entry id="M-VGMDB-AL-93441" title="Yell and Response / Mashumairesh!!">
 
             <visual type="albumArt" base="0.5" unique="0.3" />
