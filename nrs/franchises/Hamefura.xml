@@ -1,0 +1,67 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry
+        id="F-VGMDB-9856"
+        title="Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta..."
+    >
+        <entry
+            id="A-MAL-38555"
+            title="Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta..."
+        >
+            <source>
+                <adb id="14449" />
+                <al id="104647" />
+                <ks id="42277" />
+                <mal id="38555" />
+            </source>
+            <!-- mid tbh -->
+
+            <!-- down bad -->
+            <bestGirl name="Sophia Ascart" />
+
+            <visual type="animated" base="0.4" unique="0.4" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="12"
+            />
+
+            <!-- down bad and horrendous individuals -->
+            <!-- haha bakarina -->
+            <nei base="0.75" emotions="AP" />
+
+        </entry>
+
+        <entry id="A-MAL-42282" title="Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X">
+            <source>
+                <adb id="15604" />
+                <al id="120209" />
+                <ks id="43238" />
+                <mal id="42282" />
+            </source>
+
+            <!-- asmr girl -->
+            <bestGirl name="Ema Yasuhara" />
+
+            <visual type="animated" base="0.4" unique="0.4" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="12"
+            />
+
+            <!-- down bad and horrendous individuals -->
+            <!-- haha bakarina -->
+            <nei base="0.5" emotions="AP" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-96350" title="Otome no Route wa Hitotsu ja Nai! / angela [Anime Edition]">
+            <visual type="albumArt" base="0.4" unique="0.4" />
+
+            <entry id="$-1" title="Otome no Route wa Hitotsu ja Nai!">
+                <music base="0.6" />
+                <musicConsumedProgress length="3:57" />
+            </entry>
+        </entry>
+    </entry>
+</document>

@@ -27,6 +27,7 @@
     <include src="franchises/GakkouGurashi.xml" />
     <include src="franchises/GochiUsa.xml" />
     <include src="franchises/Gotoubun.xml" />
+    <include src="franchises/Hamefura.xml" />
     <include src="franchises/Hanayamata.xml" />
     <include src="franchises/HelloWorld.xml" />
     <include src="franchises/Idolmaster.xml" />
