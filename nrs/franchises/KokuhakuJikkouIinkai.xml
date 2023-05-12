@@ -242,12 +242,17 @@
                         <musicConsumedProgress length="3:39" />
                         <music base="0.5" />
                         <!-- propaganda noises -->
+                        <!-- (AACM: anti-anxiety-crisis movement) -->
                         <politics>
                             <contributor
                                 id="M-VGMDB-AL-127729-9"
                                 factor="0.4"
                             />
-                            <contributor id="idk [null entry]" factor="0.6" />
+                            <contributor
+                                id="M-VGMDB-AL-125426-1"
+                                factor="0.2"
+                            />
+                            <contributor id="idk [null entry]" factor="0.4" />
                         </politics>
                     </entry>
                 </entry>
