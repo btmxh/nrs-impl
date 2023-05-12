@@ -1,0 +1,39 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="F-VGMDB-6142" title="toji no miko">
+        <entry id="A-MAL-35589" title="Toji no Miko">
+            <source>
+                <adb id="35589" />
+                <ks id="13710" />
+                <al id="98747" />
+                <mal id="35589" />
+            </source>
+
+            <bestGirl name="Tagitsuhime" />
+            <!-- i hate my life -->
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="24"
+            />
+
+            <!-- decent plot ngl -->
+            <nei base="0.8" emotions="AP" />
+            <visual type="animated" base="0.5" unique="0.4" />
+            <featureMusic id="M-VGMDB-AL-76254-1" />
+        </entry>
+
+        <entry
+            id="M-VGMDB-AL-76254"
+            title="Shinkakei Colors / Kanami Eto (CV: Kaede Hondo), Hiyori Jujo (CV: Saori Onishi), Mai Yanase (CV: Azumi Waki), Sayaka Itomi (CV: Hina Kino), Kaoru Mashiko (CV: Risae Matsuda), Eren Kohagura (CV: Eri Suzuki)"
+        >
+            <visual type="albumArt" base="0.5" unique="0.4" />
+
+            <entry id="$-1" title="Shinkakei Colors">
+                <music base="0.5" />
+                <musicConsumedProgress length="4:22" />
+            </entry>
+        </entry>
+    </entry>
+</document>

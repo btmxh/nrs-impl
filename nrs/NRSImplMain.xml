@@ -86,6 +86,7 @@
     <include src="franchises/TensaiOuji.xml" />
     <include src="franchises/TenseiOujo.xml" />
     <include src="franchises/Tenshi3P.xml" />
+    <include src="franchises/TojiNoMiko.xml" />
     <include src="franchises/ToniKawa.xml" />
     <include src="franchises/UchiageHanabi.xml" />
     <include src="franchises/Vocaloid.xml" />
@@ -795,24 +796,6 @@
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.5" unique="0.2" />
         <featureMusic id="M-VGMDB-AL-51254-1" />
-    </entry>
-
-    <entry id="A-MAL-35589" title="Toji no Miko">
-        <source>
-            <adb id="35589" />
-            <ks id="13710" />
-            <al id="98747" />
-            <mal id="35589" />
-        </source>
-
-        <bestGirl name="Tagitsuhime" />
-        <!-- i hate my life -->
-
-        <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
-
-        <!-- decent plot ngl -->
-        <nei base="0.8" emotions="AP" />
-        <visual type="animated" base="0.5" unique="0.4" />
     </entry>
 
     <entry id="A-MAL-38091" title="Hachigatsu no Cinderella Nine (TV)">
