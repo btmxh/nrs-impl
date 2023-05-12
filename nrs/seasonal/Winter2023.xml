@@ -86,4 +86,58 @@
 
     <!-- the reason of all this is that fucking koikake girl -->
     <!-- i fucking hate her -->
+
+    <entry
+        id="F-VGMDB-12319"
+        title="Eiyuuou, Bu wo Kiwameru Tame Tenseisu ~Soshite, Sekai Saikyou no Minarai Kishi♀~"
+    >
+        <entry
+            id="A-MAL-50481"
+            title="Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
+        >
+            <source>
+                <adb id="17015" />
+                <al id="142193" />
+                <ks id="45548" />
+                <mal id="50481" />
+            </source>
+
+            <bestGirl name="Inglis Eucus" />
+            <!-- akari kito bla bla bla -->
+
+            <!-- the "rani" meme -->
+            <meme strength="0.3" from="2023-01-31" to="2023-03-31" />
+
+            <visual type="animated" base="0.3" unique="0.8" />
+
+            <!-- i disregarded this anime but this thing turned out to be -->
+            <!-- funny and humorous asf :skull: -->
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="12"
+            />
+            <featureMusic id="M-VGMDB-AL-125425-1" />
+            <featureMusic id="M-VGMDB-AL-125426-1" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-125425" title="DAY1 / AUO feat. MORISAKI WIN">
+            <visual type="albumArt" base="0.3" unique="0.9" />
+
+            <entry id="$-1" title="DAY1">
+                <!-- i also disregarded this op but it ĭ̴̢̝̜͉̍̂́͂̄͂͂̕͝n̶̦̥̟̺̯͕͚͙̹͉͇̗̖̽̽͊̿̈́̕͜͜f̴͕͍̳̊̒͆̾̏͛̋͒̏͊͛̕͠͝e̴͚̰͔͉̟̦̦̩̞͓̺̲̓͆̚c̷̢̨̨̘̭̟͚̜̱͇̮̫͓̗̅̈́͆̋̓͐̅́͌͛̓̈͛̕͝ẗ̴̫́͋̔̀͋̒̕e̶̖͗̐̔̊͒̀͝d̸͇̄̒̐̀͑̌̓͘͠ me -->
+                <music base="0.25" />
+                <musicConsumedProgress length="3:58" />
+            </entry>
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-125426" title="Self Hug Big Love / Yui Nishio">
+        <entry id="$-1" title="Self Hug Big Love">
+            <!-- i also disregarded this (this should not come as a -->
+            <!-- surprise anymore lol) but ACCM lmfao -->
+            <music base="0.3" />
+            <musicConsumedProgress length="3:47" />
+        </entry>
+    </entry>
 </document>
