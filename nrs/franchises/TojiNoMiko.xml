@@ -12,7 +12,11 @@
             <bestGirl name="Tagitsuhime" />
             <!-- i hate my life -->
 
-            <animeConsumedProgress status="Completed" boredom="1.0" episodes="24" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="24"
+            />
 
             <!-- decent plot ngl -->
             <nei base="0.8" emotions="AP" />
@@ -20,7 +24,10 @@
             <featureMusic id="M-VGMDB-AL-76254-1" />
         </entry>
 
-        <entry id="M-VGMDB-AL-76254" title="Shinkakei Colors / Kanami Eto (CV: Kaede Hondo), Hiyori Jujo (CV: Saori Onishi), Mai Yanase (CV: Azumi Waki), Sayaka Itomi (CV: Hina Kino), Kaoru Mashiko (CV: Risae Matsuda), Eren Kohagura (CV: Eri Suzuki)">
+        <entry
+            id="M-VGMDB-AL-76254"
+            title="Shinkakei Colors / Kanami Eto (CV: Kaede Hondo), Hiyori Jujo (CV: Saori Onishi), Mai Yanase (CV: Azumi Waki), Sayaka Itomi (CV: Hina Kino), Kaoru Mashiko (CV: Risae Matsuda), Eren Kohagura (CV: Eri Suzuki)"
+        >
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Shinkakei Colors">
