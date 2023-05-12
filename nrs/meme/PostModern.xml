@@ -58,7 +58,12 @@
         <!-- i enjoyed it tho -->
 
         <!-- Length source: https://www.youtube.com/watch?v=3PqgxpLK2p8 -->
-        <animeConsumedProgress status="Completed" boredom="1.0" episodes="1" episodeDuration="1:28:11" />
+        <animeConsumedProgress
+            status="Completed"
+            boredom="1.0"
+            episodes="1"
+            episodeDuration="1:28:11"
+        />
         <validatorSuppress rules="dah-no-visual" />
 
         <nei base="0.5" emotions="AP" />
