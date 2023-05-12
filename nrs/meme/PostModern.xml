@@ -65,6 +65,7 @@
             episodeDuration="1:28:11"
         />
         <validatorSuppress rules="dah-no-visual" />
+        <validatorSuppress rules="dah-no-best-girl" />
 
         <nei base="0.5" emotions="AP" />
     </entry>
