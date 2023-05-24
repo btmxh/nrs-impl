@@ -7,6 +7,7 @@ const val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
 const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate -->
 <!-- NijiNewGirlsContainFactor=1.0/16.5 -->
 <!-- NijiOldGirlContainFactor=1.5/16.5 -->
+<!-- love live top 1 in 2023 no fucking way!!1!!11! -->
 <document>
     <entry id="F-VGMDB-2588" title="Love Live!">
 
@@ -96,6 +97,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <entry id="$-1" title="Yuuki wa Doko ni? Kimi no Mune ni!">
                 <musicConsumedProgress length="4:44" />
                 <music base="0.6" />
+                <!-- welcome to ingsoc, big brother is watching you -->
+                <aei base="1.0" emotions="CU-0.75:CP-0.25" />
             </entry>
         </entry>
 
@@ -192,6 +195,42 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <entry id="$-1" title="NEO SKY, NEO MAP!">
                 <musicConsumedProgress length="4:38" />
                 <music base="0.65" />
+
+                <!-- Kyou no aoi sora wa kinou to chigau -->
+                <!-- Ashita no aoi sora~ kyou to chigau -->
+                <!-- Kimi no me ni wa -->
+                <!-- Boku no me ni wa -->
+                <!-- Aa kotoba ni naranai -->
+                <!-- Konna toki ni mo kimi ga ireba -->
+                <!-- Hotto suru -->
+                <!-- Dakara dakara ashita mo -->
+                <!-- Miageyou -->
+                <!-- Koko de kimi to... -->
+
+                <!-- fuck this crappy post-modern hell fuck the ssr and the bird issue -->
+                <!-- why can't this world be fun -->
+                <!-- why the fuck do we have to participate in a shithole -->
+                <!-- full of elitism while knowing fewer programming languages -->
+                <!-- than a 17-yo neet while forcing each other to study -->
+                <!-- pointless knowledge (what does "mômen quán tính" has to -->
+                <!-- do with programming :skull:) while the government -->
+                <!-- with their heisenberg bullshit basically destroy the -->
+                <!-- growth of old culture just because of some numbers being -->
+                <!-- a little bit too high -->
+                <!-- just fucking recreate the one-party state system from -->
+                <!-- the Autism Republic goddamnit i'm tired of this craphole -->
+                <!-- what the fuck do you mean by "sometimes in life you gotta -->
+                <!-- sacrifice and bla bla stfu -->
+                <!-- I HATE ARTIFICIAL INTELLIGENCE AND THEIR OVERRATED CLASSES -->
+                <!-- muh muh AI i have money please kill yourselves -->
+                <!-- i miss making the alternative osu replay renderer -->
+                <!-- i miss reimplementing the twitch chat to make a dumb -->
+                <!-- shitpost video -->
+                <!-- i miss making long osugame shitposts that got around 1-2k -->
+                <!-- upvotes on reddit (and calling idoly pride the pp anime) -->
+                <!-- i miss singing dream with you and fantasizing about the -->
+                <!-- Chuyen Thai Binh Girls' Dormitory -->
+                <aei base="0.6" emotions="CU-0.75:CP-0.25" />
             </entry>
         </entry>
 
