@@ -40,7 +40,7 @@
                 <al id="20657" />
                 <mal id="23277" />
             </source>
-            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
+            <bestGirl name="Megumi Katou" /> <!-- impl_overridden -->
 
             <featureMusic id="M-VGMDB-AL-48199-1" />
             <featureMusic id="M-VGMDB-AL-49446-1" />
@@ -60,7 +60,7 @@
                 <al id="21180" />
                 <mal id="30727" />
             </source>
-            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
+            <bestGirl name="Megumi Katou" /> <!-- impl_overridden -->
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -77,7 +77,7 @@
                 <al id="100675" />
                 <mal id="36885" />
             </source>
-            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
+            <bestGirl name="Megumi Katou" /> <!-- impl_overridden -->
             <!-- humor -->
             <nei base="0.25" emotions="AP" />
             <animeConsumedProgress
