@@ -290,9 +290,6 @@
             <musicConsumedProgress length="4:08" />
         </entry>
 
-        <!-- kano-era -->
-        <meme strength="0.8" from="2020-11-01" to="2021-04-01" />
-
         <contains factor="1/4">
             <!-- not precisely just music artists, so they would use the `O` prefix -->
             <entry id="O-20230524T223250" title="Hanayori Girls' Dormitory">
