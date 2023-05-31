@@ -5,12 +5,12 @@
         title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     >
 
-        <ref name="AKMEraPart2" _.strength="0.6">
+        <ref name="AKMEraPart2" a_strength="0.6">
             <contributor id="A-MAL-35507" factor="0.5" />
             <contributor id="A-MAL-51096" factor="0.5" />
         </ref>
 
-        <ref name="AKMEraPart3" _.strength="0.3">
+        <ref name="AKMEraPart3" a_strength="0.3">
             <contributor id="A-MAL-35507" factor="0.5" />
             <contributor id="A-MAL-51096" factor="0.5" />
         </ref>

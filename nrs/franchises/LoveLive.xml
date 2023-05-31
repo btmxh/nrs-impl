@@ -386,7 +386,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         </meme>
 
         <!-- le "song da" analogy -->
-        <ref name="AKMEraPart1" _.strength="0.05">
+        <ref name="AKMEraPart1" a_strength="0.05">
             <contributor id="A-MAL-40879" factor="0.25" />
             <contributor id="A-MAL-48916" factor="0.35" />
             <contributor id="A-MAL-15051" factor="0.05" />

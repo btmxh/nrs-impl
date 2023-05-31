@@ -57,9 +57,9 @@
         <music base="0.6" />
         <ref
             name="KoikakeNEI"
-            _.base="0.3"
-            _.contribution="0.7"
-            _.emotions="CU"
+            a_base="0.3"
+            a_contribution="0.7"
+            a_emotions="CU"
         />
     </entry>
 
@@ -81,7 +81,7 @@
             <!-- main girl" -->
 
             <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
+            <ref name="KoikakeCry" a_contribution="0.6" a_emotions="CU" />
         </entry>
 
         <entry id="$-90" title="Hand in Hand">
@@ -126,9 +126,9 @@
             <!-- (that is not segs fuck u) -->
             <ref
                 name="KoikakeNEI"
-                _.base="0.5"
-                _.contribution="0.7"
-                _.emotions="CU-0.8:MP-0.2"
+                a_base="0.5"
+                a_contribution="0.7"
+                a_emotions="CU-0.8:MP-0.2"
             />
         </entry>
     </entry>
@@ -139,8 +139,8 @@
         <music base="0.45" /> <!-- a bit dull at times but... -->
         <ref
             name="KoikakeCry"
-            _.contribution="0.85"
-            _.emotions="MP-0.5:CU-0.5"
+            a_contribution="0.85"
+            a_emotions="MP-0.5:CU-0.5"
         />
         <!-- the part though wtf -->
         <!-- did not expect to be that good ?????????? -->

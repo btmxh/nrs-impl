@@ -7,14 +7,14 @@
         <!-- https://atelier.fandom.com/wiki/Escha_Malier -->
         <!-- https://atelier.fandom.com/wiki/Luis_Bester -->
 
-        <ref name="AKMEraPart2" _.strength="0.75">
+        <ref name="AKMEraPart2" a_strength="0.75">
             <contributor id="A-MAL-21167" factor="0.4" />
             <contributor id="G-VGMDB-1880" factor="0.3" />
             <contributor id="G-VGMDB-1090" factor="0.2" />
             <contributor id="G-VGMDB-3499" factor="0.1" />
         </ref>
 
-        <ref name="AKMEraPart3" _.strength="1.0">
+        <ref name="AKMEraPart3" a_strength="1.0">
             <contributor id="A-MAL-21167" factor="0.4" />
             <contributor id="G-VGMDB-1880" factor="0.3" />
             <contributor id="G-VGMDB-1090" factor="0.2" />

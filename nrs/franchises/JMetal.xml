@@ -69,9 +69,9 @@
 
                 <ref
                     name="KoikakeNEI"
-                    _.base="0.8"
-                    _.contribution="0.75"
-                    _.emotions="AU-0.5:MP-0.5"
+                    a_base="0.8"
+                    a_contribution="0.75"
+                    a_emotions="AU-0.5:MP-0.5"
                 />
             </entry>
         </entry>

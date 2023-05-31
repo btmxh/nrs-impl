@@ -515,15 +515,15 @@
         <contains id="M-VGMDB-AL-104618" factor="vocal + image * feat" />
 
         <!-- the akari kito analogy lol -->
-        <ref name="AKMEraPart1" _.strength="0.05" />
+        <ref name="AKMEraPart1" a_strength="0.05" />
     </entry>
 
     <entry id="M-VGMDB-AR-10934" title="Ai Kayano">
 
         <contains id="M-20220125T063355-7" factor="1.0 / 4.0" />
-        <ref name="AKMEraPart1" _.strength="0.05" />
-        <ref name="AKMEraPart2" _.strength="0.1" />
-        <ref name="AKMEraPart2" _.strength="0.05" />
+        <ref name="AKMEraPart1" a_strength="0.05" />
+        <ref name="AKMEraPart2" a_strength="0.1" />
+        <ref name="AKMEraPart2" a_strength="0.05" />
     </entry>
 
     <entry id="M-VGMDB-AR-11958" title="Miku Sawai">
@@ -724,7 +724,7 @@
         <contains id="M-20221202T202405" factor="vocal" />
         <contains id="M-20221202T205325" factor="vocal" />
 
-        <ref name="NeoErogeEra" _.strength="0.05" />
+        <ref name="NeoErogeEra" a_strength="0.05" />
     </entry>
 
     <entry id="M-20220205T023322-2" title="H△G">
@@ -865,9 +865,9 @@
     <!-- say goodbye to your sanity -->
     <entry id="M-VGMDB-AR-8480" title="Rina Hidaka">
 
-        <ref name="AKMEraPart1" _.strength="0.3" />
-        <ref name="AKMEraPart2" _.strength="0.35" />
-        <ref name="AKMEraPart3" _.strength="0.3" />
+        <ref name="AKMEraPart1" a_strength="0.3" />
+        <ref name="AKMEraPart2" a_strength="0.35" />
+        <ref name="AKMEraPart3" a_strength="0.3" />
         <!-- (not the whole cricri unit) -->
         <contains id="M-20220125T063355-7" factor="0.25" />
 
@@ -884,9 +884,9 @@
         <!-- congrats u have escaped the fate of a cricri girl -->
         <!-- now prepare to be a new seasonal waifu va lol -->
 
-        <ref name="AKMEraPart1" _.strength="0.2" />
-        <ref name="AKMEraPart2" _.strength="0.3" />
-        <ref name="AKMEraPart3" _.strength="0.3" />
+        <ref name="AKMEraPart1" a_strength="0.2" />
+        <ref name="AKMEraPart2" a_strength="0.3" />
+        <ref name="AKMEraPart3" a_strength="0.3" />
         <!-- additional 0.25 because akm is sung by rosia and jacklyn -->
         <!-- (not the whole cricri unit) -->
         <contains id="M-20220125T063355-7" factor="0.25" />

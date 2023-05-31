@@ -2,28 +2,28 @@
 <document>
     <def
         name="FesALiveMusic"
-        vars="_.base:double,_.eras:string,_.from:string"
+        vars="a_base:double,a_eras:string,a_from:string"
         visibility="public"
     >
         <!-- bind macro variables to local scope -->
         <script>
-            local.base = _.base;
-            local.eras = "_.eras";
-            local.from = "_.from";
+            local.base = a_base;
+            local.eras = "a_eras";
+            local.from = "a_from";
         </script>
         <!-- invoke the script itself -->
         <script src="../scripts/RSTSB69Music.js" entryPoint="sb69" />
         <!-- add the music impact -->
-        <music base="_.base">
+        <music base="a_base">
             <validatorSuppress rules="dah-rst-sb69-music-impact" />
             <children />
         </music>
     </def>
 
-    <def name="SB69TrackMemeImpact" vars="_.base:double,_.era:string">
+    <def name="SB69TrackMemeImpact" vars="a_base:double,a_era:string">
         <script>
-            local.base = _.base;
-            local.era = "_.era";
+            local.base = a_base;
+            local.era = "a_era";
         </script>
         <script
             src="../scripts/RSTSB69Music.js"
@@ -246,9 +246,9 @@
                 <visual type="animatedMV" base="0.45" unique="0.3" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.35"
-                    _.eras="arc2=10.0"
-                    _.from="arc2"
+                    a_base="0.35"
+                    a_eras="arc2=10.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -263,9 +263,9 @@
                 <!-- (somewhat resemble kano) -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.25"
-                    _.eras="arc2=5.0"
-                    _.from="arc2"
+                    a_base="0.25"
+                    a_eras="arc2=5.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -278,9 +278,9 @@
                 <musicConsumedProgress length="4:17" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.25"
-                    _.eras="arc2=20.0"
-                    _.from="arc2"
+                    a_base="0.25"
+                    a_eras="arc2=20.0"
+                    a_from="arc2"
                 />
 
                 <remix id="M-20220125T063355-6" />
@@ -290,9 +290,9 @@
                 <musicConsumedProgress length="3:43" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.4"
-                    _.eras="arc2=10.0"
-                    _.from="arc2"
+                    a_base="0.4"
+                    a_eras="arc2=10.0"
+                    a_from="arc2"
                 />
 
                 <remix id="M-VGMDB-AL-61981-3" />
@@ -310,9 +310,9 @@
                 <musicConsumedProgress length="4:21" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.3"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.3"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -328,9 +328,9 @@
                 <musicConsumedProgress length="4:04" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
 
@@ -339,9 +339,9 @@
                 <!-- kekekekekekek -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.225"
-                    _.eras="arc2=15.0"
-                    _.from="arc2"
+                    a_base="0.225"
+                    a_eras="arc2=15.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -355,9 +355,9 @@
                 <musicConsumedProgress length="4:12" /> <!-- impl_overridden -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.7"
-                    _.eras="arc2=2.5"
-                    _.from="arc2"
+                    a_base="0.7"
+                    a_eras="arc2=2.5"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -373,9 +373,9 @@
                 <musicConsumedProgress length="3:46" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.4"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.4"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -391,9 +391,9 @@
                 <musicConsumedProgress length="5:03" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
 
@@ -401,9 +401,9 @@
                 <musicConsumedProgress length="4:02" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.35"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.35"
+                    a_eras=""
+                    a_from="arc2"
                 />
 
                 <nei base="0.25" emotions="MP" />
@@ -419,9 +419,9 @@
                 <!-- xd -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.2"
-                    _.eras="arc2=2.5"
-                    _.from="arc2"
+                    a_base="0.2"
+                    a_eras="arc2=2.5"
+                    a_from="arc2"
                 />
                 <meme strength="0.1" length="2" />
             </entry>
@@ -449,9 +449,9 @@
                 <musicConsumedProgress length="4:14" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.6"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.6"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
 
@@ -460,9 +460,9 @@
                 <!-- hahahahahaaha the howan tinh song -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.25"
-                    _.eras="arc2=20.0:arc3=10.0"
-                    _.from="arc2"
+                    a_base="0.25"
+                    a_eras="arc2=20.0:arc3=10.0"
+                    a_from="arc2"
                 />
                 <meme strength="0.01" from="2022-04-01" to="today" />
                 <remix id="M-20220702T030659" />
@@ -472,9 +472,9 @@
                 <musicConsumedProgress length="4:15" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.6"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.6"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -488,9 +488,9 @@
             <!-- Length source: (rip db.showbyrock.net) -->
             <ref
                 name="FesALiveMusic"
-                _.base="0.4"
-                _.eras="arc2=20.0:arc3=10.0"
-                _.from="arc2"
+                a_base="0.4"
+                a_eras="arc2=20.0:arc3=10.0"
+                a_from="arc2"
             />
             <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
         </entry>
@@ -502,9 +502,9 @@
             <!-- pogpega howan tinhf 2023 -->
             <ref
                 name="FesALiveMusic"
-                _.base="0.3"
-                _.eras="ac=100.0"
-                _.from="ac"
+                a_base="0.3"
+                a_eras="ac=100.0"
+                a_from="ac"
             />
 
             <!-- 2023-03-22 is when my first period of physics I started -->
@@ -522,9 +522,9 @@
                 <musicConsumedProgress length="3:46" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.2"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.2"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -542,9 +542,9 @@
                 <!-- let's death, you will pay -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.6"
-                    _.eras="pme=10.0:nee=2.0"
-                    _.from="arc2"
+                    a_base="0.6"
+                    a_eras="pme=10.0:nee=2.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -562,9 +562,9 @@
                 <!-- or the counting song -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras="arc2=10.0"
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras="arc2=10.0"
+                    a_from="arc2"
                 />
             </entry>
 
@@ -572,9 +572,9 @@
                 <musicConsumedProgress length="4:05" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.35"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.35"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -591,9 +591,9 @@
                 <!-- do it party reference lmfao -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.65"
-                    _.eras="arc2=2.5"
-                    _.from="arc2"
+                    a_base="0.65"
+                    a_eras="arc2=2.5"
+                    a_from="arc2"
                 />
             </entry>
 
@@ -606,9 +606,9 @@
 
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras="akm1=10.0"
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras="akm1=10.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -624,9 +624,9 @@
                 <musicConsumedProgress length="4:22" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras=""
+                    a_from="arc2"
                 />
                 <!-- Và bước đi, và bước đi -->
                 <!-- Con đường đầy máu, bao chông gai, đớn buồn -->
@@ -648,9 +648,9 @@
                 <musicConsumedProgress length="3:42" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.25"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.25"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
 
@@ -660,9 +660,9 @@
                 <!-- lmfao -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.65"
-                    _.eras="arc2=10.0"
-                    _.from="arc2"
+                    a_base="0.65"
+                    a_eras="arc2=10.0"
+                    a_from="arc2"
                 />
 
                 <!-- there's no one who is cooler -->
@@ -680,9 +680,9 @@
                 <musicConsumedProgress length="5:00" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras="akm1=10.0"
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras="akm1=10.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -699,9 +699,9 @@
                 <!-- skull bruh skill issue wtf osuhow pogpega pepejam -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
 
@@ -711,9 +711,9 @@
                 <!-- himeno sena 2023 fascism neo-autism nozsism autism -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -729,9 +729,9 @@
                 <musicConsumedProgress length="3:44" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.65"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.65"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -751,9 +751,9 @@
                 <musicConsumedProgress length="4:26" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.35"
-                    _.eras="arc2=5.0"
-                    _.from="arc2"
+                    a_base="0.35"
+                    a_eras="arc2=5.0"
+                    a_from="arc2"
                 />
             </entry>
 
@@ -769,9 +769,9 @@
                 <musicConsumedProgress length="4:23" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.5"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -785,9 +785,9 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.35"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.35"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -800,9 +800,9 @@
                 <musicConsumedProgress length="3:42" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.65"
-                    _.eras="akm1=10.0"
-                    _.from="arc2"
+                    a_base="0.65"
+                    a_eras="akm1=10.0"
+                    a_from="arc2"
                 />
             </entry>
         </entry>
@@ -815,9 +815,9 @@
                 <!-- what else do you expect xddddddddddddd -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.7"
-                    _.eras="nee=100.0"
-                    _.from="arc2"
+                    a_base="0.7"
+                    a_eras="nee=100.0"
+                    a_from="arc2"
                 />
                 <!-- welcome to the post-modern shithole where everything is political -->
                 <!-- NOZSP is truly the party of all time -->
@@ -837,9 +837,9 @@
                 <!-- :tf: -->
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.25"
-                    _.eras=""
-                    _.from="arc2"
+                    a_base="0.25"
+                    a_eras=""
+                    a_from="arc2"
                 />
             </entry>
 
@@ -863,9 +863,9 @@
 
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.8"
-                    _.eras="arc2=3.0"
-                    _.from="arc2"
+                    a_base="0.8"
+                    a_eras="arc2=3.0"
+                    a_from="arc2"
                 />
                 <nei base="0.5" emotions="MP" />
 
@@ -887,9 +887,9 @@
                 <!-- And together we will [shine our dreams] (lmfao rst song comp diff name) -->
 
                 <!-- "morbius is a movie of all time" -->
-                <ref name="AKMEraPart1" _.strength="1.0" />
-                <ref name="AKMEraPart2" _.strength="1.0" />
-                <ref name="AKMEraPart3" _.strength="0.6" />
+                <ref name="AKMEraPart1" a_strength="1.0" />
+                <ref name="AKMEraPart2" a_strength="1.0" />
+                <ref name="AKMEraPart3" a_strength="0.6" />
             </entry>
         </entry>
 
@@ -902,9 +902,9 @@
                 <musicConsumedProgress length="4:01" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.6"
-                    _.eras="akm1=5.0"
-                    _.from="akm1"
+                    a_base="0.6"
+                    a_eras="akm1=5.0"
+                    a_from="akm1"
                 />
             </entry>
         </entry>
@@ -916,9 +916,9 @@
                 <musicConsumedProgress length="3:44" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.5"
-                    _.eras="akm1=5.0"
-                    _.from="akm1"
+                    a_base="0.5"
+                    a_eras="akm1=5.0"
+                    a_from="akm1"
                 />
             </entry>
         </entry>
@@ -934,17 +934,17 @@
                 <musicConsumedProgress length="3:54" />
                 <ref
                     name="FesALiveMusic"
-                    _.base="0.7"
-                    _.eras="nee=5.0"
-                    _.from="nee"
+                    a_base="0.7"
+                    a_eras="nee=5.0"
+                    a_from="nee"
                 />
                 <!-- cleaning koikake :tf: -->
                 <!-- <aei base="0.3" emotions="MP" /> -->
                 <ref
                     name="KoikakeAEI"
-                    _.base="0.3"
-                    _.contribution="0.7"
-                    _.emotions="MP"
+                    a_base="0.3"
+                    a_contribution="0.7"
+                    a_emotions="MP"
                 />
             </entry>
         </entry>
@@ -954,7 +954,7 @@
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Koishichatta!">
                 <musicConsumedProgress length="4:17" />
-                <ref name="FesALiveMusic" _.base="0.3" _.eras="" _.from="nee" />
+                <ref name="FesALiveMusic" a_base="0.3" a_eras="" a_from="nee" />
             </entry>
         </entry>
 
@@ -1038,40 +1038,40 @@
         <osuSong personal="0.75" community="0.0" />
     </entry>
 
-    <ref name="RSTSB69DuopolyEra" _.strength="0.8">
+    <ref name="RSTSB69DuopolyEra" a_strength="0.8">
         <contributor id="A-MAL-27441" factor="0.2" />
         <contributor id="A-MAL-32038" factor="0.25" />
         <contributor id="A-MAL-40763" factor="0.05" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.1" />
-        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="arc2" />
+        <ref name="SB69TrackMemeImpact" a_base="0.2" a_era="arc2" />
     </ref>
 
-    <ref name="AKMEraPart1" _.strength="0.3">
+    <ref name="AKMEraPart1" a_strength="0.3">
         <contributor id="A-MAL-27441" factor="0.2" />
         <contributor id="A-MAL-32038" factor="0.25" />
         <contributor id="A-MAL-40763" factor="0.1" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.05" />
-        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm1" />
+        <ref name="SB69TrackMemeImpact" a_base="0.2" a_era="akm1" />
     </ref>
 
-    <ref name="AKMEraPart2" _.strength="0.75">
+    <ref name="AKMEraPart2" a_strength="0.75">
         <contributor id="A-MAL-27441" factor="0.2" />
         <contributor id="A-MAL-32038" factor="0.25" />
         <contributor id="A-MAL-40763" factor="0.1" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.05" />
-        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm2" />
+        <ref name="SB69TrackMemeImpact" a_base="0.2" a_era="akm2" />
     </ref>
 
-    <ref name="AKMEraPart3" _.strength="0.4">
+    <ref name="AKMEraPart3" a_strength="0.4">
         <contributor id="A-MAL-27441" factor="0.2" />
         <contributor id="A-MAL-32038" factor="0.25" />
         <contributor id="A-MAL-40763" factor="0.1" />
         <contributor id="A-MAL-41520" factor="0.2" />
         <contributor id="G-VGMDB-8429" factor="0.05" />
-        <ref name="SB69TrackMemeImpact" _.base="0.2" _.era="akm3" />
+        <ref name="SB69TrackMemeImpact" a_base="0.2" a_era="akm3" />
     </ref>
 
     <entry
@@ -1098,8 +1098,8 @@
     <!-- that was unable to be meta'd for longer than a month -->
     <!-- while literally a song not even 5 minutes was able -->
     <!-- to turn modern culture into the shittiest hellhole ever. -->
-    <def name="AKMEraPart1" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-06-03" to="2022-07-17">
+    <def name="AKMEraPart1" vars="a_strength:double" visibility="public">
+        <meme strength="a_strength" from="2022-06-03" to="2022-07-17">
             <children />
         </meme>
     </def>
@@ -1161,8 +1161,8 @@
     <!-- i hate the mc -->
     <!-- fuck her -->
     <!-- (pls save me) -->
-    <def name="AKMEraPart2" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-07-21" to="2022-08-31">
+    <def name="AKMEraPart2" vars="a_strength:double" visibility="public">
+        <meme strength="a_strength" from="2022-07-21" to="2022-08-31">
             <children />
         </meme>
     </def>
@@ -1186,8 +1186,8 @@
     <!-- after the glorious days of modern culture, we will live in a society -->
     <!-- where only rst and sb69 are able to benefit from it (more idol dystopia -->
     <!-- let's gooooooooo) -->
-    <def name="AKMEraPart3" vars="_.strength:double" visibility="public">
-        <meme strength="_.strength" from="2022-09-01" to="2022-10-01">
+    <def name="AKMEraPart3" vars="a_strength:double" visibility="public">
+        <meme strength="a_strength" from="2022-09-01" to="2022-10-01">
             <children />
         </meme>
     </def>

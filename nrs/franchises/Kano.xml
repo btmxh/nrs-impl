@@ -166,7 +166,7 @@
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
                 <!-- https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
-                <ref name="KoikakeCry" _.contribution="0.7" _.emotions="CU" />
+                <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
             </entry>
 
             <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
@@ -215,9 +215,9 @@
                     <nei base="0.5" emotions="CU" />
                     <ref
                         name="KoikakeNEI"
-                        _.base="0.4"
-                        _.contribution="0.7"
-                        _.emotions="CU-0.8:MP-0.2"
+                        a_base="0.4"
+                        a_contribution="0.7"
+                        a_emotions="CU-0.8:MP-0.2"
                     />
                 </entry>
 
@@ -240,9 +240,9 @@
                     <nei base="0.25" emotions="CU" />
                     <ref
                         name="KoikakeNEI"
-                        _.base="0.5"
-                        _.contribution="0.8"
-                        _.emotions="CU-0.5:MP-0.4:CP-0.1"
+                        a_base="0.5"
+                        a_contribution="0.8"
+                        a_emotions="CU-0.5:MP-0.4:CP-0.1"
                     />
                 </entry>
             </entry>
