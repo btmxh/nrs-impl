@@ -46,7 +46,7 @@
             <visual type="albumArt" base="0.5" unique="0.4" />
             <entry id="$-2" title="Ding Dong Holy Night♪">
                 <musicConsumedProgress length="4:18" />
-                <music base="0.45" />
+                <music base="0.49" />
                 <osuSong personal="0.5" community="0.0" />
             </entry>
         </entry>

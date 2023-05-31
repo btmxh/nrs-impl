@@ -40,7 +40,7 @@
             <visual type="albumArt" base="0.4" unique="0.75" />
             <entry id="$-3" title="Guruguru DJ TURN!!">
                 <musicConsumedProgress length="3:43" />
-                <music base="0.35" />
+                <music base="0.31" />
             </entry>
         </entry>
 
@@ -54,7 +54,7 @@
             <entry id="$-2" title="Brand New World">
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 <musicConsumedProgress length="4:06" /> <!-- impl_overridden -->
-                <music base="0.4" />
+                <music base="0.44" />
             </entry>
         </entry>
     </entry>

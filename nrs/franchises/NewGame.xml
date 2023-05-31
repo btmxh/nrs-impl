@@ -73,7 +73,7 @@
             <visual type="albumArt" base="0.7" unique="0.3" />
             <entry id="$-1" title="Now Loading!!!!">
                 <musicConsumedProgress length="4:13" />
-                <music base="0.4" />
+                <music base="0.44" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
@@ -85,7 +85,7 @@
                 <musicConsumedProgress length="4:12" />
                 <!-- mankai step by step -->
                 <!-- this song is legendary af -->
-                <music base="0.5" />
+                <music base="0.43" />
                 <osuSong personal="0.8" community="0.0" />
             </entry>
         </entry>

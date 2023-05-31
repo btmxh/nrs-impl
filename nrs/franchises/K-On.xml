@@ -11,7 +11,7 @@
 
                 <!-- binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD -->
                 <meme strength="0.1" length="6" />
-                <music base="0.25" />
+                <music base="0.36" />
             </entry>
         </entry>
 
@@ -25,7 +25,7 @@
             <entry id="$-9" title="Tenshi ni Fureta yo!">
                 <musicConsumedProgress length="4:42" />
 
-                <music base="0.05" />
+                <music base="0.13" />
             </entry>
         </entry>
 
@@ -38,7 +38,7 @@
 
             <entry id="$-2" title="U&amp;I">
                 <musicConsumedProgress length="4:36" />
-                <music base="0.1" />
+                <music base="0.18" />
             </entry>
         </entry>
 

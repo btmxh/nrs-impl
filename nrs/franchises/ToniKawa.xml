@@ -31,7 +31,7 @@
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
                 <musicConsumedProgress length="3:29" />
-                <music base="0.4" />
+                <music base="0.40" />
             </entry>
         </entry>
     </entry>

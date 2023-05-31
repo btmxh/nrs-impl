@@ -12,7 +12,7 @@
 
             <entry id="$-1" title="STAR BEAT! ~Hoshi no Kodou~">
                 <musicConsumedProgress length="5:19" />
-                <music base="0.4" />
+                <music base="0.47" />
             </entry>
         </entry>
 
@@ -25,12 +25,12 @@
 
             <entry id="$-1" title="Tokimeki Experience!">
                 <musicConsumedProgress length="4:17" />
-                <music base="0.15" />
+                <music base="0.19" />
             </entry>
 
             <entry id="$-2" title="1000 kai Urunda Sora">
                 <musicConsumedProgress length="5:31" />
-                <music base="0.6" />
+                <music base="0.60" />
             </entry>
         </entry>
 
@@ -54,7 +54,7 @@
                 <!-- tu hao qua em toi nguoi thap len anh cau vong -->
                 <!-- nguoi mang den trai tim ta -->
                 <!-- bau... troi... mo... uoc -->
-                <music base="0.5" />
+                <music base="0.46" />
             </entry>
         </entry>
 
@@ -64,7 +64,7 @@
 
             <entry id="$-5" title="Koko kara Saki wa Uta ni Naranai">
                 <musicConsumedProgress length="4:37" />
-                <music base="0.45" />
+                <music base="0.53" />
             </entry>
         </entry>
 
@@ -76,7 +76,7 @@
                 <musicConsumedProgress length="5:09" />
                 <!-- naite naite -->
                 <!-- daite daite -->
-                <music base="0.6" />
+                <music base="0.53" />
             </entry>
         </entry>
 
@@ -94,7 +94,7 @@
 
             <entry id="$-2" title="Yume wo Uchinuku Shunkan ni!">
                 <musicConsumedProgress length="4:40" />
-                <music base="0.3" />
+                <music base="0.30" />
                 <!-- iykyk -->
                 <meme strength="0.05" length="10" />
             </entry>
@@ -120,7 +120,7 @@
 
             <entry id="$-1" title="FIRE BIRD">
                 <musicConsumedProgress length="5:25" />
-                <music base="0.35" />
+                <music base="0.42" />
             </entry>
         </entry>
 
@@ -166,7 +166,7 @@
 
             <entry id="$-1" title="Y.O.L.O!!!!!">
                 <musicConsumedProgress length="4:30" />
-                <music base="0.35" />
+                <music base="0.39" />
                 <osuSong personal="0.7" community="0.0" />
             </entry>
         </entry>
@@ -188,13 +188,13 @@
 
             <entry id="$-1" title="Cherry Bomb">
                 <musicConsumedProgress length="4:07" />
-                <music base="0.3" />
+                <music base="0.38" />
                 <osuSong personal="0.6" community="0.0" />
             </entry>
 
             <entry id="$-6" title="Harumodoki">
                 <musicConsumedProgress length="4:30" />
-                <music base="0.25" />
+                <music base="0.40" />
                 <osuSong personal="0.5" community="0.0" />
 
                 <remix id="M-20220130T183728-4" />
@@ -210,7 +210,7 @@
 
             <entry id="$-8" title="Silhouette">
                 <musicConsumedProgress length="4:01" />
-                <music base="0.5" />
+                <music base="0.43" />
                 <osuSong personal="0.55" community="0.0" />
             </entry>
         </entry>
@@ -219,7 +219,7 @@
             <visual type="albumArt" base="0.3" unique="0.3" />
             <entry id="$-3" title="Melancholic">
                 <musicConsumedProgress length="3:41" />
-                <music base="0.3" />
+                <music base="0.34" />
                 <osuSong personal="0.75" community="0.0" />
             </entry>
         </entry>
@@ -236,7 +236,7 @@
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Sacred world">
                 <musicConsumedProgress length="5:00" />
-                <music base="0.4" />
+                <music base="0.47" />
             </entry>
         </entry>
 
@@ -308,7 +308,7 @@
 
                 <!-- Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP -->
                 <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
-                <music base="0.25" />
+                <music base="0.32" />
                 <remix id="M-VGMDB-AL-106577-1" />
             </entry>
         </entry>
@@ -323,7 +323,7 @@
 
             <entry id="$-1" title="Silhouette">
                 <musicConsumedProgress length="4:01" />
-                <music base="0.4" />
+                <music base="0.36" />
                 <remix id="M-VGMDB-AL-114399-8" />
             </entry>
         </entry>
@@ -336,6 +336,6 @@
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138 -->
         <musicConsumedProgress length="2:15" /> <!-- impl_overridden -->
-        <music base="0.25" />
+        <music base="0.36" />
     </entry>
 </document>

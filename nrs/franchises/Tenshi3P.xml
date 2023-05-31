@@ -32,7 +32,7 @@
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Habataki no Birthday">
                 <musicConsumedProgress length="4:32" />
-                <music base="0.6" />
+                <music base="0.45" />
             </entry>
         </entry>
 
@@ -41,7 +41,7 @@
             <entry id="$-1" title="Kusabi">
                 <!-- Length source: https://music.apple.com/jp/album/e6-a5-94-single/1268529061?l=en -->
                 <musicConsumedProgress length="4:26" /> <!-- impl_overridden -->
-                <music base="0.3" />
+                <music base="0.26" />
             </entry>
         </entry>
     </entry>

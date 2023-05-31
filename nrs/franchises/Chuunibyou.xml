@@ -13,7 +13,7 @@
 
             <entry id="$-1" title="VOICE">
                 <musicConsumedProgress length="4:18" />
-                <music base="0.2" />
+                <music base="0.24" />
                 <osuSong personal="0.2" community="0.0" />
             </entry>
         </entry>

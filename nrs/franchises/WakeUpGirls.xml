@@ -31,7 +31,7 @@
 
             <entry id="$-1" title="Tachiagare!">
                 <musicConsumedProgress length="4:54" />
-                <music base="0.6" />
+                <music base="0.41" />
             </entry>
         </entry>
 
@@ -41,7 +41,7 @@
 
             <entry id="$-1" title="7 Girls War">
                 <musicConsumedProgress length="5:07" />
-                <music base="0.35" />
+                <music base="0.20" />
             </entry>
         </entry>
 
@@ -159,7 +159,7 @@
         <entry id="$-1" title="One In A Billion">
             <musicConsumedProgress length="4:17" />
             <osuSong personal="0.5" community="0.1" />
-            <music base="0.6" />
+            <music base="0.41" />
         </entry>
     </entry>
 </document>

@@ -40,7 +40,7 @@
             <visual type="albumArt" base="0.6" unique="0.4" />
             <entry id="$-1" title="Stargazer">
                 <musicConsumedProgress length="5:06" />
-                <music base="0.3" />
+                <music base="0.38" />
             </entry>
         </entry>
 

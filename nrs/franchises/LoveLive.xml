@@ -17,7 +17,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Snow halation">
                 <musicConsumedProgress length="4:17" />
-                <music base="0.25" />
+                <music base="0.32" />
                 <meme strength="0.1" length="6" />
                 <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
                 <!-- [Reform's Expert] +HDDT FC 417pp -->
@@ -30,7 +30,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Bokura wa Ima no Naka de">
                 <musicConsumedProgress length="4:36" />
-                <music base="0.3" />
+                <music base="0.34" />
             </entry>
         </entry>
 
@@ -40,7 +40,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-2" title="LOVELESS WORLD">
                 <musicConsumedProgress length="5:18" />
-                <music base="0.4" />
+                <music base="0.51" />
             </entry>
         </entry>
 
@@ -50,7 +50,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="A song for You! You? You!!">
                 <musicConsumedProgress length="5:53" />
-                <music base="0.5" />
+                <music base="0.54" />
             </entry>
         </entry>
 
@@ -70,7 +70,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Aozora Jumping Heart">
                 <musicConsumedProgress length="4:44" />
-                <music base="0.4" />
+                <music base="0.36" />
             </entry>
         </entry>
 
@@ -83,7 +83,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Kimeta yo Hand in Hand">
                 <musicConsumedProgress length="4:26" />
-                <music base="0.35" />
+                <music base="0.42" />
             </entry>
         </entry>
 
@@ -96,7 +96,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Yuuki wa Doko ni? Kimi no Mune ni!">
                 <musicConsumedProgress length="4:44" />
-                <music base="0.6" />
+                <music base="0.60" />
                 <!-- welcome to ingsoc, big brother is watching you -->
                 <aei base="1.0" emotions="CU-0.75:CP-0.25" />
             </entry>
@@ -111,7 +111,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-2" title="MIRACLE WAVE">
                 <musicConsumedProgress length="4:08" />
-                <music base="0.3" />
+                <music base="0.41" />
             </entry>
         </entry>
 
@@ -121,7 +121,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Thank you, FRIENDS!!">
                 <musicConsumedProgress length="6:23" />
-                <music base="0.35" />
+                <music base="0.39" />
             </entry>
         </entry>
 
@@ -131,7 +131,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Mitaiken HORIZON">
                 <musicConsumedProgress length="5:19" />
-                <music base="0.45" />
+                <music base="0.49" />
             </entry>
         </entry>
 
@@ -142,7 +142,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <visual type="albumArt" base="0.25" unique="0.4" />
             <entry id="$-3" title="DROPOUT!?">
                 <musicConsumedProgress length="3:56" />
-                <music base="0.4" />
+                <music base="0.40" />
                 <osuSong personal="0.4" community="0.0" />
             </entry>
         </entry>
@@ -168,7 +168,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Beginner's Sailing">
                 <musicConsumedProgress length="4:47" />
-                <music base="0.4" />
+                <music base="0.40" />
             </entry>
         </entry>
 
@@ -181,7 +181,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Nijiiro Passions!">
                 <musicConsumedProgress length="4:15" />
-                <music base="0.3" />
+                <music base="0.26" />
             </entry>
         </entry>
 
@@ -255,22 +255,22 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="TOKIMEKI Runners">
                 <musicConsumedProgress length="4:36" />
-                <music base="0.3" />
+                <music base="0.38" />
             </entry>
 
             <entry id="$-2" title="Yume e no Ippo">
                 <musicConsumedProgress length="4:47" />
-                <music base="0.05" />
+                <music base="0.16" />
             </entry>
 
             <entry id="$-8" title="CHASE!">
                 <musicConsumedProgress length="4:18" />
-                <music base="0.15" />
+                <music base="0.23" />
             </entry>
 
             <entry id="$-10" title="Dokipipo☆Emotion">
                 <musicConsumedProgress length="4:30" />
-                <music base="0.3" />
+                <music base="0.30" />
             </entry>
         </entry>
 
@@ -283,17 +283,17 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-10" title="Love U my friends">
                 <musicConsumedProgress length="4:00" />
-                <music base="0.3" />
+                <music base="0.41" />
             </entry>
 
             <entry id="$-1" title="Kaika Sengen">
                 <musicConsumedProgress length="4:19" />
-                <music base="0.2" />
+                <music base="0.24" />
             </entry>
 
             <entry id="$-7" title="MELODY">
                 <musicConsumedProgress length="4:29" />
-                <music base="0.45" />
+                <music base="0.53" />
             </entry>
         </entry>
 
@@ -306,22 +306,22 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-12" title="Just Believe!!!">
                 <musicConsumedProgress length="4:05" />
-                <music base="0.4" />
+                <music base="0.44" />
             </entry>
 
             <entry id="$-1" title="Say Good-Bye Namida">
                 <musicConsumedProgress length="4:01" />
-                <music base="0.25" />
+                <music base="0.32" />
             </entry>
 
             <entry id="$-3" title="Yagate Hitotsu no Monogatari">
                 <musicConsumedProgress length="4:20" />
-                <music base="0.25" />
+                <music base="0.29" />
             </entry>
 
             <entry id="$-7" title="LIKE IT! LOVE IT!">
                 <musicConsumedProgress length="4:21" />
-                <music base="0.55" />
+                <music base="0.48" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
         </entry>
@@ -335,7 +335,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-2" title="Break The System">
                 <musicConsumedProgress length="3:44" />
-                <music base="0.4" />
+                <music base="0.40" />
             </entry>
         </entry>
 
@@ -348,7 +348,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <!-- the first ayumu-era theme song -->
             <entry id="$-1" title="Dream with You">
                 <musicConsumedProgress length="4:18" />
-                <music base="0.1" />
+                <music base="0.10" />
                 <!-- the song is shit -->
                 <!-- but it started the most colorful era in autism history -->
                 <!-- the ayumu era -->
@@ -365,7 +365,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <entry id="$-1" title="Awakening Promise">
                 <musicConsumedProgress length="4:13" />
-                <music base="0.125" />
+                <music base="0.11" />
             </entry>
         </entry>
 
@@ -386,7 +386,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         </meme>
 
         <!-- le "song da" analogy -->
-        <ref name="AKMEraPart1" _.strength="0.05">
+        <ref name="AKMEraPart1" a_strength="0.05">
             <contributor id="A-MAL-40879" factor="0.25" />
             <contributor id="A-MAL-48916" factor="0.35" />
             <contributor id="A-MAL-15051" factor="0.05" />

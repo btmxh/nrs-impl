@@ -29,7 +29,7 @@
 
         <!-- yuiko version is probably the best, music-wise -->
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
-        <music base="0.65" />
+        <music base="0.54" />
         <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
     </entry>
 
@@ -37,7 +37,7 @@
 
         <!-- quite good, but they didn't keep the orig. inst. -->
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
-        <music base="0.5" />
+        <music base="0.46" />
         <musicConsumedProgress length="4:23" /> <!-- impl_overridden -->
     </entry>
 
@@ -46,7 +46,7 @@
         <visual type="semiAnimatedMV" base="0.6" unique="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
         <musicConsumedProgress length="4:23" />
-        <music base="0.65" />
+        <music base="0.58" />
         <osuSong personal="0.8" community="0.0" />
     </entry>
 
@@ -54,12 +54,12 @@
         <visual type="staticMV" base="0.2" unique="0.4" />
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         <musicConsumedProgress length="3:56" />
-        <music base="0.6" />
+        <music base="0.49" />
         <ref
             name="KoikakeNEI"
-            _.base="0.3"
-            _.contribution="0.7"
-            _.emotions="CU"
+            a_base="0.3"
+            a_contribution="0.7"
+            a_emotions="CU"
         />
     </entry>
 
@@ -80,24 +80,24 @@
             <!-- ayumu-era vocaloid songs while thinking about -->
             <!-- main girl" -->
 
-            <music base="0.5" />
-            <ref name="KoikakeCry" _.contribution="0.6" _.emotions="CU" />
+            <music base="0.54" />
+            <ref name="KoikakeCry" a_contribution="0.6" a_emotions="CU" />
         </entry>
 
         <entry id="$-90" title="Hand in Hand">
             <musicConsumedProgress length="2:57" />
-            <music base="0.4" />
+            <music base="0.40" />
         </entry>
 
         <entry id="$-91" title="ゴーストルール">
             <musicConsumedProgress length="3:30" />
-            <music base="0.3" />
+            <music base="0.34" />
             <osuSong personal="0.6" community="0.6" />
         </entry>
 
         <entry id="$-95" title="ヒバナ">
             <musicConsumedProgress length="3:27" />
-            <music base="0.4" />
+            <music base="0.36" />
             <osuSong personal="0.5" community="0.5" />
         </entry>
     </entry>
@@ -110,7 +110,7 @@
 
         <entry id="$-1" title="Hajimete no Koi ga Owaru Toki">
             <musicConsumedProgress length="5:15" />
-            <music base="0.5" />
+            <music base="0.50" />
 
             <!-- interesting bit of history: -->
             <!-- i found out this song from nayuta's cover -->
@@ -126,9 +126,9 @@
             <!-- (that is not segs fuck u) -->
             <ref
                 name="KoikakeNEI"
-                _.base="0.5"
-                _.contribution="0.7"
-                _.emotions="CU-0.8:MP-0.2"
+                a_base="0.5"
+                a_contribution="0.7"
+                a_emotions="CU-0.8:MP-0.2"
             />
         </entry>
     </entry>
@@ -139,8 +139,8 @@
         <music base="0.45" /> <!-- a bit dull at times but... -->
         <ref
             name="KoikakeCry"
-            _.contribution="0.85"
-            _.emotions="MP-0.5:CU-0.5"
+            a_contribution="0.85"
+            a_emotions="MP-0.5:CU-0.5"
         />
         <!-- the part though wtf -->
         <!-- did not expect to be that good ?????????? -->
@@ -170,7 +170,7 @@
         <!-- no ei in nee sadge -->
 
         <visual type="semiAnimatedMV" base="0.6" unique="0.5" />
-        <music base="0.5" />
+        <music base="0.35" />
         <!-- Length source: https://www.youtube.com/watch?v=EHxFEHPBDP8 -->
         <musicConsumedProgress length="4:28" />
     </entry>

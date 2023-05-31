@@ -34,7 +34,7 @@
             <visual type="albumArt" base="0.7" unique="0.15" />
 
             <!-- like the aokana soundtrack album -->
-            <music base="0.6" />
+            <music base="0.60" />
         </entry>
     </entry>
 </document>

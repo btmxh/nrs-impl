@@ -3,10 +3,10 @@
     <entry id="O-20220415T155427" title="Kizuna Method">
         <bestGirl name="method" /> <!-- impl_overridden -->
 
-        <ref name="RSTSB69DuopolyEra" _.strength="0.5" />
-        <ref name="IdolDystopia" _.strength="0.2" />
-        <ref name="AKMEraPart1" _.strength="0.1" />
-        <ref name="AKMEraPart2" _.strength="0.1" />
-        <ref name="AKMEraPart3" _.strength="0.1" />
+        <ref name="RSTSB69DuopolyEra" a_strength="0.5" />
+        <ref name="IdolDystopia" a_strength="0.2" />
+        <ref name="AKMEraPart1" a_strength="0.1" />
+        <ref name="AKMEraPart2" a_strength="0.1" />
+        <ref name="AKMEraPart3" a_strength="0.1" />
     </entry>
 </document>

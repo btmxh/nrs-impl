@@ -51,7 +51,7 @@
 
             <meme strength="0.8" from="2023-03-01" to="2023-03-12" />
 
-            <ref name="RemodernizationEra" _.strength="0.5">
+            <ref name="RemodernizationEra" a_strength="0.5">
                 <contributor id="A-MAL-48316" factor="0.7" />
                 <contributor id="M-VGMDB-AL-121695-1" factor="0.2" />
                 <!-- haha himeno sena 2023 -->
@@ -87,7 +87,7 @@
                 <!-- saikyou -->
                 <!-- (yes, that nozsist song) -->
 
-                <music base="0.5" />
+                <music base="0.46" />
             </entry>
         </entry>
 

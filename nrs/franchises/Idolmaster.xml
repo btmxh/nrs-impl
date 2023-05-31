@@ -16,7 +16,7 @@
             <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Dreaming!">
                 <musicConsumedProgress length="4:38" />
-                <music base="0.35" />
+                <music base="0.39" />
                 <osuSong personal="0.8" community="0.0" />
             </entry>
         </entry>
@@ -29,7 +29,7 @@
 
             <entry id="$-1" title="EVERMORE (M@STER VERSION)">
                 <musicConsumedProgress length="6:05" />
-                <music base="0.4" />
+                <music base="0.51" />
             </entry>
         </entry>
 
@@ -42,7 +42,7 @@
 
             <entry id="$-1" title="UNION!!">
                 <musicConsumedProgress length="5:29" />
-                <music base="0.35" />
+                <music base="0.42" />
                 <osuSong personal="0.5" community="0.2" />
             </entry>
         </entry>
@@ -62,7 +62,7 @@
             <nei base="0.75" emotions="AP" />
 
             <!-- idk why i gave this 6 in NRS1 but i'll nerf it to 0.3 ig. -->
-            <music base="0.03" />
+            <music base="0.08" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.9"

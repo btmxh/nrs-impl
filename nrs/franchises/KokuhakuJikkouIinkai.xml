@@ -25,7 +25,7 @@
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="Pride Kakumei">
                         <musicConsumedProgress length="3:55" />
-                        <music base="0.4" />
+                        <music base="0.44" />
                         <osuSong personal="0.5" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -39,7 +39,7 @@
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="Ai no Scenario">
                         <musicConsumedProgress length="4:18" />
-                        <music base="0.4" />
+                        <music base="0.29" />
                         <!-- monstrata's "海色 vs. アイのシナリオ" :skull: -->
                         <osuSong personal="0.6" community="0.2" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
@@ -54,7 +54,7 @@
                     <visual type="albumArt" base="0.1" unique="0.3" />
                     <entry id="$-1" title="Senpai.">
                         <musicConsumedProgress length="5:14" />
-                        <music base="0.5" />
+                        <music base="0.43" />
                         <osuSong personal="0.6" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -68,7 +68,7 @@
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="ノスタルジックレインフォール">
                         <musicConsumedProgress length="3:58" />
-                        <music base="0.3" />
+                        <music base="0.30" />
                         <osuSong personal="0.3" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -82,7 +82,7 @@
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="Watashi Idol Sengen">
                         <musicConsumedProgress length="4:27" />
-                        <music base="0.4" />
+                        <music base="0.40" />
                         <osuSong personal="0.8" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -96,7 +96,7 @@
                     <visual type="albumArt" base="0.3" unique="0.5" />
                     <entry id="$-2" title="Akatsukizukuyo">
                         <musicConsumedProgress length="4:42" />
-                        <music base="0.45" />
+                        <music base="0.34" />
                         <osuSong personal="0.5" community="0.5" />
                         <!-- [taeyang's extra] -->
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
@@ -111,7 +111,7 @@
                     <visual type="albumArt" base="0.4" unique="0.4" />
                     <entry id="$-2" title="color">
                         <musicConsumedProgress length="4:00" />
-                        <music base="0.3" />
+                        <music base="0.34" />
                         <osuSong personal="0.4" community="0.0" />
                     </entry>
                 </entry>
@@ -124,7 +124,7 @@
                     <visual type="albumArt" base="0.2" unique="0.5" />
                     <entry id="$-1" title="決戦スピリット">
                         <musicConsumedProgress length="4:32" />
-                        <music base="0.5" />
+                        <music base="0.35" />
                         <osuSong personal="0.3" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -140,7 +140,7 @@
                     <visual type="albumArt" base="0.3" unique="0.5" />
                     <entry id="$-1" title="Yakimochi no Kotae">
                         <musicConsumedProgress length="3:37" />
-                        <music base="0.5" />
+                        <music base="0.54" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
                 </entry>
@@ -158,7 +158,7 @@
                     <entry id="M-20221225T015443" title="Kokuhaku Rival Sengen">
                         <!-- Length source: https://osu.ppy.sh/beatmapsets/301561#osu/676193 -->
                         <musicConsumedProgress length="3:49" />
-                        <music base="0.2" />
+                        <music base="0.28" />
                         <osuSong personal="0.2" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -166,7 +166,7 @@
                     <entry id="M-20221225T015456" title="Ima Suki ni Naru.">
                         <!-- Length source: https://www.youtube.com/watch?v=WqlpuarOvq8 -->
                         <musicConsumedProgress length="4:19" />
-                        <music base="0.4" />
+                        <music base="0.36" />
                         <!-- such a fucking iconic song -->
                         <osuSong personal="1.0" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
@@ -175,7 +175,7 @@
                     <entry id="M-20221225T015505" title="Miraizu">
                         <!-- Length source: https://open.spotify.com/track/08GL8ARBGmSFRMqj8oQbkZ -->
                         <musicConsumedProgress length="3:29" />
-                        <music base="0.45" />
+                        <music base="0.49" />
                         <osuSong personal="0.3" community="0.1" />
                     </entry>
 
@@ -185,7 +185,7 @@
                     >
                         <!-- Length source: https://www.youtube.com/watch?v=tR39Dt54nD0 -->
                         <musicConsumedProgress length="4:29" />
-                        <music base="0.6" />
+                        <music base="0.49" />
                     </entry>
                 </entry>
 
@@ -213,7 +213,7 @@
 
                     <entry id="$-5" title="ノンファンタジー">
                         <musicConsumedProgress length="4:03" />
-                        <music base="0.3" />
+                        <music base="0.34" />
                         <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -223,7 +223,7 @@
                         title="小さなライオン feat.南(ふてニャン/CV:豊永利行)"
                     >
                         <musicConsumedProgress length="4:03" />
-                        <music base="0.4" />
+                        <music base="0.44" />
                         <osuSong personal="0.4" community="0.0" />
                         <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                     </entry>
@@ -240,7 +240,7 @@
                         title="Kawaikute gomen feat. Chuu-tan (CV: Hayami Saori)"
                     >
                         <musicConsumedProgress length="3:39" />
-                        <music base="0.5" />
+                        <music base="0.35" />
                         <!-- propaganda noises -->
                         <!-- (AACM: anti-anxiety-crisis movement) -->
                         <politics>

@@ -8,7 +8,7 @@
 
             <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
                 <musicConsumedProgress length="3:37" />
-                <music base="0.3" />
+                <music base="0.41" />
                 <regularImpact>
                     <score>
                         <!-- this song is a cover of the famous is she owen u.n
@@ -54,24 +54,24 @@
                 title="Wandering, Never Wondering (There Exists A Shade)"
             >
                 <musicConsumedProgress length="4:33" />
-                <music base="0.25" />
+                <music base="0.29" />
             </entry>
 
             <entry id="$-7" title="From Under Cover (Caught Up In A Love Song)">
                 <musicConsumedProgress length="3:27" />
-                <music base="0.4" />
+                <music base="0.44" />
             </entry>
 
             <!-- the second ayumu-era theme song -->
             <entry id="$-8" title="Storytellers">
                 <musicConsumedProgress length="3:57" />
-                <music base="0.5" />
+                <music base="0.50" />
 
                 <ref
                     name="KoikakeNEI"
-                    _.base="0.8"
-                    _.contribution="0.75"
-                    _.emotions="AU-0.5:MP-0.5"
+                    a_base="0.8"
+                    a_contribution="0.75"
+                    a_emotions="AU-0.5:MP-0.5"
                 />
             </entry>
         </entry>
@@ -86,7 +86,7 @@
             <entry id="$-1" title="Chronostasis">
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
                 <musicConsumedProgress length="6:22" /> <!-- impl_overridden -->
-                <music base="0.4" />
+                <music base="0.47" />
                 <osuSong personal="0.0" community="0.3" />
             </entry>
         </entry>

@@ -69,7 +69,7 @@
 
         <entry id="$-1" title="Good Morning World!">
             <musicConsumedProgress length="4:09" />
-            <music base="0.25" />
+            <music base="0.32" />
             <osuSong personal="0.1" community="0.0" />
         </entry>
     </entry>

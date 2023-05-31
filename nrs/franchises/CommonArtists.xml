@@ -99,7 +99,7 @@
 
             <entry id="$-1" title="Hoshikuzu no Interlude">
                 <musicConsumedProgress length="6:27" />
-                <music base="0.3" />
+                <music base="0.30" />
             </entry>
         </entry>
     </entry>
@@ -205,7 +205,7 @@
 
                 <entry id="$-11" title="かかわり">
                     <musicConsumedProgress length="4:25" />
-                    <music base="0.6" />
+                    <music base="0.49" />
                 </entry>
             </entry>
 
@@ -213,7 +213,7 @@
                 <visual type="albumArt" base="0.2" unique="0.3" />
                 <entry id="$-1" title="adrenaline!!!">
                     <musicConsumedProgress length="4:34" />
-                    <music base="0.4" />
+                    <music base="0.40" />
                     <osuSong personal="0.15" community="0.0" />
                 </entry>
             </entry>
@@ -241,7 +241,7 @@
                 <visual type="albumArt" base="0.2" unique="0.2" />
                 <entry id="$-1" title="SHIORI">
                     <musicConsumedProgress length="4:09" />
-                    <music base="0.45" />
+                    <music base="0.49" />
                     <osuSong personal="0.75" community="0.8" />
                 </entry>
             </entry>
@@ -251,7 +251,7 @@
                 <visual type="albumArt" base="0.35" unique="0.6" />
                 <entry id="$-1" title="Connect">
                     <musicConsumedProgress length="4:32" />
-                    <music base="0.3" />
+                    <music base="0.34" />
                 </entry>
             </entry>
 
@@ -260,7 +260,7 @@
                 <visual type="albumArt" base="0.1" unique="0.2" />
                 <entry id="$-1" title="カラフル">
                     <musicConsumedProgress length="4:30" />
-                    <music base="0.5" />
+                    <music base="0.46" />
 
                     <remix id="M-20220113T184042-3" />
                     <remix id="M-20220113T184042-4" />
@@ -272,7 +272,7 @@
                 <visual type="albumArt" base="0.1" unique="0.2" />
                 <entry id="$-1" title="シグナル">
                     <musicConsumedProgress length="3:43" />
-                    <music base="0.7" />
+                    <music base="0.70" />
                 </entry>
             </entry>
 
@@ -282,7 +282,7 @@
 
                 <entry id="$-1" title="CheerS">
                     <musicConsumedProgress length="4:02" />
-                    <music base="0.4" />
+                    <music base="0.44" />
                     <osuSong personal="0.4" community="0.0" />
                 </entry>
             </entry>
@@ -300,7 +300,7 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393 -->
                 <musicConsumedProgress length="5:21" /> <!-- impl_overridden -->
-                <music base="0.65" />
+                <music base="0.54" />
             </entry>
 
             <entry
@@ -310,7 +310,7 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882 -->
                 <musicConsumedProgress length="6:19" /> <!-- impl_overridden -->
-                <music base="0.3" />
+                <music base="0.30" />
             </entry>
         </contains>
     </entry>
@@ -324,7 +324,7 @@
 
                 <entry id="$-1" title="lull ~Soshite Bokura wa~">
                     <musicConsumedProgress length="4:56" />
-                    <music base="0.075" />
+                    <music base="0.09" />
                 </entry>
             </entry>
 
@@ -340,7 +340,7 @@
 
                 <entry id="$-3" title="nagi">
                     <musicConsumedProgress length="4:40" />
-                    <music base="0.12" />
+                    <music base="0.14" />
                 </entry>
             </entry>
 
@@ -359,7 +359,7 @@
 
                 <entry id="$-1" title="アクアテラリウム">
                     <musicConsumedProgress length="4:58" />
-                    <music base="0.075" />
+                    <music base="0.13" />
                 </entry>
             </entry>
 
@@ -372,7 +372,7 @@
 
                 <entry id="$-1" title="Mitsuba no Musubime">
                     <musicConsumedProgress length="4:56" />
-                    <music base="0.075" />
+                    <music base="0.13" />
                 </entry>
             </entry>
 
@@ -382,7 +382,7 @@
 
                 <entry id="$-1" title="Yukitoki">
                     <musicConsumedProgress length="4:29" />
-                    <music base="0.2" />
+                    <music base="0.28" />
                 </entry>
             </entry>
 
@@ -392,7 +392,7 @@
 
                 <entry id="$-1" title="Harumodoki">
                     <musicConsumedProgress length="4:30" />
-                    <music base="0.25" />
+                    <music base="0.40" />
                     <remix id="M-VGMDB-AL-106577-6" />
                 </entry>
             </entry>
@@ -403,7 +403,7 @@
 
                 <entry id="$-1" title="芽ぐみの雨">
                     <musicConsumedProgress length="4:41" />
-                    <music base="0.3" />
+                    <music base="0.41" />
                 </entry>
             </entry>
 
@@ -413,7 +413,7 @@
 
                 <entry id="$-1" title="over and over">
                     <musicConsumedProgress length="4:54" />
-                    <music base="0.5" />
+                    <music base="0.54" />
                 </entry>
             </entry>
         </contains>
@@ -494,7 +494,7 @@
 
                 <entry id="$-1" title="Aruite Ikou!">
                     <musicConsumedProgress length="4:24" />
-                    <music base="0.4" />
+                    <music base="0.47" />
                 </entry>
             </entry>
         </contains>
@@ -515,15 +515,15 @@
         <contains id="M-VGMDB-AL-104618" factor="vocal + image * feat" />
 
         <!-- the akari kito analogy lol -->
-        <ref name="AKMEraPart1" _.strength="0.05" />
+        <ref name="AKMEraPart1" a_strength="0.05" />
     </entry>
 
     <entry id="M-VGMDB-AR-10934" title="Ai Kayano">
 
         <contains id="M-20220125T063355-7" factor="1.0 / 4.0" />
-        <ref name="AKMEraPart1" _.strength="0.05" />
-        <ref name="AKMEraPart2" _.strength="0.1" />
-        <ref name="AKMEraPart2" _.strength="0.05" />
+        <ref name="AKMEraPart1" a_strength="0.05" />
+        <ref name="AKMEraPart2" a_strength="0.1" />
+        <ref name="AKMEraPart2" a_strength="0.05" />
     </entry>
 
     <entry id="M-VGMDB-AR-11958" title="Miku Sawai">
@@ -535,7 +535,7 @@
 
                 <entry id="$-1" title="Colorful.">
                     <musicConsumedProgress length="4:16" />
-                    <music base="0.25" />
+                    <music base="0.21" />
                 </entry>
             </entry>
 
@@ -586,7 +586,7 @@
 
                 <entry id="$-1" title="Egao no Kimi e">
                     <musicConsumedProgress length="3:54" />
-                    <music base="0.35" />
+                    <music base="0.42" />
                 </entry>
             </entry>
         </contains>
@@ -641,7 +641,7 @@
 
                 <entry id="$-1" title="CANDY MAGIC">
                     <musicConsumedProgress length="4:36" />
-                    <music base="0.1" />
+                    <music base="0.14" />
                 </entry>
             </entry>
 
@@ -655,7 +655,7 @@
                 <!-- kek -->
                 <entry id="$-1" title="hare bare fanfare">
                     <musicConsumedProgress length="3:38" />
-                    <music base="0.4" />
+                    <music base="0.44" />
 
                     <osuSong personal="0.6" community="0.3" />
                 </entry>
@@ -687,7 +687,7 @@
 
         <entry id="$-1" title="Uchiage Hanabi">
             <musicConsumedProgress length="4:49" />
-            <music base="0.2" />
+            <music base="0.16" />
         </entry>
     </entry>
 
@@ -700,7 +700,7 @@
 
                 <entry id="$-1" title="crossing field">
                     <musicConsumedProgress length="4:09" />
-                    <music base="0.1" />
+                    <music base="0.18" />
                 </entry>
             </entry>
         </contains>
@@ -724,7 +724,7 @@
         <contains id="M-20221202T202405" factor="vocal" />
         <contains id="M-20221202T205325" factor="vocal" />
 
-        <ref name="NeoErogeEra" _.strength="0.05" />
+        <ref name="NeoErogeEra" a_strength="0.05" />
     </entry>
 
     <entry id="M-20220205T023322-2" title="H△G">
@@ -744,7 +744,7 @@
                 title="Shoujotachi no Owaranai Yoru"
             >
                 <musicConsumedProgress length="4:08" /> <!-- impl_overridden -->
-                <music base="0.6" />
+                <music base="0.56" />
             </entry>
 
             <entry id="M-20220818T163913-3" title="Colorful">
@@ -760,7 +760,7 @@
 
         <entry id="M-20221202T203615" title="Rokugatsu no Himitsu Kichi">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.45" />
+            <music base="0.41" />
             <osuSong personal="0.6" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1094362 -->
             <musicConsumedProgress length="4:52" />
@@ -768,7 +768,7 @@
 
         <entry id="M-20221202T194015" title="HAG - Hoshikuzu Orchestra">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.55" />
+            <music base="0.51" />
             <osuSong personal="0.5" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/804193 -->
             <musicConsumedProgress length="4:48" />
@@ -854,7 +854,7 @@
                 <!-- her voice kinda fits with the song ngl -->
                 <!-- new kano inc (jk) -->
                 <musicConsumedProgress length="4:28" />
-                <music base="0.25" />
+                <music base="0.36" />
             </entry>
         </contains>
     </entry>
@@ -865,9 +865,9 @@
     <!-- say goodbye to your sanity -->
     <entry id="M-VGMDB-AR-8480" title="Rina Hidaka">
 
-        <ref name="AKMEraPart1" _.strength="0.3" />
-        <ref name="AKMEraPart2" _.strength="0.35" />
-        <ref name="AKMEraPart3" _.strength="0.3" />
+        <ref name="AKMEraPart1" a_strength="0.3" />
+        <ref name="AKMEraPart2" a_strength="0.35" />
+        <ref name="AKMEraPart3" a_strength="0.3" />
         <!-- (not the whole cricri unit) -->
         <contains id="M-20220125T063355-7" factor="0.25" />
 
@@ -884,9 +884,9 @@
         <!-- congrats u have escaped the fate of a cricri girl -->
         <!-- now prepare to be a new seasonal waifu va lol -->
 
-        <ref name="AKMEraPart1" _.strength="0.2" />
-        <ref name="AKMEraPart2" _.strength="0.3" />
-        <ref name="AKMEraPart3" _.strength="0.3" />
+        <ref name="AKMEraPart1" a_strength="0.2" />
+        <ref name="AKMEraPart2" a_strength="0.3" />
+        <ref name="AKMEraPart3" a_strength="0.3" />
         <!-- additional 0.25 because akm is sung by rosia and jacklyn -->
         <!-- (not the whole cricri unit) -->
         <contains id="M-20220125T063355-7" factor="0.25" />
@@ -918,8 +918,10 @@
                     <musicConsumedProgress
                         length="5:06"
                     /> <!-- impl_overridden -->
-                    <music base="0.6" />
+                    <music base="0.82" />
                     <remix id="M-VGMDB-AL-108194-5" />
+                    <!-- CLC cope -->
+                    <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
                 </entry>
             </entry>
 
@@ -943,7 +945,7 @@
             <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
                 <entry id="$-8" title="Raririreru, Ririro, Riraro">
                     <musicConsumedProgress length="5:43" />
-                    <music base="0.5" />
+                    <music base="0.61" />
                     <remix id="M-VGMDB-AL-108194-5" />
                     <nei base="0.2" emotions="CU" />
                 </entry>
@@ -958,13 +960,15 @@
 
         <entry id="$-4" title="ラリリレル、リリロ、リラロ">
             <musicConsumedProgress length="5:45" />
-            <music base="0.5" />
+            <music base="0.61" />
             <nei base="0.3" emotions="CU" />
         </entry>
 
         <entry id="$-5" title="Azure Reunion">
             <musicConsumedProgress length="5:06" />
-            <music base="0.6" />
+            <music base="0.75" />
+            <!-- CLC cope -->
+            <nei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
         </entry>
     </entry>
 

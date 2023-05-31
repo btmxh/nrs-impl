@@ -58,12 +58,12 @@
 
             <entry id="$-1" title="スタートライン">
                 <musicConsumedProgress length="5:42" />
-                <music base="0.7" />
+                <music base="0.70" />
             </entry>
 
             <entry id="$-2" title="はじまりの鐘の音が鳴り響く空">
                 <musicConsumedProgress length="4:12" />
-                <music base="0.4" />
+                <music base="0.59" />
             </entry>
         </entry>
 

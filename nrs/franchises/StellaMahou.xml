@@ -27,7 +27,7 @@
             <visual type="albumArt" base="0.2" unique="0.2" />
             <entry id="$-1" title="God Save The Girls">
                 <musicConsumedProgress length="4:19" />
-                <music base="0.45" />
+                <music base="0.53" />
                 <osuSong personal="0.25" community="0.0" />
             </entry>
         </entry>

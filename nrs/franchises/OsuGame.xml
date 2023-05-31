@@ -10,13 +10,13 @@
             <!-- the third ayumu-era theme song -->
             <entry id="$-7" title="Ascension to Heaven">
                 <musicConsumedProgress length="5:11" />
-                <music base="0.3" />
+                <music base="0.34" />
             </entry>
 
             <entry id="$-12" title="FREEDOM DiVE↓">
                 <musicConsumedProgress length="4:29" />
                 <!-- not gonna rate all of the backgrounds and shit -->
-                <music base="0.15" />
+                <music base="0.23" />
                 <!-- i'm not overstreaming 222 bpm -->
                 <nei base="0.5" emotions="AP" />
                 <osuSong personal="0.2" community="0.8" />
@@ -32,7 +32,7 @@
         <osuSong personal="0.2" community="0.8" />
 
         <!-- Length source: https://www.youtube.com/watch?v=rnWXN8m6drc -->
-        <music base="0.4" />
+        <music base="0.36" />
         <musicConsumedProgress length="4:42" /> <!-- impl_overridden -->
     </entry>
 
@@ -40,7 +40,7 @@
 
         <visual type="albumArt" base="0.25" unique="0.5" />
         <entry id="$-2" title="ツキナミ">
-            <music base="0.4" />
+            <music base="0.47" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396 -->
             <musicConsumedProgress length="4:44" /> <!-- impl_overridden -->
         </entry>
@@ -51,7 +51,7 @@
         <visual type="albumArt" base="0.1" unique="0.2" />
         <entry id="$-1" title="もういいかい?">
             <musicConsumedProgress length="2:19" />
-            <music base="0.4" />
+            <music base="0.51" />
         </entry>
     </entry>
 
@@ -63,7 +63,7 @@
         <visual type="albumArt" base="0.5" unique="0.5" />
         <entry id="$-1" title="Girl meets Love">
             <musicConsumedProgress length="4:12" />
-            <music base="0.5" />
+            <music base="0.46" />
             <!-- haha tranny duy bua -->
             <!-- she is literally me: https://myanimelist.net/character/187922/Rafinha_Bilford -->
             <meme strength="0.01" from="2021-06-01" to="today" />
@@ -75,7 +75,7 @@
         <visual type="albumArt" base="0.4" unique="0.6" />
         <entry id="$-2" title="COLORFUL DAYS!!">
             <musicConsumedProgress length="4:31" />
-            <music base="0.7" />
+            <music base="0.63" />
         </entry>
     </entry>
 
@@ -98,12 +98,12 @@
             title="Dreams come true -Hana Saki Hokoru, Chikyuu no Moto de-"
         >
             <musicConsumedProgress length="6:10" />
-            <music base="0.55" />
+            <music base="0.63" />
             <ref
                 name="KoikakeNEI"
-                _.base="0.8"
-                _.contribution="0.8"
-                _.emotions="CP-0.75:MP-0.25"
+                a_base="0.8"
+                a_contribution="0.8"
+                a_emotions="CP-0.75:MP-0.25"
             />
 
             <!-- "khi chân trời đầy nước mắt -->
@@ -119,7 +119,7 @@
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Haruoto＊Bell fullver.">
             <musicConsumedProgress length="4:24" />
-            <music base="0.65" />
+            <music base="0.58" />
         </entry>
     </entry>
 
@@ -144,7 +144,7 @@
         <entry id="$-1" title="Ringing＊Days fullver.">
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
             <musicConsumedProgress length="5:07" /> <!-- impl_overridden -->
-            <music base="0.6" />
+            <music base="0.56" />
         </entry>
     </entry>
 
@@ -154,7 +154,7 @@
             <musicConsumedProgress
                 length="3:35"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.4" />
+            <music base="0.40" />
             <osuSong personal="0.3" community="0.0" />
         </entry>
     </entry>
@@ -167,7 +167,7 @@
             <musicConsumedProgress
                 length="3:32"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.45" />
+            <music base="0.49" />
             <osuSong personal="0.1" community="0.0" />
         </entry>
     </entry>
@@ -190,7 +190,7 @@
             <musicConsumedProgress
                 length="3:53"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.2" />
+            <music base="0.20" />
             <osuSong personal="0.5" community="0.3" />
         </entry>
     </entry>
@@ -203,7 +203,7 @@
             <musicConsumedProgress
                 length="3:18"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.65" />
+            <music base="0.54" />
             <osuSong personal="0.4" community="0.0" />
         </entry>
     </entry>
@@ -213,7 +213,7 @@
             <musicConsumedProgress
                 length="1:32"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.25" />
+            <music base="0.21" />
             <osuSong personal="0.6" community="0.7" />
         </entry>
     </entry>
@@ -226,7 +226,7 @@
             <musicConsumedProgress
                 length="4:10"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.25" />
+            <music base="0.29" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-121238" title="Shade of Mythology">
@@ -234,7 +234,7 @@
         <entry id="$-2" title="EOS -Long Version-">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/160493#osu/392028 -->
             <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
-            <music base="0.4" />
+            <music base="0.40" />
             <osuSong personal="0.75" community="0.4" />
         </entry>
     </entry>
@@ -243,7 +243,7 @@
         <entry id="$-11" title="Exit This Earth's Atomosphere">
             <!-- Length source: https://www.youtube.com/watch?v=QsuAKlNe_rI -->
             <musicConsumedProgress length="5:32" /> <!-- impl_overridden -->
-            <music base="0.5" />
+            <music base="0.39" />
             <osuSong personal="0.35" community="0.75" />
         </entry>
     </entry>
@@ -253,7 +253,7 @@
             <musicConsumedProgress
                 length="3:20"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.45" />
+            <music base="0.41" />
             <osuSong personal="0.5" community="0.1" />
         </entry>
     </entry>
@@ -263,7 +263,7 @@
             <musicConsumedProgress
                 length="4:32"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.4" />
+            <music base="0.47" />
             <osuSong personal="0.25" community="0.5" />
 
             <!-- Remix("M-VGMDB-AL-78764-1") -->
@@ -278,7 +278,7 @@
             <musicConsumedProgress
                 length="4:55"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.5" />
+            <music base="0.43" />
             <osuSong personal="0.75" community="0.3" />
         </entry>
     </entry>
@@ -288,7 +288,7 @@
             <musicConsumedProgress
                 length="4:10"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.5" />
+            <music base="0.35" />
             <osuSong personal="0.8" community="0.8" />
         </entry>
     </entry>
@@ -301,7 +301,7 @@
             <musicConsumedProgress
                 length="2:50"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.5" />
+            <music base="0.50" />
             <osuSong personal="0.3" community="0.1" />
         </entry>
     </entry>
@@ -311,7 +311,7 @@
             <musicConsumedProgress
                 length="3:01"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.45" />
+            <music base="0.41" />
             <osuSong personal="0.4" community="0.2" />
         </entry>
     </entry>
@@ -321,7 +321,7 @@
             <musicConsumedProgress
                 length="5:04"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.6" />
+            <music base="0.30" />
             <osuSong personal="0.5" community="0.4" />
         </entry>
     </entry>
@@ -334,7 +334,7 @@
             <musicConsumedProgress
                 length="4:11"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.75" />
+            <music base="0.71" />
             <osuSong personal="0.5" community="0.0" />
         </entry>
     </entry>
@@ -347,7 +347,7 @@
             <musicConsumedProgress
                 length="1:32"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.5" />
+            <music base="0.46" />
             <osuSong personal="0.6" community="0.1" />
         </entry>
     </entry>
@@ -360,7 +360,7 @@
             <musicConsumedProgress
                 length="4:34"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.65" />
+            <music base="0.61" />
             <osuSong personal="0.6" community="0.0" />
         </entry>
     </entry>
@@ -370,7 +370,7 @@
             <musicConsumedProgress
                 length="5:11"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.5" />
+            <music base="0.50" />
             <osuSong personal="0.6" community="0.75" />
         </entry>
     </entry>
@@ -380,7 +380,7 @@
             <musicConsumedProgress
                 length="2:16"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.55" />
+            <music base="0.40" />
             <osuSong personal="0.75" community="0.65" />
         </entry>
     </entry>
@@ -400,7 +400,7 @@
             <musicConsumedProgress
                 length="3:49"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.6" />
+            <music base="0.60" />
             <osuSong personal="0.5" community="0.6" />
         </entry>
     </entry>
@@ -412,7 +412,7 @@
         <entry id="$-1" title="Sendan Life">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/416153#osu/901854 -->
             <musicConsumedProgress length="3:52" /> <!-- impl_overridden -->
-            <music base="0.5" />
+            <music base="0.39" />
             <osuSong personal="0.7" community="0.8" />
         </entry>
     </entry>
@@ -422,7 +422,7 @@
             <musicConsumedProgress
                 length="4:45"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.4" />
+            <music base="0.44" />
             <osuSong personal="0.75" community="0.2" />
         </entry>
     </entry>
@@ -432,7 +432,7 @@
             <musicConsumedProgress
                 length="1:58"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.4" />
+            <music base="0.40" />
             <osuSong personal="0.75" community="0.75" />
         </entry>
     </entry>
@@ -442,7 +442,7 @@
             <musicConsumedProgress
                 length="4:16"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.6" />
+            <music base="0.53" />
             <osuSong personal="0.9" community="0.7" />
         </entry>
     </entry>
@@ -455,7 +455,7 @@
             <musicConsumedProgress
                 length="4:34"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.45" />
+            <music base="0.41" />
             <osuSong personal="0.9" community="0.0" />
         </entry>
     </entry>
@@ -471,7 +471,7 @@
             <musicConsumedProgress
                 length="2:21"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.4" />
+            <music base="0.40" />
             <osuSong personal="0.6" community="0.8" />
         </entry>
     </entry>
@@ -484,7 +484,7 @@
             <musicConsumedProgress
                 length="8:20"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.45" />
+            <music base="0.49" />
             <osuSong personal="1.0" community="1.0" />
         </entry>
     </entry>
@@ -493,18 +493,18 @@
         <entry id="$-1" title="Yuima-ru★World">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1151399#osu/2403410 -->
             <musicConsumedProgress length="2:03" /> <!-- impl_overridden -->
-            <music base="0.25" />
+            <music base="0.29" />
             <osuSong personal="0.3" community="0.75" />
         </entry>
     </entry>
     <entry id="M-20221202T205325" title="Yume Chizu">
-        <music base="0.7" />
+        <music base="0.59" />
         <osuSong personal="0.75" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/467337#osu/999944 -->
         <musicConsumedProgress length="3:07" />
     </entry>
     <entry id="M-20221202T205227" title="Yubi Bouenkyou">
-        <music base="0.65" />
+        <music base="0.54" />
         <osuSong personal="1.0" community="0.8" />
         <!-- Length source: https://www.youtube.com/watch?v=p3Zuryi74ts -->
         <musicConsumedProgress length="4:21" />
@@ -513,37 +513,37 @@
         id="M-20221202T205118"
         title="World's End, Girl's Rondo(Asterisk DnB Remix)"
     >
-        <music base="0.7" />
+        <music base="0.59" />
         <osuSong personal="0.75" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/331499 -->
         <musicConsumedProgress length="5:42" />
     </entry>
     <entry id="M-20221202T205043" title="Wizard's Tower">
-        <music base="0.3" />
+        <music base="0.38" />
         <osuSong personal="0.75" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/985788 -->
         <musicConsumedProgress length="2:40" />
     </entry>
     <entry id="M-20221202T204908" title="utopia">
-        <music base="0.5" />
+        <music base="0.43" />
         <osuSong personal="0.8" community="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1117851 -->
         <musicConsumedProgress length="4:21" />
     </entry>
     <entry id="M-20221202T204859" title="Uta">
-        <music base="0.4" />
+        <music base="0.40" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/410162 -->
         <musicConsumedProgress length="8:48" />
     </entry>
     <entry id="M-20221202T204820" title="The Big Black">
-        <music base="0.5" />
+        <music base="0.39" />
         <osuSong personal="1.0" community="1.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/41823 -->
         <musicConsumedProgress length="2:19" />
     </entry>
     <entry id="M-20221202T204712" title="Start Again">
-        <music base="0.4" />
+        <music base="0.44" />
         <osuSong personal="1.0" community="0.6" />
         <!-- Length source: https://open.spotify.com/track/7b1nJaOmQowF0ySjQuCrHw -->
         <musicConsumedProgress length="3:14" />
@@ -552,25 +552,25 @@
         id="M-20221202T204553"
         title="(Foreground Eclipse) Songs Compilation"
     >
-        <music base="0.7" />
+        <music base="0.66" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/765497 -->
         <musicConsumedProgress length="6:39" />
     </entry>
     <entry id="M-20221202T204342" title="Sidetracked Day">
-        <music base="0.5" />
+        <music base="0.50" />
         <osuSong personal="0.9" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1008679 -->
         <musicConsumedProgress length="5:35" />
     </entry>
     <entry id="M-20221202T203918" title="Shin Sekai no α">
-        <music base="0.6" />
+        <music base="0.53" />
         <osuSong personal="0.75" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1370577#osu/2833948 -->
         <musicConsumedProgress length="4:21" />
     </entry>
     <entry id="M-20221202T203633" title="Sakurairo Time Capsule">
-        <music base="0.6" />
+        <music base="0.60" />
         <osuSong personal="0.7" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1146780 -->
         <musicConsumedProgress length="4:20" />
@@ -582,7 +582,7 @@
         <musicConsumedProgress length="5:00" />
     </entry>
     <entry id="M-20221202T202818" title="Ringo Uri no Utakata Shoujo">
-        <music base="0.65" />
+        <music base="0.58" />
         <osuSong personal="0.7" community="0.0" />
         <!-- ayumu-era shelter lmfao -->
         <aei base="0.9" emotions="CU-0.5:MP-0.4:CP-0.1" />
@@ -590,43 +590,43 @@
         <musicConsumedProgress length="5:32" />
     </entry>
     <entry id="M-20221202T202803" title="REASON">
-        <music base="0.5" />
+        <music base="0.46" />
         <osuSong personal="0.5" community="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/989540 -->
         <musicConsumedProgress length="5:27" />
     </entry>
     <entry id="M-20221202T202709" title="RAISE MY SWORD">
-        <music base="0.4" />
+        <music base="0.40" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/889855 -->
         <musicConsumedProgress length="7:02" />
     </entry>
     <entry id="M-20221202T202651" title="Plasma Gun">
-        <music base="0.4" />
+        <music base="0.40" />
         <osuSong personal="0.9" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1341551 -->
         <musicConsumedProgress length="0:58" />
     </entry>
     <entry id="M-20221202T202626" title="Pink Kurage to, Sotto, Kiss o Shita.">
-        <music base="0.6" />
+        <music base="0.67" />
         <osuSong personal="0.25" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1491009 -->
         <musicConsumedProgress length="3:49" />
     </entry>
     <entry id="M-20221202T202617" title="Pastel Subliminal &amp; Synesthesia">
-        <music base="0.6" />
+        <music base="0.56" />
         <osuSong personal="0.4" community="0.6" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1063842 -->
         <musicConsumedProgress length="8:00" />
     </entry>
     <entry id="M-20221202T202453" title="PADORU / PADORU">
-        <music base="0.25" />
+        <music base="0.29" />
         <osuSong personal="0.75" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1073074 -->
         <musicConsumedProgress length="0:32" />
     </entry>
     <entry id="M-20221202T202443" title="Natsukoi Hanabi">
-        <music base="0.4" />
+        <music base="0.40" />
         <osuSong personal="0.7" community="0.3" />
         <!-- Length source: https://www.youtube.com/watch?v=6ABGdYFQbLk -->
         <musicConsumedProgress length="4:41" />
@@ -635,85 +635,85 @@
         id="M-20221202T202405"
         title="Natsu no Owari, Koi no Hajimari (yuikonnu)"
     >
-        <music base="0.6" />
+        <music base="0.53" />
         <osuSong personal="0.6" community="0.1" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/206335#osu/486613 -->
         <musicConsumedProgress length="4:02" />
     </entry>
     <entry id="M-20221202T202350" title="Moratorium no Oto">
-        <music base="0.5" />
+        <music base="0.46" />
         <osuSong personal="0.7" community="0.0" />
         <!-- Length source: https://www.youtube.com/watch?v=1jowaGYaes4 -->
         <musicConsumedProgress length="4:00" />
     </entry>
     <entry id="M-20221202T202334" title="Mopemope">
-        <music base="0.4" />
+        <music base="0.36" />
         <osuSong personal="0.6" community="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1097600 -->
         <musicConsumedProgress length="1:50" />
     </entry>
     <entry id="M-20221202T202313" title="Mizuoto to Curtain">
-        <music base="0.45" />
+        <music base="0.49" />
         <osuSong personal="0.7" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1001653 -->
         <musicConsumedProgress length="2:47" />
     </entry>
     <entry id="M-20221202T202258" title="Milk Crown on Sonnetica">
-        <music base="0.6" />
+        <music base="0.45" />
         <osuSong personal="0.6" community="0.3" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/327557 -->
         <musicConsumedProgress length="3:33" />
     </entry>
     <entry id="M-20221202T201347" title="Koisuru MODE">
-        <music base="0.6" />
+        <music base="0.56" />
         <osuSong personal="0.5" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1457658 -->
         <musicConsumedProgress length="3:56" />
     </entry>
     <entry id="M-20221202T201210" title="Koi no Hime Hime Pettanko">
-        <music base="0.4" />
+        <music base="0.36" />
         <osuSong personal="0.75" community="0.75" />
         <!-- Length source: https://www.youtube.com/watch?v=hPSQ23NRED8 -->
         <musicConsumedProgress length="4:01" />
     </entry>
     <entry id="M-20221202T201031" title="Kinou ni Kanaderu Ashita no Uta">
-        <music base="0.4" />
+        <music base="0.44" />
         <osuSong personal="0.3" community="0.6" />
         <!-- Length source: https://www.youtube.com/watch?v=N2oWyMXWC5Y -->
         <musicConsumedProgress length="5:03" />
     </entry>
     <entry id="M-20221202T194352" title="Kakurenbo">
-        <music base="0.7" />
+        <music base="0.63" />
         <osuSong personal="0.5" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1466465 -->
         <musicConsumedProgress length="4:52" />
     </entry>
     <entry id="M-20221202T210619" title="IMAGE -MATERIAL- &lt;Version 0&gt;">
-        <music base="0.4" />
+        <music base="0.33" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/93523 -->
         <musicConsumedProgress length="6:25" />
     </entry>
     <entry id="M-20221202T193932" title="Hoshikuzu no Contrail">
-        <music base="0.65" />
+        <music base="0.58" />
         <osuSong personal="0.6" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/778526 -->
         <musicConsumedProgress length="4:21" />
     </entry>
     <entry id="M-20221202T193824" title="Horrible Kids">
-        <music base="0.4" />
+        <music base="0.40" />
         <osuSong personal="0.5" community="0.6" />
         <!-- Length source: https://www.youtube.com/watch?v=UlECVY129fY -->
         <musicConsumedProgress length="3:03" />
     </entry>
     <entry id="M-20221202T193801" title="HONESTY">
-        <music base="0.5" />
+        <music base="0.50" />
         <osuSong personal="0.6" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/586121 -->
         <musicConsumedProgress length="5:02" />
     </entry>
     <entry id="M-20221202T193602" title="Hitokoto no Kyori">
-        <music base="0.45" />
+        <music base="0.41" />
         <osuSong personal="0.5" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/667290 -->
         <musicConsumedProgress length="3:48" />
@@ -728,37 +728,37 @@
         id="M-20221202T192736"
         title="Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?"
     >
-        <music base="0.6" />
+        <music base="0.53" />
         <osuSong personal="0.6" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1312124 -->
         <musicConsumedProgress length="3:19" />
     </entry>
     <entry id="M-20221202T192642" title="High Free Spirits vs. DREAM SOLISTER">
-        <music base="0.6" />
+        <music base="0.45" />
         <osuSong personal="0.4" community="0.3" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/564534 -->
         <musicConsumedProgress length="1:51" />
     </entry>
     <entry id="M-20221202T192505" title="Hatsune Miku no Shoushitsu">
-        <music base="0.5" />
+        <music base="0.43" />
         <osuSong personal="0.4" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/125843 -->
         <musicConsumedProgress length="4:35" />
     </entry>
     <entry id="M-20221202T192314" title="Happppy song">
-        <music base="0.45" />
+        <music base="0.53" />
         <osuSong personal="0.75" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1016769 -->
         <musicConsumedProgress length="5:19" />
     </entry>
     <entry id="M-20221202T192116" title="Hanatachi ni Kibou o (2020 Remaster)">
-        <music base="0.5" />
+        <music base="0.54" />
         <osuSong personal="0.5" community="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1378089 -->
         <musicConsumedProgress length="2:45" />
     </entry>
     <entry id="M-20221202T191926" title="Go Go Carlito (Who's That Boy?)">
-        <music base="0.5" />
+        <music base="0.35" />
         <osuSong personal="0.3" community="0.6" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1063490 -->
         <musicConsumedProgress length="3:11" />
@@ -774,33 +774,33 @@
             <musicConsumedProgress
                 length="4:03"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
-            <music base="0.4" />
+            <music base="0.47" />
             <osuSong personal="0.2" community="0.3" />
         </entry>
     </entry>
     <entry id="M-20221202T191703" title="Galaxy Collapse">
-        <music base="0.3" />
+        <music base="0.34" />
         <osuSong personal="0.3" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/396221 -->
         <musicConsumedProgress length="5:54" />
     </entry>
     <entry id="M-20221202T191512" title="First Storm">
-        <music base="0.5" />
+        <music base="0.50" />
         <osuSong personal="0.75" community="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/696175 -->
         <musicConsumedProgress length="3:48" />
         <ref
             name="KoikakeNEI"
-            _.base="0.5"
-            _.contribution="0.8"
-            _.emotions="CP-0.5:MP-0.5"
+            a_base="0.5"
+            a_contribution="0.8"
+            a_emotions="CP-0.5:MP-0.5"
         />
     </entry>
     <entry
         id="M-20221202T191455"
         title="Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)"
     >
-        <music base="0.5" />
+        <music base="0.43" />
         <osuSong personal="0.6" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/855677 -->
         <musicConsumedProgress length="6:31" />
@@ -810,7 +810,7 @@
         id="M-20221202T190955"
         title="Eu Li Na Biblia (Sped Up &amp; Cut Ver.)"
     >
-        <music base="0.4" />
+        <music base="0.44" />
         <osuSong personal="0.1" community="0.2" />
         <!-- original version is too different to be the length source -->
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1769206 -->
@@ -823,13 +823,13 @@
         <musicConsumedProgress length="3:45" />
     </entry>
     <entry id="M-20221202T184040" title="DORAEMON">
-        <music base="0.3" />
+        <music base="0.34" />
         <osuSong personal="0.5" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1210297#osu/2519704 -->
         <musicConsumedProgress length="3:56" />
     </entry>
     <entry id="M-20221202T210602" title="Cycle Hit">
-        <music base="0.5" />
+        <music base="0.39" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/636839 -->
         <musicConsumedProgress length="5:07" />
     </entry>
@@ -837,12 +837,12 @@
         id="M-20221202T182453"
         title="Clarity feat. Foxes (IOSYS uno DENPA Remix)"
     >
-        <music base="0.4" />
+        <music base="0.51" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/615644 -->
         <musicConsumedProgress length="3:24" />
     </entry>
     <entry id="M-20221127T140609" title="Bass Slut (Original Mix)">
-        <music base="0.25" />
+        <music base="0.21" />
         <osuSong personal="0.4" community="0.1" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/983911 -->
         <musicConsumedProgress length="2:18" />
@@ -864,7 +864,7 @@
         <visual type="albumArt" base="0.3" unique="0.5" />
 
         <entry id="$-1" title="アニメを語レ!～アニメガタリ同好会のテーマ～">
-            <music base="0.4" />
+            <music base="0.47" />
             <osuSong personal="0.4" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             <musicConsumedProgress
@@ -877,7 +877,7 @@
         <visual type="albumArt" base="0.4" unique="0.5" />
 
         <entry id="$-7" title="Ange du Blanc Pur">
-            <music base="0.45" />
+            <music base="0.41" />
             <osuSong personal="0.75" community="0.25" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1188740 -->
             <musicConsumedProgress
@@ -886,32 +886,32 @@
         </entry>
     </entry>
     <entry id="M-20221127T140303" title="Akaneiro no Mahou">
-        <music base="0.55" />
+        <music base="0.63" />
         <osuSong personal="0.1" community="0.0" />
         <!-- Length source: https://www.youtube.com/watch?v=UJDn-4UdwiI -->
         <musicConsumedProgress length="4:30" />
     </entry>
     <entry id="M-20221202T210523" title="Ai no Sukima (Rock Cover)">
-        <music base="0.45" />
+        <music base="0.41" />
         <osuSong personal="0.3" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092468 -->
         <musicConsumedProgress length="1:31" />
     </entry>
     <entry id="M-20221127T140129" title="Ai no Sukima">
-        <music base="0.4" />
+        <music base="0.40" />
         <osuSong personal="0.4" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1323207 -->
         <musicConsumedProgress length="3:37" />
         <remix id="M-20221202T210523" />
     </entry>
     <entry id="M-20221127T140107" title="Ai Kotoba III">
-        <music base="0.35" />
+        <music base="0.39" />
         <osuSong personal="0.05" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1149018 -->
         <musicConsumedProgress length="4:05" />
     </entry>
     <entry id="M-20221127T135748" title="AaAaAaAAaAaAAa">
-        <music base="0.25" />
+        <music base="0.29" />
         <osuSong personal="0.2" community="0.0" />
         <!-- Length source: https://www.nicovideo.jp/watch/sm6816232 -->
         <musicConsumedProgress length="3:40" />
@@ -925,7 +925,7 @@
                 length="4:05"
             /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
 
-            <music base="0.4" />
+            <music base="0.47" />
             <!-- haha segs -->
             <nei base="0.5" emotions="AP" />
         </entry>
@@ -935,7 +935,7 @@
 
         <!-- Length source: https://open.spotify.com/album/6CqNBwcHMterjF1qMiNmcY -->
         <musicConsumedProgress length="4:38" />
-        <music base="0.3" />
+        <music base="0.34" />
         <osuSong personal="0.2" community="0.8" />
         <!-- Like a lion 🦁 we fight 👊 Together we will die 💀 -->
         <!-- For the glory of our god 😇 Justice on our side ✝️ -->
@@ -946,7 +946,7 @@
 
         <!-- Length source: https://fellowshipmetal.bandcamp.com/album/the-saberlight-chronicles -->
         <musicConsumedProgress length="4:53" />
-        <music base="0.5" />
+        <music base="0.35" />
         <osuSong personal="0.2" community="0.8" />
         <!-- To seek the glory days 🌅 we'll fight the lion's way 🦁 -->
         <!-- then let the rain wash 🌧️ all of your pride away 😇 -->

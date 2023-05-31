@@ -7,14 +7,14 @@
         <!-- https://atelier.fandom.com/wiki/Escha_Malier -->
         <!-- https://atelier.fandom.com/wiki/Luis_Bester -->
 
-        <ref name="AKMEraPart2" _.strength="0.75">
+        <ref name="AKMEraPart2" a_strength="0.75">
             <contributor id="A-MAL-21167" factor="0.4" />
             <contributor id="G-VGMDB-1880" factor="0.3" />
             <contributor id="G-VGMDB-1090" factor="0.2" />
             <contributor id="G-VGMDB-3499" factor="0.1" />
         </ref>
 
-        <ref name="AKMEraPart3" _.strength="1.0">
+        <ref name="AKMEraPart3" a_strength="1.0">
             <contributor id="A-MAL-21167" factor="0.4" />
             <contributor id="G-VGMDB-1880" factor="0.3" />
             <contributor id="G-VGMDB-1090" factor="0.2" />
@@ -151,7 +151,7 @@
                 <!-- and I go "Arisu? More like Asuir" AAAAAAAAAAAAAAHGESFG -->
 
                 <!-- all of that aside, this song slaps -->
-                <music base="0.6" />
+                <music base="0.64" />
             </entry>
         </entry>
 
@@ -232,7 +232,7 @@
             <visual type="albumArt" base="0.35" unique="0.3" />
             <entry id="$-4" title="Miruiro no Hoshi">
                 <musicConsumedProgress length="5:41" />
-                <music base="0.5" />
+                <music base="0.57" />
             </entry>
         </entry>
 
@@ -244,7 +244,7 @@
             <visual type="albumArt" base="0.2" unique="0.5" />
             <entry id="$-9" title="Into the Journey">
                 <musicConsumedProgress length="5:22" />
-                <music base="0.6" />
+                <music base="0.56" />
                 <!-- the cp contest of Oct 4th -->
                 <!-- aka the first win of the ROD in uni -->
                 <aei base="0.25" emotions="CP" />
@@ -258,7 +258,7 @@
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-8" title="Sky of Twilight">
                 <musicConsumedProgress length="6:21" />
-                <music base="0.45" />
+                <music base="0.49" />
                 <osuSong personal="0.5" community="0.0" />
             </entry>
         </entry>
