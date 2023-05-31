@@ -100,12 +100,12 @@
             <entry id="$-1" title="My Shining Light">
                 <musicConsumedProgress length="4:40" />
                 <!-- the "azure reunion" of asuiro clear sky -->
-                <music base="0.7" />
+                <music base="0.63" />
             </entry>
 
             <entry id="$-2" title="Luminossense">
                 <musicConsumedProgress length="4:18" />
-                <music base="0.3" />
+                <music base="0.26" />
             </entry>
         </entry>
 
@@ -117,7 +117,7 @@
 
             <entry id="$-1" title="Sora ni Chikau kara">
                 <musicConsumedProgress length="4:32" />
-                <music base="0.4" />
+                <music base="0.44" />
             </entry>
         </entry>
 
@@ -130,7 +130,7 @@
             <entry id="$-1" title="WONDERFUL WORLD">
                 <musicConsumedProgress length="3:58" />
 
-                <music base="0.4" />
+                <music base="0.47" />
             </entry>
         </entry>
 
@@ -143,7 +143,7 @@
             <entry id="$-1" title="Watashi to Minna no Uta">
                 <musicConsumedProgress length="4:24" />
 
-                <music base="0.4" />
+                <music base="0.51" />
             </entry>
         </entry>
 
@@ -158,7 +158,7 @@
 
             <entry id="$-5" title="歌を歌おう (finale)">
                 <musicConsumedProgress length="3:54" />
-                <music base="0.6" />
+                <music base="0.53" />
             </entry>
         </entry>
 
@@ -171,7 +171,7 @@
 
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
                 <musicConsumedProgress length="4:09" />
-                <music base="0.4" />
+                <music base="0.44" />
                 <remix id="M-20221009T085407" />
             </entry>
         </entry>
@@ -182,7 +182,7 @@
         title="- 約束の空へ ～私のいた場所～(Soleily Remix)"
     >
 
-        <music base="0.6" />
+        <music base="0.64" />
         <!-- Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0 -->
         <musicConsumedProgress length="5:48" />
     </entry>

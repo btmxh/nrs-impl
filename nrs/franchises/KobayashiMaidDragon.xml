@@ -12,7 +12,7 @@
             <entry id="$-1" title="青空のラプソディ">
                 <!-- Length source: https://open.spotify.com/album/7AA47NCwpqemraOTWD1oCV -->
                 <musicConsumedProgress length="4:38" /> <!-- impl_overridden -->
-                <music base="0.3" />
+                <music base="0.30" />
             </entry>
         </entry>
 
@@ -25,7 +25,7 @@
 
             <entry id="$-1" title="Ai no Supreme!">
                 <musicConsumedProgress length="4:44" />
-                <music base="0.4" />
+                <music base="0.29" />
                 <!-- "why is the dude singing???" - some pp mapper -->
                 <meme strength="0.05" length="6" />
             </entry>

@@ -252,7 +252,7 @@
         <bestGirl name="Rin" /> <!-- impl_overridden -->
 
         <!-- catJAM -->
-        <music base="0.6" />
+        <music base="0.60" />
 
         <!-- Short anime buff -->
         <additional value="0.75" />

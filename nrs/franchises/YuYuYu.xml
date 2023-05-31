@@ -16,7 +16,7 @@
 
             <entry id="$-1" title="Aurora Days">
                 <musicConsumedProgress length="4:00" />
-                <music base="0.15" />
+                <music base="0.19" />
             </entry>
         </entry>
 
@@ -31,7 +31,7 @@
             <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
             <entry id="$-2" title="U・D・N">
                 <musicConsumedProgress length="3:12" />
-                <music base="0.4" />
+                <music base="0.47" />
                 <osuSong personal="0.3" community="0.0" />
             </entry>
         </entry>

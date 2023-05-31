@@ -224,7 +224,7 @@
                 <musicConsumedProgress length="4:01" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.1"
+                    a_base="0.18"
                     a_from="arc1"
                     a_eras="akm1=5.0:akm2=5.0"
                 />
@@ -242,7 +242,7 @@
                 <!-- arc3 = 10.0 rst song comp -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.3"
+                    a_base="0.45"
                     a_from="arc1"
                     a_eras="arc2=20.0:arc3=10.0"
                 />
@@ -253,7 +253,7 @@
                 <!-- the angel yell incident -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.75"
+                    a_base="0.68"
                     a_from="arc1"
                     a_eras="arc1=25.0"
                 />
@@ -269,7 +269,7 @@
 
             <entry id="$-1" title="Natsu no Yakusoku">
                 <musicConsumedProgress length="4:20" />
-                <ref name="ReStepMusic" a_base="0.15" a_from="arc1" a_eras="" />
+                <ref name="ReStepMusic" a_base="0.19" a_from="arc1" a_eras="" />
             </entry>
         </entry>
 
@@ -281,7 +281,7 @@
                 <musicConsumedProgress length="4:53" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.3"
+                    a_base="0.38"
                     a_from="arc1"
                     a_eras="arc1=1.5:nee=2.5"
                 />
@@ -303,7 +303,7 @@
                 <!-- do it happy daibouken reference -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.5"
+                    a_base="0.50"
                     a_from="arc1"
                     a_eras="arc1=10.0:arc2=5.0"
                 />
@@ -324,7 +324,7 @@
                 <!-- [plasmagunstepgica] -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.3"
+                    a_base="0.34"
                     a_from="arc1"
                     a_eras="arc3=5.0"
                 />
@@ -350,7 +350,7 @@
 
                 <ref
                     name="ReStepMusic"
-                    a_base="0.5"
+                    a_base="0.54"
                     a_from="arc1"
                     a_eras="arc1=15.0:arc2=10.0"
                 />
@@ -364,7 +364,7 @@
                 <musicConsumedProgress length="4:34" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.08"
+                    a_base="0.17"
                     a_from="arc1"
                     a_eras="arc1=2.5"
                 />
@@ -376,7 +376,7 @@
                 <!-- kek -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.1"
+                    a_base="0.18"
                     a_from="arc1"
                     a_eras="arc2=5.0"
                 />
@@ -392,7 +392,7 @@
                 <musicConsumedProgress length="4:44" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.25"
+                    a_base="0.32"
                     a_from="arc1"
                     a_eras="arc1=7.5"
                 />
@@ -402,7 +402,7 @@
                 <musicConsumedProgress length="4:56" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.2"
+                    a_base="0.28"
                     a_from="arc1"
                     a_eras="arc1=10.0:nee=15.0"
                 />
@@ -425,7 +425,7 @@
                 <!-- co gai hoan love luon khien cho ca truong chuyen don dau -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.45"
+                    a_base="0.49"
                     a_from="arc1"
                     a_eras="arc1=25.0"
                 />
@@ -475,7 +475,7 @@
                 <!-- we will be on the top and people will have to smoke COPIUM just like me rn -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.8"
+                    a_base="0.80"
                     a_from="arc1"
                     a_eras="arc1=25.0:arc3=25.0"
                 />
@@ -491,7 +491,7 @@
                 <musicConsumedProgress length="3:53" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.65"
+                    a_base="0.54"
                     a_from="arc1"
                     a_eras="arc3=10.0"
                 />
@@ -531,7 +531,7 @@
                 <musicConsumedProgress length="4:08" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.35"
+                    a_base="0.50"
                     a_from="arc1"
                     a_eras="arc1=20.0"
                 />
@@ -544,7 +544,7 @@
 
             <entry id="$-1" title="Purple Rays">
                 <musicConsumedProgress length="4:02" />
-                <ref name="ReStepMusic" a_base="0.3" a_from="arc1" a_eras="" />
+                <ref name="ReStepMusic" a_base="0.34" a_from="arc1" a_eras="" />
             </entry>
 
             <entry id="$-2" title="Dear マイフレンド">
@@ -552,7 +552,7 @@
                 <!-- blame localism -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.4"
+                    a_base="0.40"
                     a_from="arc1"
                     a_eras="arc1=2.5:arc3=2.5:nee=20.0"
                 />
@@ -564,7 +564,7 @@
             <visual type="albumArt" base="0.25" unique="0.65" />
             <entry id="$-1" title="*Heart Confusion*">
                 <musicConsumedProgress length="3:46" />
-                <ref name="ReStepMusic" a_base="0.1" a_from="arc1" a_eras="" />
+                <ref name="ReStepMusic" a_base="0.18" a_from="arc1" a_eras="" />
             </entry>
 
             <entry id="$-2" title="crave">
@@ -576,7 +576,7 @@
                 <!-- >leaves -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.25"
+                    a_base="0.44"
                     a_from="arc1"
                     a_eras="arc1=5.0"
                 />
@@ -595,7 +595,7 @@
                 <musicConsumedProgress length="3:45" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.2"
+                    a_base="0.28"
                     a_from="arc1"
                     a_eras="arc1=5.0"
                 />
@@ -692,7 +692,7 @@
                 <musicConsumedProgress length="3:30" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.45"
+                    a_base="0.49"
                     a_from="arc1"
                     a_eras="arc3=2.5"
                 />
@@ -702,7 +702,7 @@
                 <musicConsumedProgress length="4:32" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.75"
+                    a_base="0.68"
                     a_from="arc1"
                     a_eras="arc3=10.0"
                 />
@@ -734,7 +734,7 @@
                 <musicConsumedProgress length="3:16" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.6"
+                    a_base="0.49"
                     a_from="arc1"
                     a_eras="arc1=5.0"
                 />
@@ -759,7 +759,7 @@
             <!-- (both failed lmfao) -->
             <ref
                 name="ReStepMusic"
-                a_base="0.8"
+                a_base="0.76"
                 a_from="arc1"
                 a_eras="arc1=10.0:arc2=2.5"
             />
@@ -788,7 +788,7 @@
 
                 <ref
                     name="ReStepMusic"
-                    a_base="0.7"
+                    a_base="0.66"
                     a_from="arc3"
                     a_eras="arc3=10.0"
                 />
@@ -798,7 +798,7 @@
                 <musicConsumedProgress length="4:10" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.5"
+                    a_base="0.60"
                     a_from="arc3"
                     a_eras="arc3=10.0"
                 />
@@ -812,7 +812,7 @@
 
                 <ref
                     name="ReStepMusic"
-                    a_base="0.7"
+                    a_base="0.66"
                     a_from="arc3"
                     a_eras="arc3=10.0"
                 />
@@ -822,7 +822,7 @@
                 <musicConsumedProgress length="3:42" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.45"
+                    a_base="0.53"
                     a_from="arc3"
                     a_eras="arc3=2.0"
                 />
@@ -837,7 +837,7 @@
 
                 <ref
                     name="ReStepMusic"
-                    a_base="0.3"
+                    a_base="0.34"
                     a_from="arc3"
                     a_eras="arc3=1.5"
                 />
@@ -861,7 +861,7 @@
                 <musicConsumedProgress length="3:52" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.35"
+                    a_base="0.50"
                     a_from="arc3"
                     a_eras="arc3=10.0"
                 />
@@ -882,7 +882,7 @@
                 <musicConsumedProgress length="3:55" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.2"
+                    a_base="0.28"
                     a_from="arc3"
                     a_eras="arc3=3.0"
                 />
@@ -903,7 +903,7 @@
                 <musicConsumedProgress length="3:49" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.3"
+                    a_base="0.49"
                     a_from="arc3"
                     a_eras="arc3=3.0:nee=3.0"
                 />
@@ -916,7 +916,7 @@
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Ginga no Shizuku">
                 <musicConsumedProgress length="4:49" />
-                <ref name="ReStepMusic" a_base="0.15" a_from="arc3" a_eras="" />
+                <ref name="ReStepMusic" a_base="0.19" a_from="arc3" a_eras="" />
             </entry>
         </entry>
 
@@ -936,7 +936,7 @@
                 <musicConsumedProgress length="4:30" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.65"
+                    a_base="0.69"
                     a_from="akm1"
                     a_eras="akm1=10.0"
                 />
@@ -953,7 +953,7 @@
                 <musicConsumedProgress length="4:07" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.15"
+                    a_base="0.23"
                     a_from="arc2"
                     a_eras="akm2=3.0"
                 />
@@ -997,7 +997,7 @@
 
                 <ref
                     name="ReStepMusic"
-                    a_base="0.5"
+                    a_base="0.57"
                     a_from="akm3"
                     a_eras="akm3=5.0"
                 />
@@ -1014,7 +1014,7 @@
                 <musicConsumedProgress length="3:41" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.3"
+                    a_base="0.30"
                     a_from="nee"
                     a_eras="nee=3.0"
                 />
@@ -1031,7 +1031,7 @@
                 <musicConsumedProgress length="4:39" />
                 <ref
                     name="ReStepMusic"
-                    a_base="0.25"
+                    a_base="0.17"
                     a_from="nee"
                     a_eras="nee=3.0"
                 />
@@ -1049,7 +1049,7 @@
                 <musicConsumedProgress length="3:24" /> <!-- impl_overridden -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.2"
+                    a_base="0.20"
                     a_from="nee"
                     a_eras="nee=3.0"
                 />
@@ -1072,7 +1072,7 @@
                 <!-- the true depth of the ortensia incident -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.45"
+                    a_base="0.53"
                     a_from="nee"
                     a_eras="nee=3.0"
                 />

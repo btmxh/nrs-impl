@@ -16,7 +16,7 @@
 
                 <entry id="$-1" title="ハロ/ハワユ">
                     <musicConsumedProgress length="4:48" />
-                    <music base="0.2" />
+                    <music base="0.24" />
                     <nei base="0.1" emotions="MP" />
                     <remix id="M-VGMDB-AL-37130-1" />
                 </entry>
@@ -28,13 +28,13 @@
 
                 <entry id="$-6" title="インタビュア">
                     <musicConsumedProgress length="4:27" />
-                    <music base="0.4" />
+                    <music base="0.44" />
                     <nei base="0.15" emotions="CU" />
                 </entry>
 
                 <entry id="$-11" title="アイロニ">
                     <musicConsumedProgress length="4:10" />
-                    <music base="0.175" />
+                    <music base="0.19" />
                     <nei base="0.15" emotions="CU" />
                 </entry>
             </entry>
@@ -52,13 +52,13 @@
 
                 <entry id="$-6" title="メリーメリー álbum ver.">
                     <musicConsumedProgress length="4:35" />
-                    <music base="0.4" />
+                    <music base="0.44" />
                     <nei base="0.25" emotions="MP" />
                 </entry>
 
                 <entry id="$-9" title="World on Color">
                     <musicConsumedProgress length="4:39" />
-                    <music base="0.6" />
+                    <music base="0.53" />
                     <nei base="0.2" emotions="MP" />
                     <osuSong personal="0.1" community="0.0" />
                 </entry>
@@ -70,13 +70,13 @@
 
                 <entry id="$-1" title="グッドナイトエヴリワン">
                     <musicConsumedProgress length="5:49" />
-                    <music base="0.4" />
+                    <music base="0.47" />
                     <nei base="0.2" emotions="CU" />
                 </entry>
 
                 <entry id="$-8" title="decide">
                     <musicConsumedProgress length="5:54" />
-                    <music base="0.2" />
+                    <music base="0.24" />
                     <nei base="0.25" emotions="CU" />
                 </entry>
             </entry>
@@ -88,7 +88,7 @@
 
                 <entry id="$-1" title="Stella-rium">
                     <musicConsumedProgress length="4:08" />
-                    <music base="0.5" />
+                    <music base="0.46" />
                     <nei base="0.5" emotions="MP" />
                 </entry>
             </entry>
@@ -100,7 +100,7 @@
 
                 <entry id="$-1" title="ディアブレイブ">
                     <musicConsumedProgress length="4:19" />
-                    <music base="0.5" />
+                    <music base="0.46" />
                     <nei base="0.1" emotions="CU" />
                 </entry>
             </entry>
@@ -112,7 +112,7 @@
                 <entry id="$-1" title="Prima Stella">
                     <musicConsumedProgress length="4:26" />
                     <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
-                    <music base="0.5" />
+                    <music base="0.46" />
                     <nei base="0.1" emotions="CU" />
                 </entry>
 
@@ -120,7 +120,7 @@
                 <contains id="M-VGMDB-AL-54307-1" />
                 <entry id="$-7" title="Walk This Way!">
                     <musicConsumedProgress length="4:08" />
-                    <music base="0.4" />
+                    <music base="0.36" />
                     <osuSong personal="0.6" community="0.3" />
                 </entry>
             </entry>
@@ -141,7 +141,7 @@
                     <musicConsumedProgress
                         length="4:33"
                     /> <!-- impl_overridden -->
-                    <music base="0.3" />
+                    <music base="0.34" />
                     <nei base="0.1" emotions="CU" />
 
                     <remix id="M-MAL-36631-6" />
@@ -156,7 +156,7 @@
                 <!-- and yes this is from osugame too -->
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
-                <music base="0.6" />
+                <music base="0.60" />
                 <musicConsumedProgress length="4:19" /> <!-- impl_overridden -->
                 <nei base="0.5" emotions="CP" />
 
@@ -197,13 +197,13 @@
                     <!-- the original MV is for the mix version -->
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
                     <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
-                    <music base="0.25" />
+                    <music base="0.29" />
                     <nei base="0.125" emotions="MP" />
                 </entry>
 
                 <entry id="$-2" title="うたうたいのうた">
                     <musicConsumedProgress length="4:39" />
-                    <music base="0.8" />
+                    <music base="0.69" />
                     <nei base="0.15" emotions="MP" />
                 </entry>
 
@@ -211,7 +211,7 @@
                 <!-- also the fourth ayumu-era theme song -->
                 <entry id="$-3" title="[It's not] World's end">
                     <musicConsumedProgress length="5:36" />
-                    <music base="0.5" />
+                    <music base="0.43" />
                     <nei base="0.5" emotions="CU" />
                     <ref
                         name="KoikakeNEI"
@@ -223,20 +223,20 @@
 
                 <entry id="$-4" title="「ねぇ。」">
                     <musicConsumedProgress length="6:23" />
-                    <music base="0.2" />
+                    <music base="0.24" />
                     <nei base="0.25" emotions="CU" />
                 </entry>
 
                 <entry id="$-5" title="朝焼け、君の唄。">
                     <musicConsumedProgress length="5:08" />
-                    <music base="0.2" />
+                    <music base="0.24" />
                     <nei base="0.2" emotions="MP" />
                 </entry>
 
                 <entry id="$-6" title="サクラノ前夜">
                     <musicConsumedProgress length="6:00" />
                     <visual type="animatedMV" base="0.35" unique="0.6" />
-                    <music base="0.7" />
+                    <music base="0.63" />
                     <nei base="0.25" emotions="CU" />
                     <ref
                         name="KoikakeNEI"
@@ -258,14 +258,14 @@
                 <osuSong personal="0.5" community="0.0" />
 
                 <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
-                <music base="0.5" />
+                <music base="0.46" />
                 <musicConsumedProgress length="3:29" /> <!-- impl_overridden -->
             </entry>
         </contains>
 
         <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.4" />
+            <music base="0.40" />
             <osuSong personal="0.6" community="0.4" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
             <musicConsumedProgress length="3:33" />
@@ -273,7 +273,7 @@
 
         <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.55" />
+            <music base="0.51" />
             <osuSong personal="0.7" community="0.0" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
             <musicConsumedProgress length="4:17" />
@@ -284,7 +284,7 @@
             title="Natsu no Owari, Koi no Hajimari (Kano)"
         >
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.65" />
+            <music base="0.58" />
             <osuSong personal="0.0" community="0.0" />
             <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
             <musicConsumedProgress length="4:08" />
@@ -302,7 +302,7 @@
                 >
                     <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
                     <musicConsumedProgress length="4:35" />
-                    <music base="0.5" />
+                    <music base="0.54" />
 
                     <!-- english socialism -->
                     <nei base="0.5" emotions="CU-0.75:CP-0.25" />

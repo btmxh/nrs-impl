@@ -51,7 +51,7 @@
                 <!-- Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc -->
                 <musicConsumedProgress length="4:35" /> <!-- impl_overridden -->
 
-                <music base="0.4" />
+                <music base="0.40" />
             </entry>
         </entry>
 
@@ -65,7 +65,7 @@
                 <visual type="albumArt" base="0.4" unique="0.45" />
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1667264 -->
-                <music base="0.3" />
+                <music base="0.34" />
                 <musicConsumedProgress length="5:16" /> <!-- impl_overridden -->
             </entry>
 

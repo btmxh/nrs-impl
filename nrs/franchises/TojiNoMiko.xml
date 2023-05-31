@@ -31,7 +31,7 @@
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Shinkakei Colors">
-                <music base="0.5" />
+                <music base="0.50" />
                 <musicConsumedProgress length="4:22" />
             </entry>
         </entry>

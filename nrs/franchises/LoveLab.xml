@@ -26,7 +26,7 @@
             <visual type="albumArt" base="0.1" unique="0.2" />
             <entry id="$-1" title="Best FriendS">
                 <musicConsumedProgress length="4:32" />
-                <music base="0.4" />
+                <music base="0.33" />
                 <osuSong personal="0.7" community="0.8" />
             </entry>
         </entry>

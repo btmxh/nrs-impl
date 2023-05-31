@@ -123,12 +123,12 @@
 
                 <!-- gyze i found the mv for this song :skull: -->
                 <!-- https://www.youtube.com/watch?v=e_IIORCnBxI -->
-                <music base="0.35" />
+                <music base="0.31" />
             </entry>
 
             <entry id="$-14" title="東の空から始まる世界">
                 <musicConsumedProgress length="4:01" />
-                <music base="0.6" />
+                <music base="0.53" />
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
@@ -137,13 +137,13 @@
                 <!-- I scream 🗣 so much 🤌🏻 my chest 📦 hurts 🤕, because I want 🙋 to find 🔎 you -->
                 <!-- Grow 🌱 up! If there’s something 👀 I don’t want to forget 🤔, is our promise 🤞 -->
                 <!-- This blue 🟦 sky ☁️ will always ♾️ be right 👉 here 👇 -->
-                <music base="0.75" />
+                <music base="0.56" />
                 <!-- <nei base="Emotion.CU" emotions="0.2" /> -->
                 <!-- :Pause: :pepeLaugh: -->
             </entry>
 
             <!-- classic "too lazy to rank all of the tracks" -->
-            <music base="0.6" />
+            <music base="0.60" />
             <ref
                 name="KoikakeAEI"
                 a_base="0.5"
@@ -168,7 +168,7 @@
 
         <entry id="$-5" title="彗光、星空通りにて (feat.nayuta)">
             <musicConsumedProgress length="4:53" />
-            <music base="0.7" />
+            <music base="0.70" />
             <ref
                 name="KoikakeCry"
                 a_contribution="0.75"

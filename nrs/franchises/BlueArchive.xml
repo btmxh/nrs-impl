@@ -20,7 +20,7 @@
             <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-4" title="Hifumi Daisuki">
                 <musicConsumedProgress length="2:29" />
-                <music base="0.4" />
+                <music base="0.51" />
                 <!-- :crying emoji: -->
                 <!-- i love leah kate -->
                 <!-- https://osu.ppy.sh/beatmapsets/1933124#osu/3994310 :skull: -->
@@ -28,7 +28,7 @@
 
             <entry id="$-24" title="RE Aoharu">
                 <musicConsumedProgress length="2:21" />
-                <music base="0.5" />
+                <music base="0.57" />
             </entry>
         </entry>
 
@@ -39,7 +39,7 @@
                 <musicConsumedProgress length="4:38" />
                 <!-- me catjamming to the beat drop -->
                 <!-- :catJAMMER: :EDM: :catJAMMER: :EDM: :catJAMMER: :EDM: :catJAMMER: -->
-                <music base="0.5" />
+                <music base="0.43" />
             </entry>
         </entry>
 
@@ -50,7 +50,7 @@
             <visual type="albumArt" base="0.3" unique="0.2" />
             <entry id="$-1" title="Kagayaki Summer Days">
                 <musicConsumedProgress length="4:22" />
-                <music base="0.4" />
+                <music base="0.44" />
             </entry>
         </entry>
 

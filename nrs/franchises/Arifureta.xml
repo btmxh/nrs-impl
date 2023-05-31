@@ -32,7 +32,7 @@
         <visual type="albumArt" base="0.05" unique="0.5" />
         <entry id="$-1" title="FLARE">
             <musicConsumedProgress length="4:37" />
-            <music base="0.1" />
+            <music base="0.14" />
             <osuSong personal="0.1" community="0.05" />
         </entry>
     </entry>

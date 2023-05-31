@@ -39,7 +39,7 @@
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Glorious Days">
                 <musicConsumedProgress length="3:54" />
-                <music base="0.5" />
+                <music base="0.35" />
             </entry>
         </entry>
 
@@ -51,7 +51,7 @@
             <visual type="albumArt" base="0.3" unique="0.3" />
             <entry id="$-1" title="ENDROLL">
                 <musicConsumedProgress length="3:53" /> <!-- impl_overridden -->
-                <music base="0.4" />
+                <music base="0.47" />
             </entry>
         </entry>
     </entry>
