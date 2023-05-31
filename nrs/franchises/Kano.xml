@@ -72,6 +72,8 @@
                     <musicConsumedProgress length="5:49" />
                     <music base="0.47" />
                     <nei base="0.2" emotions="CU" />
+                    <!-- ADA -->
+                    <aei base="0.5" emotions="MU-0.2:CU-0.8" />
                 </entry>
 
                 <entry id="$-8" title="decide">
