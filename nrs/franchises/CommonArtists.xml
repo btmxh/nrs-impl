@@ -920,6 +920,8 @@
                     /> <!-- impl_overridden -->
                     <music base="0.82" />
                     <remix id="M-VGMDB-AL-108194-5" />
+                    <!-- CLC cope -->
+                    <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
                 </entry>
             </entry>
 
@@ -965,6 +967,8 @@
         <entry id="$-5" title="Azure Reunion">
             <musicConsumedProgress length="5:06" />
             <music base="0.75" />
+            <!-- CLC cope -->
+            <nei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
         </entry>
     </entry>
 
