@@ -130,6 +130,7 @@
                 <al id="11981" />
                 <mal id="11981" />
             </source>
+            <validatorSuppress rules="dah-no-anime-altsrc" />
 
             <bestGirl name="Madoka Kaname" />
             <!-- I can't understand this movie lol -->

@@ -95,6 +95,7 @@
                 <al id="20989" />
                 <mal id="28841" />
             </source>
+            <validatorSuppress rules="dah-no-anime-altsrc" />
 
             <bestGirl name="Mayu Shimada" />
 
@@ -114,6 +115,7 @@
                 <al id="21107" />
                 <mal id="30419" />
             </source>
+            <validatorSuppress rules="dah-no-anime-altsrc" />
 
             <bestGirl name="Mayu Shimada" />
 

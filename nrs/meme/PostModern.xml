@@ -51,6 +51,7 @@
     </entry>
 
     <entry id="A-20230512T174045" title="Mái trường yên tĩnh">
+        <validatorSuppress rules="dah-no-anime-altsrc" />
         <!-- who let chat cook wtf -->
         <!-- pogpega no way mvl in 2023 -->
 

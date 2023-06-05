@@ -31,6 +31,7 @@
                 <al id="15431" />
                 <mal id="15431" />
             </source>
+            <validatorSuppress rules="dah-no-anime-altsrc" />
 
             <bestGirl name="Saki Mizukoshi" />
 

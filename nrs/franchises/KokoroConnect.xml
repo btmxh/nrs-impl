@@ -59,6 +59,7 @@
                 <al id="16001" />
                 <mal id="16001" />
             </source>
+            <validatorSuppress rules="dah-no-anime-altsrc" />
             <bestGirl name="Iori Nagase" />
 
             <animeConsumedProgress
