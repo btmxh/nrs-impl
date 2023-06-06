@@ -23,7 +23,7 @@
         <!-- like bruh himeno sena exists now you fucking dumbass -->
         <bestGirl name="Anisphia Wynn Palletia" />
 
-        <animeConsumedProgress status="Watching" boredom="1.0" episodes="3" />
+        <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
 
         <!-- the first ep already gave me chill :skull: -->
@@ -52,7 +52,7 @@
         <!-- lmfao "escha 2023" -->
         <bestGirl name="Ann Halford" />
 
-        <animeConsumedProgress status="Watching" boredom="1.0" episodes="2" />
+        <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
         <visual type="animated" base="0.4" unique="0.6" />
     </entry>
 
@@ -71,7 +71,8 @@
         <!-- jk lol -->
         <bestGirl name="Tiana" />
 
-        <animeConsumedProgress status="Watching" boredom="1.0" episodes="2" />
+        <animeConsumedProgress status="Dropped" boredom="0.5" episodes="9" />
+        <dropped />
         <visual type="animated" base="0.3" unique="0.6" />
 
         <!-- focus on [trust], somewhat interesting -->
@@ -86,7 +87,6 @@
 
     <!-- the reason of all this is that fucking koikake girl -->
     <!-- i fucking hate her -->
-
     <entry
         id="F-VGMDB-12319"
         title="Eiyuuou, Bu wo Kiwameru Tame Tenseisu ~Soshite, Sekai Saikyou no Minarai Kishi♀~"
