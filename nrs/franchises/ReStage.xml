@@ -754,6 +754,7 @@
         <!-- lmfao -->
         <!-- https://twitter.com/majotb420/status/1658777148906442752 -->
         <entry id="M-20230606T101214" title="AsterReve">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <contains factor="vocal+image">
                 <contains id="M-20230606T101046-1" />
             </contains>
@@ -1089,29 +1090,26 @@
         </entry>
 
         <entry id="M-20230606T100606" title="M.L.V.G">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="M.L.V.G">
-                <music base="0.55" />
-                <!-- Length source: https://open.spotify.com/track/6w8LQRXLloLsdtJh6g8iYP -->
                 <ref
                     name="ReStepMusic"
-                    a_base="0.53"
+                    a_base="0.55"
                     a_from="ac"
                     a_eras="ac=3.0"
                 />
+                <!-- Length source: https://open.spotify.com/track/6w8LQRXLloLsdtJh6g8iYP -->
+                <musicConsumedProgress length="4:15" />
             </entry>
         </entry>
 
         <entry id="M-20230606T101046" title="Re:write">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Re:write">
-                <music base="0.55" />
-                <!-- Length source: https://open.spotify.com/track/6w8LQRXLloLsdtJh6g8iYP -->
-                <ref
-                    name="ReStepMusic"
-                    a_base="0.53"
-                    a_from="ac"
-                    a_eras="ac=3.0"
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
                 />
             </entry>
         </entry>
