@@ -72,6 +72,7 @@
         <bestGirl name="Tiana" />
 
         <animeConsumedProgress status="Dropped" boredom="0.5" episodes="9" />
+        <dropped />
         <visual type="animated" base="0.3" unique="0.6" />
 
         <!-- focus on [trust], somewhat interesting -->
