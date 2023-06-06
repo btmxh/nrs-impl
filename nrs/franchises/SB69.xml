@@ -890,6 +890,7 @@
                 <ref name="AKMEraPart1" a_strength="1.0" />
                 <ref name="AKMEraPart2" a_strength="1.0" />
                 <ref name="AKMEraPart3" a_strength="0.6" />
+                <remix id="M-20230606T093630" />
             </entry>
         </entry>
 
@@ -1087,6 +1088,14 @@
         <music base="0.55" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092567 -->
         <musicConsumedProgress length="4:32" />
+    </entry>
+
+    <entry id="M-20230606T093630" title="【歌ってみた】あすいろ恋模様">
+        <!-- "truly the most song of all time" -->
+        <!-- somewhat low quality tho, but nice voice -->
+        <music base="0.75" />
+        <!-- Length source: https://www.youtube.com/watch?v=aVqqNuvv-00 -->
+        <musicConsumedProgress length="4:30" />
     </entry>
 
     <!-- " -->
