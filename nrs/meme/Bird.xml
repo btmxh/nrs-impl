@@ -18,4 +18,17 @@
             <music base="0.44" />
         </entry>
     </entry>
+
+    <!-- le bird meme -->
+    <!-- new bird lore just dropped -->
+    <!-- banger plot twist character development -->
+    <!-- BOWIR VIF NGWOIF LAF CON CHIM -->
+    <!-- LAF LOAIF CHIM MOMX NHAATS NHAAN GIAN -->
+    <!-- DUF BAOX TOOS DDAU THWONG NGWOIF VAANX TIN -->
+    <!-- THEES GIOIWS MAI SAU TOAR SANGS LUNG LINH -->
+    <meme strength="0.4" from="2023-04-13" to="2023-05-11">
+        <contributor id="V-VNDB-17516" factor="0.6" />
+        <contributor id="M-VGMDB-AL-101608-1" factor="0.1" />
+        <contributor id="O-20230203T141812" factor="0.3" />
+    </meme>
 </document>

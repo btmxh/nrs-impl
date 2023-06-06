@@ -49,7 +49,10 @@
             <ehi /> <!-- humor -->
             <nei base="0.25" emotions="AP" /> <!-- plot -->
 
-            <meme strength="0.8" from="2023-03-01" to="2023-03-12" />
+            <meme strength="0.8" from="2023-03-01" to="2023-03-12">
+                <contributor id="A-MAL-48316" factor="0.6" />
+                <contributor id="V-VNDB-17516" factor="0.4" />
+            </meme>
 
             <ref name="RemodernizationEra" a_strength="0.5">
                 <contributor id="A-MAL-48316" factor="0.7" />
