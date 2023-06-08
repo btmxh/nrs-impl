@@ -25,7 +25,6 @@
         <!-- "Yes, since they want alchemists out in the country as well." - my fucking ass -->
         <!-- i hate sk (and bk too lol) -->
 
-
         <visual type="animated" base="0.6" unique="0.2" />
         <animeConsumedProgress status="Dropped" boredom="0.25" episodes="4" />
         <dropped />

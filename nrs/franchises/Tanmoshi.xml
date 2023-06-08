@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9850" title="Tantei wa Mou, Shindeiru.">
-
         <entry id="A-MAL-46471" title="Tantei wa Mou, Shindeiru.">
             <source>
                 <adb id="46471" />
@@ -26,7 +25,6 @@
 
         <!-- Kano's friend's album lol -->
         <entry id="M-VGMDB-AL-113531" title="Kodou / Nanakagura">
-
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Kodou">
                 <musicConsumedProgress length="4:31" />
@@ -38,7 +36,6 @@
             id="M-VGMDB-AL-113660"
             title="Koko de Ikiteru / mary &amp; jon-YAKITORY"
         >
-
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Koko de Ikiteru">
                 <musicConsumedProgress length="3:22" />

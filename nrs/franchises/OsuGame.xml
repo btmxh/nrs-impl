@@ -2,9 +2,7 @@
 <!-- kind of a mess rn -->
 <document>
     <entry id="M-VGMDB-AR-12225" title="xi">
-
         <entry id="M-VGMDB-AL-34269" title="Parousia">
-
             <visual type="albumArt" base="0.15" unique="0.4" />
 
             <!-- the third ayumu-era theme song -->
@@ -25,7 +23,6 @@
     </entry>
 
     <entry id="M-20220410T181408" title="United (L.A.O.S Remix)">
-
         <!-- we kicked a kid, united -->
         <!-- r/osuplace stuff -->
         <meme strength="0.5" length="6" />
@@ -37,7 +34,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-49508" title="Tsukinami / Kanon Wakeshima">
-
         <visual type="albumArt" base="0.25" unique="0.5" />
         <entry id="$-2" title="ツキナミ">
             <music base="0.47" />
@@ -47,7 +43,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-79187" title="Kisses and Kills / THE ORAL CIGARETTES">
-
         <visual type="albumArt" base="0.1" unique="0.2" />
         <entry id="$-1" title="もういいかい?">
             <musicConsumedProgress length="2:19" />
@@ -59,7 +54,6 @@
         id="M-VGMDB-AL-52234"
         title="HANASAKI WORK SPRING! COMPLETE SOUNDTRACK"
     >
-
         <visual type="albumArt" base="0.5" unique="0.5" />
         <entry id="$-1" title="Girl meets Love">
             <musicConsumedProgress length="4:12" />
@@ -71,7 +65,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-33518" title="Irotoridori no Hikari Theme Songs Plus">
-
         <visual type="albumArt" base="0.4" unique="0.6" />
         <entry id="$-2" title="COLORFUL DAYS!!">
             <musicConsumedProgress length="4:31" />
@@ -83,7 +76,6 @@
         id="M-VGMDB-AL-78595"
         title="AstralAir no Shiroki Towa - ETERNAL BEST -"
     >
-
         <visual type="albumArt" base="0.4" unique="0.6" />
 
         <entry id="$-9" title="Euphorium">
@@ -115,7 +107,6 @@
         id="M-VGMDB-AL-66742"
         title="HARUOTO ALICE*GRAM -THEME SONG COLLECTION!3-"
     >
-
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Haruoto＊Bell fullver.">
             <musicConsumedProgress length="4:24" />
@@ -127,7 +118,6 @@
         id="M-VGMDB-AL-79717"
         title="Shirokoi Sakura*Gram THEME SONG COLLECTION! 4"
     >
-
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Have a live day fullver.">
             <musicConsumedProgress length="4:29" />
@@ -139,7 +129,6 @@
         id="M-VGMDB-AL-117099"
         title="HANAGANE KANADE*GRAM THEME SONG COLLECTION! 5"
     >
-
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Ringing＊Days fullver.">
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
@@ -153,7 +142,8 @@
         <entry id="$-3" title="1+1でQ.E.D.!!">
             <musicConsumedProgress
                 length="3:35"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.40" />
             <osuSong personal="0.3" community="0.0" />
         </entry>
@@ -166,7 +156,8 @@
         <entry id="$-1" title="1HOPE SNIPER">
             <musicConsumedProgress
                 length="3:32"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.49" />
             <osuSong personal="0.1" community="0.0" />
         </entry>
@@ -179,7 +170,8 @@
         <entry id="$-1" title="ADAMAS">
             <musicConsumedProgress
                 length="3:44"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.15" />
             <osuSong personal="0.05" community="0.0" />
         </entry>
@@ -189,7 +181,8 @@
         <entry id="$-1" title="Air Man Ga Taosenai">
             <musicConsumedProgress
                 length="3:53"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.20" />
             <osuSong personal="0.5" community="0.3" />
         </entry>
@@ -202,7 +195,8 @@
         <entry id="$-1" title="Art as ♡">
             <musicConsumedProgress
                 length="3:18"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.54" />
             <osuSong personal="0.4" community="0.0" />
         </entry>
@@ -212,7 +206,8 @@
         <entry id="$-1" title="Black Rover (TV-SIZE)">
             <musicConsumedProgress
                 length="1:32"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.21" />
             <osuSong personal="0.6" community="0.7" />
         </entry>
@@ -225,7 +220,8 @@
         <entry id="$-1" title="Colors Power ni Omakasero!">
             <musicConsumedProgress
                 length="4:10"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.29" />
         </entry>
     </entry>
@@ -252,7 +248,8 @@
         <entry id="$-47" title="Frozen">
             <musicConsumedProgress
                 length="3:20"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.41" />
             <osuSong personal="0.5" community="0.1" />
         </entry>
@@ -262,7 +259,8 @@
         <entry id="$-1" title="Hakkensha wa Watashi">
             <musicConsumedProgress
                 length="4:32"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.47" />
             <osuSong personal="0.25" community="0.5" />
 
@@ -277,7 +275,8 @@
         <entry id="$-1" title="Heart Realize">
             <musicConsumedProgress
                 length="4:55"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.43" />
             <osuSong personal="0.75" community="0.3" />
         </entry>
@@ -287,7 +286,8 @@
         <entry id="$-1" title="HIKARI">
             <musicConsumedProgress
                 length="4:10"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.35" />
             <osuSong personal="0.8" community="0.8" />
         </entry>
@@ -300,7 +300,8 @@
         <entry id="$-1" title="Hatena☆Illusion">
             <musicConsumedProgress
                 length="2:50"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.50" />
             <osuSong personal="0.3" community="0.1" />
         </entry>
@@ -310,7 +311,8 @@
         <entry id="$-3" title="イマジネーション">
             <musicConsumedProgress
                 length="3:01"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.41" />
             <osuSong personal="0.4" community="0.2" />
         </entry>
@@ -320,7 +322,8 @@
         <entry id="$-2" title="Internet bxxch (feat. YUCe')">
             <musicConsumedProgress
                 length="5:04"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.30" />
             <osuSong personal="0.5" community="0.4" />
         </entry>
@@ -333,7 +336,8 @@
         >
             <musicConsumedProgress
                 length="4:11"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.71" />
             <osuSong personal="0.5" community="0.0" />
         </entry>
@@ -346,7 +350,8 @@
         <entry id="$-1" title="♡km/h (TV size)">
             <musicConsumedProgress
                 length="1:32"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.46" />
             <osuSong personal="0.6" community="0.1" />
         </entry>
@@ -359,7 +364,8 @@
         <entry id="$-1" title="ここにいるよ">
             <musicConsumedProgress
                 length="4:34"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.61" />
             <osuSong personal="0.6" community="0.0" />
         </entry>
@@ -369,7 +375,8 @@
         <entry id="$-3" title="Kokou no Sousei">
             <musicConsumedProgress
                 length="5:11"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.50" />
             <osuSong personal="0.6" community="0.75" />
         </entry>
@@ -379,7 +386,8 @@
         <entry id="$-96" title="Last Goodbye">
             <musicConsumedProgress
                 length="2:16"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.40" />
             <osuSong personal="0.75" community="0.65" />
         </entry>
@@ -389,7 +397,8 @@
         <entry id="$-1" title="LEVEL">
             <musicConsumedProgress
                 length="4:13"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.65" />
             <osuSong personal="0.25" community="0.0" />
         </entry>
@@ -399,7 +408,8 @@
         <entry id="$-3" title="Ray">
             <musicConsumedProgress
                 length="3:49"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.60" />
             <osuSong personal="0.5" community="0.6" />
         </entry>
@@ -421,7 +431,8 @@
         <entry id="$-9" title="Shounen Ripples">
             <musicConsumedProgress
                 length="4:45"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.44" />
             <osuSong personal="0.75" community="0.2" />
         </entry>
@@ -431,7 +442,8 @@
         <entry id="$-13" title="Sunglow">
             <musicConsumedProgress
                 length="1:58"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.40" />
             <osuSong personal="0.75" community="0.75" />
         </entry>
@@ -441,7 +453,8 @@
         <entry id="$-1" title="The Glory Days">
             <musicConsumedProgress
                 length="4:16"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.53" />
             <osuSong personal="0.9" community="0.7" />
         </entry>
@@ -454,7 +467,8 @@
         <entry id="$-1" title="Wagamama MIRROR HEART">
             <musicConsumedProgress
                 length="4:34"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.41" />
             <osuSong personal="0.9" community="0.0" />
         </entry>
@@ -470,7 +484,8 @@
         <entry id="$-16" title="Xevel">
             <musicConsumedProgress
                 length="2:21"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.40" />
             <osuSong personal="0.6" community="0.8" />
         </entry>
@@ -483,7 +498,8 @@
         <entry id="$-1" title="黄泉より聴こゆ、皇国の燈と焔の少女。">
             <musicConsumedProgress
                 length="8:20"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.49" />
             <osuSong personal="1.0" community="1.0" />
         </entry>
@@ -767,13 +783,13 @@
         id="M-VGMDB-AL-106436"
         title="Ganbare! Kumoko san no Theme / &quot;Watashi&quot; (CV: Aoi Yuki)"
     >
-
         <visual type="albumArt" base="0.3" unique="0.6" />
 
         <entry id="$-1" title="Ganbare! Kumoko san no Theme">
             <musicConsumedProgress
                 length="4:03"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
             <music base="0.47" />
             <osuSong personal="0.2" community="0.3" />
         </entry>
@@ -860,7 +876,6 @@
         id="M-VGMDB-AL-74120"
         title="Anime wo Katare! ~Anime-Gatari Doukoukai no Theme~ / Maya (CV. Inori Minase) &amp; Erika (CV. Anju Inami) [Limited Edition]"
     >
-
         <visual type="albumArt" base="0.3" unique="0.5" />
 
         <entry id="$-1" title="アニメを語レ!～アニメガタリ同好会のテーマ～">
@@ -869,11 +884,11 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/644332 -->
             <musicConsumedProgress
                 length="3:36"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
-
         <visual type="albumArt" base="0.4" unique="0.5" />
 
         <entry id="$-7" title="Ange du Blanc Pur">
@@ -882,7 +897,8 @@
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1188740 -->
             <musicConsumedProgress
                 length="4:03"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
         </entry>
     </entry>
     <entry id="M-20221127T140303" title="Akaneiro no Mahou">
@@ -917,13 +933,13 @@
         <musicConsumedProgress length="3:40" />
     </entry>
     <entry id="M-VGMDB-AL-95569" title="Riririn' / Rin'ca">
-
         <visual type="albumArt" base="0.2" unique="0.2" />
 
         <entry id="$-12" title="奇跡メロディ">
             <musicConsumedProgress
                 length="4:05"
-            /> <!-- generated(fill_music_metadata.dart v0.1.1) -->
+                generatedBy="fill_music_metadata.dart v0.1.1"
+            />
 
             <music base="0.47" />
             <!-- haha segs -->
@@ -932,7 +948,6 @@
     </entry>
 
     <entry id="M-20221224T221424" title="Lionheart">
-
         <!-- Length source: https://open.spotify.com/album/6CqNBwcHMterjF1qMiNmcY -->
         <musicConsumedProgress length="4:38" />
         <music base="0.34" />
@@ -943,7 +958,6 @@
     </entry>
 
     <entry id="M-20221224T221533" title="Glory Days">
-
         <!-- Length source: https://fellowshipmetal.bandcamp.com/album/the-saberlight-chronicles -->
         <musicConsumedProgress length="4:53" />
         <music base="0.35" />

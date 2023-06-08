@@ -1,14 +1,11 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="M-VGMDB-AR-12516" title="ZAQ">
-
         <contains id="M-VGMDB-AL-42762" />
     </entry>
 
     <entry id="F-VGMDB-2330" title="Chuunibyou demo Koi ga Shitai!">
-
         <entry id="M-VGMDB-AL-42762" title="VOICE / ZAQ">
-
             <visual type="albumArt" base="0.6" unique="0.2" />
 
             <entry id="$-1" title="VOICE">

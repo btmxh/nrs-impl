@@ -1,12 +1,10 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3305" title="Saenai Heroine no Sodatekata">
-
         <entry
             id="M-VGMDB-AL-48199"
             title="Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato"
         >
-
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="M♭">
@@ -91,14 +89,12 @@
     </entry>
 
     <entry id="M-20220117T170733-1" title="Colorful. (Asterisk DnB Remix)">
-
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
         <music base="0.29" />
         <musicConsumedProgress length="5:12" generatedBy="user" />
     </entry>
 
     <entry id="M-20220117T170733-2" title="Colorful. (kamaboko remix)">
-
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
         <music base="0.38" />
         <musicConsumedProgress length="5:04" generatedBy="user" />

@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-10006" title="Tensai Ouji no Akaji Kokka Saiseijutsu">
-
         <entry id="A-MAL-47159" title="Tensai Ouji no Akaji Kokka Saisei Jutsu">
             <source>
                 <adb id="47159" />
@@ -9,7 +8,6 @@
                 <al id="129190" />
                 <mal id="47159" />
             </source>
-
 
             <bestGirl name="Ninym Ralei" />
 
@@ -36,7 +34,6 @@
             id="M-VGMDB-AL-116264"
             title="LEVEL / yanaginagi × THE SIXTH LIE"
         >
-
             <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="LEVEL">

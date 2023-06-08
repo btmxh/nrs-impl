@@ -4,9 +4,7 @@
     <!-- translate stuff for me if u want score to go up -->
 
     <entry id="F-VGMDB-6439" title="Onsen Musume">
-
         <entry id="M-VGMDB-AL-75349" title="Hop Step Jump! / SPRiNGS">
-
             <visual type="albumArt" base="0.75" unique="0.25" />
             <entry id="$-1" title="Hop Step Jump!">
                 <musicConsumedProgress length="4:59" generatedBy="user" />
@@ -25,7 +23,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-75344" title="Tsuioku Kaleidoscope / SPRiNGS">
-
             <visual type="albumArt" base="0.75" unique="0.25" />
             <!-- Length source: https://open.spotify.com/album/7iKl9h6FUWmHhRE7tg8yJh -->
             <entry id="$-1" title="純情-SAKURA-">

@@ -2,7 +2,6 @@
 <!-- the futuRe: of gen2 -->
 <document>
     <entry id="F-VGMDB-9540" title="CUE!">
-
         <!-- this franchise was first discovered while i'm listening to -->
         <!-- rst songs on spotify (like onsen), therefore it's known as -->
         <!-- the futuRe: of gen2 -->
@@ -53,7 +52,6 @@
             id="M-VGMDB-AL-115724"
             title="Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE"
         >
-
             <visual type="albumArt" base="0.5" unique="0.2" />
 
             <entry id="$-1" title="スタートライン">
@@ -68,7 +66,6 @@
         </entry>
 
         <entry id="M-VGMDB-AR-33857" title="AiRBLUE">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-115724" />
             </contains>

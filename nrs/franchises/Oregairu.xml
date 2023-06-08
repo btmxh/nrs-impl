@@ -4,7 +4,6 @@
         id="F-VGMDB-3274"
         title="Yahari Ore no Seishun Love Comedy wa Machigatteiru."
     >
-
         <contains id="M-VGMDB-AL-37932-1" />
         <contains id="M-VGMDB-AL-51516-1" />
         <contains id="M-VGMDB-AL-96288-1" />
@@ -13,7 +12,6 @@
             id="M-VGMDB-AL-37999"
             title="Hello Alone / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"
         >
-
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <music base="0.3">
@@ -23,7 +21,6 @@
 
             <entry id="$-1" title="Hello Alone">
                 <musicConsumedProgress length="4:39" />
-
             </entry>
             <entry id="$-2" title="Hello Alone -Yui Ballade-">
                 <musicConsumedProgress length="4:53" />
@@ -34,7 +31,6 @@
             id="M-VGMDB-AL-51394"
             title="Everyday World / Yukino Yukinoshita (CV.Saori Hayami) &amp; Yui Yuigahama (CV.Nao Toyama)"
         >
-
             <visual type="albumArt" base="0.4" unique="0.25" />
 
             <music base="0.35">
@@ -44,14 +40,12 @@
 
             <entry id="$-1" title="エブリデイワールド">
                 <musicConsumedProgress length="4:22" />
-
             </entry>
             <entry
                 id="$-3"
                 title=" Everyday World -Ballade Arrange- Yui Solo Ver."
             >
                 <musicConsumedProgress length="5:29" />
-
             </entry>
         </entry>
 
@@ -59,7 +53,6 @@
             id="M-VGMDB-AL-96290"
             title="Diamond no Jundo / Yukino Yukinoshita (CV: Saori Hayami) &amp; Yui Yuigahama (CV: Nao Toyama)"
         >
-
             <visual type="albumArt" base="0.4" unique="0.25" />
 
             <entry id="$-1" title="Diamond no Jundo">

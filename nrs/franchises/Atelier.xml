@@ -136,7 +136,6 @@
             id="M-VGMDB-AL-45361"
             title="Escha &amp; Logy no Atelier ~Tasogare no Sora no Renkinjutsushi~ Original Soundtrack the Animation"
         >
-
             <visual type="albumArt" base="0.4" unique="0.25" />
             <entry id="$-1" title="アスイロ">
                 <musicConsumedProgress length="4:45" />
@@ -162,7 +161,7 @@
             <!-- i started the game oops -->
 
             <!-- Romaji name is canon -->
-<!--            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~" -->
+            <!-- title = "Atelier Sophie ~The Alchemist of the Mysterious Book~" -->
 
             <bestGirl name="Wise Spirit" generatedBy="user" />
             <!-- "sach cho" my beloved -->
@@ -184,8 +183,8 @@
         >
             <!-- "not even at the start line" -->
 
-<!--            <bestGirl name="Harry Maguire" /> -->
-<!--            <bestGirl name="Fred dai de" /> -->
+            <!-- <bestGirl name="Harry Maguire" /> -->
+            <!-- <bestGirl name="Fred dai de" /> -->
             <!-- atelier games visual comes in two part -->
             <visual type="rpg3dGame" base="0.6" unique="0.4" />
             <visual type="visualNovel" base="0.5" unique="0.3" />
@@ -228,7 +227,6 @@
             id="M-VGMDB-AL-45607"
             title="Twilight Ocean Shallie no Atelier ~Tasogare no Umi no Renkinjutsushi~ Vocal Album"
         >
-
             <visual type="albumArt" base="0.35" unique="0.3" />
             <entry id="$-4" title="Miruiro no Hoshi">
                 <musicConsumedProgress length="5:41" />
@@ -240,7 +238,6 @@
             id="M-VGMDB-AL-59535"
             title="Firis no Atelier ~Fushigi na Tabi no Renkinjutsushi~ Vocal Album"
         >
-
             <visual type="albumArt" base="0.2" unique="0.5" />
             <entry id="$-9" title="Into the Journey">
                 <musicConsumedProgress length="5:22" />

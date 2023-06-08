@@ -2,9 +2,7 @@
 <document>
     <!-- the funny visual novel that got fucked by e2e lmfao -->
     <entry id="F-VGMDB-8817" title="ATRI -My Dear Moments-">
-
         <entry id="V-VNDB-27448" title="ATRI -My Dear Moments-">
-
             <bestGirl name="Atri" />
             <!-- wait wtf -->
             <!-- minamo's va is the same person as aone's va -->
@@ -30,7 +28,6 @@
             id="M-VGMDB-AL-100754"
             title="ATRI -My Dear Moments- Original Soundtrack"
         >
-
             <visual type="albumArt" base="0.7" unique="0.15" />
 
             <!-- like the aokana soundtrack album -->

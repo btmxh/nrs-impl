@@ -1,12 +1,10 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3483" title="Kokoro Connect">
-
         <entry
             id="M-VGMDB-AL-35431"
             title="Kokoro Connect Original Soundtrack 2 Hito Random &amp; Kizu Random Opening Theme Song &quot;Kimochi Signal&quot; / Kizu Random Ending Theme Song &quot;Cry out&quot;"
         >
-
             <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Kimochi Signal">

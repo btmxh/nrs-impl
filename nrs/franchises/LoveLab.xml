@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2520" title="Love Lab">
-
         <entry id="A-MAL-16353" title="Love Lab">
             <source>
                 <adb id="16353" />

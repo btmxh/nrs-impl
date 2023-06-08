@@ -8,12 +8,10 @@
     <!--      (2)   (2)   (2) -->
 
     <entry id="F-VGMDB-6434" title="OneRoom">
-
         <entry
             id="M-VGMDB-AL-63666"
             title="harumachi clover / Yui Hanasaka (CV: M·A·O)"
         >
-
             <visual type="albumArt" base="0.5" unique="0.25" />
             <entry id="$-1" title="Harumachi Clover">
                 <musicConsumedProgress length="4:06" />
@@ -57,7 +55,6 @@
         id="M-20220130T185336-2"
         title="Harumachi Clover (Swing Arrangement) [Dictate Edit]"
     >
-
         <!-- Length source: https://www.youtube.com/watch?v=2OfJYisHbkI -->
         <music base="0.38" />
         <musicConsumedProgress length="0:36" generatedBy="user" />

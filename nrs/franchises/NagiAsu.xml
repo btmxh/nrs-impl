@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2662" title="Nagi no Asu kara">
-
         <contains id="M-VGMDB-AL-41278-1" />
         <contains id="M-VGMDB-AL-41280-1" />
         <contains id="M-VGMDB-AL-42900-1" />
@@ -9,7 +8,6 @@
         <contains id="M-VGMDB-AL-43164-1" />
 
         <entry id="M-VGMDB-AL-45187" title="Nagi no Asukara Character Song CD3">
-
             <visual type="albumArt" base="0.4" unique="0.4" />
             <entry id="$-1" title="ripple ~my first love~">
                 <musicConsumedProgress length="4:22" />

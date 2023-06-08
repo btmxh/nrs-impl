@@ -1,12 +1,10 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-8954" title="Kobayashi-san Chi no Maid Dragon">
-
         <entry
             id="M-VGMDB-AL-62516"
             title="Aozora no Rhapsody / fhána [Anime Edition]"
         >
-
             <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="青空のラプソディ">
@@ -20,7 +18,6 @@
             id="M-VGMDB-AL-110219"
             title="Ai no Supreme! / fhána [Anime Edition]"
         >
-
             <visual type="albumArt" base="0.65" unique="0.3" />
 
             <entry id="$-1" title="Ai no Supreme!">

@@ -2,7 +2,6 @@
 <document>
     <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
         <entry id="A-MAL-37976" title="Zombieland Saga">
-
             <source>
                 <adb id="37976" />
                 <ks id="41459" />
@@ -46,7 +45,6 @@
             id="M-VGMDB-AL-109367"
             title="Taiga yo Tomo ni Naite Kure/Nope!!!!!"
         >
-
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Taiga yo Tomo ni Naite Kure">
                 <musicConsumedProgress length="3:29" />

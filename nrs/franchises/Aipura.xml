@@ -1,8 +1,8 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9358" title="Idoly Pride">
-
         <!-- A moment of silence for Ms. Kanda Sayaka -->
+        <!-- prettier-ignore-start -->
 
 
 
@@ -23,6 +23,7 @@
 
 
 
+        <!-- prettier-ignore-end -->
         <entry id="A-MAL-40842" title="Idoly Pride">
             <source>
                 <adb id="40842" />
@@ -51,7 +52,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production">
-
             <visual type="albumArt" base="0.6" unique="0.3" />
             <entry id="$-1" title="IDOLY PRIDE">
                 <musicConsumedProgress length="3:38" />

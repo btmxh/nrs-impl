@@ -2,12 +2,10 @@
 <document>
     <!-- original of irodori covers -->
     <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP">
-
         <contains id="M-VGMDB-AL-91187-35" />
     </entry>
 
     <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I">
-
         <visual type="albumArt" base="0.05" unique="0.5" />
 
         <entry id="$-35" title="エンドマークに希望と涙を添えて">
@@ -18,7 +16,6 @@
     </entry>
 
     <entry id="F-VGMDB-10978" title="Irodorimidori">
-
         <entry id="A-MAL-50267" title="Irodorimidori">
             <source>
                 <adb id="50267" />
@@ -41,7 +38,6 @@
             id="M-VGMDB-AL-93299"
             title="GO!GO! Chunithm♥Endmark / IRODORIMIDORI"
         >
-
             <visual type="albumArt" base="0.5" unique="0.35" />
 
             <entry
@@ -61,7 +57,6 @@
             <visual type="albumArt" base="0.35" unique="0.4" />
 
             <entry id="M-20220130T165739-3" title="Bokura no Freedom DiVE↓">
-
                 <visual type="albumArt" base="0.4" unique="0.45" />
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1667264 -->
@@ -73,7 +68,6 @@
                 id="M-20220130T165739-4"
                 title="Zero kara hajimeru Brain Power"
             >
-
                 <!-- Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc -->
                 <music base="0.25" />
                 <musicConsumedProgress length="5:15" generatedBy="user" />

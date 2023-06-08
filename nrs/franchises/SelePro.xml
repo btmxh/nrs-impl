@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9703" title="SELECTION PROJECT">
-
         <entry id="A-MAL-44275" title="Selection Project">
             <source>
                 <adb id="44275" />
@@ -35,7 +34,6 @@
             id="M-VGMDB-AL-114102"
             title="SELECTION PROJECT Main Theme Song CD"
         >
-
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Glorious Days">
                 <musicConsumedProgress length="3:54" />
@@ -47,7 +45,6 @@
             id="M-VGMDB-AL-115010"
             title="SELECTION PROJECT CHARACTER SONG CD 03"
         >
-
             <visual type="albumArt" base="0.3" unique="0.3" />
             <entry id="$-1" title="ENDROLL">
                 <musicConsumedProgress length="3:53" generatedBy="user" />

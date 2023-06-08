@@ -315,12 +315,11 @@
         <!-- this was pretty boring ngl -->
         <!-- and now it's the duopoly era so -->
         <!-- they got cucked -->
-<!--            status = EntryStatus.Watching -->
+        <!-- status = EntryStatus.Watching -->
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="3" />
         <dropped />
         <visual type="animated" base="0.5" unique="0.3" />
     </entry>
-
 
     <entry id="A-MAL-35756" title="Comic Girls">
         <source>
@@ -570,10 +569,10 @@
             <al id="112479" />
             <mal id="40550" />
         </source>
-        <bestGirl name="Shirai Yuyu" /> <!-- himekek my beloved -->
-        <bestGirl
-            name="Wang Yujia"
-        /> <!-- noway it's the kimi no rhapsody girl -->
+        <bestGirl name="Shirai Yuyu" />
+        <!-- himekek my beloved -->
+        <bestGirl name="Wang Yujia" />
+        <!-- noway it's the kimi no rhapsody girl -->
         <bestGirl name="Thi Mai Yoshimura" />
 
         <!-- in all seriousness, this is quite good. -->
@@ -712,7 +711,7 @@
 
         <!-- the hoan tinh anime pt.1 -->
         <!-- from ep 5 to 10 there's no hoan tinh madge -->
-<!--            AnimeProgress(Boredom.PartiallyDropped(0.25)) -->
+        <!-- AnimeProgress(Boredom.PartiallyDropped(0.25)) -->
         <!-- i finished ep12, but e5-10 hasn't been watched -->
         <!-- TODO: use separate apis -->
         <animeConsumedProgress status="Dropped" boredom="1.0" episodes="6" />

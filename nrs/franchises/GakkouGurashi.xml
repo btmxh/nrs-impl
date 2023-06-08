@@ -1,9 +1,7 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4000" title="Gakkougurashi!">
-
         <entry id="M-VGMDB-AL-52993" title="Friend Shitai / Gakuen Seikatsubu">
-
             <visual type="albumArt" base="0.65" unique="0.3" />
 
             <entry id="$-1" title="Friend Shitai">
@@ -25,7 +23,6 @@
             id="M-VGMDB-AL-53719"
             title="TV Anime &quot;Gakkou Gurashi!&quot; Character Song 4 / Miki Naoki (CV. Rie Takahashi) &amp; Kurumi Ebisuzawa (CV. Ari Ozawa)"
         >
-
             <visual type="albumArt" base="0.6" unique="0.25" />
 
             <entry id="$-1" title="アンハッピーエンドワールド">

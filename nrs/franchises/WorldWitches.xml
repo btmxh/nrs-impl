@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4639" title="World Witches Series">
-
         <entry id="A-MAL-3667" title="Strike Witches">
             <source>
                 <adb id="3667" />
@@ -66,7 +65,7 @@
             <!-- mc is cute -->
             <!-- ngl this is a treat for our eyes -->
             <visual type="animated" base="0.8" unique="0.05" />
-<!--        <bestGirl name="Robertson Virginia" /> -->
+            <!-- <bestGirl name="Robertson Virginia" /> -->
             <bestGirl name="Inori Shibuya" />
             <!-- inori is cuter fuck u -->
 
@@ -166,7 +165,6 @@
             id="M-VGMDB-AL-31409"
             title="Strike Witches Gekijouban Original Soundtrack"
         >
-
             <visual type="albumArt" base="0.3" unique="0.4" />
 
             <entry id="$-34" title="Yakusoku no Sora e ~Watashi no Ita Basho~">
@@ -181,7 +179,6 @@
         id="M-20221009T085407"
         title="- 約束の空へ ～私のいた場所～(Soleily Remix)"
     >
-
         <music base="0.64" />
         <!-- Length source: https://www.youtube.com/watch?v=g4wmNMXmBU0 -->
         <musicConsumedProgress length="5:48" />
