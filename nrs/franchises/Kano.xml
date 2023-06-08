@@ -142,7 +142,7 @@
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
                     <musicConsumedProgress
                         length="4:33"
-                    /> <!-- impl_overridden -->
+                    generatedBy="user" />
                     <music base="0.34" />
                     <nei base="0.1" emotions="CU" />
 
@@ -159,7 +159,7 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
                 <music base="0.60" />
-                <musicConsumedProgress length="4:19" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:19" generatedBy="user" />
                 <nei base="0.5" emotions="CP" />
 
                 <!-- I HATE HIMENO SENA -->
@@ -261,7 +261,7 @@
 
                 <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
                 <music base="0.46" />
-                <musicConsumedProgress length="3:29" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="3:29" generatedBy="user" />
             </entry>
         </contains>
 

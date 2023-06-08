@@ -50,7 +50,7 @@
 
             <visual type="albumArt" base="0.3" unique="0.3" />
             <entry id="$-1" title="ENDROLL">
-                <musicConsumedProgress length="3:53" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="3:53" generatedBy="user" />
                 <music base="0.47" />
             </entry>
         </entry>

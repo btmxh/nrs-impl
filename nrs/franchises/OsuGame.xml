@@ -33,7 +33,7 @@
 
         <!-- Length source: https://www.youtube.com/watch?v=rnWXN8m6drc -->
         <music base="0.36" />
-        <musicConsumedProgress length="4:42" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="4:42" generatedBy="user" />
     </entry>
 
     <entry id="M-VGMDB-AL-49508" title="Tsukinami / Kanon Wakeshima">
@@ -42,7 +42,7 @@
         <entry id="$-2" title="ツキナミ">
             <music base="0.47" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/896080#osu/1872396 -->
-            <musicConsumedProgress length="4:44" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="4:44" generatedBy="user" />
         </entry>
     </entry>
 
@@ -143,7 +143,7 @@
         <visual type="albumArt" base="0.5" unique="0.3" />
         <entry id="$-1" title="Ringing＊Days fullver.">
             <!-- Length source: https://www.youtube.com/watch?v=d6KEr9wLTm4 -->
-            <musicConsumedProgress length="5:07" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="5:07" generatedBy="user" />
             <music base="0.56" />
         </entry>
     </entry>
@@ -233,7 +233,7 @@
         <visual type="albumArt" base="0.3" unique="0.5" />
         <entry id="$-2" title="EOS -Long Version-">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/160493#osu/392028 -->
-            <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="4:05" generatedBy="user" />
             <music base="0.40" />
             <osuSong personal="0.75" community="0.4" />
         </entry>
@@ -242,7 +242,7 @@
         <visual type="albumArt" base="0.3" unique="0.6" />
         <entry id="$-11" title="Exit This Earth's Atomosphere">
             <!-- Length source: https://www.youtube.com/watch?v=QsuAKlNe_rI -->
-            <musicConsumedProgress length="5:32" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="5:32" generatedBy="user" />
             <music base="0.39" />
             <osuSong personal="0.35" community="0.75" />
         </entry>
@@ -411,7 +411,7 @@
         <visual type="albumArt" base="0.4" unique="0.4" />
         <entry id="$-1" title="Sendan Life">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/416153#osu/901854 -->
-            <musicConsumedProgress length="3:52" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="3:52" generatedBy="user" />
             <music base="0.39" />
             <osuSong personal="0.7" community="0.8" />
         </entry>
@@ -492,7 +492,7 @@
         <visual type="albumArt" base="0.25" unique="0.5" />
         <entry id="$-1" title="Yuima-ru★World">
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1151399#osu/2403410 -->
-            <musicConsumedProgress length="2:03" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="2:03" generatedBy="user" />
             <music base="0.29" />
             <osuSong personal="0.3" community="0.75" />
         </entry>

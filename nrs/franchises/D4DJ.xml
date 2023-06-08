@@ -53,7 +53,7 @@
             <validatorSuppress rules="dah-visualless-entry" />
             <entry id="$-2" title="Brand New World">
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
-                <musicConsumedProgress length="4:06" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:06" generatedBy="user" />
                 <music base="0.44" />
             </entry>
         </entry>

@@ -249,7 +249,7 @@
             <mal id="34240" />
         </source>
 
-        <bestGirl name="Rin" /> <!-- impl_overridden -->
+        <bestGirl name="Rin" generatedBy="user" />
 
         <!-- catJAM -->
         <music base="0.60" />
@@ -414,7 +414,7 @@
             <al id="101547" />
             <mal id="37744" />
         </source>
-        <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
+        <bestGirl name="Azuma Rin" generatedBy="user" />
 
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="8" />
         <dropped />
@@ -773,7 +773,7 @@
             <al id="131878" />
             <mal id="48644" />
         </source>
-        <bestGirl name="Akagi Rin" /> <!-- impl_overridden -->
+        <bestGirl name="Akagi Rin" generatedBy="user" />
 
         <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
         <aei base="0.5" emotions="MP-0.5:AP-0.5" />

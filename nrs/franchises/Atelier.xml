@@ -164,7 +164,7 @@
             <!-- Romaji name is canon -->
 <!--            title = "Atelier Sophie ~The Alchemist of the Mysterious Book~" -->
 
-            <bestGirl name="Wise Spirit" /> <!-- impl_overridden -->
+            <bestGirl name="Wise Spirit" generatedBy="user" />
             <!-- "sach cho" my beloved -->
             <!-- also i forgor rosia-chan :skull: -->
 

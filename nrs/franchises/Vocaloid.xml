@@ -16,7 +16,7 @@
 
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
             <music base="0.425" />
-            <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="4:32" generatedBy="user" />
             <remix id="M-20220205T023322-1" />
             <remix id="M-20220205T023322-3" />
         </entry>
@@ -30,7 +30,7 @@
         <!-- yuiko version is probably the best, music-wise -->
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
         <music base="0.54" />
-        <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="4:32" generatedBy="user" />
     </entry>
 
     <entry id="M-20220205T023322-3" title="Chikyuu Saigo no Kokuhaku wo (HAG)">
@@ -38,7 +38,7 @@
         <!-- quite good, but they didn't keep the orig. inst. -->
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
         <music base="0.46" />
-        <musicConsumedProgress length="4:23" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="4:23" generatedBy="user" />
     </entry>
 
     <entry id="M-20221115T105859" title="AI">

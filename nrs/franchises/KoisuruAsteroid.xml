@@ -9,7 +9,7 @@
                 <al id="108092" />
                 <mal id="39388" />
             </source>
-            <bestGirl name="Kotonoha Mira" /> <!-- impl_overridden -->
+            <bestGirl name="Kotonoha Mira" generatedBy="user" />
 
             <animeConsumedProgress
                 status="Completed"

@@ -85,7 +85,7 @@
 
             <entry id="$-1" title="Chronostasis">
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
-                <musicConsumedProgress length="6:22" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="6:22" generatedBy="user" />
                 <music base="0.47" />
                 <osuSong personal="0.0" community="0.3" />
             </entry>

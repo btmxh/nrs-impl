@@ -11,7 +11,7 @@
 
             <entry id="$-1" title="青空のラプソディ">
                 <!-- Length source: https://open.spotify.com/album/7AA47NCwpqemraOTWD1oCV -->
-                <musicConsumedProgress length="4:38" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:38" generatedBy="user" />
                 <music base="0.30" />
             </entry>
         </entry>
@@ -38,7 +38,7 @@
                 <al id="21776" />
                 <mal id="33206" />
             </source>
-            <bestGirl name="Tohru" /> <!-- impl_overridden -->
+            <bestGirl name="Tohru" generatedBy="user" />
 
             <!-- funny ig idk tbh -->
             <nei base="0.75" emotions="AP" />

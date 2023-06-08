@@ -1056,7 +1056,7 @@
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Imperial Stage">
                 <!-- Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8 -->
-                <musicConsumedProgress length="3:24" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="3:24" generatedBy="user" />
                 <ref
                     name="ReStepMusic"
                     a_base="0.20"

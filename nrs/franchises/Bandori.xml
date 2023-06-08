@@ -307,7 +307,7 @@
             <entry id="M-20220130T183728-2" title="Cherry Bomb">
 
                 <!-- Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP -->
-                <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:05" generatedBy="user" />
                 <music base="0.32" />
                 <remix id="M-VGMDB-AL-106577-1" />
             </entry>
@@ -335,7 +335,7 @@
     >
 
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138 -->
-        <musicConsumedProgress length="2:15" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="2:15" generatedBy="user" />
         <music base="0.36" />
     </entry>
 </document>

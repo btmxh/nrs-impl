@@ -352,7 +352,7 @@
 
             <entry id="$-1" title="Heart wo Rock!!">
                 <!-- Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf -->
-                <musicConsumedProgress length="4:12" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:12" generatedBy="user" />
                 <ref
                     name="FesALiveMusic"
                     a_base="0.63"
@@ -492,7 +492,7 @@
                 a_eras="arc2=20.0:arc3=10.0"
                 a_from="arc2"
             />
-            <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="1:34" generatedBy="user" />
         </entry>
 
         <entry
@@ -1040,7 +1040,7 @@
 
         <!-- Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix -->
         <music base="0.49" />
-        <musicConsumedProgress length="5:02" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="5:02" generatedBy="user" />
         <osuSong personal="0.75" community="0.0" />
     </entry>
 

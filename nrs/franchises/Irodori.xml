@@ -49,7 +49,7 @@
                 title="エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～"
             >
                 <!-- Length source: https://www.youtube.com/watch?v=wR-u0IRw5wc -->
-                <musicConsumedProgress length="4:35" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:35" generatedBy="user" />
 
                 <music base="0.40" />
             </entry>
@@ -66,7 +66,7 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1667264 -->
                 <music base="0.34" />
-                <musicConsumedProgress length="5:16" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="5:16" generatedBy="user" />
             </entry>
 
             <entry
@@ -76,7 +76,7 @@
 
                 <!-- Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc -->
                 <music base="0.25" />
-                <musicConsumedProgress length="5:15" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="5:15" generatedBy="user" />
             </entry>
         </entry>
 

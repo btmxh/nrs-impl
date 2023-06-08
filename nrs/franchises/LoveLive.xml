@@ -719,6 +719,6 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
         <!-- hmm should i pick the dt length or the normal length :tf: -->
         <!-- Length source: https://www.youtube.com/watch?v=m6bYJ17psmg -->
-        <musicConsumedProgress length="1:56" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="1:56" generatedBy="user" />
     </entry>
 </document>

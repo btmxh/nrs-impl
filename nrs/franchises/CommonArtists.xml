@@ -299,7 +299,7 @@
             >
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393 -->
-                <musicConsumedProgress length="5:21" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="5:21" generatedBy="user" />
                 <music base="0.54" />
             </entry>
 
@@ -309,7 +309,7 @@
             >
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882 -->
-                <musicConsumedProgress length="6:19" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="6:19" generatedBy="user" />
                 <music base="0.30" />
             </entry>
         </contains>
@@ -743,7 +743,7 @@
                 id="M-20220818T163913-2"
                 title="Shoujotachi no Owaranai Yoru"
             >
-                <musicConsumedProgress length="4:08" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:08" generatedBy="user" />
                 <music base="0.56" />
             </entry>
 
@@ -917,7 +917,7 @@
                 <entry id="$-6" title="Azure Reunion">
                     <musicConsumedProgress
                         length="5:06"
-                    /> <!-- impl_overridden -->
+                    generatedBy="user" />
                     <music base="0.82" />
                     <remix id="M-VGMDB-AL-108194-5" />
                     <!-- CLC cope -->

@@ -1,7 +1,7 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="O-20220415T155427" title="Kizuna Method">
-        <bestGirl name="method" /> <!-- impl_overridden -->
+        <bestGirl name="method" generatedBy="user" />
 
         <ref name="RSTSB69DuopolyEra" a_strength="0.5" />
         <ref name="IdolDystopia" a_strength="0.2" />
