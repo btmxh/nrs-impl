@@ -5,7 +5,6 @@
     <!-- is a direct consequence of the era -->
 
     <entry id="F-VGMDB-2645" title="Wake Up, Girls!">
-
         <!-- this is what happen when you combine -->
         <!-- atmospheric farming with idolshit -->
         <!-- also watch rst -->
@@ -17,7 +16,6 @@
         </aei>
 
         <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-42945" />
                 <contains id="M-VGMDB-AL-46042" />
@@ -26,7 +24,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!">
-
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="Tachiagare!">
@@ -36,7 +33,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-42945" title="7 Girls War / Wake Up, Girls!">
-
             <visual type="albumArt" base="0.4" unique="0.6" />
 
             <entry id="$-1" title="7 Girls War">
@@ -153,7 +149,6 @@
         id="M-VGMDB-AL-68276"
         title="One In A Billion / Wake Up, May'n! [Limited Edition]"
     >
-
         <!-- dream luck be like lmfao -->
 
         <visual type="albumArt" base="0.1" unique="0.2" />

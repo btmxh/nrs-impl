@@ -3,14 +3,12 @@
     <!-- also include MagiReco -->
 
     <entry id="F-VGMDB-1945" title="Mahou Shoujo Madoka☆Magica">
-
         <contains id="M-VGMDB-AL-23391-1" />
 
         <entry
             id="M-VGMDB-AL-30302"
             title="Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"
         >
-
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-2" title="Mata Ashita">
                 <musicConsumedProgress length="4:27" />
@@ -22,7 +20,6 @@
             id="M-VGMDB-AL-24725"
             title="Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"
         >
-
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-4" title="Believing in Justice">
                 <musicConsumedProgress length="1:56" />
@@ -34,7 +31,6 @@
             id="M-VGMDB-AL-39170"
             title="Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"
         >
-
             <visual type="albumArt" base="0.35" unique="0.6" />
             <entry id="$-2" title="and I'm home">
                 <musicConsumedProgress length="2:50" />
@@ -49,7 +45,6 @@
             id="M-VGMDB-AL-113295"
             title="TV Anime &quot;Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-&quot; Theme Song Collection"
         >
-
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="ケアレス">
@@ -61,7 +56,6 @@
         <contains id="M-VGMDB-AL-89431-1" />
 
         <entry id="M-VGMDB-AL-95029" title="Gomakashi / TrySail">
-
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Gomakashi">
@@ -71,7 +65,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-91985" title="Utsuroi / TrySail">
-
             <visual type="albumArt" base="0.45" unique="0.4" />
 
             <entry id="$-1" title="Utsuroi">
@@ -173,7 +166,6 @@
             id="G-VGMDB-5237"
             title="Magia Record: Mahou Shoujo Madoka★Magica Gaiden"
         >
-
             <bestGirl name="Iroha Tamaki" />
             <!-- Madokami's MGS -->
             <!-- It's revealed that in 99% other universes, -->
@@ -297,7 +289,6 @@
 
         <contains factor="0.5">
             <entry id="M-20220113T184042-3" title="Colorful - Magibeat Remix">
-
                 <!-- Length source: https://www.nicovideo.jp/watch/sm22151925 -->
                 <music base="0.35" />
                 <musicConsumedProgress length="4:35" />

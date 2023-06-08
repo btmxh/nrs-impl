@@ -16,7 +16,7 @@
 
             <!-- Length source: https://www.nicovideo.jp/watch/sm18198019 -->
             <music base="0.425" />
-            <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="4:32" generatedBy="user" />
             <remix id="M-20220205T023322-1" />
             <remix id="M-20220205T023322-3" />
         </entry>
@@ -26,23 +26,20 @@
         id="M-20220205T023322-1"
         title="Chikyuu Saigo no Kokuhaku wo (yuikonnu)"
     >
-
         <!-- yuiko version is probably the best, music-wise -->
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
         <music base="0.54" />
-        <musicConsumedProgress length="4:32" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="4:32" generatedBy="user" />
     </entry>
 
     <entry id="M-20220205T023322-3" title="Chikyuu Saigo no Kokuhaku wo (HAG)">
-
         <!-- quite good, but they didn't keep the orig. inst. -->
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
         <music base="0.46" />
-        <musicConsumedProgress length="4:23" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="4:23" generatedBy="user" />
     </entry>
 
     <entry id="M-20221115T105859" title="AI">
-
         <visual type="semiAnimatedMV" base="0.6" unique="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
         <musicConsumedProgress length="4:23" />
@@ -136,7 +133,8 @@
     <entry id="M-20221217T174507" title="Kutsumigaki to Maria">
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         <visual type="animatedMV" base="0.5" unique="0.6" />
-        <music base="0.45" /> <!-- a bit dull at times but... -->
+        <music base="0.45" />
+        <!-- a bit dull at times but... -->
         <ref
             name="KoikakeCry"
             a_contribution="0.85"
@@ -159,7 +157,6 @@
     </entry>
 
     <entry id="M-20221224T223044" title="Hitori no Kimi to Hitori no Boku ni">
-
         <!-- suzumu the goat -->
         <!-- obligatory honokaCLAP and catJAM -->
         <!-- https://github.com/ngoduyanh/gifs/blob/master/gif/honokaCLAP.gif -->

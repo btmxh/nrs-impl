@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3345" title="Shigatsu wa Kimi no Uso">
-
         <entry id="A-MAL-23273" title="Shigatsu wa Kimi no Uso">
             <source>
                 <adb id="23273" />
@@ -47,7 +46,6 @@
             id="M-VGMDB-AL-49046"
             title="Shigatsu wa Kimi no Uso ORIGINAL SONG &amp; SOUNDTRACK"
         >
-
             <visual type="albumArt" base="0.4" unique="0.5" />
             <entry id="$-1" title="Kimi wa Wasurerareru no">
                 <musicConsumedProgress length="1:34" />
@@ -67,7 +65,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-9069" title="Masaru Yokoyama">
-
         <contains id="M-VGMDB-AL-49046" />
     </entry>
 </document>

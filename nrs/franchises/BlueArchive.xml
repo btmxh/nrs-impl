@@ -15,7 +15,6 @@
             id="M-VGMDB-AL-126116"
             title="Blue Archive Original Soundtrack Vol.3 ~Reaching for the precious time~"
         >
-
             <!-- hfiumi buff (without hfiumi base is 0.3) -->
             <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-4" title="Hifumi Daisuki">
@@ -33,7 +32,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-108549" title="Clear Morning / Yui Ogura">
-
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Clear Morning">
                 <musicConsumedProgress length="4:38" />
@@ -55,7 +53,6 @@
         </entry>
 
         <entry id="G-VGMDB-9895" title="Blue Archive">
-
             <!-- yet another gacha game waiting to be dead xddd -->
             <!-- let enjoy it while it lasts -->
             <featureMusic id="M-VGMDB-AL-126116" />

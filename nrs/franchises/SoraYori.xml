@@ -4,7 +4,6 @@
     <!-- but they got dropped sadge -->
 
     <entry id="F-VGMDB-7040" title="Sora yori mo Tooi Basho">
-
         <entry id="A-MAL-35839" title="Sora yori mo Tooi Basho">
             <source>
                 <adb id="35839" />
@@ -42,7 +41,6 @@
             id="M-VGMDB-AL-73544"
             title="Koko kara, Koko kara / Mari Tamaki (CV: Inori Minase), Shirase Kobuchizawa (CV: Kana Hanazawa), Hinata Miyake (CV: Yuka Iguchi), Yuzuki Shiraishi (CV: Saori Hayami)"
         >
-
             <visual type="albumArt" base="0.3" unique="0.5" />
             <entry id="$-1" title="Koko kara, Koko kara">
                 <musicConsumedProgress length="4:36" />

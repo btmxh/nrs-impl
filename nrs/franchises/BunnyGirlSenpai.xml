@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6852" title="Seishun Buta Yarou Series">
-
         <entry
             id="A-MAL-37450"
             title="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
@@ -30,7 +29,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-80253" title="Kimi no Sei / the peggies">
-
         <!-- tf is this lol -->
         <visual type="albumArt" base="0.1" unique="0.6" />
 

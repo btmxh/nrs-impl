@@ -17,7 +17,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-15361" title="Inori Minase">
-
         <contains id="M-20220116T062502" factor="1.0 / 5" />
         <contains id="M-20220211T055120" factor="1.0 / 4" />
 
@@ -35,7 +34,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-15350" title="M·A·O">
-
         <contains id="M-20220211T055120" factor="1.0 / 4" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-63666" />
@@ -43,7 +41,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-16380" title="Rie Takahashi">
-
         <contains id="M-20220211T055120" factor="1.0 / 4" />
 
         <contains factor="vocal+image">
@@ -52,7 +49,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-15998" title="Ari Ozawa">
-
         <contains id="M-20220117T170733-4" factor="1.0 / 2" />
         <contains id="M-20220211T055120" factor="1.0 / 4" />
 
@@ -63,7 +59,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-12726" title="Ayane Sakura">
-
         <contains id="M-20220116T062502" factor="1.0 / 5" />
         <contains id="M-20220125T063355-2" factor="1.0 / 4" />
 
@@ -73,28 +68,23 @@
     </entry>
 
     <entry id="M-VGMDB-AR-13211" title="Risa Taneda">
-
         <contains id="M-20220116T062502" factor="1.0 / 5" />
     </entry>
 
     <entry id="M-VGMDB-AR-8874" title="Satomi Sato">
-
         <contains id="M-20220116T062502" factor="1.0 / 5" />
     </entry>
 
     <entry id="M-VGMDB-AR-13289" title="Maaya Uchida">
-
         <contains id="M-20220116T062502" factor="1.0 / 5" />
     </entry>
 
     <entry id="M-VGMDB-AR-13857" title="fhána">
-
         <!-- band, so no Contains(ImageVocalContainFactor) block -->
         <contains id="M-VGMDB-AL-62516" />
         <contains id="M-VGMDB-AL-110219" />
 
         <entry id="M-VGMDB-AL-47403" title="Hoshikuzu no Interlude / fhána">
-
             <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Hoshikuzu no Interlude">
@@ -119,7 +109,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-15119" title="Scop">
-
         <contains id="M-VGMDB-AL-37130-1" factor="inst / 3.0" />
         <contains id="M-VGMDB-AL-37130-2" factor="inst / 3.0" />
         <contains id="M-VGMDB-AL-37130-3" factor="inst / 3.0" />
@@ -128,7 +117,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-15120" title="keeno">
-
         <contains id="M-VGMDB-AL-37130-4" factor="inst / 3.0" />
         <contains id="M-VGMDB-AL-37130-5" factor="inst / 3.0" />
         <contains id="M-VGMDB-AL-37130-6" factor="inst / 3.0" />
@@ -139,14 +127,12 @@
     </entry>
 
     <entry id="M-VGMDB-AR-17551" title="Shuka Saito">
-
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-97692" />
         </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29323" title="Kaori Maeda">
-
         <contains
             id="M-VGMDB-AR-29922"
             factor="1.5/16.5 // NijiOldGirlContainFactor"
@@ -157,7 +143,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-29640" title="Aguri Onishi">
-
         <contains
             id="M-VGMDB-AR-29922"
             factor="1.5/16.5 // NijiOldGirlContainFactor"
@@ -186,7 +171,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-26954" title="Chiemi Tanaka">
-
         <contains
             id="M-VGMDB-AR-29922"
             factor="1.5/16.5 // NijiOldGirlContainFactor"
@@ -197,10 +181,8 @@
     </entry>
 
     <entry id="M-VGMDB-AR-16469" title="TrySail">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-69147" title="TAILWIND / TrySail">
-
                 <visual type="albumArt" base="0.1" unique="0.3" />
 
                 <entry id="$-11" title="かかわり">
@@ -229,7 +211,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-11829" title="ClariS">
-
         <contains factor="vocal+image">
             <!-- colorful remixes -->
             <contains factor="0.5">
@@ -247,7 +228,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-23391" title="Connect / ClariS">
-
                 <visual type="albumArt" base="0.35" unique="0.6" />
                 <entry id="$-1" title="Connect">
                     <musicConsumedProgress length="4:32" />
@@ -256,7 +236,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-41292" title="Colorful / ClariS">
-
                 <visual type="albumArt" base="0.1" unique="0.2" />
                 <entry id="$-1" title="カラフル">
                     <musicConsumedProgress length="4:30" />
@@ -268,7 +247,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-89431" title="Signal / ClariS">
-
                 <visual type="albumArt" base="0.1" unique="0.2" />
                 <entry id="$-1" title="シグナル">
                     <musicConsumedProgress length="3:43" />
@@ -277,7 +255,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-77471" title="CheerS / ClariS">
-
                 <visual type="albumArt" base="0.1" unique="0.4" />
 
                 <entry id="$-1" title="CheerS">
@@ -297,9 +274,8 @@
                 id="M-20220113T184042-4"
                 title="Colorful (tamame's apostate remix)"
             >
-
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/866938#osu/1812393 -->
-                <musicConsumedProgress length="5:21" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="5:21" generatedBy="user" />
                 <music base="0.54" />
             </entry>
 
@@ -307,19 +283,16 @@
                 id="M-20220317T064137-3"
                 title="Tamame - Ebb and Flow (5 years after remix)"
             >
-
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/163756#osu/398882 -->
-                <musicConsumedProgress length="6:19" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="6:19" generatedBy="user" />
                 <music base="0.30" />
             </entry>
         </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-13097" title="Ray">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-41278" title="lull ~Soshite Bokura wa~ / Ray">
-
                 <visual type="albumArt" base="0.15" unique="0.35" />
 
                 <entry id="$-1" title="lull ~Soshite Bokura wa~">
@@ -329,7 +302,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-42900" title="ebb and flow / Ray">
-
                 <visual type="albumArt" base="0.15" unique="0.45" />
 
                 <entry id="$-1" title="ebb and flow">
@@ -351,10 +323,8 @@
     </entry>
 
     <entry id="M-VGMDB-AR-5524" title="yanaginagi">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-41280" title="Aqua Terrarium / yanaginagi">
-
                 <visual type="albumArt" base="0.175" unique="0.45" />
 
                 <entry id="$-1" title="アクアテラリウム">
@@ -367,7 +337,6 @@
                 id="M-VGMDB-AL-43164"
                 title="Mitsuba no Musubime / yanaginagi"
             >
-
                 <visual type="albumArt" base="0.1" unique="0.45" />
 
                 <entry id="$-1" title="Mitsuba no Musubime">
@@ -377,7 +346,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-37932" title="Yukitoki / yanaginagi">
-
                 <visual type="albumArt" base="0.15" unique="0.5" />
 
                 <entry id="$-1" title="Yukitoki">
@@ -387,7 +355,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-51516" title="Harumodoki / yanaginagi">
-
                 <visual type="albumArt" base="0.1" unique="0.35" />
 
                 <entry id="$-1" title="Harumodoki">
@@ -398,7 +365,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-96288" title="Megumi no Ame / yanaginagi">
-
                 <visual type="albumArt" base="0.15" unique="0.45" />
 
                 <entry id="$-1" title="芽ぐみの雨">
@@ -408,7 +374,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-70716" title="over and over / yanaginagi">
-
                 <visual type="albumArt" base="0.05" unique="0.3" />
 
                 <entry id="$-1" title="over and over">
@@ -420,14 +385,12 @@
     </entry>
 
     <entry id="M-VGMDB-AR-12665" title="Mikako Komatsu">
-
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-45187-1" />
         </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-18208" title="Yuuki Takada">
-
         <contains id="M-20220317T064137-2" factor="0.25" />
         <contains id="M-20220125T063355-1" factor="1.0 / 9.0" />
         <contains factor="vocal+image">
@@ -436,17 +399,14 @@
     </entry>
 
     <entry id="M-VGMDB-AR-18231" title="Megumi Yamaguchi">
-
         <contains id="M-20220317T064137-2" factor="0.25" />
     </entry>
 
     <entry id="M-VGMDB-AR-16233" title="Megumi Toda">
-
         <contains id="M-20220317T064137-2" factor="0.25" />
     </entry>
 
     <entry id="M-VGMDB-AR-18205" title="Ayumi Takeo">
-
         <contains id="M-20220317T064137-2" factor="0.25" />
     </entry>
 
@@ -458,7 +418,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-6876" title="Saori Hayami">
-
         <contains factor="vocal+image">
             <!-- oregairu songs -->
             <contains factor="0.5">
@@ -475,7 +434,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-11436" title="Nao Toyama">
-
         <contains factor="vocal+image">
             <!-- oregairu songs -->
             <contains factor="0.5">
@@ -489,7 +447,6 @@
             <contains id="M-VGMDB-AL-37999-2" />
 
             <entry id="M-VGMDB-AL-93329" title="Aruite Ikou! / Nao Toyama">
-
                 <visual type="albumArt" base="0.15" unique="0.2" />
 
                 <entry id="$-1" title="Aruite Ikou!">
@@ -501,7 +458,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-26898" title="Akari Kito">
-
         <!-- known as the va of sayu -->
         <!-- wtf do you mean by kanata??? -->
         <!-- *insert high-copium pasta about love live < rst but in reality it's the opposite* -->
@@ -519,7 +475,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-10934" title="Ai Kayano">
-
         <contains id="M-20220125T063355-7" factor="1.0 / 4.0" />
         <ref name="AKMEraPart1" a_strength="0.05" />
         <ref name="AKMEraPart2" a_strength="0.1" />
@@ -527,10 +482,8 @@
     </entry>
 
     <entry id="M-VGMDB-AR-11958" title="Miku Sawai">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-49446" title="Colorful. / Miku Sawai">
-
                 <visual type="albumArt" base="0.1" unique="0.2" />
 
                 <entry id="$-1" title="Colorful.">
@@ -551,7 +504,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-6783" title="Kana Hanazawa">
-
         <contains factor="vocal+image">
             <!-- Sanshuu Chuugaku Yuushabu (post-Sonoko) -->
             <contains factor="1.0 / 5.0">
@@ -567,7 +519,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-10253" title="Suzuko Mimori">
-
         <contains factor="vocal+image">
             <!-- Sanshuu Chuugaku Yuushabu (pre-Sonoko) -->
             <contains factor="1.0 / 4.0">
@@ -581,7 +532,6 @@
 
             <!-- We May Never Meet Again, But I Will Never Forget Your Voice -->
             <entry id="M-VGMDB-AL-69821" title="Egao no Kimi e / Suzuko Mimori">
-
                 <visual type="albumArt" base="0.25" unique="0.2" />
 
                 <entry id="$-1" title="Egao no Kimi e">
@@ -593,7 +543,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-16166" title="Eri Inagawa">
-
         <!-- le cat va -->
         <contains factor="vocal+image">
             <contains id="M-20220125T063355-2" factor="1.0 / 4.0" />
@@ -602,7 +551,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-30564" title="Hikaru Tono">
-
         <!-- chao e co gai hoan tinh -->
         <contains factor="vocal+image">
             <contains id="M-20220125T063355-4" factor="1.0 / 4.0" />
@@ -610,11 +558,9 @@
     </entry>
 
     <entry id="M-VGMDB-AR-26886" title="WEAVER">
-
         <contains factor="vocal+image">
             <!-- lemur -->
             <entry id="M-VGMDB-AL-51918" title="Kuchizuke Diamond / WEAVER">
-
                 <visual type="albumArt" base="0.1" unique="0.25" />
 
                 <entry id="$-1" title="Kuchizuke Diamond">
@@ -627,13 +573,11 @@
     </entry>
 
     <entry id="M-VGMDB-AR-15766" title="mimimemeMIMI">
-
         <contains factor="vocal+image">
             <entry
                 id="M-VGMDB-AL-52045"
                 title="CANDY MAGIC / mimimemeMIMI [Yuki Takao Edition]"
             >
-
                 <!-- yuki takao version: https://vgmdb.net/album/52045 -->
                 <visual type="albumArt" base="0.1" unique="0.3" />
                 <!-- mememememememe version: https://vgmdb.net/album/52046 -->
@@ -649,7 +593,6 @@
                 id="M-VGMDB-AL-59371"
                 title="hare bare fanfare / mimimemeMIMI"
             >
-
                 <visual type="albumArt" base="0.5" unique="0.35" />
 
                 <!-- kek -->
@@ -669,20 +612,17 @@
     </entry>
 
     <entry id="M-VGMDB-AR-17342" title="DAOKO">
-
         <!-- vocal: ImageVocalContainFactor * 0.8 -->
         <contains id="M-VGMDB-AL-69257" factor="vocal + image / 2" />
     </entry>
 
     <entry id="M-VGMDB-AR-15121" title="Kenshi Yonezu">
-
         <!-- vocal: ImageVocalContainFactor * 0.2 -->
         <!-- music + lyrics + arrangement: 0.5 * (1.0 - ImageVocalContainFactor) -->
         <contains id="M-VGMDB-AL-69257" factor="inst + image / 2" />
     </entry>
 
     <entry id="M-VGMDB-AL-69257" title="Uchiage Hanabi / DAOKO">
-
         <visual type="albumArt" base="0.1" unique="0.2" />
 
         <entry id="$-1" title="Uchiage Hanabi">
@@ -692,10 +632,8 @@
     </entry>
 
     <entry id="M-VGMDB-AR-11952" title="LiSA">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-33537" title="crossing field / LiSA">
-
                 <visual type="albumArt" base="0.1" unique="0.2" />
 
                 <entry id="$-1" title="crossing field">
@@ -707,14 +645,12 @@
     </entry>
 
     <entry id="M-VGMDB-AR-26614" title="kemu">
-
         <contains id="M-MAL-36631" />
         <contains id="M-20220205T023322-1" factor="0.5" />
         <contains id="M-20220205T023322-3" factor="0.25" />
     </entry>
 
     <entry id="M-VGMDB-AR-4276" title="yuiko">
-
         <contains id="M-20220205T023322-1" factor="0.5" />
 
         <!-- backing vocal for akogare future sign (piano arrange ver.) -->
@@ -743,7 +679,7 @@
                 id="M-20220818T163913-2"
                 title="Shoujotachi no Owaranai Yoru"
             >
-                <musicConsumedProgress length="4:08" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:08" generatedBy="user" />
                 <music base="0.56" />
             </entry>
 
@@ -782,14 +718,12 @@
     </entry>
 
     <entry id="M-VGMDB-AR-9455" title="Larval Stage Planning">
-
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-47402" />
         </contains>
     </entry>
 
     <entry id="M-VGMDB-AR-29251" title="Yuka Iwahashi">
-
         <!-- t̷̤̀h̵̙̰̒ẽ̷̥̋ ̶̺͔̌͘h̴̡̜̐̎o̴̥͉͒̊n̴͕̈́̎ǰ̷̢͜ő̸̞͎̈ủ̵͔ͅ
         ̴͔̘̏k̸̛͉̉a̵̯̣͑͆ŝ̴̝u̶͉̠̎̂m̵̞͛i̷͙͉͋ ̴̨̥̓ḯ̵͖̺n̷̲̉̌c̷̪̓i̴̢͎̋d̵̬͛e̸̗̓ń̷͓̤͠t̷̮̭̄̐ -->
         <contains id="M-20220319T061727" factor="1.0 / 9.0" />
@@ -797,7 +731,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-9797" title="Aoi Yuki">
-
         <contains factor="vocal+image">
             <!-- petit milady -->
             <contains factor="1.0 / 2.0">
@@ -805,7 +738,6 @@
                     id="M-VGMDB-AL-78478"
                     title="360° Hoshi no Orchestra / petit milady"
                 >
-
                     <visual type="albumArt" base="0.15" unique="0.2" />
 
                     <entry id="$-1" title="360° Hoshi no Orchestra">
@@ -829,7 +761,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-29249" title="Amane Makino">
-
         <!-- le gigachad seiyuu herself -->
         <!-- such a true sigma chad -->
 
@@ -864,7 +795,6 @@
 
     <!-- say goodbye to your sanity -->
     <entry id="M-VGMDB-AR-8480" title="Rina Hidaka">
-
         <ref name="AKMEraPart1" a_strength="0.3" />
         <ref name="AKMEraPart2" a_strength="0.35" />
         <ref name="AKMEraPart3" a_strength="0.3" />
@@ -909,15 +839,11 @@
     </entry>
 
     <entry id="M-VGMDB-AR-6799" title="nayuta">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
-
                 <visual type="albumArt" base="0.6" unique="0.3" />
                 <entry id="$-6" title="Azure Reunion">
-                    <musicConsumedProgress
-                        length="5:06"
-                    /> <!-- impl_overridden -->
+                    <musicConsumedProgress length="5:06" generatedBy="user" />
                     <music base="0.82" />
                     <remix id="M-VGMDB-AL-108194-5" />
                     <!-- CLC cope -->
@@ -977,7 +903,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-3240" title="Ceui">
-
         <contains id="M-VGMDB-AL-59535-9" factor="vocal+image" />
         <contains id="M-VGMDB-AL-78595-16" factor="vocal+image" />
         <contains id="M-VGMDB-AL-33518-2" factor="vocal+image" />

@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3554" title="Charlotte">
-
         <entry id="A-MAL-28999" title="Charlotte">
             <source>
                 <adb id="28999" />

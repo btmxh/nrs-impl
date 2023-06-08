@@ -26,7 +26,6 @@
     </entry>
 
     <entry id="F-VGMDB-7292" title="Tenki no Ko">
-
         <entry id="A-MAL-38826" title="Tenki no Ko">
             <source>
                 <adb id="38826" />
@@ -47,7 +46,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-87003" title="Tenki no Ko / RADWIMPS">
-
             <visual type="albumArt" base="0.5" unique="0.5" />
             <entry id="$-28" title="Grand Escape (Movie edit) feat, Miura Toko">
                 <musicConsumedProgress length="3:08" />
