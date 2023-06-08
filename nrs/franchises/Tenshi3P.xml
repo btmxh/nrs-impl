@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-5549" title="Tenshi no 3P!">
-
         <entry id="A-MAL-34177" title="Tenshi no 3P!">
             <source>
                 <adb id="34177" />
@@ -28,7 +27,6 @@
             id="M-VGMDB-AL-68189"
             title="Habataki no Birthday / Baby's breath"
         >
-
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Habataki no Birthday">
                 <musicConsumedProgress length="4:32" />
@@ -40,7 +38,7 @@
             <visual type="albumArt" base="0.5" unique="0.3" />
             <entry id="$-1" title="Kusabi">
                 <!-- Length source: https://music.apple.com/jp/album/e6-a5-94-single/1268529061?l=en -->
-                <musicConsumedProgress length="4:26" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:26" generatedBy="user" />
                 <music base="0.26" />
             </entry>
         </entry>

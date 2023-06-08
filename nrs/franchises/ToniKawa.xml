@@ -1,8 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
-
     <entry id="F-VGMDB-10135" title="Tonikaku Kawaii">
-
         <entry id="A-MAL-41389" title="Tonikaku Kawaii">
             <source>
                 <adb id="41389" />
@@ -27,7 +25,6 @@
             id="M-VGMDB-AL-104618"
             title="Koi no Uta (feat. Tsukasa Yuzaki) / Yunomi"
         >
-
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
                 <musicConsumedProgress length="3:29" />

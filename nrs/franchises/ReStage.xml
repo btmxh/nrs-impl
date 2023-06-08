@@ -68,7 +68,6 @@
     </aei>
 
     <entry id="F-VGMDB-7059" title="Re:STAGE!">
-
         <entry id="A-MAL-38009" title="Re:Stage! Dream Days♪">
             <source>
                 <adb id="38009" />
@@ -147,7 +146,7 @@
             <!-- follow her pls: https://twitter.com/makinoamane -->
 
             <!-- the re stage niji incident -->
-<!--            <pads length="5" emotions="MP" /> -->
+            <!-- <pads length="5" emotions="MP" /> -->
             <!-- rare occurrence of a PADS without accompanying AEI -->
             <pads length="1" emotions="MP">
                 <validatorSuppress rules="dah-lone-pads" />
@@ -157,7 +156,7 @@
             <aei base="0.3" emotions="MP" />
 
             <!-- rst lore -->
-<!--            <nei base="9.0" emotions="AP" /> -->
+            <!-- <nei base="9.0" emotions="AP" /> -->
 
             <!-- inverse heisenberg and its consequences -->
             <!-- (MU is from rst dark lore, the "maybe the ortensia incident is not just about -->
@@ -201,7 +200,6 @@
             <!-- GateOpen("F-VGMDB-6439") -->
             <!-- GateOpen("F-VGMDB-4499") -->
 
-
             <animeConsumedProgress
                 status="Completed"
                 boredom="0.95"
@@ -217,7 +215,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe">
-
             <visual type="albumArt" base="0.2" unique="0.6" />
 
             <entry id="$-2" title="Startin' My Re:STAGE!!">
@@ -232,7 +229,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78534" title="Remembers! / KiRaRe">
-
             <visual type="albumArt" base="0.4" unique="0.4" />
 
             <entry id="$-1" title="リメンバーズ!">
@@ -263,7 +259,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78575" title="Natsu no Yakusoku / KiRaRe">
-
             <!-- 367days background lmfao -->
             <visual type="albumArt" base="0.25" unique="0.6" />
 
@@ -274,7 +269,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78532" title="Akogare Future Sign / KiRaRe">
-
             <visual type="albumArt" base="0.25" unique="0.6" />
 
             <entry id="$-1" title="憧れFuture Sign">
@@ -295,7 +289,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78530" title="KiRaRhythm / KiRaRe">
-
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="Do it!! PARTY!!">
@@ -317,7 +310,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78516" title="SENSEI Sensation / KiRaRe">
-
             <visual type="albumArt" base="0.25" unique="0.6" />
             <entry id="$-1" title="宣誓センセーション">
                 <musicConsumedProgress length="4:20" />
@@ -333,7 +325,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78764" title="367Days / KiRaRe">
-
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="367Days">
@@ -358,7 +349,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-84229" title="HAPPY TYPHOON / KiRaRe">
-
             <visual type="albumArt" base="0.5" unique="0.4" />
             <entry id="$-1" title="ハッピータイフーン">
                 <musicConsumedProgress length="4:34" />
@@ -500,7 +490,6 @@
         </entry>
 
         <entry id="M-VGMDB-AR-30829" title="KiRaRe">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78536" />
                 <contains id="M-VGMDB-AL-78534" />
@@ -521,7 +510,6 @@
             id="M-VGMDB-AL-89364"
             title="Re:STAGE! DREAM DAYS♪ SONG SERIES 6 INSERT SONG MINI ALBUM: DRe:AMER ortensia ver."
         >
-
             <visual type="albumArt" base="0.6" unique="0.2" />
             <contains id="M-VGMDB-AL-89363-1" />
             <contains id="M-VGMDB-AL-89363-2" />
@@ -539,7 +527,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78520" title="Purple Rays / ortensia">
-
             <visual type="albumArt" base="0.35" unique="0.55" />
 
             <entry id="$-1" title="Purple Rays">
@@ -560,7 +547,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78339" title="*Heart Confusion* / ortensia">
-
             <visual type="albumArt" base="0.25" unique="0.65" />
             <entry id="$-1" title="*Heart Confusion*">
                 <musicConsumedProgress length="3:46" />
@@ -584,7 +570,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-82983" title="Pullulate / ortensia">
-
             <visual type="albumArt" base="0.3" unique="0.6" />
             <contains id="M-VGMDB-AL-78339-1" />
             <contains id="M-VGMDB-AL-78339-2" />
@@ -685,7 +670,6 @@
         <meme strength="0.3" from="2022-01-01" to="today" />
 
         <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris">
-
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="InFiction">
@@ -727,7 +711,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-78515" title="Raise Your Fist / Tetrarkhia">
-
             <visual type="albumArt" base="0.4" unique="0.4" />
 
             <entry id="$-1" title="カナリア">
@@ -1018,7 +1001,6 @@
             id="M-VGMDB-AL-124585"
             title="Glass Wings / Sango Misaki &amp; Kanade Hokaze"
         >
-
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Glass Wings">
                 <musicConsumedProgress length="3:41" />
@@ -1035,7 +1017,6 @@
             id="M-VGMDB-AL-124586"
             title="Artemis / Ruka Ichijou &amp; Nagisa Himura"
         >
-
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Artemis">
                 <musicConsumedProgress length="4:39" />
@@ -1052,11 +1033,10 @@
             id="M-VGMDB-AL-124587"
             title="Imperial Stage / Aone Shikimiya &amp; Amaha Shiratori"
         >
-
             <visual type="albumArt" base="0.3" unique="0.6" />
             <entry id="$-1" title="Imperial Stage">
                 <!-- Length source: https://open.spotify.com/album/57Ey26TDVG0PXhsAGNgqr8 -->
-                <musicConsumedProgress length="3:24" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="3:24" generatedBy="user" />
                 <ref
                     name="ReStepMusic"
                     a_base="0.20"
@@ -1067,7 +1047,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-125354" title="Rainbow FlowerS / ortensia">
-
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Rainbow FlowerS">
                 <musicConsumedProgress length="4:25" />
@@ -1115,8 +1094,6 @@
         </entry>
 
         <entry id="GF-VGMDB-7059" title="Re:Stage! Prism Step">
-
-
             <!-- this game has good art ngl -->
             <!-- some good card id: -->
             <!-- 2037, 284 (lmfao dem tinh mua xuan), 686, 2006 -->

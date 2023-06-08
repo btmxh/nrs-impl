@@ -1,12 +1,10 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3305" title="Saenai Heroine no Sodatekata">
-
         <entry
             id="M-VGMDB-AL-48199"
             title="Saenai heroine no sodate-kata Character Image Song M♭ / Megumi Kato"
         >
-
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="M♭">
@@ -40,7 +38,7 @@
                 <al id="20657" />
                 <mal id="23277" />
             </source>
-            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
+            <bestGirl name="Megumi Kato" generatedBy="user" />
 
             <featureMusic id="M-VGMDB-AL-48199-1" />
             <featureMusic id="M-VGMDB-AL-49446-1" />
@@ -60,7 +58,7 @@
                 <al id="21180" />
                 <mal id="30727" />
             </source>
-            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
+            <bestGirl name="Megumi Kato" generatedBy="user" />
             <animeConsumedProgress
                 status="Completed"
                 boredom="1.0"
@@ -77,7 +75,7 @@
                 <al id="100675" />
                 <mal id="36885" />
             </source>
-            <bestGirl name="Megumi Kato" /> <!-- impl_overridden -->
+            <bestGirl name="Megumi Kato" generatedBy="user" />
             <!-- humor -->
             <nei base="0.25" emotions="AP" />
             <animeConsumedProgress
@@ -91,16 +89,14 @@
     </entry>
 
     <entry id="M-20220117T170733-1" title="Colorful. (Asterisk DnB Remix)">
-
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
         <music base="0.29" />
-        <musicConsumedProgress length="5:12" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="5:12" generatedBy="user" />
     </entry>
 
     <entry id="M-20220117T170733-2" title="Colorful. (kamaboko remix)">
-
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
         <music base="0.38" />
-        <musicConsumedProgress length="5:04" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="5:04" generatedBy="user" />
     </entry>
 </document>

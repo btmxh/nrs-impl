@@ -8,10 +8,8 @@
     <!-- (it will be represented as an NEI/AEI) -->
 
     <entry id="M-VGMDB-AR-11666" title="Kano">
-
         <contains factor="vocal+image">
             <entry id="M-VGMDB-AL-95369" title="Bambino / Kano">
-
                 <visual type="albumArt" base="0.2" unique="0.5" />
 
                 <entry id="$-1" title="ハロ/ハワユ">
@@ -23,7 +21,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano">
-
                 <visual type="albumArt" base="0.35" unique="0.4" />
 
                 <entry id="$-6" title="インタビュア">
@@ -40,7 +37,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano">
-
                 <visual type="albumArt" base="0.25" unique="0.5" />
 
                 <!-- description = "Romantic name" (romance as in RFP, not chu chu <3) -->
@@ -65,7 +61,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano">
-
                 <visual type="albumArt" base="0.55" unique="0.45" />
 
                 <entry id="$-1" title="グッドナイトエヴリワン">
@@ -84,7 +79,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano">
-
                 <visual type="albumArt" base="0.5" unique="0.4" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
 
@@ -96,7 +90,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano">
-
                 <visual type="albumArt" base="0.2" unique="0.6" />
                 <visual type="animatedMV" base="0.6" unique="0.4" />
 
@@ -108,7 +101,6 @@
             </entry>
 
             <entry id="M-VGMDB-AL-57564" title="nowhere / Kano">
-
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <entry id="$-1" title="Prima Stella">
@@ -128,21 +120,17 @@
             </entry>
 
             <entry id="M-VGMDB-AL-73516" title="one / Kano">
-
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <contains id="M-VGMDB-AL-34411-11" />
             </entry>
 
             <entry id="M-VGMDB-AL-89290" title="three / Kano">
-
                 <visual type="albumArt" base="0.4" unique="0.5" />
 
                 <entry id="$-6" title="地球最後の告白を">
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
-                    <musicConsumedProgress
-                        length="4:33"
-                    /> <!-- impl_overridden -->
+                    <musicConsumedProgress length="4:33" generatedBy="user" />
                     <music base="0.34" />
                     <nei base="0.1" emotions="CU" />
 
@@ -159,7 +147,7 @@
 
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
                 <music base="0.60" />
-                <musicConsumedProgress length="4:19" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:19" generatedBy="user" />
                 <nei base="0.5" emotions="CP" />
 
                 <!-- I HATE HIMENO SENA -->
@@ -184,15 +172,15 @@
                 <!-- crossfade thing: https://www.nicovideo.jp/watch/sm19702966 -->
                 <visual type="animatedMV" base="0.3" unique="0.65" />
 
-<!--        Impact { -->
-<!--            description = "Album art" -->
-<!--            meta("type", "NONSTD_album_art") -->
-<!--            score = vector { -->
-<!--                set(Art.Visual, 0.1) -->
-<!--                set(Emotion.MP, 0.2) -->
-<!--                set(Emotion.CU, 0.1) -->
-<!--            } -->
-<!--        } -->
+                <!-- Impact { -->
+                <!--     description = "Album art" -->
+                <!--     meta("type", "NONSTD_album_art") -->
+                <!--     score = vector { -->
+                <!--         set(Art.Visual, 0.1) -->
+                <!--         set(Emotion.MP, 0.2) -->
+                <!--         set(Emotion.CU, 0.1) -->
+                <!--     } -->
+                <!-- } -->
 
                 <entry id="$-1" title="ハロ/ハワユ">
                     <musicConsumedProgress length="4:50" />
@@ -254,14 +242,13 @@
 
             <!-- oh except for this, i forgor -->
             <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
-
                 <visual type="animatedMV" base="0.35" unique="0.7" />
                 <!-- 210 bpm spaced bursts -->
                 <osuSong personal="0.5" community="0.0" />
 
                 <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
                 <music base="0.46" />
-                <musicConsumedProgress length="3:29" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="3:29" generatedBy="user" />
             </entry>
         </contains>
 

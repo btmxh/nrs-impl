@@ -42,7 +42,6 @@
 
     <!-- Bunnies can fly, and so can cats. -->
     <entry id="F-VGMDB-4499" title="Show By Rock!!">
-
         <!-- in sb69 s1, s2, the cat have so much screentime, but i didn't -->
         <!-- value it. and when s4 comes, the cat changed and lose screentime, -->
         <!-- thus giving me nostalgia of the prequels, -->
@@ -194,7 +193,8 @@
                 <al id="113476" />
                 <mal id="41520" />
             </source>
-            <bestGirl name="Hijirikawa Cyan" /> <!-- aka the ayumu cat -->
+            <bestGirl name="Hijirikawa Cyan" />
+            <!-- aka the ayumu cat -->
             <!-- aka show by rock!! banded rocking records high school idol club -->
             <!-- the gen2 niji -->
 
@@ -238,7 +238,6 @@
         <featureMusic id="M-VGMDB-AL-110219-1" />
 
         <entry id="M-VGMDB-AL-100087" title="How To Fly / Cyan &amp; Howan">
-
             <visual type="albumArt" base="0.45" unique="0.3" />
             <entry id="$-1" title="How To Fly">
                 <musicConsumedProgress length="4:01" />
@@ -254,7 +253,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-94913" title="My pace!! / Plasmagica">
-
             <visual type="albumArt" base="0.3" unique="0.7" />
 
             <entry id="$-1" title="My pace!!">
@@ -271,7 +269,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-51276" title="Seishun wa Non-Stop! / Plasmagica">
-
             <visual type="albumArt" base="0.6" unique="0.6" />
 
             <entry id="$-1" title="Seishun wa Non-Stop!">
@@ -303,7 +300,6 @@
             id="M-VGMDB-AL-51278"
             title="Tabimichi Yoiyoi Yume Hanabi / Tsurezurenaru Ayatsuri Mugenan"
         >
-
             <visual type="albumArt" base="0.45" unique="0.5" />
 
             <entry id="$-1" title="Tabimichi Yoiyoi Yume Hanabi">
@@ -321,7 +317,6 @@
             id="M-VGMDB-AL-51706"
             title="Meikyuu DESTINY/Ryuusei Dreamline / Plasmagica"
         >
-
             <visual type="albumArt" base="0.55" unique="0.4" />
 
             <entry id="$-1" title="Meikyuu DESTINY">
@@ -347,12 +342,11 @@
         </entry>
 
         <entry id="M-VGMDB-AL-61217" title="Heart wo Rock!! / Plasmagica">
-
             <visual type="albumArt" base="0.45" unique="0.4" />
 
             <entry id="$-1" title="Heart wo Rock!!">
                 <!-- Length source: https://open.spotify.com/album/4fznIWn0juYyJDhh31q0Yf -->
-                <musicConsumedProgress length="4:12" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:12" generatedBy="user" />
                 <ref
                     name="FesALiveMusic"
                     a_base="0.63"
@@ -366,7 +360,6 @@
             id="M-VGMDB-AL-61940"
             title="Schlehit Melodie/Danzai no Solitude / BUD VIRGIN LOGIC"
         >
-
             <visual type="albumArt" base="0.4" unique="0.4" />
 
             <entry id="$-1" title="Schlehit Melodie">
@@ -384,7 +377,6 @@
             id="M-VGMDB-AL-61981"
             title="My Resolution ~Mirai e no Kizuna~ / Plasmagica"
         >
-
             <visual type="albumArt" base="0.5" unique="0.4" />
 
             <entry id="$-1" title="My Resolution ～未来への絆～">
@@ -411,7 +403,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-59914" title="Do Re Mi Fa PARTY / Plasmagica">
-
             <visual type="albumArt" base="0.35" unique="0.5" />
 
             <entry id="$-1" title="ドレミファPARTY">
@@ -442,7 +433,6 @@
             id="M-VGMDB-AL-93440"
             title="Hiromenes/Kimi no Rhapsody / Mashumairesh!!"
         >
-
             <visual type="albumArt" base="0.4" unique="0.3" />
 
             <entry id="$-1" title="Hiromenes">
@@ -492,7 +482,7 @@
                 a_eras="arc2=20.0:arc3=10.0"
                 a_from="arc2"
             />
-            <musicConsumedProgress length="1:34" /> <!-- impl_overridden -->
+            <musicConsumedProgress length="1:34" generatedBy="user" />
         </entry>
 
         <entry
@@ -516,7 +506,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-93441" title="Yell and Response / Mashumairesh!!">
-
             <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="エールアンドレスポンス">
@@ -534,7 +523,6 @@
             id="M-VGMDB-AL-112509"
             title="SHOW BY ROCK!! Trigger Rock / Mashumairesh!!"
         >
-
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <entry id="$-2" title="イントロダクション">
@@ -554,7 +542,6 @@
             id="M-VGMDB-AL-104341"
             title="Do Re Mi Fa STARS!!/Hoshizora Light Story"
         >
-
             <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Do Re Mi Fa STARS!!">
@@ -584,7 +571,6 @@
             id="M-VGMDB-AL-104266"
             title="TV Anime &quot;SHOW BY ROCK!! STARS!!&quot; Sounyuuka Mini Album Vol.1"
         >
-
             <visual type="albumArt" base="0.1" unique="0.2" />
 
             <entry id="$-3" title="Do! It! Happy Daibouken!">
@@ -618,7 +604,6 @@
             id="M-VGMDB-AL-104267"
             title="TV Anime &quot;SHOW BY ROCK!! STARS!!&quot; Sounyuuka Mini Album Vol.2"
         >
-
             <visual type="albumArt" base="0.1" unique="0.2" />
 
             <entry id="$-3" title="Runner's High!!">
@@ -674,7 +659,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-61982" title="Hanate! Dododon! / Criticrista">
-
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="Hanate! Dododon!">
@@ -692,7 +676,6 @@
             id="M-VGMDB-AL-76149"
             title="Saishuu Ressha/Hatsukoi no Oto / Uwasanopetals"
         >
-
             <visual type="albumArt" base="0.2" unique="0.5" />
 
             <entry id="$-1" title="最終列車">
@@ -723,7 +706,6 @@
             id="M-VGMDB-AL-118562"
             title="Taikakusen wo Tsunaideyo / Uwasanopetals"
         >
-
             <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="Taikakusen wo Tsunaideyo">
@@ -741,7 +723,6 @@
             id="M-VGMDB-AL-104418"
             title="Good Day by Day / Cyan (cv. Eri Inagawa), A (cv. Saori Hayami), Ailane (cv. Ruriko Noguchi), Shibarin (cv. Marika Kohno)"
         >
-
             <!-- this thing: -->
             <!-- https://medium-media.vgm.io/albums/81/104418/104418-9cc8d5c0abf7.jpg -->
             <!-- is from the blu-ray, so it doesn't count -->
@@ -763,7 +744,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-100082" title="Mirai Wanted / Plasmagica">
-
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Mirai Wanted">
@@ -778,7 +758,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-116297" title="Bokura no Neiro / Plasmagica">
-
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Bokura no Neiro">
@@ -794,7 +773,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-105612" title="Mot Mot Mot / Criticrista">
-
             <visual type="albumArt" base="0.25" unique="0.45" />
 
             <entry id="$-1" title="Mot Mot Mot">
@@ -830,7 +808,6 @@
             id="M-VGMDB-AL-76155"
             title="Loop Shiteru/Asuiro Koi Moyou / Criticrista"
         >
-
             <visual type="albumArt" base="0.3" unique="0.3" />
 
             <entry id="$-1" title="ループしてる">
@@ -929,7 +906,6 @@
             id="M-VGMDB-AL-124217"
             title="Hoshitachi no Orchestra Parade / Mashumairesh!!"
         >
-
             <visual type="albumArt" base="0.25" unique="0.4" />
 
             <entry id="$-1" title="Hoshitachi no Orchestra Parade">
@@ -952,7 +928,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-124215" title="Koishichatta! / Criticrista">
-
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Koishichatta!">
                 <musicConsumedProgress length="4:17" />
@@ -1027,7 +1002,6 @@
         </entry>
 
         <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">
-
             <!-- AllSB69Tracks.keys.forEach { Feature<music base="it" /> } -->
             <visual type="gachaCardArt" base="0.4" unique="0.3" />
         </entry>
@@ -1038,11 +1012,10 @@
         id="M-20220125T063355-6"
         title="Seishun wa Non-Stop! (Asterisk DnB Remix)"
     >
-
         <!-- Length source:
         https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix -->
         <music base="0.49" />
-        <musicConsumedProgress length="5:02" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="5:02" generatedBy="user" />
         <osuSong personal="0.75" community="0.0" />
     </entry>
 

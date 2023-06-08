@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-7865" title="Koisuru Asteroid">
-
         <entry id="A-MAL-39388" title="Koisuru Asteroid">
             <source>
                 <adb id="39388" />
@@ -9,7 +8,7 @@
                 <al id="108092" />
                 <mal id="39388" />
             </source>
-            <bestGirl name="Kotonoha Mira" /> <!-- impl_overridden -->
+            <bestGirl name="Kotonoha Mira" generatedBy="user" />
 
             <animeConsumedProgress
                 status="Completed"
@@ -26,7 +25,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-93338" title="Yozora / Minori Suzuki">
-
         <visual type="albumArt" base="0.3" unique="0.2" />
 
         <entry id="$-1" title="夜空">

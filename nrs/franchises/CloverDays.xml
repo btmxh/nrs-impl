@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-20221122T195753" title="Clover Day's">
-
         <entry id="V-VNDB-13325" title="Clover Day's">
             <bestGirl name="Rindou Tsubame" />
             <!-- anri and [anzu] is cute too ig -->
@@ -22,7 +21,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-45544" title="Clover Day's ORIGINAL SOUNDTRACKS">
-
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-40" title="Clover Day's full ver.">

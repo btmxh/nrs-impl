@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6626" title="Iroduku Sekai no Ashita kara">
-
         <entry id="A-MAL-37497" title="Irozuku Sekai no Ashita kara">
             <source>
                 <adb id="37497" />
@@ -27,7 +26,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-80341" title="17-sai / Haruka to Miyuki">
-
         <visual type="albumArt" base="0.2" unique="0.3" />
 
         <entry id="$-1" title="17-sai">

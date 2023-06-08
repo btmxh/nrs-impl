@@ -1,9 +1,7 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-504" title="K-On!">
-
         <entry id="M-VGMDB-AL-20118" title="Utauyo!!MIRACLE / HO-KAGO TEA TIME">
-
             <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-2" title="Kirakira Days">
@@ -19,7 +17,6 @@
             id="M-VGMDB-AL-21146"
             title="HO-KAGO TEA TIME Second / HO-KAGO TEA TIME"
         >
-
             <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-9" title="Tenshi ni Fureta yo!">
@@ -33,7 +30,6 @@
             id="M-VGMDB-AL-22848"
             title="Gohan wa Okazu/U&amp;I / HO-KAGO TEA TIME"
         >
-
             <visual type="albumArt" base="0.65" unique="0.2" />
 
             <entry id="$-2" title="U&amp;I">
@@ -43,7 +39,6 @@
         </entry>
 
         <entry id="M-VGMDB-AR-8870" title="HO-KAGO TEA TIME">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-20118" />
                 <contains id="M-VGMDB-AL-21146" />

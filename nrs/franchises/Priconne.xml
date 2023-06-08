@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-7086" title="PRINCESS CONNECT!">
-
         <entry id="A-MAL-39292" title="Princess Connect! Re:Dive">
             <source>
                 <adb id="39292" />
@@ -17,7 +16,8 @@
                 boredom="0.9"
                 episodes="12"
             />
-            <nei base="0.9" emotions="AP" /> <!-- funny ig -->
+            <!-- funny ig -->
+            <nei base="0.9" emotions="AP" />
         </entry>
 
         <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2">
@@ -35,8 +35,10 @@
                 boredom="0.5"
                 episodes="5"
             />
-            <nei base="0.5" emotions="CP" /> <!-- idk lol -->
-            <nei base="0.75" emotions="AP" /> <!-- funny ig -->
+            <!-- idk lol -->
+            <nei base="0.5" emotions="CP" />
+            <!-- funny ig -->
+            <nei base="0.75" emotions="AP" />
         </entry>
 
         <entry

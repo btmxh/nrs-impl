@@ -250,7 +250,7 @@
             <mal id="34240" />
         </source>
 
-        <bestGirl name="Rin" /> <!-- impl_overridden -->
+        <bestGirl name="Rin" generatedBy="user" />
 
         <!-- catJAM -->
         <music base="0.60" />
@@ -316,12 +316,11 @@
         <!-- this was pretty boring ngl -->
         <!-- and now it's the duopoly era so -->
         <!-- they got cucked -->
-<!--            status = EntryStatus.Watching -->
+        <!-- status = EntryStatus.Watching -->
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="3" />
         <dropped />
         <visual type="animated" base="0.5" unique="0.3" />
     </entry>
-
 
     <entry id="A-MAL-35756" title="Comic Girls">
         <source>
@@ -415,7 +414,7 @@
             <al id="101547" />
             <mal id="37744" />
         </source>
-        <bestGirl name="Azuma Rin" /> <!-- impl_overridden -->
+        <bestGirl name="Azuma Rin" generatedBy="user" />
 
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="8" />
         <dropped />
@@ -571,10 +570,10 @@
             <al id="112479" />
             <mal id="40550" />
         </source>
-        <bestGirl name="Shirai Yuyu" /> <!-- himekek my beloved -->
-        <bestGirl
-            name="Wang Yujia"
-        /> <!-- noway it's the kimi no rhapsody girl -->
+        <bestGirl name="Shirai Yuyu" />
+        <!-- himekek my beloved -->
+        <bestGirl name="Wang Yujia" />
+        <!-- noway it's the kimi no rhapsody girl -->
         <bestGirl name="Thi Mai Yoshimura" />
 
         <!-- in all seriousness, this is quite good. -->
@@ -713,7 +712,7 @@
 
         <!-- the hoan tinh anime pt.1 -->
         <!-- from ep 5 to 10 there's no hoan tinh madge -->
-<!--            AnimeProgress(Boredom.PartiallyDropped(0.25)) -->
+        <!-- AnimeProgress(Boredom.PartiallyDropped(0.25)) -->
         <!-- i finished ep12, but e5-10 hasn't been watched -->
         <!-- TODO: use separate apis -->
         <animeConsumedProgress status="Dropped" boredom="1.0" episodes="6" />
@@ -774,7 +773,7 @@
             <al id="131878" />
             <mal id="48644" />
         </source>
-        <bestGirl name="Akagi Rin" /> <!-- impl_overridden -->
+        <bestGirl name="Akagi Rin" generatedBy="user" />
 
         <!-- denchi shoujo my fucking beloved wtf i love this so fking much -->
         <aei base="0.5" emotions="MP-0.5:AP-0.5" />

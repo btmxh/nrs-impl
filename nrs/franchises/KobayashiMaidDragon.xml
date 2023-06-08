@@ -1,17 +1,15 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-8954" title="Kobayashi-san Chi no Maid Dragon">
-
         <entry
             id="M-VGMDB-AL-62516"
             title="Aozora no Rhapsody / fhána [Anime Edition]"
         >
-
             <visual type="albumArt" base="0.6" unique="0.3" />
 
             <entry id="$-1" title="青空のラプソディ">
                 <!-- Length source: https://open.spotify.com/album/7AA47NCwpqemraOTWD1oCV -->
-                <musicConsumedProgress length="4:38" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:38" generatedBy="user" />
                 <music base="0.30" />
             </entry>
         </entry>
@@ -20,7 +18,6 @@
             id="M-VGMDB-AL-110219"
             title="Ai no Supreme! / fhána [Anime Edition]"
         >
-
             <visual type="albumArt" base="0.65" unique="0.3" />
 
             <entry id="$-1" title="Ai no Supreme!">
@@ -38,7 +35,7 @@
                 <al id="21776" />
                 <mal id="33206" />
             </source>
-            <bestGirl name="Tohru" /> <!-- impl_overridden -->
+            <bestGirl name="Tohru" generatedBy="user" />
 
             <!-- funny ig idk tbh -->
             <nei base="0.75" emotions="AP" />

@@ -2,12 +2,10 @@
 <document>
     <!-- gen1 sb69 -->
     <entry id="F-VGMDB-5173" title="BanG Dream!">
-
         <entry
             id="M-VGMDB-AL-60358"
             title="STAR BEAT! ~Hoshi no Kodou~ / Poppin'Party"
         >
-
             <visual type="albumArt" base="0.5" unique="0.1" />
 
             <entry id="$-1" title="STAR BEAT! ~Hoshi no Kodou~">
@@ -20,7 +18,6 @@
             id="M-VGMDB-AL-63624"
             title="Tokimeki Experience! / Poppin'Party"
         >
-
             <visual type="albumArt" base="0.25" unique="0.2" />
 
             <entry id="$-1" title="Tokimeki Experience!">
@@ -35,7 +32,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-81504" title="KIZUNA MUSIC♪ / Poppin'Party">
-
             <visual type="albumArt" base="0.15" unique="0.4" />
 
             <entry id="$-1" title="KIZUNA MUSIC♪">
@@ -59,7 +55,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-111089" title="Live Beyond!! / Poppin'Party">
-
             <visual type="albumArt" base="0.6" unique="0.15" />
 
             <entry id="$-5" title="Koko kara Saki wa Uta ni Naranai">
@@ -69,7 +64,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-74133" title="CiRCLiNG / Poppin'Party">
-
             <visual type="albumArt" base="0.35" unique="0.15" />
 
             <entry id="$-2" title="Light Delight">
@@ -84,7 +78,6 @@
             id="M-VGMDB-AL-95118"
             title="Initial/Yume wo Uchinuku Shunkan ni! / Poppin'Party [Special Edition]"
         >
-
             <!-- special edition: https://vgmdb.net/album/95118 -->
             <visual type="albumArt" base="0.35" unique="0.15" />
             <!-- kirakira ver: https://vgmdb.net/album/92053 -->
@@ -101,7 +94,6 @@
         </entry>
 
         <entry id="M-VGMDB-AR-27992" title="Poppin'Party">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-60358" />
                 <contains id="M-VGMDB-AL-63624" />
@@ -111,11 +103,9 @@
                 <contains id="M-VGMDB-AL-95118" />
                 <contains id="M-VGMDB-AL-106577-1" />
             </contains>
-
         </entry>
 
         <entry id="M-VGMDB-AL-85172" title="FIRE BIRD / Roselia">
-
             <visual type="albumArt" base="0.2" unique="0.6" />
 
             <entry id="$-1" title="FIRE BIRD">
@@ -125,14 +115,12 @@
         </entry>
 
         <entry id="M-VGMDB-AR-27993" title="Roselia">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-85172" />
             </contains>
         </entry>
 
         <entry id="M-VGMDB-AR-31328" title="Pastel*Palettes">
-
             <!-- HAHAHAHAHAHAHHAHAHAHA GET FUCKED THE ORTENSIA INCIDENT PART 2 STRIKED -->
             <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
             <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
@@ -154,14 +142,12 @@
         </entry>
 
         <entry id="M-VGMDB-AR-31329" title="Hello, Happy World!">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-114399-8" />
             </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-82743" title="Y.O.L.O!!!!! / Afterglow">
-
             <visual type="albumArt" base="0.25" unique="0.15" />
 
             <entry id="$-1" title="Y.O.L.O!!!!!">
@@ -172,7 +158,6 @@
         </entry>
 
         <entry id="M-VGMDB-AR-31326" title="Afterglow">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-82743" />
             </contains>
@@ -183,7 +168,6 @@
             id="M-VGMDB-AL-106577"
             title="BanG Dream! Girls Band Party! Cover collection vol.5"
         >
-
             <visual type="albumArt" base="0.5" unique="0.1" />
 
             <entry id="$-1" title="Cherry Bomb">
@@ -205,7 +189,6 @@
             id="M-VGMDB-AL-114399"
             title="BanG Dream! Girls Band Party! Cover collection vol.6"
         >
-
             <visual type="albumArt" base="0.45" unique="0.1" />
 
             <entry id="$-8" title="Silhouette">
@@ -225,14 +208,12 @@
         </entry>
 
         <entry id="M-VGMDB-AR-31336" title="RAISE A SUILEN">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-101643" />
             </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-101643" title="Sacred world / RAISE A SUILEN">
-
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Sacred world">
                 <musicConsumedProgress length="5:00" />
@@ -297,7 +278,6 @@
     </entry>
 
     <entry id="M-VGMDB-AR-31509" title="SILENT SIREN">
-
         <entry id="M-20220130T183728-1" title="S">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
@@ -305,9 +285,8 @@
             <visual type="albumArt" base="0.1" unique="0.15" />
 
             <entry id="M-20220130T183728-2" title="Cherry Bomb">
-
                 <!-- Length source: https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP -->
-                <musicConsumedProgress length="4:05" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="4:05" generatedBy="user" />
                 <music base="0.32" />
                 <remix id="M-VGMDB-AL-106577-1" />
             </entry>
@@ -315,9 +294,7 @@
     </entry>
 
     <entry id="M-VGMDB-AR-25291" title="KANA-BOON">
-
         <entry id="M-VGMDB-AL-50723" title="Silhouette / KANA-BOON">
-
             <!-- 3d men ew /s -->
             <visual type="albumArt" base="0.08" unique="0.175" />
 
@@ -333,9 +310,8 @@
         id="M-20220130T183728-4"
         title="Harumodoki (Asterisk DnB Remix) [Rakakun- Edit]"
     >
-
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138 -->
-        <musicConsumedProgress length="2:15" /> <!-- impl_overridden -->
+        <musicConsumedProgress length="2:15" generatedBy="user" />
         <music base="0.36" />
     </entry>
 </document>

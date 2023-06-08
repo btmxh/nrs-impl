@@ -1,13 +1,11 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-5607" title="Miagete Goran, Yozora no Hoshi wo">
-
         <!-- average FFP miharu worshipper -->
         <!-- average "Rafis | Ceui - Finest Sky [Albireo Princess] (Shizuku-) -->
         <!-- +HD,DT (98.84) FC #1 | 987pp 67.99 cv. UR (His new top play)"" enjoyer -->
 
         <entry id="V-VNDB-16560" title="Miagete Goran, Yozora no Hoshi o">
-
             <bestGirl name="Saotome Miharu" />
             <!-- legends said that ffp was born because of this woman -->
             <!-- if so she's worst girl /s -->
@@ -33,7 +31,6 @@
             id="M-VGMDB-AL-57788"
             title="Miagete Goran, Yozora no Hoshi wo FINE DAYS Mini Soundtrack CD &quot;and Little Planets&quot;"
         >
-
             <visual type="albumArt" base="0.2" unique="0.4" />
 
             <entry id="$-1" title="Finest Sky">

@@ -1,7 +1,6 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6083" title="Arifureta Shokugyou de Sekaisaikyou">
-
         <entry id="A-MAL-36882" title="Arifureta Shokugyou de Sekai Saikyou">
             <source>
                 <adb id="36882" />
@@ -28,7 +27,6 @@
     </entry>
 
     <entry id="M-VGMDB-AL-86592" title="FLARE / Void_Chords feat.LIO">
-
         <visual type="albumArt" base="0.05" unique="0.5" />
         <entry id="$-1" title="FLARE">
             <musicConsumedProgress length="4:37" />

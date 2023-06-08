@@ -1,9 +1,7 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="M-VGMDB-AR-8482" title="Foreground Eclipse">
-
         <entry id="M-VGMDB-AL-97601" title="Truths, Ironies, The Secret Lyrics">
-
             <visual type="albumArt" base="0.15" unique="0.3" />
 
             <entry id="$-1" title="Truths, Ironies, The Secret Lyrics">
@@ -45,7 +43,6 @@
             id="M-VGMDB-AL-43320"
             title="Stories That Last Through The Sleepless Nights"
         >
-
             <contains id="M-VGMDB-AL-97601-1" />
             <visual type="albumArt" base="0.25" unique="0.4" />
 
@@ -85,7 +82,7 @@
 
             <entry id="$-1" title="Chronostasis">
                 <!-- Length source: https://open.spotify.com/album/4i78h7toisyjWPGXwXmWr9 -->
-                <musicConsumedProgress length="6:22" /> <!-- impl_overridden -->
+                <musicConsumedProgress length="6:22" generatedBy="user" />
                 <music base="0.47" />
                 <osuSong personal="0.0" community="0.3" />
             </entry>

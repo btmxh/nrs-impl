@@ -4,14 +4,12 @@
     <!-- somewhat changed da world -->
     <!-- the start line of the "pleasant revolution" -->
     <entry id="F-VGMDB-3245" title="Yuusha de Aru">
-
         <contains id="M-VGMDB-AL-69821-1" />
 
         <entry
             id="M-VGMDB-AL-47678"
             title="Aurora Days / Sanshuu Chuugaku Yuushabu"
         >
-
             <visual type="albumArt" base="0.4" unique="0.5" />
 
             <entry id="$-1" title="Aurora Days">
@@ -24,7 +22,6 @@
             id="M-VGMDB-AL-114186"
             title="Ashita no Hanatachi / Sanshuu Chuugaku Yuushabu"
         >
-
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <!-- the glorious udon stream map -->
@@ -122,7 +119,6 @@
 
             <!-- based best girl -->
             <bestGirl name="Chikage Koori" />
-<!--            status = EntryStatus.Watching -->
 
             <!-- There are a lot of sad things in this LN -->
             <!-- Firstly, -->

@@ -2,7 +2,6 @@
 <document>
     <!-- 2023 is the year of isekai -->
     <entry id="F-VGMDB-9991" title="Kage no Jitsuryokusha ni Naritakute!">
-
         <!-- "dude mc is literally me..." -->
         <!-- - every AAists (anti-appearancists) and EAAists (extreme AAists) in the NAP -->
 
@@ -15,7 +14,6 @@
                 <al id="130298" />
                 <mal id="48316" />
             </source>
-
 
             <bestGirl name="Sherry Barnett" />
             <!-- aka himeno sena 2023 -->
@@ -46,8 +44,10 @@
             <waifu waifu="Sherry Barnett" from="2023-03-01" to="2023-03-12" />
 
             <!-- I AM atomic -->
-            <ehi /> <!-- humor -->
-            <nei base="0.25" emotions="AP" /> <!-- plot -->
+            <!-- humor -->
+            <ehi />
+            <!-- plot -->
+            <nei base="0.25" emotions="AP" />
 
             <meme strength="0.8" from="2023-03-01" to="2023-03-12">
                 <contributor id="A-MAL-48316" factor="0.6" />
@@ -93,6 +93,5 @@
                 <music base="0.46" />
             </entry>
         </entry>
-
     </entry>
 </document>

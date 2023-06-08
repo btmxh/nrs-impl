@@ -1,9 +1,7 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-20221122T215201" title="Wagamama High Spec">
-
         <entry id="V-VNDB-17823" title="Wagamama High Spec">
-
             <!-- save this for OC -->
             <!-- <bestGirl name="Watanuki Karen" /> -->
             <bestGirl name="Rokuonji Kaoruko" />
@@ -20,7 +18,6 @@
         </entry>
 
         <entry id="M-VGMDB-AL-67632" title="WAGAMAMA HIGHSPEC OC VOCAL ALBUM">
-
             <visual type="albumArt" base="0.6" unique="0.4" />
 
             <entry id="$-1" title="Hey Darling!">

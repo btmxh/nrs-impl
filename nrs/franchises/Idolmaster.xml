@@ -1,9 +1,7 @@
 <?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3559" title="THE IDOLM@STER">
-
         <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS">
-
             <contains factor="vocal+image">
                 <contains id="M-VGMDB-AL-78253-1" />
             </contains>
@@ -37,7 +35,6 @@
             id="M-VGMDB-AL-78253"
             title="THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"
         >
-
             <visual type="albumArt" base="0.4" unique="0.15" />
 
             <entry id="$-1" title="UNION!!">
