@@ -57,6 +57,13 @@
             </entry>
         </entry>
 
+        <entry id="M-VGMDB-AL-124011" title="">
+            <visual type="albumArt" base="0.75" unique="0.25" />
+            <entry id="$-1" title="">
+                <music base="0.4" />
+            </entry>
+        </entry>
+
         <meme strength="0.3" length="45" />
     </entry>
 </document>

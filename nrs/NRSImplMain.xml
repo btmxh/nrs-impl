@@ -49,6 +49,7 @@
     <include src="franchises/LapisReLights.xml" />
     <include src="franchises/LoveLab.xml" />
     <include src="franchises/LoveLive.xml" />
+    <include src="seasonal/M3-2023.xml" />
     <include src="franchises/MadokaMagica.xml" />
     <include src="meme/Method.xml" />
     <include src="franchises/MiaZora.xml" />

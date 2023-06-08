@@ -1,0 +1,568 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<!-- also contain many related entries -->
+<document>
+    <!-- google kano 2023 -->
+    <!-- new utaite just dropped -->
+    <!-- holy fuck i ran out of ideas -->
+
+    <entry id="M-VGMDB-AR-6799" title="nayuta">
+        <contains factor="vocal+image">
+            <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
+                <visual type="albumArt" base="0.6" unique="0.3" />
+                <entry id="$-6" title="Azure Reunion">
+                    <musicConsumedProgress
+                        length="5:06"
+                    /> <!-- impl_overridden -->
+                    <music base="0.82" />
+                    <remix id="M-VGMDB-AL-108194-5" />
+                    <!-- CLC cope -->
+                    <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
+                </entry>
+            </entry>
+
+            <contains id="M-VGMDB-AL-108194-4" />
+
+            <entry id="M-20230608T113548" title="">
+                <source>
+                    <urls>
+                        <url name="linkcore" src="https://linkco.re/2s0zf19E" />
+                    </urls>
+                </source>
+                <visual type="albumArt" base="0.6" unique="0.3" />
+
+                <entry id="$-1" title="">
+                    <music base="0.6" />
+                </entry>
+                <entry id="$-5" title="">
+                    <music base="0.45" />
+                </entry>
+            </entry>
+
+            <contains id="M-VGMDB-AL-123922-1" />
+            <contains id="M-VGMDB-AL-123922-2" />
+            <contains id="M-VGMDB-AL-123922-3" />
+            <contains id="M-VGMDB-AL-123922-4" />
+            <contains id="M-VGMDB-AL-123922-5" />
+            <contains id="M-VGMDB-AL-123922-6" />
+            <contains id="M-VGMDB-AL-123922-7" />
+        </contains>
+
+        <contains id="M-VGMDB-AL-74436-2" factor="vocal+image/2" />
+
+        <contains factor="vocal+image*feat">
+            <contains id="M-VGMDB-AL-108196-1" />
+            <contains id="M-VGMDB-AL-108196-2" />
+            <contains id="M-VGMDB-AL-108196-3" />
+            <contains id="M-VGMDB-AL-108196-4" />
+            <contains id="M-VGMDB-AL-108196-5" />
+            <contains id="M-VGMDB-AL-108196-6" />
+            <contains id="M-VGMDB-AL-108196-7" />
+            <contains id="M-20230608T103716-7" />
+            <contains id="M-20230608T114243" />
+            <contains id="M-20230608T115639" />
+            <contains id="M-20230608T115640" />
+            <contains id="M-20230608T135642-1" />
+
+            <entry id="M-20230608T134651" title="Ame Akari">
+                <source>
+                    <urls>
+                        <url
+                            name="mikudb"
+                            src="http://mikudb.moe/album/ame-akari"
+                        />
+                    </urls>
+                </source>
+
+                <entry id="$-6" title="Yamanai Ame ni Hanataba wo">
+                    <music base="0.45" />
+                    <musicConsumedProgress length="5:30" />
+                </entry>
+            </entry>
+        </contains>
+
+        <contains factor="inst / 3">
+            <contains id="M-VGMDB-AL-74440-6" />
+            <contains id="M-VGMDB-AL-108194-5" />
+        </contains>
+
+        <contains factor="vocal">
+            <contains id="M-VGMDB-AL-123896-5" />
+
+            <entry
+                id="M-20230608T130823"
+                title="Ashita o Miageta Natsu no Owari / nayuta"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="niconico"
+                            src="https://www.nicovideo.jp/watch/sm31812209"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=w1HcRM9UldU"
+                        />
+                    </urls>
+                </source>
+                <music base="0.7" />
+            </entry>
+        </contains>
+
+        <contains id="M-20230608T132043-1" factor="vocal+inst/3+image" />
+
+        <contains id="M-VGMDB-AR-57255" factor="1/3" />
+    </entry>
+
+    <entry id="M-VGMDB-AR-8196" title="Nanahira">
+        <!-- aka the hasegawa mii utaite -->
+
+        <contains factor="vocal+image">
+            <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
+                <entry id="$-8" title="Raririreru, Ririro, Riraro">
+                    <musicConsumedProgress length="5:43" />
+                    <music base="0.61" />
+                    <remix id="M-VGMDB-AL-108194-5" />
+                    <nei base="0.2" emotions="CU" />
+                </entry>
+            </entry>
+
+            <contains id="M-VGMDB-AL-108194-5" />
+        </contains>
+    </entry>
+
+    <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta">
+        <visual type="albumArt" base="0.4" unique="0.5" />
+
+        <entry id="$-4" title="ラリリレル、リリロ、リラロ">
+            <musicConsumedProgress length="5:45" />
+            <music base="0.61" />
+            <nei base="0.3" emotions="CU" />
+        </entry>
+
+        <entry id="$-5" title="Azure Reunion">
+            <musicConsumedProgress length="5:06" />
+            <music base="0.75" />
+            <!-- CLC cope -->
+            <nei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AR-57255" title="La prière">
+        <contains factor="vocal+image">
+            <contains id="M-20230608T075843" />
+        </contains>
+    </entry>
+
+    <entry id="M-20230608T075843" title="Chronologue / La prière">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/fuSe95PY" />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.6" unique="0.3" />
+        <!-- Length source: https://www.youtube.com/watch?v=S8MJvhgjXBY -->
+        <musicConsumedProgress length="6:57" />
+        <music base="0.55" />
+    </entry>
+
+    <entry id="M-20230608T085741" title="FROZEN QUALIA">
+        <source>
+            <urls>
+                <url
+                    name="tunecore"
+                    src="https://www.tunecore.co.jp/artists/frozenqualia"
+                />
+            </urls>
+        </source>
+    </entry>
+
+    <!-- pogpega em trai son tung -->
+    <entry id="M-20230608T085650" title="Mono.">
+        <source>
+            <urls>
+                <url name="youtube" src="https://www.youtube.com/@Monopowan" />
+            </urls>
+        </source>
+
+        <contains id="M-20230608T135641-10" factor="inst+image*main" />
+        <contains id="M-20230608T135642-7" factor="inst+image*main" />
+    </entry>
+
+    <entry id="M-20230608T120015" title="Ao no Hotaru Kotoba">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=kJ6lOCHDOuA"
+                />
+            </urls>
+        </source>
+
+        <visual type="staticMV" base="0.4" unique="0.3" />
+        <music base="0.5" />
+        <musicConsumedProgress length="" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-108196" title="">
+        <visual type="albumArt" base="0.3" unique="0.2" />
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-2" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-5" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-6" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-7" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-129048" title="">
+        <visual type="albumArt" base="0.4" unique="0.5" />
+        <entry id="$-1" title="" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-117388" title="">
+        <!-- wtf is this nozsist crap -->
+        <visual type="albumArt" base="0.5" unique="0.4" />
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T103716" title="Bouquet">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/fGRcEssZ" />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.3" unique="0.2" />
+        <entry id="$-1" title="Bouquet">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T104218" title="キミの唄">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/fGRcEssZ" />
+            </urls>
+        </source>
+        <visual type="staticMV" base="0.3" unique="0.4" />
+        <music base="" />
+    </entry>
+
+    <entry id="M-VGMDB-AR-16653" title="" />
+
+    <entry id="M-VGMDB-AR-48767" title="">
+        <contains factor="inst*2/3+image*main">
+            <entry id="M-VGMDB-AL-128840" title="">
+            </entry>
+        </contains>
+    </entry>
+
+    <entry id="M-VGMDB-AR-40119" title="">
+        <contains id="M-VGMDB-AL-129048-1" factor="inst" />
+        <contains id="M-VGMDB-AL-124011-1" factor="inst*2/3" />
+    </entry>
+
+    <!-- he is basically vivid lila too -->
+    <entry id="M-VGMDB-AR-53149" title="" />
+
+    <!-- lmfao kano 2023 is truly a 2018 artist -->
+    <!-- like what the actual fuck -->
+    <entry id="M-20230608T114243" title="Night of Bloom">
+        <source>
+            <urls>
+                <url name="fanlink" src="https://fanlink.to/hFEx" />
+            </urls>
+        </source>
+
+        <visual type="semiAnimatedMV" base="0.4" unique="0.6" />
+        <music base="0.35" />
+    </entry>
+
+    <entry id="M-20230608T132043-1" title="Hullhakobune">
+        <source>
+            <urls>
+                <url name="tunecore" src="https://linkco.re/6HPq8P17" />
+            </urls>
+        </source>
+    </entry>
+
+    <entry id="M-20230608T133105" title="CodeQ">
+        <source>
+            <urls>
+                <url name="tunecore" src="https://linkco.re/Yf86y5R9" />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.3" unique="0.5" />
+        <entry id="$-6" title="AI to CodeQ no Hate">
+            <music base="0.5" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-VGMDB-AL-123922"
+        title="Rojiura no Shoujo to Igyou Atama no Juunintachi"
+    >
+        <visual type="albumArt" base="0.4" unique="0.7" />
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-2" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-5" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-6" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-7" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T135641" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/yH6nbG0x" />
+            </urls>
+        </source>
+
+        <visual type="albumArt" base="0.6" unique="0.25" />
+
+        <entry id="$-10" title="">
+            <music base="0.65" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T135642" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/ZzTs99bB" />
+            </urls>
+        </source>
+
+        <visual type="albumArt" base="0.6" unique="0.25" />
+
+        <entry id="$-1" title="">
+            <music base="0.55" />
+        </entry>
+
+        <entry id="$-7" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T140454" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/NZfseVu7" />
+            </urls>
+        </source>
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-2" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-5" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-6" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-74436" title="Longing for... / Chata × nayuta ">
+        <visual type="albumArt" base="0.4" unique="0.5" />
+        <entry id="$-2" title="Snowmotion">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=qRr2U0RL4n4"
+                    />
+                </urls>
+            </source>
+            <music base="" />
+            <musicConsumedProgress length="3:57" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T085424" title="Vivid Lila">
+        <source>
+            <urls>
+                <url
+                    name="tunecore"
+                    src="https://www.tunecore.co.jp/artists?id=405679"
+                />
+            </urls>
+        </source>
+
+        <contains factor="inst+image*main">
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140604-1" />
+            <contains id="M-20230608T140604-2" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140603-5" />
+        </contains>
+    </entry>
+
+    <entry id="M-20230608T140603" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/MyhaR4ut" />
+            </urls>
+        </source>
+
+        <!-- the remaster ver sounds basically the same in order to be fair -->
+        <!-- and not giving kano 2023 two <music base="0.8" /> tracks -->
+        <entry id="$-5" title="Shirosumire no Yuki ga Furu Naka de">
+            <music base="0.8" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T140604" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/0dXVtAaE" />
+            </urls>
+        </source>
+
+        <entry id="$-1" title="">
+            <music base="0.55" />
+        </entry>
+
+        <entry id="$-2" title="">
+            <music base="0.4" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T140605" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/zYEeGnBh" />
+            </urls>
+        </source>
+
+        <contains id="M-20230608T140603-5" />
+
+        <entry id="$-1" title="">
+            <music base="0.5" />
+        </entry>
+        <entry id="$-2" title="">
+            <music base="0.65" />
+        </entry>
+        <!-- nayuta -->
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-5" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T140606" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/yMHP600R" />
+            </urls>
+        </source>
+        <!-- nayuta -->
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <!-- nayuta -->
+        <entry id="$-2" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-5" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T140607" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/RuU5rSB5" />
+            </urls>
+        </source>
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-2" title="">
+            <music base="" />
+        </entry>
+        <!-- nayuta -->
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T140608" title="">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/t4b63zrX" />
+            </urls>
+        </source>
+        <entry id="$-1" title="">
+            <music base="" />
+        </entry>
+        <!-- nayuta -->
+        <entry id="$-2" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-3" title="">
+            <music base="" />
+        </entry>
+        <entry id="$-4" title="">
+            <music base="" />
+        </entry>
+    </entry>
+
+</document>

@@ -908,70 +908,6 @@
         <contains id="M-VGMDB-AL-108194-5" factor="inst * 2 / 3" />
     </entry>
 
-    <entry id="M-VGMDB-AR-6799" title="nayuta">
-
-        <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
-
-                <visual type="albumArt" base="0.6" unique="0.3" />
-                <entry id="$-6" title="Azure Reunion">
-                    <musicConsumedProgress
-                        length="5:06"
-                    /> <!-- impl_overridden -->
-                    <music base="0.82" />
-                    <remix id="M-VGMDB-AL-108194-5" />
-                    <!-- CLC cope -->
-                    <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
-                </entry>
-            </entry>
-
-            <contains id="M-VGMDB-AL-108194-4" />
-        </contains>
-
-        <contains factor="inst / 3">
-            <contains id="M-VGMDB-AL-74440-6" />
-            <contains id="M-VGMDB-AL-108194-5" />
-        </contains>
-
-        <contains factor="vocal">
-            <contains id="M-VGMDB-AL-123896-5" />
-        </contains>
-    </entry>
-
-    <entry id="M-VGMDB-AR-8196" title="Nanahira">
-        <!-- aka the hasegawa mii utaite -->
-
-        <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
-                <entry id="$-8" title="Raririreru, Ririro, Riraro">
-                    <musicConsumedProgress length="5:43" />
-                    <music base="0.61" />
-                    <remix id="M-VGMDB-AL-108194-5" />
-                    <nei base="0.2" emotions="CU" />
-                </entry>
-            </entry>
-
-            <contains id="M-VGMDB-AL-108194-5" />
-        </contains>
-    </entry>
-
-    <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta">
-        <visual type="albumArt" base="0.4" unique="0.5" />
-
-        <entry id="$-4" title="ラリリレル、リリロ、リラロ">
-            <musicConsumedProgress length="5:45" />
-            <music base="0.61" />
-            <nei base="0.3" emotions="CU" />
-        </entry>
-
-        <entry id="$-5" title="Azure Reunion">
-            <musicConsumedProgress length="5:06" />
-            <music base="0.75" />
-            <!-- CLC cope -->
-            <nei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
-        </entry>
-    </entry>
-
     <entry id="M-VGMDB-AR-30942" title="Yunomi">
         <contains id="M-VGMDB-AL-104618" factor="inst+image*main" />
     </entry>
@@ -983,5 +919,38 @@
         <contains id="M-VGMDB-AL-33518-2" factor="vocal+image" />
         <contains id="M-VGMDB-AL-66742-1" factor="vocal+image" />
         <contains id="M-VGMDB-AL-34086-1" factor="vocal+image" />
+
+        <contains id="M-VGMDB-AL-40947-1" factor="vocal+image*feat" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-40947" title="">
+        <visual type="albumArt" base="0.5" unique="0.6" />
+        <entry id="$-1" title="brand new day">
+            <music base="0.55" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AR-35717" title="Aiobahn">
+        <contains factor="inst+image*main">
+            <entry id="M-20230608T115639" title="Sugiyuku Hi to Kimi e">
+                <source>
+                    <urls>
+                        <url
+                            name="lnk.to"
+                            src="https://aiobahn.lnk.to/passing-days"
+                        />
+                    </urls>
+                </source>
+                <music base="0.25" />
+            </entry>
+            <entry id="M-20230608T115640" title="0AM">
+                <source>
+                    <urls>
+                        <url name="lnk.to" src="https://aiobahn.lnk.to/0am" />
+                    </urls>
+                </source>
+                <music base="0.3" />
+            </entry>
+        </contains>
     </entry>
 </document>
