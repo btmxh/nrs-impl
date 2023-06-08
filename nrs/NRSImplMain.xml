@@ -76,6 +76,7 @@
     <include src="franchises/SoraMethod.xml" />
     <include src="franchises/SoraYori.xml" />
     <include src="seasonal/Spring2022.xml" />
+    <include src="seasonal/Spring2023.xml" />
     <include src="franchises/StellaMahou.xml" />
     <include src="franchises/SthKara.xml" />
     <include src="seasonal/Summer2022.xml" />

@@ -1,0 +1,19 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="L-MAL-110953" title="Neeko wa Tsurai yo">
+        <!-- Yes, I hate capitalism and its foes, how could you tell? -->
+
+        <!-- i love aitsuki nakuru -->
+        <bestGirl name="Nemuko Niito" />
+
+        <visual type="manga" base="0.6" unique="0.3" />
+        <!-- 38/41 chapters -->
+        <!-- about 2hr of value idk -->
+        <consumedProgress status="Watching" boredom="1.0" duration="2:00:00" />
+
+        <maxAEIPADS emotions="MP-0.1:CU-0.3:CP-0.6" />
+
+        <!-- didn't realize that i kinda want an anime daughter ngl -->
+        <!-- anti-lovists in shambles rn -->
+    </entry>
+</document>
