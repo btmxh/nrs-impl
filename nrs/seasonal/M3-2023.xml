@@ -10,9 +10,8 @@
             <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
                 <visual type="albumArt" base="0.6" unique="0.3" />
                 <entry id="$-6" title="Azure Reunion">
-                    <musicConsumedProgress
-                        length="5:06"
-                    /> <!-- impl_overridden -->
+                    <musicConsumedProgress length="5:06" />
+                    <!-- impl_overridden -->
                     <music base="0.82" />
                     <remix id="M-VGMDB-AL-108194-5" />
                     <!-- CLC cope -->
@@ -206,25 +205,25 @@
     <entry id="M-VGMDB-AL-108196" title="">
         <visual type="albumArt" base="0.3" unique="0.2" />
         <entry id="$-1" title="">
-            <music base="" />
+            <music base="0.5" />
         </entry>
         <entry id="$-2" title="">
-            <music base="" />
+            <music base="0.4" />
         </entry>
         <entry id="$-3" title="">
-            <music base="" />
+            <music base="0.15" />
         </entry>
         <entry id="$-4" title="">
-            <music base="" />
+            <music base="0.35" />
         </entry>
         <entry id="$-5" title="">
-            <music base="" />
+            <music base="0.15" />
         </entry>
         <entry id="$-6" title="">
-            <music base="" />
+            <music base="0.2" />
         </entry>
         <entry id="$-7" title="">
-            <music base="" />
+            <music base="0.75" />
         </entry>
     </entry>
 
@@ -270,8 +269,7 @@
 
     <entry id="M-VGMDB-AR-48767" title="">
         <contains factor="inst*2/3+image*main">
-            <entry id="M-VGMDB-AL-128840" title="">
-            </entry>
+            <entry id="M-VGMDB-AL-128840" title="" />
         </contains>
     </entry>
 
@@ -491,10 +489,7 @@
         </entry>
         <!-- nayuta -->
         <entry id="$-4" title="">
-            <music base="" />
-        </entry>
-        <entry id="$-5" title="">
-            <music base="" />
+            <music base="0.35" />
         </entry>
     </entry>
 
@@ -506,20 +501,17 @@
         </source>
         <!-- nayuta -->
         <entry id="$-1" title="">
-            <music base="" />
+            <music base="0.65" />
         </entry>
         <!-- nayuta -->
         <entry id="$-2" title="">
-            <music base="" />
+            <music base="0.7" />
         </entry>
         <entry id="$-3" title="">
-            <music base="" />
+            <music base="0.35" />
         </entry>
         <entry id="$-4" title="">
-            <music base="" />
-        </entry>
-        <entry id="$-5" title="">
-            <music base="" />
+            <music base="0.55" />
         </entry>
     </entry>
 
@@ -530,17 +522,17 @@
             </urls>
         </source>
         <entry id="$-1" title="">
-            <music base="" />
+            <music base="0.45" />
         </entry>
         <entry id="$-2" title="">
-            <music base="" />
+            <music base="0.4" />
         </entry>
         <!-- nayuta -->
         <entry id="$-3" title="">
-            <music base="" />
+            <music base="0.55" />
         </entry>
         <entry id="$-4" title="">
-            <music base="" />
+            <music base="0.6" />
         </entry>
     </entry>
 
@@ -551,18 +543,17 @@
             </urls>
         </source>
         <entry id="$-1" title="">
-            <music base="" />
+            <music base="0.6" />
         </entry>
         <!-- nayuta -->
         <entry id="$-2" title="">
-            <music base="" />
+            <music base="0.5" />
         </entry>
         <entry id="$-3" title="">
-            <music base="" />
+            <music base="0.4" />
         </entry>
         <entry id="$-4" title="">
-            <music base="" />
+            <music base="0.65" />
         </entry>
     </entry>
-
 </document>
