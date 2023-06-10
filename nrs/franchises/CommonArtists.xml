@@ -852,7 +852,10 @@
         <contains id="M-VGMDB-AL-40947-1" factor="vocal+image*feat" />
     </entry>
 
-    <entry id="M-VGMDB-AL-40947" title="">
+    <entry
+        id="M-VGMDB-AL-40947"
+        title="Hoshino-Ne Sanctuary character song &amp; sound album"
+    >
         <visual type="albumArt" base="0.5" unique="0.6" />
         <entry id="$-1" title="brand new day">
             <music base="0.55" />
