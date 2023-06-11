@@ -520,8 +520,50 @@
     </entry>
 
     <entry id="M-VGMDB-AL-129048" title="It's a Message for you">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/9GzuRaxd" />
+                <url
+                    name="official"
+                    src="https://nanahira.jp/IMU/"
+                    generatedBy="music.ts 6658d70-648580d0"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/5zuLTeySyvd9jrtprpCGRL"
+                    generatedBy="music.ts 6658d70-648580d0"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/129048"
+                    generatedBy="music.ts 6658d70-648580d0"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_nbMNJP_W-lLiE5CGYktJyUoFeAndSpOfg"
+                    generatedBy="music.ts 6658d70-648580d0"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.4" unique="0.5" />
-        <entry id="$-1" title="I’m a Messenger for U" />
+        <entry id="$-1" title="I’m a Messenger for U">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6gYDzCvU4FARCO5FlYruKU"
+                        generatedBy="music.ts 6658d70-648580d0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=Q1W6yIgHLb4"
+                        generatedBy="music.ts 6658d70-648580d0"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="2:18" />
+        </entry>
     </entry>
 
     <entry id="M-VGMDB-AL-117388" title="Harukanaru Kimi e">
