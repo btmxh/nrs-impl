@@ -1047,9 +1047,46 @@
         </entry>
 
         <entry id="M-VGMDB-AL-125354" title="Rainbow FlowerS / ortensia">
+            <source>
+                <urls>
+                    <url
+                        name="itunes"
+                        src="https://music.apple.com/jp/album/1659571389"
+                    />
+                    <url name="linkcore" src="https://linkco.re/yMQph0VV" />
+                    <url
+                        name="mora-aac"
+                        src="https://mora.jp/package/43000074/TCJPR0000973602/"
+                    />
+                    <url
+                        name="mora-flac"
+                        src="https://mora.jp/package/43000074/TCJPR0000973602_hires/"
+                    />
+                    <url
+                        name="ototoy"
+                        src="https://ototoy.jp/_/default/p/1482443"
+                    />
+                    <url
+                        name="ototoy-hi-res"
+                        src="https://ototoy.jp/_/default/p/1482444"
+                    />
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/2v7G2k2xwv6nAnAVmyPRg5"
+                    />
+                    <url
+                        name="spotify-jp"
+                        src="https://open.spotify.com/album/19sIi8XCDKYTrRlo0o6ARW"
+                    />
+                    <url name="vgmdb" src="https://vgmdb.net/album/125354" />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=2RFV11GJtOM"
+                    />
+                </urls>
+            </source>
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Rainbow FlowerS">
-                <musicConsumedProgress length="4:25" />
                 <!-- farewell ~sena-chan get the fuck out wtf -->
                 <!-- are the koikake fuckers doing here it's -->
                 <!-- arc 3 idol dystopia not nee~ mineuchi tomomi -->
@@ -1065,6 +1102,7 @@
                     a_from="nee"
                     a_eras="nee=3.0"
                 />
+                <musicConsumedProgress length="4:25" />
             </entry>
         </entry>
 
