@@ -567,13 +567,63 @@
     </entry>
 
     <entry id="M-VGMDB-AL-117388" title="Harukanaru Kimi e">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/QDT3aRDx" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/53CQsMa77FFBvENDoPQ5WX"
+                    generatedBy="music.ts 6658d70-6485819a"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/117388"
+                    generatedBy="music.ts 6658d70-6485816d"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mqm3G2YQE-0lXlYeB3NKAh23M2-Nip3Uc"
+                    generatedBy="music.ts 6658d70-6485819a"
+                />
+            </urls>
+        </source>
         <!-- wtf is this nozsist crap -->
         <visual type="albumArt" base="0.5" unique="0.4" />
         <entry id="$-1" title="星の声を聴かせて">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4DIMnO51ATblB7jFQZLLGe"
+                        generatedBy="music.ts 6658d70-6485819a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=WB1vP5u7fFQ"
+                        generatedBy="music.ts 6658d70-648581cb"
+                    />
+                </urls>
+            </source>
+            <music base="0.65" />
+            <musicConsumedProgress length="5:29" />
         </entry>
         <entry id="$-3" title="遥かなる君へ">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1P2t545JzbjFryx9chCLq1"
+                        generatedBy="music.ts 6658d70-6485819a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=rDCLKxcU_Qo"
+                        generatedBy="music.ts 6658d70-648581cb"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="5:09" />
         </entry>
     </entry>
 
