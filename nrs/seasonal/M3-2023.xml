@@ -983,17 +983,46 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T135641" title="ハピコア流星群">
+    <entry id="M-20230608T135641" title="Happycore Meteorshower">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/yH6nbG0x" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/yH6nbG0x"
+                    generatedBy="music.ts 6658d70-64859095"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/5NftjvROP5puXKcFszWvMQ"
+                    generatedBy="music.ts 6658d70-64859095"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_nYxCpZ_Pj5QQQisSg7wVHo-rqnWB0lHdA"
+                    generatedBy="music.ts 6658d70-64859095"
+                />
             </urls>
         </source>
 
         <visual type="albumArt" base="0.6" unique="0.25" />
 
         <entry id="$-10" title="Reach for the stars">
-            <music base="0.65" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5ZdT9uIcAWM08qTI4T1r51"
+                        generatedBy="music.ts 6658d70-64859095"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=CKKqvsjhSjQ"
+                        generatedBy="music.ts 6658d70-64859095"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="3:54" />
         </entry>
     </entry>
 
@@ -1011,7 +1040,7 @@
         </entry>
 
         <entry id="$-7" title="&lt;non&gt;fiction">
-            <music base="" />
+            <music base="0.4" />
         </entry>
     </entry>
 
@@ -1040,7 +1069,7 @@
             <music base="" />
         </entry>
         <entry id="$-6" title="Every Day, Every Night">
-            <music base="" />
+            <music base="0.45" />
         </entry>
     </entry>
 
