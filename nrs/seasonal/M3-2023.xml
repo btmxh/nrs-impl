@@ -1219,7 +1219,21 @@
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-74436" title="Longing for... / Chata × nayuta ">
+    <entry id="M-VGMDB-AL-74436" title="Longing for... / Chata × nayuta">
+        <source>
+            <urls>
+                <url
+                    name="official"
+                    src="https://7uta-c93.tumblr.com/"
+                    generatedBy="music.ts 6658d70-648593d5"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/74436"
+                    generatedBy="music.ts 6658d70-648593d5"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.4" unique="0.5" />
         <entry id="$-2" title="Snowmotion">
             <source>
@@ -1227,10 +1241,11 @@
                     <url
                         name="youtube"
                         src="https://www.youtube.com/watch?v=qRr2U0RL4n4"
+                        generatedBy="music.ts 6658d70-648593d5"
                     />
                 </urls>
             </source>
-            <music base="" />
+            <music base="0.5" />
             <musicConsumedProgress length="3:57" />
         </entry>
     </entry>
