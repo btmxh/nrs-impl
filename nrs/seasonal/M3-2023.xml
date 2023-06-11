@@ -6,37 +6,8 @@
     <!-- holy fuck i ran out of ideas -->
 
     <entry id="M-VGMDB-AR-6799" title="nayuta">
+        <contains id="M-VGMDB-AL-108194-4" factor="vocal+image/2" />
         <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
-                <visual type="albumArt" base="0.6" unique="0.3" />
-                <entry id="$-6" title="Azure Reunion">
-                    <musicConsumedProgress length="5:06" />
-                    <!-- impl_overridden -->
-                    <music base="0.82" />
-                    <remix id="M-VGMDB-AL-108194-5" />
-                    <!-- CLC cope -->
-                    <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
-                </entry>
-            </entry>
-
-            <contains id="M-VGMDB-AL-108194-4" />
-
-            <entry id="M-20230608T113548" title="">
-                <source>
-                    <urls>
-                        <url name="linkcore" src="https://linkco.re/2s0zf19E" />
-                    </urls>
-                </source>
-                <visual type="albumArt" base="0.6" unique="0.3" />
-
-                <entry id="$-1" title="">
-                    <music base="0.6" />
-                </entry>
-                <entry id="$-5" title="">
-                    <music base="0.45" />
-                </entry>
-            </entry>
-
             <contains id="M-VGMDB-AL-123922-1" />
             <contains id="M-VGMDB-AL-123922-2" />
             <contains id="M-VGMDB-AL-123922-3" />
@@ -44,48 +15,6 @@
             <contains id="M-VGMDB-AL-123922-5" />
             <contains id="M-VGMDB-AL-123922-6" />
             <contains id="M-VGMDB-AL-123922-7" />
-        </contains>
-
-        <contains id="M-VGMDB-AL-74436-2" factor="vocal+image/2" />
-
-        <contains factor="vocal+image*feat">
-            <contains id="M-VGMDB-AL-108196-1" />
-            <contains id="M-VGMDB-AL-108196-2" />
-            <contains id="M-VGMDB-AL-108196-3" />
-            <contains id="M-VGMDB-AL-108196-4" />
-            <contains id="M-VGMDB-AL-108196-5" />
-            <contains id="M-VGMDB-AL-108196-6" />
-            <contains id="M-VGMDB-AL-108196-7" />
-            <contains id="M-20230608T103716-7" />
-            <contains id="M-20230608T114243" />
-            <contains id="M-20230608T115639" />
-            <contains id="M-20230608T115640" />
-            <contains id="M-20230608T135642-1" />
-
-            <entry id="M-20230608T134651" title="Ame Akari">
-                <source>
-                    <urls>
-                        <url
-                            name="mikudb"
-                            src="http://mikudb.moe/album/ame-akari"
-                        />
-                    </urls>
-                </source>
-
-                <entry id="$-6" title="Yamanai Ame ni Hanataba wo">
-                    <music base="0.45" />
-                    <musicConsumedProgress length="5:30" />
-                </entry>
-            </entry>
-        </contains>
-
-        <contains factor="inst / 3">
-            <contains id="M-VGMDB-AL-74440-6" />
-            <contains id="M-VGMDB-AL-108194-5" />
-        </contains>
-
-        <contains factor="vocal">
-            <contains id="M-VGMDB-AL-123896-5" />
 
             <entry
                 id="M-20230608T130823"
@@ -107,26 +36,200 @@
             </entry>
         </contains>
 
-        <contains id="M-20230608T132043-1" factor="vocal+inst/3+image" />
+        <contains factor="vocal+image*feat">
+            <contains id="M-VGMDB-AL-108196-1" />
+            <contains id="M-VGMDB-AL-108196-2" />
+            <contains id="M-VGMDB-AL-108196-3" />
+            <contains id="M-VGMDB-AL-108196-4" />
+            <contains id="M-VGMDB-AL-108196-5" />
+            <contains id="M-VGMDB-AL-108196-6" />
+            <contains id="M-VGMDB-AL-108196-7" />
+            <contains id="M-20230608T103716-7" />
+            <contains id="M-20230608T114243" />
+            <contains id="M-20230608T115639" />
+            <contains id="M-20230608T115640" />
+            <contains id="M-20230608T135642-1" />
+            <contains id="M-VGMDB-AL-123896-5" />
+        </contains>
+
+        <contains factor="inst/3+vocal+image">
+            <contains id="M-VGMDB-AL-98575-4" factor="inst/3+vocal+image" />
+            <contains id="M-20230608T132043-1" factor="inst/3+vocal+image" />
+            <contains id="M-20230608T113548-1" />
+            <contains id="M-20230608T113548-5" />
+        </contains>
+
+        <contains id="M-VGMDB-AL-98575-5" factor="inst/3+vocal/6+image*main" />
+        <contains id="M-VGMDB-AL-108194-5" factor="inst/3+image/2" />
+        <contains id="M-VGMDB-AL-74436-2" factor="vocal+image/2" />
 
         <contains id="M-VGMDB-AR-57255" factor="1/3" />
     </entry>
 
+    <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
+        <source>
+            <urls>
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/74440"
+                    generatedBy="music.ts 6658d70-64856cb0"
+                />
+            </urls>
+        </source>
+
+        <visual type="albumArt" base="0.6" unique="0.3" />
+        <contains id="M-VGMDB-AL-98575-4" />
+        <contains id="M-VGMDB-AL-98575-5" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-98575" title="Omoide wo Tsuzutta Uta wo Kimi e.">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/cEQGHz8z" />
+                <url
+                    name="melon-books"
+                    src="https://www.melonbooks.co.jp/detail/detail.php?product_id=632198"
+                    generatedBy="music.ts 6658d70-64856f2b"
+                />
+                <url
+                    name="official"
+                    src="https://7uta-5th.tumblr.com/"
+                    generatedBy="music.ts 6658d70-64856f2b"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1Ewv1h8DISsD9nLTqmGNfq"
+                    generatedBy="music.ts 6658d70-64856f8e"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/98575"
+                    generatedBy="music.ts 6658d70-64856f2b"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_neEZxgP7bnJf6HguZ2XILnxlJ3sa4-zQU"
+                    generatedBy="music.ts 6658d70-64856f8e"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.4" unique="0.6" />
+
+        <entry id="$-4" title="Azure Reunion">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2SVV68qiA3bEel349jvqqV"
+                        generatedBy="music.ts 6658d70-64856f8e"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=61z0dzeVJ_0"
+                    >
+                        <meta key="unofficial" value="true" />
+                    </url>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=y_9of3k1liU"
+                        generatedBy="music.ts 6658d70-64856f8e"
+                    />
+                </urls>
+            </source>
+            <!-- impl_overridden -->
+            <music base="0.82" />
+            <remix id="M-VGMDB-AL-108194-5" />
+            <!-- CLC cope -->
+            <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
+            <musicConsumedProgress length="5:05" />
+        </entry>
+
+        <entry id="$-5" title="空に架かる君の声。">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0HJAI8o62S4sUMEKaZ7UfX"
+                        generatedBy="music.ts 6658d70-64856f8e"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=sLgtJA8NYSA"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=eTQusoa8TG4"
+                        generatedBy="music.ts 6658d70-64856f8e"
+                    />
+                </urls>
+            </source>
+            <music base="0.7" />
+            <musicConsumedProgress length="3:42" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230608T113548" title="Portray Blue">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/2s0zf19E" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/3O7fLuO9Y67sbtfi2JQgUm"
+                    generatedBy="music.ts 6658d70-648568ff"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kiOBgdfmbor7VgvMQvu6R9b2-cgCfSIdU"
+                    generatedBy="music.ts 6658d70-648568ff"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.6" unique="0.3" />
+
+        <entry id="$-1" title="Blue Canvas">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0ccl0oaCBvpMsWECQ7X11g"
+                        generatedBy="music.ts 6658d70-648568ff"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=3pqE_O1Z84Y"
+                        generatedBy="music.ts 6658d70-648568ff"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:18" />
+        </entry>
+        <entry id="$-5" title="Blue Knots">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3gxaFirqRciRqtCyNR5MYB"
+                        generatedBy="music.ts 6658d70-648568ff"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=8ycpWfkL27A"
+                        generatedBy="music.ts 6658d70-648568ff"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="4:10" />
+        </entry>
+    </entry>
+
     <entry id="M-VGMDB-AR-8196" title="Nanahira">
         <!-- aka the hasegawa mii utaite -->
-
-        <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
-                <entry id="$-8" title="Raririreru, Ririro, Riraro">
-                    <musicConsumedProgress length="5:43" />
-                    <music base="0.61" />
-                    <remix id="M-VGMDB-AL-108194-5" />
-                    <nei base="0.2" emotions="CU" />
-                </entry>
-            </entry>
-
-            <contains id="M-VGMDB-AL-108194-5" />
-        </contains>
+        <contains id="M-VGMDB-AL-54237-7" factor="vocal+image" />
+        <contains id="M-VGMDB-AL-54237-8" factor="vocal+image" />
+        <contains id="M-VGMDB-AL-129048" factor="vocal+image" />
+        <contains id="M-VGMDB-AL-108194-5" factor="vocal+image/2" />
     </entry>
 
     <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta">
@@ -148,14 +251,24 @@
 
     <entry id="M-VGMDB-AR-57255" title="La prière">
         <contains factor="vocal+image">
-            <contains id="M-20230608T075843" />
+            <contains id="M-20230608T075843-1" />
         </contains>
     </entry>
 
-    <entry id="M-20230608T075843" title="Chronologue / La prière">
+    <entry id="M-20230608T075843" title="Chronologue">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/fuSe95PY" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/2Re7EVovWvPuxp8NJaU6Dw"
+                    generatedBy="music.ts 6658d70-64857c53"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=SVfiA89fbN8"
+                    generatedBy="music.ts 6658d70-64857c53"
+                />
             </urls>
         </source>
         <visual type="semiAnimatedMV" base="0.6" unique="0.3" />
@@ -173,6 +286,43 @@
                 />
             </urls>
         </source>
+    </entry>
+
+    <entry id="M-20230611T145256" title="Road movie">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/vZS6UgGc" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/0T7j8otzRASzMhBDPuEtXb"
+                    generatedBy="music.ts 6658d70-64857d69"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kv8ppXfRqFLHbPGIqtRgdVW6tq2pokGNg"
+                    generatedBy="music.ts 6658d70-64857d69"
+                />
+            </urls>
+        </source>
+
+        <entry id="$-1" title="M'aider">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6Ccxsg8p7w4YKlTk9FsCZV"
+                        generatedBy="music.ts 6658d70-64857db2"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=5zA-oYmye3Q"
+                        generatedBy="music.ts 6658d70-64857db2"
+                    />
+                </urls>
+            </source>
+            <music base="0.7" />
+            <musicConsumedProgress length="4:16" />
+        </entry>
     </entry>
 
     <!-- pogpega em trai son tung -->
@@ -202,43 +352,43 @@
         <musicConsumedProgress length="" />
     </entry>
 
-    <entry id="M-VGMDB-AL-108196" title="">
+    <entry id="M-VGMDB-AL-108196" title="diamond / garnet">
         <visual type="albumArt" base="0.3" unique="0.2" />
-        <entry id="$-1" title="">
+        <entry id="$-1" title="neptunite">
             <music base="0.5" />
         </entry>
-        <entry id="$-2" title="">
+        <entry id="$-2" title="phosphophyllite">
             <music base="0.4" />
         </entry>
-        <entry id="$-3" title="">
+        <entry id="$-3" title="morganite">
             <music base="0.15" />
         </entry>
-        <entry id="$-4" title="">
+        <entry id="$-4" title="cinnabar">
             <music base="0.35" />
         </entry>
-        <entry id="$-5" title="">
+        <entry id="$-5" title="alexandrite">
             <music base="0.15" />
         </entry>
-        <entry id="$-6" title="">
+        <entry id="$-6" title="benitoite">
             <music base="0.2" />
         </entry>
-        <entry id="$-7" title="">
+        <entry id="$-7" title="diamond">
             <music base="0.75" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AL-129048" title="">
+    <entry id="M-VGMDB-AL-129048" title="It's a Message for you">
         <visual type="albumArt" base="0.4" unique="0.5" />
-        <entry id="$-1" title="" />
+        <entry id="$-1" title="I’m a Messenger for U" />
     </entry>
 
-    <entry id="M-VGMDB-AL-117388" title="">
+    <entry id="M-VGMDB-AL-117388" title="Harukanaru Kimi e">
         <!-- wtf is this nozsist crap -->
         <visual type="albumArt" base="0.5" unique="0.4" />
-        <entry id="$-1" title="">
+        <entry id="$-1" title="星の声を聴かせて">
             <music base="" />
         </entry>
-        <entry id="$-3" title="">
+        <entry id="$-3" title="遥かなる君へ">
             <music base="" />
         </entry>
     </entry>
@@ -265,21 +415,21 @@
         <music base="" />
     </entry>
 
-    <entry id="M-VGMDB-AR-16653" title="" />
+    <entry id="M-VGMDB-AR-16653" title="Risa Yuzuki" />
 
-    <entry id="M-VGMDB-AR-48767" title="">
+    <entry id="M-VGMDB-AR-48767" title="EmoCosine">
         <contains factor="inst*2/3+image*main">
-            <entry id="M-VGMDB-AL-128840" title="" />
+            <entry id="M-VGMDB-AL-128840" title="Find My Future" />
         </contains>
     </entry>
 
-    <entry id="M-VGMDB-AR-40119" title="">
+    <entry id="M-VGMDB-AR-40119" title="Akki">
         <contains id="M-VGMDB-AL-129048-1" factor="inst" />
         <contains id="M-VGMDB-AL-124011-1" factor="inst*2/3" />
     </entry>
 
     <!-- he is basically vivid lila too -->
-    <entry id="M-VGMDB-AR-53149" title="" />
+    <entry id="M-VGMDB-AR-53149" title="Minato Suzuya" />
 
     <!-- lmfao kano 2023 is truly a 2018 artist -->
     <!-- like what the actual fuck -->
@@ -319,30 +469,30 @@
         title="Rojiura no Shoujo to Igyou Atama no Juunintachi"
     >
         <visual type="albumArt" base="0.4" unique="0.7" />
-        <entry id="$-1" title="">
+        <entry id="$-1" title="ヒトとカタチは違えども">
             <music base="" />
         </entry>
-        <entry id="$-2" title="">
+        <entry id="$-2" title="白日より淡く">
             <music base="" />
         </entry>
-        <entry id="$-3" title="">
+        <entry id="$-3" title="煤けた脳を疎うなら">
             <music base="" />
         </entry>
-        <entry id="$-4" title="">
+        <entry id="$-4" title="裸をカミが盥いだら">
             <music base="" />
         </entry>
-        <entry id="$-5" title="">
+        <entry id="$-5" title="孤独の塊を鈞るより">
             <music base="" />
         </entry>
-        <entry id="$-6" title="">
+        <entry id="$-6" title="青天より遠く">
             <music base="" />
         </entry>
-        <entry id="$-7" title="">
+        <entry id="$-7" title="路地裏と空は繋がって">
             <music base="" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T135641" title="">
+    <entry id="M-20230608T135641" title="ハピコア流星群">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/yH6nbG0x" />
@@ -351,12 +501,12 @@
 
         <visual type="albumArt" base="0.6" unique="0.25" />
 
-        <entry id="$-10" title="">
+        <entry id="$-10" title="Reach for the stars">
             <music base="0.65" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T135642" title="">
+    <entry id="M-20230608T135642" title="非日常スケッチブック">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/ZzTs99bB" />
@@ -365,37 +515,40 @@
 
         <visual type="albumArt" base="0.6" unique="0.25" />
 
-        <entry id="$-1" title="">
-            <music base="0.55" />
+        <entry id="$-1" title="Unusual Sketchbook">
+            <music base="0.6" />
         </entry>
 
-        <entry id="$-7" title="">
+        <entry id="$-7" title="&lt;non&gt;fiction">
             <music base="" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140454" title="">
+    <entry
+        id="M-20230608T140454"
+        title="そらの青より ボーカルソング・コレクション"
+    >
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/NZfseVu7" />
             </urls>
         </source>
-        <entry id="$-1" title="">
+        <entry id="$-1" title="Beyond the Sky">
             <music base="" />
         </entry>
-        <entry id="$-2" title="">
+        <entry id="$-2" title="To Us from Starry Blue">
             <music base="" />
         </entry>
-        <entry id="$-3" title="">
+        <entry id="$-3" title="Milky Way">
             <music base="" />
         </entry>
-        <entry id="$-4" title="">
+        <entry id="$-4" title="once more">
             <music base="" />
         </entry>
-        <entry id="$-5" title="">
+        <entry id="$-5" title="daydream">
             <music base="" />
         </entry>
-        <entry id="$-6" title="">
+        <entry id="$-6" title="Every Day, Every Night">
             <music base="" />
         </entry>
     </entry>
@@ -442,7 +595,7 @@
         </contains>
     </entry>
 
-    <entry id="M-20230608T140603" title="">
+    <entry id="M-20230608T140603" title="Veil Color">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/MyhaR4ut" />
@@ -456,23 +609,23 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T140604" title="">
+    <entry id="M-20230608T140604" title="Stardust Tears / Lovesick Link">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/0dXVtAaE" />
             </urls>
         </source>
 
-        <entry id="$-1" title="">
+        <entry id="$-1" title="Stardust Tears">
             <music base="0.55" />
         </entry>
 
-        <entry id="$-2" title="">
+        <entry id="$-2" title="Lovesick Link">
             <music base="0.4" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140605" title="">
+    <entry id="M-20230608T140605" title="White as Snow">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/zYEeGnBh" />
@@ -481,78 +634,78 @@
 
         <contains id="M-20230608T140603-5" />
 
-        <entry id="$-1" title="">
+        <entry id="$-1" title="Pastel Snow">
             <music base="0.5" />
         </entry>
-        <entry id="$-2" title="">
+        <entry id="$-2" title="Whiteout">
             <music base="0.65" />
         </entry>
         <!-- nayuta -->
-        <entry id="$-4" title="">
+        <entry id="$-4" title="Sangatsu no yakusoku">
             <music base="0.35" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140606" title="">
+    <entry id="M-20230608T140606" title="Air of Celeste">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/yMHP600R" />
             </urls>
         </source>
         <!-- nayuta -->
-        <entry id="$-1" title="">
+        <entry id="$-1" title="To the stars connected in July">
             <music base="0.65" />
         </entry>
         <!-- nayuta -->
-        <entry id="$-2" title="">
+        <entry id="$-2" title="Kimi ga kureta senritsu">
             <music base="0.7" />
         </entry>
-        <entry id="$-3" title="">
+        <entry id="$-3" title="To us like the horizon">
             <music base="0.35" />
         </entry>
-        <entry id="$-4" title="">
+        <entry id="$-4" title="Sky color memory">
             <music base="0.55" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140607" title="">
+    <entry id="M-20230608T140607" title="Astro Memorize">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/RuU5rSB5" />
             </urls>
         </source>
-        <entry id="$-1" title="">
+        <entry id="$-1" title="Asterism wo sagashite">
             <music base="0.45" />
         </entry>
-        <entry id="$-2" title="">
+        <entry id="$-2" title="Ramune no koini">
             <music base="0.4" />
         </entry>
         <!-- nayuta -->
-        <entry id="$-3" title="">
+        <entry id="$-3" title="planetarium graphics">
             <music base="0.55" />
         </entry>
-        <entry id="$-4" title="">
+        <entry id="$-4" title="sayuruboshi">
             <music base="0.6" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140608" title="">
+    <entry id="M-20230608T140608" title="Cry RefRain">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/t4b63zrX" />
             </urls>
         </source>
-        <entry id="$-1" title="">
+        <entry id="$-1" title="Sansou no iro">
             <music base="0.6" />
         </entry>
         <!-- nayuta -->
-        <entry id="$-2" title="">
+        <entry id="$-2" title="Amaoto wo kikasete">
             <music base="0.5" />
         </entry>
-        <entry id="$-3" title="">
+        <entry id="$-3" title="Yasashii Petrichor">
             <music base="0.4" />
         </entry>
-        <entry id="$-4" title="">
+        <entry id="$-4" title="Rainy dot Rainy">
             <music base="0.65" />
         </entry>
     </entry>
