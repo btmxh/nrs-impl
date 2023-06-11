@@ -1026,21 +1026,65 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T135642" title="非日常スケッチブック">
+    <entry id="M-20230608T135642" title="Hinichijou Sketchbook">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/ZzTs99bB" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/ZzTs99bB"
+                    generatedBy="music.ts 6658d70-6485911c"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/0znvBhuUpkjwrslpOJf0wh"
+                    generatedBy="music.ts 6658d70-6485911c"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_lTF7finzTRzsFyD765G3BDgVPQZQG61a8"
+                    generatedBy="music.ts 6658d70-6485911c"
+                />
             </urls>
         </source>
 
         <visual type="albumArt" base="0.6" unique="0.25" />
 
-        <entry id="$-1" title="Unusual Sketchbook">
+        <entry id="$-1" title="Hinichijou Sketchbook">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4myIjKIOLJwATKc1WKP9Ty"
+                        generatedBy="music.ts 6658d70-6485911c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=kPjzksmbFBk"
+                        generatedBy="music.ts 6658d70-6485911c"
+                    />
+                </urls>
+            </source>
             <music base="0.6" />
+            <musicConsumedProgress length="4:07" />
         </entry>
 
         <entry id="$-7" title="&lt;non&gt;fiction">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/20c4vXKhk4USGthyzJc8Yt"
+                        generatedBy="music.ts 6658d70-6485911c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=X4_FrcaCs9w"
+                        generatedBy="music.ts 6658d70-6485911c"
+                    />
+                </urls>
+            </source>
             <music base="0.4" />
+            <musicConsumedProgress length="4:12" />
         </entry>
     </entry>
 
