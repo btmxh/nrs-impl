@@ -103,11 +103,6 @@
                             src="https://open.spotify.com/track/0L1cinOuOj1Pxm0R4WSyir"
                             generatedBy="music.ts 6658d70-64858546"
                         />
-                        <url
-                            name="vgmdb"
-                            src="https://vgmdb.net/album/124011?trackindex=0"
-                            generatedBy="music.ts 6658d70-64858546"
-                        />
                     </urls>
                 </source>
                 <music base="0.4" />
