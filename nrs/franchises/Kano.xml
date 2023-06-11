@@ -61,6 +61,27 @@
                 <musicConsumedProgress length="4:08" />
             </entry>
 
+            <!-- after this (sukinano), almost all of kano's songs suck -->
+            <!-- (if kano sees this pls keep going on the -->
+            <!-- path you've chosen, don't mind me) -->
+            <!-- btw kano 2023 exists so she has even more reasons to -->
+            <!-- ditch neo-pop xddddddddd -->
+
+            <!-- oh except for this, i forgor -->
+            <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
+                <visual type="animatedMV" base="0.35" unique="0.7" />
+                <!-- 210 bpm spaced bursts -->
+                <osuSong personal="0.5" community="0.0" />
+
+                <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
+                <music base="0.46" />
+                <musicConsumedProgress length="3:29" generatedBy="user" />
+            </entry>
+        </contains>
+
+        <!-- colorful wonder note is an irojiro album -->
+        <!-- so basically kano has zero image (like kano 2023 in vivid lila albums) -->
+        <contains factor="vocal">
             <entry
                 id="M-20220130T032649"
                 title="Kimiiro Hanabi -album version-"
@@ -81,23 +102,6 @@
                 <!--
                 https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
                 <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
-            </entry>
-
-            <!-- after this (sukinano), almost all of kano's songs suck -->
-            <!-- (if kano sees this pls keep going on the -->
-            <!-- path you've chosen, don't mind me) -->
-            <!-- btw kano 2023 exists so she has even more reasons to -->
-            <!-- ditch neo-pop xddddddddd -->
-
-            <!-- oh except for this, i forgor -->
-            <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
-                <visual type="animatedMV" base="0.35" unique="0.7" />
-                <!-- 210 bpm spaced bursts -->
-                <osuSong personal="0.5" community="0.0" />
-
-                <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
-                <music base="0.46" />
-                <musicConsumedProgress length="3:29" generatedBy="user" />
             </entry>
         </contains>
 
