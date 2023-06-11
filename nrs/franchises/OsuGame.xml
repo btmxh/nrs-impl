@@ -922,11 +922,6 @@
             <source>
                 <urls>
                     <url
-                        name="spotify"
-                        src="https://open.spotify.com/track/1YEjSNhzKDgf31km8Qpmnz"
-                        generatedBy="music.ts 6658d70-648578ec"
-                    />
-                    <url
                         name="osu"
                         src="https://osu.ppy.sh/beatmapsets/1188740"
                     />
@@ -937,6 +932,11 @@
                     <url
                         name="osu"
                         src="https://osu.ppy.sh/beatmapsets/1263882"
+                    />
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1YEjSNhzKDgf31km8Qpmnz"
+                        generatedBy="music.ts 6658d70-648578ec"
                     />
                     <url
                         name="youtube"
