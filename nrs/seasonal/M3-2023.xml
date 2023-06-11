@@ -49,6 +49,12 @@
             <contains id="M-20230608T115640" />
             <contains id="M-20230608T135642-1" />
             <contains id="M-VGMDB-AL-123896-5" />
+            <contains id="M-20230608T140603-5" />
+            <contains id="M-20230608T140605-4" />
+            <contains id="M-20230608T140606-1" />
+            <contains id="M-20230608T140606-2" />
+            <contains id="M-20230608T140607-3" />
+            <contains id="M-20230608T140608-2" />
         </contains>
 
         <contains factor="inst/3+vocal+image">
@@ -1256,138 +1262,514 @@
                 <url
                     name="tunecore"
                     src="https://www.tunecore.co.jp/artists?id=405679"
+                    generatedBy="music.ts 6658d70-648594ac"
+                />
+                <url
+                    name="twitter"
+                    src="https://twitter.com/7suzuyami7"
+                    generatedBy="music.ts 6658d70-648594ac"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/channel/UCUo6gNzMjj8SE4L1mPt8IGA"
+                    generatedBy="music.ts 6658d70-648594ac"
                 />
             </urls>
         </source>
 
         <contains factor="inst+image*main">
             <contains id="M-20230608T140603-5" />
+
             <contains id="M-20230608T140604-1" />
             <contains id="M-20230608T140604-2" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140603-5" />
+
+            <contains id="M-20230608T140605-1" />
+            <contains id="M-20230608T140605-2" />
+            <contains id="M-20230608T140605-4" />
+
+            <contains id="M-20230608T140606-1" />
+            <contains id="M-20230608T140606-2" />
+            <contains id="M-20230608T140606-3" />
+            <contains id="M-20230608T140606-4" />
+
+            <contains id="M-20230608T140607-1" />
+            <contains id="M-20230608T140607-2" />
+            <contains id="M-20230608T140607-3" />
+            <contains id="M-20230608T140607-4" />
+
+            <contains id="M-20230608T140608-1" />
+            <contains id="M-20230608T140608-2" />
+            <contains id="M-20230608T140608-3" />
+            <contains id="M-20230608T140608-4" />
         </contains>
     </entry>
 
     <entry id="M-20230608T140603" title="Veil Color">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/MyhaR4ut" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/MyhaR4ut"
+                    generatedBy="music.ts 6658d70-648594c4"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/2807hWuqUHBmxM67K5kA2x"
+                    generatedBy="music.ts 6658d70-648594c4"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_l2U3xzMxsLOPZV8YUYn5MXc7O2G0TqGUs"
+                    generatedBy="music.ts 6658d70-648594c4"
+                />
             </urls>
         </source>
 
         <!-- the remaster ver sounds basically the same in order to be fair -->
         <!-- and not giving kano 2023 two <music base="0.8" /> tracks -->
         <entry id="$-5" title="Shirosumire no Yuki ga Furu Naka de">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0ybnF3WcpwCMXcinpsC4XJ"
+                        generatedBy="music.ts 6658d70-648594c4"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=6OGhjisi-Bg"
+                        generatedBy="music.ts 6658d70-648594c4"
+                    />
+                </urls>
+            </source>
             <music base="0.8" />
+            <musicConsumedProgress length="4:28" />
         </entry>
     </entry>
 
     <entry id="M-20230608T140604" title="Stardust Tears / Lovesick Link">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/0dXVtAaE" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/0dXVtAaE"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/59OIt35GqJNjbgSwFID3Tw"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kWiKIcifwE4JU2VPsoSDV33j5ax-NmPow"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
             </urls>
         </source>
 
         <entry id="$-1" title="Stardust Tears">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5z3tCCRAF2l6jP4VpDUOPb"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=Eb1SygvAUCw"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.55" />
+            <musicConsumedProgress length="3:41" />
         </entry>
 
         <entry id="$-2" title="Lovesick Link">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5B8pXtXDrz50RQ07vb9R0P"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=doTHUa_VBdM"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.4" />
+            <musicConsumedProgress length="3:46" />
         </entry>
     </entry>
 
     <entry id="M-20230608T140605" title="White as Snow">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/zYEeGnBh" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/zYEeGnBh"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/278GQdh9EVYP4pYCxq0g25"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_ns8GcYtsvqUYzrWkk3laJWB9UV_W3NLFI"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
             </urls>
         </source>
 
         <contains id="M-20230608T140603-5" />
 
         <entry id="$-1" title="Pastel Snow">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5XXXZ4z3cRQZoCaueLzcCG"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=2mHXbNrff8A"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.5" />
+            <musicConsumedProgress length="4:09" />
         </entry>
         <entry id="$-2" title="Whiteout">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/49uk662t9mD1NTqL012adV"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=EqZfyB7pQf8"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.65" />
+            <musicConsumedProgress length="4:13" />
         </entry>
         <!-- nayuta -->
         <entry id="$-4" title="Sangatsu no yakusoku">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4WCUlJydROFACxLgXZxqUo"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=4JvZ55qT6ps"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.35" />
+            <musicConsumedProgress length="4:36" />
         </entry>
     </entry>
 
     <entry id="M-20230608T140606" title="Air of Celeste">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/yMHP600R" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/yMHP600R"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/2hyuvcoKYGZRBqCsVBAVgK"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mm6brOVThuCc1cgvjheRsOkCDECyamRO4"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
             </urls>
         </source>
         <!-- nayuta -->
         <entry id="$-1" title="To the stars connected in July">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4IjVx3ik4YbczFoJS2qdY9"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=4BhXUSKERjY"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.65" />
+            <musicConsumedProgress length="4:10" />
         </entry>
         <!-- nayuta -->
         <entry id="$-2" title="Kimi ga kureta senritsu">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5dZfUl34FbJopxZPghj2cR"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=ahPrBGqv6F8"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.7" />
+            <musicConsumedProgress length="4:40" />
         </entry>
         <entry id="$-3" title="To us like the horizon">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6QFNp7AdirOwAcb3J51CBy"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=JWX2eik5gRM"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.35" />
+            <musicConsumedProgress length="4:50" />
         </entry>
         <entry id="$-4" title="Sky color memory">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5MFu5mYkLtBOWnvdbWeCj2"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=y0xRQoQuShA"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.55" />
+            <musicConsumedProgress length="4:26" />
         </entry>
     </entry>
 
     <entry id="M-20230608T140607" title="Astro Memorize">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/RuU5rSB5" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/RuU5rSB5"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/3okiVo8MmwzErpextaP4Ie"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_loCzfxSAYUN4ZasqTbSF4q3EYU3xoHpDo"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
             </urls>
         </source>
         <entry id="$-1" title="Asterism wo sagashite">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2PzuvQahf9DSW57Kl7pEFi"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=R7qtUOwYPuA"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.45" />
+            <musicConsumedProgress length="4:29" />
         </entry>
         <entry id="$-2" title="Ramune no koini">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5RbEGk2qdY886wlThqwsXY"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=X0Hy9HzFdnk"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.4" />
+            <musicConsumedProgress length="3:56" />
         </entry>
         <!-- nayuta -->
         <entry id="$-3" title="planetarium graphics">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3GxAu0jJTrDIj3IkUpojXs"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=kahsc7ZZ4M4"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.55" />
+            <musicConsumedProgress length="4:31" />
         </entry>
         <entry id="$-4" title="sayuruboshi">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/364jcrrEfcrIrkXsG042I9"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=h7LIRGDIWk8"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.6" />
+            <musicConsumedProgress length="5:08" />
         </entry>
     </entry>
 
     <entry id="M-20230608T140608" title="Cry RefRain">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/t4b63zrX" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/t4b63zrX"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/4sXJRT0gcrlKZIYRUTaeAs"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_lchMGDlxCwi_YR6GmJZTu9XONaQse0uHk"
+                    generatedBy="music.ts 6658d70-64859508"
+                />
             </urls>
         </source>
         <entry id="$-1" title="Sansou no iro">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5F3eyvMldVuW4ok2jNBNtw"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=9cbngETCCB8"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.6" />
+            <musicConsumedProgress length="3:06" />
         </entry>
         <!-- nayuta -->
         <entry id="$-2" title="Amaoto wo kikasete">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2bhHQSXaKDSV4t2ANnAFoc"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=jowzhcqWCjU"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.5" />
+            <musicConsumedProgress length="5:39" />
         </entry>
         <entry id="$-3" title="Yasashii Petrichor">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/62QrYaG3o3EDdRO1vou8xx"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=luvcp0W2wbI"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.4" />
+            <musicConsumedProgress length="3:54" />
         </entry>
         <entry id="$-4" title="Rainy dot Rainy">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3O9eBZIEE2Lh8eAS8eeXgP"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=30E_lMgbTME"
+                        generatedBy="music.ts 6658d70-64859508"
+                    />
+                </urls>
+            </source>
             <music base="0.65" />
+            <musicConsumedProgress length="4:21" />
         </entry>
     </entry>
 </document>
