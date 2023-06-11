@@ -663,14 +663,20 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T104218" title="キミの唄">
-        <source>
-            <urls>
-                <url name="linkcore" src="https://linkco.re/fGRcEssZ" />
-            </urls>
-        </source>
+    <entry id="M-20230608T104218" title="Bouquet">
         <visual type="staticMV" base="0.3" unique="0.4" />
-        <music base="" />
+        <entry id="$-1" title="Bouquet">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=jNrAzWzdmYo"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="4:24" />
+        </entry>
     </entry>
 
     <entry id="M-VGMDB-AR-16653" title="Risa Yuzuki" />
