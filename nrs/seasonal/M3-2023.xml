@@ -1088,32 +1088,134 @@
         </entry>
     </entry>
 
-    <entry
-        id="M-20230608T140454"
-        title="そらの青より ボーカルソング・コレクション"
-    >
+    <entry id="M-20230608T140454" title="Sora no Aoyori Vocal Song Collection">
         <source>
             <urls>
-                <url name="linkcore" src="https://linkco.re/NZfseVu7" />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/NZfseVu7"
+                    generatedBy="music.ts 6658d70-6485921a"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/508lTUwAIfVdGrEw4izL1T"
+                    generatedBy="music.ts 6658d70-6485921a"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_ky26wX_j3A0enWKFkSwgBTpDPRi1JE0m4"
+                    generatedBy="music.ts 6658d70-6485921a"
+                />
             </urls>
         </source>
-        <entry id="$-1" title="Beyond the Sky">
-            <music base="" />
+        <!-- pogpega ayumu reference -->
+        <entry id="$-1" title="Sora no Mukou">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2hkMfl8JdruF4dU5aGh5x9"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=-xvYcCFs1Do"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="3:49" />
         </entry>
-        <entry id="$-2" title="To Us from Starry Blue">
-            <music base="" />
+        <entry id="$-2" title="Hoshi furu Aoyori Bokutachi e Saku">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6IXSquFCsL2qmWPVm2Y72K"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=g00sTwJ4pNE"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                </urls>
+            </source>
+            <music base="0.25" />
+            <musicConsumedProgress length="4:45" />
         </entry>
-        <entry id="$-3" title="Milky Way">
-            <music base="" />
+        <entry id="$-3" title="Hoshi no Umi">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6wZZkwGVwYUSOGnERZj9Z1"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=bbPv-zVZTnA"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                </urls>
+            </source>
+            <music base="0.18" />
+            <musicConsumedProgress length="6:11" />
         </entry>
-        <entry id="$-4" title="once more">
-            <music base="" />
+        <entry id="$-4" title="Mou Ichido">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7rtBS9H6fB3baOcpHbSW0n"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=goEnjbqxRYQ"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                </urls>
+            </source>
+            <music base="0.2" />
+            <musicConsumedProgress length="5:04" />
         </entry>
-        <entry id="$-5" title="daydream">
-            <music base="" />
+        <entry id="$-5" title="Boku no Yume made">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2rY9LPOlXwp1MxrlIwl2qY"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=-x1Awu_7NOk"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                </urls>
+            </source>
+            <music base="0.25" />
+            <musicConsumedProgress length="4:28" />
         </entry>
         <entry id="$-6" title="Every Day, Every Night">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3jw5oAe0z5Qx84G3UpeiyL"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=OmjW68h93YI"
+                        generatedBy="music.ts 6658d70-6485921a"
+                    />
+                </urls>
+            </source>
             <music base="0.45" />
+            <musicConsumedProgress length="4:30" />
         </entry>
     </entry>
 
