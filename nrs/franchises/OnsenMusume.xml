@@ -55,9 +55,63 @@
         </entry>
 
         <entry id="M-VGMDB-AL-124011" title="Yuuyuu Smile Power / Ambassador">
+            <source>
+                <urls>
+                    <url
+                        name="itunes"
+                        src="https://music.apple.com/jp/album/1649484785"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                    <url
+                        name="mora"
+                        src="https://mora.jp/package/43000033/PA00107094-0-1/"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                    <url
+                        name="nextone.link"
+                        src="https://nex-tone.link/A00107094"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                    <url
+                        name="ototoy"
+                        src="https://ototoy.jp/_/default/p/1405067"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/3TkhbfUmSWZyNllFPdMEqP"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                    <url
+                        name="spotify-jp"
+                        src="https://open.spotify.com/album/3maLDodJtNB17LhWeLgwcd"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/124011"
+                        generatedBy="music.ts 6658d70-64858546"
+                    />
+                </urls>
+            </source>
             <visual type="albumArt" base="0.75" unique="0.25" />
-            <entry id="$-1" title="涌遊スマイルパワー">
+            <entry id="$-1" title="Yuuyuu Smile Power">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/0L1cinOuOj1Pxm0R4WSyir"
+                            generatedBy="music.ts 6658d70-64858546"
+                        />
+                        <url
+                            name="vgmdb"
+                            src="https://vgmdb.net/album/124011?trackindex=0"
+                            generatedBy="music.ts 6658d70-64858546"
+                        />
+                    </urls>
+                </source>
                 <music base="0.4" />
+                <musicConsumedProgress length="3:25" />
             </entry>
         </entry>
 
