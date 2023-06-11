@@ -889,9 +889,68 @@
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/Xt0C95sE" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/3BJBxKgASWuvX1GAgyVkAu"
+                    generatedBy="music.ts 6658d70-648578ec"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/54237"
+                    generatedBy="music.ts 6658d70-64857787"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=YJSbFjqS8Ek"
+                >
+                    <meta key="unofficial" value="true" />
+                    <meta key="album_compilation" value="true" />
+                </url>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_k9WGGWCj1cx49NTRW6GtQPlpJvtNdhEN0"
+                    generatedBy="music.ts 6658d70-648578ec"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.4" unique="0.5" />
 
         <entry id="$-7" title="Ange du Blanc Pur">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1YEjSNhzKDgf31km8Qpmnz"
+                        generatedBy="music.ts 6658d70-648578ec"
+                    />
+                    <url
+                        name="osu"
+                        src="https://osu.ppy.sh/beatmapsets/1188740"
+                    />
+                    <url
+                        name="osu"
+                        src="https://osu.ppy.sh/beatmapsets/564165"
+                    />
+                    <url
+                        name="osu"
+                        src="https://osu.ppy.sh/beatmapsets/1263882"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=EgV7usV-RPg"
+                    >
+                        <meta key="unofficial" value="true" />
+                    </url>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=5bfbmDB8rMM"
+                        generatedBy="music.ts 6658d70-648578ec"
+                    />
+                </urls>
+            </source>
             <music base="0.41" />
             <osuSong personal="0.75" community="0.25" />
             <!-- Length source: https://osu.ppy.sh/beatmapsets/1188740 -->
@@ -899,6 +958,33 @@
                 length="4:03"
                 generatedBy="fill_music_metadata.dart v0.1.1"
             />
+        </entry>
+
+        <entry id="$-8" title="Raririreru, Ririro, Riraro">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/76LyyK1MPAIFQddQIjW9xB"
+                        generatedBy="music.ts 6658d70-648578ec"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=_05XtaUZYns"
+                    >
+                        <meta key="ytmusic_nonautogen" value="true" />
+                    </url>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=pgKrcYACbM4"
+                        generatedBy="music.ts 6658d70-648578ec"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="5:43" />
+            <music base="0.61" />
+            <remix id="M-VGMDB-AL-108194-5" />
+            <nei base="0.2" emotions="CU" />
         </entry>
     </entry>
     <entry id="M-20221127T140303" title="Akaneiro no Mahou">
