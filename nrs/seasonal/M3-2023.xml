@@ -271,15 +271,31 @@
                 />
                 <url
                     name="youtube"
-                    src="https://www.youtube.com/watch?v=SVfiA89fbN8"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_nxKLvKlM1QrbAKL-oU17lliuL-RzlFgos"
                     generatedBy="music.ts 6658d70-64857c53"
                 />
             </urls>
         </source>
-        <visual type="semiAnimatedMV" base="0.6" unique="0.3" />
-        <!-- Length source: https://www.youtube.com/watch?v=S8MJvhgjXBY -->
-        <musicConsumedProgress length="6:57" />
-        <music base="0.55" />
+        <entry id="$-1" title="Chronologue">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2wwpZghWrdjyt0p5wjQghm"
+                        generatedBy="music.ts 6658d70-6485971c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=SVfiA89fbN8"
+                        generatedBy="music.ts 6658d70-64857c53"
+                    />
+                </urls>
+            </source>
+            <visual type="semiAnimatedMV" base="0.6" unique="0.3" />
+            <!-- Length source: https://www.youtube.com/watch?v=S8MJvhgjXBY -->
+            <musicConsumedProgress length="6:57" />
+            <music base="0.55" />
+        </entry>
     </entry>
 
     <entry id="M-20230608T085741" title="FROZEN QUALIA">
