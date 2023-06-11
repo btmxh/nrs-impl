@@ -679,13 +679,14 @@
         </entry>
     </entry>
 
+    <!-- todo: rank these individuals -->
     <entry id="M-VGMDB-AR-16653" title="Risa Yuzuki" />
 
     <entry id="M-VGMDB-AR-48767" title="EmoCosine">
-        <contains factor="inst*2/3+image*main">
-            <entry id="M-VGMDB-AL-128840" title="Find My Future" />
-        </contains>
+        <contains factor="inst*2/3+image*main" />
     </entry>
+
+    <entry id="M-VGMDB-AL-128840" title="Find My Future" />
 
     <entry id="M-VGMDB-AR-40119" title="Akki">
         <contains id="M-VGMDB-AL-129048-1" factor="inst" />
@@ -697,23 +698,76 @@
 
     <!-- lmfao kano 2023 is truly a 2018 artist -->
     <!-- like what the actual fuck -->
+    <!-- (yes i already was aware of this shit from the duopoly era -->
+    <!-- and i was surprised af back then, but they were not ranked kekw) -->
     <entry id="M-20230608T114243" title="Night of Bloom">
         <source>
             <urls>
-                <url name="fanlink" src="https://fanlink.to/hFEx" />
+                <url
+                    name="fanlink"
+                    src="https://fanlink.to/hFEx"
+                    generatedBy="music.ts 6658d70-64858875"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/1Yd6bAMZlxmo0TGKHChg35"
+                    generatedBy="music.ts 6658d70-64858875"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=FwWUqQz6Llk"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=f5rs2YrThao"
+                    generatedBy="music.ts 6658d70-64858875"
+                />
             </urls>
         </source>
 
         <visual type="semiAnimatedMV" base="0.4" unique="0.6" />
         <music base="0.35" />
+        <musicConsumedProgress length="4:46" />
     </entry>
 
-    <entry id="M-20230608T132043-1" title="Hullhakobune">
+    <entry id="M-20230608T132043" title="Hullhakobune">
         <source>
             <urls>
-                <url name="tunecore" src="https://linkco.re/6HPq8P17" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/5t8PCYQlATC6JCpppMhaKZ"
+                    generatedBy="music.ts 6658d70-64858904"
+                />
+                <url
+                    name="tunecore"
+                    src="https://linkco.re/6HPq8P17"
+                    generatedBy="music.ts 6658d70-64858904"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mADfvbkDNY1dl9h_INoSfSRAiewGgfMRA"
+                    generatedBy="music.ts 6658d70-64858904"
+                />
             </urls>
         </source>
+        <entry id="$-1" title="Hullhakobune">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4IhTcB4rWCDPaH34yRnefD"
+                        generatedBy="music.ts 6658d70-64858996"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=7-AU3SU161s"
+                        generatedBy="music.ts 6658d70-64858996"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <musicConsumedProgress length="4:03" />
+        </entry>
     </entry>
 
     <entry id="M-20230608T133105" title="CodeQ">
