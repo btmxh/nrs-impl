@@ -33,6 +33,7 @@
                     </urls>
                 </source>
                 <music base="0.7" />
+                <musicConsumedProgress length="5:47" />
             </entry>
         </contains>
 
@@ -174,6 +175,7 @@
     </entry>
 
     <entry id="M-20230608T113548" title="Portray Blue">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/2s0zf19E" />
@@ -261,6 +263,7 @@
     </entry>
 
     <entry id="M-20230608T075843" title="Chronologue">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/fuSe95PY" />
@@ -299,6 +302,7 @@
     </entry>
 
     <entry id="M-20230608T085741" title="FROZEN QUALIA">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -312,6 +316,7 @@
     </entry>
 
     <entry id="M-20230611T145256" title="Road movie">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/vZS6UgGc" />
@@ -350,6 +355,7 @@
 
     <!-- pogpega em trai son tung -->
     <entry id="M-20230608T085650" title="Mono.">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -649,6 +655,7 @@
     </entry>
 
     <entry id="M-20230608T103716" title="KIMINOUTA">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/fGRcEssZ" />
@@ -659,8 +666,7 @@
                 />
                 <url
                     name="youtube"
-                    src="https://www.youtube.com/watch?v=1D0-MsPBf04"
-                    generatedBy="music.ts 6658d70-6485825c"
+                    src="https://music.youtube.com/playlist?list=OLAK5uy_ki3QPez5dPtLMdeXLWP5z_6XMfthHsxRo"
                 />
             </urls>
         </source>
@@ -686,6 +692,7 @@
     </entry>
 
     <entry id="M-20230608T104218" title="Bouquet">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <visual type="staticMV" base="0.3" unique="0.4" />
         <entry id="$-1" title="Bouquet">
             <source>
@@ -753,6 +760,7 @@
     </entry>
 
     <entry id="M-20230608T132043" title="Hullhakobune">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -793,6 +801,7 @@
     </entry>
 
     <entry id="M-20230608T133105" title="CodeQ">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1006,6 +1015,7 @@
     </entry>
 
     <entry id="M-20230608T135641" title="Happycore Meteorshower">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1049,6 +1059,7 @@
     </entry>
 
     <entry id="M-20230608T135642" title="Hinichijou Sketchbook">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1111,6 +1122,7 @@
     </entry>
 
     <entry id="M-20230608T140454" title="Sora no Aoyori Vocal Song Collection">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1273,6 +1285,7 @@
     </entry>
 
     <entry id="M-20230608T085424" title="Vivid Lila">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1321,6 +1334,7 @@
     </entry>
 
     <entry id="M-20230608T140603" title="Veil Color">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1364,6 +1378,7 @@
     </entry>
 
     <entry id="M-20230608T140604" title="Stardust Tears / Lovesick Link">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1424,6 +1439,7 @@
     </entry>
 
     <entry id="M-20230608T140605" title="White as Snow">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1482,7 +1498,6 @@
             <music base="0.65" />
             <musicConsumedProgress length="4:13" />
         </entry>
-        <!-- nayuta -->
         <entry id="$-4" title="Sangatsu no yakusoku">
             <source>
                 <urls>
@@ -1504,6 +1519,7 @@
     </entry>
 
     <entry id="M-20230608T140606" title="Air of Celeste">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1523,7 +1539,6 @@
                 />
             </urls>
         </source>
-        <!-- nayuta -->
         <entry id="$-1" title="To the stars connected in July">
             <source>
                 <urls>
@@ -1542,7 +1557,6 @@
             <music base="0.65" />
             <musicConsumedProgress length="4:10" />
         </entry>
-        <!-- nayuta -->
         <entry id="$-2" title="Kimi ga kureta senritsu">
             <source>
                 <urls>
@@ -1600,6 +1614,7 @@
     </entry>
 
     <entry id="M-20230608T140607" title="Astro Memorize">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url
@@ -1655,7 +1670,6 @@
             <music base="0.4" />
             <musicConsumedProgress length="3:56" />
         </entry>
-        <!-- nayuta -->
         <entry id="$-3" title="planetarium graphics">
             <source>
                 <urls>
@@ -1695,6 +1709,7 @@
     </entry>
 
     <entry id="M-20230608T140608" title="Cry RefRain">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url

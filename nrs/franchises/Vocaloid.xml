@@ -173,6 +173,7 @@
     </entry>
 
     <entry id="M-20230608T132554" title="Ano Natsu no Itsuka wa">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
                 <url

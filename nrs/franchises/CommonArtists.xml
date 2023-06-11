@@ -856,29 +856,71 @@
         id="M-VGMDB-AL-40947"
         title="Hoshino-Ne Sanctuary character song &amp; sound album"
     >
+        <source>
+            <urls>
+                <url
+                    name="official"
+                    src="https://www.web-marmalade.com/products/hoshinone/"
+                    generatedBy="music.ts 6658d70-648597a2"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/40947"
+                    generatedBy="music.ts 6658d70-648597a2"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.5" unique="0.6" />
         <entry id="$-1" title="brand new day">
             <music base="0.55" />
+            <musicConsumedProgress length="3:51" />
         </entry>
     </entry>
 
     <entry id="M-VGMDB-AR-35717" title="Aiobahn">
         <contains factor="inst+image*main">
             <entry id="M-20230608T115639" title="Sugiyuku Hi to Kimi e">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
                 <source>
                     <urls>
                         <url
                             name="lnk.to"
                             src="https://aiobahn.lnk.to/passing-days"
                         />
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/album/5j4DDLBW80W3AIZEahHz3S"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=n5Jv-FFhfDU"
+                        />
                     </urls>
                 </source>
-                <music base="0.25" />
+                <entry id="$-1" title="Sugiyuku Hi to Kimi e">
+                    <music base="0.25" />
+                    <musicConsumedProgress length="4:20" />
+                </entry>
             </entry>
             <entry id="M-20230608T115640" title="0AM">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
                 <source>
                     <urls>
                         <url name="lnk.to" src="https://aiobahn.lnk.to/0am" />
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/album/3BO9W1wvpttDia3BziaQ3F"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=m4aAQMChrWA"
+                        >
+                            <meta key="unofficial" value="true" />
+                        </url>
                     </urls>
                 </source>
                 <music base="0.3" />
