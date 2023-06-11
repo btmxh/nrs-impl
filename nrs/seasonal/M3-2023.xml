@@ -44,7 +44,6 @@
             <contains id="M-VGMDB-AL-108196-5" />
             <contains id="M-VGMDB-AL-108196-6" />
             <contains id="M-VGMDB-AL-108196-7" />
-            <contains id="M-20230608T103716-7" />
             <contains id="M-20230608T114243" />
             <contains id="M-20230608T115639" />
             <contains id="M-20230608T115640" />
@@ -627,15 +626,40 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T103716" title="Bouquet">
+    <entry id="M-20230608T103716" title="KIMINOUTA">
         <source>
             <urls>
                 <url name="linkcore" src="https://linkco.re/fGRcEssZ" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/7mxmox5Ld7qILjzoRrsNOS"
+                    generatedBy="music.ts 6658d70-6485825c"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=1D0-MsPBf04"
+                    generatedBy="music.ts 6658d70-6485825c"
+                />
             </urls>
         </source>
         <visual type="albumArt" base="0.3" unique="0.2" />
-        <entry id="$-1" title="Bouquet">
-            <music base="" />
+        <entry id="$-1" title="KIMINOUTA">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3Jhw98XjK1qVAowtIJJqqu"
+                        generatedBy="music.ts 6658d70-6485825c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=1D0-MsPBf04"
+                        generatedBy="music.ts 6658d70-6485825c"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <musicConsumedProgress length="5:20" />
         </entry>
     </entry>
 
