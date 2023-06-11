@@ -176,12 +176,12 @@
         <source>
             <urls>
                 <url
-                    name="youtube"
-                    src="https://www.youtube.com/watch?v=7yjzo8qnenk"
-                />
-                <url
                     name="fandom"
                     src="https://vocaloid.fandom.com/wiki/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AE%E3%81%84%E3%81%A4%E3%81%8B%E3%81%AF_(Ano_Natsu_no_Itsuka_wa)"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=7yjzo8qnenk"
                 />
             </urls>
         </source>
