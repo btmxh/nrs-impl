@@ -6,6 +6,11 @@
     <!-- holy fuck i ran out of ideas -->
 
     <entry id="M-VGMDB-AR-6799" title="nayuta">
+        <!-- 2023-04-24 is when nanahira released her M3 album xfd -->
+        <!-- so we may as well consider that point in time to be the start of -->
+        <!-- this shithelldamn stuff -->
+        <meme from="2023-04-24" to="today" strength="0.8" />
+
         <contains id="M-VGMDB-AL-108194-4" factor="vocal+image/2" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-123922-1" />
@@ -1747,7 +1752,6 @@
             <music base="0.6" />
             <musicConsumedProgress length="3:06" />
         </entry>
-        <!-- nayuta -->
         <entry id="$-2" title="Amaoto wo kikasete">
             <source>
                 <urls>
