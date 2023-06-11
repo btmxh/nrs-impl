@@ -773,12 +773,41 @@
     <entry id="M-20230608T133105" title="CodeQ">
         <source>
             <urls>
-                <url name="tunecore" src="https://linkco.re/Yf86y5R9" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/32uGUC9HVOdExskaOMvPYi"
+                    generatedBy="music.ts 6658d70-648589d9"
+                />
+                <url
+                    name="tunecore"
+                    src="https://linkco.re/Yf86y5R9"
+                    generatedBy="music.ts 6658d70-648589d9"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_ktTfRJohm-uvb1lpipqysTW-Ddl2wdzN0"
+                    generatedBy="music.ts 6658d70-648589d9"
+                />
             </urls>
         </source>
         <visual type="albumArt" base="0.3" unique="0.5" />
         <entry id="$-6" title="AI to CodeQ no Hate">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6TtFzvOAAJaD2DnABixduN"
+                        generatedBy="music.ts 6658d70-648589d9"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=JSsJBn8m-Mg"
+                        generatedBy="music.ts 6658d70-648589d9"
+                    />
+                </urls>
+            </source>
             <music base="0.5" />
+            <musicConsumedProgress length="6:16" />
         </entry>
     </entry>
 
