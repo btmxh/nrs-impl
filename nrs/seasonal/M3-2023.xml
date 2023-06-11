@@ -815,27 +815,171 @@
         id="M-VGMDB-AL-123922"
         title="Rojiura no Shoujo to Igyou Atama no Juunintachi"
     >
+        <source>
+            <urls>
+                <url
+                    name="booth"
+                    src="https://7uta-nayuta.booth.pm/items/4220926"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+                <url
+                    name="diverse-direct"
+                    src="https://diverse.direct/7uta-com/7uta-0013/"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/7RpRV9N8"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+                <url
+                    name="official"
+                    src="https://7uta-0013.tumblr.com/"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/3VBzXnNpNEYrIPwrDkgL1A"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/123922"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_lL6-kEy0jxry1E__QdsGuCQ4FsfiPXtJ8"
+                    generatedBy="music.ts 6658d70-64858a40"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.4" unique="0.7" />
         <entry id="$-1" title="ヒトとカタチは違えども">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4f9q8tX7rC1hmXfZE1jjf3"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=bKLRgwMf-ic"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.15" />
+            <musicConsumedProgress length="2:22" />
         </entry>
         <entry id="$-2" title="白日より淡く">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3z5ugkRQYw5w9yzUQ5VcoT"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=B3DhWLW3wvc"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.2" />
+            <musicConsumedProgress length="4:32" />
         </entry>
         <entry id="$-3" title="煤けた脳を疎うなら">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2TgP3FCH8r18hD0i548DMC"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=4PXTARxUmoA"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.18" />
+            <musicConsumedProgress length="3:49" />
         </entry>
         <entry id="$-4" title="裸をカミが盥いだら">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7c9LvhmZoOuuZRSGxp1uUY"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=0YigKXk7YKI"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.22" />
+            <musicConsumedProgress length="3:48" />
         </entry>
         <entry id="$-5" title="孤独の塊を鈞るより">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7rYRW6vtOgbemhFoEKbEez"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=SDOHYLCwX74"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.19" />
+            <musicConsumedProgress length="4:04" />
         </entry>
         <entry id="$-6" title="青天より遠く">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4B2FUvJI9NGQ5dKcsaiTTO"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=B49iBCnRoec"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.25" />
+            <musicConsumedProgress length="3:59" />
         </entry>
         <entry id="$-7" title="路地裏と空は繋がって">
-            <music base="" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2U7NtJWqXjsbTvapD76szN"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=81QZzzA1U6E"
+                        generatedBy="music.ts 6658d70-64858a40"
+                    />
+                </urls>
+            </source>
+            <music base="0.12" />
+            <musicConsumedProgress length="2:45" />
         </entry>
     </entry>
 
