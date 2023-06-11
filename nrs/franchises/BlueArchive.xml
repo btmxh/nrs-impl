@@ -9,6 +9,20 @@
         <!-- "onsen but actually meta" -->
         <!-- (yes the game exists but it will likely not be played for a while) -->
 
+        <entry
+            id="M-VGMDB-AL-117861"
+            title="Blue Archive Original Soundtrack Vol.1 ~Longing for the memorable days~"
+        >
+            <!-- pogpega le cat 2023 -->
+            <visual type="albumArt" base="0.4" unique="0.5" />
+
+            <entry id="$-4" title="Shooting Stars">
+                <music base="0.5" />
+                <musicConsumedProgress length="2:00" />
+                <remix id="M-20230608T133428" />
+            </entry>
+        </entry>
+
         <!-- no way edm in 2023 pogpega -->
         <!-- this is literally 2018 -->
         <entry
@@ -71,6 +85,20 @@
             <contributor id="F-VGMDB-9895" factor="0.5" />
         </ref>
     </entry>
+
+    <entry id="M-20230608T133428" title="Shooting Stars (long ver.)">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=zZOR65TjZLU"
+                />
+            </urls>
+        </source>
+        <music base="0.6" />
+        <musicConsumedProgress length="5:12" />
+    </entry>
+
     <def name="RemodernizationEra" vars="a_strength:double" visibility="public">
         <meme strength="a_strength" from="2023-01-01" to="today">
             <children />

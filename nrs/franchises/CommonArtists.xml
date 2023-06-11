@@ -834,68 +834,8 @@
         <!-- aka the gigachad who made akm and destroyed civilization as we know it -->
 
         <contains id="M-VGMDB-AL-76155-2" factor="inst" />
-        <contains id="M-VGMDB-AL-74440-6" factor="inst * 2 / 3" />
+        <contains id="M-VGMDB-AL-98575-4" factor="inst * 2 / 3" />
         <contains id="M-VGMDB-AL-108194-5" factor="inst * 2 / 3" />
-    </entry>
-
-    <entry id="M-VGMDB-AR-6799" title="nayuta">
-        <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
-                <visual type="albumArt" base="0.6" unique="0.3" />
-                <entry id="$-6" title="Azure Reunion">
-                    <musicConsumedProgress length="5:06" generatedBy="user" />
-                    <music base="0.82" />
-                    <remix id="M-VGMDB-AL-108194-5" />
-                    <!-- CLC cope -->
-                    <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
-                </entry>
-            </entry>
-
-            <contains id="M-VGMDB-AL-108194-4" />
-        </contains>
-
-        <contains factor="inst / 3">
-            <contains id="M-VGMDB-AL-74440-6" />
-            <contains id="M-VGMDB-AL-108194-5" />
-        </contains>
-
-        <contains factor="vocal">
-            <contains id="M-VGMDB-AL-123896-5" />
-        </contains>
-    </entry>
-
-    <entry id="M-VGMDB-AR-8196" title="Nanahira">
-        <!-- aka the hasegawa mii utaite -->
-
-        <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-54237" title="Colory Starry / Nanahira">
-                <entry id="$-8" title="Raririreru, Ririro, Riraro">
-                    <musicConsumedProgress length="5:43" />
-                    <music base="0.61" />
-                    <remix id="M-VGMDB-AL-108194-5" />
-                    <nei base="0.2" emotions="CU" />
-                </entry>
-            </entry>
-
-            <contains id="M-VGMDB-AL-108194-5" />
-        </contains>
-    </entry>
-
-    <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta">
-        <visual type="albumArt" base="0.4" unique="0.5" />
-
-        <entry id="$-4" title="ラリリレル、リリロ、リラロ">
-            <musicConsumedProgress length="5:45" />
-            <music base="0.61" />
-            <nei base="0.3" emotions="CU" />
-        </entry>
-
-        <entry id="$-5" title="Azure Reunion">
-            <musicConsumedProgress length="5:06" />
-            <music base="0.75" />
-            <!-- CLC cope -->
-            <nei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
-        </entry>
     </entry>
 
     <entry id="M-VGMDB-AR-30942" title="Yunomi">
@@ -908,5 +848,83 @@
         <contains id="M-VGMDB-AL-33518-2" factor="vocal+image" />
         <contains id="M-VGMDB-AL-66742-1" factor="vocal+image" />
         <contains id="M-VGMDB-AL-34086-1" factor="vocal+image" />
+
+        <contains id="M-VGMDB-AL-40947-1" factor="vocal+image*feat" />
+    </entry>
+
+    <entry
+        id="M-VGMDB-AL-40947"
+        title="Hoshino-Ne Sanctuary character song &amp; sound album"
+    >
+        <source>
+            <urls>
+                <url
+                    name="official"
+                    src="https://www.web-marmalade.com/products/hoshinone/"
+                    generatedBy="music.ts 6658d70-648597a2"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/40947"
+                    generatedBy="music.ts 6658d70-648597a2"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.5" unique="0.6" />
+        <entry id="$-1" title="brand new day">
+            <music base="0.55" />
+            <musicConsumedProgress length="3:51" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AR-35717" title="Aiobahn">
+        <contains factor="inst+image*main">
+            <entry id="M-20230608T115639" title="Sugiyuku Hi to Kimi e">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <source>
+                    <urls>
+                        <url
+                            name="lnk.to"
+                            src="https://aiobahn.lnk.to/passing-days"
+                        />
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/album/5j4DDLBW80W3AIZEahHz3S"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=n5Jv-FFhfDU"
+                        />
+                    </urls>
+                </source>
+                <entry id="$-1" title="Sugiyuku Hi to Kimi e">
+                    <music base="0.25" />
+                    <musicConsumedProgress length="4:20" />
+                </entry>
+            </entry>
+            <entry id="M-20230608T115640" title="0AM">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <source>
+                    <urls>
+                        <url name="lnk.to" src="https://aiobahn.lnk.to/0am" />
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/album/3BO9W1wvpttDia3BziaQ3F"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=m4aAQMChrWA"
+                        >
+                            <meta key="unofficial" value="true" />
+                        </url>
+                    </urls>
+                </source>
+                <music base="0.3" />
+            </entry>
+        </contains>
     </entry>
 </document>

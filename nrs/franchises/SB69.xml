@@ -500,7 +500,8 @@
             <!-- 2023-03-22 is when my first period of physics I started -->
             <meme strength="0.1" from="2023-03-22" to="today" />
 
-            <!-- Length source: https://show-by-rock-fes-a-live.fandom.com/wiki/Starry_Sky_Light_Story_(DJ_DEVILMINTKIRYU_Remix)#Game_Stats -->
+            <!-- Length source:
+            https://show-by-rock-fes-a-live.fandom.com/wiki/Starry_Sky_Light_Story_(DJ_DEVILMINTKIRYU_Remix)#Game_Stats -->
             <musicConsumedProgress length="1:46" />
         </entry>
 
@@ -1011,7 +1012,8 @@
         id="M-20220125T063355-6"
         title="Seishun wa Non-Stop! (Asterisk DnB Remix)"
     >
-        <!-- Length source: https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix -->
+        <!-- Length source:
+        https://soundcloud.com/asteriskbtlg/5315yun-w4-n0n-st0pasterisk-dnb-remix -->
         <music base="0.49" />
         <musicConsumedProgress length="5:02" generatedBy="user" />
         <osuSong personal="0.75" community="0.0" />
@@ -1069,6 +1071,21 @@
         <music base="0.75" />
         <!-- Length source: https://www.youtube.com/watch?v=aVqqNuvv-00 -->
         <musicConsumedProgress length="4:30" />
+    </entry>
+
+    <!-- rip fes a live -->
+    <entry id="M-20230608T135141" title="TOWER">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=6-bDkcBTpyk"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
+        <music base="0.6" />
+        <musicConsumedProgress length="3:45" />
     </entry>
 
     <!-- " -->
