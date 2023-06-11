@@ -370,27 +370,152 @@
     </entry>
 
     <entry id="M-VGMDB-AL-108196" title="diamond / garnet">
+        <source>
+            <urls>
+                <url name="linkcore" src="https://linkco.re/z7rFT0MT" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/5uHHeBVm9fXrM4xEMhZNHq"
+                    generatedBy="music.ts 6658d70-6485805c"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/108196"
+                    generatedBy="music.ts 6658d70-64858031"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_lXxvibpOson_eD9c7d-3iwQM9pOonnY00"
+                    generatedBy="music.ts 6658d70-6485805c"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.3" unique="0.2" />
         <entry id="$-1" title="neptunite">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6OdUYuh2uYG11pfpbZ11ll"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=ge71cZxvERs"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.5" />
+            <musicConsumedProgress length="4:11" />
         </entry>
         <entry id="$-2" title="phosphophyllite">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/340MbXTQ7S3EKB5UQuvRXq"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=qWfNHtPwWjU"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.4" />
+            <musicConsumedProgress length="4:23" />
         </entry>
         <entry id="$-3" title="morganite">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5mE5zCb0lQZCS7xctvnvqk"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=fyHRioC5AI8"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.15" />
+            <musicConsumedProgress length="4:05" />
         </entry>
         <entry id="$-4" title="cinnabar">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/56wTHiGaj1VcxdZhsDiS7U"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=mNjcqmZezeU"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.35" />
+            <musicConsumedProgress length="3:52" />
         </entry>
         <entry id="$-5" title="alexandrite">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0JMs67jhdTrSFOvdCLj1NK"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=gXJMSwhNyWQ"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.15" />
+            <musicConsumedProgress length="3:29" />
         </entry>
         <entry id="$-6" title="benitoite">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0HkEsN1lNuPmXgkd4J8aJS"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=tal0F8HNiPY"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.2" />
+            <musicConsumedProgress length="3:42" />
         </entry>
         <entry id="$-7" title="diamond">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4TKe4wFyT8wryXJBtTtNrh"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=cqKjZQ7qExM"
+                        generatedBy="music.ts 6658d70-6485805c"
+                    />
+                </urls>
+            </source>
             <music base="0.75" />
+            <musicConsumedProgress length="5:17" />
         </entry>
     </entry>
 
