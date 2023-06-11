@@ -331,6 +331,17 @@
     <entry id="M-20230608T085650" title="Mono.">
         <source>
             <urls>
+                <url
+                    name="niconico"
+                    src="https://www.nicovideo.jp/user/30344549"
+                />
+                <url name="official" src="https://monopowan.studio.site/" />
+                <url name="soundcloud" src="https://soundcloud.com/m_o_n_0" />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/artist/05Huft2zD5JIGgpkcHreca"
+                />
+                <url name="twitter" src="https://twitter.com/Monopowan" />
                 <url name="youtube" src="https://www.youtube.com/@Monopowan" />
             </urls>
         </source>
@@ -343,6 +354,10 @@
         <source>
             <urls>
                 <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/2FZ001TJ5acjcL5xECrjpq"
+                />
+                <url
                     name="youtube"
                     src="https://www.youtube.com/watch?v=kJ6lOCHDOuA"
                 />
@@ -350,8 +365,8 @@
         </source>
 
         <visual type="staticMV" base="0.4" unique="0.3" />
-        <music base="0.5" />
-        <musicConsumedProgress length="" />
+        <music base="0.55" />
+        <musicConsumedProgress length="5:23" />
     </entry>
 
     <entry id="M-VGMDB-AL-108196" title="diamond / garnet">
