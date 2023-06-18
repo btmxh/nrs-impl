@@ -139,6 +139,7 @@
     <!-- just a weird combination -->
     <!-- nothing of great importance here -->
     <entry id="M-20230618T140144" title="nayuta x AZKi Commonwealth">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <contains id="M-VGMDB-AR-6799" />
         <contains id="M-VGMDB-AR-35619" />
     </entry>
