@@ -155,7 +155,8 @@
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
-                <!-- https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
+                <!--
+                https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
                 <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
             </entry>
 
@@ -279,38 +280,8 @@
             <musicConsumedProgress length="4:08" />
         </entry>
 
-        <contains factor="1/4">
-            <!-- not precisely just music artists, so they would use the `O` prefix -->
-            <entry id="O-20230524T223250" title="Hanayori Girls' Dormitory">
-                <!-- idk but i had watched (more like listened lmfao) 10hr of this thing -->
-                <consumed boredom="0.9" length="10:00:00" />
-
-                <entry
-                    id="M-20230524T223735"
-                    title="Koko kara, koko kara (Hanayori Girls' Dormitory cover)"
-                >
-                    <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
-                    <musicConsumedProgress length="4:35" />
-                    <music base="0.54" />
-
-                    <!-- english socialism -->
-                    <nei base="0.5" emotions="CU-0.75:CP-0.25" />
-
-                    <!-- this was the first song i mapped on osugame btw -->
-                    <!-- pretty iconic if you ask me -->
-                    <osuSong personal="0.8" />
-
-                    <!-- pretty cool MV too -->
-                    <visual type="animatedMV" base="0.4" unique="0.75" />
-                </entry>
-            </entry>
-        </contains>
-
-        <!-- 15 extra days for hanayori ig -->
-        <meme strength="0.85" from="2020-11-01" to="2021-02-15">
-            <contributor id="M-VGMDB-AR-11666" factor="0.8" />
-            <contributor id="O-20230524T223250" factor="0.2" />
-        </meme>
+        <!-- there is a tiny 0.1 factor for the sns manager and stuff idk -->
+        <contains id="M-20230524T223250" factor="1/4" />
 
         <!-- the collapse of isoc sadge -->
         <meme strength="0.75" from="2021-02-16" to="2021-04-01" />

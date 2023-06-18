@@ -1,0 +1,145 @@
+<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <!-- not precisely just music artists, but i still use the `M` prefix -->
+    <entry id="M-20230524T223250" title="Hanayori Girls' Dormitory">
+        <validatorSuppress rules="dah-no-progress" />
+        <!-- idk but i had watched (more like listened lmfao) 10hr of this thing -->
+        <consumed boredom="0.9" length="10:00:00" />
+        <contains id="M-20230524T223735" factor="vocal+image" />
+
+        <!-- 15 extra days for hanayori ig -->
+        <meme from="2020-11-01" to="2021-02-15" strength="0.85" />
+        <!-- the circle thing -->
+        <meme from="2023-05-15" to="today" strength="0.4" />
+
+        <!-- hanayori girls dorm -->
+        <regularImpact>
+            <score>
+                <component value="0.5" factor="Art.Language" />
+            </score>
+        </regularImpact>
+    </entry>
+
+    <entry
+        id="M-20230524T223735"
+        title="Koko kara, koko kara (Hanayori Girls' Dormitory cover)"
+    >
+        <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
+        <musicConsumedProgress length="4:35" />
+        <music base="0.54" />
+
+        <!-- english socialism -->
+        <nei base="0.5" emotions="CU-0.75:CP-0.25" />
+
+        <!-- this was the first song i mapped on osugame btw -->
+        <!-- pretty iconic if you ask me -->
+        <osuSong personal="0.8" />
+
+        <!-- pretty cool MV too -->
+        <visual type="animatedMV" base="0.4" unique="0.75" />
+    </entry>
+
+    <!-- "hololiveshit" - L bozo rst fanboy -->
+    <entry id="O-20230618T115627" title="hololive">
+        <entry id="M-VGMDB-AR-35619" title="AZKi">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/artist/0HX3yJ7THlqC9drRqhOkgo"
+                    />
+                    <url name="twitter" src="https://twitter.com/AZKi_VDiVA" />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw"
+                    />
+                </urls>
+            </source>
+
+            <contains factor="image+vocal">
+                <contains id="M-20230618T131917-1" />
+                <contains id="M-20230618T132937" />
+            </contains>
+        </entry>
+
+        <entry id="M-20230618T131917" title="Fake.Fake.Fake">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/23zoXeOWwXDtosm0phAHJ5"
+                        generatedBy="music.ts 822494e-648ea3b5"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/playlist?list=OLAK5uy_nV5zleNnugLZZK59VS5Z5E4eKBEJ092ao"
+                        generatedBy="music.ts 822494e-648ea3b5"
+                    />
+                </urls>
+            </source>
+
+            <entry id="$-1" title="Fake.Fake.Fake">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/4Epr9cTESFAYvhv3FbwGvl"
+                            generatedBy="music.ts 822494e-648ea3b5"
+                        />
+                        <!-- MV version -->
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=lGXgYHlR8ww"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=pfW3PytNhlo"
+                            generatedBy="music.ts 822494e-648ea3b5"
+                        />
+                    </urls>
+                </source>
+                <music base="0.65" />
+                <musicConsumedProgress length="3:50" />
+            </entry>
+        </entry>
+
+        <entry id="M-20230618T132937" title="Asuiro ClearSky (AZKi ver.)">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=qyIequG7B_A"
+                    />
+                </urls>
+            </source>
+
+            <music base="0.7" />
+            <musicConsumedProgress length="4:37" />
+        </entry>
+    </entry>
+
+    <!-- groundbreaking hanayori incidents -->
+    <aei base="0.8" emotions="AP">
+        <contributor id="M-VGMDB-AR-11666" factor="0.5" />
+        <contributor id="M-20230524T223250" factor="0.5" />
+    </aei>
+
+    <!-- i legit cried on that night when i discovered this fact -->
+    <!-- like it's been half a day and i still can't believe my eyes -->
+    <cry emotions="AP">
+        <contributor id="M-VGMDB-AR-6799" factor="0.5" />
+        <contributor id="M-VGMDB-AR-35619" factor="0.5" />
+    </cry>
+
+    <meme from="2023-05-15" to="today" strength="0.4">
+        <contributor id="M-20230524T223250" factor="1.0" />
+    </meme>
+
+    <!-- just a weird combination -->
+    <!-- nothing of great importance here -->
+    <entry id="O-20230618T140144" title="nayuta x AZKi Commonwealth">
+        <contains id="M-VGMDB-AR-6799" />
+        <contains id="M-VGMDB-AR-35619" />
+    </entry>
+</document>
