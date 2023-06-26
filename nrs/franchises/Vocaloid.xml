@@ -193,27 +193,108 @@
     </entry>
 
     <entry id="M-20230626T230907" title="Ai Kotoba">
+        <source>
+            <urls>
+                <url
+                    name="niconico"
+                    src="https://www.nicovideo.jp/watch/sm7696158"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=I0eeS5wYGzI"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+            </urls>
+        </source>
         <remix id="M-20230626T230908" />
         <remix id="M-20230626T230909" />
         <remix id="M-20230626T230910" />
         <music base="0.25" />
+        <musicConsumedProgress length="4:24" />
     </entry>
 
     <entry id="M-20230626T230908" title="Ai Kotoba II">
+        <source>
+            <urls>
+                <url
+                    name="niconico"
+                    src="https://www.nicovideo.jp/watch/sm21986543"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/26MHhsR05uJhSzE5YFUbZZ"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=KgpROErtiBY"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+            </urls>
+        </source>
         <remix id="M-20230626T230909" />
         <remix id="M-20230626T230910" />
         <remix id="M-20230626T231018" />
+
         <music base="0.4" />
+        <musicConsumedProgress length="4:25" />
     </entry>
 
     <entry id="M-20230626T230909" title="Ai Kotoba III">
+        <source>
+            <urls>
+                <url
+                    name="niconico"
+                    src="https://www.nicovideo.jp/watch/sm33965071"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/226YA8Mae7EhLltchBcFQg"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=WptXk39wiIQ"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+            </urls>
+        </source>
         <remix id="M-20230626T230910" />
         <remix id="M-20230626T223045" />
         <remix id="M-20230626T231039" />
         <music base="0.35" />
+        <musicConsumedProgress length="4:06" />
     </entry>
 
     <entry id="M-20230626T230910" title="Ai Kotoba IV">
+        <source>
+            <urls>
+                <url
+                    name="niconico"
+                    src="https://www.nicovideo.jp/watch/sm40510213"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/04eW89GKBppgRA3at0ycfd"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=aHNWL7MBXoc"
+                    generatedBy="music.ts 822494e-6499bfc7"
+                />
+            </urls>
+        </source>
         <music base="0.3" />
+        <musicConsumedProgress length="3:38" />
     </entry>
 </document>

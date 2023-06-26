@@ -60,6 +60,7 @@
                         />
                     </urls>
                 </source>
+                <musicConsumedProgress length="4:27" />
                 <music base="0.45" />
             </entry>
 
@@ -72,6 +73,7 @@
                         />
                     </urls>
                 </source>
+                <musicConsumedProgress length="4:07" />
                 <music base="0.4" />
             </entry>
         </contains>
