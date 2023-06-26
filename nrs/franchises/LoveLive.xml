@@ -544,6 +544,13 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <contributor id="M-VGMDB-AL-89290-6" factor="0.025" />
         </maxAEIPADS>
 
+        <!-- ingsoc and colorism -->
+        <politics>
+            <!-- literally the inspiration for colorism's name -->
+            <contributor id="A-MAL-40879" factor="0.7" />
+            <contributor id="other stuff [null entry]" factor="0.3" />
+        </politics>
+
         <entry
             id="A-MAL-40879"
             title="Love Live! Nijigasaki Gakuen School Idol Doukoukai"
@@ -568,6 +575,10 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <!-- 2020-10-17: airtime of episode 3 -->
             <meme strength="1.0" from="2020-10-17" to="2021-02-01" />
+
+            <!-- the dead people thing surprised me so bad -->
+            <!-- it's kind of like the hanayori incident 2023 -->
+            <aei base="1.0" emotions="AP" />
 
             <killedBy id="M-VGMDB-AR-11666" potential="0.3" effect="0.5" />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
@@ -697,5 +708,51 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         <!-- hmm should i pick the dt length or the normal length :tf: -->
         <!-- Length source: https://www.youtube.com/watch?v=m6bYJ17psmg -->
         <musicConsumedProgress length="1:56" generatedBy="user" />
+    </entry>
+
+    <!-- here's a documentation made by ayumu people -->
+    <!--
+    https://docs.google.com/document/d/1pDCLShSkYOqkXOVkz5Lby0b7xWIQaIxAxKgV42CXvqE/edit?usp=sharing -->
+    <!-- a lot of forgotten lore here ngl -->
+
+    <!-- colorist creative works -->
+    <entry id="M-20230626T223154" title="nijigaku mashup v4.wav">
+        <source>
+            <urls>
+                <url
+                    name="google-drive"
+                    src="https://drive.google.com/file/d/1ZPSXEJaWnkH42VV1kurrIjF79GZ80Sso/view"
+                />
+                <!-- original version -->
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=VOvFcwcw0NI"
+                />
+            </urls>
+        </source>
+        <musicConsumedProgress length="1:36" />
+        <!-- pretty low quality tbh -->
+        <music base="0.2" />
+        <remix id="M-VGMDB-AL-102276-1" />
+        <remix id="M-VGMDB-AL-87198-10" />
+        <remix id="M-VGMDB-AL-99272-1" />
+        <remix id="M-VGMDB-AL-99272-12" />
+    </entry>
+
+    <entry
+        id="M-20230626T223005"
+        title="kano and ayumu collab LETS GOOOOOOOO hq ver.wav"
+    >
+        <source>
+            <urls>
+                <url
+                    name="google-drive"
+                    src="https://drive.google.com/file/d/1IIMYaDdj9KHTFznPXHO5OWUvlxnf2FrG/view"
+                />
+            </urls>
+        </source>
+        <musicConsumedProgress length="4:29" />
+        <remix id="M-20230626T223045" />
+        <music base="0.6" />
     </entry>
 </document>

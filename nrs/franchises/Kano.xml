@@ -5,139 +5,99 @@
     <!-- her voice are soft and loli-like, but it can also -->
     <!-- convey a lot of emotions -->
     <!-- which is what a "kano impact" is -->
-    <!-- (it will be represented as an NEI/AEI) -->
+    <!-- (it was represented as an NEI/AEI) -->
+    <!-- (but "kano impact" is not unique for kano, like -->
+    <!-- other vocalists like... idk maybe only nayuta? -->
+    <!-- can do the same shit without being given EIs) -->
 
     <entry id="M-VGMDB-AR-11666" title="Kano">
         <contains factor="vocal+image">
-            <entry id="M-VGMDB-AL-95369" title="Bambino / Kano">
-                <visual type="albumArt" base="0.2" unique="0.5" />
+            <contains id="M-VGMDB-AL-95369-1" />
+            <contains id="M-VGMDB-AL-34411-6" />
+            <contains id="M-VGMDB-AL-34411-11" />
+            <contains id="M-VGMDB-AL-42961-6" />
+            <contains id="M-VGMDB-AL-42961-9" />
+            <contains id="M-VGMDB-AL-49423-1" />
+            <contains id="M-VGMDB-AL-49423-8" />
+            <contains id="M-VGMDB-AL-51254-1" />
+            <contains id="M-VGMDB-AL-54307-1" />
+            <contains id="M-VGMDB-AL-57564-1" />
+            <contains id="M-VGMDB-AL-57564-7" />
+            <contains id="M-VGMDB-AL-89290-6" />
+            <contains id="M-VGMDB-AL-37130-1" />
+            <contains id="M-VGMDB-AL-37130-2" />
+            <contains id="M-VGMDB-AL-37130-3" />
+            <contains id="M-VGMDB-AL-37130-4" />
+            <contains id="M-VGMDB-AL-37130-5" />
+            <contains id="M-VGMDB-AL-37130-6" />
 
-                <entry id="$-1" title="ハロ/ハワユ">
-                    <musicConsumedProgress length="4:48" />
-                    <music base="0.24" />
-                    <nei base="0.1" emotions="MP" />
-                    <remix id="M-VGMDB-AL-37130-1" />
-                </entry>
+            <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <music base="0.40" />
+                <osuSong personal="0.6" community="0.4" />
+                <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
+                <musicConsumedProgress length="3:33" />
             </entry>
 
-            <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano">
-                <visual type="albumArt" base="0.35" unique="0.4" />
-
-                <entry id="$-6" title="インタビュア">
-                    <musicConsumedProgress length="4:27" />
-                    <music base="0.44" />
-                    <nei base="0.15" emotions="CU" />
-                </entry>
-
-                <entry id="$-11" title="アイロニ">
-                    <musicConsumedProgress length="4:10" />
-                    <music base="0.19" />
-                    <nei base="0.15" emotions="CU" />
-                </entry>
+            <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <music base="0.51" />
+                <osuSong personal="0.7" community="0.0" />
+                <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
+                <musicConsumedProgress length="4:17" />
             </entry>
 
-            <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano">
-                <visual type="albumArt" base="0.25" unique="0.5" />
-
-                <!-- description = "Romantic name" (romance as in RFP, not chu chu <3) -->
-                <regularImpact>
-                    <score>
-                        <component value="0.1" factor="Art.Language" />
-                    </score>
-                </regularImpact>
-
-                <entry id="$-6" title="メリーメリー álbum ver.">
-                    <musicConsumedProgress length="4:35" />
-                    <music base="0.44" />
-                    <nei base="0.25" emotions="MP" />
-                </entry>
-
-                <entry id="$-9" title="World on Color">
-                    <musicConsumedProgress length="4:39" />
-                    <music base="0.53" />
-                    <nei base="0.2" emotions="MP" />
-                    <osuSong personal="0.1" community="0.0" />
-                </entry>
+            <entry
+                id="M-20221202T202421"
+                title="Natsu no Owari, Koi no Hajimari (Kano)"
+            >
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <music base="0.58" />
+                <osuSong personal="0.0" community="0.0" />
+                <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
+                <musicConsumedProgress length="4:08" />
             </entry>
 
-            <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano">
-                <visual type="albumArt" base="0.55" unique="0.45" />
+            <!-- after this (sukinano), almost all of kano's songs suck -->
+            <!-- (if kano sees this pls keep going on the -->
+            <!-- path you've chosen, don't mind me) -->
+            <!-- btw kano 2023 exists so she has even more reasons to -->
+            <!-- ditch neo-pop xddddddddd -->
 
-                <entry id="$-1" title="グッドナイトエヴリワン">
-                    <musicConsumedProgress length="5:49" />
-                    <music base="0.47" />
-                    <nei base="0.2" emotions="CU" />
-                    <!-- ADA -->
-                    <aei base="0.5" emotions="MU-0.2:CU-0.8" />
-                </entry>
+            <!-- oh except for this, i forgor -->
+            <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
+                <visual type="animatedMV" base="0.35" unique="0.7" />
+                <!-- 210 bpm spaced bursts -->
+                <osuSong personal="0.5" community="0.0" />
 
-                <entry id="$-8" title="decide">
-                    <musicConsumedProgress length="5:54" />
-                    <music base="0.24" />
-                    <nei base="0.25" emotions="CU" />
-                </entry>
+                <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
+                <music base="0.46" />
+                <musicConsumedProgress length="3:29" generatedBy="user" />
             </entry>
 
-            <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano">
-                <visual type="albumArt" base="0.5" unique="0.4" />
-                <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
-
-                <entry id="$-1" title="Stella-rium">
-                    <musicConsumedProgress length="4:08" />
-                    <music base="0.46" />
-                    <nei base="0.5" emotions="MP" />
-                </entry>
+            <entry id="M-20230626T223045" title="Ai Kotoba III (Kano ver.)">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=ui_D-twaXlc"
+                        />
+                    </urls>
+                </source>
+                <musicConsumedProgress length="4:26" />
+                <music base="0.4" />
             </entry>
+        </contains>
 
-            <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano">
-                <visual type="albumArt" base="0.2" unique="0.6" />
-                <visual type="animatedMV" base="0.6" unique="0.4" />
-
-                <entry id="$-1" title="ディアブレイブ">
-                    <musicConsumedProgress length="4:19" />
-                    <music base="0.46" />
-                    <nei base="0.1" emotions="CU" />
-                </entry>
-            </entry>
-
-            <entry id="M-VGMDB-AL-57564" title="nowhere / Kano">
-                <visual type="albumArt" base="0.4" unique="0.5" />
-
-                <entry id="$-1" title="Prima Stella">
-                    <musicConsumedProgress length="4:26" />
-                    <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
-                    <music base="0.46" />
-                    <nei base="0.1" emotions="CU" />
-                </entry>
-
-                <contains id="M-VGMDB-AL-51254-1" />
-                <contains id="M-VGMDB-AL-54307-1" />
-                <entry id="$-7" title="Walk This Way!">
-                    <musicConsumedProgress length="4:08" />
-                    <music base="0.36" />
-                    <osuSong personal="0.6" community="0.3" />
-                </entry>
-            </entry>
-
-            <entry id="M-VGMDB-AL-73516" title="one / Kano">
-                <visual type="albumArt" base="0.4" unique="0.5" />
-
-                <contains id="M-VGMDB-AL-34411-11" />
-            </entry>
-
-            <entry id="M-VGMDB-AL-89290" title="three / Kano">
-                <visual type="albumArt" base="0.4" unique="0.5" />
-
-                <entry id="$-6" title="地球最後の告白を">
-                    <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
-                    <musicConsumedProgress length="4:33" generatedBy="user" />
-                    <music base="0.34" />
-                    <nei base="0.1" emotions="CU" />
-
-                    <remix id="M-MAL-36631-6" />
-                </entry>
-            </entry>
-
+        <!-- colorful wonder note is an irojiro album -->
+        <!-- so basically kano has zero image (like kano 2023 in vivid lila albums) -->
+        <contains factor="vocal">
             <entry
                 id="M-20220130T032649"
                 title="Kimiiro Hanabi -album version-"
@@ -155,156 +115,13 @@
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
-                <!-- https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
+                <!--
+                https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
                 <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
             </entry>
-
-            <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
-                <!-- the best album of all time -->
-                <!-- literally the perfect combination of vocal and instrumental -->
-
-                <!-- the album art is kano sitting with some animals -->
-                <!-- which is MP-based, and it's a pretty good contrast to -->
-                <!-- some songs from the album (like it's not world's end -->
-                <!-- or sakura no zenya), which are CU-based. -->
-                <visual type="albumArt" base="0.4" unique="0.7" />
-                <nei base="0.2" emotions="MP-0.6:CU-0.4" />
-                <!-- crossfade thing: https://www.nicovideo.jp/watch/sm19702966 -->
-                <visual type="animatedMV" base="0.3" unique="0.65" />
-
-                <!-- Impact { -->
-                <!--     description = "Album art" -->
-                <!--     meta("type", "NONSTD_album_art") -->
-                <!--     score = vector { -->
-                <!--         set(Art.Visual, 0.1) -->
-                <!--         set(Emotion.MP, 0.2) -->
-                <!--         set(Emotion.CU, 0.1) -->
-                <!--     } -->
-                <!-- } -->
-
-                <entry id="$-1" title="ハロ/ハワユ">
-                    <musicConsumedProgress length="4:50" />
-                    <!-- the original MV is for the mix version -->
-                    <!-- https://www.nicovideo.jp/watch/sm19687208 -->
-                    <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
-                    <music base="0.29" />
-                    <nei base="0.125" emotions="MP" />
-                </entry>
-
-                <entry id="$-2" title="うたうたいのうた">
-                    <musicConsumedProgress length="4:39" />
-                    <music base="0.69" />
-                    <nei base="0.15" emotions="MP" />
-                </entry>
-
-                <!-- the best kano song ever. period. -->
-                <!-- also the fourth ayumu-era theme song -->
-                <entry id="$-3" title="[It's not] World's end">
-                    <musicConsumedProgress length="5:36" />
-                    <music base="0.43" />
-                    <nei base="0.5" emotions="CU" />
-                    <ref
-                        name="KoikakeNEI"
-                        a_base="0.4"
-                        a_contribution="0.7"
-                        a_emotions="CU-0.8:MP-0.2"
-                    />
-                </entry>
-
-                <entry id="$-4" title="「ねぇ。」">
-                    <musicConsumedProgress length="6:23" />
-                    <music base="0.24" />
-                    <nei base="0.25" emotions="CU" />
-                </entry>
-
-                <entry id="$-5" title="朝焼け、君の唄。">
-                    <musicConsumedProgress length="5:08" />
-                    <music base="0.24" />
-                    <nei base="0.2" emotions="MP" />
-                </entry>
-
-                <entry id="$-6" title="サクラノ前夜">
-                    <musicConsumedProgress length="6:00" />
-                    <visual type="animatedMV" base="0.35" unique="0.6" />
-                    <music base="0.63" />
-                    <nei base="0.25" emotions="CU" />
-                    <ref
-                        name="KoikakeNEI"
-                        a_base="0.5"
-                        a_contribution="0.8"
-                        a_emotions="CU-0.5:MP-0.4:CP-0.1"
-                    />
-                </entry>
-            </entry>
-            <!-- after this, almost all of kano's songs suck -->
-            <!-- (if kano sees this pls keep going on the -->
-            <!-- path you've chosen, don't mind me) -->
-
-            <!-- oh except for this, i forgor -->
-            <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
-                <visual type="animatedMV" base="0.35" unique="0.7" />
-                <!-- 210 bpm spaced bursts -->
-                <osuSong personal="0.5" community="0.0" />
-
-                <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
-                <music base="0.46" />
-                <musicConsumedProgress length="3:29" generatedBy="user" />
-            </entry>
         </contains>
 
-        <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.40" />
-            <osuSong personal="0.6" community="0.4" />
-            <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
-            <musicConsumedProgress length="3:33" />
-        </entry>
-
-        <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.51" />
-            <osuSong personal="0.7" community="0.0" />
-            <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
-            <musicConsumedProgress length="4:17" />
-        </entry>
-
-        <entry
-            id="M-20221202T202421"
-            title="Natsu no Owari, Koi no Hajimari (Kano)"
-        >
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <music base="0.58" />
-            <osuSong personal="0.0" community="0.0" />
-            <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
-            <musicConsumedProgress length="4:08" />
-        </entry>
-
-        <contains factor="1/4">
-            <!-- not precisely just music artists, so they would use the `O` prefix -->
-            <entry id="O-20230524T223250" title="Hanayori Girls' Dormitory">
-                <!-- idk but i had watched (more like listened lmfao) 10hr of this thing -->
-                <consumed boredom="0.9" length="10:00:00" />
-
-                <entry
-                    id="M-20230524T223735"
-                    title="Koko kara, koko kara (Hanayori Girls' Dormitory cover)"
-                >
-                    <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
-                    <musicConsumedProgress length="4:35" />
-                    <music base="0.54" />
-
-                    <!-- english socialism -->
-                    <nei base="0.5" emotions="CU-0.75:CP-0.25" />
-
-                    <!-- this was the first song i mapped on osugame btw -->
-                    <!-- pretty iconic if you ask me -->
-                    <osuSong personal="0.8" />
-
-                    <!-- pretty cool MV too -->
-                    <visual type="animatedMV" base="0.4" unique="0.75" />
-                </entry>
-            </entry>
-        </contains>
+        <contains id="O-20230524T223250" factor="1/4" />
 
         <!-- 15 extra days for hanayori ig -->
         <meme strength="0.85" from="2020-11-01" to="2021-02-15">
@@ -314,5 +131,225 @@
 
         <!-- the collapse of isoc sadge -->
         <meme strength="0.75" from="2021-02-16" to="2021-04-01" />
+
+        <!-- there should be a tiny 0.1 factor for the sns manager and stuff idk -->
+        <contains id="M-20230524T223250" factor="1/4" />
+    </entry>
+
+    <!-- not precisely just music artists, so they would use the `O` prefix -->
+    <entry id="O-20230524T223250" title="Hanayori Girls' Dormitory">
+        <!-- idk but i had watched (more like listened lmfao) 10hr of this thing -->
+        <consumed boredom="0.9" length="10:00:00" />
+
+        <entry
+            id="M-20230524T223735"
+            title="Koko kara, koko kara (Hanayori Girls' Dormitory cover)"
+        >
+            <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
+            <musicConsumedProgress length="4:35" />
+            <music base="0.54" />
+
+            <!-- english socialism -->
+            <nei base="0.5" emotions="CU-0.75:CP-0.25" />
+
+            <!-- this was the first song i mapped on osugame btw -->
+            <!-- pretty iconic if you ask me -->
+            <osuSong personal="0.8" />
+
+            <!-- pretty cool MV too -->
+            <visual type="animatedMV" base="0.4" unique="0.75" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-95369" title="Bambino / Kano">
+        <visual type="albumArt" base="0.2" unique="0.5" />
+
+        <entry id="$-1" title="ハロ/ハワユ">
+            <musicConsumedProgress length="4:48" />
+            <music base="0.24" />
+            <remix id="M-VGMDB-AL-37130-1" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-34411" title="Aimai Bambina / Kano">
+        <visual type="albumArt" base="0.35" unique="0.4" />
+
+        <entry id="$-6" title="インタビュア">
+            <musicConsumedProgress length="4:27" />
+            <music base="0.44" />
+        </entry>
+
+        <entry id="$-11" title="アイロニ">
+            <musicConsumedProgress length="4:10" />
+            <music base="0.19" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-42961" title="Aru Machi no Hakuchuumu / Kano">
+        <visual type="albumArt" base="0.25" unique="0.5" />
+
+        <!-- description = "Romantic name" (romance as in RFP, not chu chu <3) -->
+        <!-- kano 2023 have a gazillion albums with romantic af names -->
+        <!-- like "Your voice in the sky", "A song that spells out memories for you." -->
+        <!-- Azure Reunion lyrics, etc. etc. ("sến mẹ sến con") -->
+        <!-- <regularImpact>
+            <score>
+                <component value="0.1" factor="Art.Language" />
+            </score>
+        </regularImpact> -->
+
+        <entry id="$-6" title="メリーメリー álbum ver.">
+            <musicConsumedProgress length="4:35" />
+            <music base="0.44" />
+            <!-- song with solid emotional impacts are buffed -->
+            <!-- so it's fair as fuck please stfu -->
+            <nei base="0.8" emotions="MP-0.7:CP-0.3" />
+        </entry>
+
+        <entry id="$-9" title="World on Color">
+            <musicConsumedProgress length="4:39" />
+            <music base="0.53" />
+            <!-- ADA bullshitery idk -->
+            <nei base="0.5" emotions="MP" />
+            <osuSong personal="0.1" community="0.0" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-49423" title="Good Hello / Kano">
+        <visual type="albumArt" base="0.55" unique="0.45" />
+
+        <entry id="$-1" title="グッドナイトエヴリワン">
+            <musicConsumedProgress length="5:49" />
+            <music base="0.47" />
+            <!-- ADA -->
+            <aei base="0.5" emotions="MU-0.2:CU-0.8" />
+        </entry>
+
+        <entry id="$-8" title="decide">
+            <musicConsumedProgress length="5:54" />
+            <music base="0.24" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-51254" title="Stella-rium / Kano">
+        <visual type="albumArt" base="0.5" unique="0.4" />
+        <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+
+        <entry id="$-1" title="Stella-rium">
+            <musicConsumedProgress length="4:08" />
+            <music base="0.46" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-54307" title="Dear Brave / Kano">
+        <visual type="albumArt" base="0.2" unique="0.6" />
+        <visual type="animatedMV" base="0.6" unique="0.4" />
+
+        <entry id="$-1" title="ディアブレイブ">
+            <musicConsumedProgress length="4:19" />
+            <music base="0.46" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-57564" title="nowhere / Kano">
+        <visual type="albumArt" base="0.4" unique="0.5" />
+
+        <entry id="$-1" title="Prima Stella">
+            <musicConsumedProgress length="4:26" />
+            <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+            <music base="0.46" />
+            <!-- stfu -->
+            <nei base="0.3" emotions="CU" />
+        </entry>
+
+        <contains id="M-VGMDB-AL-51254-1" />
+        <contains id="M-VGMDB-AL-54307-1" />
+        <entry id="$-7" title="Walk This Way!">
+            <musicConsumedProgress length="4:08" />
+            <music base="0.36" />
+            <osuSong personal="0.6" community="0.3" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-73516" title="one / Kano">
+        <visual type="albumArt" base="0.4" unique="0.5" />
+
+        <contains id="M-VGMDB-AL-34411-11" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-89290" title="three / Kano">
+        <visual type="albumArt" base="0.4" unique="0.5" />
+
+        <entry id="$-6" title="地球最後の告白を">
+            <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
+            <musicConsumedProgress length="4:33" generatedBy="user" />
+            <music base="0.34" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
+        <!-- the best album of all time -->
+        <!-- (after that pesky thoughtcrime unfunny sanada masterpiece) -->
+        <!-- literally the perfect combination of vocal and instrumental -->
+
+        <!-- the album art is kano sitting with some animals -->
+        <!-- which is MP-based, and it's a pretty good contrast to -->
+        <!-- some songs from the album (like it's not world's end -->
+        <!-- or sakura no zenya), which are CU-based. -->
+        <visual type="albumArt" base="0.4" unique="0.7" />
+        <nei base="0.2" emotions="MP-0.6:CU-0.4" />
+        <!-- crossfade thing: https://www.nicovideo.jp/watch/sm19702966 -->
+        <visual type="animatedMV" base="0.3" unique="0.65" />
+
+        <entry id="$-1" title="ハロ/ハワユ">
+            <musicConsumedProgress length="4:50" />
+            <!-- the original MV is for the mix version -->
+            <!-- https://www.nicovideo.jp/watch/sm19687208 -->
+            <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
+            <music base="0.29" />
+        </entry>
+
+        <entry id="$-2" title="うたうたいのうた">
+            <musicConsumedProgress length="4:39" />
+            <music base="0.69" />
+            <nei base="0.6" emotions="MP" />
+        </entry>
+
+        <!-- the best kano song ever. period. -->
+        <!-- also the fourth ayumu-era theme song -->
+        <entry id="$-3" title="[It's not] World's end">
+            <musicConsumedProgress length="5:36" />
+            <music base="0.43" />
+            <aei base="0.2" emotions="CU" />
+            <ref
+                name="KoikakeNEI"
+                a_base="0.4"
+                a_contribution="0.7"
+                a_emotions="CU-0.8:MP-0.2"
+            />
+        </entry>
+
+        <entry id="$-4" title="「ねぇ。」">
+            <musicConsumedProgress length="6:23" />
+            <music base="0.24" />
+        </entry>
+
+        <entry id="$-5" title="朝焼け、君の唄。">
+            <musicConsumedProgress length="5:08" />
+            <music base="0.24" />
+        </entry>
+
+        <entry id="$-6" title="サクラノ前夜">
+            <musicConsumedProgress length="6:00" />
+            <visual type="animatedMV" base="0.35" unique="0.6" />
+            <music base="0.63" />
+            <nei base="0.25" emotions="CU" />
+            <ref
+                name="KoikakeNEI"
+                a_base="0.5"
+                a_contribution="0.8"
+                a_emotions="CU-0.5:MP-0.4:CP-0.1"
+            />
+        </entry>
     </entry>
 </document>

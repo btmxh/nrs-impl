@@ -92,6 +92,7 @@
     <include src="franchises/ToniKawa.xml" />
     <include src="franchises/UchiageHanabi.xml" />
     <include src="franchises/Vocaloid.xml" />
+    <include src="franchises/VTuber.xml" />
     <include src="franchises/WagamamaHighSpec.xml" />
     <include src="franchises/WakeUpGirls.xml" />
     <include src="seasonal/Winter2023.xml" />

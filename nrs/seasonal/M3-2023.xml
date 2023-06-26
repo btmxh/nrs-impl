@@ -6,6 +6,17 @@
     <!-- holy fuck i ran out of ideas -->
 
     <entry id="M-VGMDB-AR-6799" title="nayuta">
+        <!-- 2023-04-24 is when nanahira released her M3 album xfd -->
+        <!-- so we may as well consider that point in time to be the start of -->
+        <!-- this shithelldamn stuff -->
+        <meme from="2023-04-24" to="2023-06-17" strength="0.75" />
+
+        <!-- from the incident onwards, the world has changed forever -->
+        <meme from="2023-06-18" to="today" strength="1.0">
+            <contributor id="M-VGMDB-AR-6799" factor="0.75" />
+            <contributor id="M-VGMDB-AR-35619" factor="0.25" />
+        </meme>
+
         <contains id="M-VGMDB-AL-108194-4" factor="vocal+image/2" />
         <contains factor="vocal+image">
             <contains id="M-VGMDB-AL-123922-1" />
@@ -34,6 +45,36 @@
                 </source>
                 <music base="0.7" />
                 <musicConsumedProgress length="5:47" />
+            </entry>
+
+            <entry id="M-20230626T231018" title="Ai Kotoba II (nayuta ver.)">
+                <source>
+                    <urls>
+                        <url
+                            name="niconico"
+                            src="https://www.nicovideo.jp/watch/sm23151549"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=OphpSs9NP2A"
+                        />
+                    </urls>
+                </source>
+                <musicConsumedProgress length="4:27" />
+                <music base="0.45" />
+            </entry>
+
+            <entry id="M-20230626T231039" title="Ai Kotoba III (nayuta ver.)">
+                <source>
+                    <urls>
+                        <url
+                            name="niconico"
+                            src="https://www.nicovideo.jp/watch/sm34632239"
+                        />
+                    </urls>
+                </source>
+                <musicConsumedProgress length="4:07" />
+                <music base="0.4" />
             </entry>
         </contains>
 
@@ -666,7 +707,7 @@
                 />
                 <url
                     name="youtube"
-                    src="https://music.youtube.com/playlist?list=OLAK5uy_ki3QPez5dPtLMdeXLWP5z_6XMfthHsxRo"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_ki3QPez5dPtLMdeXLWP5z_6XMfthHsxRo"
                 />
             </urls>
         </source>
@@ -1747,7 +1788,6 @@
             <music base="0.6" />
             <musicConsumedProgress length="3:06" />
         </entry>
-        <!-- nayuta -->
         <entry id="$-2" title="Amaoto wo kikasete">
             <source>
                 <urls>

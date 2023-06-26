@@ -1006,7 +1006,10 @@
         <musicConsumedProgress length="3:37" />
         <remix id="M-20221202T210523" />
     </entry>
-    <entry id="M-20221127T140107" title="Ai Kotoba III">
+    <entry
+        id="M-20221127T140107"
+        title="Ai Kotoba III (sana × 000 × mary ver.)"
+    >
         <music base="0.39" />
         <osuSong personal="0.05" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1149018 -->
