@@ -5,7 +5,10 @@
     <!-- her voice are soft and loli-like, but it can also -->
     <!-- convey a lot of emotions -->
     <!-- which is what a "kano impact" is -->
-    <!-- (it will be represented as an NEI/AEI) -->
+    <!-- (it was represented as an NEI/AEI) -->
+    <!-- (but "kano impact" is not unique for kano, like -->
+    <!-- other vocalists like... idk maybe only nayuta? -->
+    <!-- can do the same shit without being given EIs) -->
 
     <entry id="M-VGMDB-AR-11666" title="Kano">
         <contains factor="vocal+image">
@@ -15,7 +18,6 @@
                 <entry id="$-1" title="ハロ/ハワユ">
                     <musicConsumedProgress length="4:48" />
                     <music base="0.24" />
-                    <nei base="0.1" emotions="MP" />
                     <remix id="M-VGMDB-AL-37130-1" />
                 </entry>
             </entry>
@@ -26,13 +28,11 @@
                 <entry id="$-6" title="インタビュア">
                     <musicConsumedProgress length="4:27" />
                     <music base="0.44" />
-                    <nei base="0.15" emotions="CU" />
                 </entry>
 
                 <entry id="$-11" title="アイロニ">
                     <musicConsumedProgress length="4:10" />
                     <music base="0.19" />
-                    <nei base="0.15" emotions="CU" />
                 </entry>
             </entry>
 
@@ -40,22 +40,28 @@
                 <visual type="albumArt" base="0.25" unique="0.5" />
 
                 <!-- description = "Romantic name" (romance as in RFP, not chu chu <3) -->
-                <regularImpact>
+                <!-- kano 2023 have a gazillion albums with romantic af names -->
+                <!-- like "Your voice in the sky", "A song that spells out memories for you." -->
+                <!-- Azure Reunion lyrics, etc. etc. ("sến mẹ sến con") -->
+                <!-- <regularImpact>
                     <score>
                         <component value="0.1" factor="Art.Language" />
                     </score>
-                </regularImpact>
+                </regularImpact> -->
 
                 <entry id="$-6" title="メリーメリー álbum ver.">
                     <musicConsumedProgress length="4:35" />
                     <music base="0.44" />
-                    <nei base="0.25" emotions="MP" />
+                    <!-- song with solid emotional impacts are buffed -->
+                    <!-- so it's fair as fuck please stfu -->
+                    <nei base="0.8" emotions="MP-0.7:CP-0.3" />
                 </entry>
 
                 <entry id="$-9" title="World on Color">
                     <musicConsumedProgress length="4:39" />
                     <music base="0.53" />
-                    <nei base="0.2" emotions="MP" />
+                    <!-- ADA bullshitery idk -->
+                    <nei base="0.5" emotions="MP" />
                     <osuSong personal="0.1" community="0.0" />
                 </entry>
             </entry>
@@ -66,7 +72,6 @@
                 <entry id="$-1" title="グッドナイトエヴリワン">
                     <musicConsumedProgress length="5:49" />
                     <music base="0.47" />
-                    <nei base="0.2" emotions="CU" />
                     <!-- ADA -->
                     <aei base="0.5" emotions="MU-0.2:CU-0.8" />
                 </entry>
@@ -74,7 +79,6 @@
                 <entry id="$-8" title="decide">
                     <musicConsumedProgress length="5:54" />
                     <music base="0.24" />
-                    <nei base="0.25" emotions="CU" />
                 </entry>
             </entry>
 
@@ -85,7 +89,6 @@
                 <entry id="$-1" title="Stella-rium">
                     <musicConsumedProgress length="4:08" />
                     <music base="0.46" />
-                    <nei base="0.5" emotions="MP" />
                 </entry>
             </entry>
 
@@ -96,7 +99,6 @@
                 <entry id="$-1" title="ディアブレイブ">
                     <musicConsumedProgress length="4:19" />
                     <music base="0.46" />
-                    <nei base="0.1" emotions="CU" />
                 </entry>
             </entry>
 
@@ -107,7 +109,8 @@
                     <musicConsumedProgress length="4:26" />
                     <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
                     <music base="0.46" />
-                    <nei base="0.1" emotions="CU" />
+                    <!-- stfu -->
+                    <nei base="0.3" emotions="CU" />
                 </entry>
 
                 <contains id="M-VGMDB-AL-51254-1" />
@@ -132,7 +135,6 @@
                     <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
                     <musicConsumedProgress length="4:33" generatedBy="user" />
                     <music base="0.34" />
-                    <nei base="0.1" emotions="CU" />
 
                     <remix id="M-MAL-36631-6" />
                 </entry>
@@ -148,7 +150,7 @@
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
                 <music base="0.60" />
                 <musicConsumedProgress length="4:19" generatedBy="user" />
-                <nei base="0.5" emotions="CP" />
+                <nei base="0.8" emotions="MP-0.3:CP-0.7" />
 
                 <!-- I HATE HIMENO SENA -->
                 <!-- I HATE HIMENO SENA -->
@@ -162,6 +164,7 @@
 
             <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
                 <!-- the best album of all time -->
+                <!-- (after that pesky thoughtcrime unfunny sanada masterpiece) -->
                 <!-- literally the perfect combination of vocal and instrumental -->
 
                 <!-- the album art is kano sitting with some animals -->
@@ -173,29 +176,18 @@
                 <!-- crossfade thing: https://www.nicovideo.jp/watch/sm19702966 -->
                 <visual type="animatedMV" base="0.3" unique="0.65" />
 
-                <!-- Impact { -->
-                <!--     description = "Album art" -->
-                <!--     meta("type", "NONSTD_album_art") -->
-                <!--     score = vector { -->
-                <!--         set(Art.Visual, 0.1) -->
-                <!--         set(Emotion.MP, 0.2) -->
-                <!--         set(Emotion.CU, 0.1) -->
-                <!--     } -->
-                <!-- } -->
-
                 <entry id="$-1" title="ハロ/ハワユ">
                     <musicConsumedProgress length="4:50" />
                     <!-- the original MV is for the mix version -->
                     <!-- https://www.nicovideo.jp/watch/sm19687208 -->
                     <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
                     <music base="0.29" />
-                    <nei base="0.125" emotions="MP" />
                 </entry>
 
                 <entry id="$-2" title="うたうたいのうた">
                     <musicConsumedProgress length="4:39" />
                     <music base="0.69" />
-                    <nei base="0.15" emotions="MP" />
+                    <nei base="0.6" emotions="MP" />
                 </entry>
 
                 <!-- the best kano song ever. period. -->
@@ -203,7 +195,7 @@
                 <entry id="$-3" title="[It's not] World's end">
                     <musicConsumedProgress length="5:36" />
                     <music base="0.43" />
-                    <nei base="0.5" emotions="CU" />
+                    <aei base="0.2" emotions="CU" />
                     <ref
                         name="KoikakeNEI"
                         a_base="0.4"
@@ -215,13 +207,11 @@
                 <entry id="$-4" title="「ねぇ。」">
                     <musicConsumedProgress length="6:23" />
                     <music base="0.24" />
-                    <nei base="0.25" emotions="CU" />
                 </entry>
 
                 <entry id="$-5" title="朝焼け、君の唄。">
                     <musicConsumedProgress length="5:08" />
                     <music base="0.24" />
-                    <nei base="0.2" emotions="MP" />
                 </entry>
 
                 <entry id="$-6" title="サクラノ前夜">
@@ -280,7 +270,7 @@
             <musicConsumedProgress length="4:08" />
         </entry>
 
-        <!-- there is a tiny 0.1 factor for the sns manager and stuff idk -->
+        <!-- there should be a tiny 0.1 factor for the sns manager and stuff idk -->
         <contains id="M-20230524T223250" factor="1/4" />
 
         <!-- the collapse of isoc sadge -->
