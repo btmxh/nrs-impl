@@ -274,25 +274,6 @@
         </entry>
     </entry>
 
-    <entry id="M-20220130T032649" title="Kimiiro Hanabi -album version-">
-        <!-- from the album "Colorful Wonder Note", track number 8 -->
-        <!-- and yes this is from osugame too -->
-
-        <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
-        <music base="0.60" />
-        <musicConsumedProgress length="4:19" generatedBy="user" />
-        <nei base="0.8" emotions="MP-0.3:CP-0.7" />
-
-        <!-- I HATE HIMENO SENA -->
-        <!-- I HATE HIMENO SENA -->
-        <!-- I HATE HIMENO SENA -->
-        <!-- I HATE HIMENO SENA -->
-        <!-- I HATE HIMENO SENA -->
-        <!--
-                https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
-        <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
-    </entry>
-
     <entry id="M-VGMDB-AL-37130" title="Suki na no. / Kano">
         <!-- the best album of all time -->
         <!-- (after that pesky thoughtcrime unfunny sanada masterpiece) -->
