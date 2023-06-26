@@ -80,6 +80,19 @@
                 <music base="0.46" />
                 <musicConsumedProgress length="3:29" generatedBy="user" />
             </entry>
+
+            <entry id="M-20230626T223045" title="Ai Kotoba III (Kano ver.)">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=ui_D-twaXlc"
+                        />
+                    </urls>
+                </source>
+                <musicConsumedProgress length="4:26" />
+                <music base="0.4" />
+            </entry>
         </contains>
 
         <!-- colorful wonder note is an irojiro album -->
