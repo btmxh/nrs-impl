@@ -46,6 +46,34 @@
                 <music base="0.7" />
                 <musicConsumedProgress length="5:47" />
             </entry>
+
+            <entry id="M-20230626T231018" title="Ai Kotoba II (nayuta ver.)">
+                <source>
+                    <urls>
+                        <url
+                            name="niconico"
+                            src="https://www.nicovideo.jp/watch/sm23151549"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=OphpSs9NP2A"
+                        />
+                    </urls>
+                </source>
+                <music base="0.45" />
+            </entry>
+
+            <entry id="M-20230626T231039" title="Ai Kotoba III (nayuta ver.)">
+                <source>
+                    <urls>
+                        <url
+                            name="niconico"
+                            src="https://www.nicovideo.jp/watch/sm34632239"
+                        />
+                    </urls>
+                </source>
+                <music base="0.4" />
+            </entry>
         </contains>
 
         <contains factor="vocal+image*feat">

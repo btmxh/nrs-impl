@@ -196,24 +196,24 @@
         <remix id="M-20230626T230908" />
         <remix id="M-20230626T230909" />
         <remix id="M-20230626T230910" />
-        <music base="0.45" />
+        <music base="0.25" />
     </entry>
 
     <entry id="M-20230626T230908" title="Ai Kotoba II">
         <remix id="M-20230626T230909" />
         <remix id="M-20230626T230910" />
         <remix id="M-20230626T231018" />
-        <music base="0.6" />
+        <music base="0.4" />
     </entry>
 
     <entry id="M-20230626T230909" title="Ai Kotoba III">
         <remix id="M-20230626T230910" />
         <remix id="M-20230626T223045" />
         <remix id="M-20230626T231039" />
-        <music base="0.55" />
+        <music base="0.35" />
     </entry>
 
     <entry id="M-20230626T230910" title="Ai Kotoba IV">
-        <music base="0.5" />
+        <music base="0.3" />
     </entry>
 </document>
