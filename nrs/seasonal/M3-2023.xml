@@ -9,7 +9,13 @@
         <!-- 2023-04-24 is when nanahira released her M3 album xfd -->
         <!-- so we may as well consider that point in time to be the start of -->
         <!-- this shithelldamn stuff -->
-        <meme from="2023-04-24" to="today" strength="0.8" />
+        <meme from="2023-04-24" to="2023-06-17" strength="0.75" />
+
+        <!-- from the incident onwards, the world has changed forever -->
+        <meme from="2023-06-18" to="today" strength="1.0">
+            <contributor id="M-VGMDB-AR-6799" factor="0.75" />
+            <contributor id="M-VGMDB-AR-35619" factor="0.25" />
+        </meme>
 
         <contains id="M-VGMDB-AL-108194-4" factor="vocal+image/2" />
         <contains factor="vocal+image">
