@@ -79,6 +79,8 @@
                 </urls>
             </source>
 
+            <visual type="animatedMV" base="0.4" unique="0.4" />
+
             <entry id="$-1" title="Fake.Fake.Fake">
                 <source>
                     <urls>
