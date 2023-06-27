@@ -7,6 +7,7 @@ const val NijiNewGirlsContainFactor = 1.0 / (9 * NijiNewOldRate + 3)
 const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate -->
 <!-- NijiNewGirlsContainFactor=1.0/16.5 -->
 <!-- NijiOldGirlContainFactor=1.5/16.5 -->
+<!-- wtf who wrote this how did they predict this -->
 <!-- love live top 1 in 2023 no fucking way!!1!!11! -->
 <document>
     <entry id="F-VGMDB-2588" title="Love Live!">
@@ -19,6 +20,8 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 <meme strength="0.1" length="6" />
                 <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
                 <!-- [Reform's Expert] +HDDT FC 417pp -->
+                <remix id="M-20220317T064137-1" />
+                <remix id="M-20230627T210215" />
             </entry>
         </entry>
 
@@ -699,11 +702,10 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         </entry>
     </entry>
 
-    <entry id="M-20220317T064137-1" title="Snow Halation (feat. BeasttrollMC)">
+    <entry id="" title="Snow Halation (feat. BeasttrollMC)">
         <meme strength="0.03" length="6" />
         <!-- osu! | Will Stetson - Snow Halation (feat. BeasttrollMC) -->
         <!-- [Reform's Expert] +HDDT FC 417pp -->
-        <remix id="M-VGMDB-AL-34051-1" />
 
         <!-- hmm should i pick the dt length or the normal length :tf: -->
         <!-- Length source: https://www.youtube.com/watch?v=m6bYJ17psmg -->

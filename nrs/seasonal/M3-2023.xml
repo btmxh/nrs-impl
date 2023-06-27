@@ -76,6 +76,25 @@
                 <musicConsumedProgress length="4:07" />
                 <music base="0.4" />
             </entry>
+
+            <entry
+                id="M-20230627T210215"
+                title="Snow halation (nayuta Band Live ver.)"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/live/w6CqugOeVSw?feature=share&amp;t=4800"
+                        />
+                    </urls>
+                </source>
+
+                <!-- AINT NO WAY BRO -->
+                <!-- she even sang love live songs -->
+                <music base="0.36" />
+                <musicConsumedProgress length="4:47" />
+            </entry>
         </contains>
 
         <contains factor="vocal+image*feat">
