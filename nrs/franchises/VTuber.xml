@@ -129,10 +129,10 @@
 
     <!-- i legit cried on that night when i discovered this fact -->
     <!-- like it's been half a day and i still can't believe my eyes -->
-    <cry emotions="AP">
+    <epi base="1.0">
         <contributor id="M-VGMDB-AR-6799" factor="0.5" />
         <contributor id="M-VGMDB-AR-35619" factor="0.5" />
-    </cry>
+    </epi>
 
     <meme from="2023-05-15" to="today" strength="0.4">
         <contributor id="M-20230524T223250" factor="1.0" />
