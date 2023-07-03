@@ -70,4 +70,11 @@
 
         <nei base="0.5" emotions="AP" />
     </entry>
+
+    <!-- localism -->
+    <politics>
+        <contributor id="L-MAL-110953" factor="0.2" />
+        <contributor id="O-20230428T112623" factor="0.2" />
+        <contributor id="other stuff [null entry]" factor="0.6" />
+    </politics>
 </document>
