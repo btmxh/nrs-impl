@@ -581,7 +581,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
             <!-- the dead people thing surprised me so bad -->
             <!-- it's kind of like the hanayori incident 2023 -->
-            <aei base="1.0" emotions="AP" />
+            <epi base="0.5" />
 
             <killedBy id="M-VGMDB-AR-11666" potential="0.3" effect="0.5" />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
