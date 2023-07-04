@@ -270,6 +270,7 @@
             </source>
             <music base="0.6" />
             <musicConsumedProgress length="4:18" />
+            <visual type="semiAnimatedMV" base="0.4" unique="0.3" />
         </entry>
         <entry id="$-5" title="Blue Knots">
             <source>
@@ -288,6 +289,7 @@
             </source>
             <music base="0.45" />
             <musicConsumedProgress length="4:10" />
+            <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
         </entry>
     </entry>
 
@@ -650,6 +652,7 @@
             </source>
             <music base="0.6" />
             <musicConsumedProgress length="2:18" />
+            <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
         </entry>
     </entry>
 
@@ -765,6 +768,7 @@
             </source>
             <music base="0.3" />
             <musicConsumedProgress length="4:24" />
+            <visual type="semiAnimatedMV" base="0.25" unique="0.4" />
         </entry>
     </entry>
 
@@ -781,9 +785,6 @@
         <contains id="M-VGMDB-AL-129048-1" factor="inst" />
         <contains id="M-VGMDB-AL-124011-1" factor="inst*2/3" />
     </entry>
-
-    <!-- he is basically vivid lila too -->
-    <entry id="M-VGMDB-AR-53149" title="Minato Suzuya" />
 
     <!-- lmfao kano 2023 is truly a 2018 artist -->
     <!-- like what the actual fuck -->
@@ -1344,7 +1345,7 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T085424" title="Vivid Lila">
+    <entry id="M-VGMDB-AR-53149" title="Minato Suzuya">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1373,22 +1374,30 @@
             <contains id="M-20230608T140604-2" />
 
             <contains id="M-20230608T140605-1" />
-            <contains id="M-20230608T140605-2" />
             <contains id="M-20230608T140605-4" />
 
             <contains id="M-20230608T140606-1" />
+
+            <contains id="M-20230608T140607-1" />
+            <contains id="M-20230608T140607-2" />
+            <contains id="M-20230608T140607-4" />
+
+            <contains id="M-20230608T140608-1" />
+            <contains id="M-20230608T140608-3" />
+        </contains>
+
+        <!-- he did not write the lyrics for these -->
+        <!-- (according to youtube autogen descriptions so idk) -->
+        <contains factor="inst*2/3+image*main">
+            <contains id="M-20230608T140605-2" />
+
             <contains id="M-20230608T140606-2" />
             <contains id="M-20230608T140606-3" />
             <contains id="M-20230608T140606-4" />
 
-            <contains id="M-20230608T140607-1" />
-            <contains id="M-20230608T140607-2" />
             <contains id="M-20230608T140607-3" />
-            <contains id="M-20230608T140607-4" />
 
-            <contains id="M-20230608T140608-1" />
             <contains id="M-20230608T140608-2" />
-            <contains id="M-20230608T140608-3" />
             <contains id="M-20230608T140608-4" />
         </contains>
     </entry>
