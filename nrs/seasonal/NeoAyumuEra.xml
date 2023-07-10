@@ -132,6 +132,52 @@
         <contains id="M-VGMDB-AR-57255" factor="1/3" />
     </entry>
 
+    <entry id="M-VGMDB-AL-74446" title="Omoide wo Tsuzuru Uta to Kimi to.">
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/5Vzv0t3y"
+                    generatedBy="music.ts 822494e-64abcf95"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/0DkpuSY0xCUvf7O9pafzdi"
+                    generatedBy="music.ts 822494e-64abcf95"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/74446"
+                    generatedBy="music.ts 822494e-64abcf95"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kNUO9lEGI2AyZCgfqwJm2jUJ5tk0dhnBI"
+                    generatedBy="music.ts 822494e-64abcf95"
+                />
+            </urls>
+        </source>
+
+        <entry id="$-2" title="Bokura no Katachi">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3XWRMIFBdjcb6DFzxEz6Ib"
+                        generatedBy="music.ts 822494e-64abcfd0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=ETdSQkBDjbQ"
+                        generatedBy="music.ts 822494e-64abcfd0"
+                    />
+                </urls>
+            </source>
+            <music base="0.2" />
+            <musicConsumedProgress length="5:46" />
+        </entry>
+    </entry>
+
     <entry id="M-VGMDB-AL-74440" title="Sora ni Kakaru Kimi no Koe.">
         <source>
             <urls>
