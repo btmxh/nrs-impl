@@ -95,6 +95,29 @@
                 <music base="0.36" />
                 <musicConsumedProgress length="4:47" />
             </entry>
+
+            <entry
+                id="M-20230710T163529"
+                title="Aruite mo Aruite mo, Yozora wa Boku o Oikakete kuru (ver.nayuta)"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="niconico"
+                            src="https://www.nicovideo.jp/watch/sm25461149"
+                            generatedBy="music.ts 822494e-64abd1a4"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=Q2jJnLrexyQ"
+                            generatedBy="music.ts 822494e-64abd1a4"
+                        />
+                    </urls>
+                </source>
+
+                <music base="0.4" />
+                <musicConsumedProgress length="5:22" />
+            </entry>
         </contains>
 
         <contains factor="vocal+image*feat">
