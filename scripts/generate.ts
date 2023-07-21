@@ -53,7 +53,7 @@ const mainDocumentContent = Deno.readTextFileSync(mainDocumentPath);
 const { nrsData } = processNRSXML(
   context,
   mainDocumentContent,
-  fileResolver.getProcessOptions(mainDocumentPath)
+  fileResolver.getProcessOptions(mainDocumentPath),
 );
 
 processContext(context, nrsData);
