@@ -48,7 +48,7 @@ jobs:
       - name: Install prettier
         run: npm install
       - name: Run prettier check
-        run: prettier .
+        run: ./node_modules/.bin/prettier --check .
   release:
     runs-on: ubuntu-latest
     needs: [lint, validate, prettier]
