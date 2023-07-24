@@ -1,0 +1,23 @@
+{
+  "name": "nrs-impl",
+  "version": "0.1.0",
+  "description": "nrs-impl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btmxh/nrs-impl.git"
+  },
+  "author": "btmxh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btmxh/nrs-impl/issues"
+  },
+  "homepage": "https://github.com/btmxh/nrs-impl#readme",
+  "devDependencies": {
+    "@prettier/plugin-xml": "^3.1.1",
+    "prettier": "^3.0.0"
+  }
+}

@@ -6,3 +6,5 @@ output
 
 # temp folder
 temp
+
+node_modules
