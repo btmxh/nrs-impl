@@ -148,6 +148,7 @@
                 <url name="twitter" src="https://twitter.com/kosekibijou" />
             </urls>
         </source>
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <contains factor="vocal+image">
             <entry
                 id="M-20230730T110201"
