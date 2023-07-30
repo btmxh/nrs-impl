@@ -137,4 +137,34 @@
     <meme from="2023-05-15" to="today" strength="0.4">
         <contributor id="M-20230524T223250" factor="1.0" />
     </meme>
+
+    <entry id="M-20230730T110147" title="Koseki Bijou">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/@KosekiBijou"
+                />
+                <url name="twitter" src="https://twitter.com/kosekibijou" />
+            </urls>
+        </source>
+        <contains factor="vocal+image">
+            <entry
+                id="M-20230730T110201"
+                title="Kyoumen no Nami (Koseki Bijou ver.)"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=Akn_Gdi05Ys"
+                        />
+                    </urls>
+                </source>
+                <visual type="animatedMV" base="1.0" unique="0.3" />
+                <music base="1.0" />
+                <musicConsumedProgress length="0:00" />
+            </entry>
+        </contains>
+    </entry>
 </document>
