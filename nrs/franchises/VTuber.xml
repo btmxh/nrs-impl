@@ -164,7 +164,7 @@
                 </source>
                 <visual type="animatedMV" base="1.0" unique="0.3" />
                 <music base="1.0" />
-                <musicConsumedProgress length="0:00" />
+                <musicConsumedProgress length="4:28" />
             </entry>
         </contains>
     </entry>
