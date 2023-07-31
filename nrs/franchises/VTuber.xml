@@ -149,6 +149,10 @@
             </urls>
         </source>
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <!-- my oshi frfr -->
+        <!-- see https://www.facebook.com/photo/?fbid=6378175832271871 -->
+        <!-- blame AOTP (basically neo-NAP) -->
+        <waifu from="2023-07-26" />
         <contains factor="vocal+image">
             <entry
                 id="M-20230730T110201"
