@@ -148,7 +148,6 @@
                 <url name="twitter" src="https://twitter.com/kosekibijou" />
             </urls>
         </source>
-        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <!-- Length source: -->
         <!-- https://www.youtube.com/watch?v=rpAQib0T5v0: 45:26 -->
         <!-- https://www.youtube.com/watch?v=T5qX3LMGFFA: 3:06:58 -->
