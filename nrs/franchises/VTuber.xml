@@ -143,6 +143,16 @@
             <!-- see https://www.facebook.com/photo/?fbid=6378175832271871 -->
             <!-- blame AOTP (basically neo-NAP) -->
             <waifu from="2023-07-26" />
+
+            <meme from="2023-07-26" to="today" strength="1.0">
+                <contributor id="M-20230730T110147" factor="0.6" />
+                <contributor id="M-VGMDB-AR-6799" factor="0.3" />
+                <contributor id="M-VGMDB-AR-35619" factor="0.1" />
+            </meme>
+
+            <!-- her streams are funny af -->
+            <nei base="0.8" emotions="AP" />
+
             <!-- the final exams PADS curse xddddddd -->
             <maxAEIPADS emotions="MP" from="2023-08-02" />
             <contains factor="vocal+image">
