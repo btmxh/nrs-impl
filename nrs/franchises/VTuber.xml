@@ -158,6 +158,8 @@
         <!-- see https://www.facebook.com/photo/?fbid=6378175832271871 -->
         <!-- blame AOTP (basically neo-NAP) -->
         <waifu from="2023-07-26" />
+        <!-- the final exams PADS curse xddddddd -->
+        <maxAEIPADS emotions="MP" from="2023-08-02" />
         <contains factor="vocal+image">
             <entry
                 id="M-20230730T110201"
