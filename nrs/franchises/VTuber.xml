@@ -123,11 +123,11 @@
         <entry id="M-20230730T110147" title="Koseki Bijou">
             <source>
                 <urls>
+                    <url name="twitter" src="https://twitter.com/kosekibijou" />
                     <url
                         name="youtube"
                         src="https://www.youtube.com/@KosekiBijou"
                     />
-                    <url name="twitter" src="https://twitter.com/kosekibijou" />
                 </urls>
             </source>
             <!-- Length source: -->
@@ -154,7 +154,11 @@
             <nei base="0.8" emotions="AP" />
 
             <!-- the final exams PADS curse xddddddd -->
-            <maxAEIPADS emotions="MP" from="2023-08-02" />
+            <maxAEIPADS emotions="MP" from="2023-08-02">
+                <contributor id="M-20230730T110147" factor="0.9" />
+                <contributor id="M-20230804T134551" factor="0.05" />
+                <contributor id="M-20230804T134624" factor="0.05" />
+            </maxAEIPADS>
             <contains factor="vocal+image">
                 <entry
                     id="M-20230730T110201"
@@ -174,6 +178,48 @@
                 </entry>
             </contains>
         </entry>
+    </entry>
+
+    <entry id="M-20230804T134551" title="#あくあ色ぱれっと">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/1xFQ5lKWILBjqnyX4RgI8d"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=6bnaBnd4kyU"
+                />
+            </urls>
+        </source>
+
+        <music base="0.6" />
+        <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+        <musicConsumedProgress length="4:32" />
+    </entry>
+
+    <entry id="M-20230804T134624" title="aqua iro palette">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/0a33Bgu9o1KVq1BXiWpXKq"
+                />
+                <!-- fansub ver -->
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=70YNtIPqCHg"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=HJ0Nhf9wiy8"
+                />
+            </urls>
+        </source>
+
+        <music base="0.6" />
+        <musicConsumedProgress length="4:30" />
     </entry>
 
     <!-- groundbreaking hanayori incidents -->
