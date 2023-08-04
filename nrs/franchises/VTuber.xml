@@ -144,6 +144,7 @@
             <!-- blame AOTP (basically neo-NAP) -->
             <waifu from="2023-07-26" />
 
+            <!-- Neo-Ayumu-era Arc 3 -->
             <meme from="2023-07-26" to="today" strength="1.0">
                 <contributor id="M-20230730T110147" factor="0.6" />
                 <contributor id="M-VGMDB-AR-6799" factor="0.3" />
