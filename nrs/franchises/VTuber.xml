@@ -143,7 +143,11 @@
             <!-- see https://www.facebook.com/photo/?fbid=6378175832271871 -->
             <!-- blame AOTP (basically neo-NAP) -->
             <waifu from="2023-07-26" />
+            <!-- lmfao higher visual than himeno sena -->
+            <!-- this is for the model btw -->
+            <visual type="animatedGachaCardArt" base="1.0" unique="0.5" />
 
+            <!-- Neo-Ayumu-era Arc 3 -->
             <meme from="2023-07-26" to="today" strength="1.0">
                 <contributor id="M-20230730T110147" factor="0.6" />
                 <contributor id="M-VGMDB-AR-6799" factor="0.3" />
