@@ -172,8 +172,8 @@
                             />
                         </urls>
                     </source>
-                    <visual type="animatedMV" base="1.0" unique="0.3" />
-                    <music base="1.0" />
+                    <visual type="animatedMV" base="0.5" unique="0.6" />
+                    <music base="0.15" />
                     <musicConsumedProgress length="4:28" />
                 </entry>
             </contains>
