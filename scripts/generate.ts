@@ -3,16 +3,20 @@ import {
   processContext,
   FileResolver,
   processNRSXML,
+  writableStreamFromWriter,
+  fs,
 } from "./deps.ts";
-import { writableStreamFromWriter } from "https://deno.land/std@0.181.0/streams/mod.ts";
-import * as fs from "https://deno.land/std@0.182.0/fs/mod.ts";
 
 fs.ensureDirSync("output");
 
 const fileHandles = [];
 
 function newWriteFileStream(path: string): WritableStream<Uint8Array> {
-  const file = Deno.openSync(path, { create: true, write: true });
+  const file = Deno.openSync(path, {
+    create: true,
+    write: true,
+    truncate: true,
+  });
   fileHandles.push(file);
   return writableStreamFromWriter(file);
 }
