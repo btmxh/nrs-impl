@@ -1,4 +1,5 @@
-import { writeCSV, Id, Entry, Result, deserializeBulk } from "./deps.ts";
+import { writeCSV } from "csv";
+import { Id, Entry, Result, deserializeBulk } from "nrslib";
 
 // Change this to change the CSV format
 const labels = [

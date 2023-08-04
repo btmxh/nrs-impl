@@ -1,24 +1,18 @@
-import {
-  newContext,
-  processContext,
-  FileResolver,
-  processNRSXML,
-  writableStreamFromWriter,
-  fs,
-} from "./deps.ts";
+import { ensureDir } from "fs";
+import { writableStreamFromWriter } from "streams";
+import { newContext, processContext } from "nrslib";
+import { FileResolver, processNRSXML } from "nrsml";
 
-fs.ensureDirSync("output");
-
-const fileHandles = [];
+await ensureDir("output");
 
 function newWriteFileStream(path: string): WritableStream<Uint8Array> {
-  const file = Deno.openSync(path, {
-    create: true,
-    write: true,
-    truncate: true,
-  });
-  fileHandles.push(file);
-  return writableStreamFromWriter(file);
+  return writableStreamFromWriter(
+    Deno.openSync(path, {
+      create: true,
+      write: true,
+      truncate: true,
+    }),
+  );
 }
 
 const baseAnimeContextConfig = {
@@ -53,7 +47,7 @@ const context = newContext({
 
 const fileResolver = new FileResolver();
 const mainDocumentPath = "nrs/NRSImplMain.xml";
-const mainDocumentContent = Deno.readTextFileSync(mainDocumentPath);
+const mainDocumentContent = await Deno.readTextFile(mainDocumentPath);
 const { nrsData } = processNRSXML(
   context,
   mainDocumentContent,
