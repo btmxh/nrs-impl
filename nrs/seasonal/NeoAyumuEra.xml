@@ -255,6 +255,7 @@
                 />
             </urls>
         </source>
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
 
         <visual type="albumArt" base="0.3" unique="0.5" />
 
