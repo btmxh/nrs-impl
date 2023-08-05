@@ -143,7 +143,7 @@
             <!-- see https://www.facebook.com/photo/?fbid=6378175832271871 -->
             <!-- blame AOTP (basically neo-NAP) -->
             <waifu from="2023-07-26" />
-            <!-- lmfao higher visual than himeno sena -->
+            <!-- lmfao higher visual than himeno sena (not really) -->
             <!-- this is for the model btw -->
             <visual type="animatedGachaCardArt" base="1.0" unique="0.5" />
 
@@ -176,7 +176,8 @@
             </aei>
 
             <!-- the final exams PADS curse xddddddd -->
-            <maxAEIPADS emotions="MP" from="2023-08-02">
+            <!-- interrupted by an actual depression wtf -->
+            <maxAEIPADS emotions="MP" from="2023-08-02" to="2023-08-04">
                 <contributor id="M-20230730T110147" factor="0.9" />
                 <contributor id="M-20230804T134551" factor="0.05" />
                 <contributor id="M-20230804T134624" factor="0.05" />
