@@ -123,6 +123,7 @@
             <contains id="M-20230608T132043-1" factor="inst/3+vocal+image" />
             <contains id="M-20230608T113548-1" />
             <contains id="M-20230608T113548-5" />
+            <contains id="M-20230805T090752-6" />
         </contains>
 
         <contains id="M-VGMDB-AL-98575-5" factor="inst/3+vocal/6+image*main" />
@@ -231,6 +232,61 @@
             </source>
             <music base="0.7" />
             <musicConsumedProgress length="3:42" />
+        </entry>
+    </entry>
+
+    <entry id="M-20230805T090752" title="Imaginary Arcadia">
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/cD65nR6t"
+                    generatedBy="music.ts 822494e-64cdaf7f"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1urLf0n8xTdFyLQxx1mq2c"
+                    generatedBy="music.ts 822494e-64cdaf7f"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mFkW4AqUVuVU7QOnqI2ER2h2GpcRq5VPg"
+                    generatedBy="music.ts 822494e-64cdaf7f"
+                />
+            </urls>
+        </source>
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+
+        <visual type="albumArt" base="0.3" unique="0.5" />
+
+        <entry id="$-6" title="Sympatheia">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6sxIlIxZc0IyMenKXkJNeF"
+                        generatedBy="music.ts 822494e-64cdaf7f"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=egmWJ917Nuc"
+                        generatedBy="music.ts 822494e-64cdaf7f"
+                    />
+                </urls>
+            </source>
+            <!-- (3:00) But,
+                There is no place for me.
+                Even when I tried,
+                Even when I cried,
+                I was alone,
+
+                Gazing to the unknown
+                Dreaming of someday
+                This is the end...
+             -->
+            <aei base="0.3" emotions="MU" />
+            <music base="0.5" />
+            <musicConsumedProgress length="4:02" />
         </entry>
     </entry>
 
