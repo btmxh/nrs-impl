@@ -157,24 +157,6 @@
             <!-- her streams are funny af -->
             <nei base="0.8" emotions="AP" />
 
-            <!-- bruh this one is stupid af -->
-            <!-- if merge to gem-balanced branch remove this lmfao -->
-
-            <!-- shiny smily story CP incident -->
-            <!-- Guys, imagine if Ayumu won the Love Live!
-                 That would be so beeping hype man. I meant,
-                 she is the main girl right? So if they are
-                 gonna win (which every Love Live! unit does)
-                 the thing as individuals, surely the winner
-                 should be her right? Man imagine she actually
-                 winning the thing, that would probably move me
-                 to tears... -->
-            <aei base="0.5" emotions="CP">
-                <contributor id="M-20230730T110147" factor="0.6" />
-                <contributor id="M-VGMDB-AL-111027-12" factor="0.3" />
-                <contributor id="A-MAL-40879" factor="0.1" />
-            </aei>
-
             <!-- the final exams PADS curse xddddddd -->
             <maxAEIPADS emotions="MP" from="2023-08-02">
                 <contributor id="M-20230730T110147" factor="0.9" />
