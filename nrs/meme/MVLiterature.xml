@@ -50,10 +50,121 @@
         <ref name="AKMEraPart1" a_strength="0.3" />
     </entry>
 
-    <entry id="M-VGMDB-AL-111027" title="hololive IDOL PROJECT / Bouquet">
+    <entry id="M-VGMDB-AL-111027" title="Bouquet / hololive IDOL PROJECT">
+        <source>
+            <urls>
+                <url
+                    name="amazon.co.jp"
+                    src="https://www.amazon.co.jp/dp/B08WQ9WKPP/"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="animate"
+                    src="https://www.animate-onlineshop.jp/sphone/pd/1902313/"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="cdjapan"
+                    src="https://www.cdjapan.co.jp/product/HOLO-1"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="discogs"
+                    src="https://www.discogs.com/release/17978653-Hololive-Idol-Project-Bouquet"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="gamers"
+                    src="https://www.gamers.co.jp/pd/10541660/"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="joshin-web-shop"
+                    src="https://joshinweb.jp/dp/4580625826569.html"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="mora"
+                    src="https://mora.jp/package/43000033/A99185/"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="musicbrainz"
+                    src="https://musicbrainz.org/release/977d6760-658c-45b6-b468-2de521184d55"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="musicjapanet"
+                    src="https://www.musicjapanet.com/Music/Product/Hololive-Idol-Project-Bouquet-CD-4580625826569"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="official"
+                    src="https://hololive.hololivepro.com/en/music/bouquet-2/"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="ototoy-hi-res"
+                    src="https://ototoy.jp/_/default/p/740021"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="ototoy-lossless"
+                    src="https://ototoy.jp/_/default/p/740020"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="play-asia"
+                    src="https://www.play-asia.com/bouquet/13/70edyf"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="rakuten"
+                    src="https://books.rakuten.co.jp/rb/16650696/"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/2m4GyMt1ffTR1XkA5gW4mR"
+                />
+                <url
+                    name="surugaya"
+                    src="https://www.suruga-ya.jp/product/detail/120140574"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="tower-records-online"
+                    src="https://tower.jp/item/5161542"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/111027"
+                    generatedBy="music.ts 822494e-64ccc2a2"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_m9CTHZbTGo5EPIi7SRmM3PB0gC0KiBIro"
+                />
+            </urls>
+        </source>
         <visual type="albumArt" base="0.5" unique="0.3" />
 
         <entry id="$-10" title="あすいろClearSky (Bouquet Ver.)">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6LqzhimW8t59ddQmX0vmjk"
+                        generatedBy="music.ts 822494e-64ccc430"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=nYiJxPO3q10"
+                        generatedBy="music.ts 822494e-64ccc430"
+                    />
+                </urls>
+            </source>
             <musicConsumedProgress length="4:38" />
             <!-- asuiro koi moyou and its consequences -->
             <!-- BASED hololive stole rst & sb69 composer -->
@@ -77,6 +188,25 @@
             <ref name="AKMEraPart2" a_strength="0.1" />
 
             <remix id="M-20230618T132937" />
+        </entry>
+
+        <entry id="$-12" title="Shiny Smily Story (Bouquet Ver.)">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2OZDpwQYrEUDYZPbywxZNK"
+                        generatedBy="music.ts 822494e-64ccc430"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=xHSiqR5rGwo"
+                        generatedBy="music.ts 822494e-64ccc430"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <musicConsumedProgress length="4:12" />
         </entry>
     </entry>
 </document>

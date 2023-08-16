@@ -119,6 +119,121 @@
             <music base="0.7" />
             <musicConsumedProgress length="4:37" />
         </entry>
+
+        <entry id="M-20230730T110147" title="Koseki Bijou">
+            <source>
+                <urls>
+                    <url name="twitter" src="https://twitter.com/kosekibijou" />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/@KosekiBijou"
+                    />
+                </urls>
+            </source>
+            <!-- Length source: -->
+            <!-- https://www.youtube.com/watch?v=rpAQib0T5v0: 45:26 -->
+            <!-- https://www.youtube.com/watch?v=T5qX3LMGFFA: 3:06:58 -->
+            <!-- https://www.youtube.com/watch?v=LglIMGCMrjs: 4:03:15 -->
+            <consumedProgress
+                status="Watching"
+                boredom="1.0"
+                duration="7:55:39"
+            />
+            <!-- my oshi frfr -->
+            <!-- see https://www.facebook.com/photo/?fbid=6378175832271871 -->
+            <!-- blame AOTP (basically neo-NAP) -->
+            <waifu from="2023-07-26" />
+            <!-- lmfao higher visual than himeno sena (not really) -->
+            <!-- this is for the model btw -->
+            <visual type="animatedGachaCardArt" base="1.0" unique="0.5" />
+
+            <!-- Neo-Ayumu-era Arc 3 -->
+            <meme from="2023-07-26" to="today" strength="1.0">
+                <contributor id="M-20230730T110147" factor="0.6" />
+                <contributor id="M-VGMDB-AR-6799" factor="0.3" />
+                <contributor id="M-VGMDB-AR-35619" factor="0.1" />
+            </meme>
+
+            <!-- her streams are funny af -->
+            <nei base="0.8" emotions="AP" />
+
+            <!-- pogpega the 3679054593th himeno sena 2023 -->
+            <!-- lmfao they turned the restaurant thingy into a political icon -->
+            <!-- lmfao she can do art and tech-savvy af truly a goat -->
+            <!-- rip she is now a progressive icon -->
+            <aei base="0.5" emotions="CP" />
+
+            <!-- the final exams PADS curse xddddddd -->
+            <!-- interrupted by an actual depression wtf -->
+            <!-- bay hoc bong roi xdddddddd -->
+            <!-- (let's go we are free from that univeristy shenanigans we can now -->
+            <!-- do colorist stuff (totally not coping)) -->
+            <maxAEIPADS emotions="MP" from="2023-08-02" to="2023-08-04">
+                <contributor id="M-20230730T110147" factor="0.9" />
+                <contributor id="M-20230804T134551" factor="0.05" />
+                <contributor id="M-20230804T134624" factor="0.05" />
+            </maxAEIPADS>
+            <contains factor="vocal+image">
+                <entry
+                    id="M-20230730T110201"
+                    title="Kyoumen no Nami (Koseki Bijou ver.)"
+                >
+                    <source>
+                        <urls>
+                            <url
+                                name="youtube"
+                                src="https://www.youtube.com/watch?v=Akn_Gdi05Ys"
+                            />
+                        </urls>
+                    </source>
+                    <visual type="animatedMV" base="0.5" unique="0.6" />
+                    <music base="0.15" />
+                    <musicConsumedProgress length="4:28" />
+                </entry>
+            </contains>
+        </entry>
+    </entry>
+
+    <entry id="M-20230804T134551" title="#あくあ色ぱれっと">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/1xFQ5lKWILBjqnyX4RgI8d"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=6bnaBnd4kyU"
+                />
+            </urls>
+        </source>
+
+        <music base="0.6" />
+        <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+        <musicConsumedProgress length="4:32" />
+    </entry>
+
+    <entry id="M-20230804T134624" title="aqua iro palette">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/track/0a33Bgu9o1KVq1BXiWpXKq"
+                />
+                <!-- fansub ver -->
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=70YNtIPqCHg"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=HJ0Nhf9wiy8"
+                />
+            </urls>
+        </source>
+
+        <music base="0.6" />
+        <musicConsumedProgress length="4:30" />
     </entry>
 
     <!-- groundbreaking hanayori incidents -->
