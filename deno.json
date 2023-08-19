@@ -2,9 +2,9 @@
   "imports": {
     "nrslib": "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v1.1.1/mod.ts",
     "nrsml": "https://raw.githubusercontent.com/btmxh/nrsml/v2.2.2/mod.ts",
-    "csv": "https://deno.land/x/csv@v0.9.0/mod.ts",
-    "streams": "https://deno.land/std@0.197.0/streams/mod.ts",
-    "fs": "https://deno.land/std@0.197.0/fs/mod.ts"
+    "csv": "https://deno.land/x/csv@v0.9.1/mod.ts",
+    "streams": "https://deno.land/std@0.198.0/streams/mod.ts",
+    "fs": "https://deno.land/std@0.198.0/fs/mod.ts"
   },
   "tasks": {
     "generate": "deno run --allow-all scripts/generate.ts",
