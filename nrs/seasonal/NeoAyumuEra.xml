@@ -233,6 +233,7 @@
                     />
                 </urls>
             </source>
+            <nei base="0.8" emotions="MP-0.7:CP-0.3" />
             <music base="0.7" />
             <musicConsumedProgress length="3:42" />
         </entry>
