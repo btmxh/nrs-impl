@@ -40,6 +40,8 @@
             </entry>
 
             <entry id="$-24" title="RE Aoharu">
+                <!-- idk what this feeling is lmfao -->
+                <aei base="0.5" emotions="MU-0.5:CP-0.5" />
                 <musicConsumedProgress length="2:21" />
                 <music base="0.57" />
             </entry>
