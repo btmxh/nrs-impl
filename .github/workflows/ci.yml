@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4
       - name: Install xmllint
         run: sudo apt update && sudo apt install libxml2-utils
       - name: Create temp directory
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4
       - name: Setup Deno
         uses: denoland/setup-deno@v1
         with:
@@ -28,7 +28,7 @@ jobs:
       - name: Create temp directory
         run: mkdir -p temp
       - name: Checkout validator repository
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4
         with:
           repository: "ngoduyanh/nrs-validator"
           path: "temp/nrs-validator"
@@ -40,7 +40,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -54,7 +54,7 @@ jobs:
     needs: [lint, validate, prettier]
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4
       - name: Setup Deno
         uses: denoland/setup-deno@v1
         with:
