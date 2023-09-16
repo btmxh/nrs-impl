@@ -270,7 +270,7 @@
   },
   "npm": {
     "specifiers": {
-      "@types/luxon": "@types/luxon@3.3.1",
+      "@types/luxon": "@types/luxon@3.3.2",
       "fast-xml-parser@4": "fast-xml-parser@4.2.7",
       "jsx-xml": "jsx-xml@0.2.3",
       "luxon@3.2.0": "luxon@3.2.0"
@@ -278,6 +278,10 @@
     "packages": {
       "@types/luxon@3.3.1": {
         "integrity": "sha512-XOS5nBcgEeP2PpcqJHjCWhUCAzGfXIU8ILOSLpx2FhxqMW9KdxgCGXNOEKGVBfveKtIpztHzKK5vSRVLyW/NqA==",
+        "dependencies": {}
+      },
+      "@types/luxon@3.3.2": {
+        "integrity": "sha512-l5cpE57br4BIjK+9BSkFBOsWtwv6J9bJpC7gdXIzZyI0vuKvNTk0wZZrkQxMGsUAuGW9+WMNWF2IJMD7br2yeQ==",
         "dependencies": {}
       },
       "fast-xml-parser@4.2.7": {
