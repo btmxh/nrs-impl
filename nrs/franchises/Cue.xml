@@ -1,4 +1,4 @@
-<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
 <!-- the futuRe: of gen2 -->
 <document>
     <entry id="F-VGMDB-9540" title="CUE!">

@@ -1,4 +1,4 @@
-<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
 <!-- niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12 -->
 <!-- so the contain factor of the 9 original girls will be 1.5x the new girls -->
 <!-- doing the math, we got these: -->

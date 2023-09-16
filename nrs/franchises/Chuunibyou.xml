@@ -1,4 +1,4 @@
-<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
 <document>
     <entry id="M-VGMDB-AR-12516" title="ZAQ">
         <contains id="M-VGMDB-AL-42762" />
