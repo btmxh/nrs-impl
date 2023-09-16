@@ -485,6 +485,7 @@
         <entry
             id="M-20220702T030659"
             title="Kimi no Rhapsody (DJ DEVILMINTKIRYU Remix)"
+            entrytype="MusicTrack"
         >
             <!-- aka hoantinh theme song -->
 
@@ -502,6 +503,7 @@
         <entry
             id="M-20230507T160907"
             title="Hoshizora Light Story (DJ DEVILMINTKIRYU Remix)"
+            entrytype="MusicTrack"
         >
             <!-- pogpega howan tinhf 2023 -->
             <ref
@@ -1069,6 +1071,7 @@
     <entry
         id="M-20221127T140645"
         title="Bibibeach Bibibibeach! (411 Socacore Remix)"
+        entrytype="MusicTrack"
     >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.55" />
@@ -1076,7 +1079,11 @@
         <musicConsumedProgress length="4:32" />
     </entry>
 
-    <entry id="M-20230606T093630" title="【歌ってみた】あすいろ恋模様">
+    <entry
+        id="M-20230606T093630"
+        title="【歌ってみた】あすいろ恋模様"
+        entrytype="MusicTrack"
+    >
         <!-- "truly the most song of all time" -->
         <!-- somewhat low quality tho, but nice voice -->
         <music base="0.75" />
@@ -1085,7 +1092,7 @@
     </entry>
 
     <!-- rip fes a live -->
-    <entry id="M-20230608T135141" title="TOWER">
+    <entry id="M-20230608T135141" title="TOWER" entrytype="MusicTrack">
         <source>
             <urls>
                 <url

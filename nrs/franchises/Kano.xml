@@ -17,7 +17,11 @@
         <contains id="M-20230524T223250" factor="1/4" />
     </entry>
 
-    <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
+    <entry
+        id="M-20221202T204728"
+        title="Sukisuki Zecchoushou"
+        entrytype="MusicTrack"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.40" />
         <osuSong personal="0.6" community="0.4" />
@@ -26,7 +30,11 @@
         <role id="M-VGMDB-AR-11666" roles="vocal+image" />
     </entry>
 
-    <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
+    <entry
+        id="M-20221202T203758"
+        title="Sayonara, Adam to Eve"
+        entrytype="MusicTrack"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.51" />
         <osuSong personal="0.7" community="0.0" />
@@ -38,6 +46,7 @@
     <entry
         id="M-20221202T202421"
         title="Natsu no Owari, Koi no Hajimari (Kano)"
+        entrytype="MusicTrack"
     >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.58" />
@@ -54,7 +63,11 @@
     <!-- ditch neo-pop xddddddddd -->
 
     <!-- oh except for this, i forgor -->
-    <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
+    <entry
+        id="M-20220317T064137-5"
+        title="Sore wa Kitto Natsudatta"
+        entrytype="MusicTrack"
+    >
         <visual type="animatedMV" base="0.35" unique="0.7" />
         <!-- 210 bpm spaced bursts -->
         <osuSong personal="0.5" community="0.0" />
@@ -65,7 +78,11 @@
         <role id="M-VGMDB-AR-11666" roles="vocal+image" />
     </entry>
 
-    <entry id="M-20230626T223045" title="Ai Kotoba III (Kano ver.)">
+    <entry
+        id="M-20230626T223045"
+        title="Ai Kotoba III (Kano ver.)"
+        entrytype="MusicTrack"
+    >
         <source>
             <urls>
                 <url
@@ -81,7 +98,11 @@
 
     <!-- colorful wonder note is an irojiro album -->
     <!-- so basically kano has zero image (like kano 2023 in vivid lila albums) -->
-    <entry id="M-20220130T032649" title="Kimiiro Hanabi -album version-">
+    <entry
+        id="M-20220130T032649"
+        title="Kimiiro Hanabi -album version-"
+        entrytype="MusicTrack"
+    >
         <!-- from the album "Colorful Wonder Note", track number 8 -->
         <!-- and yes this is from osugame too -->
 

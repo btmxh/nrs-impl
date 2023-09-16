@@ -721,7 +721,11 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
     <!-- a lot of forgotten lore here ngl -->
 
     <!-- colorist creative works -->
-    <entry id="M-20230626T223154" title="nijigaku mashup v4.wav">
+    <entry
+        id="M-20230626T223154"
+        title="nijigaku mashup v4.wav"
+        entrytype="MusicTrack"
+    >
         <source>
             <urls>
                 <url
@@ -747,6 +751,7 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
     <entry
         id="M-20230626T223005"
         title="kano and ayumu collab LETS GOOOOOOOO hq ver.wav"
+        entrytype="MusicTrack"
     >
         <source>
             <urls>

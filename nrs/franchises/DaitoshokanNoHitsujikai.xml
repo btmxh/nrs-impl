@@ -72,6 +72,7 @@
     <entry
         id="M-20230507T151127"
         title="大図書館の羊飼いPV - ストレイトシープ(Epsilon Remix)"
+        entrytype="MusicTrack"
     >
         <music base="0.54" />
         <!-- Length source: https://soundcloud.com/sakuralys-epsilon/pv-epsilon-remix -->
@@ -81,20 +82,29 @@
     <entry
         id="M-20230507T151751"
         title="大図書館の羊飼いPV - ストレイトシープ(Epsilon Remix 2015)"
+        entrytype="MusicTrack"
     >
         <music base="0.47" />
         <!-- Length source: https://soundcloud.com/sakuralys-epsilon/pv-epsilon-remix-2015 -->
         <musicConsumedProgress length="4:51" />
     </entry>
 
-    <entry id="M-20230507T153203" title="Travelling Sheep">
+    <entry
+        id="M-20230507T153203"
+        title="Travelling Sheep"
+        entrytype="MusicTrack"
+    >
         <music base="0.57" />
         <!-- from album A-Remix Nation 12 -->
         <!-- Length source: https://www.discogs.com/release/6612909-Various-A-Remix-Nation-12 -->
         <musicConsumedProgress length="5:27" />
     </entry>
 
-    <entry id="M-20230507T153901" title="Vivacious Sheep">
+    <entry
+        id="M-20230507T153901"
+        title="Vivacious Sheep"
+        entrytype="MusicTrack"
+    >
         <music base="0.57" />
         <!-- from album A-Remix Nation 11 -->
         <!-- Length source: https://www.discogs.com/release/5790859-Various-A-Remix-Nation-11 -->
@@ -104,6 +114,7 @@
     <entry
         id="M-20230507T154204"
         title=" 【大図書館の羊飼い -Dreaming Sheep-】 中恵光城 - Dreaming Sheep (UDON* Remix Live Edit) **Full Version** [172BPM] "
+        entrytype="MusicTrack"
     >
         <music base="0.57" />
         <!-- Length source: https://soundcloud.com/dj-udon-s-pecializ/dreaming-sheep-dreaming-sheep -->

@@ -25,6 +25,7 @@
     <entry
         id="M-20230524T223735"
         title="Koko kara, koko kara (Hanayori Girls' Dormitory cover)"
+        entrytype="MusicTrack"
     >
         <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
         <musicConsumedProgress length="4:35" />
@@ -60,7 +61,11 @@
             </source>
         </entry>
 
-        <entry id="M-20230618T131917" title="Fake.Fake.Fake">
+        <entry
+            id="M-20230618T131917"
+            title="Fake.Fake.Fake"
+            entrytype="MusicTrack"
+        >
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <source>
                 <urls>
@@ -105,7 +110,11 @@
             </entry>
         </entry>
 
-        <entry id="M-20230618T132937" title="Asuiro ClearSky (AZKi ver.)">
+        <entry
+            id="M-20230618T132937"
+            title="Asuiro ClearSky (AZKi ver.)"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url
@@ -120,7 +129,11 @@
             <role id="M-VGMDB-AR-35619" roles="vocal+image" />
         </entry>
 
-        <entry id="M-20230730T110147" title="Koseki Bijou">
+        <entry
+            id="M-20230730T110147"
+            title="Koseki Bijou"
+            entrytype="MusicArtist"
+        >
             <source>
                 <urls>
                     <url name="twitter" src="https://twitter.com/kosekibijou" />
@@ -178,6 +191,7 @@
         <entry
             id="M-20230730T110201"
             title="Kyoumen no Nami (Koseki Bijou ver.)"
+            entrytype="MusicTrack"
         >
             <source>
                 <urls>
@@ -193,7 +207,11 @@
             <role id="M-20230730T110147" roles="vocal+image" />
         </entry>
 
-        <entry id="M-20230804T134551" title="#あくあ色ぱれっと">
+        <entry
+            id="M-20230804T134551"
+            title="#あくあ色ぱれっと"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url
@@ -212,7 +230,11 @@
             <musicConsumedProgress length="4:32" />
         </entry>
 
-        <entry id="M-20230804T134624" title="aqua iro palette">
+        <entry
+            id="M-20230804T134624"
+            title="aqua iro palette"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url

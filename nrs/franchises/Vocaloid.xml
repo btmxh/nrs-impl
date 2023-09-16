@@ -1,12 +1,20 @@
 <?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
-    <entry id="M-MAL-36631" title="Pandora Voxx Complete">
+    <entry
+        id="M-MAL-36631"
+        title="Pandora Voxx Complete"
+        entrytype="MusicAlbum"
+    >
         <!-- there is no vgmdb entry for this -->
         <!-- but there is a mal one kek -->
 
         <visual type="albumArt" base="0.1" unique="0.2" />
 
-        <entry id="$-6" title="Chikyuu Saigo no Kokuhaku wo">
+        <entry
+            id="$-6"
+            title="Chikyuu Saigo no Kokuhaku wo"
+            entrytype="MusicTrack"
+        >
             <visual type="animatedMV" base="0.5" unique="0.5" />
             <!-- the legendary fifth ayumu-era theme song -->
 
@@ -46,7 +54,7 @@
         <role id="M-20220205T023322-2" roles="arrange+vocal+image" />
     </entry>
 
-    <entry id="M-20221115T105859" title="AI">
+    <entry id="M-20221115T105859" title="AI" entrytype="MusicTrack">
         <visual type="semiAnimatedMV" base="0.6" unique="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/955580 -->
         <musicConsumedProgress length="4:23" />
@@ -54,7 +62,7 @@
         <osuSong personal="0.8" community="0.0" />
     </entry>
 
-    <entry id="M-20221219T233957" title="Calc.">
+    <entry id="M-20221219T233957" title="Calc." entrytype="MusicTrack">
         <visual type="staticMV" base="0.2" unique="0.4" />
         <!-- Length source: https://www.nicovideo.jp/watch/sm12050471 -->
         <musicConsumedProgress length="3:56" />
@@ -139,7 +147,11 @@
         </entry>
     </entry>
 
-    <entry id="M-20221217T174507" title="Kutsumigaki to Maria">
+    <entry
+        id="M-20221217T174507"
+        title="Kutsumigaki to Maria"
+        entrytype="MusicTrack"
+    >
         <!-- https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         <visual type="animatedMV" base="0.5" unique="0.6" />
         <music base="0.45" />
@@ -166,7 +178,11 @@
         <role id="M-VGMDB-AR-25289" roles="music_total" />
     </entry>
 
-    <entry id="M-20221224T223044" title="Hitori no Kimi to Hitori no Boku ni">
+    <entry
+        id="M-20221224T223044"
+        title="Hitori no Kimi to Hitori no Boku ni"
+        entrytype="MusicTrack"
+    >
         <!-- suzumu the goat -->
         <!-- obligatory honokaCLAP and catJAM -->
         <!-- https://github.com/ngoduyanh/gifs/blob/master/gif/honokaCLAP.gif -->
@@ -182,7 +198,11 @@
         <musicConsumedProgress length="4:28" />
     </entry>
 
-    <entry id="M-20230608T132554" title="Ano Natsu no Itsuka wa">
+    <entry
+        id="M-20230608T132554"
+        title="Ano Natsu no Itsuka wa"
+        entrytype="MusicTrack"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -199,7 +219,7 @@
         <music base="0.5" />
     </entry>
 
-    <entry id="M-20230626T230907" title="Ai Kotoba">
+    <entry id="M-20230626T230907" title="Ai Kotoba" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
@@ -226,7 +246,7 @@
         <musicConsumedProgress length="4:24" />
     </entry>
 
-    <entry id="M-20230626T230908" title="Ai Kotoba II">
+    <entry id="M-20230626T230908" title="Ai Kotoba II" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
@@ -254,7 +274,7 @@
         <musicConsumedProgress length="4:25" />
     </entry>
 
-    <entry id="M-20230626T230909" title="Ai Kotoba III">
+    <entry id="M-20230626T230909" title="Ai Kotoba III" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
@@ -281,7 +301,7 @@
         <musicConsumedProgress length="4:06" />
     </entry>
 
-    <entry id="M-20230626T230910" title="Ai Kotoba IV">
+    <entry id="M-20230626T230910" title="Ai Kotoba IV" entrytype="MusicTrack">
         <source>
             <urls>
                 <url

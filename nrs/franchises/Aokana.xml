@@ -57,6 +57,7 @@
     <entry
         id="M-20221202T205008"
         title="Wings of Courage -Sora o Koete- (Epsilon Remix)"
+        entrytype="MusicTrack"
     >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.56" />
@@ -65,7 +66,11 @@
         <musicConsumedProgress length="4:58" />
     </entry>
 
-    <entry id="M-20221202T210558" title="Contrail ~Kiseki~ (Epsilon Remix)">
+    <entry
+        id="M-20221202T210558"
+        title="Contrail ~Kiseki~ (Epsilon Remix)"
+        entrytype="MusicTrack"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.56" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/461966 -->

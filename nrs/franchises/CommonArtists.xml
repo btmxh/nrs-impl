@@ -449,9 +449,8 @@
         <entry id="$-1" title="crossing field">
             <musicConsumedProgress length="4:09" />
             <music base="0.18" />
+            <role id="M-VGMDB-AR-11952" roles="vocal+image" />
         </entry>
-
-        <role id="M-VGMDB-AR-11952" roles="vocal+image" />
     </entry>
 
     <entry id="M-VGMDB-AR-26614" title="kemu" />
@@ -461,6 +460,7 @@
     </entry>
 
     <entry id="M-20220205T023322-2" title="H△G" entrytype="MusicArtist">
+        <validatorSuppress rules="dah-music-role-on-non-tracks" />
         <role id="M-20220211T055120" roles="vocal+image/3" />
     </entry>
 
@@ -486,7 +486,11 @@
         </entry>
     </entry>
 
-    <entry id="M-20221202T203615" title="Rokugatsu no Himitsu Kichi">
+    <entry
+        id="M-20221202T203615"
+        title="Rokugatsu no Himitsu Kichi"
+        entrytype="MusicTrack"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.41" />
         <osuSong personal="0.6" community="0.0" />
@@ -495,7 +499,11 @@
         <role id="M-20220205T023322-2" roles="prod+vocal+image" />
     </entry>
 
-    <entry id="M-20221202T194015" title="Hoshikuzu Orchestra (H△G cover)">
+    <entry
+        id="M-20221202T194015"
+        title="Hoshikuzu Orchestra (H△G cover)"
+        entrytype="MusicTrack"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <music base="0.51" />
         <osuSong personal="0.5" community="0.0" />
@@ -552,7 +560,11 @@
     <!-- we live in a society -->
     <!-- we live in a society -->
     <!-- rst shills are truly on another level of stupidity -->
-    <entry id="M-20220623T082620" title="Cobalt Memories (Amane Makino ver.)">
+    <entry
+        id="M-20220623T082620"
+        title="Cobalt Memories (Amane Makino ver.)"
+        entrytype="MusicTrack"
+    >
         <!-- https://www.youtube.com/watch?v=_IWGubxbp1k -->
 
         <!-- rst shills when their dumb lore goes deeper than their gf's pussy -->
@@ -625,7 +637,11 @@
 
     <entry id="M-VGMDB-AR-35717" title="Aiobahn" />
 
-    <entry id="M-20230608T115639" title="Sugiyuku Hi to Kimi e">
+    <entry
+        id="M-20230608T115639"
+        title="Sugiyuku Hi to Kimi e"
+        entrytype="MusicAlbum"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -640,14 +656,14 @@
                 />
             </urls>
         </source>
-        <entry id="$-1" title="Sugiyuku Hi to Kimi e">
+        <entry id="$-1" title="Sugiyuku Hi to Kimi e" entrytype="MusicTrack">
             <music base="0.25" />
             <musicConsumedProgress length="4:20" />
             <role id="M-VGMDB-AR-35717" roles="prod+image" />
             <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
     </entry>
-    <entry id="M-20230608T115640" title="0AM">
+    <entry id="M-20230608T115640" title="0AM" entrytype="MusicTrack">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>

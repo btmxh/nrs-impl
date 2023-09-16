@@ -88,7 +88,11 @@
         </ref>
     </entry>
 
-    <entry id="M-20230608T133428" title="Shooting Stars (long ver.)">
+    <entry
+        id="M-20230608T133428"
+        title="Shooting Stars (long ver.)"
+        entrytype="MusicTrack"
+    >
         <source>
             <urls>
                 <url

@@ -1225,7 +1225,7 @@
             </entry>
         </entry>
 
-        <entry id="M-20230606T100606" title="M.L.V.G">
+        <entry id="M-20230606T100606" title="M.L.V.G" entrytype="MusicTrack">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="M.L.V.G">
@@ -1241,7 +1241,7 @@
             </entry>
         </entry>
 
-        <entry id="M-20230606T101046" title="Re:write">
+        <entry id="M-20230606T101046" title="Re:write" entrytype="MusicTrack">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <visual type="albumArt" base="0.4" unique="0.6" />
             <entry id="$-1" title="Re:write">
@@ -1327,7 +1327,11 @@
         <contributor id="GF-VGMDB-7059" factor="0.05" />
     </aei>
 
-    <entry id="M-20220507T131634" title="Re:STAGE! Songs Compilation">
+    <entry
+        id="M-20220507T131634"
+        title="Re:STAGE! Songs Compilation"
+        entrytype="MusicTrack"
+    >
         <!-- kek 69 min song comp -->
         <!-- TODO: add the 48 songs here -->
 

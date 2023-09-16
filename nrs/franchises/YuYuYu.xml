@@ -15,9 +15,8 @@
             <entry id="$-1" title="Aurora Days">
                 <musicConsumedProgress length="4:00" />
                 <music base="0.19" />
+                <role id="M-VGMDB-AR-10253" roles="vocal/5+image_feat/5" />
             </entry>
-
-            <role id="M-VGMDB-AR-10253" roles="vocal/5+image_feat/5" />
         </entry>
 
         <entry
@@ -108,7 +107,11 @@
             />
         </entry>
 
-        <entry id="L-MAL-90810" title="Nogi Wakaba wa Yuusha de Aru">
+        <entry
+            id="L-MAL-90810"
+            title="Nogi Wakaba wa Yuusha de Aru"
+            entrytype="LightNovel"
+        >
             <!-- Update Nov 6, 2021: -->
             <!-- This LN reading progress will be paused to prioritize the anime. -->
             <!-- Issue #10 will try to make both S3 and NoWaYu LN get all of the -->
