@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9703" title="SELECTION PROJECT">
         <entry id="A-MAL-44275" title="Selection Project">
@@ -22,13 +22,7 @@
             <killedBy id="F-VGMDB-3245" potential="0.25" effect="0.8" />
         </entry>
 
-        <entry id="M-20220319T061727" title="9-tie">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-114102" />
-            </contains>
-        </entry>
+        <entry id="M-20220319T061727" title="9-tie" entrytype="MusicArtist" />
 
         <entry
             id="M-VGMDB-AL-114102"
@@ -38,6 +32,7 @@
             <entry id="$-1" title="Glorious Days">
                 <musicConsumedProgress length="3:54" />
                 <music base="0.35" />
+                <role id="M-20220319T061727" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -49,6 +44,7 @@
             <entry id="$-1" title="ENDROLL">
                 <musicConsumedProgress length="3:53" generatedBy="user" />
                 <music base="0.47" />
+                <role id="M-VGMDB-AR-29487" roles="compose/2" />
             </entry>
         </entry>
     </entry>

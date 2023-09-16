@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- kirare - happy typhoon and u's - a song for yuyuyu reference -->
     <!-- somewhat changed da world -->
@@ -15,6 +15,7 @@
             <entry id="$-1" title="Aurora Days">
                 <musicConsumedProgress length="4:00" />
                 <music base="0.19" />
+                <role id="M-VGMDB-AR-10253" roles="vocal/5+image_feat/5" />
             </entry>
         </entry>
 
@@ -25,11 +26,14 @@
             <visual type="albumArt" base="0.3" unique="0.5" />
 
             <!-- the glorious udon stream map -->
-            <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure sotarks new adventure -->
+            <!-- sonoko nogizaka46 yubi bouenkyou anime ban fate fiery extreme armin adventure
+            sotarks new adventure -->
             <entry id="$-2" title="U・D・N">
                 <musicConsumedProgress length="3:12" />
                 <music base="0.47" />
                 <osuSong personal="0.3" community="0.0" />
+                <role id="M-VGMDB-AR-6783" roles="vocal/6+image_feat/6" />
+                <role id="M-VGMDB-AR-10253" roles="vocal/6+image_feat/6" />
             </entry>
         </entry>
 
@@ -103,7 +107,11 @@
             />
         </entry>
 
-        <entry id="L-MAL-90810" title="Nogi Wakaba wa Yuusha de Aru">
+        <entry
+            id="L-MAL-90810"
+            title="Nogi Wakaba wa Yuusha de Aru"
+            entrytype="LightNovel"
+        >
             <!-- Update Nov 6, 2021: -->
             <!-- This LN reading progress will be paused to prioritize the anime. -->
             <!-- Issue #10 will try to make both S3 and NoWaYu LN get all of the -->

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry
         id="F-VGMDB-3274"
@@ -21,9 +21,12 @@
 
             <entry id="$-1" title="Hello Alone">
                 <musicConsumedProgress length="4:39" />
+                <role id="M-VGMDB-AR-6876" roles="vocal/2+image_feat/2" />
+                <role id="M-VGMDB-AR-11436" roles="vocal/2+image_feat/2" />
             </entry>
             <entry id="$-2" title="Hello Alone -Yui Ballade-">
                 <musicConsumedProgress length="4:53" />
+                <role id="M-VGMDB-AR-11436" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -40,12 +43,15 @@
 
             <entry id="$-1" title="エブリデイワールド">
                 <musicConsumedProgress length="4:22" />
+                <role id="M-VGMDB-AR-6876" roles="vocal/2+image_feat/2" />
+                <role id="M-VGMDB-AR-11436" roles="vocal/2+image_feat/2" />
             </entry>
             <entry
                 id="$-3"
                 title=" Everyday World -Ballade Arrange- Yui Solo Ver."
             >
                 <musicConsumedProgress length="5:29" />
+                <role id="M-VGMDB-AR-11436" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -58,6 +64,8 @@
             <entry id="$-1" title="Diamond no Jundo">
                 <musicConsumedProgress length="3:27" />
                 <music base="0.26" />
+                <role id="M-VGMDB-AR-6876" roles="vocal/2+image_feat/2" />
+                <role id="M-VGMDB-AR-11436" roles="vocal/2+image_feat/2" />
             </entry>
         </entry>
 

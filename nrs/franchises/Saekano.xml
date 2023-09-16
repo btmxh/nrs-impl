@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3305" title="Saenai Heroine no Sodatekata">
         <entry
@@ -92,11 +92,15 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/299454 -->
         <music base="0.29" />
         <musicConsumedProgress length="5:12" generatedBy="user" />
+        <role id="M-20220113T154228" roles="arrange+image/2" />
+        <role id="M-VGMDB-AR-11958" roles="vocal+image/2" />
     </entry>
 
     <entry id="M-20220117T170733-2" title="Colorful. (kamaboko remix)">
         <!-- Length source: https://www.youtube.com/watch?v=FkUIAeBcVUw -->
         <music base="0.38" />
         <musicConsumedProgress length="5:04" generatedBy="user" />
+        <role id="M-20220117T170733-3" roles="arrange+image/2" />
+        <role id="M-VGMDB-AR-11958" roles="vocal+image/2" />
     </entry>
 </document>

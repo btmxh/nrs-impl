@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-504" title="K-On!">
         <entry id="M-VGMDB-AL-20118" title="Utauyo!!MIRACLE / HO-KAGO TEA TIME">
@@ -10,6 +10,7 @@
                 <!-- binfy's favorite osu! beatmap + sotarks made a map for him XDDDDD -->
                 <meme strength="0.1" length="6" />
                 <music base="0.36" />
+                <role id="M-VGMDB-AR-8870" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -23,6 +24,7 @@
                 <musicConsumedProgress length="4:42" />
 
                 <music base="0.13" />
+                <role id="M-VGMDB-AR-8870" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -35,16 +37,11 @@
             <entry id="$-2" title="U&amp;I">
                 <musicConsumedProgress length="4:36" />
                 <music base="0.18" />
+                <role id="M-VGMDB-AR-8870" roles="vocal+image" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-8870" title="HO-KAGO TEA TIME">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-20118" />
-                <contains id="M-VGMDB-AL-21146" />
-                <contains id="M-VGMDB-AL-22848" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-8870" title="HO-KAGO TEA TIME" />
 
         <!-- Kinda comfy. But not that much. -->
         <nei base="0.5" emotions="MP">

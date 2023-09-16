@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- THE ORTENSIA INCIDENT <<<<<<<<<<<<<<<<<< KOIKAKE DARK LORE -->
     <!-- <<<<<<<<<<<<<<<<<< SHERRY BACKSTORY (NO IT'S NOT STFU) -->
@@ -113,6 +113,7 @@
             <entry id="$-14" title="東の空から始まる世界">
                 <musicConsumedProgress length="4:01" />
                 <music base="0.53" />
+                <role id="M-VGMDB-AR-4276" roles="vocal+image" />
             </entry>
 
             <entry id="$-25" title="GLORIOUS DAYS">
@@ -124,6 +125,7 @@
                 <music base="0.56" />
                 <!-- <nei base="Emotion.CU" emotions="0.2" /> -->
                 <!-- :Pause: :pepeLaugh: -->
+                <role id="M-VGMDB-AR-4276" roles="vocal+image" />
             </entry>
 
             <!-- classic "too lazy to rank all of the tracks" -->
@@ -201,6 +203,7 @@
 
             <!-- Để trái tim này bước đi... -->
             <!-- For this heart to keep going forward... -->
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
     </entry>
 
@@ -217,8 +220,8 @@
     >
         <aei base="a_base" emotions="a_emotions">
             <script>
-                this.value[0].contributors.set(this.parent.entry.value.id, a_contribution);
-                this.value[0].contributors.set("V-VNDB-17516", 1.0 - a_contribution);
+                this.value[0].contributors.set(this.parent.entry.value.id, this.root.context.api.newScalarMatrix(a_contribution));
+                this.value[0].contributors.set("V-VNDB-17516", this.root.context.api.newScalarMatrix(1.0 - a_contribution));
             </script>
             <children />
         </aei>
@@ -231,8 +234,8 @@
     >
         <nei base="a_base" emotions="a_emotions">
             <script>
-                this.value[0].contributors.set(this.parent.entry.value.id, a_contribution);
-                this.value[0].contributors.set("V-VNDB-17516", 1.0 - a_contribution);
+                this.value[0].contributors.set(this.parent.entry.value.id, this.root.context.api.newScalarMatrix(a_contribution));
+                this.value[0].contributors.set("V-VNDB-17516", this.root.context.api.newScalarMatrix(1.0 - a_contribution));
             </script>
             <children />
         </nei>
@@ -245,8 +248,8 @@
     >
         <cry emotions="a_emotions">
             <script>
-                this.value[0].contributors.set(this.parent.entry.value.id, a_contribution);
-                this.value[0].contributors.set("V-VNDB-17516", 1.0 - a_contribution);
+                this.value[0].contributors.set(this.parent.entry.value.id, this.root.context.api.newScalarMatrix(a_contribution));
+                this.value[0].contributors.set("V-VNDB-17516", this.root.context.api.newScalarMatrix(1.0 - a_contribution));
             </script>
             <children />
         </cry>

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- the first CP farmer in NRS -->
     <!-- but they got dropped sadge -->
@@ -46,11 +46,13 @@
                 <musicConsumedProgress length="4:36" />
                 <music base="0.46" />
                 <remix id="M-20230524T223735" />
+                <role id="M-VGMDB-AR-15361" roles="vocal/4+image_feat/4" />
                 <!-- make v-tuber a thing (hanayori dorm bs) -->
                 <!-- and when hanayori bs dead, vtuber dead lmfao -->
                 <!-- and then hololive becomes le boat xd -->
                 <!-- t. clueless cultural capitalist not :aware: of big brother :skull: -->
                 <!-- t. clueless nayuta fanboy not REDACTEDREDACTEDREDACTEDREDACTED -->
+                <role id="M-VGMDB-AR-6783" roles="vocal/45+image_feat/4" />
             </entry>
 
             <entry id="$-2" title="One Step">

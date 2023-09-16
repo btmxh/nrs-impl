@@ -1,9 +1,11 @@
 import { writeCSV } from "csv";
-import { Id, Entry, Result, deserializeBulk } from "nrslib";
+import { Id, Entry, Result } from "nrslib/mod.ts";
+import { deserializeBulk } from "nrslib/exts/DAH_serialize_json.ts";
 
 // Change this to change the CSV format
 const labels = [
   "ID",
+  "Type",
   "Title",
   "Status",
   "MAL normalized score",
@@ -28,11 +30,12 @@ function output(id: Id, entry: Entry, score: Result) {
   const smeta = score["DAH_meta"] as any;
   return [
     id,
+    emeta["DAH_entry_type"],
     emeta["DAH_entry_title"],
     (emeta?.["DAH_entry_progress"] ?? {})?.["status"] ?? "Unknown",
     smeta["DAH_anime_normalize"]["score"],
     smeta["DAH_overall_score"],
-    ...score.overallVector,
+    ...score.overallVector.data,
   ];
 }
 

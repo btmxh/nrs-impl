@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- (1) - - - - - - - (2) -->
     <!-- (1)        (1)       (1) -->
@@ -26,6 +26,7 @@
                 <music base="0.46" />
                 <osuSong personal="0.6" community="0.8" />
                 <remix id="M-20220130T185336-2" />
+                <role id="M-VGMDB-AR-15350" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -59,5 +60,6 @@
         <music base="0.38" />
         <musicConsumedProgress length="0:36" generatedBy="user" />
         <osuSong personal="0.6" community="0.8" />
+        <role id="M-20220130T185336-1" roles="vocal" />
     </entry>
 </document>

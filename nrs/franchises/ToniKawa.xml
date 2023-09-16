@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-10135" title="Tonikaku Kawaii">
         <entry id="A-MAL-41389" title="Tonikaku Kawaii">
@@ -29,6 +29,8 @@
             <entry id="$-1" title="Koi no Uta (feat. Yuzaki Tsukasa)">
                 <musicConsumedProgress length="3:29" />
                 <music base="0.40" />
+                <role id="M-VGMDB-AR-26898" roles="vocal/2+image_feat" />
+                <role id="M-VGMDB-AR-30942" roles="prod+image" />
             </entry>
         </entry>
     </entry>

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- original of irodori covers -->
     <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP">
@@ -62,6 +62,7 @@
                 <!-- Length source: https://osu.ppy.sh/beatmapsets/1667264 -->
                 <music base="0.34" />
                 <musicConsumedProgress length="5:16" generatedBy="user" />
+                <role id="M-20220130T165739-1" roles="vocal+image" />
             </entry>
 
             <entry
@@ -71,17 +72,14 @@
                 <!-- Length source: https://www.youtube.com/watch?v=iRNH_wF7nrc -->
                 <music base="0.25" />
                 <musicConsumedProgress length="5:15" generatedBy="user" />
+                <role id="M-20220130T165739-1" roles="vocal+image" />
             </entry>
         </entry>
 
-        <entry id="M-20220130T165739-1" title="Irodorimidori">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <!-- times 0.6 because they are all covers -->
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-93299" />
-                <contains id="M-20220130T165739-2" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220130T165739-1"
+            title="Irodorimidori"
+            entrytype="MusicArtist"
+        />
     </entry>
 </document>

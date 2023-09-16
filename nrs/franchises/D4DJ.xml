@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-8339" title="D4DJ">
         <entry id="A-MAL-39681" title="D4DJ: First Mix">
@@ -22,14 +22,11 @@
             <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.2" />
         </entry>
 
-        <entry id="M-20220823T115611" title="Happy Around!">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-107257" />
-                <contains id="M-VGMDB-AL-108580-2" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220823T115611"
+            title="Happy Around!"
+            entrytype="MusicArtist"
+        />
 
         <entry
             id="M-VGMDB-AL-107257"
@@ -39,6 +36,7 @@
             <entry id="$-3" title="Guruguru DJ TURN!!">
                 <musicConsumedProgress length="3:43" />
                 <music base="0.31" />
+                <role id="M-20220823T115611" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -52,6 +50,7 @@
                 <!-- Length source: https://d4dj.fandom.com/wiki/Brand_New_World -->
                 <musicConsumedProgress length="4:06" generatedBy="user" />
                 <music base="0.44" />
+                <role id="M-20220823T115611" roles="vocal+image" />
             </entry>
         </entry>
     </entry>

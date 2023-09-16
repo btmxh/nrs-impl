@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <!-- kind of a mess rn -->
 <document>
     <entry id="M-VGMDB-AR-12225" title="xi">
@@ -22,7 +22,11 @@
         </entry>
     </entry>
 
-    <entry id="M-20220410T181408" title="United (L.A.O.S Remix)">
+    <entry
+        id="M-20220410T181408"
+        title="United (L.A.O.S Remix)"
+        entrytype="MusicTrack"
+    >
         <!-- we kicked a kid, united -->
         <!-- r/osuplace stuff -->
         <meme strength="0.5" length="6" />
@@ -69,6 +73,7 @@
         <entry id="$-2" title="COLORFUL DAYS!!">
             <musicConsumedProgress length="4:31" />
             <music base="0.63" />
+            <role id="M-VGMDB-AR-3240" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -100,6 +105,7 @@
 
             <!-- "khi chân trời đầy nước mắt -->
             <!-- nước mắt sẽ hóa thành ước mơ" -->
+            <role id="M-VGMDB-AR-3240" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -111,6 +117,7 @@
         <entry id="$-1" title="Haruoto＊Bell fullver.">
             <musicConsumedProgress length="4:24" />
             <music base="0.58" />
+            <role id="M-VGMDB-AR-3240" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -513,13 +520,14 @@
             <osuSong personal="0.3" community="0.75" />
         </entry>
     </entry>
-    <entry id="M-20221202T205325" title="Yume Chizu">
+    <entry id="M-20221202T205325" title="Yume Chizu" entrytype="MusicTrack">
         <music base="0.59" />
         <osuSong personal="0.75" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/467337#osu/999944 -->
         <musicConsumedProgress length="3:07" />
+        <role id="M-VGMDB-AR-4276" roles="vocal+image" />
     </entry>
-    <entry id="M-20221202T205227" title="Yubi Bouenkyou">
+    <entry id="M-20221202T205227" title="Yubi Bouenkyou" entrytype="MusicTrack">
         <music base="0.54" />
         <osuSong personal="1.0" community="0.8" />
         <!-- Length source: https://www.youtube.com/watch?v=p3Zuryi74ts -->
@@ -528,37 +536,40 @@
     <entry
         id="M-20221202T205118"
         title="World's End, Girl's Rondo(Asterisk DnB Remix)"
+        entrytype="MusicTrack"
     >
         <music base="0.59" />
         <osuSong personal="0.75" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/331499 -->
         <musicConsumedProgress length="5:42" />
+        <musicvar arrange="0.75" />
+        <role id="M-20220113T154228" roles="arrange+image/2" />
     </entry>
-    <entry id="M-20221202T205043" title="Wizard's Tower">
+    <entry id="M-20221202T205043" title="Wizard's Tower" entrytype="MusicTrack">
         <music base="0.38" />
         <osuSong personal="0.75" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/985788 -->
         <musicConsumedProgress length="2:40" />
     </entry>
-    <entry id="M-20221202T204908" title="utopia">
+    <entry id="M-20221202T204908" title="utopia" entrytype="MusicTrack">
         <music base="0.43" />
         <osuSong personal="0.8" community="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1117851 -->
         <musicConsumedProgress length="4:21" />
     </entry>
-    <entry id="M-20221202T204859" title="Uta">
+    <entry id="M-20221202T204859" title="Uta" entrytype="MusicTrack">
         <music base="0.40" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/410162 -->
         <musicConsumedProgress length="8:48" />
     </entry>
-    <entry id="M-20221202T204820" title="The Big Black">
+    <entry id="M-20221202T204820" title="The Big Black" entrytype="MusicTrack">
         <music base="0.39" />
         <osuSong personal="1.0" community="1.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/41823 -->
         <musicConsumedProgress length="2:19" />
     </entry>
-    <entry id="M-20221202T204712" title="Start Again">
+    <entry id="M-20221202T204712" title="Start Again" entrytype="MusicTrack">
         <music base="0.44" />
         <osuSong personal="1.0" community="0.6" />
         <!-- Length source: https://open.spotify.com/track/7b1nJaOmQowF0ySjQuCrHw -->
@@ -567,37 +578,58 @@
     <entry
         id="M-20221202T204553"
         title="(Foreground Eclipse) Songs Compilation"
+        entrytype="MusicTrack"
     >
         <music base="0.66" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/765497 -->
         <musicConsumedProgress length="6:39" />
     </entry>
-    <entry id="M-20221202T204342" title="Sidetracked Day">
+    <entry
+        id="M-20221202T204342"
+        title="Sidetracked Day"
+        entrytype="MusicTrack"
+    >
         <music base="0.50" />
         <osuSong personal="0.9" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1008679 -->
         <musicConsumedProgress length="5:35" />
     </entry>
-    <entry id="M-20221202T203918" title="Shin Sekai no α">
+    <entry
+        id="M-20221202T203918"
+        title="Shin Sekai no α"
+        entrytype="MusicTrack"
+    >
         <music base="0.53" />
         <osuSong personal="0.75" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1370577#osu/2833948 -->
         <musicConsumedProgress length="4:21" />
     </entry>
-    <entry id="M-20221202T203633" title="Sakurairo Time Capsule">
+    <entry
+        id="M-20221202T203633"
+        title="Sakurairo Time Capsule"
+        entrytype="MusicTrack"
+    >
         <music base="0.60" />
         <osuSong personal="0.7" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1146780 -->
         <musicConsumedProgress length="4:20" />
     </entry>
-    <entry id="M-20221202T203601" title="Road of Resistance">
+    <entry
+        id="M-20221202T203601"
+        title="Road of Resistance"
+        entrytype="MusicTrack"
+    >
         <music base="0.55" />
         <osuSong personal="0.6" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/399372 -->
         <musicConsumedProgress length="5:00" />
     </entry>
-    <entry id="M-20221202T202818" title="Ringo Uri no Utakata Shoujo">
+    <entry
+        id="M-20221202T202818"
+        title="Ringo Uri no Utakata Shoujo"
+        entrytype="MusicTrack"
+    >
         <music base="0.58" />
         <osuSong personal="0.7" community="0.0" />
         <!-- ayumu-era shelter lmfao -->
@@ -605,43 +637,59 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/752073 -->
         <musicConsumedProgress length="5:32" />
     </entry>
-    <entry id="M-20221202T202803" title="REASON">
+    <entry id="M-20221202T202803" title="REASON" entrytype="MusicTrack">
         <music base="0.46" />
         <osuSong personal="0.5" community="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/989540 -->
         <musicConsumedProgress length="5:27" />
     </entry>
-    <entry id="M-20221202T202709" title="RAISE MY SWORD">
+    <entry id="M-20221202T202709" title="RAISE MY SWORD" entrytype="MusicTrack">
         <music base="0.40" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/889855 -->
         <musicConsumedProgress length="7:02" />
     </entry>
-    <entry id="M-20221202T202651" title="Plasma Gun">
+    <entry id="M-20221202T202651" title="Plasma Gun" entrytype="MusicTrack">
         <music base="0.40" />
         <osuSong personal="0.9" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1341551 -->
         <musicConsumedProgress length="0:58" />
     </entry>
-    <entry id="M-20221202T202626" title="Pink Kurage to, Sotto, Kiss o Shita.">
+    <entry
+        id="M-20221202T202626"
+        title="Pink Kurage to, Sotto, Kiss o Shita."
+        entrytype="MusicTrack"
+    >
         <music base="0.67" />
         <osuSong personal="0.25" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1491009 -->
         <musicConsumedProgress length="3:49" />
     </entry>
-    <entry id="M-20221202T202617" title="Pastel Subliminal &amp; Synesthesia">
+    <entry
+        id="M-20221202T202617"
+        title="Pastel Subliminal &amp; Synesthesia"
+        entrytype="MusicTrack"
+    >
         <music base="0.56" />
         <osuSong personal="0.4" community="0.6" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1063842 -->
         <musicConsumedProgress length="8:00" />
     </entry>
-    <entry id="M-20221202T202453" title="PADORU / PADORU">
+    <entry
+        id="M-20221202T202453"
+        title="PADORU / PADORU"
+        entrytype="MusicTrack"
+    >
         <music base="0.29" />
         <osuSong personal="0.75" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1073074 -->
         <musicConsumedProgress length="0:32" />
     </entry>
-    <entry id="M-20221202T202443" title="Natsukoi Hanabi">
+    <entry
+        id="M-20221202T202443"
+        title="Natsukoi Hanabi"
+        entrytype="MusicTrack"
+    >
         <music base="0.40" />
         <osuSong personal="0.7" community="0.3" />
         <!-- Length source: https://www.youtube.com/watch?v=6ABGdYFQbLk -->
@@ -650,91 +698,129 @@
     <entry
         id="M-20221202T202405"
         title="Natsu no Owari, Koi no Hajimari (yuikonnu)"
+        entrytype="MusicTrack"
     >
         <music base="0.53" />
         <osuSong personal="0.6" community="0.1" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/206335#osu/486613 -->
         <musicConsumedProgress length="4:02" />
+        <role id="M-VGMDB-AR-4276" roles="vocal+image" />
     </entry>
-    <entry id="M-20221202T202350" title="Moratorium no Oto">
+    <entry
+        id="M-20221202T202350"
+        title="Moratorium no Oto"
+        entrytype="MusicTrack"
+    >
         <music base="0.46" />
         <osuSong personal="0.7" community="0.0" />
         <!-- Length source: https://www.youtube.com/watch?v=1jowaGYaes4 -->
         <musicConsumedProgress length="4:00" />
     </entry>
-    <entry id="M-20221202T202334" title="Mopemope">
+    <entry id="M-20221202T202334" title="Mopemope" entrytype="MusicTrack">
         <music base="0.36" />
         <osuSong personal="0.6" community="0.7" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1097600 -->
         <musicConsumedProgress length="1:50" />
     </entry>
-    <entry id="M-20221202T202313" title="Mizuoto to Curtain">
+    <entry
+        id="M-20221202T202313"
+        title="Mizuoto to Curtain"
+        entrytype="MusicTrack"
+    >
         <music base="0.49" />
         <osuSong personal="0.7" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1001653 -->
         <musicConsumedProgress length="2:47" />
     </entry>
-    <entry id="M-20221202T202258" title="Milk Crown on Sonnetica">
+    <entry
+        id="M-20221202T202258"
+        title="Milk Crown on Sonnetica"
+        entrytype="MusicTrack"
+    >
         <music base="0.45" />
         <osuSong personal="0.6" community="0.3" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/327557 -->
         <musicConsumedProgress length="3:33" />
     </entry>
-    <entry id="M-20221202T201347" title="Koisuru MODE">
+    <entry id="M-20221202T201347" title="Koisuru MODE" entrytype="MusicTrack">
         <music base="0.56" />
         <osuSong personal="0.5" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1457658 -->
         <musicConsumedProgress length="3:56" />
     </entry>
-    <entry id="M-20221202T201210" title="Koi no Hime Hime Pettanko">
+    <entry
+        id="M-20221202T201210"
+        title="Koi no Hime Hime Pettanko"
+        entrytype="MusicTrack"
+    >
         <music base="0.36" />
         <osuSong personal="0.75" community="0.75" />
         <!-- Length source: https://www.youtube.com/watch?v=hPSQ23NRED8 -->
         <musicConsumedProgress length="4:01" />
     </entry>
-    <entry id="M-20221202T201031" title="Kinou ni Kanaderu Ashita no Uta">
+    <entry
+        id="M-20221202T201031"
+        title="Kinou ni Kanaderu Ashita no Uta"
+        entrytype="MusicTrack"
+    >
         <music base="0.44" />
         <osuSong personal="0.3" community="0.6" />
         <!-- Length source: https://www.youtube.com/watch?v=N2oWyMXWC5Y -->
         <musicConsumedProgress length="5:03" />
     </entry>
-    <entry id="M-20221202T194352" title="Kakurenbo">
+    <entry id="M-20221202T194352" title="Kakurenbo" entrytype="MusicTrack">
         <music base="0.63" />
         <osuSong personal="0.5" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1466465 -->
         <musicConsumedProgress length="4:52" />
     </entry>
-    <entry id="M-20221202T210619" title="IMAGE -MATERIAL- &lt;Version 0&gt;">
+    <entry
+        id="M-20221202T210619"
+        title="IMAGE -MATERIAL- &lt;Version 0&gt;"
+        entrytype="MusicTrack"
+    >
         <music base="0.33" />
         <osuSong personal="0.7" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/93523 -->
         <musicConsumedProgress length="6:25" />
     </entry>
-    <entry id="M-20221202T193932" title="Hoshikuzu no Contrail">
+    <entry
+        id="M-20221202T193932"
+        title="Hoshikuzu no Contrail"
+        entrytype="MusicTrack"
+    >
         <music base="0.58" />
         <osuSong personal="0.6" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/778526 -->
         <musicConsumedProgress length="4:21" />
     </entry>
-    <entry id="M-20221202T193824" title="Horrible Kids">
+    <entry id="M-20221202T193824" title="Horrible Kids" entrytype="MusicTrack">
         <music base="0.40" />
         <osuSong personal="0.5" community="0.6" />
         <!-- Length source: https://www.youtube.com/watch?v=UlECVY129fY -->
         <musicConsumedProgress length="3:03" />
     </entry>
-    <entry id="M-20221202T193801" title="HONESTY">
+    <entry id="M-20221202T193801" title="HONESTY" entrytype="MusicTrack">
         <music base="0.50" />
         <osuSong personal="0.6" community="0.9" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/586121 -->
         <musicConsumedProgress length="5:02" />
     </entry>
-    <entry id="M-20221202T193602" title="Hitokoto no Kyori">
+    <entry
+        id="M-20221202T193602"
+        title="Hitokoto no Kyori"
+        entrytype="MusicTrack"
+    >
         <music base="0.41" />
         <osuSong personal="0.5" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/667290 -->
         <musicConsumedProgress length="3:48" />
     </entry>
-    <entry id="M-20221202T193402" title="Hitohira no, Daisuki o,">
+    <entry
+        id="M-20221202T193402"
+        title="Hitohira no, Daisuki o,"
+        entrytype="MusicTrack"
+    >
         <music base="0.65" />
         <osuSong personal="0.1" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1614847 -->
@@ -743,37 +829,54 @@
     <entry
         id="M-20221202T192736"
         title="Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?"
+        entrytype="MusicTrack"
     >
         <music base="0.53" />
         <osuSong personal="0.6" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1312124 -->
         <musicConsumedProgress length="3:19" />
     </entry>
-    <entry id="M-20221202T192642" title="High Free Spirits vs. DREAM SOLISTER">
+    <entry
+        id="M-20221202T192642"
+        title="High Free Spirits vs. DREAM SOLISTER"
+        entrytype="MusicTrack"
+    >
         <music base="0.45" />
         <osuSong personal="0.4" community="0.3" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/564534 -->
         <musicConsumedProgress length="1:51" />
     </entry>
-    <entry id="M-20221202T192505" title="Hatsune Miku no Shoushitsu">
+    <entry
+        id="M-20221202T192505"
+        title="Hatsune Miku no Shoushitsu"
+        entrytype="MusicTrack"
+    >
         <music base="0.43" />
         <osuSong personal="0.4" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/125843 -->
         <musicConsumedProgress length="4:35" />
     </entry>
-    <entry id="M-20221202T192314" title="Happppy song">
+    <entry id="M-20221202T192314" title="Happppy song" entrytype="MusicTrack">
         <music base="0.53" />
         <osuSong personal="0.75" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1016769 -->
         <musicConsumedProgress length="5:19" />
     </entry>
-    <entry id="M-20221202T192116" title="Hanatachi ni Kibou o (2020 Remaster)">
+    <entry
+        id="M-20221202T192116"
+        title="Hanatachi ni Kibou o (2020 Remaster)"
+        entrytype="MusicTrack"
+    >
         <music base="0.54" />
         <osuSong personal="0.5" community="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1378089 -->
         <musicConsumedProgress length="2:45" />
     </entry>
-    <entry id="M-20221202T191926" title="Go Go Carlito (Who's That Boy?)">
+    <entry
+        id="M-20221202T191926"
+        title="Go Go Carlito (Who's That Boy?)"
+        entrytype="MusicTrack"
+    >
         <music base="0.35" />
         <osuSong personal="0.3" community="0.6" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1063490 -->
@@ -794,13 +897,17 @@
             <osuSong personal="0.2" community="0.3" />
         </entry>
     </entry>
-    <entry id="M-20221202T191703" title="Galaxy Collapse">
+    <entry
+        id="M-20221202T191703"
+        title="Galaxy Collapse"
+        entrytype="MusicTrack"
+    >
         <music base="0.34" />
         <osuSong personal="0.3" community="0.75" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/396221 -->
         <musicConsumedProgress length="5:54" />
     </entry>
-    <entry id="M-20221202T191512" title="First Storm">
+    <entry id="M-20221202T191512" title="First Storm" entrytype="MusicTrack">
         <music base="0.50" />
         <osuSong personal="0.75" community="0.5" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/696175 -->
@@ -815,6 +922,7 @@
     <entry
         id="M-20221202T191455"
         title="Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)"
+        entrytype="MusicTrack"
     >
         <music base="0.43" />
         <osuSong personal="0.6" community="0.75" />
@@ -825,6 +933,7 @@
     <entry
         id="M-20221202T190955"
         title="Eu Li Na Biblia (Sped Up &amp; Cut Ver.)"
+        entrytype="MusicTrack"
     >
         <music base="0.44" />
         <osuSong personal="0.1" community="0.2" />
@@ -832,19 +941,19 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1769206 -->
         <musicConsumedProgress length="1:36" />
     </entry>
-    <entry id="M-20221202T184056" title="Dramatic Star">
+    <entry id="M-20221202T184056" title="Dramatic Star" entrytype="MusicTrack">
         <music base="0.45" />
         <osuSong personal="0.6" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/925973#osu/1934098 -->
         <musicConsumedProgress length="3:45" />
     </entry>
-    <entry id="M-20221202T184040" title="DORAEMON">
+    <entry id="M-20221202T184040" title="DORAEMON" entrytype="MusicTrack">
         <music base="0.34" />
         <osuSong personal="0.5" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1210297#osu/2519704 -->
         <musicConsumedProgress length="3:56" />
     </entry>
-    <entry id="M-20221202T210602" title="Cycle Hit">
+    <entry id="M-20221202T210602" title="Cycle Hit" entrytype="MusicTrack">
         <music base="0.39" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/636839 -->
         <musicConsumedProgress length="5:07" />
@@ -852,12 +961,17 @@
     <entry
         id="M-20221202T182453"
         title="Clarity feat. Foxes (IOSYS uno DENPA Remix)"
+        entrytype="MusicTrack"
     >
         <music base="0.51" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/615644 -->
         <musicConsumedProgress length="3:24" />
     </entry>
-    <entry id="M-20221127T140609" title="Bass Slut (Original Mix)">
+    <entry
+        id="M-20221127T140609"
+        title="Bass Slut (Original Mix)"
+        entrytype="MusicTrack"
+    >
         <music base="0.21" />
         <osuSong personal="0.4" community="0.1" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/983911 -->
@@ -866,6 +980,7 @@
     <entry
         id="M-20221127T140415"
         title="Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)"
+        entrytype="MusicTrack"
     >
         <music base="0.55" />
         <osuSong personal="0.6" community="0.75" />
@@ -918,7 +1033,7 @@
         </source>
         <visual type="albumArt" base="0.4" unique="0.5" />
 
-        <entry id="$-7" title="Ange du Blanc Pur">
+        <entry id="$-7" title="Ange du Blanc Pur" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -958,9 +1073,14 @@
                 length="4:03"
                 generatedBy="fill_music_metadata.dart v0.1.1"
             />
+            <role id="M-VGMDB-AR-8196" roles="vocal+image" />
         </entry>
 
-        <entry id="$-8" title="Raririreru, Ririro, Riraro">
+        <entry
+            id="$-8"
+            title="Raririreru, Ririro, Riraro"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url
@@ -985,21 +1105,30 @@
             <music base="0.61" />
             <remix id="M-VGMDB-AL-108194-5" />
             <nei base="0.2" emotions="CU" />
+            <role id="M-VGMDB-AR-8196" roles="vocal+image" />
         </entry>
     </entry>
-    <entry id="M-20221127T140303" title="Akaneiro no Mahou">
+    <entry
+        id="M-20221127T140303"
+        title="Akaneiro no Mahou"
+        entrytype="MusicTrack"
+    >
         <music base="0.63" />
         <osuSong personal="0.1" community="0.0" />
         <!-- Length source: https://www.youtube.com/watch?v=UJDn-4UdwiI -->
         <musicConsumedProgress length="4:30" />
     </entry>
-    <entry id="M-20221202T210523" title="Ai no Sukima (Rock Cover)">
+    <entry
+        id="M-20221202T210523"
+        title="Ai no Sukima (Rock Cover)"
+        entrytype="MusicTrack"
+    >
         <music base="0.41" />
         <osuSong personal="0.3" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1092468 -->
         <musicConsumedProgress length="1:31" />
     </entry>
-    <entry id="M-20221127T140129" title="Ai no Sukima">
+    <entry id="M-20221127T140129" title="Ai no Sukima" entrytype="MusicTrack">
         <music base="0.40" />
         <osuSong personal="0.4" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1323207 -->
@@ -1009,13 +1138,14 @@
     <entry
         id="M-20221127T140107"
         title="Ai Kotoba III (sana × 000 × mary ver.)"
+        entrytype="MusicTrack"
     >
         <music base="0.39" />
         <osuSong personal="0.05" community="0.0" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1149018 -->
         <musicConsumedProgress length="4:05" />
     </entry>
-    <entry id="M-20221127T135748" title="AaAaAaAAaAaAAa">
+    <entry id="M-20221127T135748" title="AaAaAaAAaAaAAa" entrytype="MusicTrack">
         <music base="0.29" />
         <osuSong personal="0.2" community="0.0" />
         <!-- Length source: https://www.nicovideo.jp/watch/sm6816232 -->
@@ -1036,7 +1166,7 @@
         </entry>
     </entry>
 
-    <entry id="M-20221224T221424" title="Lionheart">
+    <entry id="M-20221224T221424" title="Lionheart" entrytype="MusicTrack">
         <!-- Length source: https://open.spotify.com/album/6CqNBwcHMterjF1qMiNmcY -->
         <musicConsumedProgress length="4:38" />
         <music base="0.34" />
@@ -1046,7 +1176,7 @@
         <!-- This cross will lead to light 💡 Follow Richard Lionheart 🙏 -->
     </entry>
 
-    <entry id="M-20221224T221533" title="Glory Days">
+    <entry id="M-20221224T221533" title="Glory Days" entrytype="MusicTrack">
         <!-- Length source: https://fellowshipmetal.bandcamp.com/album/the-saberlight-chronicles -->
         <musicConsumedProgress length="4:53" />
         <music base="0.35" />

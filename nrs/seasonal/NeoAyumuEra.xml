@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <!-- also contain many related entries -->
 <document>
     <!-- google kano 2023 -->
@@ -20,118 +20,88 @@
             <contributor id="M-VGMDB-AR-35619" factor="0.25" />
         </meme>
 
-        <contains id="M-VGMDB-AL-108194-4" factor="vocal+image/2" />
-        <contains factor="vocal+image">
-            <contains id="M-VGMDB-AL-123922-1" />
-            <contains id="M-VGMDB-AL-123922-2" />
-            <contains id="M-VGMDB-AL-123922-3" />
-            <contains id="M-VGMDB-AL-123922-4" />
-            <contains id="M-VGMDB-AL-123922-5" />
-            <contains id="M-VGMDB-AL-123922-6" />
-            <contains id="M-VGMDB-AL-123922-7" />
+        <entry
+            id="M-20230608T130823"
+            title="Ashita o Miageta Natsu no Owari / nayuta"
+            entrytype="MusicTrack"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="niconico"
+                        src="https://www.nicovideo.jp/watch/sm31812209"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=w1HcRM9UldU"
+                    />
+                </urls>
+            </source>
+            <music base="0.7" />
+            <musicConsumedProgress length="5:47" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
+        </entry>
 
-            <entry
-                id="M-20230608T130823"
-                title="Ashita o Miageta Natsu no Owari / nayuta"
-            >
-                <source>
-                    <urls>
-                        <url
-                            name="niconico"
-                            src="https://www.nicovideo.jp/watch/sm31812209"
-                        />
-                        <url
-                            name="youtube"
-                            src="https://www.youtube.com/watch?v=w1HcRM9UldU"
-                        />
-                    </urls>
-                </source>
-                <music base="0.7" />
-                <musicConsumedProgress length="5:47" />
-            </entry>
+        <entry
+            id="M-20230626T231018"
+            title="Ai Kotoba II (nayuta ver.)"
+            entrytype="MusicTrack"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="niconico"
+                        src="https://www.nicovideo.jp/watch/sm23151549"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=OphpSs9NP2A"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="4:27" />
+            <music base="0.45" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
+        </entry>
 
-            <entry id="M-20230626T231018" title="Ai Kotoba II (nayuta ver.)">
-                <source>
-                    <urls>
-                        <url
-                            name="niconico"
-                            src="https://www.nicovideo.jp/watch/sm23151549"
-                        />
-                        <url
-                            name="youtube"
-                            src="https://www.youtube.com/watch?v=OphpSs9NP2A"
-                        />
-                    </urls>
-                </source>
-                <musicConsumedProgress length="4:27" />
-                <music base="0.45" />
-            </entry>
+        <entry
+            id="M-20230626T231039"
+            title="Ai Kotoba III (nayuta ver.)"
+            entrytype="MusicTrack"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="niconico"
+                        src="https://www.nicovideo.jp/watch/sm34632239"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="4:07" />
+            <music base="0.4" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
+        </entry>
 
-            <entry id="M-20230626T231039" title="Ai Kotoba III (nayuta ver.)">
-                <source>
-                    <urls>
-                        <url
-                            name="niconico"
-                            src="https://www.nicovideo.jp/watch/sm34632239"
-                        />
-                    </urls>
-                </source>
-                <musicConsumedProgress length="4:07" />
-                <music base="0.4" />
-            </entry>
+        <entry
+            id="M-20230627T210215"
+            title="Snow halation (nayuta Band Live ver.)"
+            entrytype="MusicTrack"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/live/w6CqugOeVSw?feature=share&amp;t=4800"
+                    />
+                </urls>
+            </source>
 
-            <entry
-                id="M-20230627T210215"
-                title="Snow halation (nayuta Band Live ver.)"
-            >
-                <source>
-                    <urls>
-                        <url
-                            name="youtube"
-                            src="https://www.youtube.com/live/w6CqugOeVSw?feature=share&amp;t=4800"
-                        />
-                    </urls>
-                </source>
-
-                <!-- AINT NO WAY BRO -->
-                <!-- she even sang love live songs -->
-                <music base="0.36" />
-                <musicConsumedProgress length="4:47" />
-            </entry>
-        </contains>
-
-        <contains factor="vocal+image*feat">
-            <contains id="M-VGMDB-AL-108196-1" />
-            <contains id="M-VGMDB-AL-108196-2" />
-            <contains id="M-VGMDB-AL-108196-3" />
-            <contains id="M-VGMDB-AL-108196-4" />
-            <contains id="M-VGMDB-AL-108196-5" />
-            <contains id="M-VGMDB-AL-108196-6" />
-            <contains id="M-VGMDB-AL-108196-7" />
-            <contains id="M-20230608T114243" />
-            <contains id="M-20230608T115639" />
-            <contains id="M-20230608T115640" />
-            <contains id="M-20230608T135642-1" />
-            <contains id="M-VGMDB-AL-123896-5" />
-            <contains id="M-20230608T140603-5" />
-            <contains id="M-20230608T140605-4" />
-            <contains id="M-20230608T140606-1" />
-            <contains id="M-20230608T140606-2" />
-            <contains id="M-20230608T140607-3" />
-            <contains id="M-20230608T140608-2" />
-        </contains>
-
-        <contains factor="inst/3+vocal+image">
-            <contains id="M-VGMDB-AL-98575-4" factor="inst/3+vocal+image" />
-            <contains id="M-20230608T132043-1" factor="inst/3+vocal+image" />
-            <contains id="M-20230608T113548-1" />
-            <contains id="M-20230608T113548-5" />
-            <contains id="M-20230805T090752-6" />
-        </contains>
-
-        <contains id="M-VGMDB-AL-98575-5" factor="inst/3+vocal/6+image*main" />
-        <contains id="M-VGMDB-AL-108194-5" factor="inst/3+image/2" />
-        <contains id="M-VGMDB-AL-74436-2" factor="vocal+image/2" />
+            <!-- AINT NO WAY BRO -->
+            <!-- she even sang love live songs -->
+            <music base="0.36" />
+            <musicConsumedProgress length="4:47" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
+        </entry>
 
         <contains id="M-VGMDB-AR-57255" factor="1/3" />
     </entry>
@@ -217,6 +187,9 @@
             <!-- CLC cope -->
             <aei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
             <musicConsumedProgress length="5:05" />
+            <!-- azuring the reunion -->
+            <role id="M-VGMDB-AR-29487" roles="inst" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+lyrics+image" />
         </entry>
 
         <entry id="$-5" title="空に架かる君の声。">
@@ -241,10 +214,15 @@
             <nei base="0.8" emotions="MP-0.7:CP-0.3" />
             <music base="0.7" />
             <musicConsumedProgress length="3:42" />
+            <role id="M-VGMDB-AR-6799" roles="vocal/7+lyrics+image/8" />
         </entry>
     </entry>
 
-    <entry id="M-20230805T090752" title="Imaginary Arcadia">
+    <entry
+        id="M-20230805T090752"
+        title="Imaginary Arcadia"
+        entrytype="MusicAlbum"
+    >
         <source>
             <urls>
                 <url
@@ -268,7 +246,7 @@
 
         <visual type="albumArt" base="0.3" unique="0.5" />
 
-        <entry id="$-6" title="Sympatheia">
+        <entry id="$-6" title="Sympatheia" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -296,10 +274,11 @@
             <aei base="0.3" emotions="MU" />
             <music base="0.5" />
             <musicConsumedProgress length="4:02" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+lyrics+image/2" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T113548" title="Portray Blue">
+    <entry id="M-20230608T113548" title="Portray Blue" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -318,7 +297,8 @@
         </source>
         <visual type="albumArt" base="0.6" unique="0.3" />
 
-        <entry id="$-1" title="Blue Canvas">
+        <!-- EGAKEEEEEEEEEEEEEEEEEEE -->
+        <entry id="$-1" title="Blue Canvas" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -345,8 +325,9 @@
             <!-- this song was funny since duopoly arc 2 btw -->
             <!-- wtf it had already been a year -->
             <meme from="2022-08-14" to="today" strength="0.2" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+lyrics+image" />
         </entry>
-        <entry id="$-5" title="Blue Knots">
+        <entry id="$-5" title="Blue Knots" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -364,16 +345,12 @@
             <music base="0.45" />
             <musicConsumedProgress length="4:10" />
             <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+lyrics+image" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AR-8196" title="Nanahira">
-        <!-- aka the hasegawa mii utaite -->
-        <contains id="M-VGMDB-AL-54237-7" factor="vocal+image" />
-        <contains id="M-VGMDB-AL-54237-8" factor="vocal+image" />
-        <contains id="M-VGMDB-AL-129048" factor="vocal+image" />
-        <contains id="M-VGMDB-AL-108194-5" factor="vocal+image/2" />
-    </entry>
+    <!-- aka the hasegawa mii utaite -->
+    <entry id="M-VGMDB-AR-8196" title="Nanahira" />
 
     <entry id="M-VGMDB-AL-108194" title="Nanairo Ribbon / Nanahira x nayuta">
         <visual type="albumArt" base="0.4" unique="0.5" />
@@ -382,6 +359,7 @@
             <musicConsumedProgress length="5:45" />
             <music base="0.61" />
             <nei base="0.3" emotions="CU" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image/2" />
         </entry>
 
         <entry id="$-5" title="Azure Reunion">
@@ -389,16 +367,15 @@
             <music base="0.75" />
             <!-- CLC cope -->
             <nei base="0.3" emotions="MU-0.1:MP-0.7:CP-0.2" />
+            <role id="M-VGMDB-AR-29487" roles="inst" />
+            <role id="M-VGMDB-AR-6799" roles="lyrics+image/2" />
+            <role id="M-VGMDB-AR-8196" roles="vocal+image/2" />
         </entry>
     </entry>
 
-    <entry id="M-VGMDB-AR-57255" title="La prière">
-        <contains factor="vocal+image">
-            <contains id="M-20230608T075843-1" />
-        </contains>
-    </entry>
+    <entry id="M-VGMDB-AR-57255" title="La prière" />
 
-    <entry id="M-20230608T075843" title="Chronologue">
+    <entry id="M-20230608T075843" title="Chronologue" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -415,7 +392,7 @@
                 />
             </urls>
         </source>
-        <entry id="$-1" title="Chronologue">
+        <entry id="$-1" title="Chronologue" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -434,10 +411,11 @@
             <!-- Length source: https://www.youtube.com/watch?v=S8MJvhgjXBY -->
             <musicConsumedProgress length="6:57" />
             <music base="0.55" />
+            <role id="M-VGMDB-AR-57255" roles="vocal+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T085741" title="FROZEN QUALIA">
+    <entry id="M-20230608T085741" title="FROZEN QUALIA" entrytype="MusicArtist">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -447,11 +425,9 @@
                 />
             </urls>
         </source>
-
-        <contains id="M-20230611T145256-1" factor="vocal+inst+image" />
     </entry>
 
-    <entry id="M-20230611T145256" title="Road movie">
+    <entry id="M-20230611T145256" title="Road movie" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -486,11 +462,12 @@
             </source>
             <music base="0.7" />
             <musicConsumedProgress length="4:16" />
+            <role id="M-20230608T085741" roles="vocal+prod+image" />
         </entry>
     </entry>
 
     <!-- pogpega em trai son tung -->
-    <entry id="M-20230608T085650" title="Mono.">
+    <entry id="M-20230608T085650" title="Mono." entrytype="MusicArtist">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -508,12 +485,13 @@
                 <url name="youtube" src="https://www.youtube.com/@Monopowan" />
             </urls>
         </source>
-
-        <contains id="M-20230608T135641-10" factor="inst+image*main" />
-        <contains id="M-20230608T135642-7" factor="inst+image*main" />
     </entry>
 
-    <entry id="M-20230608T120015" title="Ao no Hotaru Kotoba">
+    <entry
+        id="M-20230608T120015"
+        title="Ao no Hotaru Kotoba"
+        entrytype="MusicTrack"
+    >
         <source>
             <urls>
                 <url
@@ -571,6 +549,7 @@
             </source>
             <music base="0.5" />
             <musicConsumedProgress length="4:11" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
         <entry id="$-2" title="phosphophyllite">
             <source>
@@ -589,6 +568,7 @@
             </source>
             <music base="0.4" />
             <musicConsumedProgress length="4:23" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
         <entry id="$-3" title="morganite">
             <source>
@@ -607,6 +587,7 @@
             </source>
             <music base="0.15" />
             <musicConsumedProgress length="4:05" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
         <entry id="$-4" title="cinnabar">
             <source>
@@ -625,6 +606,7 @@
             </source>
             <music base="0.35" />
             <musicConsumedProgress length="3:52" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
         <entry id="$-5" title="alexandrite">
             <source>
@@ -643,6 +625,7 @@
             </source>
             <music base="0.15" />
             <musicConsumedProgress length="3:29" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
         <entry id="$-6" title="benitoite">
             <source>
@@ -661,6 +644,7 @@
             </source>
             <music base="0.2" />
             <musicConsumedProgress length="3:42" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
         <entry id="$-7" title="diamond">
             <source>
@@ -679,6 +663,7 @@
             </source>
             <music base="0.75" />
             <musicConsumedProgress length="5:17" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
     </entry>
 
@@ -727,6 +712,8 @@
             <music base="0.6" />
             <musicConsumedProgress length="2:18" />
             <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
+            <role id="M-VGMDB-AR-8196" roles="vocal+image" />
+            <role id="M-VGMDB-AR-40119" roles="prod" />
         </entry>
     </entry>
 
@@ -791,7 +778,7 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T103716" title="KIMINOUTA">
+    <entry id="M-20230608T103716" title="KIMINOUTA" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -828,7 +815,7 @@
         </entry>
     </entry>
 
-    <entry id="M-20230608T104218" title="Bouquet">
+    <entry id="M-20230608T104218" title="Bouquet" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <visual type="staticMV" base="0.3" unique="0.4" />
         <entry id="$-1" title="Bouquet">
@@ -849,22 +836,17 @@
     <!-- todo: rank these individuals -->
     <entry id="M-VGMDB-AR-16653" title="Risa Yuzuki" />
 
-    <entry id="M-VGMDB-AR-48767" title="EmoCosine">
-        <contains factor="inst*2/3+image*main" />
-    </entry>
+    <entry id="M-VGMDB-AR-48767" title="EmoCosine" />
 
     <entry id="M-VGMDB-AL-128840" title="Find My Future" />
 
-    <entry id="M-VGMDB-AR-40119" title="Akki">
-        <contains id="M-VGMDB-AL-129048-1" factor="inst" />
-        <contains id="M-VGMDB-AL-124011-1" factor="inst*2/3" />
-    </entry>
+    <entry id="M-VGMDB-AR-40119" title="Akki" />
 
     <!-- lmfao kano 2023 is truly a 2018 artist -->
     <!-- like what the actual fuck -->
     <!-- (yes i already was aware of this shit from the duopoly era -->
     <!-- and i was surprised af back then, but they were not ranked kekw) -->
-    <entry id="M-20230608T114243" title="Night of Bloom">
+    <entry id="M-20230608T114243" title="Night of Bloom" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
@@ -892,9 +874,10 @@
         <visual type="semiAnimatedMV" base="0.4" unique="0.6" />
         <music base="0.35" />
         <musicConsumedProgress length="4:46" />
+        <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
     </entry>
 
-    <entry id="M-20230608T132043" title="Hullhakobune">
+    <entry id="M-20230608T132043" title="Hullhakobune" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -915,7 +898,7 @@
                 />
             </urls>
         </source>
-        <entry id="$-1" title="Hullhakobune">
+        <entry id="$-1" title="Hullhakobune" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -932,10 +915,11 @@
             </source>
             <music base="0.4" />
             <musicConsumedProgress length="4:03" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+lyrics+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T133105" title="CodeQ">
+    <entry id="M-20230608T133105" title="CodeQ" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -957,7 +941,7 @@
             </urls>
         </source>
         <visual type="albumArt" base="0.3" unique="0.5" />
-        <entry id="$-6" title="AI to CodeQ no Hate">
+        <entry id="$-6" title="AI to CodeQ no Hate" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1038,6 +1022,7 @@
             </source>
             <music base="0.15" />
             <musicConsumedProgress length="2:22" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
         <entry id="$-2" title="白日より淡く">
             <source>
@@ -1056,6 +1041,7 @@
             </source>
             <music base="0.2" />
             <musicConsumedProgress length="4:32" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
         <entry id="$-3" title="煤けた脳を疎うなら">
             <source>
@@ -1074,6 +1060,7 @@
             </source>
             <music base="0.18" />
             <musicConsumedProgress length="3:49" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
         <entry id="$-4" title="裸をカミが盥いだら">
             <source>
@@ -1092,6 +1079,7 @@
             </source>
             <music base="0.22" />
             <musicConsumedProgress length="3:48" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
         <entry id="$-5" title="孤独の塊を鈞るより">
             <source>
@@ -1110,6 +1098,7 @@
             </source>
             <music base="0.19" />
             <musicConsumedProgress length="4:04" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
         <entry id="$-6" title="青天より遠く">
             <source>
@@ -1128,6 +1117,7 @@
             </source>
             <music base="0.25" />
             <musicConsumedProgress length="3:59" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
         <entry id="$-7" title="路地裏と空は繋がって">
             <source>
@@ -1146,10 +1136,15 @@
             </source>
             <music base="0.12" />
             <musicConsumedProgress length="2:45" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T135641" title="Happycore Meteorshower">
+    <entry
+        id="M-20230608T135641"
+        title="Happycore Meteorshower"
+        entrytype="MusicAlbum"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1173,7 +1168,7 @@
 
         <visual type="albumArt" base="0.6" unique="0.25" />
 
-        <entry id="$-10" title="Reach for the stars">
+        <entry id="$-10" title="Reach for the stars" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1190,10 +1185,15 @@
             </source>
             <music base="0.6" />
             <musicConsumedProgress length="3:54" />
+            <role id="M-20230608T085650" roles="prod+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T135642" title="Hinichijou Sketchbook">
+    <entry
+        id="M-20230608T135642"
+        title="Hinichijou Sketchbook"
+        entrytype="MusicAlbum"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1217,7 +1217,7 @@
 
         <visual type="albumArt" base="0.6" unique="0.25" />
 
-        <entry id="$-1" title="Hinichijou Sketchbook">
+        <entry id="$-1" title="Hinichijou Sketchbook" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1234,9 +1234,10 @@
             </source>
             <music base="0.6" />
             <musicConsumedProgress length="4:07" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
 
-        <entry id="$-7" title="&lt;non&gt;fiction">
+        <entry id="$-7" title="&lt;non&gt;fiction" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1253,10 +1254,15 @@
             </source>
             <music base="0.4" />
             <musicConsumedProgress length="4:12" />
+            <role id="M-20230608T085650" roles="prod+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140454" title="Sora no Aoyori Vocal Song Collection">
+    <entry
+        id="M-20230608T140454"
+        title="Sora no Aoyori Vocal Song Collection"
+        entrytype="MusicAlbum"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1278,7 +1284,7 @@
             </urls>
         </source>
         <!-- pogpega ayumu reference -->
-        <entry id="$-1" title="Sora no Mukou">
+        <entry id="$-1" title="Sora no Mukou" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1296,7 +1302,11 @@
             <music base="0.45" />
             <musicConsumedProgress length="3:49" />
         </entry>
-        <entry id="$-2" title="Hoshi furu Aoyori Bokutachi e Saku">
+        <entry
+            id="$-2"
+            title="Hoshi furu Aoyori Bokutachi e Saku"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url
@@ -1314,7 +1324,7 @@
             <music base="0.25" />
             <musicConsumedProgress length="4:45" />
         </entry>
-        <entry id="$-3" title="Hoshi no Umi">
+        <entry id="$-3" title="Hoshi no Umi" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1332,7 +1342,7 @@
             <music base="0.18" />
             <musicConsumedProgress length="6:11" />
         </entry>
-        <entry id="$-4" title="Mou Ichido">
+        <entry id="$-4" title="Mou Ichido" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1350,7 +1360,7 @@
             <music base="0.2" />
             <musicConsumedProgress length="5:04" />
         </entry>
-        <entry id="$-5" title="Boku no Yume made">
+        <entry id="$-5" title="Boku no Yume made" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1368,7 +1378,7 @@
             <music base="0.25" />
             <musicConsumedProgress length="4:28" />
         </entry>
-        <entry id="$-6" title="Every Day, Every Night">
+        <entry id="$-6" title="Every Day, Every Night" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1416,6 +1426,7 @@
             </source>
             <music base="0.5" />
             <musicConsumedProgress length="3:57" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image/2" />
         </entry>
     </entry>
 
@@ -1440,43 +1451,9 @@
                 />
             </urls>
         </source>
-
-        <contains factor="inst+image*main">
-            <contains id="M-20230608T140603-5" />
-
-            <contains id="M-20230608T140604-1" />
-            <contains id="M-20230608T140604-2" />
-
-            <contains id="M-20230608T140605-1" />
-            <contains id="M-20230608T140605-4" />
-
-            <contains id="M-20230608T140606-1" />
-
-            <contains id="M-20230608T140607-1" />
-            <contains id="M-20230608T140607-2" />
-            <contains id="M-20230608T140607-4" />
-
-            <contains id="M-20230608T140608-1" />
-            <contains id="M-20230608T140608-3" />
-        </contains>
-
-        <!-- he did not write the lyrics for these -->
-        <!-- (according to youtube autogen descriptions so idk) -->
-        <contains factor="inst*2/3+image*main">
-            <contains id="M-20230608T140605-2" />
-
-            <contains id="M-20230608T140606-2" />
-            <contains id="M-20230608T140606-3" />
-            <contains id="M-20230608T140606-4" />
-
-            <contains id="M-20230608T140607-3" />
-
-            <contains id="M-20230608T140608-2" />
-            <contains id="M-20230608T140608-4" />
-        </contains>
     </entry>
 
-    <entry id="M-20230608T140603" title="Veil Color">
+    <entry id="M-20230608T140603" title="Veil Color" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1500,7 +1477,11 @@
 
         <!-- the remaster ver sounds basically the same in order to be fair -->
         <!-- and not giving kano 2023 two <music base="0.8" /> tracks -->
-        <entry id="$-5" title="Shirosumire no Yuki ga Furu Naka de">
+        <entry
+            id="$-5"
+            title="Shirosumire no Yuki ga Furu Naka de"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url
@@ -1517,10 +1498,16 @@
             </source>
             <music base="0.8" />
             <musicConsumedProgress length="4:28" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140604" title="Stardust Tears / Lovesick Link">
+    <entry
+        id="M-20230608T140604"
+        title="Stardust Tears / Lovesick Link"
+        entrytype="MusicAlbum"
+    >
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1542,7 +1529,7 @@
             </urls>
         </source>
 
-        <entry id="$-1" title="Stardust Tears">
+        <entry id="$-1" title="Stardust Tears" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1559,9 +1546,10 @@
             </source>
             <music base="0.55" />
             <musicConsumedProgress length="3:41" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
 
-        <entry id="$-2" title="Lovesick Link">
+        <entry id="$-2" title="Lovesick Link" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1578,10 +1566,11 @@
             </source>
             <music base="0.4" />
             <musicConsumedProgress length="3:46" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140605" title="White as Snow">
+    <entry id="M-20230608T140605" title="White as Snow" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1605,7 +1594,7 @@
 
         <contains id="M-20230608T140603-5" />
 
-        <entry id="$-1" title="Pastel Snow">
+        <entry id="$-1" title="Pastel Snow" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1622,8 +1611,9 @@
             </source>
             <music base="0.5" />
             <musicConsumedProgress length="4:09" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
-        <entry id="$-2" title="Whiteout">
+        <entry id="$-2" title="Whiteout" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1640,8 +1630,9 @@
             </source>
             <music base="0.65" />
             <musicConsumedProgress length="4:13" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
         </entry>
-        <entry id="$-4" title="Sangatsu no yakusoku">
+        <entry id="$-4" title="Sangatsu no yakusoku" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1658,10 +1649,12 @@
             </source>
             <music base="0.35" />
             <musicConsumedProgress length="4:36" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140606" title="Air of Celeste">
+    <entry id="M-20230608T140606" title="Air of Celeste" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1682,7 +1675,11 @@
                 />
             </urls>
         </source>
-        <entry id="$-1" title="To the stars connected in July">
+        <entry
+            id="$-1"
+            title="To the stars connected in July"
+            entrytype="MusicTrack"
+        >
             <source>
                 <urls>
                     <url
@@ -1699,8 +1696,10 @@
             </source>
             <music base="0.65" />
             <musicConsumedProgress length="4:10" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
-        <entry id="$-2" title="Kimi ga kureta senritsu">
+        <entry id="$-2" title="Kimi ga kureta senritsu" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1717,8 +1716,10 @@
             </source>
             <music base="0.7" />
             <musicConsumedProgress length="4:40" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
-        <entry id="$-3" title="To us like the horizon">
+        <entry id="$-3" title="To us like the horizon" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1735,8 +1736,9 @@
             </source>
             <music base="0.35" />
             <musicConsumedProgress length="4:50" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
         </entry>
-        <entry id="$-4" title="Sky color memory">
+        <entry id="$-4" title="Sky color memory" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1753,10 +1755,11 @@
             </source>
             <music base="0.55" />
             <musicConsumedProgress length="4:26" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140607" title="Astro Memorize">
+    <entry id="M-20230608T140607" title="Astro Memorize" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1777,7 +1780,7 @@
                 />
             </urls>
         </source>
-        <entry id="$-1" title="Asterism wo sagashite">
+        <entry id="$-1" title="Asterism wo sagashite" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1794,8 +1797,9 @@
             </source>
             <music base="0.45" />
             <musicConsumedProgress length="4:29" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
-        <entry id="$-2" title="Ramune no koini">
+        <entry id="$-2" title="Ramune no koini" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1812,8 +1816,9 @@
             </source>
             <music base="0.4" />
             <musicConsumedProgress length="3:56" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
-        <entry id="$-3" title="planetarium graphics">
+        <entry id="$-3" title="planetarium graphics" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1830,8 +1835,10 @@
             </source>
             <music base="0.55" />
             <musicConsumedProgress length="4:31" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
-        <entry id="$-4" title="sayuruboshi">
+        <entry id="$-4" title="sayuruboshi" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1848,10 +1855,11 @@
             </source>
             <music base="0.6" />
             <musicConsumedProgress length="5:08" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
     </entry>
 
-    <entry id="M-20230608T140608" title="Cry RefRain">
+    <entry id="M-20230608T140608" title="Cry RefRain" entrytype="MusicAlbum">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
             <urls>
@@ -1872,7 +1880,7 @@
                 />
             </urls>
         </source>
-        <entry id="$-1" title="Sansou no iro">
+        <entry id="$-1" title="Sansou no iro" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1889,8 +1897,9 @@
             </source>
             <music base="0.6" />
             <musicConsumedProgress length="3:06" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
-        <entry id="$-2" title="Amaoto wo kikasete">
+        <entry id="$-2" title="Amaoto wo kikasete" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1907,8 +1916,9 @@
             </source>
             <music base="0.5" />
             <musicConsumedProgress length="5:39" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
         </entry>
-        <entry id="$-3" title="Yasashii Petrichor">
+        <entry id="$-3" title="Yasashii Petrichor" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1925,8 +1935,9 @@
             </source>
             <music base="0.4" />
             <musicConsumedProgress length="3:54" />
+            <role id="M-VGMDB-AR-53149" roles="prod+image" />
         </entry>
-        <entry id="$-4" title="Rainy dot Rainy">
+        <entry id="$-4" title="Rainy dot Rainy" entrytype="MusicTrack">
             <source>
                 <urls>
                     <url
@@ -1943,6 +1954,8 @@
             </source>
             <music base="0.65" />
             <musicConsumedProgress length="4:21" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
     </entry>
 </document>
