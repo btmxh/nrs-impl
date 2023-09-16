@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4168" title="NEW GAME!">
         <!-- humor -->
@@ -58,14 +58,11 @@
             <featureMusic id="M-VGMDB-AL-68225-1" />
         </entry>
 
-        <entry id="M-20220317T064137-2" title="fourfolium">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-58627" />
-                <contains id="M-VGMDB-AL-68225" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220317T064137-2"
+            title="fourfolium"
+            entrytype="MusicArtist"
+        />
 
         <entry id="M-VGMDB-AL-58627" title="Now Loading!!!! / fourfolium">
             <visual type="albumArt" base="0.7" unique="0.3" />
@@ -73,6 +70,7 @@
                 <musicConsumedProgress length="4:13" />
                 <music base="0.44" />
                 <osuSong personal="0.4" community="0.0" />
+                <role id="M-20220317T064137-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -84,6 +82,7 @@
                 <!-- this song is legendary af -->
                 <music base="0.43" />
                 <osuSong personal="0.8" community="0.0" />
+                <role id="M-20220317T064137-2" roles="vocal+image" />
             </entry>
         </entry>
     </entry>

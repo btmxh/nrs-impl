@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- A wise man once said: -->
     <!-- Every EI (emotional impact) post rst arc 1, -->
@@ -15,13 +15,7 @@
             <contributor id="GF-VGMDB-7059" factor="0.01" />
         </aei>
 
-        <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-42945" />
-                <contains id="M-VGMDB-AL-46042" />
-                <contains id="M-VGMDB-AL-68276" factor="0.5" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-15137" title="Wake Up, Girls!" />
 
         <entry id="M-VGMDB-AL-46042" title="Tachiagare! / Wake Up, Girls!">
             <visual type="albumArt" base="0.4" unique="0.6" />
@@ -29,6 +23,7 @@
             <entry id="$-1" title="Tachiagare!">
                 <musicConsumedProgress length="4:54" />
                 <music base="0.41" />
+                <role id="M-VGMDB-AR-15137" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -38,6 +33,7 @@
             <entry id="$-1" title="7 Girls War">
                 <musicConsumedProgress length="5:07" />
                 <music base="0.20" />
+                <role id="M-VGMDB-AR-15137" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -157,6 +153,7 @@
             <musicConsumedProgress length="4:17" />
             <osuSong personal="0.5" community="0.1" />
             <music base="0.41" />
+            <role id="M-VGMDB-AR-15137" roles="vocal*7/8+image/2" />
         </entry>
     </entry>
 </document>

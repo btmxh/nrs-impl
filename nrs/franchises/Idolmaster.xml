@@ -1,11 +1,7 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3559" title="THE IDOLM@STER">
-        <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-78253-1" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS" />
 
         <entry
             id="M-VGMDB-AL-53945"
@@ -16,6 +12,7 @@
                 <musicConsumedProgress length="4:38" />
                 <music base="0.39" />
                 <osuSong personal="0.8" community="0.0" />
+                <role id="M-VGMDB-AR-32295" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -41,6 +38,7 @@
                 <musicConsumedProgress length="5:29" />
                 <music base="0.42" />
                 <osuSong personal="0.5" community="0.2" />
+                <role id="M-VGMDB-AR-32295" roles="vocal+image" />
             </entry>
         </entry>
 

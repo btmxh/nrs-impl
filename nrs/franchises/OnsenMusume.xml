@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- le funny franchise, lack content therefore low score -->
     <!-- translate stuff for me if u want score to go up -->
@@ -9,18 +9,15 @@
             <entry id="$-1" title="Hop Step Jump!">
                 <musicConsumedProgress length="4:59" generatedBy="user" />
                 <music base="0.56" />
+                <role id="M-20220125T063355-1" roles="vocal+image" />
             </entry>
         </entry>
 
-        <entry id="M-20220125T063355-1" title="SPRiNGS">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-75344-1" />
-                <contains id="M-VGMDB-AL-75344-5" />
-                <contains id="M-VGMDB-AL-75349" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220125T063355-1"
+            title="SPRiNGS"
+            entrytype="MusicArtist"
+        />
 
         <entry id="M-VGMDB-AL-75344" title="Tsuioku Kaleidoscope / SPRiNGS">
             <visual type="albumArt" base="0.75" unique="0.25" />
@@ -30,6 +27,7 @@
                 <!-- https://www.youtube.com/watch?v=X2Q-bCS_IRs -->
                 <visual type="animatedMV" base="0.75" unique="0.25" />
                 <music base="0.54" />
+                <role id="M-20220125T063355-1" roles="vocal+image" />
             </entry>
 
             <!-- 2-4 are subunit songs -->
@@ -46,11 +44,13 @@
             <entry id="$-4" title="おはようジャポニカ">
                 <musicConsumedProgress length="4:26" generatedBy="user" />
                 <music base="0.56" />
+                <role id="M-VGMDB-AR-18208" roles="vocal/3+image_feat/3" />
             </entry>
 
             <entry id="$-5" title="さよなら花火">
                 <musicConsumedProgress length="4:01" generatedBy="user" />
                 <music base="0.20" />
+                <role id="M-20220125T063355-1" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -107,6 +107,7 @@
                 </source>
                 <music base="0.4" />
                 <musicConsumedProgress length="3:25" />
+                <role id="M-VGMDB-AR-40119" roles="inst" />
             </entry>
         </entry>
 

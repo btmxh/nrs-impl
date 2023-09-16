@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-8954" title="Kobayashi-san Chi no Maid Dragon">
         <entry
@@ -11,6 +11,7 @@
                 <!-- Length source: https://open.spotify.com/album/7AA47NCwpqemraOTWD1oCV -->
                 <musicConsumedProgress length="4:38" generatedBy="user" />
                 <music base="0.30" />
+                <role id="M-VGMDB-AR-13857" roles="perform+inst+image" />
             </entry>
         </entry>
 
@@ -25,6 +26,10 @@
                 <music base="0.29" />
                 <!-- "why is the dude singing???" - some pp mapper -->
                 <meme strength="0.05" length="6" />
+                <role
+                    id="M-VGMDB-AR-13857"
+                    roles="perform+inst+image+lyrics*2/3"
+                />
             </entry>
         </entry>
 

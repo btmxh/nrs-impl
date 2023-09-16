@@ -1,7 +1,9 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- gen1 sb69 -->
     <entry id="F-VGMDB-5173" title="BanG Dream!">
+        <entry id="M-VGMDB-AR-27992" title="Poppin'Party" />
+
         <entry
             id="M-VGMDB-AL-60358"
             title="STAR BEAT! ~Hoshi no Kodou~ / Poppin'Party"
@@ -11,6 +13,7 @@
             <entry id="$-1" title="STAR BEAT! ~Hoshi no Kodou~">
                 <musicConsumedProgress length="5:19" />
                 <music base="0.47" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
         </entry>
 
@@ -22,12 +25,14 @@
 
             <entry id="$-1" title="Tokimeki Experience!">
                 <musicConsumedProgress length="4:17" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
                 <music base="0.19" />
             </entry>
 
             <entry id="$-2" title="1000 kai Urunda Sora">
                 <musicConsumedProgress length="5:31" />
                 <music base="0.60" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
         </entry>
 
@@ -39,8 +44,10 @@
                 <!-- this song got memed in the rst-sb69 era because of two things -->
                 <!-- (update: it's still somewhat huge in arc 3 because method, but -->
                 <!-- bridge to dream is better cope bandofags) -->
-                <!-- kizuna method ("method" is a name of my junior in my High School) (major reason) -->
-                <!-- kizunya music (cat music is any song with the cat from sb69) (very minor reason) -->
+                <!-- kizuna method ("method" is a name of my junior in my High School) (major
+                reason) -->
+                <!-- kizunya music (cat music is any song with the cat from sb69) (very minor
+                reason) -->
 
                 <!-- itsuka... -->
                 <!-- mot ngay method, se thap sang tuong lai mai sau -->
@@ -51,6 +58,7 @@
                 <!-- nguoi mang den trai tim ta -->
                 <!-- bau... troi... mo... uoc -->
                 <music base="0.46" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
         </entry>
 
@@ -60,6 +68,7 @@
             <entry id="$-5" title="Koko kara Saki wa Uta ni Naranai">
                 <musicConsumedProgress length="4:37" />
                 <music base="0.53" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
         </entry>
 
@@ -71,6 +80,7 @@
                 <!-- naite naite -->
                 <!-- daite daite -->
                 <music base="0.53" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
         </entry>
 
@@ -90,19 +100,8 @@
                 <music base="0.30" />
                 <!-- iykyk -->
                 <meme strength="0.05" length="10" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
-        </entry>
-
-        <entry id="M-VGMDB-AR-27992" title="Poppin'Party">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-60358" />
-                <contains id="M-VGMDB-AL-63624" />
-                <contains id="M-VGMDB-AL-81504" />
-                <contains id="M-VGMDB-AL-111089" />
-                <contains id="M-VGMDB-AL-74133" />
-                <contains id="M-VGMDB-AL-95118" />
-                <contains id="M-VGMDB-AL-106577-1" />
-            </contains>
         </entry>
 
         <entry id="M-VGMDB-AL-85172" title="FIRE BIRD / Roselia">
@@ -111,41 +110,28 @@
             <entry id="$-1" title="FIRE BIRD">
                 <musicConsumedProgress length="5:25" />
                 <music base="0.42" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27993" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-27993" title="Roselia">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-85172" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-27993" title="Roselia" />
 
-        <entry id="M-VGMDB-AR-31328" title="Pastel*Palettes">
-            <!-- HAHAHAHAHAHAHHAHAHAHA GET FUCKED THE ORTENSIA INCIDENT PART 2 STRIKED -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
-            <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
-            <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
-            <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
-            <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
-            <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
+        <!-- HAHAHAHAHAHAHHAHAHAHA GET FUCKED THE ORTENSIA INCIDENT PART 2 STRIKED -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- https://bang-dream.bushimo.jp/news/20221130/post-303 -->
+        <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
+        <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
+        <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
+        <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
+        <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
+        <entry id="M-VGMDB-AR-31328" title="Pastel*Palettes" />
 
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-106577-6" />
-                <contains id="M-20220130T183728-4" factor="1.0 / 3" />
-            </contains>
-        </entry>
-
-        <entry id="M-VGMDB-AR-31329" title="Hello, Happy World!">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-114399-8" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-31329" title="Hello, Happy World!" />
 
         <entry id="M-VGMDB-AL-82743" title="Y.O.L.O!!!!! / Afterglow">
             <visual type="albumArt" base="0.25" unique="0.15" />
@@ -154,14 +140,11 @@
                 <musicConsumedProgress length="4:30" />
                 <music base="0.39" />
                 <osuSong personal="0.7" community="0.0" />
+                <role roles="vocal+image" id="M-VGMDB-AR-31326" />
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-31326" title="Afterglow">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-82743" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-31326" title="Afterglow" />
 
         <!-- mixed albums -->
         <entry
@@ -174,6 +157,7 @@
                 <musicConsumedProgress length="4:07" />
                 <music base="0.38" />
                 <osuSong personal="0.6" community="0.0" />
+                <role roles="vocal+image" id="M-VGMDB-AR-27992" />
             </entry>
 
             <entry id="$-6" title="Harumodoki">
@@ -182,6 +166,8 @@
                 <osuSong personal="0.5" community="0.0" />
 
                 <remix id="M-20220130T183728-4" />
+                <role id="M-VGMDB-AR-31328" roles="vocal+image" />
+                <role id="M-VGMDB-AR-5524" roles="lyrics" />
             </entry>
         </entry>
 
@@ -195,6 +181,8 @@
                 <musicConsumedProgress length="4:01" />
                 <music base="0.43" />
                 <osuSong personal="0.55" community="0.0" />
+                <role roles="vocal+image" id="M-VGMDB-AR-31329" />
+                <role roles="compose" id="M-VGMDB-AR-25291" />
             </entry>
         </entry>
 
@@ -207,17 +195,14 @@
             </entry>
         </entry>
 
-        <entry id="M-VGMDB-AR-31336" title="RAISE A SUILEN">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-101643" />
-            </contains>
-        </entry>
+        <entry id="M-VGMDB-AR-31336" title="RAISE A SUILEN" />
 
         <entry id="M-VGMDB-AL-101643" title="Sacred world / RAISE A SUILEN">
             <visual type="albumArt" base="0.2" unique="0.3" />
             <entry id="$-1" title="Sacred world">
                 <musicConsumedProgress length="5:00" />
                 <music base="0.47" />
+                <role id="M-VGMDB-AR-31336" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -313,5 +298,8 @@
         <!-- Length source: https://osu.ppy.sh/beatmapsets/1034608#osu/2163138 -->
         <musicConsumedProgress length="2:15" generatedBy="user" />
         <music base="0.36" />
+        <role roles="vocal+image/2" id="M-VGMDB-AR-31328" />
+        <musicvar arrange="0.75" />
+        <role id="M-20220113T154228" roles="arrange+image/2" />
     </entry>
 </document>

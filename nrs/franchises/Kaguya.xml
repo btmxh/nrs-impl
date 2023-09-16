@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <!-- 'That summer I first learned why “Love is War”' -->
 <document>
     <!-- i thought this was blacklisted, but it seems that was not the case -->
@@ -28,6 +28,7 @@
                 <musicConsumedProgress length="4:14" />
                 <!-- the grass-touching experience -->
                 <music base="0.35" />
+                <role id="M-VGMDB-AR-8480" roles="vocal+image_feat" />
             </entry>
         </entry>
 

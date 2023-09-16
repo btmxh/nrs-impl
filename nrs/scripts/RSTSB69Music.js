@@ -26,6 +26,7 @@ function args() {
 
 global.rstTracks ??= new Map();
 global.sb69Tracks ??= new Map();
+// deno-lint-ignore no-this-alias
 const self = this;
 
 function common(map) {
@@ -84,7 +85,10 @@ function trackMemeImpact(map) {
   for (const [id, multipliers] of map) {
     const factor = (multipliers[eraIndex] * base) / sum;
     if (factor > 0) {
-      self.value[0].contributors.set(id, factor);
+      self.value[0].contributors.set(
+        id,
+        self.root.context.api.newScalarMatrix(factor),
+      );
     }
   }
 }

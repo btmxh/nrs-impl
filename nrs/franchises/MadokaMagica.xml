@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- also include MagiReco -->
 
@@ -13,6 +13,7 @@
             <entry id="$-2" title="Mata Ashita">
                 <musicConsumedProgress length="4:27" />
                 <music base="0.20" />
+                <role id="M-VGMDB-AR-9797" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -61,6 +62,7 @@
             <entry id="$-1" title="Gomakashi">
                 <musicConsumedProgress length="4:11" />
                 <music base="0.61" />
+                <role id="M-VGMDB-AR-16469" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -76,6 +78,7 @@
                 <osuSong personal="0.65" community="0.1" />
 
                 <music base="0.46" />
+                <role id="M-VGMDB-AR-16469" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -292,6 +295,7 @@
                 <!-- Length source: https://www.nicovideo.jp/watch/sm22151925 -->
                 <music base="0.35" />
                 <musicConsumedProgress length="4:35" />
+                <role id="M-VGMDB-AR-11829" roles="vocal+image/2" />
             </entry>
         </contains>
     </entry>

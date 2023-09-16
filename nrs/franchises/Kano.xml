@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- le meme artist (kano) has a very distinctive voice, -->
     <!-- making her literally the best singer in j-pop -->
@@ -9,126 +9,7 @@
     <!-- (but "kano impact" is not unique for kano, like -->
     <!-- other vocalists like... idk maybe only nayuta? -->
     <!-- can do the same shit without being given EIs) -->
-
     <entry id="M-VGMDB-AR-11666" title="Kano">
-        <contains factor="vocal+image">
-            <contains id="M-VGMDB-AL-95369-1" />
-            <contains id="M-VGMDB-AL-34411-6" />
-            <contains id="M-VGMDB-AL-34411-11" />
-            <contains id="M-VGMDB-AL-42961-6" />
-            <contains id="M-VGMDB-AL-42961-9" />
-            <contains id="M-VGMDB-AL-49423-1" />
-            <contains id="M-VGMDB-AL-49423-8" />
-            <contains id="M-VGMDB-AL-51254-1" />
-            <contains id="M-VGMDB-AL-54307-1" />
-            <contains id="M-VGMDB-AL-57564-1" />
-            <contains id="M-VGMDB-AL-57564-7" />
-            <contains id="M-VGMDB-AL-89290-6" />
-            <contains id="M-VGMDB-AL-37130-1" />
-            <contains id="M-VGMDB-AL-37130-2" />
-            <contains id="M-VGMDB-AL-37130-3" />
-            <contains id="M-VGMDB-AL-37130-4" />
-            <contains id="M-VGMDB-AL-37130-5" />
-            <contains id="M-VGMDB-AL-37130-6" />
-
-            <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
-                <music base="0.40" />
-                <osuSong personal="0.6" community="0.4" />
-                <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
-                <musicConsumedProgress length="3:33" />
-            </entry>
-
-            <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
-                <music base="0.51" />
-                <osuSong personal="0.7" community="0.0" />
-                <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
-                <musicConsumedProgress length="4:17" />
-            </entry>
-
-            <entry
-                id="M-20221202T202421"
-                title="Natsu no Owari, Koi no Hajimari (Kano)"
-            >
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
-                <music base="0.58" />
-                <osuSong personal="0.0" community="0.0" />
-                <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
-                <musicConsumedProgress length="4:08" />
-            </entry>
-
-            <!-- after this (sukinano), almost all of kano's songs suck -->
-            <!-- (if kano sees this pls keep going on the -->
-            <!-- path you've chosen, don't mind me) -->
-            <!-- btw kano 2023 exists so she has even more reasons to -->
-            <!-- ditch neo-pop xddddddddd -->
-
-            <!-- oh except for this, i forgor -->
-            <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
-                <visual type="animatedMV" base="0.35" unique="0.7" />
-                <!-- 210 bpm spaced bursts -->
-                <osuSong personal="0.5" community="0.0" />
-
-                <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
-                <music base="0.46" />
-                <musicConsumedProgress length="3:29" generatedBy="user" />
-            </entry>
-
-            <entry id="M-20230626T223045" title="Ai Kotoba III (Kano ver.)">
-                <source>
-                    <urls>
-                        <url
-                            name="youtube"
-                            src="https://www.youtube.com/watch?v=ui_D-twaXlc"
-                        />
-                    </urls>
-                </source>
-                <musicConsumedProgress length="4:26" />
-                <music base="0.4" />
-            </entry>
-        </contains>
-
-        <!-- colorful wonder note is an irojiro album -->
-        <!-- so basically kano has zero image (like kano 2023 in vivid lila albums) -->
-        <contains factor="vocal">
-            <entry
-                id="M-20220130T032649"
-                title="Kimiiro Hanabi -album version-"
-            >
-                <!-- from the album "Colorful Wonder Note", track number 8 -->
-                <!-- and yes this is from osugame too -->
-
-                <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
-                <music base="0.60" />
-                <musicConsumedProgress length="4:19" generatedBy="user" />
-                <nei base="0.5" emotions="CP" />
-
-                <!-- I HATE HIMENO SENA -->
-                <!-- I HATE HIMENO SENA -->
-                <!-- I HATE HIMENO SENA -->
-                <!-- I HATE HIMENO SENA -->
-                <!-- I HATE HIMENO SENA -->
-                <!--
-                https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
-                <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
-            </entry>
-        </contains>
-
-        <contains id="O-20230524T223250" factor="1/4" />
-
-        <!-- 15 extra days for hanayori ig -->
-        <meme strength="0.85" from="2020-11-01" to="2021-02-15">
-            <contributor id="M-VGMDB-AR-11666" factor="0.8" />
-            <contributor id="O-20230524T223250" factor="0.2" />
-        </meme>
-
         <!-- the collapse of isoc sadge -->
         <meme strength="0.75" from="2021-02-16" to="2021-04-01" />
 
@@ -136,30 +17,95 @@
         <contains id="M-20230524T223250" factor="1/4" />
     </entry>
 
-    <!-- not precisely just music artists, so they would use the `O` prefix -->
-    <entry id="O-20230524T223250" title="Hanayori Girls' Dormitory">
-        <!-- idk but i had watched (more like listened lmfao) 10hr of this thing -->
-        <consumed boredom="0.9" length="10:00:00" />
-
-        <entry
-            id="M-20230524T223735"
-            title="Koko kara, koko kara (Hanayori Girls' Dormitory cover)"
-        >
-            <!-- Length source: https://www.youtube.com/watch?v=bYkZvLvsNlg -->
-            <musicConsumedProgress length="4:35" />
-            <music base="0.54" />
-
-            <!-- english socialism -->
-            <nei base="0.5" emotions="CU-0.75:CP-0.25" />
-
-            <!-- this was the first song i mapped on osugame btw -->
-            <!-- pretty iconic if you ask me -->
-            <osuSong personal="0.8" />
-
-            <!-- pretty cool MV too -->
-            <visual type="animatedMV" base="0.4" unique="0.75" />
-        </entry>
+    <entry id="M-20221202T204728" title="Sukisuki Zecchoushou">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <music base="0.40" />
+        <osuSong personal="0.6" community="0.4" />
+        <!-- Length source: https://osu.ppy.sh/beatmapsets/484532 -->
+        <musicConsumedProgress length="3:33" />
+        <role id="M-VGMDB-AR-11666" roles="vocal+image" />
     </entry>
+
+    <entry id="M-20221202T203758" title="Sayonara, Adam to Eve">
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <music base="0.51" />
+        <osuSong personal="0.7" community="0.0" />
+        <!-- Length source: https://osu.ppy.sh/beatmapsets/981282 -->
+        <musicConsumedProgress length="4:17" />
+        <role id="M-VGMDB-AR-11666" roles="vocal+image" />
+    </entry>
+
+    <entry
+        id="M-20221202T202421"
+        title="Natsu no Owari, Koi no Hajimari (Kano)"
+    >
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <music base="0.58" />
+        <osuSong personal="0.0" community="0.0" />
+        <!-- Length source: https://www.youtube.com/watch?v=j4LoBrhN5rM -->
+        <musicConsumedProgress length="4:08" />
+        <role id="M-VGMDB-AR-11666" roles="vocal+image" />
+    </entry>
+
+    <!-- after this (sukinano), almost all of kano's songs suck -->
+    <!-- (if kano sees this pls keep going on the -->
+    <!-- path you've chosen, don't mind me) -->
+    <!-- btw kano 2023 exists so she has even more reasons to -->
+    <!-- ditch neo-pop xddddddddd -->
+
+    <!-- oh except for this, i forgor -->
+    <entry id="M-20220317T064137-5" title="Sore wa Kitto Natsudatta">
+        <visual type="animatedMV" base="0.35" unique="0.7" />
+        <!-- 210 bpm spaced bursts -->
+        <osuSong personal="0.5" community="0.0" />
+
+        <!-- Length source: https://www.youtube.com/watch?v=ZkDEkUf6jlg -->
+        <music base="0.46" />
+        <musicConsumedProgress length="3:29" generatedBy="user" />
+        <role id="M-VGMDB-AR-11666" roles="vocal+image" />
+    </entry>
+
+    <entry id="M-20230626T223045" title="Ai Kotoba III (Kano ver.)">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=ui_D-twaXlc"
+                />
+            </urls>
+        </source>
+        <musicConsumedProgress length="4:26" />
+        <music base="0.4" />
+        <role id="M-VGMDB-AR-11666" roles="vocal+image" />
+    </entry>
+
+    <!-- colorful wonder note is an irojiro album -->
+    <!-- so basically kano has zero image (like kano 2023 in vivid lila albums) -->
+    <entry id="M-20220130T032649" title="Kimiiro Hanabi -album version-">
+        <!-- from the album "Colorful Wonder Note", track number 8 -->
+        <!-- and yes this is from osugame too -->
+
+        <!-- Length source: https://osu.ppy.sh/beatmapsets/514772#osu/1093352 -->
+        <music base="0.60" />
+        <musicConsumedProgress length="4:19" generatedBy="user" />
+        <nei base="0.5" emotions="CP" />
+
+        <!-- I HATE HIMENO SENA -->
+        <!-- I HATE HIMENO SENA -->
+        <!-- I HATE HIMENO SENA -->
+        <!-- I HATE HIMENO SENA -->
+        <!-- I HATE HIMENO SENA -->
+        <!--
+                https://github.com/ngoduyanh/nrs-impl-kt/discussions/298#discussioncomment-4410011 -->
+        <ref name="KoikakeCry" a_contribution="0.7" a_emotions="CU" />
+        <role id="M-VGMDB-AR-11666" roles="vocal" />
+    </entry>
+
+    <!-- 15 extra days for hanayori ig -->
+    <meme strength="0.85" from="2020-11-01" to="2021-02-15">
+        <contributor id="M-VGMDB-AR-11666" factor="0.8" />
+        <contributor id="M-20230524T223250" factor="0.2" />
+    </meme>
 
     <entry id="M-VGMDB-AL-95369" title="Bambino / Kano">
         <visual type="albumArt" base="0.2" unique="0.5" />
@@ -168,6 +114,7 @@
             <musicConsumedProgress length="4:48" />
             <music base="0.24" />
             <remix id="M-VGMDB-AL-37130-1" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -177,11 +124,14 @@
         <entry id="$-6" title="インタビュア">
             <musicConsumedProgress length="4:27" />
             <music base="0.44" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-11" title="アイロニ">
             <musicConsumedProgress length="4:10" />
             <music base="0.19" />
+            <role id="M-VGMDB-AR-15119" roles="inst+lyrics" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -204,6 +154,7 @@
             <!-- song with solid emotional impacts are buffed -->
             <!-- so it's fair as fuck please stfu -->
             <nei base="0.8" emotions="MP-0.7:CP-0.3" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-9" title="World on Color">
@@ -212,6 +163,7 @@
             <!-- ADA bullshitery idk -->
             <nei base="0.5" emotions="MP" />
             <osuSong personal="0.1" community="0.0" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -223,11 +175,15 @@
             <music base="0.47" />
             <!-- ADA -->
             <aei base="0.5" emotions="MU-0.2:CU-0.8" />
+            <role id="M-VGMDB-AR-25289" roles="inst+lyrics" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-8" title="decide">
             <musicConsumedProgress length="5:54" />
             <music base="0.24" />
+            <role id="M-VGMDB-AR-15120" roles="inst+lyrics" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -238,6 +194,7 @@
         <entry id="$-1" title="Stella-rium">
             <musicConsumedProgress length="4:08" />
             <music base="0.46" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -248,6 +205,7 @@
         <entry id="$-1" title="ディアブレイブ">
             <musicConsumedProgress length="4:19" />
             <music base="0.46" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -260,6 +218,7 @@
             <music base="0.46" />
             <!-- stfu -->
             <nei base="0.3" emotions="CU" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <contains id="M-VGMDB-AL-51254-1" />
@@ -268,6 +227,7 @@
             <musicConsumedProgress length="4:08" />
             <music base="0.36" />
             <osuSong personal="0.6" community="0.3" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -284,6 +244,7 @@
             <!-- https://www.youtube.com/watch?v=paVYNlZ5Xuk -->
             <musicConsumedProgress length="4:33" generatedBy="user" />
             <music base="0.34" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -307,12 +268,18 @@
             <!-- https://www.nicovideo.jp/watch/sm19687208 -->
             <visual type="semiAnimatedMV" base="0.35" unique="0.6" />
             <music base="0.29" />
+            <role id="M-VGMDB-AR-25289" roles="compose+lyrics" />
+            <role id="M-VGMDB-AR-15119" roles="arrange" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-2" title="うたうたいのうた">
             <musicConsumedProgress length="4:39" />
             <music base="0.69" />
             <nei base="0.6" emotions="MP" />
+            <role id="M-VGMDB-AR-25289" roles="compose+lyrics" />
+            <role id="M-VGMDB-AR-15119" roles="arrange" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <!-- the best kano song ever. period. -->
@@ -327,16 +294,25 @@
                 a_contribution="0.7"
                 a_emotions="CU-0.8:MP-0.2"
             />
+            <role id="M-VGMDB-AR-25289" roles="compose+lyrics" />
+            <role id="M-VGMDB-AR-15119" roles="arrange" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-4" title="「ねぇ。」">
             <musicConsumedProgress length="6:23" />
             <music base="0.24" />
+            <role id="M-VGMDB-AR-25289" roles="compose+lyrics" />
+            <role id="M-VGMDB-AR-15120" roles="arrange" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-5" title="朝焼け、君の唄。">
             <musicConsumedProgress length="5:08" />
             <music base="0.24" />
+            <role id="M-VGMDB-AR-25289" roles="compose+lyrics" />
+            <role id="M-VGMDB-AR-15120" roles="arrange" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
         <entry id="$-6" title="サクラノ前夜">
@@ -350,6 +326,9 @@
                 a_contribution="0.8"
                 a_emotions="CU-0.5:MP-0.4:CP-0.1"
             />
+            <role id="M-VGMDB-AR-25289" roles="compose+lyrics" />
+            <role id="M-VGMDB-AR-15120" roles="arrange" />
+            <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
 </document>

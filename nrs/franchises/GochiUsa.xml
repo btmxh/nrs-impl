@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3939" title="Gochuumon wa Usagi Desu ka?">
         <entry id="M-VGMDB-AL-44890" title="Daydream café / Petit Rabbit's">
@@ -11,16 +11,15 @@
                 <!-- duy bua ham l -->
                 <!-- duy bua ngao l -->
                 <music base="0.24" />
+                <role id="M-20220116T062502" roles="vocal+image" />
             </entry>
         </entry>
 
-        <entry id="M-20220116T062502" title="Petit Rabbit's">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-44890" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220116T062502"
+            title="Petit Rabbit's"
+            entrytype="MusicArtist"
+        />
 
         <entry
             id="M-VGMDB-AL-55364"
@@ -36,6 +35,7 @@
                 <!-- lets go i fced the son's insane diff with dt -->
                 <!-- fuck sekai's insane tho -->
                 <music base="0.38" />
+                <role id="M-VGMDB-AR-15361" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -47,6 +47,7 @@
             <entry id="$-1" title="Mahou Shoujo Chino">
                 <musicConsumedProgress length="3:52" />
                 <music base="0.31" />
+                <role id="M-VGMDB-AR-15361" roles="vocal+image_feat" />
             </entry>
         </entry>
 

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <!-- the futuRe: of gen2 -->
 <document>
     <entry id="F-VGMDB-9540" title="CUE!">
@@ -48,6 +48,8 @@
             <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.75" />
         </entry>
 
+        <entry id="M-VGMDB-AR-33857" title="AiRBLUE" />
+
         <entry
             id="M-VGMDB-AL-115724"
             title="Start Line/Hajimari no Kanenone ga Narihibiku Sora / AiRBLUE"
@@ -57,18 +59,14 @@
             <entry id="$-1" title="スタートライン">
                 <musicConsumedProgress length="5:42" />
                 <music base="0.70" />
+                <role id="M-VGMDB-AR-33857" roles="vocal+image" />
             </entry>
 
             <entry id="$-2" title="はじまりの鐘の音が鳴り響く空">
                 <musicConsumedProgress length="4:12" />
                 <music base="0.59" />
+                <role id="M-VGMDB-AR-33857" roles="vocal+image" />
             </entry>
-        </entry>
-
-        <entry id="M-VGMDB-AR-33857" title="AiRBLUE">
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-115724" />
-            </contains>
         </entry>
     </entry>
 </document>

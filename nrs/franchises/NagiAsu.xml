@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2662" title="Nagi no Asu kara">
         <contains id="M-VGMDB-AL-41278-1" />
@@ -12,6 +12,7 @@
             <entry id="$-1" title="ripple ~my first love~">
                 <musicConsumedProgress length="4:22" />
                 <music base="0.53" />
+                <role id="M-VGMDB-AR-12665" roles="vocal+image_feat" />
             </entry>
         </entry>
 

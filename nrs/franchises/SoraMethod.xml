@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2894" title="Sora no Method">
         <!-- method!!!!!!! mot con nguoi dc xay dung mot -->
@@ -40,6 +40,7 @@
             <entry id="$-1" title="Stargazer">
                 <musicConsumedProgress length="5:06" />
                 <music base="0.38" />
+                <role id="M-VGMDB-AR-9455" roles="vocal+lyrics" />
             </entry>
         </entry>
 

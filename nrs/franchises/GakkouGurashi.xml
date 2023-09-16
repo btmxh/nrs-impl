@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4000" title="Gakkougurashi!">
         <entry id="M-VGMDB-AL-52993" title="Friend Shitai / Gakuen Seikatsubu">
@@ -8,16 +8,15 @@
                 <musicConsumedProgress length="3:38" />
                 <music base="0.34" />
                 <osuSong personal="0.5" community="0.0" />
+                <role id="M-20220211T055120" roles="vocal+image" />
             </entry>
         </entry>
 
-        <entry id="M-20220211T055120" title="Gakuen Seikatsubu">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-52993" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220211T055120"
+            title="Gakuen Seikatsubu"
+            entrytype="MusicArtist"
+        />
 
         <entry
             id="M-VGMDB-AL-53719"
@@ -28,6 +27,8 @@
             <entry id="$-1" title="アンハッピーエンドワールド">
                 <musicConsumedProgress length="4:26" />
                 <music base="0.54" />
+                <role id="M-VGMDB-AR-16380" roles="vocal/2+image/2" />
+                <role id="M-VGMDB-AR-15998" roles="vocal/2+image/2" />
             </entry>
         </entry>
 

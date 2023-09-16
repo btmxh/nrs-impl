@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <!-- Asuiro Koi Moyou and its consequences have been a disaster for our modern culture -->
     <entry id="F-VGMDB-694" title="Atelier">
@@ -151,6 +151,7 @@
 
                 <!-- all of that aside, this song slaps -->
                 <music base="0.64" />
+                <role id="M-VGMDB-AR-14761" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -245,6 +246,7 @@
                 <!-- the cp contest of Oct 4th -->
                 <!-- aka the first win of the ROD in uni -->
                 <aei base="0.25" emotions="CP" />
+                <role id="M-VGMDB-AR-3240" roles="vocal+image" />
             </entry>
         </entry>
 

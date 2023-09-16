@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <def
         name="FesALiveMusic"
@@ -265,6 +265,7 @@
                     a_eras="arc2=5.0"
                     a_from="arc2"
                 />
+                <role id="M-VGMDB-AR-16166" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -281,6 +282,7 @@
                 />
 
                 <remix id="M-20220125T063355-6" />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
 
             <entry id="$-2" title="Close to you">
@@ -293,6 +295,7 @@
                 />
 
                 <remix id="M-VGMDB-AL-61981-3" />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -310,6 +313,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-3" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -327,6 +331,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
 
             <entry id="$-2" title="Ryuusei Dreamline">
@@ -338,6 +343,7 @@
                     a_eras="arc2=15.0"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -353,6 +359,7 @@
                     a_eras="arc2=2.5"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -370,6 +377,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-5" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -387,6 +395,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
 
             <entry id="$-3" title="Close to you (詩杏 ver.)">
@@ -415,6 +424,7 @@
                     a_from="arc2"
                 />
                 <meme strength="0.1" length="2" />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -443,6 +453,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
 
             <entry id="$-2" title="Kimi no Rhapsody">
@@ -456,6 +467,7 @@
                 />
                 <meme strength="0.01" from="2022-04-01" to="today" />
                 <remix id="M-20220702T030659" />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
 
             <entry id="$-3" title="Masshiro Start Line">
@@ -466,6 +478,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -483,6 +496,7 @@
                 a_from="arc2"
             />
             <musicConsumedProgress length="1:34" generatedBy="user" />
+            <role id="M-20220125T063355-4" roles="vocal+image" />
         </entry>
 
         <entry
@@ -503,6 +517,7 @@
             <!-- Length source:
             https://show-by-rock-fes-a-live.fandom.com/wiki/Starry_Sky_Light_Story_(DJ_DEVILMINTKIRYU_Remix)#Game_Stats -->
             <musicConsumedProgress length="1:46" />
+            <role id="M-20220125T063355-4" roles="vocal+image" />
         </entry>
 
         <entry id="M-VGMDB-AL-93441" title="Yell and Response / Mashumairesh!!">
@@ -516,6 +531,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -535,6 +551,7 @@
                     a_eras="pme=10.0:nee=2.0"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -554,6 +571,8 @@
                     a_eras="arc2=10.0"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal/2+image/2" />
+                <role id="M-20220125T063355-4" roles="vocal/2+image/2" />
             </entry>
 
             <entry id="$-2" title="Hoshizora Light Story">
@@ -564,6 +583,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -582,6 +602,7 @@
                     a_eras="arc2=2.5"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
 
             <entry id="$-6" title="Kyukyukyun♡Heart Shaker">
@@ -597,6 +618,7 @@
                     a_eras="akm1=10.0"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-7" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -628,6 +650,8 @@
                     <contributor id="O-20221003T175501-2" factor="0.2" />
                     <contributor id="V-VNDB-17516" factor="0.6" />
                 </nei>
+                <role id="M-20220125T063355-2" roles="vocal/2+image/2" />
+                <role id="M-20220125T063355-4" roles="vocal/2+image/2" />
             </entry>
 
             <entry id="$-5" title="EMPIRE DOMINATOR">
@@ -638,6 +662,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-5" roles="vocal+image" />
             </entry>
 
             <entry id="$-8" title="Anokanatarium">
@@ -655,6 +680,7 @@
                 <!-- there's no one who's like him -->
                 <!-- the one who shines like the sun -->
                 <!-- forever shining is the method -->
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -669,6 +695,7 @@
                     a_eras="akm1=10.0"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-7" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -754,6 +781,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -769,6 +797,7 @@
                     a_eras=""
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-2" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -783,6 +812,7 @@
                     a_eras="akm1=10.0"
                     a_from="arc2"
                 />
+                <role id="M-20220125T063355-7" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -801,6 +831,7 @@
                 <!-- welcome to the post-modern shithole where everything is political -->
                 <!-- NOZSP is truly the party of all time -->
                 <!-- chair gaming -->
+                <role id="M-20220125T063355-7" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -869,6 +900,10 @@
                 <ref name="AKMEraPart2" a_strength="1.0" />
                 <ref name="AKMEraPart3" a_strength="0.6" />
                 <remix id="M-20230606T093630" />
+
+                <role id="M-VGMDB-AR-8480" roles="vocal/2+image_feat/2" />
+                <role id="M-VGMDB-AR-14761" roles="vocal/2+image_feat/2" />
+                <role id="M-VGMDB-AR-29487" roles="prod" />
             </entry>
         </entry>
 
@@ -885,6 +920,7 @@
                     a_eras="akm1=5.0"
                     a_from="akm1"
                 />
+                <role id="M-VGMDB-AR-14761" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -899,6 +935,7 @@
                     a_eras="akm1=5.0"
                     a_from="akm1"
                 />
+                <role id="M-VGMDB-AR-8480" roles="vocal+image_feat" />
             </entry>
         </entry>
 
@@ -924,6 +961,7 @@
                     a_contribution="0.7"
                     a_emotions="MP"
                 />
+                <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
         </entry>
 
@@ -937,69 +975,39 @@
                     a_eras=""
                     a_from="nee"
                 />
+                <role id="M-20220125T063355-7" roles="vocal+image" />
             </entry>
         </entry>
 
-        <entry id="M-20220125T063355-2" title="Plasmagica">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <entry
+            id="M-20220125T063355-2"
+            title="Plasmagica"
+            entrytype="MusicArtist"
+        />
 
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-94913" />
-                <contains id="M-VGMDB-AL-51276" />
-                <contains id="M-20220125T063355-6" factor="0.5" />
-                <contains id="M-VGMDB-AL-51706" />
-                <contains id="M-VGMDB-AL-61217" />
-                <contains id="M-VGMDB-AL-61981" />
-                <contains id="M-VGMDB-AL-59914" />
-                <contains id="M-VGMDB-AL-104341-1" factor="0.5" />
-                <contains id="M-VGMDB-AL-104266-3" />
-                <contains id="M-VGMDB-AL-100082" />
-                <contains id="M-VGMDB-AL-116297" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220125T063355-3"
+            title="Tsurezurenaru Ayatsuri Mugenan"
+            entrytype="MusicArtist"
+        />
 
-        <entry id="M-20220125T063355-3" title="Tsurezurenaru Ayatsuri Mugenan">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <entry
+            id="M-20220125T063355-4"
+            title="Mashumairesh!!"
+            entrytype="MusicArtist"
+        />
 
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-51278" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220125T063355-5"
+            title="BUD VIRGIN LOGIC"
+            entrytype="MusicArtist"
+        />
 
-        <entry id="M-20220125T063355-4" title="Mashumairesh!!">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-93440" />
-                <contains id="M-VGMDB-AL-93441" />
-                <contains id="M-VGMDB-AL-104341-1" factor="0.5" />
-                <contains id="M-VGMDB-AL-104341-2" factor="1.0" />
-                <contains id="M-VGMDB-AL-104267-8" factor="1.0" />
-                <contains id="M-20220702T030659" factor="0.5" />
-            </contains>
-        </entry>
-
-        <entry id="M-20220125T063355-5" title="BUD VIRGIN LOGIC">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-61940" />
-                <contains id="M-VGMDB-AL-104267-5" />
-            </contains>
-        </entry>
-
-        <entry id="M-20220125T063355-7" title="Criticrista">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-104266-6" />
-                <contains id="M-VGMDB-AL-61982" />
-                <contains id="M-VGMDB-AL-105612" />
-                <contains id="M-VGMDB-AL-86315-3" />
-                <!-- when you realized that something is missing -->
-                <contains id="M-VGMDB-AL-76155" />
-            </contains>
-        </entry>
+        <entry
+            id="M-20220125T063355-7"
+            title="Criticrista"
+            entrytype="MusicArtist"
+        />
 
         <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">
             <!-- AllSB69Tracks.keys.forEach { Feature<music base="it" /> } -->
@@ -1017,6 +1025,9 @@
         <music base="0.49" />
         <musicConsumedProgress length="5:02" generatedBy="user" />
         <osuSong personal="0.75" community="0.0" />
+        <musicvar arrange="0.75" />
+        <role id="M-20220113T154228" roles="arrange+image/2" />
+        <role id="M-20220125T063355-2" roles="vocal+image/2" />
     </entry>
 
     <ref name="RSTSB69DuopolyEra" a_strength="0.8">

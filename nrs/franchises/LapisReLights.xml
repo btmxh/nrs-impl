@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <!-- this got paired with rst a lot on /a/ -->
 <!-- which means that maybe my taste isn't that bad after all -->
 <document>
@@ -26,13 +26,7 @@
             />
         </entry>
 
-        <entry id="M-20220324T055811" title="LiGHTs">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-
-            <contains factor="vocal+image">
-                <contains id="M-VGMDB-AL-104957" />
-            </contains>
-        </entry>
+        <entry id="M-20220324T055811" title="LiGHTs" entrytype="MusicArtist" />
 
         <entry
             id="M-VGMDB-AL-104957"
@@ -43,6 +37,7 @@
             <entry id="$-1" title="700,000,000,000,000,000,000,000 no Sora de">
                 <musicConsumedProgress length="4:36" />
                 <music base="0.40" />
+                <role id="M-20220324T055811" roles="vocal+image" />
             </entry>
         </entry>
     </entry>

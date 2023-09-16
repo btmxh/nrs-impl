@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="M-MAL-36631" title="Pandora Voxx Complete">
         <!-- there is no vgmdb entry for this -->
@@ -20,6 +20,8 @@
             <remix id="M-20220205T023322-1" />
             <remix id="M-20220205T023322-3" />
             <remix id="M-VGMDB-AL-89290-6" />
+
+            <role id="M-VGMDB-AR-26614" roles="inst+vocal+lyrics+image" />
         </entry>
     </entry>
 
@@ -31,6 +33,8 @@
         <!-- Length source: https://www.nicovideo.jp/watch/sm20429546 -->
         <music base="0.54" />
         <musicConsumedProgress length="4:32" generatedBy="user" />
+        <role id="M-VGMDB-AR-26614" roles="inst+lyrics" />
+        <role id="M-VGMDB-AR-4276" roles="vocal+image" />
     </entry>
 
     <entry id="M-20220205T023322-3" title="Chikyuu Saigo no Kokuhaku wo (HAG)">
@@ -38,6 +42,8 @@
         <!-- Length source: https://open.spotify.com/album/57fYw02YKyHnr1rQ15Ynkx -->
         <music base="0.46" />
         <musicConsumedProgress length="4:23" generatedBy="user" />
+        <role id="M-VGMDB-AR-26614" roles="compose+lyrics" />
+        <role id="M-20220205T023322-2" roles="arrange+vocal+image" />
     </entry>
 
     <entry id="M-20221115T105859" title="AI">
@@ -157,6 +163,7 @@
 
         <!-- Length source: https://www.youtube.com/watch?v=H_rOo9HNF3w -->
         <musicConsumedProgress length="4:53" />
+        <role id="M-VGMDB-AR-25289" roles="music_total" />
     </entry>
 
     <entry id="M-20221224T223044" title="Hitori no Kimi to Hitori no Boku ni">

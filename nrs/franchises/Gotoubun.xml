@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9342" title="Gotoubun no Hanayome">
         <entry id="A-MAL-38101" title="5-toubun no Hanayome">
@@ -54,6 +54,9 @@
             <entry id="$-1" title="Gotoubun no Kimochi">
                 <musicConsumedProgress length="3:42" />
                 <music base="0.34" />
+                <role id="M-VGMDB-AR-15361" roles="vocal/5+image_feat/5" />
+                <role id="M-VGMDB-AR-12726" roles="vocal/5+image_feat/5" />
+                <role id="M-VGMDB-AR-6783" roles="vocal/5+image_feat/5" />
             </entry>
         </entry>
     </entry>

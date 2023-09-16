@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6946" title="Egao no Daika">
         <entry id="A-MAL-38544" title="Egao no Daika">
@@ -43,6 +43,8 @@
                 <musicConsumedProgress length="3:50" generatedBy="user" />
                 <music base="0.46" />
                 <osuSong personal="0.25" community="0.0" />
+                <musicvar feat="true" />
+                <role id="M-20220211T055120" roles="vocal/2+image" />
             </entry>
         </entry>
     </entry>

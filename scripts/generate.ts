@@ -1,6 +1,6 @@
 import { ensureDir } from "fs";
 import { writableStreamFromWriter } from "streams";
-import { ContextConfig, newContext, processContext } from "nrslib";
+import { ContextConfig, newContext, processContext } from "nrslib/mod.ts";
 import { FileResolver, processNRSXML } from "nrsml";
 
 await ensureDir("output");
@@ -19,6 +19,7 @@ const baseAnimeContextConfig: ContextConfig = {
   extensions: {
     DAH_additional_sources: {},
     DAH_entry_bestGirl: {},
+    DAH_entry_roles: {},
     DAH_entry_title: {},
     DAH_combine_pow: {},
     DAH_entry_progress: {},

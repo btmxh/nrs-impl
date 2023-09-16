@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <!-- kind of a mess rn -->
 <document>
     <entry id="M-VGMDB-AR-12225" title="xi">
@@ -69,6 +69,7 @@
         <entry id="$-2" title="COLORFUL DAYS!!">
             <musicConsumedProgress length="4:31" />
             <music base="0.63" />
+            <role id="M-VGMDB-AR-3240" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -100,6 +101,7 @@
 
             <!-- "khi chân trời đầy nước mắt -->
             <!-- nước mắt sẽ hóa thành ước mơ" -->
+            <role id="M-VGMDB-AR-3240" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -111,6 +113,7 @@
         <entry id="$-1" title="Haruoto＊Bell fullver.">
             <musicConsumedProgress length="4:24" />
             <music base="0.58" />
+            <role id="M-VGMDB-AR-3240" roles="vocal+image" />
         </entry>
     </entry>
 
@@ -518,6 +521,7 @@
         <osuSong personal="0.75" community="0.25" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/467337#osu/999944 -->
         <musicConsumedProgress length="3:07" />
+        <role id="M-VGMDB-AR-4276" roles="vocal+image" />
     </entry>
     <entry id="M-20221202T205227" title="Yubi Bouenkyou">
         <music base="0.54" />
@@ -533,6 +537,8 @@
         <osuSong personal="0.75" community="0.8" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/331499 -->
         <musicConsumedProgress length="5:42" />
+        <musicvar arrange="0.75" />
+        <role id="M-20220113T154228" roles="arrange+image/2" />
     </entry>
     <entry id="M-20221202T205043" title="Wizard's Tower">
         <music base="0.38" />
@@ -655,6 +661,7 @@
         <osuSong personal="0.6" community="0.1" />
         <!-- Length source: https://osu.ppy.sh/beatmapsets/206335#osu/486613 -->
         <musicConsumedProgress length="4:02" />
+        <role id="M-VGMDB-AR-4276" roles="vocal+image" />
     </entry>
     <entry id="M-20221202T202350" title="Moratorium no Oto">
         <music base="0.46" />
@@ -958,6 +965,7 @@
                 length="4:03"
                 generatedBy="fill_music_metadata.dart v0.1.1"
             />
+            <role id="M-VGMDB-AR-8196" roles="vocal+image" />
         </entry>
 
         <entry id="$-8" title="Raririreru, Ririro, Riraro">
@@ -985,6 +993,7 @@
             <music base="0.61" />
             <remix id="M-VGMDB-AL-108194-5" />
             <nei base="0.2" emotions="CU" />
+            <role id="M-VGMDB-AR-8196" roles="vocal+image" />
         </entry>
     </entry>
     <entry id="M-20221127T140303" title="Akaneiro no Mahou">

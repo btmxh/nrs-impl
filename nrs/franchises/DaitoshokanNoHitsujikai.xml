@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="/home/torani/dev/nrsml/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3065" title="Daitoshokan no Hitsujikai">
         <entry id="A-MAL-17827" title="Daitoshokan no Hitsujikai">
@@ -40,6 +40,7 @@
                 <musicConsumedProgress length="4:00" />
                 <remix id="M-20230507T151127" />
                 <remix id="M-20230507T151751" />
+                <role id="M-VGMDB-AR-3240" roles="vocal+image" />
             </entry>
         </entry>
 
