@@ -838,7 +838,9 @@
 
     <entry id="M-VGMDB-AR-48767" title="EmoCosine" />
 
-    <entry id="M-VGMDB-AL-128840" title="Find My Future" />
+    <entry id="M-VGMDB-AL-128840" title="Find My Future">
+        <visual type="albumArt" base="0.3" unique="0.75" />
+    </entry>
 
     <entry id="M-VGMDB-AR-40119" title="Akki" />
 

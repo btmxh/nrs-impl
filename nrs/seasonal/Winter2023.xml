@@ -133,6 +133,8 @@
     </entry>
 
     <entry id="M-VGMDB-AL-125426" title="Self Hug Big Love / Yui Nishio">
+        <visual type="albumArt" base="0.15" unique="0.1" />
+
         <entry id="$-1" title="Self Hug Big Love">
             <!-- i also disregarded this (this should not come as a -->
             <!-- surprise anymore lol) but ACCM lmfao -->
