@@ -16,6 +16,7 @@
     <include src="franchises/CellAtWork.xml" />
     <include src="franchises/Charlotte.xml" />
     <include src="franchises/Chuunibyou.xml" />
+    <include src="franchises/Clannad.xml" />
     <include src="franchises/CloverDays.xml" />
     <include src="franchises/CommonArtists.xml" />
     <include src="franchises/COTE.xml" />

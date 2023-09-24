@@ -1,0 +1,84 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <!-- yep, anime is dying -->
+    <entry id="F-VGMDB-1018" title="CLANNAD">
+        <source>
+            <vgmdb product="1018" />
+        </source>
+
+        <entry id="A-MAL-2167" title="Clannad">
+            <source>
+                <adb id="5101" />
+                <al id="2167" />
+                <ks id="1962" />
+                <mal id="2167" />
+            </source>
+
+            <bestGirl name="Nagisa Furukawa" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.8"
+                episodes="23"
+            />
+            <visual type="animated" base="0.35" unique="0.75" />
+
+            <!-- i mean, there are some things here -->
+            <!-- it's not as good as ~~last episode~~, i mean after story -->
+            <!-- but yeah this is still somewhat emotional -->
+            <nei base="0.3" emotions="CU-0.5:CP-0.5" />
+
+            <!-- omegasad -->
+            <!-- <killedBy id="A-MAL-4181" potential="0.3" effect="1.0" /> -->
+        </entry>
+
+        <entry id="A-MAL-4181" title="Clannad: After Story">
+            <source>
+                <adb id="5841" />
+                <al id="4181" />
+                <ks id="3505" />
+                <mal id="4181" />
+            </source>
+
+            <!-- i cried at least twice because of the comparison with my pathetic life -->
+            <cry emotions="MU">
+                <contributor id="A-MAL-4181" factor="0.7" />
+                <contributor
+                    id="Progressive Crisis [null entry]"
+                    factor="0.3"
+                />
+            </cry>
+            <cry emotions="MU">
+                <contributor id="A-MAL-4181" factor="0.7" />
+                <contributor
+                    id="Progressive Crisis [null entry]"
+                    factor="0.3"
+                />
+            </cry>
+
+            <!-- cute daughter widepeepohappy -->
+            <cry emotions="MP-0.25:CP-0.75" />
+
+            <!-- his daughter... omegasad -->
+            <cry emotions="CU" />
+
+            <!-- nagisus-related stuff -->
+            <cry emotions="CU" />
+
+            <bestGirl name="Nagisa Furukawa" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.95"
+                episodes="24"
+            />
+            <visual type="animated" base="0.5" unique="0.75" />
+        </entry>
+
+        <!-- we have humor ig -->
+        <nei base="0.6" emotions="AP">
+            <contributor id="A-MAL-2167" factor="0.7" />
+            <contributor id="A-MAL-4181" factor="0.3" />
+        </nei>
+    </entry>
+</document>
