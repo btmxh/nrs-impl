@@ -244,7 +244,7 @@
             id="M-VGMDB-AL-127729"
             title="Ne, Sukitte Itaiyo. ~Kokuhaku Jikko Iinkai Character Song Collection~ / HoneyWorks"
         >
-            <!-- <visual type="albumArt" base="0.15" unique="0.5" /> -->
+            <visual type="albumArt" base="0.15" unique="0.5" />
 
             <entry
                 id="$-9"
