@@ -27,6 +27,7 @@
         </source>
 
         <!-- nah im not making that :clueless: daughter the best girl aint nah bro -->
+        <validatorSuppress rules="dah-no-best-girl" />
 
         <aei base="0.2" emotions="AP" />
         <visual type="animated" base="0.2" unique="0.4" />
@@ -46,6 +47,33 @@
         <nei base="0.8" emotions="AP" />
         <visual type="animated" base="0.3" unique="0.6" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+
+        <featureMusic id="M-VGMDB-AL-128439-1" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-128439" title="MAGICAL DESTROYER / Aimi">
+        <source>
+            <urls>
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/128439"
+                    generatedBy="music.ts 822494e-655b9f71"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.2" unique="0.3" />
+        <entry id="$-1" title="MAGICAL DESTROYER">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=eY6UODku6Og"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="3:47" />
+        </entry>
     </entry>
 
     <entry id="A-MAL-50871" title="Alice Gear Aegis Expansion">
@@ -56,12 +84,66 @@
             <mal id="50871" />
         </source>
 
-        <!-- nah im not making that :clueless: daughter the best girl aint nah bro -->
+        <bestGirl name="Nodoka Takahata" />
 
         <nei base="0.9" emotions="AP" />
         <visual type="animated" base="0.6" unique="0.1" />
 
         <!-- blame ksdgk -->
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="10" />
+        <dropped />
+
+        <featureMusic id="M-VGMDB-AL-127924-1" />
+        <featureMusic id="M-VGMDB-AL-127927-1" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-127924" title="Dash and Go! / Aina Suzuki">
+        <source>
+            <urls>
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/127924"
+                    generatedBy="music.ts 822494e-655b9e87"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.2" unique="0.4" />
+        <entry id="$-1" title="Dash and Go!">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=NbHSXce7uRw"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <musicConsumedProgress length="4:15" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-127927" title="Just a little bit / Marina Horiuchi">
+        <source>
+            <urls>
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/127927"
+                    generatedBy="music.ts 822494e-655b9e87"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.2" unique="0.4" />
+        <entry id="$-1" title="Just a little bit">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=Jo9H4MohmGc"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="3:48" />
+        </entry>
     </entry>
 </document>
