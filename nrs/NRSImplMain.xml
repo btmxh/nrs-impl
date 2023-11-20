@@ -24,6 +24,7 @@
     <include src="franchises/D4DJ.xml" />
     <include src="franchises/DrStone.xml" />
     <include src="franchises/DaitoshokanNoHitsujikai.xml" />
+    <include src="franchises/DMDP.xml" />
     <include src="franchises/EgaoDaika.xml" />
     <include src="seasonal/Fall2022.xml" />
     <include src="franchises/GakkouGurashi.xml" />
