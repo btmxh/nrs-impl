@@ -105,5 +105,25 @@
             />
             <visual type="animated" base="0.5" unique="0.2" />
         </entry>
+
+        <entry id="A-MAL-51536" title="The iDOLM@STER Cinderella Girls: U149">
+            <source>
+                <adb id="17301" />
+                <al id="146975" />
+                <ks id="46049" />
+                <mal id="51536" />
+            </source>
+
+            <bestGirl name="Arisu Tachibana" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
+            <visual type="animated" base="0.6" unique="0.15" />
+
+            <!-- that subreddit -->
+            <aei base="0.2" emotions="AP" />
+        </entry>
     </entry>
 </document>
