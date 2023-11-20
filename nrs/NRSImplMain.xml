@@ -47,6 +47,7 @@
     <include src="franchises/KoisuruAsteroid.xml" />
     <include src="franchises/KokoroConnect.xml" />
     <include src="franchises/KokuhakuJikkouIinkai.xml" />
+    <include src="franchises/KumaBear.xml" />
     <include src="franchises/LapisReLights.xml" />
     <include src="franchises/LoveLab.xml" />
     <include src="franchises/LoveLive.xml" />

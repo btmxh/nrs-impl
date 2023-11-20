@@ -1,0 +1,46 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="F-VGMDB-9765" title="Kuma Kuma Kuma Bear">
+        <entry id="A-MAL-40974" title="Kuma Kuma Kuma Bear">
+            <source>
+                <adb id="15342" />
+                <al id="114340" />
+                <ks id="43214" />
+                <mal id="40974" />
+            </source>
+
+            <!-- literally me frfr -->
+            <bestGirl name="Yuna" />
+
+            <!-- average at best -->
+            <nei base="0.3" emotions="AP" />
+            <visual type="animated" base="0.5" unique="0.2" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="12"
+            />
+        </entry>
+
+        <entry id="A-MAL-45486" title="Kuma Kuma Kuma Bear Punch">
+            <source>
+                <adb id="15945" />
+                <al id="127550" />
+                <ks id="43863" />
+                <mal id="45486" />
+            </source>
+
+            <!-- literally me frfr -->
+            <bestGirl name="Yuna" />
+
+            <!-- average at best -->
+            <nei base="0.3" emotions="AP" />
+            <visual type="animated" base="0.5" unique="0.2" />
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="12"
+            />
+        </entry>
+    </entry>
+</document>
