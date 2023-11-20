@@ -24,6 +24,7 @@
     <include src="franchises/D4DJ.xml" />
     <include src="franchises/DrStone.xml" />
     <include src="franchises/DaitoshokanNoHitsujikai.xml" />
+    <include src="franchises/DMDP.xml" />
     <include src="franchises/EgaoDaika.xml" />
     <include src="seasonal/Fall2022.xml" />
     <include src="franchises/GakkouGurashi.xml" />
@@ -83,6 +84,7 @@
     <include src="franchises/StellaMahou.xml" />
     <include src="franchises/SthKara.xml" />
     <include src="seasonal/Summer2022.xml" />
+    <include src="seasonal/Summer2023.xml" />
     <include src="franchises/SwordArtOnline.xml" />
     <include src="franchises/Tanmoshi.xml" />
     <include src="franchises/TariTari.xml" />

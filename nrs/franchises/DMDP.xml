@@ -1,0 +1,141 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="F-VGMDB-12890" title="Death Mount Dead Play">
+        <entry id="A-MAL-53613" title="Dead Mount Death Play">
+            <source>
+                <adb id="17719" />
+                <al id="157198" />
+                <ks id="46760" />
+                <mal id="53613" />
+            </source>
+
+            <!-- (the only acceptable girl) -->
+            <bestGirl name="Misaki Sakimiya" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="12"
+            />
+            <featureMusic id="M-VGMDB-AL-128255" />
+
+            <aei base="0.2" emotions="AP" />
+            <visual type="animated" base="0.3" unique="0.4" />
+        </entry>
+        <entry id="A-MAL-54743" title="Dead Mount Death Play Part 2">
+            <source>
+                <adb id="17915" />
+                <al id="162803" />
+                <ks id="47195" />
+                <mal id="54743" />
+            </source>
+
+            <!-- (the only acceptable girl) -->
+            <bestGirl name="Misaki Sakimiya" />
+
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="4"
+            />
+            <featureMusic id="M-VGMDB-AL-131500" />
+
+            <nei base="0.8" emotions="AP" />
+            <visual type="animated" base="0.3" unique="0.4" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-128255" title="Nero / Sou">
+            <source>
+                <urls>
+                    <url
+                        name="itunes-jp"
+                        src="https://music.apple.com/jp/album/1677246395"
+                        generatedBy="music.ts 822494e-655b97f0"
+                    />
+                    <url
+                        name="linkfire"
+                        src="https://lnk.to/sou-nero"
+                        generatedBy="music.ts 822494e-655b97f0"
+                    />
+                    <url
+                        name="mora-aac"
+                        src="https://mora.jp/package/43000014/NOPA-4098/"
+                        generatedBy="music.ts 822494e-655b97f0"
+                    />
+                    <url
+                        name="ototoy-flac"
+                        src="https://ototoy.jp/_/default/p/1593774"
+                        generatedBy="music.ts 822494e-655b97f0"
+                    />
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/1aCpGaeu7Ai7eiB4o22aip"
+                        generatedBy="music.ts 822494e-655b97f0"
+                    />
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/128255"
+                        generatedBy="music.ts 822494e-655b97f0"
+                    />
+                </urls>
+            </source>
+            <visual type="albumArt" base="0.3" unique="0.6" />
+            <entry id="$-1" title="Nero">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/3abxvM4ptugLFRocd7dm5H"
+                            generatedBy="music.ts 822494e-655b97f0"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=j5B0TF3d9Fc"
+                        />
+                    </urls>
+                </source>
+                <music base="0.3" />
+                <musicConsumedProgress length="3:29" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-131500" title="Scrap Art / Inori Minase">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/42jpClLjVy7znnAmzNUJfI"
+                    />
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/131500"
+                        generatedBy="music.ts 822494e-655b98a9"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/playlist?list=OLAK5uy_mu8RB6S10isRZeAwbG60i4GLbkimqjpLo"
+                    />
+                </urls>
+            </source>
+            <visual type="albumArt" base="0.15" unique="0.1" />
+            <entry id="$-1" title="Scrap Art">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/4aH955P1E3svLs4NPNAewA"
+                            generatedBy="music.ts 822494e-655b9913"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=1xfM94Ik4ck"
+                            generatedBy="music.ts 822494e-655b9913"
+                        />
+                    </urls>
+                </source>
+                <music base="0.35" />
+                <musicConsumedProgress length="3:33" />
+            </entry>
+        </entry>
+    </entry>
+</document>
