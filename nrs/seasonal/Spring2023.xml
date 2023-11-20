@@ -17,4 +17,51 @@
         <!-- anti-lovists in shambles rn -->
         <!-- (the dqc daughter meme comes from here kekw) -->
     </entry>
+
+    <entry id="A-MAL-52092" title="My Home Hero">
+        <source>
+            <adb id="17471" />
+            <al id="151189" />
+            <ks id="46209" />
+            <mal id="52092" />
+        </source>
+
+        <!-- nah im not making that :clueless: daughter the best girl aint nah bro -->
+
+        <aei base="0.2" emotions="AP" />
+        <visual type="animated" base="0.2" unique="0.4" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+    </entry>
+
+    <entry id="A-MAL-48981" title="Mahou Shoujo Magical Destroyers">
+        <source>
+            <adb id="16320" />
+            <al id="134131" />
+            <ks id="44586" />
+            <mal id="48981" />
+        </source>
+
+        <bestGirl name="Pink" />
+
+        <nei base="0.8" emotions="AP" />
+        <visual type="animated" base="0.3" unique="0.6" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+    </entry>
+
+    <entry id="A-MAL-50871" title="Alice Gear Aegis Expansion">
+        <source>
+            <adb id="17147" />
+            <al id="144188" />
+            <ks id="43845" />
+            <mal id="50871" />
+        </source>
+
+        <!-- nah im not making that :clueless: daughter the best girl aint nah bro -->
+
+        <nei base="0.9" emotions="AP" />
+        <visual type="animated" base="0.6" unique="0.1" />
+
+        <!-- blame ksdgk -->
+        <animeConsumedProgress status="Dropped" boredom="0.8" episodes="10" />
+    </entry>
 </document>
