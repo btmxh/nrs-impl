@@ -1,0 +1,90 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <!-- "everyone is down bad for the MC" the anime -->
+    <entry
+        id="A-MAL-53438"
+        title="Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
+    >
+        <source>
+            <adb id="17688" />
+            <al id="156040" />
+            <ks id="46689" />
+            <mal id="53438" />
+        </source>
+
+        <bestGirl name="Tiara Royal Ivy" />
+
+        <featureMusic id="M-VGMDB-AL-130741-1" />
+        <!-- iirc some stuff is sad -->
+        <!-- not much tho -->
+        <nei base="0.3" emotions="CU" />
+
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.3" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-130741" title="Kyuseishu / Tsukuyomi">
+        <source>
+            <urls>
+                <url
+                    name="itunes-japan"
+                    src="https://music.apple.com/jp/album/1692905181"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="linkfire"
+                    src="https://tsukuyomi.lnk.to/kyuseishu"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="mora-aac"
+                    src="https://mora.jp/package/43000005/VE3WT-10466/"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="mysound.jp"
+                    src="https://mysound.jp/song/9854815/"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="spotify-jp"
+                    src="https://open.spotify.com/album/6U2J876mV2hxeSVr0KjRdV"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/130741"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+                <url
+                    name="youtube-music"
+                    src="https://www.youtube.com/watch?v=0I25axTqk5w"
+                    generatedBy="music.ts 822494e-655ba0c3"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.2" unique="0.4" />
+        <entry id="$-1" title="救世主">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q"
+                        generatedBy="music.ts 822494e-655ba0c3"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=0I25axTqk5w"
+                    />
+                </urls>
+            </source>
+            <music base="0.35" />
+            <musicConsumedProgress length="3:17" />
+        </entry>
+    </entry>
+</document>
