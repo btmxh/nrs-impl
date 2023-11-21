@@ -175,6 +175,8 @@
             <!-- song with solid emotional impacts are buffed -->
             <!-- so it's fair as fuck please stfu -->
             <nei base="0.8" emotions="MP-0.7:CP-0.3" />
+            <!-- sanada sb69 song momento -->
+            <aei base="0.2" emotions="CU" />
             <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
 
