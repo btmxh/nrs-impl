@@ -405,10 +405,11 @@
         <entry
             id="M-20231121T122539"
             title="Kokuhaku Jikkou Iinkai FLYING SONGS: Aishiteru"
+            entrytype="MusicAlbum"
         >
             <!-- nah bro this is not the CD cover, i'm not rating MEN -->
             <visual type="albumArt" base="0.5" unique="0.35" />
-            <entry id="$-4" title="Hokori Takaki Idol">
+            <entry id="$-4" title="Hokori Takaki Idol" entrytype="MusicTrack">
                 <source>
                     <urls>
                         <url
@@ -422,6 +423,8 @@
                 <!-- this comes out first, so it's the original -->
                 <!-- a little bit unfair ik -->
                 <remix id="M-VGMDB-AL-112538-4" />
+                <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
+                <musicConsumedProgress length="4:14" />
             </entry>
         </entry>
 
