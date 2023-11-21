@@ -517,6 +517,9 @@
         >
             <visual type="manga" base="0.6" unique="0.3" />
 
+            <!-- sasuga sb69va-sama -->
+            <bestGirl name="Mia Luna Tearmoon" />
+
             <!-- 29 chapters -->
             <consumedProgress
                 status="Watching"
