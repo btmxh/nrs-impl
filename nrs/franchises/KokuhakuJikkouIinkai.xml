@@ -468,31 +468,70 @@
         </entry>
     </entry>
 
-    <!-- THE COLLAB THAT NO SANE MINDS COULD EVER EXPECT -->
-    <!-- DURING THE ABSOLUTE DOMINANCE OF A CERTAIN "MARRIED WOMAN" -->
-    <!-- I PRAYGE TO THE "PEAKNESS" OF TEARMOON EMPEAK -->
-    <!-- (:middle_finger: KSDGK YOU SHOULD :thunder:) -->
+    <!-- bratty vgmdb hasn't made a product page for this smh -->
     <entry
-        id="A-MAL-52962"
+        id="F-MAL-52962"
         title="Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story"
     >
-        <source>
-            <adb id="17608" />
-            <al id="154384" />
-            <ks id="46455" />
-            <mal id="52962" />
-        </source>
+        <!-- just like how mia-sama accidentally changes things -->
+        <!-- this series unexpectedly blew up due to funny honeycucks manga -->
+        <!-- and the circumstances of the post-progressive era -->
 
-        <!-- sasuga sb69va-sama -->
-        <bestGirl name="Mia Luna Tearmoon" />
+        <!-- THE COLLAB THAT NO SANE MINDS COULD EVER EXPECT -->
+        <!-- DURING THE ABSOLUTE DOMINANCE OF A CERTAIN "MARRIED WOMAN" -->
+        <!-- I PRAYGE TO THE "PEAKNESS" OF TEARMOON EMPEAK -->
+        <!-- (:middle_finger: KSDGK YOU SHOULD :thunder:) -->
+        <entry
+            id="A-MAL-52962"
+            title="Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story"
+        >
+            <source>
+                <adb id="17608" />
+                <al id="154384" />
+                <ks id="46455" />
+                <mal id="52962" />
+            </source>
 
-        <!-- :xdd: -->
-        <aei base="1.0" emotions="AP" />
+            <!-- sasuga sb69va-sama -->
+            <bestGirl name="Mia Luna Tearmoon" />
 
-        <visual type="animated" base="0.5" unique="0.2" />
-        <animeConsumedProgress status="Watching" boredom="1.0" episodes="7" />
+            <!-- idk but first ep is wholesome af -->
+            <!-- almost made me cry iirc -->
+            <!-- but TEARMOON EMPEAK needs no dirty buffs so it's only 0.2 for now -->
+            <aei base="0.2" emotions="CU-0.5:MP-0.5" />
 
-        <featureMusic id="M-VGMDB-AL-132951-1" />
+            <visual type="animated" base="0.5" unique="0.2" />
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="7"
+            />
+
+            <featureMusic id="M-VGMDB-AL-132951-1" />
+        </entry>
+
+        <entry
+            id="L-MAL-121484"
+            title="Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story @comic"
+            entrytype="Manga"
+        >
+            <visual type="manga" base="0.6" unique="0.3" />
+
+            <!-- 29 chapters -->
+            <consumedProgress
+                status="Watching"
+                boredom="1.0"
+                duration="1:30:00"
+            />
+        </entry>
+
+        <!-- i also read a bit of the LN, so that will be ranked soon -->
+        <!-- sasuga TEARMOON EMPEAK -->
+
+        <ehi>
+            <contributor id="A-MAL-52962" factor="0.75" />
+            <contributor id="L-MAL-121484" factor="0.25" />
+        </ehi>
     </entry>
 
     <entry id="M-VGMDB-AL-132951" title="Happyend Princess / Sumire Uesaka">
@@ -545,7 +584,8 @@
 
     <!-- solved post-progressive crisis btw -->
     <politics>
-        <contributor id="A-MAL-52962" factor="0.4" />
+        <contributor id="A-MAL-52962" factor="0.3" />
+        <contributor id="L-MAL-121484" factor="0.1" />
         <contributor id="L-MAL-139873" factor="0.4" />
         <contributor id="M-VGMDB-AL-112538" factor="0.2" />
     </politics>
