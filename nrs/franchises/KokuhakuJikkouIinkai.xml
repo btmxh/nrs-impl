@@ -373,5 +373,180 @@
             <!-- no way post-modern (not rst-inspired) cp-based anime!1! -->
             <nei base="0.5" emotions="CP" />
         </entry>
+
+        <entry
+            id="M-VGMDB-AL-112538"
+            title="#Namae dake demo Oboetette Kudasai / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/112538"
+                        generatedBy="music.ts 822494e-655c40b0"
+                    />
+                </urls>
+            </source>
+            <visual type="albumArt" base="0.5" unique="0.3" />
+            <entry id="$-4" title="Hokori Takaki Idol">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=yMABvUMzBEQ"
+                        />
+                    </urls>
+                </source>
+                <music base="0.55" />
+                <musicConsumedProgress length="4:14" />
+            </entry>
+        </entry>
+
+        <entry
+            id="M-20231121T122539"
+            title="Kokuhaku Jikkou Iinkai FLYING SONGS: Aishiteru"
+            entrytype="MusicAlbum"
+        >
+            <!-- nah bro this is not the CD cover, i'm not rating MEN -->
+            <visual type="albumArt" base="0.5" unique="0.35" />
+            <entry id="$-4" title="Hokori Takaki Idol" entrytype="MusicTrack">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://youtu.be/Qou76O_Rys0"
+                        />
+                    </urls>
+                </source>
+                <!-- kotoha slaps -->
+                <music base="0.6" />
+                <!-- this comes out first, so it's the original -->
+                <!-- a little bit unfair ik -->
+                <remix id="M-VGMDB-AL-112538-4" />
+                <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
+                <musicConsumedProgress length="4:14" />
+            </entry>
+        </entry>
+
+        <entry id="L-MAL-139873" title="Watashi, Idol Sengen" entrytype="Manga">
+            <!-- When I tried to go out of my comfort zone, -->
+            <!-- everything tends to spiral out of control and -->
+            <!-- I messed up at everything I do. -->
+
+            <!-- I look at other people and I was jealous, -->
+            <!-- they were barely serious with their work compared -->
+            <!-- to me, and their life is so carefree and simple. -->
+
+            <!-- It seems that everything they do is bounded to -->
+            <!-- end well... -->
+
+            <!-- This is very demotivating for me... -->
+
+            <!-- hahdajhdfjsdkfkjsdhfsjdakf sena -->
+            <bestGirl name="Mona Narumi" />
+
+            <visual type="manga" base="0.5" unique="0.2" />
+            <!-- 18 chapters -->
+            <consumedProgress
+                status="Watching"
+                boredom="1.0"
+                duration="1:00:00"
+            />
+
+            <!-- ... But then I realized -->
+            <!-- that the world is trying as hard as, -->
+            <!-- no, even harder than me. They are not -->
+            <!-- blessed by gods or anything, and they -->
+            <!-- are just ordinary humans, simply trying -->
+            <!-- their best. It's just that I don't know -->
+            <!-- about their failure and slip-ups, due to -->
+            <!-- me not interacting much with them. -->
+
+            <!-- This is the sequel to the failure known as the Neo-Ayumu Era. -->
+            <!-- Three year after a merely idol anime unexpectedly changing the world -->
+            <!-- Another seasonal anime is going to steal the show... -->
+        </entry>
     </entry>
+
+    <!-- THE COLLAB THAT NO SANE MINDS COULD EVER EXPECT -->
+    <!-- DURING THE ABSOLUTE DOMINANCE OF A CERTAIN "MARRIED WOMAN" -->
+    <!-- I PRAYGE TO THE "PEAKNESS" OF TEARMOON EMPEAK -->
+    <!-- (:middle_finger: KSDGK YOU SHOULD :thunder:) -->
+    <entry
+        id="A-MAL-52962"
+        title="Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story"
+    >
+        <source>
+            <adb id="17608" />
+            <al id="154384" />
+            <ks id="46455" />
+            <mal id="52962" />
+        </source>
+
+        <!-- sasuga sb69va-sama -->
+        <bestGirl name="Mia Luna Tearmoon" />
+
+        <!-- :xdd: -->
+        <aei base="1.0" emotions="AP" />
+
+        <visual type="animated" base="0.5" unique="0.2" />
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="7" />
+
+        <featureMusic id="M-VGMDB-AL-132951-1" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-132951" title="Happyend Princess / Sumire Uesaka">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1YPR9loBizv7DdvA6K71p3"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/132951"
+                    generatedBy="music.ts 822494e-655c3dd3"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mHUFcQebnWnIOEw5OQBE78SPMPcHwN-aE"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.2" unique="0.3" />
+        <entry id="$-1" title="ハッピーエンドプリンセス">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0W3B6GWOkcCQ6gzfOr4bRo"
+                        generatedBy="music.ts 822494e-655c3e58"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=dC_Fv38OBN8"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="3:28" />
+        </entry>
+    </entry>
+
+    <!-- motivating asf man -->
+    <!-- fuck ksdgk and the world, i will just repeat the same mistake again -->
+    <!-- at least it's better than serving a ksdgk with no proper treatment -->
+    <!-- to a hardworking nozsist state :middle_finger: -->
+    <aei base="0.9" emotions="CP-0.8:MP-0.2">
+        <contributor id="A-MAL-52962" factor="0.4" />
+        <contributor id="L-MAL-139873" factor="0.4" />
+        <contributor id="M-VGMDB-AL-112538" factor="0.2" />
+    </aei>
+
+    <!-- solved post-progressive crisis btw -->
+    <politics>
+        <contributor id="A-MAL-52962" factor="0.4" />
+        <contributor id="L-MAL-139873" factor="0.4" />
+        <contributor id="M-VGMDB-AL-112538" factor="0.2" />
+    </politics>
 </document>

@@ -1,0 +1,82 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry id="A-MAL-53833" title="Watashi no Oshi wa Akuyaku Reijou.">
+        <source>
+            <adb id="17766" />
+            <al id="158704" />
+            <ks id="46856" />
+            <mal id="53833" />
+        </source>
+
+        <!-- fr -->
+        <bestGirl name="Ralaire" />
+
+        <visual type="animated" base="0.3" unique="0.6" />
+        <animeConsumedProgress status="Watching" boredom="0.9" episodes="6" />
+        <!-- peak MC -->
+        <aei base="0.3" emotions="AP" />
+    </entry>
+    <entry id="A-MAL-53237" title="Shy">
+        <source>
+            <adb id="17658" />
+            <al id="155389" />
+            <ks id="46589" />
+            <mal id="53237" />
+        </source>
+
+        <!-- she is just like me fr -->
+        <bestGirl name="Teru Momijiyama" />
+
+        <visual type="animated" base="0.45" unique="0.2" />
+        <animeConsumedProgress status="Watching" boredom="0.8" episodes="5" />
+    </entry>
+
+    <entry id="A-MAL-53262" title="Hoshikuzu Telepath">
+        <source>
+            <adb id="17663" />
+            <al id="155419" />
+            <ks id="46601" />
+            <mal id="53262" />
+        </source>
+
+        <!-- she is just like me fr (part 2) -->
+        <bestGirl name="Umika Konohoshi" />
+
+        <visual type="animated" base="0.7" unique="0.2" />
+        <animeConsumedProgress status="Watching" boredom="0.75" episodes="5" />
+    </entry>
+
+    <entry id="A-MAL-54041" title="16bit Sensation: Another Layer">
+        <source>
+            <adb id="17802" />
+            <al id="159559" />
+            <ks id="46934" />
+            <mal id="54041" />
+        </source>
+
+        <!-- she is just like me fr (please stfu) -->
+        <bestGirl name="Konoha Akisato" />
+
+        <visual type="animated" base="0.5" unique="0.2" />
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="5" />
+
+        <!-- magireco mentioned!!11!1!!!11! -->
+        <nei base="0.3" emotions="AP" />
+    </entry>
+
+    <!-- filler anime fr -->
+    <entry id="A-MAL-55894" title="Bokura no Ameiro Protocol">
+        <source>
+            <adb id="18105" />
+            <al id="166896" />
+            <ks id="47701" />
+            <mal id="55894" />
+        </source>
+
+        <!-- wife -->
+        <bestGirl name="Nozomi Inatsuki" />
+
+        <visual type="animated" base="0.6" unique="0.1" />
+        <animeConsumedProgress status="Watching" boredom="0.9" episodes="4" />
+    </entry>
+</document>

@@ -93,5 +93,33 @@
                 <music base="0.46" />
             </entry>
         </entry>
+
+        <!-- washed anime -->
+        <entry
+            id="A-MAL-54595"
+            title="Kage no Jitsuryokusha ni Naritakute! 2nd Season"
+        >
+            <source>
+                <adb id="17877" />
+                <al id="161964" />
+                <ks id="47099" />
+                <mal id="54595" />
+            </source>
+
+            <!-- idk maybe akm girl -->
+            <bestGirl name="Claire Kagenou" />
+
+            <!-- humor -->
+            <nei base="0.9" emotions="AP" />
+
+            <animeConsumedProgress
+                status="Watching"
+                boredom="0.9"
+                episodes="6"
+            />
+
+            <!-- no sherry kekwing -->
+            <visual type="animated" base="0.3" unique="0.4" />
+        </entry>
     </entry>
 </document>
