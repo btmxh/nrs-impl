@@ -63,4 +63,20 @@
         <!-- magireco mentioned!!11!1!!!11! -->
         <nei base="0.3" emotions="AP" />
     </entry>
+
+    <!-- filler anime fr -->
+    <entry id="A-MAL-55894" title="Bokura no Ameiro Protocol">
+        <source>
+            <adb id="18105" />
+            <al id="166896" />
+            <ks id="47701" />
+            <mal id="55894" />
+        </source>
+
+        <!-- wife -->
+        <bestGirl name="Nozomi Inatsuki" />
+
+        <visual type="animated" base="0.6" unique="0.1" />
+        <animeConsumedProgress status="Watching" boredom="0.9" episodes="4" />
+    </entry>
 </document>

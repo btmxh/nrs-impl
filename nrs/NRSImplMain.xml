@@ -27,6 +27,7 @@
     <include src="franchises/DMDP.xml" />
     <include src="franchises/EgaoDaika.xml" />
     <include src="seasonal/Fall2022.xml" />
+    <include src="seasonal/Fall2023.xml" />
     <include src="franchises/GakkouGurashi.xml" />
     <include src="franchises/GochiUsa.xml" />
     <include src="franchises/Gotoubun.xml" />
