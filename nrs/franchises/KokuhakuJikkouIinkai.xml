@@ -592,4 +592,11 @@
         <contributor id="L-MAL-139873" factor="0.4" />
         <contributor id="M-VGMDB-AL-112538" factor="0.2" />
     </politics>
+
+    <meme from="2023-11-20" to="today" strength="0.9">
+        <contributor id="A-MAL-52962" factor="0.5" />
+        <contributor id="L-MAL-121484" factor="0.2" />
+        <contributor id="L-MAL-139873" factor="0.2" />
+        <contributor id="M-VGMDB-AL-112538" factor="0.1" />
+    </meme>
 </document>
