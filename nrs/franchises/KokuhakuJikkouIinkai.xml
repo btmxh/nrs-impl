@@ -606,7 +606,7 @@
     <aei base="0.9" emotions="CP-0.8:MP-0.2">
         <contributor id="A-MAL-52962" factor="0.4" />
         <contributor id="L-MAL-139873" factor="0.4" />
-        <contributor id="M-VGMDB-AL-112538-4" factor="0.2" />
+        <contributor id="M-20231121T122539-4" factor="0.2" />
     </aei>
 
     <!-- just look at the anti-ksdgk ramblings lmfao -->
@@ -614,7 +614,8 @@
     <!-- (fuck u ksdgk) -->
     <aei base="0.5" emotions="AU">
         <contributor id="A-MAL-52962" factor="0.05" />
-        <contributor id="M-20231121T122539-4" factor="0.5" />
+        <contributor id="M-20231121T122539-4" factor="0.25" />
+        <validatorSuppress rules="dah-sum-contain-weight" />
     </aei>
 
     <!-- solved post-progressive crisis btw -->
@@ -622,7 +623,7 @@
         <contributor id="A-MAL-52962" factor="0.3" />
         <contributor id="L-MAL-121484" factor="0.1" />
         <contributor id="L-MAL-139873" factor="0.4" />
-        <contributor id="M-VGMDB-AL-112538-4" factor="0.2" />
+        <contributor id="M-20231121T122539-4" factor="0.2" />
     </politics>
 
     <!-- aflism -->
@@ -635,7 +636,7 @@
         <contributor id="L-MAL-139873" factor="0.2" />
         <!-- reminder that ayumu was only responsible for 20-30% of the peakness of ayumu-era -->
         <contributor id="A-MAL-40879" factor="0.05" />
-        <contributor id="M-VGMDB-AL-112538-4" factor="0.05" />
+        <contributor id="M-20231121T122539-4" factor="0.05" />
 
         <validatorSuppress rules="dah-sum-contain-weight" />
     </politics>
