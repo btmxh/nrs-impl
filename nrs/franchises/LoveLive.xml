@@ -458,10 +458,10 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
 
         <entry id="A-MAL-32526" title="Love Live! Sunshine!!">
             <source>
-                <adb id="11745" />
-                <ks id="32526" />
-                <al id="32526" />
-                <mal id="21584" />
+                <adb id="11878" />
+                <al id="21584" />
+                <ks id="11745" />
+                <mal id="32526" />
             </source>
             <bestGirl name="Riko Sakurauchi" />
             <featureMusic id="M-VGMDB-AL-58147-1" />

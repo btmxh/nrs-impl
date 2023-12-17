@@ -54,11 +54,14 @@ export async function loadAnimeData(
   return map;
 }
 
-function compareAnimeData(lhs: AnimeData, rhs: AnimeData): boolean {
+function compareAnimeData(remote: AnimeData, local: AnimeData): boolean {
+  remote.progress ??= local.progress;
+  remote.episodes ??= local.episodes;
+
   return (
-    Math.abs(lhs.roundedScore - rhs.roundedScore) < 1e-3 &&
-    lhs.progress === rhs.progress &&
-    lhs.episodes === rhs.episodes
+    Math.abs(remote.roundedScore - local.roundedScore) < 1e-3 &&
+    remote.progress === local.progress &&
+    remote.episodes === local.episodes
   );
 }
 

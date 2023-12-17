@@ -81,7 +81,7 @@ async function authenciate(): Promise<string> {
   return data.access_token as string;
 }
 
-async function delay(ms: number): Promise<void> {
+function delay(ms: number): Promise<void> {
   return new Promise<void>((r) => setTimeout(r, ms));
 }
 
@@ -163,7 +163,7 @@ async function getAnimeList() {
   const map = new Map<string, AnimeData>();
   do {
     const request = await fetchAuth(
-      `https://api.myanimelist.net/v2/users/@me/animelist?fields=list_status&offset=${
+      `https://api.myanimelist.net/v2/users/@me/animelist?fields=list_status&limit=100&offset=${
         (pageNum - 1) * 100
       }`,
       {
