@@ -329,6 +329,8 @@
             <nei base="0.2" emotions="AP" />
             <!-- classic atm farm idk -->
             <aei base="0.3" emotions="MP-0.3:CU-0.7" />
+            <!-- not-so-classic afl farm -->
+            <cry emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-120871-5" />
         </entry>
 
