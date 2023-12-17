@@ -635,7 +635,7 @@
         <contributor id="L-MAL-139873" factor="0.2" />
         <!-- reminder that ayumu was only responsible for 20-30% of the peakness of ayumu-era -->
         <contributor id="A-MAL-40879" factor="0.05" />
-        <contributor id="M-VGMDB-AL-112538-1" factor="0.05" />
+        <contributor id="M-VGMDB-AL-112538-4" factor="0.05" />
     </politics>
 
     <meme from="2023-11-20" to="today" strength="1.0">
@@ -643,6 +643,6 @@
         <contributor id="L-MAL-121484" factor="0.1" />
         <contributor id="L-MAL-139873" factor="0.1" />
         <contributor id="M-20231121T122539-4" factor="0.3" />
-        <contributor id="M-VGMDB-AL-112538-1" factor="0.1" />
+        <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
     </meme>
 </document>
