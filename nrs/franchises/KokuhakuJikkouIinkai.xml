@@ -636,6 +636,8 @@
         <!-- reminder that ayumu was only responsible for 20-30% of the peakness of ayumu-era -->
         <contributor id="A-MAL-40879" factor="0.05" />
         <contributor id="M-VGMDB-AL-112538-4" factor="0.05" />
+
+        <validatorSuppress rules="dah-sum-contain-weight" />
     </politics>
 
     <meme from="2023-11-20" to="today" strength="1.0">

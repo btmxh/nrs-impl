@@ -769,7 +769,9 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
     <!-- ayumuism -->
     <politics>
         <contributor id="A-MAL-40879" factor="0.3" />
-        <!-- remaining 70% belongs to so many things lol -->
+        <contributor id="M-VGMDB-AR-11666" factor="0.2" />
+        <!-- remaining belongs to so many things lol -->
         <!-- TODO: add ayumu peak shit -->
+        <validatorSuppress rules="dah-sum-contain-weight" />
     </politics>
 </document>
