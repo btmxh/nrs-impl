@@ -765,4 +765,11 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
         <remix id="M-20230626T223045" />
         <music base="0.6" />
     </entry>
+
+    <!-- ayumuism -->
+    <politics>
+        <contributor id="A-MAL-40879" factor="0.3" />
+        <!-- remaining 70% belongs to so many things lol -->
+        <!-- TODO: add ayumu peak shit -->
+    </politics>
 </document>

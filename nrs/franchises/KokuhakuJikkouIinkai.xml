@@ -475,10 +475,12 @@
     >
         <!-- just like how mia-sama accidentally changes things -->
         <!-- this series unexpectedly blew up due to funny honeycucks manga -->
+        <!-- (wdym honeycucks blew up because of this bruh wtf stfu) -->
         <!-- and the circumstances of the post-progressive era -->
 
         <!-- THE COLLAB THAT NO SANE MINDS COULD EVER EXPECT -->
         <!-- DURING THE ABSOLUTE DOMINANCE OF A CERTAIN "MARRIED WOMAN" -->
+        <!-- FOR THE SECOND TIME IN HISTORY, THE LONELISTS ROSE UP -->
         <!-- I PRAYGE TO THE "PEAKNESS" OF TEARMOON EMPEAK -->
         <!-- (:middle_finger: KSDGK YOU SHOULD :thunder:) -->
         <entry
@@ -504,7 +506,7 @@
             <animeConsumedProgress
                 status="Watching"
                 boredom="1.0"
-                episodes="7"
+                episodes="11"
             />
 
             <featureMusic id="M-VGMDB-AL-132951-1" />
@@ -530,10 +532,32 @@
 
         <!-- i also read a bit of the LN, so that will be ranked soon -->
         <!-- sasuga TEARMOON EMPEAK -->
+        <!-- ranked ikz -->
+        <entry
+            id="L-MAL-128337"
+            title="Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story"
+            entrytype="LightNovel"
+        >
+            <!-- peaked beyond the skies -->
+            <!-- 59 chapters (volume 1) + bonuses -->
+            <consumedProgress
+                status="Watching"
+                boredom="0.8"
+                duration="3:00:00"
+            />
+
+            <!-- sb69 is just a stepping stone for her (fr) to achieve PEAK (real) -->
+            <bestGirl name="Mia Luna Tearmoon" />
+
+            <visual type="lightNovel" base="0.5" unique="0.5" />
+        </entry>
 
         <ehi>
+            <!-- the LN's weight is going to increase as -->
+            <!-- i'm gonna read the non-anime parts -->
             <contributor id="A-MAL-52962" factor="0.75" />
-            <contributor id="L-MAL-121484" factor="0.25" />
+            <contributor id="L-MAL-121484" factor="0.15" />
+            <contributor id="L-MAL-128337" factor="0.1" />
         </ehi>
     </entry>
 
@@ -582,7 +606,15 @@
     <aei base="0.9" emotions="CP-0.8:MP-0.2">
         <contributor id="A-MAL-52962" factor="0.4" />
         <contributor id="L-MAL-139873" factor="0.4" />
-        <contributor id="M-VGMDB-AL-112538" factor="0.2" />
+        <contributor id="M-VGMDB-AL-112538-1" factor="0.2" />
+    </aei>
+
+    <!-- just look at the anti-ksdgk ramblings lmfao -->
+    <!-- we are going back to arc 2 chat -->
+    <!-- (fuck u ksdgk) -->
+    <aei base="0.5" emotions="AU">
+        <contributor id="A-MAL-52962" factor="0.05" />
+        <contributor id="M-20231121T122539-4" factor="0.5" />
     </aei>
 
     <!-- solved post-progressive crisis btw -->
@@ -590,13 +622,27 @@
         <contributor id="A-MAL-52962" factor="0.3" />
         <contributor id="L-MAL-121484" factor="0.1" />
         <contributor id="L-MAL-139873" factor="0.4" />
-        <contributor id="M-VGMDB-AL-112538" factor="0.2" />
+        <contributor id="M-VGMDB-AL-112538-1" factor="0.2" />
     </politics>
 
-    <meme from="2023-11-20" to="today" strength="0.9">
-        <contributor id="A-MAL-52962" factor="0.5" />
-        <contributor id="L-MAL-121484" factor="0.2" />
+    <!-- aflism -->
+    <!-- TODO: add more -->
+    <politics>
+        <contributor id="A-MAL-52962" factor="0.3" />
+        <contributor id="L-MAL-121484" factor="0.05" />
+        <contributor id="L-MAL-128337" factor="0.05" />
+        <contributor id="V-VNDB-17516" factor="0.3" />
         <contributor id="L-MAL-139873" factor="0.2" />
-        <contributor id="M-VGMDB-AL-112538" factor="0.1" />
+        <!-- reminder that ayumu was only responsible for 20-30% of the peakness of ayumu-era -->
+        <contributor id="A-MAL-40879" factor="0.05" />
+        <contributor id="M-VGMDB-AL-112538-1" factor="0.05" />
+    </politics>
+
+    <meme from="2023-11-20" to="today" strength="1.0">
+        <contributor id="A-MAL-52962" factor="0.4" />
+        <contributor id="L-MAL-121484" factor="0.1" />
+        <contributor id="L-MAL-139873" factor="0.1" />
+        <contributor id="M-20231121T122539-4" factor="0.3" />
+        <contributor id="M-VGMDB-AL-112538-1" factor="0.1" />
     </meme>
 </document>
