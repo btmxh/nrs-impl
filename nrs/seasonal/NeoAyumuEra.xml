@@ -422,6 +422,24 @@
         </entry>
     </entry>
 
+    <entry id="M-20240314T142104" title="Glowings" entrytype="MusicAlbum">
+        <visual type="albumArt" base="0.5" unique="0.2" />
+        <entry id="$-1" title="Infinity Rage">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=fOlfE7ILlO0"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="4:05" />
+            <!-- vote for "infinity rizz" to be the worst meme in 2023 -->
+            <nei base="0.5" emotions="AP" />
+        </entry>
+    </entry>
+
     <entry id="M-20230608T085741" title="FROZEN QUALIA" entrytype="MusicArtist">
         <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
         <source>
