@@ -121,6 +121,7 @@
                 <music base="0.35" />
                 <osuSong personal="0.3" community="0.0" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
+                <remix id="M-20240314T094334-8" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
             </entry>
         </entry>
@@ -197,6 +198,14 @@
                 <music base="0.49" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
+
+            <entry id="$-8" title="Hatsukoi no Ehon" entrytype="MusicTrack">
+                <!-- Length source: https://lovecommittee.fandom.com/wiki/Hatsukoi_no_Ehon -->
+                <musicConsumedProgress length="3:24" />
+                <music base="0.5" />
+                <remix id="M-VGMDB-AL-91835-17" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
         </entry>
 
         <entry
@@ -212,15 +221,63 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
+
+            <!-- real -->
+            <!-- "At its root, this is a coming-of-age story of the protagonist learning that, -->
+            <!-- sometimes, just doing one's best to achieve something worth fighting for is in -->
+            <!-- itself already rewarding, regardless of the results." -->
+            <entry id="$-17" title="Re: Hatsukoi no Ehon feat. Aida Miou">
+                <source>
+                    <urls />
+                </source>
+                <music base="0.55" />
+
+                <!-- during the anti-ksdgk era, people were reminded of the girl who had thrown -->
+                <!-- away everything to achieve her dreams -->
+                <ref
+                    name="KoikakeAEI"
+                    a_base="0.1"
+                    a_contribution="0.5"
+                    a_emotions="CU"
+                />
+                <musicConsumedProgress length="3:28" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
         </entry>
 
         <entry
             id="M-VGMDB-AL-120871"
             title="Docchi no kiss ka, Erabe yo. / LIP×LIP [COMPLETE BOX]"
         >
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/120871"
+                        generatedBy="music.ts 822494e-65f26d45"
+                    />
+                </urls>
+            </source>
             <visual type="albumArt" base="0.15" unique="0.5" />
 
-            <entry id="$-5" title="ノンファンタジー">
+            <entry id="$-1" title="Yume Fanfare">
+                <source>
+                    <urls />
+                </source>
+                <music base="0.4" />
+                <musicConsumedProgress length="4:02" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
+            <entry id="$-2" title="Romeo">
+                <source>
+                    <urls />
+                </source>
+                <music base="0.5" />
+                <musicConsumedProgress length="5:16" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
+
+            <entry id="$-5" title="Non-fantasy">
                 <musicConsumedProgress length="4:03" />
                 <music base="0.34" />
                 <osuSong personal="0.4" community="0.0" />
@@ -332,6 +389,7 @@
             <!-- not-so-classic afl farm -->
             <cry emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-120871-5" />
+            <featureMusic id="M-VGMDB-AL-91835-17" />
         </entry>
 
         <entry
@@ -357,6 +415,9 @@
             <!-- jk main girl it is then -->
             <!-- (she run and what a coincidence the nozsp is supposed to run too!) -->
             <bestGirl name="Hiyori Suzumi" />
+
+            <!-- nah bruh ofc peak is best girl wtf do you expect -->
+            <bestGirl name="Narumi Mona" />
 
             <!-- speedrun this in one night lol -->
             <animeConsumedProgress
@@ -401,6 +462,7 @@
                 </source>
                 <music base="0.55" />
                 <musicConsumedProgress length="4:14" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
         </entry>
 
@@ -427,6 +489,50 @@
                 <remix id="M-VGMDB-AL-112538-4" />
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
+            </entry>
+
+            <entry
+                id="$-8"
+                title="Jinsei wa Saikyou no Himatsubushi"
+                entrytype="MusicTrack"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=u0OvEzIYYPM"
+                        />
+                    </urls>
+                </source>
+                <music base="0.5" />
+                <!-- Length source: https://youtu.be/u0OvEzIYYPM -->
+                <musicConsumedProgress length="4:26" />
+            </entry>
+        </entry>
+
+        <entry
+            id="M-VGMDB-AL-63816"
+            title="Nando datte, Suki. ~Kokuhaku Jikkou Iinkai~"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/63816"
+                        generatedBy="music.ts 822494e-65f272ae"
+                    />
+                </urls>
+            </source>
+            <entry
+                id="$-3"
+                title="Kawaiiku Naritai feat. Sena Narumi (CV:Sora Amamiya)"
+            >
+                <source>
+                    <urls />
+                </source>
+                <music base="0.45" />
+                <musicConsumedProgress length="4:13" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
         </entry>
 
@@ -471,6 +577,7 @@
     </entry>
 
     <!-- bratty vgmdb hasn't made a product page for this smh -->
+    <!-- the ultimate zoomer anime -->
     <entry
         id="F-MAL-52962"
         title="Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story"
@@ -605,6 +712,8 @@
     <!-- fuck ksdgk and the world, i will just repeat the same mistake again -->
     <!-- at least it's better than serving a ksdgk with no proper treatment -->
     <!-- to a hardworking nozsist state :middle_finger: -->
+    <!-- gyze they kicked me out of class right after people started to shift -->
+    <!-- the hate towards normies xddddddddddd they really wanted to be hated fr -->
     <aei base="0.9" emotions="CP-0.8:MP-0.2">
         <contributor id="A-MAL-52962" factor="0.4" />
         <contributor id="L-MAL-139873" factor="0.4" />
@@ -650,4 +759,352 @@
         <contributor id="M-20231121T122539-4" factor="0.3" />
         <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
     </meme>
+
+    <entry id="M-20240314T094334" title="Holohoneygaoka High School -Covers-">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/7uUlpj88TrWgRnVFzdji8c"
+                    generatedBy="music.ts 822494e-65f2661a"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_moKy2237Uci4ESej-4Sf6bahS0nOLZOyQ"
+                    generatedBy="music.ts 822494e-65f2661a"
+                />
+            </urls>
+        </source>
+
+        <entry id="$-1" title="Fansa">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6InxU1v4uKsOdH8MY5ueIp"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:09" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-2" title="Inokori Sensei">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0zwUGA4z5B62ICnblCw21h"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="5:04" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-3" title="motto☆ichigo au lait">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6SKLhQW0ChkjqLUwfWScuX"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="3:40" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-4" title="Hokori Takaki Idol">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1zsHb6OjqdKo4HC1AHPO5R"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:15" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-5" title="Sis×Love">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4X7ByQfE80hhyA0T3pI7xI"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="3:32" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-6" title="Daikirai na Hazu Datta.">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7bAdCEGENXIfPgjsmDt8sx"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="5:07" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-7" title="Tokyo Summer Session">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1CfBe0ipOsKYCKBVIlvxTe"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.55" />
+            <musicConsumedProgress length="3:48" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-8" title="Kessen Spirit">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/4FCIdXxXm2lYkTwvUoU9EU"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="4:31" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-9" title="Doutan☆Kyohi">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3MSfYGxYbEzVmWO7mzTu3w"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="4:11" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <!-- let's go mom covered anti-ksdgk song -->
+        <entry id="$-10" title="Senpai.">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3aXOKuywc7MDBO88cW3wJp"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="5:16" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+    </entry>
+
+    <entry id="M-20240314T094335" title="Holohoneygaoka High Scool -Originals-">
+        <source>
+            <urls>
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/6WxkjAC5mcyvbVskxSioMy"
+                    generatedBy="music.ts 822494e-65f2661a"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_lLbozfkMVWyXrlCLTEbKYLofcB_UiVEkk"
+                    generatedBy="music.ts 822494e-65f2661a"
+                />
+            </urls>
+        </source>
+
+        <entry id="$-1" title="Kawaiko Check!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3k6hLiBjbc2c1PmAOxFoO5"
+                        generatedBy="music.ts 822494e-65f26729"
+                    />
+                </urls>
+            </source>
+            <music base="0.2" />
+            <musicConsumedProgress length="2:55" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-2" title="Idol 10 rules">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0WdLBiHjDDq8An9rcVZpYB"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.2" />
+            <musicConsumedProgress length="2:34" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-3" title="Tokyo Wabi-Sabi Lullaby">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2TQpOF0uT5UL6R7oLNEqDp"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.2" />
+            <musicConsumedProgress length="2:53" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <!-- pogpega album song -->
+        <entry id="$-4" title="Bridal Dream">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3w9njhuLHR71YonTsTLV3G"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.7" />
+            <musicConsumedProgress length="3:11" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-5" title="Utage☆Dokudanzyou!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7HIJVvQnIvfwjBe684PSuq"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="2:43" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-6" title="Outsider plan">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0o4XYSPScUNVdiMnp7LFtu"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="3:05" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-7" title="PAKU-PAKU-SEIBA">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5d2rdo6VDXPDFAdK7eg7Tj"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="2:48" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <entry id="$-8" title="Hero for a day">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7CLezoISFOomn32n5oF4cY"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="3:58" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <!-- normies in shambles -->
+        <!-- also album song -->
+        <entry id="$-9" title="Riazyuu★Bokumetu movement">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3FL7JZBjmgniRNiOP38oCA"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="3:04" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+        <!-- suisei goating fr -->
+        <entry id="$-10" title="Kyoushitsu ni Ao">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0EnqV0oMuuXwiAgEz0wtfY"
+                        generatedBy="music.ts 822494e-65f2661a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:09" />
+            <role id="M-VGMDB-AR-47736" roles="vocal+image/2" />
+            <!-- obligatory suisei ei -->
+            <nei base="0.3" emotions="CP" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+        </entry>
+    </entry>
+
+    <!-- “How much closer have you gotten to your dreams?” -->
+    <!--     - CTB Girl Dorm’s HoneyWorks Cover Album -->
+    <aei base="1.0" emotions="MU-0.5:CU-0.25:CP-0.25">
+        <!-- 1. Hokori Takaki Idol feat. Kotoha -->
+        <contributor id="M-20231121T122539-4" factor="1/9" />
+        <!-- 2. Senpai. / HoneyWorks meets TrySail -->
+        <contributor id="M-VGMDB-AL-61577-1" factor="1/9" />
+        <!-- 3. Romeo / LIPxLIP -->
+        <contributor id="M-VGMDB-AL-120871-1" factor="1/9" />
+        <!-- 4. Yume Fanfare / LIPxLIP -->
+        <contributor id="M-VGMDB-AL-120871-2" factor="1/9" />
+        <!-- 5. Bridal Dream / Usada Pekora x Houshou Marine -->
+        <contributor id="M-20240314T094335-4" factor="1/9" />
+        <!-- these names are canon in the google docs btw -->
+        <!-- 6. Jinsei sth mona -->
+        <contributor id="M-20231121T122539-8" factor="1/9" />
+        <!-- 7. Kawaikunaritai sena -->
+        <contributor id="M-VGMDB-AL-63816-3" factor="1/9" />
+        <!-- 8. Anti normie sth shion -->
+        <contributor id="M-20240314T094335-9" factor="1/9" />
+        <!-- 9. Re: Hatsukoi no Ehon feat. Toyosaki Aki -->
+        <contributor id="M-VGMDB-AL-91835-17" factor="1/9" />
+    </aei>
 </document>
