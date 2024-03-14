@@ -370,4 +370,17 @@
         <music base="0.45" />
         <musicConsumedProgress length="3:23" />
     </entry>
+    <entry id="M-20240314T132218" title="God-ish">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=hzvlZF3GZ3c"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.45" unique="0.5" />
+        <music base="0.6" />
+        <musicConsumedProgress length="3:23" />
+    </entry>
 </document>
