@@ -324,4 +324,50 @@
         <music base="0.4" />
         <musicConsumedProgress length="3:38" />
     </entry>
+
+    <entry id="M-20240314T131809" title="Kamippoi na">
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/6mBqqzfV"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=EHBFKhLUVig"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=52jGb13ZjBo"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+            </urls>
+        </source>
+
+        <visual type="semiAnimatedMV" base="0.4" unique="0.6" />
+        <music base="0.4" />
+        <musicConsumedProgress length="3:24" />
+    </entry>
+
+    <!-- enna godish -->
+    <entry id="M-20240314T132217" title="God-ish">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=Dg6dG3U6n-c"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.45" unique="0.5" />
+        <music base="0.45" />
+        <musicConsumedProgress length="3:23" />
+    </entry>
 </document>
