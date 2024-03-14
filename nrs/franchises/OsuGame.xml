@@ -1186,4 +1186,20 @@
         <!-- so if this victory 🏆 is our last odyssey 🚗 -->
         <!-- then let the POWER within us decide 💪 -->
     </entry>
+
+    <!-- kushi ver -->
+    <entry id="M-20240314T135633" title="Sakura no Zenya">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=RlgXSZH_zYs"
+                />
+            </urls>
+        </source>
+        <osuSong community="0.4" personal="0.3" />
+        <music base="0.67" />
+        <!-- Length source: https://www.youtube.com/watch?v=xVPMuorC64o -->
+        <musicConsumedProgress length="6:00" />
+    </entry>
 </document>

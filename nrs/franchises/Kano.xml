@@ -354,4 +354,35 @@
             <role id="M-VGMDB-AR-11666" roles="vocal+image" />
         </entry>
     </entry>
+
+    <entry
+        id="M-20240314T135200"
+        title="Seija No Koushin Special Edition"
+        entrytype="MusicAlbum"
+    >
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_npib7bchhSDl8JVzAJxGMwuoAEg__nYx0"
+                />
+            </urls>
+        </source>
+
+        <visual type="albumArt" base="0.2" unique="0.2" />
+
+        <!-- the good old days... -->
+        <entry id="$-3" title="Sakura no Zenya">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=umovR0PKhSA"
+                    />
+                </urls>
+            </source>
+            <music base="0.65" />
+            <musicConsumedProgress length="6:04" />
+        </entry>
+    </entry>
 </document>
