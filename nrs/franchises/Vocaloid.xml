@@ -324,4 +324,180 @@
         <music base="0.4" />
         <musicConsumedProgress length="3:38" />
     </entry>
+
+    <entry id="M-20240314T131809" title="Kamippoi na" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/6mBqqzfV"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=EHBFKhLUVig"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=52jGb13ZjBo"
+                    generatedBy="music.ts 822494e-65f29778"
+                />
+            </urls>
+        </source>
+
+        <visual type="semiAnimatedMV" base="0.4" unique="0.6" />
+        <music base="0.4" />
+        <musicConsumedProgress length="3:24" />
+    </entry>
+
+    <!-- enna godish -->
+    <entry id="M-20240314T132217" title="God-ish" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=Dg6dG3U6n-c"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.45" unique="0.5" />
+        <music base="0.45" />
+        <musicConsumedProgress length="3:23" />
+    </entry>
+    <entry id="M-20240314T132218" title="God-ish" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=hzvlZF3GZ3c"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.45" unique="0.5" />
+        <music base="0.6" />
+        <musicConsumedProgress length="3:23" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-111946" title="LOVE">
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/3rG5TRuR"
+                    generatedBy="music.ts 822494e-65f29ada"
+                />
+                <url
+                    name="official"
+                    src="https://pinocchiop.com/news/737"
+                    generatedBy="music.ts 822494e-65f29ada"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE"
+                    generatedBy="music.ts 822494e-65f29ada"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/111946"
+                    generatedBy="music.ts 822494e-65f29ada"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_nHYMRi0hwLTKodVs1iyS_jOQo65Ro6jQc"
+                    generatedBy="music.ts 822494e-65f29ada"
+                />
+            </urls>
+        </source>
+
+        <visual type="albumArt" base="0.2" unique="0.3" />
+        <entry id="$-9" title="Non-breath oblige">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H"
+                        generatedBy="music.ts 822494e-65f29ada"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="3:29" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-20240314T133734"
+        title="Non-breath oblige"
+        entrytype="MusicTrack"
+    >
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=iNcIR-KxN_U"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.1" unique="0.4" />
+        <music base="0.6" />
+        <musicConsumedProgress length="3:29" />
+    </entry>
+    <entry
+        id="M-20240314T134125"
+        title="ヒメヒナウタミタ弐"
+        entrytype="MusicAlbum"
+    >
+        <source>
+            <urls>
+                <url
+                    name="linkfire"
+                    src="https://lnk.to/himehinautamita2"
+                    generatedBy="music.ts 822494e-65f29ce5"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1MUzB6DgT9hnIXWlYIj1wM?go=1"
+                    generatedBy="music.ts 822494e-65f29ce5"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kE2mKz3raJjMSBsegGK4tTVLm_5paN2xs&amp;src=Linkfire&amp;lId=797b996f-a197-45c8-a4a0-af1d0afc37b1&amp;cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751"
+                    generatedBy="music.ts 822494e-65f29ce5"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.5" unique="0.2" />
+        <entry id="$-9" title="Tengaku">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6OiqA0YsolfI2efHkkMWNh"
+                        generatedBy="music.ts 822494e-65f29ce5"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:32" />
+        </entry>
+        <entry id="$-10" title="Non-breath oblige - HIMEHINA ver.">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/170vm3fa7lznwYQsKEGvIU"
+                        generatedBy="music.ts 822494e-65f29c82"
+                    />
+                </urls>
+            </source>
+            <music base="0.55" />
+            <musicConsumedProgress length="3:30" />
+        </entry>
+    </entry>
 </document>

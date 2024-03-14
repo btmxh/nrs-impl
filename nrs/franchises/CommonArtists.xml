@@ -1,6 +1,411 @@
 <?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
 <document>
-    <entry id="M-20220113T154228" title="Asterisk" entrytype="MusicArtist" />
+    <!-- aka Asterisk -->
+    <entry id="M-20220113T154228" title="you" entrytype="MusicArtist" />
+
+    <entry
+        id="M-VGMDB-AL-111329"
+        title="Let's Jump! - you feat. nayuta works -"
+    >
+        <source>
+            <vgmdb album="111329" />
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/ZGzcNffV"
+                    generatedBy="music.ts 822494e-65f259a0"
+                />
+                <url
+                    name="official"
+                    src="https://j-neration.net/jnex0008/"
+                    generatedBy="music.ts 822494e-65f259a0"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/6Zj9bRfLZHUqtDlGPK0uXM"
+                    generatedBy="music.ts 822494e-65f259a0"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/111329"
+                    generatedBy="music.ts 822494e-65f259a0"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_l5SOyn4yKlpPcxzAhy3czffh5IuCITFwg"
+                    generatedBy="music.ts 822494e-65f259a0"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.5" unique="0.2" />
+
+        <entry id="$-1" title="Let's Jump!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/3zDl4XgeGjIgon7ZGkiZ2K"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=fUzI8uGIk-I"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.7" />
+            <musicConsumedProgress length="4:40" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+            <remix id="M-VGMDB-AL-111329-14" />
+            <remix id="M-VGMDB-AL-111329-15" />
+        </entry>
+        <entry id="$-2" title="Dawn">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7kU6Jhlv13onPIiVdvc2R7"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=Lw6MCqvUyVM"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.55" />
+            <musicConsumedProgress length="4:55" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-3" title="HELLO!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1xPzSygoN80pRVATjrh0W9"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=doDf7DiWHFQ"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:17" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-4" title="Color">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1aKgDeIto98FYQrTVwqLTL"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=anLLhfCNZ6w"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.75" />
+            <musicConsumedProgress length="3:49" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-5" title="I my me mine!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5SgyqfWcuYa7OhOwRwwIdm"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=KPPEPRifPm4"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <musicConsumedProgress length="3:55" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-6" title="Season">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2JuSMfvNSlTDqjaYgRlCqG"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=EPKDrJEtZr8"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="3:15" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-7" title="Here We Go!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6NNX80GVSeZu9hXw8z2iT8"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=jTniVS69l8Q"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="4:36" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-8" title="Comet">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6tqIak9mIqGAnfFtzCa92i"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=cRryhfYk6R0"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <musicConsumedProgress length="4:04" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-9" title="Compass">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0qZlST38avio82RXuVqRM0"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=4vEku777DV0"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="3:18" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-10" title="HAPPY BOMB!">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/35XJhcGMiw5cKU7ZoKMnnh"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=ybAkul3hO8Y"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="3:28" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-11" title="Diamond Smile">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0ZRVnEZ5tT3BPlTxPvVP4L"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=H4LyY42DIKU"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="5:25" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-12" title="Berry Go!! ( you feat. nayuta Cover ver.)">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2i7V48mLfskGBlSrtVFiSx"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=ZNJ1uXr2vW4"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="3:30" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-13" title="Altair ( you feat. nayuta Cover ver.)">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5XHTjQ0lPpSyDS3ozp4bNT"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=asNXxmaCwMg"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.25" />
+            <musicConsumedProgress length="4:07" />
+            <role id="M-20220113T154228" roles="inst/2+image/2" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-14" title="Let's Jump! (Getty Remix)">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/5Kg6WMo2Yjoag54F7l2geh"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=xUGn3HLb4jk"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="4:22" />
+            <role id="M-20220113T154228" roles="image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+        <entry id="$-15" title="Let's Jump・・・?">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/07Y6jh8QO0osoWpvFFXjnm"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=-bQk7doOea4"
+                        generatedBy="music.ts 822494e-65f259a0"
+                    />
+                </urls>
+            </source>
+            <music base="0.5" />
+            <musicConsumedProgress length="4:05" />
+            <role id="M-20220113T154228" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-128853" title="Positive Essence / you">
+        <source>
+            <urls>
+                <url
+                    name="bandcamp"
+                    src="https://j-neration.bandcamp.com/album/positive-essence"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="diverse-direct"
+                    src="https://www.diverse.direct/j-neration/jnex-0011/"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="itunes"
+                    src="https://music.apple.com/jp/album/1618408868"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="melonbooks"
+                    src="https://www.melonbooks.co.jp/detail/detail.php?product_id=1445352"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="official"
+                    src="https://you-j-neration.myportfolio.com/pe"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/6C2y7DrvL8Yo2yHPNJIlY6"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="tano*c-store"
+                    src="https://www.tanocstore.net/shopdetail/000000002958/J-NERATION/page1/recommend/"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/128853"
+                    generatedBy="music.ts 822494e-65f25e60"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.3" unique="0.3" />
+
+        <entry id="$-2" title="Access! (feat. nayuta)">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1FW4lbiHYIAHlvDAJrdX9u"
+                        generatedBy="music.ts 822494e-65f25e60"
+                    />
+                </urls>
+            </source>
+            <music base="0.65" />
+            <role id="M-20220113T154228" roles="inst+lyrics+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+            <musicConsumedProgress length="3:52" />
+        </entry>
+    </entry>
 
     <entry id="M-20220130T183728-3" title="Rakakun" entrytype="MusicArtist" />
 
