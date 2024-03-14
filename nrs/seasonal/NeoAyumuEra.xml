@@ -2166,4 +2166,129 @@
         <!-- Length source: https://www.youtube.com/watch?v=NGDPr505aBQ -->
         <musicConsumedProgress length="3:46" />
     </entry>
+
+    <entry id="M-VGMDB-AL-133731" title="Rhythm Game Addiction!">
+        <source>
+            <urls>
+                <url
+                    name="bandcamp"
+                    src="https://ha1uday0.bandcamp.com/album/-"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="booth"
+                    src="https://booth.pm/ja/items/5199093"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/VFCa685X"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="official"
+                    src="https://rhythm-game-addiction.netlify.app/"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/65rwJEC23HoZ5YdYy4O45J"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/133731"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mX9Ww7zCM_uamTk83KCjB6a3h-bO0REGw"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.3" unique="0.5" />
+        <entry id="$-1" title="オトビカリ">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7j29X9XZ8ns44XbbHIjWfD"
+                        generatedBy="music.ts 822494e-65f2a1fc"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="2:22" />
+        </entry>
+        <entry id="$-7" title="Thank you for Playing">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1GVofSSGRp37KStqMjDRHW"
+                        generatedBy="music.ts 822494e-65f2a1fc"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="3:04" />
+            <remix id="M-20240314T141249" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-VGMDB-AL-131251"
+        title="Mashiroiro Symphony SANA EDITION Maxi Single"
+    >
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/Dnmy11Ev"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1Q1Ojiyps9rlN6H4nNVftB"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/131251"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_n-sqS7dtDdpON4LnFsGFL1IVR-KHCe1_M"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.4" unique="0.3" />
+
+        <entry id="$-1" title="Yuki wa Naniiro">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6vyyEuiepVMmHKc2nWhYUh"
+                        generatedBy="music.ts 822494e-65f2a335"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <role id="M-VGMDB-AR-26614" roles="prod" />
+            <musicConsumedProgress length="3:25" />
+            <remix id="M-20240314T141249" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-20240314T141249"
+        title="Thank you for Playing &quot;Kotoha - Yuki wa Naniiro&quot;"
+    >
+        <!-- dogshit mashup lmfao -->
+        <music base="0.15" />
+        <!-- but funny af -->
+        <nei base="0.5" emotions="AP" />
+    </entry>
 </document>
