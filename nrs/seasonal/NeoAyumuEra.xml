@@ -25,7 +25,7 @@
         <!-- also neo-ayumu died so it's natural for her to be back -->
         <!-- (see kano-era and rst-sb69 arc 3) -->
         <!-- that and also m3 fall -->
-        <meme from="2023-10-01" to="today" strength="0.9" />
+        <meme from="2023-10-01" to="today" strength="0.95" />
 
         <entry
             id="M-20230608T130823"
@@ -1965,6 +1965,112 @@
             <musicConsumedProgress length="4:21" />
             <role id="M-VGMDB-AR-53149" roles="inst+image" />
             <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-20240314T081159"
+        title="Junsetsu Envelope"
+        entrytype="MusicAlbum"
+    >
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/q4EHa859"
+                    generatedBy="music.ts 822494e-65f2543a"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/4T9NEmSgVyd4jsOb3CXZHo"
+                    generatedBy="music.ts 822494e-65f2543a"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kmMMMyntnfyhhCaCYx6G-MqCVURj7SmLQ"
+                    generatedBy="music.ts 822494e-65f2543a"
+                />
+            </urls>
+        </source>
+
+        <entry id="$-1" title="Shirayuki no Negaigoto">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/26Unvk3f0SvU6wrxyC1Vwy"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=O_Cr8PL5t8g"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image+lyrics" />
+            <musicConsumedProgress length="3:42" />
+        </entry>
+        <entry id="$-2" title="Melty StarMelty Star">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2agIfObZ3dcPVAmvghq4fp"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=I9V8N5-FesE"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <musicConsumedProgress length="4:42" />
+        </entry>
+        <entry id="$-3" title="Seisouken">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0Pc3s7jkuSdUYI2Nka5nMb"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=Wi2vaE04AqA"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+            <musicConsumedProgress length="4:28" />
+        </entry>
+        <entry id="$-4" title="12gatsuno epilogue">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2KiuseenbF7vRLcZLcIra6"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=kNGDdmaf4qg"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image+lyrics" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+            <musicConsumedProgress length="4:09" />
         </entry>
     </entry>
 </document>
