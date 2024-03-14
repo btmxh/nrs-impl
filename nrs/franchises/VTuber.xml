@@ -260,7 +260,11 @@
         <!-- https://www.youtube.com/watch?v=lD8oL4CRu64 -->
         <entry id="M-VGMDB-AR-47736" title="Hoshimachi Suisei" />
 
-        <entry id="M-20240314T092654" title="Still Still Stellar">
+        <entry
+            id="M-20240314T092654"
+            title="Still Still Stellar"
+            entrytype="MusicAlbum"
+        >
             <source>
                 <urls>
                     <url
@@ -280,6 +284,7 @@
                     />
                 </urls>
             </source>
+            <visual type="albumArt" base="0.5" unique="0.3" />
 
             <entry id="$-1" title="Stellar Stellar">
                 <source>

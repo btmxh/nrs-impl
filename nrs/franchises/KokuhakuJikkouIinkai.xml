@@ -523,6 +523,7 @@
                     />
                 </urls>
             </source>
+            <visual type="albumArt" base="0.45" unique="0.2" />
             <entry
                 id="$-3"
                 title="Kawaiiku Naritai feat. Sena Narumi (CV:Sora Amamiya)"
@@ -760,7 +761,11 @@
         <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
     </meme>
 
-    <entry id="M-20240314T094334" title="Holohoneygaoka High School -Covers-">
+    <entry
+        id="M-20240314T094334"
+        title="Holohoneygaoka High School -Covers-"
+        entrytype="MusicAlbum"
+    >
         <source>
             <urls>
                 <url
@@ -775,6 +780,7 @@
                 />
             </urls>
         </source>
+        <visual type="albumArt" base="0.45" unique="0.2" />
 
         <entry id="$-1" title="Fansa">
             <source>
@@ -919,7 +925,11 @@
         </entry>
     </entry>
 
-    <entry id="M-20240314T094335" title="Holohoneygaoka High Scool -Originals-">
+    <entry
+        id="M-20240314T094335"
+        title="Holohoneygaoka High Scool -Originals-"
+        entrytype="MusicTrack"
+    >
         <source>
             <urls>
                 <url
@@ -934,6 +944,7 @@
                 />
             </urls>
         </source>
+        <visual type="albumArt" base="0.45" unique="0.2" />
 
         <entry id="$-1" title="Kawaiko Check!">
             <source>
