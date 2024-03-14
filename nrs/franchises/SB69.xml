@@ -465,7 +465,7 @@
                     a_eras="arc2=20.0:arc3=10.0"
                     a_from="arc2"
                 />
-                <meme strength="0.01" from="2022-04-01" to="today" />
+                <meme strength="0.01" from="2022-04-01" to="2024-01-08" />
                 <remix id="M-20220702T030659" />
                 <role id="M-20220125T063355-4" roles="vocal+image" />
             </entry>
@@ -514,7 +514,7 @@
             />
 
             <!-- 2023-03-22 is when my first period of physics I started -->
-            <meme strength="0.1" from="2023-03-22" to="today" />
+            <meme strength="0.1" from="2023-03-22" to="2024-01-08" />
 
             <!-- Length source:
             https://show-by-rock-fes-a-live.fandom.com/wiki/Starry_Sky_Light_Story_(DJ_DEVILMINTKIRYU_Remix)#Game_Stats -->

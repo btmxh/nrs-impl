@@ -784,7 +784,7 @@
         <!-- the ortensia incident lore -->
         <!-- it is already known from arc 1, but idk the details -->
         <!-- (like 20-30 days won't do much for something that's longer than 300 days) -->
-        <meme strength="0.3" from="2022-01-01" to="today" />
+        <meme strength="0.3" from="2022-01-01" to="2022-12-31" />
 
         <entry id="M-VGMDB-AL-82369" title="Q.E.D. / Stellamaris">
             <visual type="albumArt" base="0.4" unique="0.5" />
