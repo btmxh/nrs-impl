@@ -92,7 +92,6 @@
                             src="https://open.spotify.com/track/4Epr9cTESFAYvhv3FbwGvl"
                             generatedBy="music.ts 822494e-648ea3b5"
                         />
-                        <!-- MV version -->
                         <url
                             name="youtube"
                             src="https://www.youtube.com/watch?v=lGXgYHlR8ww"
@@ -241,7 +240,6 @@
                         name="spotify"
                         src="https://open.spotify.com/track/0a33Bgu9o1KVq1BXiWpXKq"
                     />
-                    <!-- fansub ver -->
                     <url
                         name="youtube"
                         src="https://www.youtube.com/watch?v=70YNtIPqCHg"
@@ -255,6 +253,48 @@
 
             <music base="0.6" />
             <musicConsumedProgress length="4:30" />
+        </entry>
+
+        <!-- one of the Neo Ayumuian Legends -->
+        <!-- the inspiration in the midst of arc 3 despair -->
+        <!-- https://www.youtube.com/watch?v=lD8oL4CRu64 -->
+        <entry id="M-VGMDB-AR-47736" title="Hoshimachi Suisei" />
+
+        <entry id="M-20240314T092654" title="Still Still Stellar">
+            <source>
+                <urls>
+                    <url
+                        name="linkfire"
+                        src="https://cover.lnk.to/stillstillstellar"
+                        generatedBy="music.ts 822494e-65f261bd"
+                    />
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/2HmlBFz06FldsdzwY1FHg4"
+                        generatedBy="music.ts 822494e-65f261bd"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/playlist?list=OLAK5uy_mh_5nUKRnrxLoj2Y7wx2jGaCKZz0t2DU0"
+                        generatedBy="music.ts 822494e-65f261bd"
+                    />
+                </urls>
+            </source>
+
+            <entry id="$-1" title="Stellar Stellar">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6OC9BOO9qGXQARZGWb8rqy"
+                            generatedBy="music.ts 822494e-65f261bd"
+                        />
+                    </urls>
+                </source>
+                <music base="0.5" />
+                <role id="M-VGMDB-AR-47736" roles="vocal+image" />
+                <musicConsumedProgress length="5:01" />
+            </entry>
         </entry>
     </entry>
 
