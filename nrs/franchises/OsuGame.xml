@@ -1188,7 +1188,11 @@
     </entry>
 
     <!-- kushi ver -->
-    <entry id="M-20240314T135633" title="Sakura no Zenya">
+    <entry
+        id="M-20240314T135633"
+        title="Sakura no Zenya"
+        entrytype="MusicTrack"
+    >
         <source>
             <urls>
                 <url
