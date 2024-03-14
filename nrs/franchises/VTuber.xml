@@ -319,4 +319,35 @@
     <meme from="2023-05-15" to="today" strength="0.4">
         <contributor id="M-20230524T223250" factor="1.0" />
     </meme>
+
+    <entry
+        id="M-20240314T132852"
+        title="Diamond City Lights"
+        entrytype="MusicTrack"
+    >
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/cu7tUpMV"
+                    generatedBy="music.ts 822494e-65f29986"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/4Rjbw90eUNMY6abIeDa5tK"
+                    generatedBy="music.ts 822494e-65f29986"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=MWKw-heslkQ"
+                    generatedBy="music.ts 822494e-65f29986"
+                />
+            </urls>
+        </source>
+
+        <music base="0.45" />
+        <!-- nijisanji pomu bullshit -->
+        <nei base="0.3" emotions="CP" />
+        <musicConsumedProgress length="4:04" />
+    </entry>
 </document>
