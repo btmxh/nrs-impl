@@ -325,7 +325,7 @@
         <musicConsumedProgress length="3:38" />
     </entry>
 
-    <entry id="M-20240314T131809" title="Kamippoi na">
+    <entry id="M-20240314T131809" title="Kamippoi na" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
@@ -357,7 +357,7 @@
     </entry>
 
     <!-- enna godish -->
-    <entry id="M-20240314T132217" title="God-ish">
+    <entry id="M-20240314T132217" title="God-ish" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
@@ -370,7 +370,7 @@
         <music base="0.45" />
         <musicConsumedProgress length="3:23" />
     </entry>
-    <entry id="M-20240314T132218" title="God-ish">
+    <entry id="M-20240314T132218" title="God-ish" entrytype="MusicTrack">
         <source>
             <urls>
                 <url
