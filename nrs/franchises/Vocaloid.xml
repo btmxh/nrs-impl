@@ -415,6 +415,7 @@
             </urls>
         </source>
 
+        <visual type="albumArt" base="0.2" unique="0.3" />
         <entry id="$-9" title="Non-breath oblige">
             <source>
                 <urls>
