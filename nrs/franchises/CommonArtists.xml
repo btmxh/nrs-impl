@@ -37,6 +37,7 @@
                 />
             </urls>
         </source>
+        <visual type="albumArt" base="0.5" unique="0.2" />
 
         <entry id="$-1" title="Let's Jump!">
             <source>
@@ -387,6 +388,8 @@
                 />
             </urls>
         </source>
+        <visual type="albumArt" base="0.3" unique="0.3" />
+
         <entry id="$-2" title="Access! (feat. nayuta)">
             <source>
                 <urls>
