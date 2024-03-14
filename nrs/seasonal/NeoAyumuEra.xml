@@ -2100,6 +2100,7 @@
                 />
             </urls>
         </source>
+        <visual type="albumArt" base="0.2" unique="0.3" />
         <!-- a song from the Post-Arc-3 of Neo-Ayumu-era -->
         <entry id="$-1" title="My Dearest">
             <source>
