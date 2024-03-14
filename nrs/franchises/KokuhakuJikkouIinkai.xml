@@ -449,10 +449,11 @@
 
             <visual type="manga" base="0.5" unique="0.2" />
             <!-- 18 chapters -->
+            <!-- update 2024-03-01: chap 26 -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="1:00:00"
+                duration="1:30:00"
             />
 
             <!-- ... But then I realized -->
@@ -506,9 +507,9 @@
 
             <visual type="animated" base="0.5" unique="0.2" />
             <animeConsumedProgress
-                status="Watching"
+                status="Completed"
                 boredom="1.0"
-                episodes="11"
+                episodes="12"
             />
 
             <featureMusic id="M-VGMDB-AL-132951-1" />
@@ -542,10 +543,11 @@
         >
             <!-- peaked beyond the skies -->
             <!-- 59 chapters (volume 1) + bonuses -->
+            <!-- update 2024-03-01: finished volume 6-->
             <consumedProgress
                 status="Watching"
                 boredom="0.8"
-                duration="3:00:00"
+                duration="15:00:00"
             />
 
             <!-- sb69 is just a stepping stone for her (fr) to achieve PEAK (real) -->
@@ -643,10 +645,20 @@
         <validatorSuppress rules="dah-sum-contain-weight" />
     </politics>
 
-    <meme from="2023-11-20" to="today" strength="1.0">
+    <!-- anti-ksdgk phase -->
+    <meme from="2023-11-20" to="2024-01-15" strength="1.0">
         <contributor id="A-MAL-52962" factor="0.4" />
         <contributor id="L-MAL-121484" factor="0.1" />
         <contributor id="L-MAL-139873" factor="0.1" />
+        <contributor id="M-20231121T122539-4" factor="0.3" />
+        <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
+    </meme>
+
+    <!-- anti-normie phase -->
+    <meme from="2024-01-16" to="today" strength="0.5">
+        <contributor id="A-MAL-52962" factor="0.3" />
+        <contributor id="L-MAL-121484" factor="0.05" />
+        <contributor id="L-MAL-139873" factor="0.25" />
         <contributor id="M-20231121T122539-4" factor="0.3" />
         <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
     </meme>

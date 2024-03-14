@@ -732,7 +732,6 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                     name="google-drive"
                     src="https://drive.google.com/file/d/1ZPSXEJaWnkH42VV1kurrIjF79GZ80Sso/view"
                 />
-                <!-- original version -->
                 <url
                     name="youtube"
                     src="https://www.youtube.com/watch?v=VOvFcwcw0NI"

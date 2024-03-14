@@ -92,7 +92,6 @@
                             src="https://open.spotify.com/track/4Epr9cTESFAYvhv3FbwGvl"
                             generatedBy="music.ts 822494e-648ea3b5"
                         />
-                        <!-- MV version -->
                         <url
                             name="youtube"
                             src="https://www.youtube.com/watch?v=lGXgYHlR8ww"
@@ -161,7 +160,7 @@
             <visual type="animatedGachaCardArt" base="1.0" unique="0.5" />
 
             <!-- Neo-Ayumu-era Arc 3 -->
-            <meme from="2023-07-26" to="today" strength="1.0">
+            <meme from="2023-07-26" to="2023-11-27" strength="0.9">
                 <contributor id="M-20230730T110147" factor="0.6" />
                 <contributor id="M-VGMDB-AR-6799" factor="0.3" />
                 <contributor id="M-VGMDB-AR-35619" factor="0.1" />
@@ -241,7 +240,6 @@
                         name="spotify"
                         src="https://open.spotify.com/track/0a33Bgu9o1KVq1BXiWpXKq"
                     />
-                    <!-- fansub ver -->
                     <url
                         name="youtube"
                         src="https://www.youtube.com/watch?v=70YNtIPqCHg"
@@ -270,8 +268,4 @@
         <contributor id="M-VGMDB-AR-6799" factor="0.5" />
         <contributor id="M-VGMDB-AR-35619" factor="0.5" />
     </epi>
-
-    <meme from="2023-05-15" to="today" strength="0.4">
-        <contributor id="M-20230524T223250" factor="1.0" />
-    </meme>
 </document>
