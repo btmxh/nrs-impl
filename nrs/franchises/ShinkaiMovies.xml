@@ -42,6 +42,7 @@
         </entry>
 
         <entry id="M-VGMDB-AL-82251" title="Ningen Kaika / RADWIMPS">
+            <visual type="albumArt" base="0.15" unique="0.5"></visual>
             <entry id="$-12" title="Sparkle (Original Version)">
                 <music base="0.8"></music>
                 <musicConsumedProgress length="6:55"></musicConsumedProgress>
@@ -53,15 +54,18 @@
     </entry>
 
     <!-- watame -->
-    <entry id="M-20230405T020401" title="Sparkle">
+    <entry id="M-20230405T020401" title="Sparkle" entrytype="MusicTrack">
         <source><urls><url name="youtube" src="https://www.youtube.com/watch?v=SRQiuEjNEcQ"></url></urls></source>
+        <!-- TODO: 3d cg should have its own visual type -->
+        <visual type="rpg3dGame" base="0.5" unique="0.2"></visual>
         <music base="0.78" />
         <musicConsumedProgress length="6:53" />
     </entry>
 
     <!-- mio -->
-    <entry id="M-20230405T020402" title="Sparkle">
+    <entry id="M-20230405T020402" title="Sparkle" entrytype="MusicTrack">
         <source><urls><url name="youtube" src="https://www.youtube.com/watch?v=2l_6oIGTrbg"></url></urls></source>
+        <visual type="semiAnimatedMV" base="0.6" unique="0.2"></visual>
         <music base="0.75" />
         <musicConsumedProgress length="6:51" />
     </entry>
