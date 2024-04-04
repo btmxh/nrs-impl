@@ -2,6 +2,7 @@
 <document>
     <entry id="F-VGMDB-4615" title="Kimi no Na wa">
         <!-- TODO: add music ig, too lazy to do that tho (and the music sucks) -->
+        <!-- "the music sucks" lmfao said the dude with 10 watame sparkles in plst2 -->
 
         <entry id="A-MAL-32281" title="Kimi no Na wa.">
             <source>
@@ -11,18 +12,58 @@
                 <mal id="32281" />
             </source>
 
-            <visual type="animated" base="0.5" unique="0.75" />
+            <visual type="animated" base="0.9" unique="0.75" />
 
             <bestGirl name="Miki Okudera" />
             <!-- "Compensation for KnK-YrNa jealousy" -->
             <additional value="0.75" />
+
+            <!-- 2017, the anime revolution ended with immense hate for this anime -->
+            <!-- that hate would then become the heisenberg uncertainty principle (HUP) -->
+            <!-- 2024, the best anime is currently rst, the icon of HUP -->
+            <!-- it would be so poetic if this anime can take back the reign lol -->
+            <aei base="0.0" emotions="MU" />
+
+            <!-- hope: girls can change the world -->
+            <aei base="1.0" emotions="CP" />
+
+            <!-- damn the ily hand part is cool ngl -->
+            <cry emotions="MP" />
+
+            <!-- bruh zoomers said that a 106-minute movie is boring -->
             <animeConsumedProgress
                 status="Completed"
-                boredom="0.75"
+                boredom="1"
                 episodes="1"
                 episodeDuration="1:46:00"
             />
+
+            <featureMusic id="M-VGMDB-AL-82251-12" />
         </entry>
+
+        <entry id="M-VGMDB-AL-82251" title="Ningen Kaika / RADWIMPS">
+            <entry id="$-12" title="Sparkle (Original Version)">
+                <music base="0.8"></music>
+                <musicConsumedProgress length="6:55"></musicConsumedProgress>
+                <aei base="0.8" emotions="CU"></aei>
+                <remix id="M-20230405T020401"></remix>
+                <remix id="M-20230405T020402"></remix>
+            </entry>
+        </entry>
+    </entry>
+
+    <!-- watame -->
+    <entry id="M-20230405T020401" title="Sparkle">
+        <source><urls><url name="youtube" src="https://www.youtube.com/watch?v=SRQiuEjNEcQ"></url></urls></source>
+        <music base="0.78" />
+        <musicConsumedProgress length="6:53" />
+    </entry>
+
+    <!-- mio -->
+    <entry id="M-20230405T020402" title="Sparkle">
+        <source><urls><url name="youtube" src="https://www.youtube.com/watch?v=2l_6oIGTrbg"></url></urls></source>
+        <music base="0.75" />
+        <musicConsumedProgress length="6:51" />
     </entry>
 
     <entry id="F-VGMDB-7292" title="Tenki no Ko">
