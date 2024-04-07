@@ -29,6 +29,7 @@
 
         <visual type="animated" base="0.45" unique="0.2" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
+        <dropped />
     </entry>
 
     <entry id="A-MAL-53262" title="Hoshikuzu Telepath">
@@ -44,6 +45,7 @@
 
         <visual type="animated" base="0.7" unique="0.2" />
         <animeConsumedProgress status="Dropped" boredom="0.75" episodes="5" />
+        <dropped />
     </entry>
 
     <entry id="A-MAL-54041" title="16bit Sensation: Another Layer">
@@ -78,5 +80,6 @@
 
         <visual type="animated" base="0.6" unique="0.1" />
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
+        <dropped />
     </entry>
 </document>
