@@ -447,12 +447,19 @@
             <!-- hahdajhdfjsdkfkjsdhfsjdakf sena -->
             <bestGirl name="Mona Narumi" />
 
+            <!-- it's real now ladies and gentlemen -->
+            <!-- https://github.com/btmxh/nrs-impl/discussions/539#discussioncomment-9013102 -->
+            <waifu from="2024-04-05" to="today" />
+
+            <!-- i'm sorry but the hype of this manga is just unreal bro -->
+            <ehi />
+
             <visual type="manga" base="0.5" unique="0.2" />
-            <!-- 18 chapters -->
+            <!-- 29 chapters -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="1:00:00"
+                duration="1:30:00"
             />
 
             <!-- ... But then I realized -->
@@ -643,11 +650,19 @@
         <validatorSuppress rules="dah-sum-contain-weight" />
     </politics>
 
-    <meme from="2023-11-20" to="today" strength="1.0">
+    <meme from="2023-11-20" to="2023-12-31" strength="1.0">
         <contributor id="A-MAL-52962" factor="0.4" />
         <contributor id="L-MAL-121484" factor="0.1" />
         <contributor id="L-MAL-139873" factor="0.1" />
         <contributor id="M-20231121T122539-4" factor="0.3" />
         <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
+    </meme>
+
+    <meme from="2024-01-01" to="today" strength="1.0">
+        <contributor id="A-MAL-52962" factor="0.1" />
+        <contributor id="L-MAL-121484" factor="0.1" />
+        <contributor id="L-MAL-139873" factor="0.4" />
+        <contributor id="M-20231121T122539-4" factor="0.2" />
+        <contributor id="M-20240314T094334-3 [null entry]" factor="0.2" />
     </meme>
 </document>
