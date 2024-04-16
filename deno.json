@@ -3,11 +3,11 @@
     "nrslib/": "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.0/",
     "nrsml": "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/mod.ts",
     "csv": "https://deno.land/x/csv@v0.9.2/mod.ts",
-    "streams": "https://deno.land/std@0.222.1/streams/mod.ts",
-    "fs": "https://deno.land/std@0.222.1/fs/mod.ts",
-    "path": "https://deno.land/std@0.222.1/path/mod.ts",
+    "streams": "https://deno.land/std@0.223.0/streams/mod.ts",
+    "fs": "https://deno.land/std@0.223.0/fs/mod.ts",
+    "path": "https://deno.land/std@0.223.0/path/mod.ts",
     "open": "https://deno.land/x/open@v0.0.6/index.ts",
-    "dotenv": "https://deno.land/std@0.222.1/dotenv/mod.ts",
+    "dotenv": "https://deno.land/std@0.223.0/dotenv/mod.ts",
     "pkce": "https://deno.land/x/pkce_deno@v2.0/mod.ts"
   },
   "tasks": {
