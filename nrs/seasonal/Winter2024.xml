@@ -1,0 +1,86 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <entry
+        id="A-MAL-53590"
+        title="Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita."
+    >
+        <source generatedBy="mal-best-girl.ts 822494e-66344a73">
+            <mal id="53590" />
+            <al id="156891" />
+            <ks id="46733" />
+            <adb id="17712" />
+        </source>
+        <bestGirl name="Ivy" />
+
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+        <visual type="animated" base="0.5" unique="0.2" />
+
+        <!-- sadge ig -->
+        <nei base="0.2" emotions="CU" />
+    </entry>
+
+    <entry
+        id="A-MAL-54837"
+        title="Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen"
+    >
+        <source generatedBy="mal-best-girl.ts 822494e-66344bec">
+            <mal id="54837" />
+            <al id="163076" />
+            <ks id="47237" />
+            <adb id="17937" />
+        </source>
+        <bestGirl name="Yumiella Dolkness" />
+        <!-- the pink girl is cuter but LN skull skull -->
+
+        <animeConsumedProgress
+            status="Completed"
+            boredom="0.85"
+            episodes="12"
+        />
+
+        <!-- horse cgi in this show sucks ngl -->
+        <visual type="animated" base="0.3" unique="0.1" />
+
+        <!-- early season hype -->
+        <!-- ded tho -->
+        <nei base="0.5" emotions="AP" />
+    </entry>
+
+    <entry id="A-MAL-52299" title="Ore dake Level Up na Ken">
+        <source generatedBy="mal-best-girl.ts 822494e-66344bec">
+            <mal id="52299" />
+            <al id="151807" />
+            <ks id="46231" />
+            <adb id="17495" />
+        </source>
+        <!-- pogpega -->
+        <!-- not racist btw but these names are funny af -->
+
+        <!-- yapper (real) -->
+        <bestGirl name="Cha Hae-In" />
+
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
+
+        <!-- gotta say animation is cool tho -->
+        <visual type="animated" base="0.7" unique="0.5" />
+    </entry>
+
+    <entry id="A-MAL-54722" title="Mahou Shoujo ni Akogarete">
+        <source generatedBy="mal-best-girl.ts 822494e-66344bec">
+            <mal id="54722" />
+            <al id="162780" />
+            <ks id="47185" />
+            <adb id="17910" />
+        </source>
+        <!-- uoh -->
+
+        <bestGirl name="Hanabishi Haruka" />
+
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="13" />
+
+        <!-- it's just so peak -->
+        <ehi />
+
+        <visual type="animated" base="0.4" unique="0.4" />
+    </entry>
+</document>
