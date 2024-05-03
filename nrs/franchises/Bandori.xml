@@ -251,14 +251,108 @@
             <!-- cg lmfao -->
             <visual type="animated" base="0.15" unique="0.5" />
             <!-- rip -->
+            <!-- let's go the ayumuera debt is gone -->
             <animeConsumedProgress
-                status="Dropped"
-                boredom="0.7"
-                episodes="6"
+                status="Completed"
+                boredom="0.8"
+                episodes="13"
             />
+            <!-- this is still kept btw -->
             <dropped />
             <featureMusic id="M-VGMDB-AL-81504-1" />
             <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
+        </entry>
+
+        <entry id="A-MAL-37870" title="BanG Dream! 3rd Season">
+            <source generatedBy="anime.ts 822494e-66345597">
+                <mal id="37870" />
+                <al id="101634" />
+                <ks id="41290" />
+                <adb id="14076" />
+            </source>
+            <!-- tbh not sure about this misaki is cute, lock is cute, etc. -->
+            <bestGirl name="Arisa Ichigaya" />
+
+            <visual type="animated" base="0.3" unique="0.5" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="0.9"
+                episodes="13"
+            />
+
+            <!-- im edging to the moment when rokka joins ras -->
+            <!-- the RAS stuff is just so peak -->
+            <aei base="0.5" emotions="AP-0.5:CP-0.5" />
+        </entry>
+
+        <entry id="A-MAL-54959" title="BanG Dream! It's MyGO!!!!!">
+            <source generatedBy="anime.ts 822494e-66345597">
+                <mal id="54959" />
+                <al id="163571" />
+                <ks id="47291" />
+                <adb id="17981" />
+            </source>
+            <!-- ah yes since mona is a temporary waifu we should make anon waifu instead amirite -->
+            <!-- yeah anon is more popular after all (mental illness) -->
+            <bestGirl name="Anon Chihaya" />
+
+            <!-- actually insane how music anime could reach this level of peak -->
+            <!-- while pisslow rst and niji love live needs to suck HUP's and ayumugod's dick -->
+
+            <!-- Reddit (pogpega) r/anime AOTY 2023 -->
+            <!-- this is the anime that proved that the sky is boundless -->
+
+            <!-- copium copium surely GBC and jellyfish can replicate this level of peak -->
+
+            <!-- initially, i don't put much thought to this show: the "osudrama" is funny and cool -->
+            <nei base="0.5" emotions="AP-0.5:CU-0.5" />
+
+            <!-- but damn after i watch like 3-4 analysis videos of this show, i realized how peak
+            it actually is -->
+            <!-- pads lol -->
+            <maxAEIPADS emotions="CU" from="2024-04-22" to="2024-04-23" />
+
+            <!-- a new mafia has emerged (nvm it's just the nayuta clan) -->
+            <meme from="2024-04-15" to="today" strength="0.3" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
+            <visual type="animated" base="0.4" unique="0.8" />
+        </entry>
+
+        <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
+            <source generatedBy="anime.ts 822494e-66345708">
+                <mal id="51989" />
+                <al id="146501" />
+                <ks id="45999" />
+                <adb id="17438" />
+            </source>
+            <!-- damn how dare that IT2 dude stole the goat's laptop -->
+            <!-- (most virtuous student in ksdgk) -->
+            <!-- i like the part when mashiro said "it's designing time" and become (the wife of)
+            the greatest designer in vn -->
+            <bestGirl name="Mashiro Kurata" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="2"
+            />
+            <visual type="animated" base="0.5" unique="0.8" />
+
+            <!-- haha designer so 1 vn -->
+            <nei base="0.5" emotions="AP" />
+
+            <!-- damn but though chat, this shit actually has political implications -->
+            <!-- like how mashiro thought she was weirdchamp but their friends actually like that
+            weirdge of her -->
+            <!-- ig we gotta show more what we really think to other people -->
+            <!-- yapper -->
+            <nei base="0.2" emotions="CP" />
         </entry>
     </entry>
 
