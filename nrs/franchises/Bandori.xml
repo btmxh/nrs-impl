@@ -258,6 +258,7 @@
                 episodes="13"
             />
             <!-- this is still kept btw -->
+            <validatorSuppress rules="dah-no-dropped-impact" />
             <dropped />
             <featureMusic id="M-VGMDB-AL-81504-1" />
             <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
