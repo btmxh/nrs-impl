@@ -82,6 +82,7 @@
     <include src="franchises/SoraYori.xml" />
     <include src="seasonal/Spring2022.xml" />
     <include src="seasonal/Spring2023.xml" />
+    <include src="seasonal/Spring2024.xml" />
     <include src="franchises/StellaMahou.xml" />
     <include src="franchises/SthKara.xml" />
     <include src="seasonal/Summer2022.xml" />
@@ -101,6 +102,7 @@
     <include src="franchises/WagamamaHighSpec.xml" />
     <include src="franchises/WakeUpGirls.xml" />
     <include src="seasonal/Winter2023.xml" />
+    <include src="seasonal/Winter2024.xml" />
     <include src="franchises/WorldWitches.xml" />
     <include src="franchises/YamadaKun.xml" />
     <include src="franchises/YLIA.xml" />
