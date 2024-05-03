@@ -24,7 +24,7 @@ jobs:
       - name: Setup Deno
         uses: denoland/setup-deno@v1
         with:
-          deno-version: vx.x.x
+          deno-version: v1.42.x
       - name: Create temp directory
         run: mkdir -p temp
       - name: Checkout validator repository
@@ -58,7 +58,7 @@ jobs:
       - name: Setup Deno
         uses: denoland/setup-deno@v1
         with:
-          deno-version: vx.x.x
+          deno-version: v1.42.x
       - name: Generate output files
         run: deno task ci
       - name: Split branch name
