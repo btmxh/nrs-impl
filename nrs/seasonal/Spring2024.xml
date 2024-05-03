@@ -1,0 +1,64 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <!-- yorukara and gbc are the goats this season -->
+    <!-- it's just so peak -->
+
+    <entry id="A-MAL-54839" title="Yoru no Kurage wa Oyogenai">
+        <source generatedBy="anime.ts 822494e-66345b56">
+            <mal id="54839" />
+            <al id="163078" />
+            <ks id="47233" />
+            <adb id="17938" />
+        </source>
+        <validatorSuppress rules=";dah-no-anime-altsrc" />
+        <!-- mahiru perfect wife material -->
+        <!-- she is also literally me -->
+        <!-- her last name is even more obscure than obama's last name bruh -->
+        <!-- juunanasai (yapper reference) -->
+        <bestGirl name="Mahiru Kouzuki" />
+
+        <!-- damn this show just feels different chat it's so fucking peak -->
+        <!-- it definitely shit on all other shows this season except gbc -->
+
+        <aei base="0.2" emotions="CP-0.75:MP-0.25" />
+
+        <meme from="2024-04-15" to="today" strength="0.3" />
+
+        <!-- episode 5 is fucking the august 5th incident chat -->
+        <!-- im hyping for this shit -->
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="4" />
+
+        <visual type="animated" base="0.7" unique="0.3" />
+    </entry>
+
+    <!-- moving this to its own file soon tm -->
+    <entry id="A-MAL-55102" title="Girls Band Cry">
+        <source generatedBy="anime.ts 822494e-66345b3e">
+            <mal id="55102" />
+            <al id="164212" />
+            <ks id="47356" />
+            <adb id="17998" />
+        </source>
+        <!-- iseri nina is the perfect depiction of me -->
+        <!-- episode 2 of this shit tops this season -->
+        <bestGirl name="Nina Iseri" />
+
+        <!-- prayging for tomo anime debut and her interactions with nina -->
+
+        <aei base="0.8" emotions="CU-0.75:CP-0.25" />
+
+        <meme from="2024-04-15" to="today" strength="0.4" />
+
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="4" />
+
+        <!-- peak cgi -->
+        <visual type="animated" base="0.6" unique="0.8" />
+    </entry>
+
+    <!-- idol renaissance part 2 new meta hype -->
+    <aei base="0.5" emotions="AP">
+        <contributor id="A-MAL-55102" factor="0.4" />
+        <contributor id="A-MAL-54839" factor="0.3" />
+        <contributor id="A-MAL-54959" factor="0.3" />
+    </aei>
+</document>
