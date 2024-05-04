@@ -49,7 +49,7 @@
 
         <meme from="2024-04-15" to="today" strength="0.4" />
 
-        <animeConsumedProgress status="Watching" boredom="1.0" episodes="4" />
+        <animeConsumedProgress status="Watching" boredom="1.0" episodes="5" />
 
         <!-- peak cgi -->
         <visual type="animated" base="0.6" unique="0.8" />
