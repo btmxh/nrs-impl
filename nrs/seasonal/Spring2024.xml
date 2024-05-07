@@ -29,6 +29,12 @@
         <animeConsumedProgress status="Watching" boredom="1.0" episodes="5" />
 
         <visual type="animated" base="0.7" unique="0.3" />
+
+        <!-- dat kiss tho chat xdd -->
+        <nei base="0.3" emotions="AP" />
+
+        <!-- some scenes are funny, but nuh uh -->
+        <nei base="0.2" emotions="AP" />
     </entry>
 
     <!-- moving this to its own file soon tm -->
@@ -45,13 +51,21 @@
 
         <!-- prayging for tomo anime debut and her interactions with nina -->
 
+        <!-- ep 2 -->
         <aei base="0.8" emotions="CU-0.75:CP-0.25" />
+
+        <!-- nina as a character -->
+        <nei base="0.9" emotions="AP" />
+
+        <!-- i mean this shit is funny as hell -->
+        <ehi />
 
         <meme from="2024-04-15" to="today" strength="0.4" />
 
         <animeConsumedProgress status="Watching" boredom="1.0" episodes="5" />
 
         <!-- peak cgi -->
+        <!-- absolute cinema -->
         <visual type="animated" base="0.6" unique="0.8" />
     </entry>
 
