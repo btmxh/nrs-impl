@@ -29,6 +29,7 @@
     <include src="seasonal/Fall2022.xml" />
     <include src="seasonal/Fall2023.xml" />
     <include src="franchises/GakkouGurashi.xml" />
+    <include src="franchises/GirlsBandCry.xml" />
     <include src="franchises/GochiUsa.xml" />
     <include src="franchises/Gotoubun.xml" />
     <include src="franchises/Hamefura.xml" />
