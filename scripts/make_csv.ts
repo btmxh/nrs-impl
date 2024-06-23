@@ -1,5 +1,5 @@
-import { writeCSV } from "csv";
-import { Id, Entry, Result } from "nrslib/mod.ts";
+import { CsvStringifyStream } from "csv";
+import { Entry, Id, Result } from "nrslib/mod.ts";
 import { deserializeBulk } from "nrslib/exts/DAH_serialize_json.ts";
 
 // Change this to change the CSV format
@@ -28,7 +28,7 @@ function output(id: Id, entry: Entry, score: Result) {
   const emeta = entry["DAH_meta"] as any;
   // deno-lint-ignore no-explicit-any
   const smeta = score["DAH_meta"] as any;
-  return [
+  const value = [
     id,
     emeta["DAH_entry_type"],
     emeta["DAH_entry_title"],
@@ -37,6 +37,12 @@ function output(id: Id, entry: Entry, score: Result) {
     smeta["DAH_overall_score"],
     ...score.overallVector.data,
   ];
+  const object: Record<string, string> = {};
+  for (let i = 0; i < labels.length; ++i) {
+    object[labels[i]] = value[i];
+  }
+
+  return object;
 }
 
 // Main script part
@@ -45,24 +51,24 @@ const f = await Deno.open("output/nrs.csv", {
   create: true,
   truncate: true,
 });
-
 const [data, results] = deserializeBulk(
   await Deno.readTextFile("output/bulk.json"),
 );
-
-await writeCSV(
-  f,
-  (async function* () {
-    yield labels;
-    for (const [id, entry] of data.entries) {
-      const result = results.get(id);
-      if (result === undefined) {
-        throw new Error(`entry result not found for ${id}`);
-      }
-
-      yield output(id, entry, result);
+const outputData = (async function* () {
+  for (const [id, entry] of data.entries) {
+    const result = results.get(id);
+    if (result === undefined) {
+      throw new Error(`entry result not found for ${id}`);
     }
-  })(),
-);
 
-f.close();
+    yield output(id, entry, result);
+  }
+})();
+
+await ReadableStream.from(outputData)
+  .pipeThrough(
+    // deno-lint-ignore no-explicit-any
+    new CsvStringifyStream({ columns: labels }) as any,
+  )
+  .pipeThrough(new TextEncoderStream())
+  .pipeTo(f.writable);

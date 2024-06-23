@@ -12,7 +12,7 @@
         <bestGirl name="Ralaire" />
 
         <visual type="animated" base="0.3" unique="0.6" />
-        <animeConsumedProgress status="Watching" boredom="0.9" episodes="6" />
+        <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
         <!-- peak MC -->
         <aei base="0.3" emotions="AP" />
     </entry>
@@ -28,7 +28,8 @@
         <bestGirl name="Teru Momijiyama" />
 
         <visual type="animated" base="0.45" unique="0.2" />
-        <animeConsumedProgress status="Watching" boredom="0.8" episodes="5" />
+        <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
+        <dropped />
     </entry>
 
     <entry id="A-MAL-53262" title="Hoshikuzu Telepath">
@@ -43,7 +44,8 @@
         <bestGirl name="Umika Konohoshi" />
 
         <visual type="animated" base="0.7" unique="0.2" />
-        <animeConsumedProgress status="Watching" boredom="0.75" episodes="5" />
+        <animeConsumedProgress status="Dropped" boredom="0.75" episodes="5" />
+        <dropped />
     </entry>
 
     <entry id="A-MAL-54041" title="16bit Sensation: Another Layer">
@@ -58,7 +60,7 @@
         <bestGirl name="Konoha Akisato" />
 
         <visual type="animated" base="0.5" unique="0.2" />
-        <animeConsumedProgress status="Watching" boredom="1.0" episodes="5" />
+        <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
 
         <!-- magireco mentioned!!11!1!!!11! -->
         <nei base="0.3" emotions="AP" />
@@ -77,6 +79,7 @@
         <bestGirl name="Nozomi Inatsuki" />
 
         <visual type="animated" base="0.6" unique="0.1" />
-        <animeConsumedProgress status="Watching" boredom="0.9" episodes="4" />
+        <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
+        <dropped />
     </entry>
 </document>

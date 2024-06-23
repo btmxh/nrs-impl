@@ -1,0 +1,204 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<document>
+    <!-- note: this ID is subjected to change -->
+    <entry id="F-VGMDB-14226" title="Girls Band Cry">
+        <!-- moving this to its own file soon tm -->
+        <entry id="A-MAL-55102" title="Girls Band Cry">
+            <source generatedBy="anime.ts 822494e-66345b3e">
+                <mal id="55102" />
+                <al id="164212" />
+                <ks id="47356" />
+                <adb id="17998" />
+            </source>
+            <!-- iseri nina is the perfect depiction of me -->
+            <!-- episode 2 of this shit tops this season -->
+            <bestGirl name="Nina Iseri" />
+
+            <!-- prayging for tomo anime debut and her interactions with nina -->
+
+            <!-- ep 2 -->
+            <aei base="0.8" emotions="CU-0.75:CP-0.25" />
+
+            <!-- nina as a character -->
+            <nei base="0.9" emotions="AP" />
+
+            <!-- i mean this shit is funny as hell -->
+            <ehi />
+
+            <meme from="2024-04-15" to="today" strength="0.4" />
+
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="11"
+            />
+
+            <!-- peak cgi -->
+            <!-- absolute cinema -->
+            <visual type="animated" base="0.6" unique="0.8" />
+
+            <featureMusic id="M-VGMDB-AL-138149-1" />
+            <featureMusic id="M-VGMDB-AL-138149-2" />
+            <featureMusic id="M-VGMDB-AL-138377-1" />
+            <featureMusic id="M-VGMDB-AL-138377-2" />
+            <featureMusic id="M-20240508T065111-1" />
+        </entry>
+
+        <entry
+            id="M-VGMDB-AL-138149"
+            title="Zattou, Bokura no Machi / TOGENASHI TOGEARI"
+        >
+            <visual type="albumArt" base="0.4" unique="0.3" />
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/138149"
+                        generatedBy="music.ts 822494e-663abfcc"
+                    />
+                </urls>
+            </source>
+            <entry id="$-1" title="雑踏、僕らの街">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=MSmfAa_oSqE"
+                        />
+                    </urls>
+                </source>
+                <music base="0.55" />
+                <musicConsumedProgress length="3:04" />
+            </entry>
+            <entry id="$-2" title="空の箱(井芹仁菜、河原木桃香)">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/2mDNci8EmCus4yVygfRXZJ"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=gpCHjSaetds"
+                        />
+                    </urls>
+                </source>
+                <music base="0.45" />
+                <musicConsumedProgress length="3:04" />
+            </entry>
+        </entry>
+        <entry
+            id="M-VGMDB-AL-138377"
+            title="Dare ni mo Narenai Watashi Dakara / TOGENASHI TOGEARI"
+        >
+            <visual type="albumArt" base="0.4" unique="0.3" />
+            <source>
+                <urls>
+                    <url
+                        name="universal-music-store"
+                        src="https://store.universal-music.co.jp/product/umck5748/"
+                        generatedBy="music.ts 822494e-663abfcc"
+                    />
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/138377"
+                        generatedBy="music.ts 822494e-663abfcc"
+                    />
+                </urls>
+            </source>
+            <entry id="$-1" title="誰にもなれない私だから">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/0QRni3sVIyJ2BF3fqdGr6h"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=dJottC7FmYc"
+                        />
+                    </urls>
+                </source>
+                <music base="0.5" />
+                <!-- peak lyrics (real) -->
+                <nei base="0.2" emotions="CU" />
+                <musicConsumedProgress length="3:09" />
+            </entry>
+            <entry id="$-2" title="声なき魚 (新川崎（仮）">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6rp56EDxc8BAycrSxYWSBA"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=uUUzZDlrt08"
+                        />
+                    </urls>
+                </source>
+                <music base="0.55" />
+                <musicConsumedProgress length="3:00" />
+            </entry>
+        </entry>
+        <entry id="M-VGMDB-AL-132903" title="Hazete Saku / TOGENASHI TOGEARI">
+            <visual type="albumArt" base="0.35" unique="0.3" />
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/132903"
+                        generatedBy="music.ts 822494e-663abfcc"
+                    />
+                </urls>
+            </source>
+            <entry id="$-1" title="爆ぜて咲く">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/0uSgqy51YJuCNUO6ElGdwl"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=LU3f8ZGfd5g"
+                        />
+                    </urls>
+                </source>
+                <music base="0.6" />
+                <musicConsumedProgress length="3:43" />
+            </entry>
+        </entry>
+        <entry
+            id="M-20240508T065111"
+            title="Shikai no Sumi Kuchiru Oto"
+            entrytype="MusicAlbum"
+        >
+            <visual type="albumArt" base="0.5" unique="0.3" />
+            <entry
+                id="$-1"
+                title="Shikai no Sumi Kuchiru Oto"
+                entrytype="MusicTrack"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=swVEesI3StM"
+                        />
+                    </urls>
+                </source>
+                <music base="0.6" />
+                <musicConsumedProgress length="3:08" />
+            </entry>
+        </entry>
+    </entry>
+</document>

@@ -71,5 +71,28 @@
             <killedBy id="F-VGMDB-4499" potential="0.5" effect="0.1" />
             <killedBy id="M-VGMDB-AL-76155-2" potential="0.5" effect="0.75" />
         </entry>
+
+        <entry
+            id="A-MAL-51180"
+            title="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+        >
+            <source generatedBy="mal-best-girl.ts 822494e-66344f78">
+                <mal id="51180" />
+                <al id="146066" />
+                <ks id="45951" />
+                <adb id="17237" />
+            </source>
+            <bestGirl name="Arisu Sakayanagi" />
+
+            <animeConsumedProgress
+                status="Completed"
+                boredom="1.0"
+                episodes="13"
+            />
+
+            <visual type="animated" base="0.6" unique="0.2" />
+
+            <aei base="0.1" emotions="AP" />
+        </entry>
     </entry>
 </document>

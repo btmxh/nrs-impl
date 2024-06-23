@@ -106,7 +106,7 @@
     </entry>
 
     <def name="RemodernizationEra" vars="a_strength:double" visibility="public">
-        <meme strength="a_strength" from="2023-01-01" to="today">
+        <meme strength="a_strength" from="2023-01-01" to="2023-04-01">
             <children />
         </meme>
     </def>

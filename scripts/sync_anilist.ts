@@ -70,7 +70,7 @@ async function authenciate(): Promise<string> {
       grant_type: "authorization_code",
       client_id: id,
       client_secret: secret,
-      redirect_uri: "http://localhost:7272/auth",
+      redirect_uri: `http://localhost:${port}/auth`,
       code, // The Authorization Code received previously
     }),
   });

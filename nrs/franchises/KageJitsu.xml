@@ -113,11 +113,13 @@
             <nei base="0.9" emotions="AP" />
 
             <animeConsumedProgress
-                status="Watching"
+                status="Dropped"
                 boredom="0.9"
                 episodes="6"
             />
 
+            <!-- ripbozo -->
+            <dropped />
             <!-- no sherry kekwing -->
             <visual type="animated" base="0.3" unique="0.4" />
         </entry>
