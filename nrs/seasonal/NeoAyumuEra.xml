@@ -25,7 +25,7 @@
         <!-- also neo-ayumu died so it's natural for her to be back -->
         <!-- (see kano-era and rst-sb69 arc 3) -->
         <!-- that and also m3 fall -->
-        <meme from="2023-10-01" to="today" strength="0.9" />
+        <meme from="2023-10-01" to="today" strength="0.95" />
 
         <entry
             id="M-20230608T130823"
@@ -419,6 +419,24 @@
             <musicConsumedProgress length="6:57" />
             <music base="0.55" />
             <role id="M-VGMDB-AR-57255" roles="vocal+image" />
+        </entry>
+    </entry>
+
+    <entry id="M-20240314T142104" title="Glowings" entrytype="MusicAlbum">
+        <visual type="albumArt" base="0.5" unique="0.2" />
+        <entry id="$-1" title="Infinity Rage">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=fOlfE7ILlO0"
+                    />
+                </urls>
+            </source>
+            <music base="0.3" />
+            <musicConsumedProgress length="4:05" />
+            <!-- vote for "infinity rizz" to be the worst meme in 2023 -->
+            <nei base="0.5" emotions="AP" />
         </entry>
     </entry>
 
@@ -1966,5 +1984,332 @@
             <role id="M-VGMDB-AR-53149" roles="inst+image" />
             <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
         </entry>
+    </entry>
+
+    <entry
+        id="M-20240314T081159"
+        title="Junsetsu Envelope"
+        entrytype="MusicAlbum"
+    >
+        <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/q4EHa859"
+                    generatedBy="music.ts 822494e-65f2543a"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/4T9NEmSgVyd4jsOb3CXZHo"
+                    generatedBy="music.ts 822494e-65f2543a"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kmMMMyntnfyhhCaCYx6G-MqCVURj7SmLQ"
+                    generatedBy="music.ts 822494e-65f2543a"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.4" unique="0.1" />
+
+        <entry id="$-1" title="Shirayuki no Negaigoto">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/26Unvk3f0SvU6wrxyC1Vwy"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=O_Cr8PL5t8g"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image+lyrics" />
+            <musicConsumedProgress length="3:42" />
+        </entry>
+        <entry id="$-2" title="Melty StarMelty Star">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2agIfObZ3dcPVAmvghq4fp"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=I9V8N5-FesE"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.4" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <musicConsumedProgress length="4:42" />
+        </entry>
+        <entry id="$-3" title="Seisouken">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/0Pc3s7jkuSdUYI2Nka5nMb"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=Wi2vaE04AqA"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.45" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+            <musicConsumedProgress length="4:28" />
+        </entry>
+        <entry id="$-4" title="12gatsuno epilogue">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/2KiuseenbF7vRLcZLcIra6"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=kNGDdmaf4qg"
+                        generatedBy="music.ts 822494e-65f2543a"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <role id="M-VGMDB-AR-53149" roles="inst+image+lyrics" />
+            <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
+            <musicConsumedProgress length="4:09" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-29310" title="My Dearest / supercell">
+        <source>
+            <urls>
+                <url
+                    name="cdjapan"
+                    src="https://www.cdjapan.co.jp/detailview.html?KEY=SRCL-7795"
+                    generatedBy="music.ts 822494e-65f28e6b"
+                />
+                <url
+                    name="play-asia"
+                    src="https://www.play-asia.com/My_Dearest/paOS-13-71-9y-70-4emx.html"
+                    generatedBy="music.ts 822494e-65f28e6b"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/29310"
+                    generatedBy="music.ts 822494e-65f28e6b"
+                />
+                <url
+                    name="yesasia"
+                    src="https://www.yesasia.com/us/my-dearest-normal-edition-japan-version/1025035830-0-0-0-en/info.html"
+                    generatedBy="music.ts 822494e-65f28e6b"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.2" unique="0.3" />
+        <!-- a song from the Post-Arc-3 of Neo-Ayumu-era -->
+        <entry id="$-1" title="My Dearest">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=nIrYjzHAEp0"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="5:38" />
+            <remix id="M-20240314T124353" />
+            <remix id="M-20240314T124354" />
+            <remix id="M-20240314T124355" />
+            <!-- noblism -->
+            <nei base="0.5" emotions="CU" />
+        </entry>
+    </entry>
+
+    <!-- kanade ver: https://www.youtube.com/watch?v=oxZeLM9rx7s -->
+    <entry id="M-20240314T124353" title="My Dearest" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=oxZeLM9rx7s"
+                />
+            </urls>
+        </source>
+        <visual type="semiAnimatedMV" base="0.5" unique="0.2" />
+        <music base="0.55" />
+        <!-- Length source: https://www.youtube.com/watch?v=oxZeLM9rx7s -->
+        <musicConsumedProgress length="5:42" />
+    </entry>
+    <!-- azki ver: https://www.youtube.com/watch?v=lxJ7SXMEPto -->
+    <entry id="M-20240314T124354" title="My Dearest" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=lxJ7SXMEPto"
+                />
+            </urls>
+        </source>
+        <visual type="animatedMV" base="0.1" unique="0.3" />
+        <music base="0.5" />
+        <!-- Length source: https://www.youtube.com/watch?v=lxJ7SXMEPto -->
+        <musicConsumedProgress length="5:49" />
+        <role id="M-VGMDB-AR-35619" roles="vocal+image" />
+    </entry>
+    <!-- mumei ver: https://www.youtube.com/watch?v=NGDPr505aBQ -->
+    <entry id="M-20240314T124355" title="My Dearest" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=NGDPr505aBQ"
+                />
+            </urls>
+        </source>
+        <music base="0.55" />
+        <!-- Length source: https://www.youtube.com/watch?v=NGDPr505aBQ -->
+        <musicConsumedProgress length="3:46" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-133731" title="Rhythm Game Addiction!">
+        <source>
+            <urls>
+                <url
+                    name="bandcamp"
+                    src="https://ha1uday0.bandcamp.com/album/-"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="booth"
+                    src="https://booth.pm/ja/items/5199093"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/VFCa685X"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="official"
+                    src="https://rhythm-game-addiction.netlify.app/"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/65rwJEC23HoZ5YdYy4O45J"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/133731"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_mX9Ww7zCM_uamTk83KCjB6a3h-bO0REGw"
+                    generatedBy="music.ts 822494e-65f2a1fc"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.3" unique="0.5" />
+        <entry id="$-1" title="オトビカリ">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/7j29X9XZ8ns44XbbHIjWfD"
+                        generatedBy="music.ts 822494e-65f2a1fc"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="2:22" />
+        </entry>
+        <entry id="$-7" title="Thank you for Playing">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/1GVofSSGRp37KStqMjDRHW"
+                        generatedBy="music.ts 822494e-65f2a1fc"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="3:04" />
+            <remix id="M-20240314T141249" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-VGMDB-AL-131251"
+        title="Mashiroiro Symphony SANA EDITION Maxi Single"
+    >
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/Dnmy11Ev"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1Q1Ojiyps9rlN6H4nNVftB"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/131251"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_n-sqS7dtDdpON4LnFsGFL1IVR-KHCe1_M"
+                    generatedBy="music.ts 822494e-65f2a335"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.4" unique="0.3" />
+
+        <entry id="$-1" title="Yuki wa Naniiro">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6vyyEuiepVMmHKc2nWhYUh"
+                        generatedBy="music.ts 822494e-65f2a335"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <role id="M-VGMDB-AR-26614" roles="prod" />
+            <musicConsumedProgress length="3:25" />
+            <remix id="M-20240314T141249" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-20240314T141249"
+        title="Thank you for Playing &quot;Kotoha - Yuki wa Naniiro&quot;"
+        entrytype="MusicTrack"
+    >
+        <!-- dogshit mashup lmfao -->
+        <music base="0.15" />
+        <!-- but funny af -->
+        <nei base="0.5" emotions="AP" />
+        <!-- (wdym i literally made this kek) -->
+        <musicConsumedProgress length="00:00:50" />
     </entry>
 </document>

@@ -254,6 +254,53 @@
             <music base="0.6" />
             <musicConsumedProgress length="4:30" />
         </entry>
+
+        <!-- one of the Neo Ayumuian Legends -->
+        <!-- the inspiration in the midst of arc 3 despair -->
+        <!-- https://www.youtube.com/watch?v=lD8oL4CRu64 -->
+        <entry id="M-VGMDB-AR-47736" title="Hoshimachi Suisei" />
+
+        <entry
+            id="M-20240314T092654"
+            title="Still Still Stellar"
+            entrytype="MusicAlbum"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="linkfire"
+                        src="https://cover.lnk.to/stillstillstellar"
+                        generatedBy="music.ts 822494e-65f261bd"
+                    />
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/2HmlBFz06FldsdzwY1FHg4"
+                        generatedBy="music.ts 822494e-65f261bd"
+                    />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/playlist?list=OLAK5uy_mh_5nUKRnrxLoj2Y7wx2jGaCKZz0t2DU0"
+                        generatedBy="music.ts 822494e-65f261bd"
+                    />
+                </urls>
+            </source>
+            <visual type="albumArt" base="0.5" unique="0.3" />
+
+            <entry id="$-1" title="Stellar Stellar">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6OC9BOO9qGXQARZGWb8rqy"
+                            generatedBy="music.ts 822494e-65f261bd"
+                        />
+                    </urls>
+                </source>
+                <music base="0.5" />
+                <role id="M-VGMDB-AR-47736" roles="vocal+image" />
+                <musicConsumedProgress length="5:01" />
+            </entry>
+        </entry>
     </entry>
 
     <!-- groundbreaking hanayori incidents -->
@@ -268,4 +315,92 @@
         <contributor id="M-VGMDB-AR-6799" factor="0.5" />
         <contributor id="M-VGMDB-AR-35619" factor="0.5" />
     </epi>
+
+    <meme from="2023-05-15" to="today" strength="0.4">
+        <contributor id="M-20230524T223250" factor="1.0" />
+    </meme>
+
+    <entry
+        id="M-20240314T132852"
+        title="Diamond City Lights"
+        entrytype="MusicTrack"
+    >
+        <source>
+            <urls>
+                <url
+                    name="linkcore"
+                    src="https://linkco.re/cu7tUpMV"
+                    generatedBy="music.ts 822494e-65f29986"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/4Rjbw90eUNMY6abIeDa5tK"
+                    generatedBy="music.ts 822494e-65f29986"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=MWKw-heslkQ"
+                    generatedBy="music.ts 822494e-65f29986"
+                />
+            </urls>
+        </source>
+
+        <visual type="semiAnimatedMV" base="0.6" unique="0.3" />
+        <music base="0.45" />
+        <!-- nijisanji pomu bullshit -->
+        <nei base="0.3" emotions="CP" />
+        <musicConsumedProgress length="4:04" />
+    </entry>
+    <entry
+        id="M-20240314T134125"
+        title="HIMEHINA Sings -02-"
+        entrytype="MusicAlbum"
+    >
+        <source>
+            <urls>
+                <url
+                    name="linkfire"
+                    src="https://lnk.to/himehinautamita2"
+                    generatedBy="music.ts 822494e-65f29ce5"
+                />
+                <url
+                    name="spotify"
+                    src="https://open.spotify.com/album/1MUzB6DgT9hnIXWlYIj1wM?go=1"
+                    generatedBy="music.ts 822494e-65f29ce5"
+                />
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/playlist?list=OLAK5uy_kE2mKz3raJjMSBsegGK4tTVLm_5paN2xs&amp;src=Linkfire&amp;lId=797b996f-a197-45c8-a4a0-af1d0afc37b1&amp;cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751"
+                    generatedBy="music.ts 822494e-65f29ce5"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.5" unique="0.2" />
+        <entry id="$-9" title="Tengaku">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/6OiqA0YsolfI2efHkkMWNh"
+                        generatedBy="music.ts 822494e-65f29ce5"
+                    />
+                </urls>
+            </source>
+            <music base="0.6" />
+            <musicConsumedProgress length="4:32" />
+        </entry>
+        <entry id="$-10" title="Non-breath oblige - HIMEHINA ver.">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/track/170vm3fa7lznwYQsKEGvIU"
+                        generatedBy="music.ts 822494e-65f29c82"
+                    />
+                </urls>
+            </source>
+            <music base="0.55" />
+            <musicConsumedProgress length="3:30" />
+        </entry>
+    </entry>
 </document>
