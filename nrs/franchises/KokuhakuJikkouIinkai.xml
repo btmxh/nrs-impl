@@ -220,6 +220,7 @@
                 <osuSong personal="0.3" community="0.1" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-VGMDB-AL-112538-7" />
             </entry>
 
             <!-- real -->
@@ -437,6 +438,7 @@
             <nei base="0.5" emotions="CP" />
         </entry>
 
+        <!-- skibidi toilet brainrot incoming -->
         <entry
             id="M-VGMDB-AL-112538"
             title="#Namae dake demo Oboetette Kudasai / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
@@ -444,13 +446,89 @@
             <source>
                 <urls>
                     <url
+                        name="spotify"
+                        src="https://open.spotify.com/album/46DAbPGLLwBZhX0Hr7lfSu?si=9owElZ5KTtyTQGj00RMkvg"
+                    />
+                    <url
                         name="vgmdb"
                         src="https://vgmdb.net/album/112538"
                         generatedBy="music.ts 822494e-655c40b0"
                     />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/playlist?list=OLAK5uy_kx4GgYjD3zjKRikI1W0vz9tBt-CrvbvVE"
+                    />
                 </urls>
             </source>
+
+            <!-- yapperchama so real so peak -->
             <visual type="albumArt" base="0.5" unique="0.3" />
+
+            <!-- "I wonder how this upbeat song is able to convey so much emotions." -->
+            <entry id="$-1" title="Watashi, Idol Sengen">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6tszpGH4qvfkzZu1TzqMRR"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=6_LluxMasZE"
+                        />
+                    </urls>
+                </source>
+                <music base="0.6" />
+                <musicConsumedProgress length="4:25" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <!-- juunanasai compilation -->
+            <!-- https://youtu.be/eIFTnaPXnRM&t=9 -->
+            <!-- https://youtu.be/60qNyJnowwg&t=71 -->
+            <entry id="$-2" title="17-sai">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6c04LUIUfJf16C9Dhdn6mJ"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=dvsp6rJRJiw"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.45" />
+                <musicConsumedProgress length="4:06" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <!-- le meme artist sang this btw -->
+            <entry id="$-3" title="Fansa">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/62cLa2DZAQ2MJ2oXUuSX08"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=lzyDD8bMDKs"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.55" />
+                <musicConsumedProgress length="4:08" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <remix id="M-20240314T094334-1" />
+            </entry>
+
             <entry id="$-4" title="Hokori Takaki Idol">
                 <source>
                     <urls>
@@ -462,6 +540,152 @@
                 </source>
                 <music base="0.55" />
                 <musicConsumedProgress length="4:14" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <!-- pure W -->
+            <!-- First song of album 2 -->
+            <!-- The song that marked the end of n***** rule -->
+            <entry id="$-5" title="motto☆Ichigo Au Lait">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/5PK2yg2NHnt7aSPzYPBXUH"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=3eM6quLZxMg"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.65" />
+                <musicConsumedProgress length="3:41" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <entry id="$-6" title="Nakama Hazure">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/220dvpawobMmzkSxteyc1M"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=jDikeUBHQJU"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.4" />
+                <musicConsumedProgress length="2:44" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <entry id="$-7" title="Watashi no Mikata">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6nNtvQmriiLiKYbylXvnuz"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=qqGp6my_3ok"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.45" />
+                <musicConsumedProgress length="4:11" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <entry id="$-8" title="Jinsei wa Saikou no Himatsubushi">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6t9orCuTqgz5H8ddIAqgSs"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=u0OvEzIYYPM"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.6" />
+                <musicConsumedProgress length="4:25" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <entry id="$-9" title="Honto no Watashi">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/55McbIY23Q17xcj4rs76o7"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=wpVcrP18y6k"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.42" />
+                <musicConsumedProgress length="5:05" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <entry id="$-10" title="No.1">
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/0dZcSevqqzevTkGq7mLW5P"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=Zs1sHB6DNR4"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.53" />
+                <musicConsumedProgress length="4:34" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            </entry>
+
+            <entry
+                id="$-11"
+                title="Sis×Love feat. Narumi Sena × Narumi Mona (CV: Amamiya Sora, Natsukawa Shiina)"
+            >
+                <source>
+                    <urls>
+                        <url
+                            name="spotify"
+                            src="https://open.spotify.com/track/6XM7DRD6qswcsg0VWHgkIR"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=BfyH4ROtFm0"
+                            generatedBy="music.ts 822494e-66781c42"
+                        />
+                    </urls>
+                </source>
+                <music base="0.57" />
+                <musicConsumedProgress length="3:31" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
         </entry>
@@ -1135,5 +1359,12 @@
         <contributor id="L-MAL-139873" factor="0.25" />
         <contributor id="M-20231121T122539-4" factor="0.3" />
         <contributor id="M-VGMDB-AL-112538-4" factor="0.1" />
+    </meme>
+
+    <!-- gbc and yorukura fell off, yapper is now the most powerful girl -->
+    <!-- she had truly come a long way from being a "temporary waifu" -->
+    <meme from="2024-06-01" to="today">
+        <contributor id="L-MAL-139873" factor="0.4" />
+        <contributor id="" />
     </meme>
 </document>
