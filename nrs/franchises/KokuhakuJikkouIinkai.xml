@@ -1396,11 +1396,11 @@
     <!--     - CTB Girl Dorm’s Second (probably HoneyWorks Cover) Album -->
     <aei base="0.2" emotions="MU-0.2:MP-0.4:CP-0.4">
         <!-- motto ichigo ore, the song that started everything -->
-        <contributor id="M-VGMDB-AL-112538-5" />
+        <contributor id="M-VGMDB-AL-112538-5" factor="1/3" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
-        <contributor id="M-20231121T122539-14" />
+        <contributor id="M-20231121T122539-14" factor="1/3" />
         <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
-        <contributor id="M-20240314T094335-10" />
+        <contributor id="M-20240314T094335-10" factor="1/3" />
     </aei>
 
     <!-- anti-normie phase -->
