@@ -564,6 +564,7 @@
                 <music base="0.65" />
                 <musicConsumedProgress length="3:41" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <remix id="M-20240314T094334-3" />
             </entry>
 
             <entry id="$-6" title="Nakama Hazure">
@@ -687,6 +688,7 @@
                 <music base="0.57" />
                 <musicConsumedProgress length="3:31" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <remix id="M-20240314T094334-5" />
             </entry>
         </entry>
 
@@ -711,6 +713,7 @@
                 <!-- this comes out first, so it's the original -->
                 <!-- a little bit unfair ik -->
                 <remix id="M-VGMDB-AL-112538-4" />
+                <remix id="M-20240314T094334-4" />
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
             </entry>
@@ -1029,6 +1032,7 @@
             <music base="0.6" />
             <musicConsumedProgress length="4:09" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <remix id="M-20240314T094334-1" />
         </entry>
         <entry id="$-2" title="Inokori Sensei">
             <source>
