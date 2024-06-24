@@ -1359,6 +1359,12 @@
             <!-- obligatory suisei ei -->
             <nei base="0.3" emotions="CP" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <ref
+                name="KoikakeAEI"
+                a_base="0.75"
+                a_contribution="0.8"
+                a_emotions="CP-0.75:MP-0.25"
+            />
         </entry>
     </entry>
 
@@ -1385,6 +1391,18 @@
         <!-- 9. Re: Hatsukoi no Ehon feat. Toyosaki Aki -->
         <contributor id="M-VGMDB-AL-91835-17" factor="1/9" />
     </aei>
+
+    <!-- (Unnamed) Tea Party Album -->
+    <!--     - CTB Girl Dorm’s Second (probably HoneyWorks Cover) Album -->
+    <aei base="0.2" emotions="MU-0.2:MP-0.4:CP-0.4">
+        <!-- motto ichigo ore, the song that started everything -->
+        <contributor id="M-VGMDB-AL-112538-5" />
+        <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
+        <contributor id="M-20231121T122539-14" />
+        <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
+        <contributor id="M-20240314T094335-10" />
+    </aei>
+
     <!-- anti-normie phase -->
     <meme from="2024-01-16" to="today" strength="0.5">
         <contributor id="A-MAL-52962" factor="0.3" />
