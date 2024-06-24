@@ -697,8 +697,10 @@
             title="Kokuhaku Jikkou Iinkai FLYING SONGS: Aishiteru"
             entrytype="MusicAlbum"
         >
-            <!-- nah bro this is not the CD cover, i'm not rating MEN -->
-            <visual type="albumArt" base="0.5" unique="0.35" />
+            <!-- there are like ten different album covers for this lmfao -->
+            <!-- im rating the yapper one (yapperchama mecchakawaii) -->
+            <visual type="albumArt" base="0.6" unique="0.35" />
+
             <entry id="$-4" title="Hokori Takaki Idol" entrytype="MusicTrack">
                 <source>
                     <urls>
@@ -716,6 +718,7 @@
                 <remix id="M-20240314T094334-4" />
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
 
             <entry
@@ -734,6 +737,31 @@
                 <music base="0.5" />
                 <!-- Length source: https://youtu.be/u0OvEzIYYPM -->
                 <musicConsumedProgress length="4:26" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
+
+            <!-- domino effect moment: -->
+            <!-- the OS teacher kicking me out of the class -> sena and koutarou getting married -->
+            <!-- tea party album is so peak fr -->
+            <entry id="$-14" title="Romantic Wedding">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=T3FwiCSioYg"
+                        />
+                    </urls>
+                </source>
+
+                <music base="0.7" />
+                <musicConsumedProgress length="4:10" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <ref
+                    name="KoikakeNEI"
+                    a_base="0.5"
+                    a_contribution="0.8"
+                    a_emotions="CP-0.75:MP-0.25"
+                />
             </entry>
         </entry>
 
