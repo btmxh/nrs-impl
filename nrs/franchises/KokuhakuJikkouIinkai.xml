@@ -1057,6 +1057,7 @@
             <music base="0.5" />
             <musicConsumedProgress length="3:40" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <remix id="M-VGMDB-AL-112538-5" />
         </entry>
         <entry id="$-4" title="Hokori Takaki Idol">
             <source>
@@ -1365,6 +1366,50 @@
     <!-- she had truly come a long way from being a "temporary waifu" -->
     <meme from="2024-06-01" to="today">
         <contributor id="L-MAL-139873" factor="0.4" />
-        <contributor id="" />
+
+        <!-- peak sengen -->
+        <!-- people often watch capi and chico versions though -->
+        <contributor id="M-VGMDB-AL-112538-1" factor="0.04" />
+
+        <!-- 17-sai -->
+        <!-- ppl dont care much about this song -->
+        <contributor id="M-VGMDB-AL-112538-2" factor="0.01" />
+
+        <!-- fanser.mp4 -->
+        <!-- this song has already been played like a million times already -->
+        <contributor id="M-VGMDB-AL-112538-3" factor="0.02" />
+
+        <!-- hokori takaki -->
+        <!-- iconic af but yeah this is not their time -->
+        <!-- also we rate the the kotoha version here, no one listen to the seiyuu one -->
+        <contributor id="M-20231121T122539-4" factor="0.05" />
+
+        <!-- motto ichigo -->
+        <!-- the heart of this meta -->
+
+        <!-- yapperchama version -->
+        <contributor id="M-VGMDB-AL-112538-5" factor="0.2" />
+        <!-- miko version -->
+        <contributor id="M-20240314T094334-3" factor="0.05" />
+
+        <!-- nakama and mikata -->
+        <!-- barely anyone watches these -->
+        <contributor id="M-VGMDB-AL-112538-6" factor="0.01" />
+        <contributor id="M-VGMDB-AL-112538-7" factor="0.01" />
+
+        <!-- jinsei saikyou -->
+        <!-- same as hokori takaki -->
+        <contributor id="M-20231121T122539-8" factor="0.05" />
+
+        <!-- honto -->
+        <!-- no one listens to this too -->
+        <contributor id="M-VGMDB-AL-112538-9" factor="0.01" />
+
+        <!-- no 1 -->
+        <!-- banger fr -->
+        <contributor id="M-VGMDB-AL-112538-10" factor="0.05" />
+
+        <!-- sis x love -->
+        <contributor id="M-VGMDB-AL-112538-11" factor="0.1" />
     </meme>
 </document>
