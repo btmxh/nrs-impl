@@ -223,6 +223,20 @@
                 <remix id="M-VGMDB-AL-112538-7" />
             </entry>
 
+            <entry
+                id="$-12"
+                title="Tokyo Winter Session feat. Setoguchi Yu, Enomoto Natsuki, Mochizuki Souta, Hayasaka Akari, Serizawa Haruki, Aida Miou"
+            >
+                <musicConsumedProgress length="4:15" />
+                <music base="0.6" />
+                <!-- three illustrators in this song is pretty cool ngl -->
+                <!-- moge art is cute -->
+                <!-- yamako is iconic + cute (aida miou bias moment) -->
+                <!-- the other dude style is not my thing, but it is unique -->
+                <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
+
             <!-- real -->
             <!-- "At its root, this is a coming-of-age story of the protagonist learning that, -->
             <!-- sometimes, just doing one's best to achieve something worth fighting for is in -->
@@ -390,6 +404,7 @@
             <!-- not-so-classic afl farm -->
             <cry emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-120871-5" />
+            <featureMusic id="M-VGMDB-AL-91835-12" />
             <featureMusic id="M-VGMDB-AL-91835-17" />
         </entry>
 
@@ -1396,11 +1411,13 @@
     <!--     - CTB Girl Dorm’s Second (probably HoneyWorks Cover) Album -->
     <aei base="0.2" emotions="MU-0.2:MP-0.4:CP-0.4">
         <!-- motto ichigo ore, the song that started everything -->
-        <contributor id="M-VGMDB-AL-112538-5" factor="1/3" />
+        <contributor id="M-VGMDB-AL-112538-5" factor="1/5" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
-        <contributor id="M-20231121T122539-14" factor="1/3" />
+        <contributor id="M-20231121T122539-14" factor="1/5" />
+        <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
+        <contributor id="M-VGMDB-AL-91835-12" factor="1/5" />
         <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
-        <contributor id="M-20240314T094335-10" factor="1/3" />
+        <contributor id="M-20240314T094335-10" factor="1/5" />
     </aei>
 
     <!-- anti-normie phase -->
