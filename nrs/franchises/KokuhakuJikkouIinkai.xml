@@ -177,6 +177,18 @@
             </entry>
 
             <entry
+                id="M-20240629T202429"
+                title="Terekakushi Shishunki"
+                entrytype="MusicTrack"
+            >
+                <!-- Length source: https://www.youtube.com/watch?v=AUEiHQOCQ2M -->
+                <musicConsumedProgress length="3:31" />
+                <music base="0.35" />
+                <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+            </entry>
+
+            <entry
                 id="M-20221225T015505"
                 title="Miraizu"
                 entrytype="MusicTrack"
@@ -1414,6 +1426,8 @@
         <contributor id="M-VGMDB-AL-112538-5" factor="1/5" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
         <contributor id="M-20231121T122539-14" factor="1/5" />
+        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little sister grow up -->
+        <contributor id="M-20240629T202429" factor="1/5" />
         <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
         <contributor id="M-VGMDB-AL-91835-12" factor="1/5" />
         <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
