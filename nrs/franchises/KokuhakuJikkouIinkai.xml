@@ -1421,7 +1421,7 @@
 
     <!-- (Unnamed) Tea Party Album -->
     <!--     - CTB Girl Dorm’s Second (probably HoneyWorks Cover) Album -->
-    <aei base="0.2" emotions="MU-0.2:MP-0.4:CP-0.4">
+    <aei base="0.4" emotions="MU-0.2:MP-0.4:CP-0.4">
         <!-- motto ichigo ore, the song that started everything -->
         <contributor id="M-VGMDB-AL-112538-5" factor="1/5" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
