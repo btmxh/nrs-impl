@@ -1,5 +1,17 @@
 <?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
 <document>
+    <!-- yapperchama will not have her own dedicated entry, much like ayumugod -->
+    <!-- this branch only add this entry to keep track of the contribution that she had, -->
+    <!-- which was split (somewhat-evenly) between her songs and her manga -->
+    <!-- also this is not nested in the CEC entry so that it does not affect the score of any other
+    entries -->
+    <!-- the rule is as follows: -->
+    <!-- 1st album -> image -->
+    <!-- not sung by VA -> image/2 -->
+    <entry id="M-20240629T204632" title="mona" entrytype="MusicArtist">
+        <contains id="L-MAL-139873" />
+    </entry>
+
     <!-- holy fuck how many of these songs have been heard by me in osu! bro -->
     <!-- also i hate himeno sena -->
     <!-- (sena narumi is cool tho) -->
@@ -80,6 +92,7 @@
                 <osuSong personal="0.8" community="0.0" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+                <role id="M-20240629T204632" roles="image/2" />
             </entry>
         </entry>
 
@@ -509,6 +522,7 @@
                 <music base="0.6" />
                 <musicConsumedProgress length="4:25" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <!-- juunanasai compilation -->
@@ -532,6 +546,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:06" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <!-- le meme artist sang this btw -->
@@ -553,6 +568,7 @@
                 <music base="0.55" />
                 <musicConsumedProgress length="4:08" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
                 <remix id="M-20240314T094334-1" />
             </entry>
 
@@ -568,6 +584,7 @@
                 <music base="0.55" />
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <!-- pure W -->
@@ -591,6 +608,7 @@
                 <music base="0.65" />
                 <musicConsumedProgress length="3:41" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
                 <remix id="M-20240314T094334-3" />
             </entry>
 
@@ -612,6 +630,7 @@
                 <music base="0.4" />
                 <musicConsumedProgress length="2:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <entry id="$-7" title="Watashi no Mikata">
@@ -632,6 +651,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:11" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <entry id="$-8" title="Jinsei wa Saikou no Himatsubushi">
@@ -652,6 +672,7 @@
                 <music base="0.6" />
                 <musicConsumedProgress length="4:25" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <entry id="$-9" title="Honto no Watashi">
@@ -672,6 +693,7 @@
                 <music base="0.42" />
                 <musicConsumedProgress length="5:05" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <entry id="$-10" title="No.1">
@@ -692,6 +714,7 @@
                 <music base="0.53" />
                 <musicConsumedProgress length="4:34" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
             </entry>
 
             <entry
@@ -715,6 +738,7 @@
                 <music base="0.57" />
                 <musicConsumedProgress length="3:31" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image/2" />
                 <remix id="M-20240314T094334-5" />
             </entry>
         </entry>
@@ -746,6 +770,7 @@
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <role id="M-20240629T204632" roles="image/2" />
             </entry>
 
             <entry
@@ -765,6 +790,7 @@
                 <!-- Length source: https://youtu.be/u0OvEzIYYPM -->
                 <musicConsumedProgress length="4:26" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <role id="M-20240629T204632" roles="image/2" />
             </entry>
 
             <!-- domino effect moment: -->
@@ -1426,7 +1452,8 @@
         <contributor id="M-VGMDB-AL-112538-5" factor="1/5" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
         <contributor id="M-20231121T122539-14" factor="1/5" />
-        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little sister grow up -->
+        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little
+        sister grow up -->
         <contributor id="M-20240629T202429" factor="1/5" />
         <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
         <contributor id="M-VGMDB-AL-91835-12" factor="1/5" />
