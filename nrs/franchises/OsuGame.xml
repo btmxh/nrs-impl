@@ -304,13 +304,10 @@
         title="TV Animation &quot;Hatena ☆ Illusion&quot; Original Soundtrack"
     >
         <visual type="albumArt" base="0.6" unique="0.3" />
-        <entry id="$-1" title="Hatena☆Illusion">
-            <musicConsumedProgress
-                length="2:50"
-                generatedBy="fill_music_metadata.dart v0.1.1"
-            />
+        <entry id="$-37" title="Hikari-iro no Uta (TV size)">
             <music base="0.50" />
             <osuSong personal="0.3" community="0.1" />
+            <musicConsumedProgress length="1:31" />
         </entry>
     </entry>
     <entry id="M-VGMDB-AL-103004" title="One Day / SPYAIR">

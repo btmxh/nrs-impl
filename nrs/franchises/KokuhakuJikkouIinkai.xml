@@ -818,6 +818,32 @@
             </entry>
         </entry>
 
+        <!-- at this point it's not even funny anymore -->
+        <!-- she is just invincible man (just like the MEA god :kapp:) -->
+        <entry
+            id="M-20240629T073033"
+            title="Kokuhaku Jikkou Iinkai FLYING SONGS: Omoiai"
+            entrytype="MusicAlbum"
+        >
+            <entry id="$-4" title="Fukutsu no Idol">
+                <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+
+                <music base="0.65" />
+                <musicConsumedProgress length="3:54" />
+
+                <!-- the hype is unreal -->
+                <!-- she can't get away with this -->
+                <!-- blud thinks she's nayuta (she's actually better) -->
+                <epi base="1.0" />
+
+                <!-- 3:03 is just pure W, tea party or not -->
+                <nei base="0.3" emotions="CP" />
+
+                <!-- looking forward to the yapperchama album W -->
+            </entry>
+        </entry>
+
         <entry
             id="M-VGMDB-AL-63816"
             title="Nando datte, Suki. ~Kokuhaku Jikkou Iinkai~"
@@ -869,7 +895,8 @@
             <!-- i'm sorry but the hype of this manga is just unreal bro -->
             <ehi />
 
-            <visual type="manga" base="0.5" unique="0.2" />
+            <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
+            <visual type="manga" base="0.8" unique="0.2" />
 
             <!-- 29 chapters -->
             <consumedProgress
