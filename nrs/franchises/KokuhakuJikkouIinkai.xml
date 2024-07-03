@@ -1421,17 +1421,19 @@
 
     <!-- (Unnamed) Tea Party Album -->
     <!--     - CTB Girl Dorm’s Second (probably HoneyWorks Cover) Album -->
-    <aei base="0.4" emotions="MU-0.2:MP-0.4:CP-0.4">
+    <aei base="0.8" emotions="MU-0.2:MP-0.4:CP-0.4">
         <!-- motto ichigo ore, the song that started everything -->
-        <contributor id="M-VGMDB-AL-112538-5" factor="1/5" />
+        <contributor id="M-VGMDB-AL-112538-5" factor="1/6" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
-        <contributor id="M-20231121T122539-14" factor="1/5" />
+        <contributor id="M-20231121T122539-14" factor="1/6" />
         <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little sister grow up -->
-        <contributor id="M-20240629T202429" factor="1/5" />
+        <contributor id="M-20240629T202429" factor="1/6" />
         <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
-        <contributor id="M-VGMDB-AL-91835-12" factor="1/5" />
+        <contributor id="M-VGMDB-AL-91835-12" factor="1/6" />
         <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
-        <contributor id="M-20240314T094335-10" factor="1/5" />
+        <contributor id="M-20240314T094335-10" factor="1/6" />
+        <!-- byoumei koi wazurai, the song about a girl who, against all odds, has proven she was right -->
+        <contributor id="M-20221225T010305-12" factor="1/6" />
     </aei>
 
     <!-- anti-normie phase -->
