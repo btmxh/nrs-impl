@@ -872,6 +872,7 @@
             <entry id="$-4" title="Fukutsu no Idol">
                 <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="image" />
 
                 <music base="0.65" />
                 <musicConsumedProgress length="3:54" />
