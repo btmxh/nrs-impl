@@ -551,7 +551,7 @@
                 <music base="0.6" />
                 <musicConsumedProgress length="4:25" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <!-- juunanasai compilation -->
@@ -575,7 +575,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:06" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <!-- le meme artist sang this btw -->
@@ -597,7 +597,7 @@
                 <music base="0.55" />
                 <musicConsumedProgress length="4:08" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
                 <remix id="M-20240314T094334-1" />
             </entry>
 
@@ -613,7 +613,7 @@
                 <music base="0.55" />
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <!-- pure W -->
@@ -637,7 +637,7 @@
                 <music base="0.65" />
                 <musicConsumedProgress length="3:41" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
                 <remix id="M-20240314T094334-3" />
                 <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
                 <!-- in the world*, nayuta had decided to become the principal of ksdgk. those -->
@@ -667,7 +667,7 @@
                 <music base="0.4" />
                 <musicConsumedProgress length="2:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <entry id="$-7" title="Watashi no Mikata">
@@ -688,7 +688,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:11" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <entry id="$-8" title="Jinsei wa Saikou no Himatsubushi">
@@ -709,7 +709,7 @@
                 <music base="0.6" />
                 <musicConsumedProgress length="4:25" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <entry id="$-9" title="Honto no Watashi">
@@ -730,7 +730,7 @@
                 <music base="0.42" />
                 <musicConsumedProgress length="5:05" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <entry id="$-10" title="No.1">
@@ -751,7 +751,7 @@
                 <music base="0.53" />
                 <musicConsumedProgress length="4:34" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <role id="M-20240629T204632" roles="vocal+image" />
             </entry>
 
             <entry
@@ -775,7 +775,7 @@
                 <music base="0.57" />
                 <musicConsumedProgress length="3:31" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image/2" />
+                <role id="M-20240629T204632" roles="vocal/2+image/2" />
                 <remix id="M-20240314T094334-5" />
             </entry>
         </entry>
@@ -872,7 +872,8 @@
             <entry id="$-4" title="Fukutsu no Idol">
                 <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <role id="M-20240629T204632" roles="image" />
+                <!-- temporary, this will be changed when this song is split into two -->
+                <role id="M-20240629T204632" roles="vocal+image" />
 
                 <music base="0.65" />
                 <musicConsumedProgress length="3:54" />
