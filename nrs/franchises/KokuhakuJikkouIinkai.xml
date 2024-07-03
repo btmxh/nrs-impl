@@ -186,6 +186,13 @@
                 <music base="0.35" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+
+                <!-- the plot of the tea party ver is basically narumi sena realizing -->
+                <!-- her little sister is no longer alone (but muh staffsan and yapperfans -->
+                <!-- exist in the original story? i don't give a shit idk just consider -->
+                <!-- them inferior to the tea party girls or something), because she now -->
+                <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
+                <nei base="1.0" emotions="CP" />
             </entry>
 
             <entry
@@ -218,6 +225,20 @@
                 <remix id="M-VGMDB-AL-91835-17" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
+
+            <entry id="$-12" title="Byoumei Koi Wazurai" entrytype="MusicTrack">
+                <!-- Length source: https://lovecommittee.fandom.com/wiki/Byoumei_Koi_Wazurai -->
+                <musicConsumedProgress length="4:17" />
+                <music base="0.4" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <!-- lore: nina's band after the motto ichigo incident become popular, -->
+                <!-- when she was reminded of the people who did not believe in her -->
+                <!-- and reject her for who she is. now that she has "won", she can -->
+                <!-- now confidently say to them the words that she was right -->
+
+                <!-- fun fact: i am nina and multiple choice questions are the normies -->
+                <nei base="1.0" emotions="AU-0.75:MU-0.25" />
+            </entry>
         </entry>
 
         <entry
@@ -247,6 +268,14 @@
                 <!-- the other dude style is not my thing, but it is unique -->
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+
+                <!-- lore: mia-sama and her friends have weekly tea parties, when they would -->
+                <!-- talk about literally everything in the week, such as how (himeno) sena -->
+                <!-- could not compose a song because of the construction noises, mona roasting -->
+                <!-- the haters online, and some girl shitting on the ksdgk. however, after the -->
+                <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
+                <!-- than ever before, leading to this week tea party being cancelled. -->
+                <nei base="1.0" emotions="MP-0.5:CP-0.5" />
             </entry>
 
             <!-- real -->
@@ -592,6 +621,14 @@
                 <musicConsumedProgress length="3:41" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <remix id="M-20240314T094334-3" />
+                <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
+                <!-- in the world*, nayuta had decided to become the principal of ksdgk. those -->
+                <!-- who are benefiting from this inequality would then work in secret to make -->
+                <!-- a plan to overthrow her, but nayuta would soon catch aware of that. realizing -->
+                <!-- that they are beyond the border of forgiveness, she would summon her most -->
+                <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
+                <!-- the musician, to eliminate evil from the world in one go -->
+                <aei base="0.5" emotions="MU-0.5:AU-0.5" />
             </entry>
 
             <entry id="$-6" title="Nakama Hazure">
@@ -783,6 +820,13 @@
                 <music base="0.7" />
                 <musicConsumedProgress length="4:10" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <!-- lore: after the incident in motto ichigo ore, sena's debt were cleared, which -->
+                <!-- allowed her to focus entirely on her music. not long after the event, she -->
+                <!-- released a hit and become one of the most popular producer in Japan. -->
+                <!-- and in the midst of that, she had a reunion with a guy who had been tirelessly -->
+                <!-- chasing before her, the MC in the eroge. because this album is imaginary, those -->
+                <!-- two ended up giving each other another chance (the real reason is left as and -->
+                <!-- exercise for the reader) in a Romantic Wedding -->
                 <ref
                     name="KoikakeNEI"
                     a_base="0.5"
@@ -1426,13 +1470,15 @@
         <contributor id="M-VGMDB-AL-112538-5" factor="1/6" />
         <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
         <contributor id="M-20231121T122539-14" factor="1/6" />
-        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little sister grow up -->
+        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little
+        sister grow up -->
         <contributor id="M-20240629T202429" factor="1/6" />
         <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
         <contributor id="M-VGMDB-AL-91835-12" factor="1/6" />
         <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
         <contributor id="M-20240314T094335-10" factor="1/6" />
-        <!-- byoumei koi wazurai, the song about a girl who, against all odds, has proven she was right -->
+        <!-- byoumei koi wazurai, the song about a girl who, against all odds, has proven she was
+        right -->
         <contributor id="M-20221225T010305-12" factor="1/6" />
     </aei>
 
