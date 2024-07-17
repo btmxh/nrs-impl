@@ -781,6 +781,124 @@
         </entry>
 
         <entry
+            id="M-20240718T032328"
+            title="Chouzetsu Azatoi Omaera no Hime / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
+            entrytype="MusicAlbum"
+        >
+            <visual type="albumArt" base="0.4" unique="0.6" />
+
+            <!-- fansa ahh title -->
+            <entry id="$-1" title="Omae mo ♡">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- idk how to romanize this name lol -->
+            <!-- wtf is C-kimi? or C-kun??? -->
+            <!-- peak sengen ahh title -->
+            <entry id="$-2" title="私、C君が好き">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- hokori *dead from peak brainrot* takaki idol ahh title -->
+            <entry id="$-3" title="Fukutsu no Idol">
+                <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.6" />
+                <musicConsumedProgress length="3:54" />
+
+                <!-- the hype is unreal -->
+                <!-- she can't get away with this -->
+                <!-- blud thinks she's nayuta (she's actually better) -->
+                <epi base="1.0" />
+
+                <!-- 3:03 is just pure W, tea party or not -->
+                <nei base="0.3" emotions="CP" />
+            </entry>
+
+            <!-- chat what did you yap to her she is angry chat stop bullying her -->
+            <entry id="$-4" title="Zakenna">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- istg this girl needs to stop putting zoomer slangs into her albums -->
+            <!-- like i dont even understand what this is supposed to mean??? -->
+            <entry id="$-5" title="ビュティホ">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- cover lmfao -->
+            <entry id="$-6" title="Idol de Yokatta.">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- motto ichigo ahh title -->
+            <entry id="$-7" title="Whipped Cream no Shoumi kigen">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- adge -->
+            <entry id="$-8" title="#Chouzetsu Kawaii">
+                <visual type="semiAnimatedMV" base="0.7" unique="0.3" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+                <music base="0.6" />
+                <musicConsumedProgress length="2:59" />
+            </entry>
+
+            <!-- zoomer ahh song -->
+            <entry id="$-9" title="Happy Christmas Party">
+                <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+                <music base="0.4" />
+                <musicConsumedProgress length="3:12" />
+            </entry>
+
+            <!-- jinsei saikyou ahh title -->
+            <entry id="$-10" title="Ikiterutte Maji Yuushou">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+
+            <!-- kawaikunaritai ahh title -->
+            <entry id="$-11" title="Kawaiiriyuu">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <role id="M-20240629T204632" roles="vocal+image" />
+            </entry>
+        </entry>
+
+        <entry
             id="M-20231121T122539"
             title="Kokuhaku Jikkou Iinkai FLYING SONGS: Aishiteru"
             entrytype="MusicAlbum"
@@ -872,21 +990,9 @@
             <entry id="$-4" title="Fukutsu no Idol">
                 <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <!-- temporary, this will be changed when this song is split into two -->
-                <role id="M-20240629T204632" roles="vocal+image" />
-
+                <remix id="M-20240718T032328-3" />
                 <music base="0.65" />
                 <musicConsumedProgress length="3:54" />
-
-                <!-- the hype is unreal -->
-                <!-- she can't get away with this -->
-                <!-- blud thinks she's nayuta (she's actually better) -->
-                <epi base="1.0" />
-
-                <!-- 3:03 is just pure W, tea party or not -->
-                <nei base="0.3" emotions="CP" />
-
-                <!-- looking forward to the yapperchama album W -->
             </entry>
         </entry>
 
