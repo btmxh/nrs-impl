@@ -515,7 +515,7 @@
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
 
-            <!-- istg this girl needs to stop putting zoomer slang into her albums -->
+            <!-- istg this girl needs to stop putting zoomer slangs into her albums -->
             <!-- like i dont even understand what this is supposed to mean??? -->
             <entry id="$-5" title="ビュティホ">
                 <validatorSuppress
@@ -525,7 +525,7 @@
             </entry>
 
             <!-- cover lmfao -->
-            <entry id="$-6" title="Idol de Yokatta">
+            <entry id="$-6" title="Idol de Yokatta.">
                 <validatorSuppress
                     rules="dah-entry-no-consumed;dah-no-progress"
                 />
