@@ -28,9 +28,9 @@
             <meme from="2024-04-15" to="today" strength="0.4" />
 
             <animeConsumedProgress
-                status="Watching"
+                status="Completed"
                 boredom="1.0"
-                episodes="11"
+                episodes="13"
             />
 
             <!-- peak cgi -->
