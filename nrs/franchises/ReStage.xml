@@ -1396,4 +1396,18 @@
             <children />
         </meme>
     </def>
+
+    <!-- basically rst become the punching bag and everyone shit on them -->
+    <!-- (as a meme) -->
+    <!-- though no one knows when people started to make fun of rst -->
+    <!-- let's take the beginning of the year for now -->
+    <meme from="2024-01-01" to="today" strength="0.5">
+        <contributor id="A-MAL-38009" factor="0.35" />
+        <contributor id="F-VGMDB-7059" factor="0.2" />
+        <contributor id="A-MAL-41520" factor="0.1" />
+        <contributor id="A-MAL-27441" factor="0.075" />
+        <contributor id="A-MAL-32038" factor="0.075" />
+        <contributor id="F-VGMDB-4499" factor="0.1" />
+        <contributor id="A-MAL-43735" factor="0.1" />
+    </meme>
 </document>
