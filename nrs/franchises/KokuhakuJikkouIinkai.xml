@@ -192,7 +192,7 @@
                 <!-- exist in the original story? i don't give a shit idk just consider -->
                 <!-- them inferior to the tea party girls or something), because she now -->
                 <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
-                <nei base="1.0" emotions="CP" />
+                <nei base="0.6" emotions="CP" />
             </entry>
 
             <entry
@@ -237,7 +237,7 @@
                 <!-- now confidently say to them the words that she was right -->
 
                 <!-- fun fact: i am nina and multiple choice questions are the normies -->
-                <nei base="1.0" emotions="AU-0.75:MU-0.25" />
+                <nei base="0.9" emotions="AU-0.75:MU-0.25" />
             </entry>
         </entry>
 
@@ -275,7 +275,7 @@
                 <!-- the haters online, and some girl shitting on the ksdgk. however, after the -->
                 <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
                 <!-- than ever before, leading to this week tea party being cancelled. -->
-                <nei base="1.0" emotions="MP-0.5:CP-0.5" />
+                <nei base="0.8" emotions="MP-0.5:CP-0.5" />
             </entry>
 
             <!-- real -->
@@ -296,6 +296,8 @@
                     a_contribution="0.5"
                     a_emotions="CU"
                 />
+                <!-- anw the parody is a conversation between two people chasing after their own dreams -->
+                <!-- that haven't met for a long time -->
                 <musicConsumedProgress length="3:28" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
@@ -323,6 +325,10 @@
                 <music base="0.4" />
                 <musicConsumedProgress length="4:02" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <!-- the parody has the same meaning as the original song -->
+                <!-- but it is more focused on fucking whatever is opposing your efforts -->
+                <!-- which is totally not the ksdgk -->
+                <nei base="0.6" emotions="AU-0.7:CP-0.3" />
             </entry>
             <entry id="$-2" title="Romeo">
                 <source>
@@ -331,6 +337,13 @@
                 <music base="0.5" />
                 <musicConsumedProgress length="5:16" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <!-- the parody is about a princess being shown how beautiful the world is -->
+                <!-- by her beloved princes -->
+                <!-- totally not related to ayumuian duybua and ayumu-era people -->
+                <!-- (meme artist and ayumugod) -->
+                <!-- totally not sarcasm for ksdgk not being able to achieve 1% of -->
+                <!-- what they did -->
+                <nei base="0.4" emotions="MP" />
             </entry>
 
             <entry id="$-5" title="Non-fantasy">
@@ -628,7 +641,7 @@
                 <!-- that they are beyond the border of forgiveness, she would summon her most -->
                 <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
                 <!-- the musician, to eliminate evil from the world in one go -->
-                <aei base="0.5" emotions="MU-0.5:AU-0.5" />
+                <aei base="0.2" emotions="MU-0.5:AU-0.5" />
             </entry>
 
             <entry id="$-6" title="Nakama Hazure">
@@ -890,6 +903,14 @@
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+
+                <!-- the parody is an oshinoko ahh story of an idol -->
+                <!-- unlike (canon) yapper, the only thing that makes her holding on -->
+                <!-- to her idol job is her love of idols -->
+                <!-- totally unrelated with my hatred with the IT industry (real) -->
+                <!-- and ksdgk -->
+                <!-- pausechamp maybe i will write a short fanfic for this kek -->
+                <nei base="0.9" emotions="AU" />
             </entry>
 
             <entry
@@ -909,6 +930,10 @@
                 <!-- Length source: https://youtu.be/u0OvEzIYYPM -->
                 <musicConsumedProgress length="4:26" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-VGMDB-AL-112538-8" />
+                <!-- the parody is about someone who is sicked of the mediocrity -->
+                <!-- of the world around him -->
+                <nei base="0.6" emotions="MU" />
             </entry>
 
             <!-- domino effect moment: -->
@@ -936,7 +961,7 @@
                 <!-- exercise for the reader) in a Romantic Wedding -->
                 <ref
                     name="KoikakeNEI"
-                    a_base="0.5"
+                    a_base="0.8"
                     a_contribution="0.8"
                     a_emotions="CP-0.75:MP-0.25"
                 />
@@ -983,6 +1008,8 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:13" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <!-- same shit as jinsei yapper -->
+                <nei base="0.3" emotions="MU" />
             </entry>
         </entry>
 
@@ -1384,6 +1411,14 @@
             <music base="0.45" />
             <musicConsumedProgress length="5:16" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+
+            <!-- the parody is about a girl who fell in love with her senpai -->
+            <!-- unlike (canon) hina, the senpai does not give a shit about her, -->
+            <!-- despite her efforts -->
+            <!-- unlike (canon) koyuki, the senpai is happy as fuck with his gf -->
+            <!-- totally not related to my efforts being not recognized by anyone -->
+            <!-- in the ksdgk -->
+            <nei base="0.9" emotions="MU-0.3:CU-0.7" />
         </entry>
     </entry>
 
@@ -1464,6 +1499,9 @@
             <music base="0.7" />
             <musicConsumedProgress length="3:11" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <!-- the parody is about two newlyweds spending time with each other -->
+            <!-- it's just ayumugod and me lol -->
+            <nei base="0.4" emotions="MP" />
         </entry>
         <entry id="$-5" title="Utage☆Dokudanzyou!">
             <source>
@@ -1536,6 +1574,8 @@
             <music base="0.6" />
             <musicConsumedProgress length="3:04" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <!-- the parody does not exist because the original song is literally perfect -->
+            <nei base="0.4" emotions="MU" />
         </entry>
         <!-- suisei goating fr -->
         <entry id="$-10" title="Kyoushitsu ni Ao">
@@ -1562,49 +1602,6 @@
             />
         </entry>
     </entry>
-
-    <!-- “How much closer have you gotten to your dreams?” -->
-    <!--     - CTB Girl Dorm’s HoneyWorks Cover Album -->
-    <aei base="1.0" emotions="MU-0.5:CU-0.25:CP-0.25">
-        <!-- 1. Hokori Takaki Idol feat. Kotoha -->
-        <contributor id="M-20231121T122539-4" factor="1/9" />
-        <!-- 2. Senpai. / HoneyWorks meets TrySail -->
-        <contributor id="M-VGMDB-AL-61577-1" factor="1/9" />
-        <!-- 3. Romeo / LIPxLIP -->
-        <contributor id="M-VGMDB-AL-120871-1" factor="1/9" />
-        <!-- 4. Yume Fanfare / LIPxLIP -->
-        <contributor id="M-VGMDB-AL-120871-2" factor="1/9" />
-        <!-- 5. Bridal Dream / Usada Pekora x Houshou Marine -->
-        <contributor id="M-20240314T094335-4" factor="1/9" />
-        <!-- these names are canon in the google docs btw -->
-        <!-- 6. Jinsei sth mona -->
-        <contributor id="M-20231121T122539-8" factor="1/9" />
-        <!-- 7. Kawaikunaritai sena -->
-        <contributor id="M-VGMDB-AL-63816-3" factor="1/9" />
-        <!-- 8. Anti normie sth shion -->
-        <contributor id="M-20240314T094335-9" factor="1/9" />
-        <!-- 9. Re: Hatsukoi no Ehon feat. Toyosaki Aki -->
-        <contributor id="M-VGMDB-AL-91835-17" factor="1/9" />
-    </aei>
-
-    <!-- "Come and gather around the table, it's time for the Tea Party!" -->
-    <!--     - CTB Girl Dorm’s Second HoneyWorks Cover Album -->
-    <aei base="0.8" emotions="MU-0.2:MP-0.4:CP-0.4">
-        <!-- motto ichigo ore, the song that started everything -->
-        <contributor id="M-VGMDB-AL-112538-5" factor="1/6" />
-        <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
-        <contributor id="M-20231121T122539-14" factor="1/6" />
-        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little
-        sister grow up -->
-        <contributor id="M-20240629T202429" factor="1/6" />
-        <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
-        <contributor id="M-VGMDB-AL-91835-12" factor="1/6" />
-        <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
-        <contributor id="M-20240314T094335-10" factor="1/6" />
-        <!-- byoumei koi wazurai, the song about a girl who, against all odds, has proven she was
-        right -->
-        <contributor id="M-20221225T010305-12" factor="1/6" />
-    </aei>
 
     <!-- anti-normie phase -->
     <meme from="2024-01-16" to="today" strength="0.5">
