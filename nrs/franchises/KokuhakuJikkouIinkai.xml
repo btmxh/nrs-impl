@@ -84,6 +84,36 @@
         </entry>
 
         <entry
+            id="M-VGMDB-AL-99826"
+            title="Matataku Sekai ni i wo Yurase / CHiCO with HoneyWorks"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/99826"
+                        generatedBy="music.ts 822494e-669e7b64"
+                    />
+                </urls>
+            </source>
+            <visual type="albumArt" base="0.2" unique="0.5" />
+            <entry id="$-3" title="Shiawase">
+                <source>
+                    <urls />
+                </source>
+                <music base="0.6" />
+                <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+                <!-- lore: basically the relationship between yapper and himeno sena, -->
+                <!-- linking up the lore of motto ichigo (sena's debt cleared), romantic wedding
+                (the wedding) and terekakushi shishunki (yapper cried) -->
+                <!-- it's a very wholesome song and i'm actually proud of it -->
+                <nei base="1.0" emotions="MP-0.7:CP-0.3" />
+                <musicConsumedProgress length="4:10" />
+            </entry>
+        </entry>
+
+        <entry
             id="M-VGMDB-AL-54636"
             title="Kotoba no Iranai Yakusoku/Akatsukizukuyo / sana/HoneyWorks"
         >
