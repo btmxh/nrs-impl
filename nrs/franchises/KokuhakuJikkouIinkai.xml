@@ -942,12 +942,15 @@
             <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
             <visual type="manga" base="0.8" unique="0.2" />
 
-            <!-- 29 chapters -->
+            <!-- 30 chapters -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
                 duration="1:30:00"
             />
+
+            <!-- chapter 29 yapper is so peak it's actually motivating as fuck she is too peak WWWWW -->
+            <nei base="1.0" emotions="CP" />
 
             <!-- ... But then I realized -->
             <!-- that the world is trying as hard as, -->
