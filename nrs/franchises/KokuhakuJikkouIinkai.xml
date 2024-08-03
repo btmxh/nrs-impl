@@ -744,10 +744,19 @@
 
             <!-- istg this girl needs to stop putting zoomer slangs into her albums -->
             <!-- like i dont even understand what this is supposed to mean??? -->
-            <entry id="$-5" title="ビュティホ">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+            <!-- istg no one writes beautiful like that -->
+            <entry id="$-5" title="Beautiful">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=CZnnhyMkwAI"
+                        />
+                    </urls>
+                </source>
+                <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
+                <music base="0.6" />
+                <musicConsumedProgress length="3:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
 
