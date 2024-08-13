@@ -755,7 +755,7 @@
                     </urls>
                 </source>
                 <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
-                <music base="0.6" />
+                <music base="0.7" />
                 <musicConsumedProgress length="3:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
