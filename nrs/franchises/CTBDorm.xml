@@ -289,4 +289,30 @@
             />
         </entry>
     </entry>
+
+    <meme from="2023-11-20" to="today" strength="0.3">
+        <contributor id="M-20240815T041131-1" factor="0.3" />
+        <contributor id="M-20240815T041131-2" factor="0.2" />
+        <contributor id="M-20240815T041131-3" factor="0.05" />
+        <contributor id="M-20240815T041131-4" factor="0.05" />
+        <contributor id="M-20240815T041131-5" factor="0.05" />
+        <contributor id="M-20240815T041131-6" factor="0.05" />
+        <contributor id="M-20240815T041131-7" factor="0.05" />
+        <contributor id="M-20240815T041131-8" factor="0.05" />
+        <contributor id="M-20240815T041131-9" factor="0.2" />
+    </meme>
+
+    <meme from="2024-05-26" to="today" strength="0.5">
+        <contributor id="M-20240815T044532-1" factor="0.1" />
+        <contributor id="M-20240815T044532-2" factor="0.05" />
+        <contributor id="M-20240815T044532-3" factor="0.1" />
+        <contributor id="M-20240815T044532-4" factor="0.05" />
+        <contributor id="M-20240815T044532-5" factor="0.05" />
+        <contributor id="M-20240815T044532-6" factor="0.02" />
+        <contributor id="M-20240815T044532-7" factor="0.03" />
+
+        <contributor id="L-MAL-139873" factor="0.2" />
+        <contributor id="A-MAL-52962" factor="0.2" />
+        <contributor id="V-VNDB-17516" factor="0.2" />
+    </meme>
 </document>
