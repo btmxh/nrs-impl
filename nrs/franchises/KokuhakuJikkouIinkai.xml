@@ -106,12 +106,8 @@
                 <music base="0.6" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-                <!-- lore: basically the relationship between yapper and himeno sena, -->
-                <!-- linking up the lore of motto ichigo (sena's debt cleared), romantic wedding
-                (the wedding) and terekakushi shishunki (yapper cried) -->
-                <!-- it's a very wholesome song and i'm actually proud of it -->
-                <nei base="1.0" emotions="MP-0.7:CP-0.3" />
                 <musicConsumedProgress length="4:10" />
+                <remix id="M-20240815T044532-2" />
             </entry>
         </entry>
 
@@ -218,13 +214,7 @@
                 <music base="0.35" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-
-                <!-- the plot of the tea party ver is basically narumi sena realizing -->
-                <!-- her little sister is no longer alone (but muh staffsan and yapperfans -->
-                <!-- exist in the original story? i don't give a shit idk just consider -->
-                <!-- them inferior to the tea party girls or something), because she now -->
-                <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
-                <nei base="0.6" emotions="CP" />
+                <remix id="M-20240815T044532-4" />
             </entry>
 
             <entry
@@ -263,13 +253,7 @@
                 <musicConsumedProgress length="4:17" />
                 <music base="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- lore: nina's band after the motto ichigo incident become popular, -->
-                <!-- when she was reminded of the people who did not believe in her -->
-                <!-- and reject her for who she is. now that she has "won", she can -->
-                <!-- now confidently say to them the words that she was right -->
-
-                <!-- fun fact: i am nina and multiple choice questions are the normies -->
-                <nei base="0.9" emotions="AU-0.75:MU-0.25" />
+                <remix id="M-20240815T044532-6" />
             </entry>
         </entry>
 
@@ -301,13 +285,7 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
 
-                <!-- lore: mia-sama and her friends have weekly tea parties, when they would -->
-                <!-- talk about literally everything in the week, such as how (himeno) sena -->
-                <!-- could not compose a song because of the construction noises, mona roasting -->
-                <!-- the haters online, and some girl shitting on the ksdgk. however, after the -->
-                <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
-                <!-- than ever before, leading to this week tea party being cancelled. -->
-                <nei base="0.8" emotions="MP-0.5:CP-0.5" />
+                <remix id="M-20240815T044532-5" />
             </entry>
 
             <!-- real -->
@@ -648,14 +626,7 @@
                 <musicConsumedProgress length="3:41" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <remix id="M-20240314T094334-3" />
-                <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
-                <!-- in the world*, nayuta had decided to become the principal of ksdgk. those -->
-                <!-- who are benefiting from this inequality would then work in secret to make -->
-                <!-- a plan to overthrow her, but nayuta would soon catch aware of that. realizing -->
-                <!-- that they are beyond the border of forgiveness, she would summon her most -->
-                <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
-                <!-- the musician, to eliminate evil from the world in one go -->
-                <aei base="0.2" emotions="MU-0.5:AU-0.5" />
+                <remix id="M-20240815T044532-1" />
             </entry>
 
             <entry id="$-6" title="Nakama Hazure">
@@ -957,19 +928,7 @@
                 <music base="0.7" />
                 <musicConsumedProgress length="4:10" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- lore: after the incident in motto ichigo ore, sena's debt were cleared, which -->
-                <!-- allowed her to focus entirely on her music. not long after the event, she -->
-                <!-- released a hit and become one of the most popular producer in Japan. -->
-                <!-- and in the midst of that, she had a reunion with a guy who had been tirelessly -->
-                <!-- chasing before her, the MC in the eroge. because this album is imaginary, those -->
-                <!-- two ended up giving each other another chance (the real reason is left as and -->
-                <!-- exercise for the reader) in a Romantic Wedding -->
-                <ref
-                    name="KoikakeNEI"
-                    a_base="0.8"
-                    a_contribution="0.8"
-                    a_emotions="CP-0.75:MP-0.25"
-                />
+                <remix id="M-20240815T044532-3" />
             </entry>
         </entry>
 
@@ -1315,7 +1274,6 @@
             <music base="0.5" />
             <musicConsumedProgress length="3:40" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <remix id="M-VGMDB-AL-112538-5" />
         </entry>
         <entry id="$-4" title="Hokori Takaki Idol">
             <source>
@@ -1589,12 +1547,7 @@
             <!-- obligatory suisei ei -->
             <nei base="0.3" emotions="CP" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <ref
-                name="KoikakeAEI"
-                a_base="0.75"
-                a_contribution="0.8"
-                a_emotions="CP-0.75:MP-0.25"
-            />
+            <remix id="M-20240815T044532-7" />
         </entry>
     </entry>
 
