@@ -20,6 +20,7 @@
     <include src="franchises/CloverDays.xml" />
     <include src="franchises/CommonArtists.xml" />
     <include src="franchises/COTE.xml" />
+    <include src="franchises/CTBDorm.xml" />
     <include src="franchises/Cue.xml" />
     <include src="franchises/D4DJ.xml" />
     <include src="franchises/DrStone.xml" />

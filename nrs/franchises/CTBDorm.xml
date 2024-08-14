@@ -1,0 +1,114 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<!-- here we have releases of ctb girls dorm W -->
+<document>
+    <entry
+        id="M-20240815T042406"
+        title="CTB Girls' Dormitory"
+        entrytype="MusicArtist"
+    />
+    <entry
+        id="M-20240815T041131"
+        title="How much closer has you gotten to your dreams?"
+        entrytype="MusicAlbum"
+    >
+        <role id="M-20240815T042406" roles="vocal+image" />
+        <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+
+        <entry id="$-1" title="Hokori Takaki Idol (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="4:14" />
+
+            <!-- the parody is an oshinoko ahh story of an idol -->
+            <!-- unlike (canon) yapper, the only thing that makes her holding on -->
+            <!-- to her idol job is her love of idols -->
+            <!-- totally unrelated with my hatred with the IT industry (real) -->
+            <!-- and ksdgk -->
+            <!-- pausechamp maybe i will write a short fanfic for this kek -->
+            <nei base="0.9" emotions="AU" />
+        </entry>
+
+        <entry id="$-2" title="Senpai (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="5:14" />
+
+            <!-- the parody is about a girl who fell in love with her senpai -->
+            <!-- unlike (canon) hina, the senpai does not give a shit about her, -->
+            <!-- despite her efforts -->
+            <!-- unlike (canon) koyuki, the senpai is happy as fuck with his gf -->
+            <!-- totally not related to my efforts being not recognized by anyone -->
+            <!-- in the ksdgk -->
+            <nei base="0.9" emotions="MU-0.3:CU-0.7" />
+        </entry>
+
+        <entry id="$-3" title="Romeo (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="5:17" />
+            <!-- the parody is about a princess being shown how beautiful the world is -->
+            <!-- by her beloved princes -->
+            <!-- totally not related to ayumuian duybua and ayumu-era people -->
+            <!-- (meme artist and ayumugod) -->
+            <!-- totally not sarcasm for ksdgk not being able to achieve 1% of -->
+            <!-- what they did -->
+            <nei base="0.4" emotions="MP" />
+        </entry>
+
+        <entry id="$-4" title="Yume Fanfare (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="4:02" />
+            <!-- the parody has the same meaning as the original song -->
+            <!-- but it is more focused on fucking whatever is opposing your efforts -->
+            <!-- which is totally not the ksdgk -->
+            <nei base="0.6" emotions="AU-0.7:CP-0.3" />
+        </entry>
+
+        <entry id="$-5" title="Bridal Dream (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="3:26" />
+            <!-- the parody is about two newlyweds spending time with each other -->
+            <!-- it's just ayumugod and me lol -->
+            <nei base="0.4" emotions="MP" />
+        </entry>
+
+        <entry
+            id="$-6"
+            title="Jinsei wa Saikyou no Himatsubushi (CTB Girls' Dorm ver.)"
+        >
+            <music base="0.0" />
+            <musicConsumedProgress length="4:26" />
+            <!-- the parody is about someone who is sicked of the mediocrity -->
+            <!-- of the world around him -->
+            <nei base="0.6" emotions="MU" />
+        </entry>
+
+        <entry id="$-7" title="Kawaiku Naritai (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="4:12" />
+            <!-- same shit as jinsei yapper -->
+            <nei base="0.3" emotions="MU" />
+        </entry>
+
+        <entry
+            id="$-8"
+            title="Riazyuu★Bokumetu movement (CTB Girls' Dorm ver.)"
+        >
+            <music base="0.0" />
+            <musicConsumedProgress length="3:02" />
+        </entry>
+
+        <entry id="$-9" title="Re:Hatsukoi no Ehon (CTB Girls' Dorm ver.)">
+            <music base="0.0" />
+            <musicConsumedProgress length="3:24" />
+            <!-- during the anti-ksdgk era, people were reminded of the girl who had thrown -->
+            <!-- away everything to achieve her dreams -->
+            <ref
+                name="KoikakeAEI"
+                a_base="0.1"
+                a_contribution="0.5"
+                a_emotions="CU"
+            />
+            <!-- anw the parody is a conversation between two people chasing after their own
+                dreams -->
+            <!-- that haven't met for a long time -->
+        </entry>
+    </entry>
+</document>

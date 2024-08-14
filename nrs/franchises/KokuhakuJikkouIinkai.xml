@@ -52,6 +52,8 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-16469" roles="vocal+image/2" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+                <remix id="M-20240815T041131-2" />
+                <remix id="M-20240314T094334-10" />
             </entry>
         </entry>
 
@@ -318,18 +320,9 @@
                 </source>
                 <music base="0.55" />
 
-                <!-- during the anti-ksdgk era, people were reminded of the girl who had thrown -->
-                <!-- away everything to achieve her dreams -->
-                <ref
-                    name="KoikakeAEI"
-                    a_base="0.1"
-                    a_contribution="0.5"
-                    a_emotions="CU"
-                />
-                <!-- anw the parody is a conversation between two people chasing after their own dreams -->
-                <!-- that haven't met for a long time -->
                 <musicConsumedProgress length="3:28" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-20240815T041131-9" />
             </entry>
         </entry>
 
@@ -355,10 +348,7 @@
                 <music base="0.4" />
                 <musicConsumedProgress length="4:02" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- the parody has the same meaning as the original song -->
-                <!-- but it is more focused on fucking whatever is opposing your efforts -->
-                <!-- which is totally not the ksdgk -->
-                <nei base="0.6" emotions="AU-0.7:CP-0.3" />
+                <remix id="M-20240815T041131-4" />
             </entry>
             <entry id="$-2" title="Romeo">
                 <source>
@@ -366,14 +356,8 @@
                 </source>
                 <music base="0.5" />
                 <musicConsumedProgress length="5:16" />
+                <remix id="M-20240815T041131-3" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- the parody is about a princess being shown how beautiful the world is -->
-                <!-- by her beloved princes -->
-                <!-- totally not related to ayumuian duybua and ayumu-era people -->
-                <!-- (meme artist and ayumugod) -->
-                <!-- totally not sarcasm for ksdgk not being able to achieve 1% of -->
-                <!-- what they did -->
-                <nei base="0.4" emotions="MP" />
             </entry>
 
             <entry id="$-5" title="Non-fantasy">
@@ -930,17 +914,10 @@
                 <!-- a little bit unfair ik -->
                 <remix id="M-VGMDB-AL-112538-4" />
                 <remix id="M-20240314T094334-4" />
+                <remix id="M-20240815T041131-1" />
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-
-                <!-- the parody is an oshinoko ahh story of an idol -->
-                <!-- unlike (canon) yapper, the only thing that makes her holding on -->
-                <!-- to her idol job is her love of idols -->
-                <!-- totally unrelated with my hatred with the IT industry (real) -->
-                <!-- and ksdgk -->
-                <!-- pausechamp maybe i will write a short fanfic for this kek -->
-                <nei base="0.9" emotions="AU" />
             </entry>
 
             <entry
@@ -961,9 +938,7 @@
                 <musicConsumedProgress length="4:26" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
                 <remix id="M-VGMDB-AL-112538-8" />
-                <!-- the parody is about someone who is sicked of the mediocrity -->
-                <!-- of the world around him -->
-                <nei base="0.6" emotions="MU" />
+                <remix id="M-20240815T041131-6" />
             </entry>
 
             <!-- domino effect moment: -->
@@ -1038,8 +1013,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:13" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- same shit as jinsei yapper -->
-                <nei base="0.3" emotions="MU" />
+                <remix id="M-20240815T041131-7" />
             </entry>
         </entry>
 
@@ -1441,14 +1415,6 @@
             <music base="0.45" />
             <musicConsumedProgress length="5:16" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-
-            <!-- the parody is about a girl who fell in love with her senpai -->
-            <!-- unlike (canon) hina, the senpai does not give a shit about her, -->
-            <!-- despite her efforts -->
-            <!-- unlike (canon) koyuki, the senpai is happy as fuck with his gf -->
-            <!-- totally not related to my efforts being not recognized by anyone -->
-            <!-- in the ksdgk -->
-            <nei base="0.9" emotions="MU-0.3:CU-0.7" />
         </entry>
     </entry>
 
@@ -1529,9 +1495,7 @@
             <music base="0.7" />
             <musicConsumedProgress length="3:11" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <!-- the parody is about two newlyweds spending time with each other -->
-            <!-- it's just ayumugod and me lol -->
-            <nei base="0.4" emotions="MP" />
+            <remix id="M-20240815T041131-5" />
         </entry>
         <entry id="$-5" title="Utage☆Dokudanzyou!">
             <source>
@@ -1606,6 +1570,7 @@
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
             <!-- the parody does not exist because the original song is literally perfect -->
             <nei base="0.4" emotions="MU" />
+            <remix id="M-20240815T041131-8" />
         </entry>
         <!-- suisei goating fr -->
         <entry id="$-10" title="Kyoushitsu ni Ao">
