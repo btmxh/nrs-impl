@@ -311,8 +311,9 @@
         <contributor id="M-20240815T044532-6" factor="0.02" />
         <contributor id="M-20240815T044532-7" factor="0.03" />
 
-        <contributor id="L-MAL-139873" factor="0.2" />
-        <contributor id="A-MAL-52962" factor="0.2" />
-        <contributor id="V-VNDB-17516" factor="0.2" />
+        <contributor id="L-MAL-139873" factor="0.18" />
+        <contributor id="A-MAL-52962" factor="0.18" />
+        <contributor id="V-VNDB-17516" factor="0.18" />
+        <contributor id="A-MAL-55102" factor="0.06" />
     </meme>
 </document>
