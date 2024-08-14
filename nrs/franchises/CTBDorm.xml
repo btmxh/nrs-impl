@@ -176,7 +176,7 @@
             title="motto☆ichigo au lait (CTB Girls' Dorm ver.)"
             entrytype="MusicTrack"
         >
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
@@ -194,7 +194,7 @@
             title="Shiawase. (CTB Girls' Dorm ver.)"
             entrytype="MusicTrack"
         >
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- lore: basically the relationship between yapper and himeno sena, -->
@@ -209,7 +209,7 @@
             title="Romantic Wedding (CTB Girls' Dorm ver.)"
             entrytype="MusicTrack"
         >
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- lore: after the incident in motto ichigo ore, sena's debt were cleared, which -->
@@ -232,7 +232,7 @@
             title="Terekakushi Shishunki (CTB Girls' Dorm ver.)"
             entrytype="MusicTrack"
         >
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- the plot of the tea party ver is basically narumi sena realizing -->
@@ -248,7 +248,7 @@
             title="Tokyo Winter Session (CTB Girls' Dorm ver.)"
             entrytype="MusicTrack"
         >
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- lore: mia-sama and her friends have weekly tea parties, when they would -->
@@ -265,7 +265,7 @@
             title="Byoumei Koi Wazurai (CTB Girls' Dorm ver.)"
             entrytype="MusicTrack"
         >
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- lore: nina's band after the motto ichigo incident become popular, -->
@@ -278,7 +278,7 @@
         </entry>
 
         <entry id="$-7" title="Kyoushitsu ni Ao (CTB Girls' Dorm ver.)">
-            <validatorSuppress rules="dah-entry-no-consumed" />
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <ref
