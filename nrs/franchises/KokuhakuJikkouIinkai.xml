@@ -64,6 +64,8 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-16469" roles="vocal+image/2" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+                <remix id="M-20240815T041131-2" />
+                <remix id="M-20240314T094334-10" />
             </entry>
         </entry>
 
@@ -93,6 +95,32 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
                 <role id="M-20240629T204632" roles="image/2" />
+            </entry>
+        </entry>
+
+        <entry
+            id="M-VGMDB-AL-99826"
+            title="Matataku Sekai ni i wo Yurase / CHiCO with HoneyWorks"
+        >
+            <source>
+                <urls>
+                    <url
+                        name="vgmdb"
+                        src="https://vgmdb.net/album/99826"
+                        generatedBy="music.ts 822494e-669e7b64"
+                    />
+                </urls>
+            </source>
+            <visual type="albumArt" base="0.2" unique="0.5" />
+            <entry id="$-3" title="Shiawase">
+                <source>
+                    <urls />
+                </source>
+                <music base="0.6" />
+                <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
+                <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+                <musicConsumedProgress length="4:10" />
+                <remix id="M-20240815T044532-2" />
             </entry>
         </entry>
 
@@ -199,13 +227,7 @@
                 <music base="0.35" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-
-                <!-- the plot of the tea party ver is basically narumi sena realizing -->
-                <!-- her little sister is no longer alone (but muh staffsan and yapperfans -->
-                <!-- exist in the original story? i don't give a shit idk just consider -->
-                <!-- them inferior to the tea party girls or something), because she now -->
-                <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
-                <nei base="1.0" emotions="CP" />
+                <remix id="M-20240815T044532-4" />
             </entry>
 
             <entry
@@ -244,13 +266,7 @@
                 <musicConsumedProgress length="4:17" />
                 <music base="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- lore: nina's band after the motto ichigo incident become popular, -->
-                <!-- when she was reminded of the people who did not believe in her -->
-                <!-- and reject her for who she is. now that she has "won", she can -->
-                <!-- now confidently say to them the words that she was right -->
-
-                <!-- fun fact: i am nina and multiple choice questions are the normies -->
-                <nei base="1.0" emotions="AU-0.75:MU-0.25" />
+                <remix id="M-20240815T044532-6" />
             </entry>
         </entry>
 
@@ -282,13 +298,7 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
 
-                <!-- lore: mia-sama and her friends have weekly tea parties, when they would -->
-                <!-- talk about literally everything in the week, such as how (himeno) sena -->
-                <!-- could not compose a song because of the construction noises, mona roasting -->
-                <!-- the haters online, and some girl shitting on the ksdgk. however, after the -->
-                <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
-                <!-- than ever before, leading to this week tea party being cancelled. -->
-                <nei base="1.0" emotions="MP-0.5:CP-0.5" />
+                <remix id="M-20240815T044532-5" />
             </entry>
 
             <!-- real -->
@@ -301,16 +311,9 @@
                 </source>
                 <music base="0.55" />
 
-                <!-- during the anti-ksdgk era, people were reminded of the girl who had thrown -->
-                <!-- away everything to achieve her dreams -->
-                <ref
-                    name="KoikakeAEI"
-                    a_base="0.1"
-                    a_contribution="0.5"
-                    a_emotions="CU"
-                />
                 <musicConsumedProgress length="3:28" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-20240815T041131-9" />
             </entry>
         </entry>
 
@@ -336,6 +339,7 @@
                 <music base="0.4" />
                 <musicConsumedProgress length="4:02" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-20240815T041131-4" />
             </entry>
             <entry id="$-2" title="Romeo">
                 <source>
@@ -343,6 +347,7 @@
                 </source>
                 <music base="0.5" />
                 <musicConsumedProgress length="5:16" />
+                <remix id="M-20240815T041131-3" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
             </entry>
 
@@ -639,14 +644,7 @@
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <role id="M-20240629T204632" roles="vocal+image" />
                 <remix id="M-20240314T094334-3" />
-                <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
-                <!-- in the world*, nayuta had decided to become the principal of ksdgk. those -->
-                <!-- who are benefiting from this inequality would then work in secret to make -->
-                <!-- a plan to overthrow her, but nayuta would soon catch aware of that. realizing -->
-                <!-- that they are beyond the border of forgiveness, she would summon her most -->
-                <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
-                <!-- the musician, to eliminate evil from the world in one go -->
-                <aei base="0.5" emotions="MU-0.5:AU-0.5" />
+                <remix id="M-20240815T044532-1" />
             </entry>
 
             <entry id="$-6" title="Nakama Hazure">
@@ -922,6 +920,7 @@
                 <!-- a little bit unfair ik -->
                 <remix id="M-VGMDB-AL-112538-4" />
                 <remix id="M-20240314T094334-4" />
+                <remix id="M-20240815T041131-1" />
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
@@ -946,6 +945,8 @@
                 <musicConsumedProgress length="4:26" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
                 <role id="M-20240629T204632" roles="image/2" />
+                <remix id="M-VGMDB-AL-112538-8" />
+                <remix id="M-20240815T041131-6" />
             </entry>
 
             <!-- domino effect moment: -->
@@ -964,19 +965,7 @@
                 <music base="0.7" />
                 <musicConsumedProgress length="4:10" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- lore: after the incident in motto ichigo ore, sena's debt were cleared, which -->
-                <!-- allowed her to focus entirely on her music. not long after the event, she -->
-                <!-- released a hit and become one of the most popular producer in Japan. -->
-                <!-- and in the midst of that, she had a reunion with a guy who had been tirelessly -->
-                <!-- chasing before her, the MC in the eroge. because this album is imaginary, those -->
-                <!-- two ended up giving each other another chance (the real reason is left as and -->
-                <!-- exercise for the reader) in a Romantic Wedding -->
-                <ref
-                    name="KoikakeNEI"
-                    a_base="0.5"
-                    a_contribution="0.8"
-                    a_emotions="CP-0.75:MP-0.25"
-                />
+                <remix id="M-20240815T044532-3" />
             </entry>
         </entry>
 
@@ -1020,6 +1009,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:13" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-20240815T041131-7" />
             </entry>
         </entry>
 
@@ -1321,7 +1311,6 @@
             <music base="0.5" />
             <musicConsumedProgress length="3:40" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <remix id="M-VGMDB-AL-112538-5" />
         </entry>
         <entry id="$-4" title="Hokori Takaki Idol">
             <source>
@@ -1501,6 +1490,7 @@
             <music base="0.7" />
             <musicConsumedProgress length="3:11" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <remix id="M-20240815T041131-5" />
         </entry>
         <entry id="$-5" title="Utage☆Dokudanzyou!">
             <source>
@@ -1573,6 +1563,9 @@
             <music base="0.6" />
             <musicConsumedProgress length="3:04" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <!-- the parody does not exist because the original song is literally perfect -->
+            <nei base="0.4" emotions="MU" />
+            <remix id="M-20240815T041131-8" />
         </entry>
         <!-- suisei goating fr -->
         <entry id="$-10" title="Kyoushitsu ni Ao">
@@ -1591,57 +1584,9 @@
             <!-- obligatory suisei ei -->
             <nei base="0.3" emotions="CP" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <ref
-                name="KoikakeAEI"
-                a_base="0.75"
-                a_contribution="0.8"
-                a_emotions="CP-0.75:MP-0.25"
-            />
+            <remix id="M-20240815T044532-7" />
         </entry>
     </entry>
-
-    <!-- “How much closer have you gotten to your dreams?” -->
-    <!--     - CTB Girl Dorm’s HoneyWorks Cover Album -->
-    <aei base="1.0" emotions="MU-0.5:CU-0.25:CP-0.25">
-        <!-- 1. Hokori Takaki Idol feat. Kotoha -->
-        <contributor id="M-20231121T122539-4" factor="1/9" />
-        <!-- 2. Senpai. / HoneyWorks meets TrySail -->
-        <contributor id="M-VGMDB-AL-61577-1" factor="1/9" />
-        <!-- 3. Romeo / LIPxLIP -->
-        <contributor id="M-VGMDB-AL-120871-1" factor="1/9" />
-        <!-- 4. Yume Fanfare / LIPxLIP -->
-        <contributor id="M-VGMDB-AL-120871-2" factor="1/9" />
-        <!-- 5. Bridal Dream / Usada Pekora x Houshou Marine -->
-        <contributor id="M-20240314T094335-4" factor="1/9" />
-        <!-- these names are canon in the google docs btw -->
-        <!-- 6. Jinsei sth mona -->
-        <contributor id="M-20231121T122539-8" factor="1/9" />
-        <!-- 7. Kawaikunaritai sena -->
-        <contributor id="M-VGMDB-AL-63816-3" factor="1/9" />
-        <!-- 8. Anti normie sth shion -->
-        <contributor id="M-20240314T094335-9" factor="1/9" />
-        <!-- 9. Re: Hatsukoi no Ehon feat. Toyosaki Aki -->
-        <contributor id="M-VGMDB-AL-91835-17" factor="1/9" />
-    </aei>
-
-    <!-- "Come and gather around the table, it's time for the Tea Party!" -->
-    <!--     - CTB Girl Dorm’s Second HoneyWorks Cover Album -->
-    <aei base="0.8" emotions="MU-0.2:MP-0.4:CP-0.4">
-        <!-- motto ichigo ore, the song that started everything -->
-        <contributor id="M-VGMDB-AL-112538-5" factor="1/6" />
-        <!-- romantic wedding, the song that was inspired by a line in motto ichigo ore -->
-        <contributor id="M-20231121T122539-14" factor="1/6" />
-        <!-- terekakushi shishunki, the song about the pure happiness of witnessing one's little
-        sister grow up -->
-        <contributor id="M-20240629T202429" factor="1/6" />
-        <!-- tokyo winter session, the song about a deep friendship between the dorm girls -->
-        <contributor id="M-VGMDB-AL-91835-12" factor="1/6" />
-        <!-- kyoushitsu ni ao, the song of determination and love towards himeno sena -->
-        <contributor id="M-20240314T094335-10" factor="1/6" />
-        <!-- byoumei koi wazurai, the song about a girl who, against all odds, has proven she was
-        right -->
-        <contributor id="M-20221225T010305-12" factor="1/6" />
-    </aei>
 
     <!-- anti-normie phase -->
     <meme from="2024-01-16" to="today" strength="0.5">
