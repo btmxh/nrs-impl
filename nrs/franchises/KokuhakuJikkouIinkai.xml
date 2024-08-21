@@ -588,6 +588,7 @@
                 <musicConsumedProgress length="4:08" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <remix id="M-20240314T094334-1" />
+                <remix id="M-20240730T201735" />
             </entry>
 
             <entry id="$-4" title="Hokori Takaki Idol">
@@ -805,10 +806,19 @@
 
             <!-- istg this girl needs to stop putting zoomer slangs into her albums -->
             <!-- like i dont even understand what this is supposed to mean??? -->
-            <entry id="$-5" title="ビュティホ">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+            <!-- istg no one writes beautiful like that -->
+            <entry id="$-5" title="Beautiful">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=CZnnhyMkwAI"
+                        />
+                    </urls>
+                </source>
+                <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
+                <music base="0.7" />
+                <musicConsumedProgress length="3:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
 
@@ -1003,12 +1013,22 @@
             <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
             <visual type="manga" base="0.8" unique="0.2" />
 
-            <!-- 29 chapters -->
+            <!-- 46 chapters -->
+            <!-- ik i can snatch it off piccoma but im lazy -->
+            <!-- also i like the thrill of waiting for TLs from bro -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="1:30:00"
+                duration="2:12:00"
             />
+
+            <!-- chapter 29 yapper is so peak it's actually motivating as fuck she is too peak WWWWW -->
+            <nei base="1.0" emotions="CP" />
+
+            <!-- chapter 34 is the best piece of fiction ever written -->
+            <!-- i have devoted my soul for utasama and mikotosama -->
+            <!-- the heretics will be punished -->
+            <maxAEIPADS emotions="CP-0.2:AP-0.8" from="2024-08-21" to="today" />
 
             <!-- ... But then I realized -->
             <!-- that the world is trying as hard as, -->
@@ -1245,7 +1265,6 @@
             <music base="0.6" />
             <musicConsumedProgress length="4:09" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <remix id="M-20240314T094334-1" />
         </entry>
         <entry id="$-2" title="Inokori Sensei">
             <source>
