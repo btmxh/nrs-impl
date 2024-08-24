@@ -967,7 +967,11 @@
             <!-- chapter 34 is the best piece of fiction ever written -->
             <!-- i have devoted my soul for utasama and mikotosama -->
             <!-- the heretics will be punished -->
-            <maxAEIPADS emotions="CP-0.2:AP-0.8" from="2024-08-21" to="today" />
+            <maxAEIPADS
+                emotions="CP-0.2:AP-0.8"
+                from="2024-08-21"
+                to="2024-08-23"
+            />
 
             <!-- ... But then I realized -->
             <!-- that the world is trying as hard as, -->
