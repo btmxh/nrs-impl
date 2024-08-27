@@ -52,6 +52,8 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-16469" roles="vocal+image/2" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+                <remix id="M-20240815T041131-2" />
+                <remix id="M-20240314T094334-10" />
             </entry>
         </entry>
 
@@ -104,12 +106,8 @@
                 <music base="0.6" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-                <!-- lore: basically the relationship between yapper and himeno sena, -->
-                <!-- linking up the lore of motto ichigo (sena's debt cleared), romantic wedding
-                (the wedding) and terekakushi shishunki (yapper cried) -->
-                <!-- it's a very wholesome song and i'm actually proud of it -->
-                <nei base="1.0" emotions="MP-0.7:CP-0.3" />
                 <musicConsumedProgress length="4:10" />
+                <remix id="M-20240815T044532-2" />
             </entry>
         </entry>
 
@@ -216,13 +214,7 @@
                 <music base="0.35" />
                 <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-
-                <!-- the plot of the tea party ver is basically narumi sena realizing -->
-                <!-- her little sister is no longer alone (but muh staffsan and yapperfans -->
-                <!-- exist in the original story? i don't give a shit idk just consider -->
-                <!-- them inferior to the tea party girls or something), because she now -->
-                <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
-                <nei base="0.6" emotions="CP" />
+                <remix id="M-20240815T044532-4" />
             </entry>
 
             <entry
@@ -261,13 +253,7 @@
                 <musicConsumedProgress length="4:17" />
                 <music base="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- lore: nina's band after the motto ichigo incident become popular, -->
-                <!-- when she was reminded of the people who did not believe in her -->
-                <!-- and reject her for who she is. now that she has "won", she can -->
-                <!-- now confidently say to them the words that she was right -->
-
-                <!-- fun fact: i am nina and multiple choice questions are the normies -->
-                <nei base="0.9" emotions="AU-0.75:MU-0.25" />
+                <remix id="M-20240815T044532-6" />
             </entry>
         </entry>
 
@@ -299,13 +285,7 @@
                 <visual type="semiAnimatedMV" base="0.5" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
 
-                <!-- lore: mia-sama and her friends have weekly tea parties, when they would -->
-                <!-- talk about literally everything in the week, such as how (himeno) sena -->
-                <!-- could not compose a song because of the construction noises, mona roasting -->
-                <!-- the haters online, and some girl shitting on the ksdgk. however, after the -->
-                <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
-                <!-- than ever before, leading to this week tea party being cancelled. -->
-                <nei base="0.8" emotions="MP-0.5:CP-0.5" />
+                <remix id="M-20240815T044532-5" />
             </entry>
 
             <!-- real -->
@@ -318,18 +298,9 @@
                 </source>
                 <music base="0.55" />
 
-                <!-- during the anti-ksdgk era, people were reminded of the girl who had thrown -->
-                <!-- away everything to achieve her dreams -->
-                <ref
-                    name="KoikakeAEI"
-                    a_base="0.1"
-                    a_contribution="0.5"
-                    a_emotions="CU"
-                />
-                <!-- anw the parody is a conversation between two people chasing after their own dreams -->
-                <!-- that haven't met for a long time -->
                 <musicConsumedProgress length="3:28" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
+                <remix id="M-20240815T041131-9" />
             </entry>
         </entry>
 
@@ -355,10 +326,7 @@
                 <music base="0.4" />
                 <musicConsumedProgress length="4:02" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- the parody has the same meaning as the original song -->
-                <!-- but it is more focused on fucking whatever is opposing your efforts -->
-                <!-- which is totally not the ksdgk -->
-                <nei base="0.6" emotions="AU-0.7:CP-0.3" />
+                <remix id="M-20240815T041131-4" />
             </entry>
             <entry id="$-2" title="Romeo">
                 <source>
@@ -366,14 +334,8 @@
                 </source>
                 <music base="0.5" />
                 <musicConsumedProgress length="5:16" />
+                <remix id="M-20240815T041131-3" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- the parody is about a princess being shown how beautiful the world is -->
-                <!-- by her beloved princes -->
-                <!-- totally not related to ayumuian duybua and ayumu-era people -->
-                <!-- (meme artist and ayumugod) -->
-                <!-- totally not sarcasm for ksdgk not being able to achieve 1% of -->
-                <!-- what they did -->
-                <nei base="0.4" emotions="MP" />
             </entry>
 
             <entry id="$-5" title="Non-fantasy">
@@ -626,6 +588,7 @@
                 <musicConsumedProgress length="4:08" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <remix id="M-20240314T094334-1" />
+                <remix id="M-20240730T201735" />
             </entry>
 
             <entry id="$-4" title="Hokori Takaki Idol">
@@ -664,14 +627,7 @@
                 <musicConsumedProgress length="3:41" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <remix id="M-20240314T094334-3" />
-                <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
-                <!-- in the world*, nayuta had decided to become the principal of ksdgk. those -->
-                <!-- who are benefiting from this inequality would then work in secret to make -->
-                <!-- a plan to overthrow her, but nayuta would soon catch aware of that. realizing -->
-                <!-- that they are beyond the border of forgiveness, she would summon her most -->
-                <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
-                <!-- the musician, to eliminate evil from the world in one go -->
-                <aei base="0.2" emotions="MU-0.5:AU-0.5" />
+                <remix id="M-20240815T044532-1" />
             </entry>
 
             <entry id="$-6" title="Nakama Hazure">
@@ -850,10 +806,19 @@
 
             <!-- istg this girl needs to stop putting zoomer slangs into her albums -->
             <!-- like i dont even understand what this is supposed to mean??? -->
-            <entry id="$-5" title="ビュティホ">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+            <!-- istg no one writes beautiful like that -->
+            <entry id="$-5" title="Beautiful">
+                <source>
+                    <urls>
+                        <url
+                            name="youtube"
+                            src="https://www.youtube.com/watch?v=CZnnhyMkwAI"
+                        />
+                    </urls>
+                </source>
+                <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
+                <music base="0.7" />
+                <musicConsumedProgress length="3:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             </entry>
 
@@ -930,17 +895,10 @@
                 <!-- a little bit unfair ik -->
                 <remix id="M-VGMDB-AL-112538-4" />
                 <remix id="M-20240314T094334-4" />
+                <remix id="M-20240815T041131-1" />
                 <!-- Length source: https://youtu.be/Qou76O_Rys0 -->
                 <musicConsumedProgress length="4:14" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-
-                <!-- the parody is an oshinoko ahh story of an idol -->
-                <!-- unlike (canon) yapper, the only thing that makes her holding on -->
-                <!-- to her idol job is her love of idols -->
-                <!-- totally unrelated with my hatred with the IT industry (real) -->
-                <!-- and ksdgk -->
-                <!-- pausechamp maybe i will write a short fanfic for this kek -->
-                <nei base="0.9" emotions="AU" />
             </entry>
 
             <entry
@@ -961,9 +919,7 @@
                 <musicConsumedProgress length="4:26" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
                 <remix id="M-VGMDB-AL-112538-8" />
-                <!-- the parody is about someone who is sicked of the mediocrity -->
-                <!-- of the world around him -->
-                <nei base="0.6" emotions="MU" />
+                <remix id="M-20240815T041131-6" />
             </entry>
 
             <!-- domino effect moment: -->
@@ -982,19 +938,7 @@
                 <music base="0.7" />
                 <musicConsumedProgress length="4:10" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- lore: after the incident in motto ichigo ore, sena's debt were cleared, which -->
-                <!-- allowed her to focus entirely on her music. not long after the event, she -->
-                <!-- released a hit and become one of the most popular producer in Japan. -->
-                <!-- and in the midst of that, she had a reunion with a guy who had been tirelessly -->
-                <!-- chasing before her, the MC in the eroge. because this album is imaginary, those -->
-                <!-- two ended up giving each other another chance (the real reason is left as and -->
-                <!-- exercise for the reader) in a Romantic Wedding -->
-                <ref
-                    name="KoikakeNEI"
-                    a_base="0.8"
-                    a_contribution="0.8"
-                    a_emotions="CP-0.75:MP-0.25"
-                />
+                <remix id="M-20240815T044532-3" />
             </entry>
         </entry>
 
@@ -1038,8 +982,7 @@
                 <music base="0.45" />
                 <musicConsumedProgress length="4:13" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image" />
-                <!-- same shit as jinsei yapper -->
-                <nei base="0.3" emotions="MU" />
+                <remix id="M-20240815T041131-7" />
             </entry>
         </entry>
 
@@ -1070,11 +1013,25 @@
             <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
             <visual type="manga" base="0.8" unique="0.2" />
 
-            <!-- 29 chapters -->
+            <!-- 46 chapters -->
+            <!-- ik i can snatch it off piccoma but im lazy -->
+            <!-- also i like the thrill of waiting for TLs from bro -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="1:30:00"
+                duration="2:12:00"
+            />
+
+            <!-- chapter 29 yapper is so peak it's actually motivating as fuck she is too peak WWWWW -->
+            <nei base="1.0" emotions="CP" />
+
+            <!-- chapter 34 is the best piece of fiction ever written -->
+            <!-- i have devoted my soul for utasama and mikotosama -->
+            <!-- the heretics will be punished -->
+            <maxAEIPADS
+                emotions="CP-0.2:AP-0.8"
+                from="2024-08-21"
+                to="2024-08-23"
             />
 
             <!-- ... But then I realized -->
@@ -1312,7 +1269,6 @@
             <music base="0.6" />
             <musicConsumedProgress length="4:09" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <remix id="M-20240314T094334-1" />
         </entry>
         <entry id="$-2" title="Inokori Sensei">
             <source>
@@ -1341,7 +1297,6 @@
             <music base="0.5" />
             <musicConsumedProgress length="3:40" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <remix id="M-VGMDB-AL-112538-5" />
         </entry>
         <entry id="$-4" title="Hokori Takaki Idol">
             <source>
@@ -1441,14 +1396,6 @@
             <music base="0.45" />
             <musicConsumedProgress length="5:16" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-
-            <!-- the parody is about a girl who fell in love with her senpai -->
-            <!-- unlike (canon) hina, the senpai does not give a shit about her, -->
-            <!-- despite her efforts -->
-            <!-- unlike (canon) koyuki, the senpai is happy as fuck with his gf -->
-            <!-- totally not related to my efforts being not recognized by anyone -->
-            <!-- in the ksdgk -->
-            <nei base="0.9" emotions="MU-0.3:CU-0.7" />
         </entry>
     </entry>
 
@@ -1529,9 +1476,7 @@
             <music base="0.7" />
             <musicConsumedProgress length="3:11" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <!-- the parody is about two newlyweds spending time with each other -->
-            <!-- it's just ayumugod and me lol -->
-            <nei base="0.4" emotions="MP" />
+            <remix id="M-20240815T041131-5" />
         </entry>
         <entry id="$-5" title="Utage☆Dokudanzyou!">
             <source>
@@ -1606,6 +1551,7 @@
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
             <!-- the parody does not exist because the original song is literally perfect -->
             <nei base="0.4" emotions="MU" />
+            <remix id="M-20240815T041131-8" />
         </entry>
         <!-- suisei goating fr -->
         <entry id="$-10" title="Kyoushitsu ni Ao">
@@ -1624,12 +1570,7 @@
             <!-- obligatory suisei ei -->
             <nei base="0.3" emotions="CP" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
-            <ref
-                name="KoikakeAEI"
-                a_base="0.75"
-                a_contribution="0.8"
-                a_emotions="CP-0.75:MP-0.25"
-            />
+            <remix id="M-20240815T044532-7" />
         </entry>
     </entry>
 

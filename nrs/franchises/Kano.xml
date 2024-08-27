@@ -385,4 +385,50 @@
             <musicConsumedProgress length="6:04" />
         </entry>
     </entry>
+
+    <!-- too real -->
+    <entry id="M-20240730T201735" title="Fansa" entrytype="MusicTrack">
+        <source>
+            <urls>
+                <url
+                    name="youtube"
+                    src="https://www.youtube.com/watch?v=GZVAnPZ2znE"
+                />
+            </urls>
+        </source>
+
+        <!-- idk if the cg stuff is included but whatever -->
+        <visual type="rpg3dGame" base="0.4" unique="0.2" />
+
+        <music base="0.6" />
+        <musicConsumedProgress length="4:05" />
+        <role id="M-VGMDB-AR-11666" roles="vocal" />
+    </entry>
+
+    <entry id="M-VGMDB-AL-56257" title="Merry / Kano">
+        <source>
+            <urls>
+                <url
+                    name="vgmdb"
+                    src="https://vgmdb.net/album/56257"
+                    generatedBy="music.ts 822494e-66c5fb26"
+                />
+            </urls>
+        </source>
+        <visual type="albumArt" base="0.6" unique="0.5" />
+        <entry id="$-1" title="Platonic Love">
+            <source>
+                <urls>
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/watch?v=cBxrkElBhBs"
+                    />
+                </urls>
+            </source>
+            <musicConsumedProgress length="3:37" />
+            <music base="0.7" />
+            <remix id="M-20240821T213821-2" />
+            <role id="M-VGMDB-AR-11666" roles="vocal" />
+        </entry>
+    </entry>
 </document>
