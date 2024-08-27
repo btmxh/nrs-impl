@@ -950,17 +950,26 @@
             <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
             <visual type="manga" base="0.8" unique="0.2" />
 
-            <!-- 42 chapters -->
+            <!-- 46 chapters -->
             <!-- ik i can snatch it off piccoma but im lazy -->
             <!-- also i like the thrill of waiting for TLs from bro -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="2:06:00"
+                duration="2:12:00"
             />
 
             <!-- chapter 29 yapper is so peak it's actually motivating as fuck she is too peak WWWWW -->
             <nei base="1.0" emotions="CP" />
+
+            <!-- chapter 34 is the best piece of fiction ever written -->
+            <!-- i have devoted my soul for utasama and mikotosama -->
+            <!-- the heretics will be punished -->
+            <maxAEIPADS
+                emotions="CP-0.2:AP-0.8"
+                from="2024-08-21"
+                to="2024-08-23"
+            />
 
             <!-- ... But then I realized -->
             <!-- that the world is trying as hard as, -->
