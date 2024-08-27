@@ -702,20 +702,19 @@
 
             <!-- fansa ahh title -->
             <entry id="$-1" title="Omae mo ♡">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+                <!-- https://github.com/btmxh/nrs-impl/discussions/539#discussioncomment-10464002 -->
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.75" />
+                <musicConsumedProgress length="3:08" />
             </entry>
 
             <!-- idk how to romanize this name lol -->
             <!-- wtf is C-kimi? or C-kun??? -->
             <!-- peak sengen ahh title -->
-            <entry id="$-2" title="私、C君が好き">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+            <entry id="$-2" title="Watashi, C-kun ga suki">
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.6" />
+                <musicConsumedProgress length="3:10" />
             </entry>
 
             <!-- hokori *dead from peak brainrot* takaki idol ahh title -->
@@ -731,15 +730,16 @@
                 <epi base="1.0" />
 
                 <!-- 3:03 is just pure W, tea party or not -->
+                <!-- i love mikouta -->
                 <nei base="0.3" emotions="CP" />
             </entry>
 
             <!-- chat what did you yap to her she is angry chat stop bullying her -->
             <entry id="$-4" title="Zakenna">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+                <visual type="animatedMV" base="0.5" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.55" />
+                <musicConsumedProgress length="3:27" />
             </entry>
 
             <!-- istg this girl needs to stop putting zoomer slangs into her albums -->
@@ -754,7 +754,8 @@
                         />
                     </urls>
                 </source>
-                <visual type="semiAnimatedMV" base="0.3" unique="0.5" />
+                <!-- yamako not my cup of tea but still banging regardless -->
+                <visual type="semiAnimatedMV" base="0.3" unique="0.65" />
                 <music base="0.7" />
                 <musicConsumedProgress length="3:44" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
@@ -762,18 +763,17 @@
 
             <!-- cover lmfao -->
             <entry id="$-6" title="Idol de Yokatta.">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
+                <visual type="semiAnimatedMV" base="0.45" unique="0.6" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.55" />
+                <musicConsumedProgress length="4:33" />
             </entry>
 
             <!-- motto ichigo ahh title -->
             <entry id="$-7" title="Whipped Cream no Shoumi kigen">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.4" />
+                <musicConsumedProgress length="3:31" />
             </entry>
 
             <!-- adge -->
@@ -794,18 +794,16 @@
 
             <!-- jinsei saikyou ahh title -->
             <entry id="$-10" title="Ikiterutte Maji Yuushou">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.4" />
+                <musicConsumedProgress length="3:20" />
             </entry>
 
             <!-- kawaikunaritai ahh title -->
             <entry id="$-11" title="Kawaiiriyuu">
-                <validatorSuppress
-                    rules="dah-entry-no-consumed;dah-no-progress"
-                />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+                <music base="0.7" />
+                <musicConsumedProgress length="4:04" />
             </entry>
         </entry>
 
