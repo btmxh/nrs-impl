@@ -703,6 +703,7 @@
             <!-- fansa ahh title -->
             <entry id="$-1" title="Omae mo ♡">
                 <!-- https://github.com/btmxh/nrs-impl/discussions/539#discussioncomment-10464002 -->
+                <visual type="animatedMV" base="0.4" unique="0.5" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
                 <music base="0.75" />
                 <musicConsumedProgress length="3:08" />
