@@ -315,7 +315,7 @@
             <maxAEIPADS emotions="CU" from="2024-04-22" to="2024-04-23" />
 
             <!-- a new mafia has emerged (nvm it's just the nayuta clan) -->
-            <meme from="2024-04-15" to="today" strength="0.3" />
+            <meme from="2024-04-15" to="2024-06-30" strength="0.3" />
 
             <animeConsumedProgress
                 status="Completed"

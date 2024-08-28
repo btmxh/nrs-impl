@@ -316,10 +316,6 @@
         <contributor id="M-VGMDB-AR-35619" factor="0.5" />
     </epi>
 
-    <meme from="2023-05-15" to="today" strength="0.4">
-        <contributor id="M-20230524T223250" factor="1.0" />
-    </meme>
-
     <entry
         id="M-20240314T132852"
         title="Diamond City Lights"
