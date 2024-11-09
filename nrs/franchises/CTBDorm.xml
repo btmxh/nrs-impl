@@ -5,7 +5,29 @@
         id="M-20240815T042406"
         title="CTB Girls' Dormitory"
         entrytype="MusicArtist"
-    />
+    >
+        <!-- this novel has so much impact it's actually batshit insane -->
+        <!-- it's just like what the AOTP said: -->
+        <!-- art is the only weapon, without it, no matter who you are, you are powerless -->
+        <entry id="L-20241109T062928" title="Hokori Takaki Idol" entrytype="LightNovel">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress;dah-visualless-entry" />
+
+            <!-- throughout heaven (canon) and earth (hkiverse) she alone is the best girl -->
+            <bestGirl name="Mona Narumi" />
+
+            <!-- the fact that my dumbass able to cook up this script is already an insane feat
+            deserving a max out epi tbh -->
+            <!-- it does have its flaws but imo it's actually something i would enjoy more than 90%
+            of anime plots (not saying it's better, just that it fit my taste, the reason for that
+            is self-explanatory) -->
+            <epi base="1.0"></epi>
+
+            <!-- the yapper-mona thread is now basically just talking about the novel lmfao -->
+            <!-- (not that bad, but yeah) -->
+            <!-- also 11 days left until one year anniversary of that thread! -->
+            <meme from="2024-09-01" to="today" strength="0.75"></meme>
+        </entry>
+    </entry>
     <entry
         id="M-20240815T041131"
         title="How much closer has you gotten to your dreams?"
@@ -28,6 +50,9 @@
             <!-- and ksdgk -->
             <!-- pausechamp maybe i will write a short fanfic for this kek -->
             <nei base="0.9" emotions="AU" />
+
+            <!-- the fanfic is ranked lfg!!! -->
+            <remix id="L-20241109T062928"></remix>
         </entry>
 
         <entry
@@ -302,14 +327,18 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <music base="0.0" />
-            <!-- lore: my self-insert (in the original tea party timeline) want to kms because dark lore whatever -->
-            <!-- just before the moment, blud saw an explosion (motto ichigo ore) and got saved by one of the tea party girl -->
+            <!-- lore: my self-insert (in the original tea party timeline) want to kms because dark
+            lore whatever -->
+            <!-- just before the moment, blud saw an explosion (motto ichigo ore) and got saved by
+            one of the tea party girl -->
             <!-- this was when blud was accepted into the tea party btw -->
             <nei base="0.3" emotions="CU-0.9:CP-0.1" />
         </entry>
 
-        <!-- no song yet, but the plan is to reveal that mia-sama dying or not will dictate the timeline -->
-        <!-- the tea party chose to save their friend, which reverted all of their efforts in the bright future they were having -->
+        <!-- no song yet, but the plan is to reveal that mia-sama dying or not will dictate the
+        timeline -->
+        <!-- the tea party chose to save their friend, which reverted all of their efforts in the
+        bright future they were having -->
         <!-- and the world reverted to the world that we live in, where: -->
         <!-- - mia did not die -->
         <!-- - peaksengen is canon -->
