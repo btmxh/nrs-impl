@@ -321,12 +321,11 @@
         </entry>
     </entry>
 
-    <!-- noncanon extra album for the tea party album -->
-    <!-- !!! NOTE EVERYTHING IN THIS BLOCK IS NONCANON !!! -->
-    <!-- consider this a fanfic made by the same author -->
+    <!-- single released in M3-2024 Fall -->
+    <!-- kinda scuffed with no xfd and album art life's been busy lately -->
     <entry
         id="M-20240821T213821"
-        title="Tea Party Album: The Untold Stories"
+        title="Sparkle/Platonic Love"
         entrytype="MusicAlbum"
     >
         <entry id="$-1" title="Sparkle (CTB Girls' Dorm ver.)">
