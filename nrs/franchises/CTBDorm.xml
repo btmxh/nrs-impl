@@ -9,8 +9,14 @@
         <!-- this novel has so much impact it's actually batshit insane -->
         <!-- it's just like what the AOTP said: -->
         <!-- art is the only weapon, without it, no matter who you are, you are powerless -->
-        <entry id="L-20241109T062928" title="Hokori Takaki Idol" entrytype="LightNovel">
-            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress;dah-visualless-entry" />
+        <entry
+            id="L-20241109T062928"
+            title="Hokori Takaki Idol"
+            entrytype="LightNovel"
+        >
+            <validatorSuppress
+                rules="dah-entry-no-consumed;dah-no-progress;dah-visualless-entry"
+            />
 
             <!-- throughout heaven (canon) and earth (hkiverse) she alone is the best girl -->
             <bestGirl name="Mona Narumi" />
@@ -20,12 +26,12 @@
             <!-- it does have its flaws but imo it's actually something i would enjoy more than 90%
             of anime plots (not saying it's better, just that it fit my taste, the reason for that
             is self-explanatory) -->
-            <epi base="1.0"></epi>
+            <epi base="1.0" />
 
             <!-- the yapper-mona thread is now basically just talking about the novel lmfao -->
             <!-- (not that bad, but yeah) -->
             <!-- also 11 days left until one year anniversary of that thread! -->
-            <meme from="2024-09-01" to="today" strength="0.75"></meme>
+            <meme from="2024-09-01" to="today" strength="0.75" />
         </entry>
     </entry>
     <entry
@@ -52,7 +58,7 @@
             <nei base="0.9" emotions="AU" />
 
             <!-- the fanfic is ranked lfg!!! -->
-            <remix id="L-20241109T062928"></remix>
+            <remix id="L-20241109T062928" />
         </entry>
 
         <entry
