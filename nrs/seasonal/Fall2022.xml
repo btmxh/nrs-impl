@@ -47,7 +47,7 @@
         <aei base="-0.3" emotions="AU-0.5:MU-0.5" />
 
         <!-- funny ig + the memes -->
-        <aei base="0.0" emotions="AP"></aei>
+        <aei base="0.0" emotions="AP" />
 
         <!-- saved in 2024 xdd -->
         <animeConsumedProgress status="Completed" boredom="0.6" episodes="12" />
