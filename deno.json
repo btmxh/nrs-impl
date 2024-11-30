@@ -14,5 +14,6 @@
     "generate": "deno run --allow-all scripts/generate.ts",
     "makecsv": "deno run --allow-all scripts/make_csv.ts",
     "ci": "deno task generate && deno task makecsv"
-  }
+  },
+  "nodeModulesDir": "auto"
 }
