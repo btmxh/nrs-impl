@@ -22,9 +22,7 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v4
       - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.43.x
+        uses: denoland/setup-deno@v2
       - name: Create temp directory
         run: mkdir -p temp
       - name: Checkout validator repository
@@ -56,9 +54,7 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v4
       - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.43.x
+        uses: denoland/setup-deno@v2
       - name: Generate output files
         run: deno task ci
       - name: Split branch name
