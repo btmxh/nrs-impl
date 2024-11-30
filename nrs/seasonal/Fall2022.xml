@@ -51,6 +51,7 @@
 
         <!-- saved in 2024 xdd -->
         <animeConsumedProgress status="Completed" boredom="0.6" episodes="12" />
+        <validatorSuppress rules="dah-no-dropped-impact" />
         <dropped />
         <visual type="animated" base="0.4" unique="0.3" />
     </entry>
