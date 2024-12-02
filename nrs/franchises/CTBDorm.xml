@@ -1,0 +1,398 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<!-- here we have releases of ctb girls dorm W -->
+<document>
+    <entry
+        id="M-20240815T042406"
+        title="CTB Girls' Dormitory"
+        entrytype="MusicArtist"
+    >
+        <!-- this novel has so much impact it's actually batshit insane -->
+        <!-- it's just like what the AOTP said: -->
+        <!-- art is the only weapon, without it, no matter who you are, you are powerless -->
+        <entry
+            id="L-20241109T062928"
+            title="Hokori Takaki Idol"
+            entrytype="LightNovel"
+        >
+            <validatorSuppress
+                rules="dah-entry-no-consumed;dah-no-progress;dah-visualless-entry"
+            />
+
+            <!-- throughout heaven (canon) and earth (hkiverse) she alone is the best girl -->
+            <bestGirl name="Mona Narumi" />
+
+            <!-- the fact that my dumbass able to cook up this script is already an insane feat
+            deserving a max out epi tbh -->
+            <!-- it does have its flaws but imo it's actually something i would enjoy more than 90%
+            of anime plots (not saying it's better, just that it fit my taste, the reason for that
+            is self-explanatory) -->
+            <epi base="1.0" />
+
+            <!-- the yapper-mona thread is now basically just talking about the novel lmfao -->
+            <!-- (not that bad, but yeah) -->
+            <!-- also 11 days left until one year anniversary of that thread! -->
+            <meme from="2024-09-01" to="today" strength="0.75" />
+        </entry>
+    </entry>
+    <entry
+        id="M-20240815T041131"
+        title="How much closer has you gotten to your dreams?"
+        entrytype="MusicAlbum"
+    >
+        <entry
+            id="$-1"
+            title="Hokori Takaki Idol (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="4:14" />
+
+            <!-- the parody is an oshinoko ahh story of an idol -->
+            <!-- unlike (canon) yapper, the only thing that makes her holding on -->
+            <!-- to her idol job is her love of idols -->
+            <!-- totally unrelated with my hatred with the IT industry (real) -->
+            <!-- and ksdgk -->
+            <!-- pausechamp maybe i will write a short fanfic for this kek -->
+            <nei base="0.9" emotions="AU" />
+
+            <!-- the fanfic is ranked lfg!!! -->
+            <remix id="L-20241109T062928" />
+        </entry>
+
+        <entry
+            id="$-2"
+            title="Senpai (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="5:14" />
+
+            <!-- the parody is about a girl who fell in love with her senpai -->
+            <!-- unlike (canon) hina, the senpai does not give a shit about her, -->
+            <!-- despite her efforts -->
+            <!-- unlike (canon) koyuki, the senpai is happy as fuck with his gf -->
+            <!-- totally not related to my efforts being not recognized by anyone -->
+            <!-- in the ksdgk -->
+            <nei base="0.9" emotions="MU-0.3:CU-0.7" />
+        </entry>
+
+        <entry
+            id="$-3"
+            title="Romeo (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="5:17" />
+            <!-- the parody is about a princess being shown how beautiful the world is -->
+            <!-- by her beloved princes -->
+            <!-- totally not related to ayumuian duybua and ayumu-era people -->
+            <!-- (meme artist and ayumugod) -->
+            <!-- totally not sarcasm for ksdgk not being able to achieve 1% of -->
+            <!-- what they did -->
+            <nei base="0.4" emotions="MP" />
+        </entry>
+
+        <entry
+            id="$-4"
+            title="Yume Fanfare (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="4:02" />
+            <!-- the parody has the same meaning as the original song -->
+            <!-- but it is more focused on fucking whatever is opposing your efforts -->
+            <!-- which is totally not the ksdgk -->
+            <nei base="0.6" emotions="AU-0.7:CP-0.3" />
+        </entry>
+
+        <entry
+            id="$-5"
+            title="Bridal Dream (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="3:26" />
+            <!-- the parody is about two newlyweds spending time with each other -->
+            <!-- it's just ayumugod and me lol -->
+            <nei base="0.4" emotions="MP" />
+        </entry>
+
+        <entry
+            id="$-6"
+            title="Jinsei wa Saikyou no Himatsubushi (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="4:26" />
+            <!-- the parody is about someone who is sicked of the mediocrity -->
+            <!-- of the world around him -->
+            <nei base="0.6" emotions="MU" />
+        </entry>
+
+        <entry
+            id="$-7"
+            title="Kawaiku Naritai (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="4:12" />
+            <!-- same shit as jinsei yapper -->
+            <nei base="0.3" emotions="MU" />
+        </entry>
+
+        <entry
+            id="$-8"
+            title="Riazyuu★Bokumetu movement (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="3:02" />
+        </entry>
+
+        <entry
+            id="$-9"
+            title="Re:Hatsukoi no Ehon (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <music base="0.0" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="3:24" />
+            <!-- during the anti-ksdgk era, people were reminded of the girl who had thrown -->
+            <!-- away everything to achieve her dreams -->
+            <ref
+                name="KoikakeAEI"
+                a_base="0.1"
+                a_contribution="0.5"
+                a_emotions="CU"
+            />
+            <!-- anw the parody is a conversation between two people chasing after their own
+                dreams -->
+            <!-- that haven't met for a long time -->
+        </entry>
+    </entry>
+
+    <!-- name is temporary still -->
+    <entry
+        id="M-20240815T044532"
+        title="Come and gather around the table, it's time for the Tea Party!"
+        entrytype="MusicAlbum"
+    >
+        <!-- An universe at the crossroads of four girls: -->
+        <!-- An idol who hates every fan of hers, -->
+        <!-- A princess surrounded by lies and contempt, -->
+        <!-- A failed composer burdened with a huge debt, -->
+        <!-- And a girl excluded by the world, and on the verge of *REDACTED* -->
+        <!-- By some miracle, they had become friends, and as a result, -->
+        <!-- The world around them began to change... -->
+
+        <entry
+            id="$-1"
+            title="motto☆ichigo au lait (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- lore: unable to ignore the inequality happening in *the most polluted city -->
+            <!-- in the world*, nayuta had decided to become the principal of ksdgk. those -->
+            <!-- who are benefiting from this inequality would then work in secret to make -->
+            <!-- a plan to overthrow her, but nayuta would soon catch aware of that. realizing -->
+            <!-- that they are beyond the border of forgiveness, she would summon her most -->
+            <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
+            <!-- the musician, to eliminate evil from the world in one go -->
+            <aei base="0.2" emotions="MU-0.5:AU-0.5" />
+        </entry>
+
+        <entry
+            id="$-2"
+            title="Shiawase. (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- lore: basically the relationship between yapper and himeno sena, -->
+            <!-- linking up the lore of motto ichigo (sena's debt cleared), romantic wedding
+                (the wedding) and terekakushi shishunki (yapper cried) -->
+            <!-- it's a very wholesome song and i'm actually proud of it -->
+            <nei base="1.0" emotions="MP-0.7:CP-0.3" />
+        </entry>
+
+        <entry
+            id="$-3"
+            title="Romantic Wedding (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- lore: after the incident in motto ichigo ore, sena's debt were cleared, which -->
+            <!-- allowed her to focus entirely on her music. not long after the event, she -->
+            <!-- released a hit and become one of the most popular producer in Japan. -->
+            <!-- and in the midst of that, she had a reunion with a guy who had been tirelessly -->
+            <!-- chasing before her, the MC in the eroge. because this album is imaginary, those -->
+            <!-- two ended up giving each other another chance (the real reason is left as and -->
+            <!-- exercise for the reader) in a Romantic Wedding -->
+            <ref
+                name="KoikakeNEI"
+                a_base="0.8"
+                a_contribution="0.8"
+                a_emotions="CP-0.75:MP-0.25"
+            />
+        </entry>
+
+        <entry
+            id="$-4"
+            title="Terekakushi Shishunki (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- the plot of the tea party ver is basically narumi sena realizing -->
+            <!-- her little sister is no longer alone (but muh staffsan and yapperfans -->
+            <!-- exist in the original story? i don't give a shit idk just consider -->
+            <!-- them inferior to the tea party girls or something), because she now -->
+            <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
+            <nei base="0.6" emotions="CP" />
+        </entry>
+
+        <entry
+            id="$-5"
+            title="Tokyo Winter Session (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- lore: mia-sama and her friends have weekly tea parties, when they would -->
+            <!-- talk about literally everything in the week, such as how (himeno) sena -->
+            <!-- could not compose a song because of the construction noises, mona roasting -->
+            <!-- the haters online, and some girl shitting on the ksdgk. however, after the -->
+            <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
+            <!-- than ever before, leading to this week tea party being cancelled. -->
+            <nei base="0.8" emotions="MP-0.5:CP-0.5" />
+        </entry>
+
+        <entry
+            id="$-6"
+            title="Byoumei Koi Wazurai (CTB Girls' Dorm ver.)"
+            entrytype="MusicTrack"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- lore: nina's band after the motto ichigo incident become popular, -->
+            <!-- when she was reminded of the people who did not believe in her -->
+            <!-- and reject her for who she is. now that she has "won", she can -->
+            <!-- now confidently say to them the words that she was right -->
+
+            <!-- fun fact: i am nina and multiple choice questions are the normies -->
+            <nei base="0.9" emotions="AU-0.75:MU-0.25" />
+        </entry>
+
+        <entry id="$-7" title="Kyoushitsu ni Ao (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <ref
+                name="KoikakeAEI"
+                a_base="0.75"
+                a_contribution="0.8"
+                a_emotions="CP-0.75:MP-0.25"
+            />
+        </entry>
+    </entry>
+
+    <!-- single released in M3-2024 Fall -->
+    <!-- kinda scuffed with no xfd and album art life's been busy lately -->
+    <entry
+        id="M-20240821T213821"
+        title="Sparkle/Platonic Love"
+        entrytype="MusicAlbum"
+    >
+        <entry id="$-1" title="Sparkle (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <music base="0.0" />
+            <!-- lore: my self-insert (in the original tea party timeline) want to kms because dark
+            lore whatever -->
+            <!-- just before the moment, blud saw an explosion (motto ichigo ore) and got saved by
+            one of the tea party girl -->
+            <!-- this was when blud was accepted into the tea party btw -->
+            <nei base="0.3" emotions="CU-0.9:CP-0.1" />
+        </entry>
+
+        <!-- no song yet, but the plan is to reveal that mia-sama dying or not will dictate the
+        timeline -->
+        <!-- the tea party chose to save their friend, which reverted all of their efforts in the
+        bright future they were having -->
+        <!-- and the world reverted to the world that we live in, where: -->
+        <!-- - mia did not die -->
+        <!-- - peaksengen is canon -->
+        <!-- - sena's lore is unknown -->
+        <!-- - me did not suicidy in sparkle and shitpost about yapper instead -->
+        <!-- - mottoichigo, shiawase, etc. never happen, the tea party girls dont know each other -->
+
+        <entry id="$-2" title="Platonic Love (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <music base="0.0" />
+            <!-- lore: peak sengen chapter 34 (or 46 idc) -->
+            <!-- this is the timeline where mia-sama is saved and watashi peak sengen is canon -->
+            <nei base="0.8" emotions="MP-0.6:CP-0.4">
+                <contributor id="M-20240821T213821-2" factor="0.5" />
+                <contributor id="L-MAL-139873" factor="0.5" />
+            </nei>
+
+            <!-- peak shiawase reference: -->
+            <!-- I, I, I want to say -->
+            <!-- That I'm glad that I met you -->
+            <!-- Why do I feel like that I had said those words before somehow? -->
+        </entry>
+    </entry>
+
+    <meme from="2023-11-20" to="today" strength="0.3">
+        <contributor id="M-20240815T041131-1" factor="0.3" />
+        <contributor id="M-20240815T041131-2" factor="0.2" />
+        <contributor id="M-20240815T041131-3" factor="0.05" />
+        <contributor id="M-20240815T041131-4" factor="0.05" />
+        <contributor id="M-20240815T041131-5" factor="0.05" />
+        <contributor id="M-20240815T041131-6" factor="0.05" />
+        <contributor id="M-20240815T041131-7" factor="0.05" />
+        <contributor id="M-20240815T041131-8" factor="0.05" />
+        <contributor id="M-20240815T041131-9" factor="0.2" />
+    </meme>
+
+    <meme from="2024-05-26" to="today" strength="0.5">
+        <contributor id="M-20240815T044532-1" factor="0.1" />
+        <contributor id="M-20240815T044532-2" factor="0.05" />
+        <contributor id="M-20240815T044532-3" factor="0.1" />
+        <contributor id="M-20240815T044532-4" factor="0.05" />
+        <contributor id="M-20240815T044532-5" factor="0.05" />
+        <contributor id="M-20240815T044532-6" factor="0.02" />
+        <contributor id="M-20240815T044532-7" factor="0.03" />
+
+        <contributor id="L-MAL-139873" factor="0.18" />
+        <contributor id="A-MAL-52962" factor="0.18" />
+        <contributor id="V-VNDB-17516" factor="0.18" />
+        <contributor id="A-MAL-55102" factor="0.06" />
+    </meme>
+</document>

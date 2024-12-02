@@ -1,25 +1,48 @@
 {
-  "version": "3",
-  "packages": {
-    "specifiers": {
-      "npm:fast-xml-parser@4": "npm:fast-xml-parser@4.2.7",
-      "npm:luxon@3.2.0": "npm:luxon@3.2.0"
+  "version": "4",
+  "specifiers": {
+    "npm:@prettier/plugin-xml@^3.1.1": "3.4.1_prettier@3.4.1",
+    "npm:fast-xml-parser@4": "4.2.7",
+    "npm:luxon@3.2.0": "3.2.0",
+    "npm:prettier@3": "3.4.1"
+  },
+  "npm": {
+    "@prettier/plugin-xml@3.4.1_prettier@3.4.1": {
+      "integrity": "sha512-Uf/6/+9ez6z/IvZErgobZ2G9n1ybxF5BhCd7eMcKqfoWuOzzNUxBipNo3QAP8kRC1VD18TIo84no7LhqtyDcTg==",
+      "dependencies": [
+        "@xml-tools/parser",
+        "prettier"
+      ]
     },
-    "npm": {
-      "fast-xml-parser@4.2.7": {
-        "integrity": "sha512-J8r6BriSLO1uj2miOk1NW0YVm8AGOOu3Si2HQp/cSmo6EA4m3fcwu2WKjJ4RK9wMLBtg69y1kS8baDiQBR41Ig==",
-        "dependencies": {
-          "strnum": "strnum@1.0.5"
-        }
-      },
-      "luxon@3.2.0": {
-        "integrity": "sha512-Namj3XqoJjFekq/JHQEaaAv4zyE/fyyDBrMEBnIL2s/X54SC8W5Ea0uej1TRXUArWec8OojsAVsGBYhNRjpMVw==",
-        "dependencies": {}
-      },
-      "strnum@1.0.5": {
-        "integrity": "sha512-J8bbNyKKXl5qYcR36TIO8W3mVGVHrmmxsd5PAItGkmyzwJvybiw2IVq5nqd0i4LSNSkB/sx9VHllbfFdr9k1JA==",
-        "dependencies": {}
-      }
+    "@xml-tools/parser@1.0.11": {
+      "integrity": "sha512-aKqQ077XnR+oQtHJlrAflaZaL7qZsulWc/i/ZEooar5JiWj1eLt0+Wg28cpa+XLney107wXqneC+oG1IZvxkTA==",
+      "dependencies": [
+        "chevrotain"
+      ]
+    },
+    "chevrotain@7.1.1": {
+      "integrity": "sha512-wy3mC1x4ye+O+QkEinVJkPf5u2vsrDIYW9G7ZuwFl6v/Yu0LwUuT2POsb+NUWApebyxfkQq6+yDfRExbnI5rcw==",
+      "dependencies": [
+        "regexp-to-ast"
+      ]
+    },
+    "fast-xml-parser@4.2.7": {
+      "integrity": "sha512-J8r6BriSLO1uj2miOk1NW0YVm8AGOOu3Si2HQp/cSmo6EA4m3fcwu2WKjJ4RK9wMLBtg69y1kS8baDiQBR41Ig==",
+      "dependencies": [
+        "strnum"
+      ]
+    },
+    "luxon@3.2.0": {
+      "integrity": "sha512-Namj3XqoJjFekq/JHQEaaAv4zyE/fyyDBrMEBnIL2s/X54SC8W5Ea0uej1TRXUArWec8OojsAVsGBYhNRjpMVw=="
+    },
+    "prettier@3.4.1": {
+      "integrity": "sha512-G+YdqtITVZmOJje6QkXQWzl3fSfMxFwm1tjTyo9exhkmWSqC4Yhd1+lug++IlR2mvRVAxEDDWYkQdeSztajqgg=="
+    },
+    "regexp-to-ast@0.5.0": {
+      "integrity": "sha512-tlbJqcMHnPKI9zSrystikWKwHkBqu2a/Sgw01h3zFjvYrMxEDYHzzoMZnUrbIfpTFEsoRnnviOXNCzFiSc54Qw=="
+    },
+    "strnum@1.0.5": {
+      "integrity": "sha512-J8bbNyKKXl5qYcR36TIO8W3mVGVHrmmxsd5PAItGkmyzwJvybiw2IVq5nqd0i4LSNSkB/sx9VHllbfFdr9k1JA=="
     }
   },
   "remote": {
@@ -175,17 +198,47 @@
     "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.0/src/math.ts": "a21c3f6941aa13c82dd19c40d4b81a36822d26c247a59903830fcdf5a21ad563",
     "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.0/src/process.ts": "e0d317cea3af3e03228bfb77d2d8e1ffa3d795b5076fa308671637b441f1899e",
     "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.0/src/utils.ts": "09ff8bc9ec6eef6b6f27d20c2f4db0b9bf88e090567745f7c21ce8268be032f2",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/deps.ts": "9726584ef5caac01697c8afa25431d64acc70cba5f065516071017c62921b8f5",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_additional_sources.ts": "5ac0896e268eedebc9444b73e5902e587cdad34f341c5f0fdc0b7a2a035dd6ad",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_anime_normalize.ts": "5b29a4d0d60f6135d1c8b8c8cf875213705362b07285288c0a7ae183a6cb8a3c",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_anime_normalize_bulk.json": "16d5a583f9ead1e04c736511acc58a432a156c1a88e817feea19cd91d4301e05",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_combine_pow.ts": "853376d1031643a73fd726f49924c1c5fc7c0cbea2bd7113a469569afae91355",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_combine_pp.ts": "c2b9141335dabb94e1c8e3255e24893bd745890117827d0c0bbb0f966aae35a7",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_entry_bestGirl.ts": "b878ce342b57e05b74abfb4297ec5937987e549dac076887cafd62e09520c03d",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_entry_progress.ts": "17dd49f9de48447ef762b9a1ba61ef09034df2b83ec1152cd3510ca4c5fa2607",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_entry_queue.ts": "30a653f64b6d30f6a423441983eddcc6426a4a312f8395eff46e81f1f5aac90c",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_entry_roles.ts": "03dd5ae5828b6b0c3429a8eb2864caac550ae5aef73b118ece8ec8dce3348f82",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_entry_title.ts": "719099a0f3a0188426baa2e4867f7274ca25f1dc372c5b9f924bd4dfb0ac139e",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_entry_type.ts": "4bde8d630b90d7d76e4c6e3b20e1ebdc5ed0104462f8605d952bddd094bfb1fa",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_factors.ts": "f8a3e84c6db1310cf989e07d6a23bf1a6e00f5692d2c4429ea3225e36902cbad",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_ir_source.ts": "68082e59b0844da3c99b17b0b9946fb125251fc13677026990f06b77f150850e",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_overall_score.ts": "1f13ed32c2e56cf216960ac2910e3f1acf77cfdca6c29d0e50d26f853061a6c3",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_serialize.ts": "e387b02debcc8269509e2b1b26d290f552d6d783f5d4ebc6da09cf96de1c56b8",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_serialize_json.ts": "173c68a7452f85ba03e62644e2a5a6a2c4c47665a95c01113faf4e3f766ce38a",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_standards.ts": "496bb43ed7648689a5743c727c7c2c3b1e395c9f86ac816a306d2717e6eaf7ed",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/exts/DAH_validator_suppress.ts": "18a3679fc93a0c5377d7119fcd8d2d38792ba5153078e43916d49e8ea7597c19",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/mod.ts": "3afcf2d1a208c9b423970430f0313fc745d28f79f1fabace0dada86e718c89b2",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/src/data.ts": "5197fb26cf79e2c3db699d1836806cd3e51f1f8187f369901a42cb45225aaa91",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/src/ext.ts": "624ff419fbbd604b935fc739bd266c168d332b3c9c1213153823240d7bce90f0",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/src/math.ts": "a21c3f6941aa13c82dd19c40d4b81a36822d26c247a59903830fcdf5a21ad563",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/src/process.ts": "e0d317cea3af3e03228bfb77d2d8e1ffa3d795b5076fa308671637b441f1899e",
+    "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/src/utils.ts": "09ff8bc9ec6eef6b6f27d20c2f4db0b9bf88e090567745f7c21ce8268be032f2",
     "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/deps.ts": "85cdde6feaa96c49dd4966a43ad5d4612d3176fc52f81c991d7ce1fcfd096474",
     "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/mod.ts": "42b7f9d6be557e292eb1218ba8b79227348aefc0f358ad2b00423bee331f7568",
     "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/nrsml/macro.ts": "3dc1eda0ec6c4ccd9edb98703116b21bdd4c05b165085bdbe042fb012286eca8",
     "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/nrsml/parse.ts": "0d527a558921f427e73285d649c67a26b037b884e975ad35dece957d7ba4d12b",
-    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/nrsml/utils.ts": "bc1b7db22b482a799a5412306532dadb32860106b9a7ecb9cf14efcfd374724a"
+    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.1/nrsml/utils.ts": "bc1b7db22b482a799a5412306532dadb32860106b9a7ecb9cf14efcfd374724a",
+    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.2/deps.ts": "205643b523c8dc036ea8d358530fff86874bf92d74f527d8770a520ff919757b",
+    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.2/mod.ts": "42b7f9d6be557e292eb1218ba8b79227348aefc0f358ad2b00423bee331f7568",
+    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.2/nrsml/macro.ts": "3dc1eda0ec6c4ccd9edb98703116b21bdd4c05b165085bdbe042fb012286eca8",
+    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.2/nrsml/parse.ts": "0d527a558921f427e73285d649c67a26b037b884e975ad35dece957d7ba4d12b",
+    "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.2/nrsml/utils.ts": "bc1b7db22b482a799a5412306532dadb32860106b9a7ecb9cf14efcfd374724a"
   },
   "workspace": {
     "packageJson": {
       "dependencies": [
         "npm:@prettier/plugin-xml@^3.1.1",
-        "npm:prettier@^3.0.0"
+        "npm:prettier@3"
       ]
     }
   }
