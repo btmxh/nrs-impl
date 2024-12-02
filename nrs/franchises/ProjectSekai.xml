@@ -25,5 +25,23 @@
                 duration="10:00:00"
             />
         </entry>
+
+        <entry id="M-VGMDB-AL-110345" title="needLe/Stella / Leo/need">
+            <visual type="albumArt" base="0.5" unique="0.3" />
+            <entry id="$-2" title="Stella">
+                <visual type="animatedMV" base="0.4" unique="0.6" />
+                <musicConsumedProgress length="5:25" />
+                <music base="0.7" />
+                <remix id="M-20241202T142410-1" />
+            </entry>
+        </entry>
+
+        <entry id="M-20241202T141801" title="Teammate" entrytype="MusicTrack">
+            <visual type="animatedMV" base="0.5" unique="0.4" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="4:26" />
+            <music base="0.65" />
+            <remix id="M-20241202T142410-2" />
+        </entry>
     </entry>
 </document>
