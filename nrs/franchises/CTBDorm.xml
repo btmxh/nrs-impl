@@ -37,6 +37,7 @@
             <remix id="M-20241202T142410-1" />
             <remix id="M-20241202T142410-2" />
             <remix id="M-20241202T142410-3" />
+            <remix id="M-20241202T142410-4" />
         </entry>
     </entry>
     <entry
@@ -403,6 +404,13 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <!-- c-word -->
             <nei base="0.5" emotions="MP" />
+        </entry>
+
+        <!-- painpeko someone please kill me -->
+        <entry id="$-4" title="Watashi no R (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="CU" />
         </entry>
 
         <!-- more to come... -->
