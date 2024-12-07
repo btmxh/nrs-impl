@@ -756,9 +756,8 @@
         </entry>
 
         <entry
-            id="M-20240718T032328"
-            title="Chouzetsu Azatoi Omaera no Hime / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
-            entrytype="MusicAlbum"
+            id="M-VGMDB-AL-142427"
+            title="Chozetsu Azatoi Omaera no Hime / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
         >
             <visual type="albumArt" base="0.4" unique="0.6" />
 
@@ -951,7 +950,7 @@
             <entry id="$-4" title="Fukutsu no Idol">
                 <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <remix id="M-20240718T032328-3" />
+                <remix id="M-VGMDB-AL-142427-3" />
                 <music base="0.65" />
                 <musicConsumedProgress length="3:54" />
             </entry>
