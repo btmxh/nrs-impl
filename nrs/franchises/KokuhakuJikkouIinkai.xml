@@ -427,6 +427,8 @@
             <aei base="0.1" emotions="MP-0.3:CU-0.7" />
             <featureMusic id="M-VGMDB-AL-61577-1" />
             <featureMusic id="M-20221225T015456" />
+            <remix id="M-20240815T041131-2" />
+            <remix id="L-20241109T062928" />
         </entry>
 
         <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta.">
@@ -452,6 +454,7 @@
             <featureMusic id="M-VGMDB-AL-120871-5" />
             <featureMusic id="M-VGMDB-AL-91835-12" />
             <featureMusic id="M-VGMDB-AL-91835-17" />
+            <remix id="M-20240815T041131-9" />
         </entry>
 
         <entry
@@ -497,6 +500,7 @@
 
             <!-- no way post-modern (not rst-inspired) cp-based anime!1! -->
             <nei base="0.5" emotions="CP" />
+            <remix id="L-20241109T062928" />
         </entry>
 
         <!-- skibidi toilet brainrot incoming -->
@@ -1045,8 +1049,14 @@
             <!-- me not interacting much with them. -->
 
             <!-- This is the sequel to the failure known as the Neo-Ayumu Era. -->
-            <!-- Three year after a merely idol anime unexpectedly changing the world -->
+            <!-- Three year after a mere idol anime unexpectedly changing the world -->
             <!-- Another seasonal anime is going to steal the show... -->
+
+            <!-- tpa slop -->
+            <remix id="L-20241109T062928" />
+            <remix id="M-20240815T044532-1" />
+            <remix id="M-20240815T044532-2" />
+            <remix id="M-20240815T044532-4" />
         </entry>
     </entry>
 
@@ -1093,6 +1103,10 @@
             />
 
             <featureMusic id="M-VGMDB-AL-132951-1" />
+
+            <!-- tpa slop -->
+            <remix id="M-20240815T044532-1" />
+            <remix id="M-20240815T044532-5" />
         </entry>
 
         <entry
