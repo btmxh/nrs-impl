@@ -325,6 +325,17 @@
             <visual type="animated" base="0.4" unique="0.8" />
         </entry>
 
+        <entry id="A-MAL-56653" title="BanG Dream! Ave Mujica">
+            <!-- absolute cinema -->
+            <bestGirl name="Mutsumi Wakaba" />
+            <visual type="animated" base="0.3" unique="0.5" />
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="0"
+            />
+        </entry>
+
         <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
             <source generatedBy="anime.ts 822494e-66345708">
                 <mal id="51989" />
