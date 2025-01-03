@@ -325,6 +325,32 @@
             <visual type="animated" base="0.4" unique="0.8" />
         </entry>
 
+        <entry id="A-MAL-56653" title="BanG Dream! Ave Mujica">
+            <source>
+                <mal id="56653" />
+                <al id="169295" />
+                <ks id="47943" />
+                <adb id="18194" />
+            </source>
+            <!-- absolute cinema -->
+            <bestGirl name="Mutsumi Wakaba" />
+            <visual type="animated" base="0.3" unique="0.5" />
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="1"
+            />
+            <!-- sakiko's dad is the absolute state of our empire gg -->
+            <!-- killing myself right fucking now -->
+            <!-- stream alice -->
+            <!-- stream rolling girl -->
+            <!-- stream watashi no aaru -->
+            <aei base="0.5" emotions="MU" />
+
+            <!-- nice plot twist peak writing -->
+            <nei base="0.25" emotions="AP" />
+        </entry>
+
         <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
             <source generatedBy="anime.ts 822494e-66345708">
                 <mal id="51989" />
