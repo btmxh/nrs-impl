@@ -338,7 +338,7 @@
             <animeConsumedProgress
                 status="Watching"
                 boredom="1.0"
-                episodes="1"
+                episodes="2"
             />
             <!-- sakiko's dad is the absolute state of our empire gg -->
             <!-- killing myself right fucking now -->
@@ -349,6 +349,9 @@
 
             <!-- nice plot twist peak writing -->
             <nei base="0.25" emotions="AP" />
+
+            <!-- muuko noooooooo -->
+            <nei base="0.2" emotions="AU"></nei>
         </entry>
 
         <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
