@@ -351,8 +351,13 @@
             <nei base="0.25" emotions="AP" />
 
             <!-- muuko noooooooo -->
-            <nei base="0.2" emotions="AU"></nei>
+            <nei base="0.2" emotions="AU" />
         </entry>
+
+        <meme strength="1.0" from="2024-02-01" to="today">
+            <contributor id="A-MAL-56653" factor="0.8" />
+            <contributor id="A-MAL-54959" factor="0.2" />
+        </meme>
 
         <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
             <source generatedBy="anime.ts 822494e-66345708">
