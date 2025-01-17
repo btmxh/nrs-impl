@@ -91,6 +91,10 @@
                 <!-- accompanying eis are all of the above, the Koikake* impacts of vocaloid, etc. -->
                 <validatorSuppress rules="dah-lone-pads" />
             </pads>
+            <!-- tpa slop -->
+            <remix id="M-20240815T044532-1" />
+            <remix id="M-20240815T044532-2" />
+            <remix id="M-20240815T044532-3" />
         </entry>
 
         <entry
