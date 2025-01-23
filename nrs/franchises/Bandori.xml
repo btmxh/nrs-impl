@@ -338,7 +338,7 @@
             <animeConsumedProgress
                 status="Watching"
                 boredom="1.0"
-                episodes="2"
+                episodes="4"
             />
             <!-- sakiko's dad is the absolute state of our empire gg -->
             <!-- killing myself right fucking now -->
@@ -352,12 +352,27 @@
 
             <!-- muuko noooooooo -->
             <nei base="0.2" emotions="AU" />
+
+            <!-- peak storywriting in ep 4 -->
+            <epi base="1.0" />
+
+            <!-- genuine horror -->
+            <aei base="0.5" emotions="MU" />
+
+            <!-- ngl i really relate to mortis/muuko -->
+            <nei base="0.5" emotions="CU-0.5:MP-0.5" />
         </entry>
 
         <meme strength="1.0" from="2025-02-01" to="today">
             <contributor id="A-MAL-56653" factor="0.8" />
             <contributor id="A-MAL-54959" factor="0.2" />
         </meme>
+
+        <!-- avemygo basically serves as the foundation of the ideology in novelslop btw -->
+        <politics>
+            <contributor id="A-MAL-56653" factor="0.5" />
+            <contributor id="A-MAL-54959" factor="0.5" />
+        </politics>
 
         <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
             <source generatedBy="anime.ts 822494e-66345708">
