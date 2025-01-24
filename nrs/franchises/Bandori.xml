@@ -335,7 +335,7 @@
             <!-- absolute cinema -->
             <!-- <bestGirl name="Mutsumi Wakaba" /> -->
             <bestGirl name="Mortis" />
-            <waifu from="2025-01-23" to="today"></waifu>
+            <waifu from="2025-01-23" to="today" />
             <visual type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress
                 status="Watching"
