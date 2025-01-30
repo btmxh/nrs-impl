@@ -30,7 +30,7 @@ jobs:
         with:
           repository: "btmxh/nrs-validator"
           path: "temp/nrs-validator"
-          branch: "pr19"
+          ref: "pr19"
       - name: Generate bulk.json
         run: deno task generate
       - name: Run the validator
