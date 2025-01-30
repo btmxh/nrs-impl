@@ -362,7 +362,12 @@
             <!-- ngl i really relate to mortis/muuko -->
             <nei base="0.5" emotions="CU-0.5:MP-0.5" />
 
-            <writing character="0.9" story="0.9" pacing="0.8" originality="0.9" />
+            <writing
+                character="0.9"
+                story="0.9"
+                pacing="0.8"
+                originality="0.9"
+            />
         </entry>
 
         <meme strength="1.0" from="2025-02-01" to="today">
