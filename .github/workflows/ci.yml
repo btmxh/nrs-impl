@@ -28,8 +28,9 @@ jobs:
       - name: Checkout validator repository
         uses: actions/checkout@v4
         with:
-          repository: "ngoduyanh/nrs-validator"
+          repository: "btmxh/nrs-validator"
           path: "temp/nrs-validator"
+          branch: "pr19"
       - name: Generate bulk.json
         run: deno task generate
       - name: Run the validator
