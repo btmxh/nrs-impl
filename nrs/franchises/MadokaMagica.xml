@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- also include MagiReco -->
 
@@ -115,6 +115,7 @@
             <featureMusic id="M-VGMDB-AL-30302-2" />
             <featureMusic id="M-VGMDB-AL-24725-4" />
             <featureMusic id="M-VGMDB-AL-39170-2" />
+            <writing character="0.6" story="0.8" pacing="0.8" originality="0.9"></writing>
         </entry>
 
         <entry
@@ -140,6 +141,7 @@
             <visual type="animated" base="0.35" unique="0.6" />
 
             <featureMusic id="M-VGMDB-AL-41292-1" />
+            <writing character="0.8" story="0.8" pacing="0.8" originality="0.8"></writing>
         </entry>
 
         <waifu waifu="Tamaki Iroha" from="2020-02-14" to="2020-08-14">
@@ -229,6 +231,7 @@
             <!-- GateOpen("GF-VGMDB-7059") -->
 
             <featureMusic id="M-VGMDB-AL-95029-1" />
+            <writing character="0.5" story="0.7" pacing="0.7" originality="0.6"></writing>
         </entry>
 
         <entry
@@ -263,6 +266,7 @@
 
             <!-- OP -->
             <featureMusic id="M-VGMDB-AL-113295-1" />
+            <writing character="0.3" story="0.7" pacing="0.7" originality="0.6"></writing>
         </entry>
 
         <entry
@@ -293,6 +297,7 @@
             <featureMusic id="M-VGMDB-AL-113295-1" />
             <!-- first madomagi thing to be cucked by rst -->
             <killedBy id="F-VGMDB-7059" potential="0.75" effect="0.75" />
+            <writing character="0.3" story="0.7" pacing="0.7" originality="0.6"></writing>
         </entry>
     </entry>
 
