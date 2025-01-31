@@ -121,7 +121,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.6" unique="0.4" />
-            <writing character="0.3" story="0.4" pacing="0.8" originality="0.7"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-32038" title="Show By Rock!! #">
@@ -152,7 +157,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.6" unique="0.4" />
-            <writing character="0.3" story="0.4" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-40763" title="Show By Rock!! Mashumairesh!!">
@@ -188,7 +198,12 @@
                 boredom="1.0"
                 episodes="12"
             />
-            <writing character="0.3" story="0.4" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-41520" title="Show by Rock!! Stars!!">
@@ -236,7 +251,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.65" unique="0.4" />
-            <writing character="0.3" story="0.4" pacing="0.7" originality="0.6"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.7"
+                originality="0.6"
+            />
         </entry>
 
         <!-- fes a live has fhana songs lmao -->
@@ -1020,6 +1040,8 @@
         <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">
             <!-- AllSB69Tracks.keys.forEach { Feature<music base="it" /> } -->
             <visual type="gachaCardArt" base="0.4" unique="0.3" />
+            <!-- i mean i cant read the story -->
+            <validatorSuppress rules="dah-no-writing-impact" />
         </entry>
     </entry>
 

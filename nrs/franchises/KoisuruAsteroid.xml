@@ -18,11 +18,16 @@
             <visual type="animated" base="0.8" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-93329-1" />
             <featureMusic id="M-VGMDB-AL-93338-1" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-93329-1" />
         <contains id="M-VGMDB-AL-93338-1" />
-        <writing character="0.4" story="0.4" pacing="0.8" originality="0.4"></writing>
     </entry>
 
     <entry id="M-VGMDB-AL-93338" title="Yozora / Minori Suzuki">

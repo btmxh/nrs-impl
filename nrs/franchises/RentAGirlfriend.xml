@@ -17,7 +17,12 @@
             />
             <dropped />
             <visual type="animated" base="0.5" unique="0.2" />
-            <writing character="0.2" story="0.2" pacing="0.8" originality="0.4"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
     </entry>
 </document>

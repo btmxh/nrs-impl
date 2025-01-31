@@ -53,7 +53,12 @@
                 episodes="13"
             />
             <featureMusic id="M-VGMDB-AL-62516-1" />
-            <writing character="0.4" story="0.6" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
     </entry>
 </document>

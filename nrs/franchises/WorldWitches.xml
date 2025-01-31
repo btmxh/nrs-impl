@@ -20,7 +20,12 @@
             />
             <killedBy id="F-VGMDB-694" potential="0.25" effect="0.5" />
             <visual type="animated" base="0.2" unique="0.75" />
-            <writing character="0.4" story="0.4" pacing="0.7" originality="0.8"></writing>
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-32866" title="Brave Witches">
@@ -50,7 +55,12 @@
             />
             <killedBy id="F-VGMDB-694" potential="0.25" effect="0.5" />
             <visual type="animated" base="0.3" unique="0.5" />
-            <writing character="0.4" story="0.4" pacing="0.7" originality="0.7"></writing>
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
         <!-- meta witch(es) 2022 -->
@@ -91,7 +101,12 @@
             <featureMusic id="M-VGMDB-AL-120491" />
             <featureMusic id="M-VGMDB-AL-120492" />
             <featureMusic id="M-VGMDB-AL-121418" />
-            <writing character="0.4" story="0.4" pacing="0.7" originality="0.8"></writing>
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry

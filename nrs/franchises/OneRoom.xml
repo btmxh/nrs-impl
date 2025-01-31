@@ -49,7 +49,12 @@
             <dropped />
             <visual type="animated" base="0.5" unique="0.25" />
             <featureMusic id="M-VGMDB-AL-63666-1" />
-            <writing character="0.1" story="0.1" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.1"
+                story="0.1"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
     </entry>
 

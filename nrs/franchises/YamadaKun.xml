@@ -18,10 +18,15 @@
                 episodes="12"
             />
             <visual type="animated" base="0.5" unique="0.3" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-51918-1" />
         <contains id="M-VGMDB-AL-52045-1" />
-        <writing character="0.4" story="0.4" pacing="0.8" originality="0.8"></writing>
     </entry>
 </document>

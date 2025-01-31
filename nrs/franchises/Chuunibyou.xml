@@ -42,7 +42,12 @@
                 boredom="1.0"
                 episodes="12"
             />
-            <writing character="0.6" story="0.4" pacing="0.6" originality="0.75"></writing>
+            <writing
+                character="0.6"
+                story="0.4"
+                pacing="0.6"
+                originality="0.75"
+            />
         </entry>
 
         <entry id="A-MAL-18671" title="Chuunibyou demo Koi ga Shitai! Ren">
@@ -66,7 +71,12 @@
             <visual type="animated" base="0.6" unique="0.2" />
 
             <featureMusic id="M-VGMDB-AL-42762-1" />
-            <writing character="0.6" story="0.4" pacing="0.6" originality="0.65"></writing>
+            <writing
+                character="0.6"
+                story="0.4"
+                pacing="0.6"
+                originality="0.65"
+            />
         </entry>
 
         <entry
@@ -90,7 +100,12 @@
             <!-- separate from s1/2 because it was watched later -->
             <nei base="0.75" emotions="AP" />
             <visual type="animated" base="0.6" unique="0.2" />
-            <writing character="0.5" story="0.3" pacing="0.6" originality="0.65"></writing>
+            <writing
+                character="0.5"
+                story="0.3"
+                pacing="0.6"
+                originality="0.65"
+            />
         </entry>
     </entry>
 </document>

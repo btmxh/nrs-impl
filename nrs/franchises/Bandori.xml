@@ -236,7 +236,12 @@
             <featureMusic id="M-VGMDB-AL-63624-1" />
             <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.5" />
 
-            <writing character="0.3" story="0.3" pacing="0.5" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.5"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-37869" title="BanG Dream! 2nd Season">
@@ -264,7 +269,12 @@
             <dropped />
             <featureMusic id="M-VGMDB-AL-81504-1" />
             <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
-            <writing character="0.2" story="0.2" pacing="0.4" originality="0.4"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.4"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-37870" title="BanG Dream! 3rd Season">
@@ -288,7 +298,12 @@
             <!-- im edging to the moment when rokka joins ras -->
             <!-- the RAS stuff is just so peak -->
             <aei base="0.5" emotions="AP-0.5:CP-0.5" />
-            <writing character="0.2" story="0.2" pacing="0.4" originality="0.4"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.4"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-54959" title="BanG Dream! It's MyGO!!!!!">
@@ -328,7 +343,12 @@
             />
             <visual type="animated" base="0.4" unique="0.8" />
 
-            <writing character="0.9" story="0.9" pacing="0.9" originality="0.9"></writing>
+            <writing
+                character="0.9"
+                story="0.9"
+                pacing="0.9"
+                originality="0.9"
+            />
         </entry>
 
         <entry id="A-MAL-56653" title="BanG Dream! Ave Mujica">
@@ -417,7 +437,12 @@
             <!-- yapper -->
             <nei base="0.2" emotions="CP" />
 
-            <writing character="0.2" story="0.2" pacing="0.4" originality="0.35"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.4"
+                originality="0.35"
+            />
         </entry>
     </entry>
 

@@ -37,7 +37,12 @@
                 <music base="0.38" />
                 <role id="M-VGMDB-AR-15361" roles="vocal+image_feat" />
             </entry>
-            <writing character="0.3" story="0.3" pacing="0.6" originality="0.3"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.6"
+                originality="0.3"
+            />
         </entry>
 
         <entry
@@ -68,7 +73,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.4" unique="0.15" />
-            <writing character="0.3" story="0.3" pacing="0.6" originality="0.3"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.6"
+                originality="0.3"
+            />
         </entry>
     </entry>
 </document>

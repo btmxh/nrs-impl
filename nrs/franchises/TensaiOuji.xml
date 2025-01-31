@@ -28,7 +28,12 @@
             <killedBy id="F-VGMDB-9540" potential="0.05" effect="0.05" />
             <killedBy id="F-VGMDB-7059" potential="0.05" effect="0.05" />
             <killedBy id="F-VGMDB-4499" potential="0.05" effect="0.2" />
-            <writing character="0.3" story="0.4" pacing="0.6" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.6"
+                originality="0.5"
+            />
         </entry>
 
         <entry

@@ -32,7 +32,12 @@
                 episodeDuration="3:00"
             />
             <visual type="animatedShort" base="0.4" unique="0.2" />
-            <writing character="0.2" story="0.2" pacing="0.5" originality="0.2"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.2"
+            />
         </entry>
 
         <entry

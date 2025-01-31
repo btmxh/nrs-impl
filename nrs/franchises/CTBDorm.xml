@@ -32,7 +32,12 @@
             <!-- (not that bad, but yeah) -->
             <!-- also 11 days left until one year anniversary of that thread! -->
             <meme from="2024-09-01" to="today" strength="0.75" />
-            <writing character="0.75" story="0.5" pacing="0.0" originality="0.5"></writing>
+            <writing
+                character="0.75"
+                story="0.5"
+                pacing="0.0"
+                originality="0.5"
+            />
         </entry>
     </entry>
     <entry

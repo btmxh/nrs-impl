@@ -18,7 +18,12 @@
             <dropped />
             <visual type="animated" base="0.4" unique="0.1" />
             <featureMusic id="M-VGMDB-AL-77471-1" />
-            <writing character="0.2" story="0.2" pacing="0.5" originality="0.9"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.9"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-77471-1" />

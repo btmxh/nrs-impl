@@ -45,7 +45,12 @@
 
             <!-- tpa slop -->
             <remix id="M-20240815T044532-6" />
-            <writing character="0.7" story="0.8" pacing="0.7" originality="0.8"></writing>
+            <writing
+                character="0.7"
+                story="0.8"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry

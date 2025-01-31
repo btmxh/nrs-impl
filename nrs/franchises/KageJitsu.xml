@@ -78,7 +78,12 @@
                 episodes="20"
             />
 
-            <writing character="0.6" story="0.8" pacing="0.8" originality="0.7"></writing>
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.8"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-122851" title="Darling in the Night / Shichikage">
@@ -129,7 +134,12 @@
             <dropped />
             <!-- no sherry kekwing -->
             <visual type="animated" base="0.3" unique="0.4" />
-            <writing character="0.6" story="0.8" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
     </entry>
 </document>

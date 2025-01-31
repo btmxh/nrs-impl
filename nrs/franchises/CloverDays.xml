@@ -18,7 +18,12 @@
             <nei base="0.25" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-45544-40" />
             <killedBy id="F-20221128T123502" potential="0.5" effect="1.0" />
-            <writing character="0.4" story="0.3" pacing="0.6" originality="0.7"></writing>
+            <writing
+                character="0.4"
+                story="0.3"
+                pacing="0.6"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-45544" title="Clover Day's ORIGINAL SOUNDTRACKS">

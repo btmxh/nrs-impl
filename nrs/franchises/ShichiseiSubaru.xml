@@ -23,7 +23,12 @@
             <visual type="animated" base="0.6" unique="0.2" />
 
             <featureMusic id="M-VGMDB-AL-78478-1" />
-            <writing character="0.3" story="0.4" pacing="0.7" originality="0.7"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-78478-1" />

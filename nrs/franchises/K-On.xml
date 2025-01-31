@@ -79,7 +79,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.65" unique="0.2" />
-            <writing character="0.4" story="0.5" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.4"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-7791" title="K-On!!">
@@ -99,7 +104,12 @@
             <featureMusic id="M-VGMDB-AL-21146-9" />
             <featureMusic id="M-VGMDB-AL-22848-2" />
             <visual type="animated" base="0.65" unique="0.2" />
-            <writing character="0.4" story="0.5" pacing="0.8" originality="0.7"></writing>
+            <writing
+                character="0.4"
+                story="0.5"
+                pacing="0.8"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-9617" title="K-On! Movie">
@@ -119,7 +129,12 @@
             />
             <featureMusic id="M-VGMDB-AL-21146-9" />
             <visual type="animated" base="0.65" unique="0.2" />
-            <writing character="0.4" story="0.5" pacing="0.8" originality="0.7"></writing>
+            <writing
+                character="0.4"
+                story="0.5"
+                pacing="0.8"
+                originality="0.7"
+            />
         </entry>
     </entry>
 </document>

@@ -31,7 +31,12 @@
 
             <!-- omegasad -->
             <!-- <killedBy id="A-MAL-4181" potential="0.3" effect="1.0" /> -->
-            <writing character="0.5" story="0.5" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-4181" title="Clannad: After Story">
@@ -75,7 +80,12 @@
                 episodes="24"
             />
             <visual type="animated" base="0.5" unique="0.75" />
-            <writing character="0.7" story="0.5" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.7"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <!-- we have humor ig -->

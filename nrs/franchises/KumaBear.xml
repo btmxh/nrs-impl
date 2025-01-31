@@ -20,7 +20,12 @@
                 boredom="0.9"
                 episodes="12"
             />
-            <writing character="0.3" story="0.3" pacing="0.7" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-45486" title="Kuma Kuma Kuma Bear Punch">
@@ -42,7 +47,12 @@
                 boredom="0.9"
                 episodes="12"
             />
-            <writing character="0.3" story="0.3" pacing="0.7" originality="0.4"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
     </entry>
 </document>

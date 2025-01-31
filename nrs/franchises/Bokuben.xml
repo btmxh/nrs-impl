@@ -20,7 +20,12 @@
             />
             <visual type="animated" base="0.4" unique="0.7" />
             <featureMusic id="M-VGMDB-AL-85537-1" />
-            <writing character="0.4" story="0.6" pacing="0.6" originality="0.5"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.6"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-40004" title="Bokutachi wa Benkyou ga Dekinai!">
@@ -44,7 +49,12 @@
             />
             <visual type="animated" base="0.4" unique="0.7" />
             <featureMusic id="M-VGMDB-AL-88884-1" />
-            <writing character="0.4" story="0.6" pacing="0.6" originality="0.4"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.6"
+                originality="0.4"
+            />
         </entry>
 
         <entry

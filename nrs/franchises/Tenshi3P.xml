@@ -21,7 +21,12 @@
             />
             <featureMusic id="M-VGMDB-AL-68189-1" />
             <featureMusic id="M-VGMDB-AL-69018-1" />
-            <writing character="0.3" story="0.4" pacing="0.6" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.6"
+                originality="0.5"
+            />
         </entry>
 
         <entry

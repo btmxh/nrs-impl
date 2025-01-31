@@ -32,7 +32,12 @@
             <meme strength="0.8" length="25" />
             <killedBy id="V-VNDB-27448" potential="0.1" effect="0.1" />
 
-            <writing character="0.3" story="0.4" pacing="0.5" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.5"
+                originality="0.5"
+            />
         </entry>
 
         <entry

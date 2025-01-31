@@ -96,7 +96,12 @@
             <remix id="M-20240815T044532-2" />
             <remix id="M-20240815T044532-3" />
 
-            <writing character="0.8" story="0.6" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.8"
+                story="0.6"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry

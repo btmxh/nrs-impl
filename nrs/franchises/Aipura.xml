@@ -31,7 +31,12 @@
                 boredom="1.0"
                 episodes="12"
             />
-            <writing character="0.3" story="0.35" pacing="0.5" originality="0.3"></writing>
+            <writing
+                character="0.3"
+                story="0.35"
+                pacing="0.5"
+                originality="0.3"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-106487" title="IDOLY PRIDE / Hoshimi Production">

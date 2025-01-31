@@ -31,7 +31,12 @@
             <nei base="0.75" emotions="AP" />
 
             <featureMusic id="M-VGMDB-AL-96350-1" />
-            <writing character="0.5" story="0.5" pacing="0.6" originality="0.8"></writing>
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.6"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -58,7 +63,12 @@
             <!-- down bad and horrendous individuals -->
             <!-- haha bakarina -->
             <nei base="0.5" emotions="AP" />
-            <writing character="0.5" story="0.5" pacing="0.6" originality="0.7"></writing>
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.6"
+                originality="0.7"
+            />
         </entry>
 
         <entry

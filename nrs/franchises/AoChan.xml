@@ -17,7 +17,12 @@
             <dropped />
             <visual type="animatedShort" base="0.6" unique="0.4" />
             <featureMusic id="M-VGMDB-AL-85759-1" />
-            <writing character="0.2" story="0.2" pacing="0.5" originality="0.8"></writing>
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-85759" title="WONDERFUL WONDER / EDOGA-SULLIVAN">

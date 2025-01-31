@@ -21,7 +21,12 @@
 
             <aei base="0.2" emotions="AP" />
             <visual type="animated" base="0.3" unique="0.4" />
-            <writing character="0.3" story="0.8" pacing="0.7" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.8"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
         <entry id="A-MAL-54743" title="Dead Mount Death Play Part 2">
             <source>
@@ -43,7 +48,12 @@
 
             <nei base="0.8" emotions="AP" />
             <visual type="animated" base="0.3" unique="0.4" />
-            <writing character="0.3" story="0.8" pacing="0.7" originality="0.4"></writing>
+            <writing
+                character="0.3"
+                story="0.8"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-128255" title="Nero / Sou">

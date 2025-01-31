@@ -19,7 +19,7 @@
 
         <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
         <visual type="animated" base="0.4" unique="0.6" />
-        <writing character="0.5" story="0.4" pacing="0.8" originality="0.8"></writing>
+        <writing character="0.5" story="0.4" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry
@@ -45,7 +45,7 @@
         <!-- focus on [trust], somewhat interesting -->
         <!-- idk will this be able to continued to other eps tho -->
         <nei base="0.2" emotions="AP" />
-        <writing character="0.5" story="0.5" pacing="0.8" originality="0.6"></writing>
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.6" />
     </entry>
 
     <!-- ngl this is way better than previous season -->
@@ -87,7 +87,12 @@
             />
             <featureMusic id="M-VGMDB-AL-125425-1" />
             <featureMusic id="M-VGMDB-AL-125426-1" />
-            <writing character="0.5" story="0.5" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-125425" title="DAY1 / AUO feat. MORISAKI WIN">

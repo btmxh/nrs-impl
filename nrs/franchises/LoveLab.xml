@@ -19,7 +19,12 @@
             />
             <nei base="0.5" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-40263-1" />
-            <writing character="0.5" story="0.4" pacing="0.7" originality="0.5"></writing>
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-40263" title="Love Lab Vol.2 Bonus CD">

@@ -133,7 +133,12 @@
             <!-- ig this is killed somewhat similarly to luminous witches -->
             <killedBy id="F-VGMDB-7059" potential="0.5" effect="0.25" />
 
-            <writing character="0.3" story="0.3" pacing="0.4" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.4"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -180,7 +185,12 @@
                 boredom="1.0"
                 duration="50:00:00"
             />
-            <writing character="0.3" story="0.3" pacing="0.4" originality="0.6"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.4"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -205,7 +215,12 @@
             <!-- i hate "bủ nio" (it's a meme lol) -->
             <nei base="0.8" emotions="AU-0.5:AP-0.5" />
             <!-- peak cinema -->
-            <writing character="0.4" story="0.3" pacing="0.4" originality="0.6"></writing>
+            <writing
+                character="0.4"
+                story="0.3"
+                pacing="0.4"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -229,7 +244,12 @@
             />
             <!-- blame nozsists lmfao -->
             <dropped />
-            <writing character="0.3" story="0.3" pacing="0.4" originality="0.6"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.4"
+                originality="0.6"
+            />
         </entry>
 
         <entry

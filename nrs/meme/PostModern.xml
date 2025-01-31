@@ -69,7 +69,7 @@
         <validatorSuppress rules="dah-no-best-girl" />
 
         <nei base="0.5" emotions="AP" />
-        <writing character="0.2" story="0.5" pacing="0.5" originality="0.9"></writing>
+        <writing character="0.2" story="0.5" pacing="0.5" originality="0.9" />
     </entry>
 
     <!-- localism -->

@@ -133,7 +133,12 @@
                 boredom="1.0"
                 episodes="13"
             />
-            <writing character="0.8" story="0.5" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.8"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -167,7 +172,12 @@
                 boredom="1.0"
                 episodes="13"
             />
-            <writing character="0.8" story="0.5" pacing="0.7" originality="0.7"></writing>
+            <writing
+                character="0.8"
+                story="0.5"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
         <entry
@@ -204,7 +214,12 @@
                 boredom="1.0"
                 episodes="12"
             />
-            <writing character="0.8" story="0.5" pacing="0.7" originality="0.8"></writing>
+            <writing
+                character="0.8"
+                story="0.5"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
     </entry>
 </document>

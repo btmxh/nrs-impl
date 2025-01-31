@@ -49,7 +49,12 @@
             />
             <ehi />
             <visual type="animated" base="0.5" unique="0.3" />
-            <writing character="0.7" story="0.5" pacing="0.8" originality="0.7"></writing>
+            <writing
+                character="0.7"
+                story="0.5"
+                pacing="0.8"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-30727" title="Saenai Heroine no Sodatekata ♭">
@@ -67,7 +72,12 @@
             />
             <ehi />
             <visual type="animated" base="0.5" unique="0.3" />
-            <writing character="0.7" story="0.5" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.7"
+                story="0.5"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-36885" title="Saenai Heroine no Sodatekata Fine">
@@ -87,7 +97,12 @@
                 episodeDuration="1:54:00"
             />
             <visual type="animated" base="0.55" unique="0.3" />
-            <writing character="0.7" story="0.5" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.7"
+                story="0.5"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
     </entry>
 

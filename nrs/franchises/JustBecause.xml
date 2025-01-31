@@ -19,7 +19,12 @@
             <aei base="0.5" emotions="CU" />
             <featureMusic id="M-VGMDB-AL-70716-1" />
             <visual type="animated" base="0.4" unique="0.6" />
-            <writing character="0.4" story="0.4" pacing="0.5" originality="0.6"></writing>
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.5"
+                originality="0.6"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-70716-1" />

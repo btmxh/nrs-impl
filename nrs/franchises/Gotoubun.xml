@@ -21,7 +21,12 @@
             <aei base="0.5" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-82284" />
-            <writing character="0.7" story="0.7" pacing="0.6" originality="0.4"></writing>
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.6"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-39783" title="5-toubun no Hanayome ∬">
@@ -44,7 +49,12 @@
             <!-- but it actually is -->
             <aei base="0.25" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.5" />
-            <writing character="0.7" story="0.7" pacing="0.6" originality="0.3"></writing>
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.6"
+                originality="0.3"
+            />
         </entry>
 
         <entry

@@ -46,7 +46,12 @@
             <!-- duopoly shithole moment -->
             <killedBy id="F-VGMDB-4499" potential="0.25" effect="0.25" />
             <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.75" />
-            <writing character="0.6" story="0.6" pacing="0.5" originality="0.7"></writing>
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.5"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="M-VGMDB-AR-33857" title="AiRBLUE" />

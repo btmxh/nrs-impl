@@ -15,7 +15,12 @@
             <nei base="0.3" emotions="MP" />
             <nei base="0.4" emotions="AP" />
             <killedBy id="F-20221128T123502" potential="0.25" effect="1.0" />
-            <writing character="0.3" story="0.3" pacing="0.8" originality="0.3"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.8"
+                originality="0.3"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-67632" title="WAGAMAMA HIGHSPEC OC VOCAL ALBUM">

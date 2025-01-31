@@ -40,7 +40,12 @@
                 boredom="1.0"
                 episodes="22"
             />
-            <writing character="0.6" story="0.6" pacing="0.8" originality="0.9"></writing>
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.8"
+                originality="0.9"
+            />
         </entry>
 
         <entry

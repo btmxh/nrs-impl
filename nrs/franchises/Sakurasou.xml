@@ -31,7 +31,12 @@
             <visual type="animated" base="0.5" unique="0.4" />
 
             <featureMusic id="M-VGMDB-AL-35015-1" />
-            <writing character="0.8" story="0.7" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.8"
+                story="0.7"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry

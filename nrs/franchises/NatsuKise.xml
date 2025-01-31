@@ -19,7 +19,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.5" unique="0.4" />
-            <writing character="0.4" story="0.4" pacing="0.7" originality="0.6"></writing>
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -42,7 +47,12 @@
                 episodeDuration="7:00"
             />
             <visual type="animated" base="0.5" unique="0.4" />
-            <writing character="0.3" story="0.2" pacing="0.8" originality="0.4"></writing>
+            <writing
+                character="0.3"
+                story="0.2"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
     </entry>
 </document>

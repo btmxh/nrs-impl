@@ -69,7 +69,12 @@
             <featureMusic id="M-VGMDB-AL-83397-1" />
             <!-- domestic kanojo war arc -->
             <meme strength="0.25" length="90" />
-            <writing character="0.4" story="0.6" pacing="0.8" originality="0.6"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <!-- these are ranked just to help to carry the AEI for s1 -->
@@ -95,7 +100,12 @@
                 episodes="0"
             />
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <writing character="0.4" story="0.6" pacing="0.8" originality="0.5"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -123,7 +133,12 @@
                 episodes="0"
             />
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
-            <writing character="0.4" story="0.6" pacing="0.8" originality="0.5"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
     </entry>
 </document>

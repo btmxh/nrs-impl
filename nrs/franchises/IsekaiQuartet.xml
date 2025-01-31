@@ -22,7 +22,12 @@
                 boredom="0.5"
                 episodes="12"
             />
-            <writing character="0.2" story="0.3" pacing="0.5" originality="0.8"></writing>
+            <writing
+                character="0.2"
+                story="0.3"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-39988" title="Isekai Quartet 2">
@@ -46,7 +51,12 @@
                 episodes="12"
             />
             <dropped />
-            <writing character="0.2" story="0.3" pacing="0.5" originality="0.7"></writing>
+            <writing
+                character="0.2"
+                story="0.3"
+                pacing="0.5"
+                originality="0.7"
+            />
         </entry>
     </entry>
 </document>

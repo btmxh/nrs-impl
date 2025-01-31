@@ -19,7 +19,12 @@
             <nei base="0.5" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-70621-1" />
             <!-- <gateOpen id="F-VGMDB-3275" /> -->
-            <writing character="0.4" story="0.5" pacing="0.5" originality="0.8"></writing>
+            <writing
+                character="0.4"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <entry

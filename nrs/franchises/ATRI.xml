@@ -22,7 +22,12 @@
 
             <meme strength="0.5" length="10" />
             <featureMusic id="M-VGMDB-AL-100754" />
-            <writing character="0.4" story="0.6" pacing="0.8" originality="0.75"></writing>
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.8"
+                originality="0.75"
+            />
         </entry>
 
         <entry

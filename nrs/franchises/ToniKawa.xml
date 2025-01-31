@@ -19,7 +19,12 @@
             <dropped />
             <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
             <featureMusic id="M-VGMDB-AL-104618" />
-            <writing character="0.3" story="0.4" pacing="0.8" originality="0.8"></writing>
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry

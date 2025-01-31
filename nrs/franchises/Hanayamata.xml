@@ -25,7 +25,12 @@
             <!-- first ep aei -->
             <aei base="0.2" emotions="MP-0.3:CP-0.7" />
             <featureMusic id="M-VGMDB-AL-46235-1" />
-            <writing character="0.3" story="0.3" pacing="0.6" originality="0.4"></writing>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.6"
+                originality="0.4"
+            />
         </entry>
 
         <entry

@@ -33,7 +33,12 @@
                 episodes="13"
             />
             <visual type="animated" base="0.6" unique="0.4" />
-            <writing character="0.6" story="0.6" pacing="0.6" originality="0.6"></writing>
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.6"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-47402" title="Stargazer / Larval Stage Planning">

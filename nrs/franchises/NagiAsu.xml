@@ -50,7 +50,12 @@
             <featureMusic id="M-VGMDB-AL-42900-3" />
             <featureMusic id="M-VGMDB-AL-43164-1" />
             <featureMusic id="M-VGMDB-AL-45187" />
-            <writing character="0.6" story="0.8" pacing="0.7" originality="0.9"></writing>
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.7"
+                originality="0.9"
+            />
         </entry>
     </entry>
 </document>

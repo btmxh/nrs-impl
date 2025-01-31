@@ -20,10 +20,15 @@
 
             <visual type="animated" base="0.6" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-80341-1" />
+            <writing
+                character="0.6"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-80341-1" />
-        <writing character="0.6" story="0.5" pacing="0.5" originality="0.8"></writing>
     </entry>
 
     <entry id="M-VGMDB-AL-80341" title="17-sai / Haruka to Miyuki">
