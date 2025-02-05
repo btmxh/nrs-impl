@@ -117,7 +117,8 @@ async function fetchAuth(
       Authorization: "Bearer " + code,
     };
 
-    await delay(1000);
+    await delay(3000);
+
     const response = await fetch(input, init);
     if (response.status < 400) {
       return response;
@@ -134,7 +135,7 @@ async function fetchAuth(
     Authorization: "Bearer " + code,
   };
 
-  await delay(1000);
+  await delay(3000);
   return await fetch(input, init);
 }
 
