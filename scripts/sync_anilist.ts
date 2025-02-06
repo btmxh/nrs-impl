@@ -45,7 +45,7 @@ async function authenciate(): Promise<string> {
     },
     (req) => {
       const data = Object.fromEntries(new URL(req.url).searchParams.entries());
-      if(data.code) {
+      if (data.code) {
         code = data.code;
       }
       setTimeout(() => controller.abort(), 1000);
