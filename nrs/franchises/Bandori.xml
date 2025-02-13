@@ -364,7 +364,7 @@
             <animeConsumedProgress
                 status="Watching"
                 boredom="1.0"
-                episodes="6"
+                episodes="7"
             />
             <!-- sakiko's dad is the absolute state of our empire gg -->
             <!-- killing myself right fucking now -->
@@ -394,6 +394,8 @@
                 pacing="0.8"
                 originality="0.9"
             />
+            <!-- lets go crychic reunion masterclass -->
+            <nei base="0.5" emotions="CP"></nei>
         </entry>
 
         <meme strength="1.0" from="2025-02-01" to="today">
