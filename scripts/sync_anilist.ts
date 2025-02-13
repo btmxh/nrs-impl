@@ -45,7 +45,9 @@ async function authenciate(): Promise<string> {
     },
     (req) => {
       const data = Object.fromEntries(new URL(req.url).searchParams.entries());
-      code = data.code;
+      if (data.code) {
+        code = data.code;
+      }
       setTimeout(() => controller.abort(), 1000);
       return new Response("<script>window.close()</script>", {
         status: 200,
@@ -115,7 +117,8 @@ async function fetchAuth(
       Authorization: "Bearer " + code,
     };
 
-    await delay(1000);
+    await delay(3000);
+
     const response = await fetch(input, init);
     if (response.status < 400) {
       return response;
@@ -132,7 +135,7 @@ async function fetchAuth(
     Authorization: "Bearer " + code,
   };
 
-  await delay(1000);
+  await delay(3000);
   return await fetch(input, init);
 }
 
