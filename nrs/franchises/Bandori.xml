@@ -363,7 +363,7 @@
             <nei base="0.5" emotions="CU-0.5:MP-0.5" />
 
             <!-- lets go crychic reunion masterclass -->
-            <nei base="0.5" emotions="CP"></nei>
+            <nei base="0.5" emotions="CP" />
         </entry>
 
         <meme strength="1.0" from="2025-02-01" to="today">
