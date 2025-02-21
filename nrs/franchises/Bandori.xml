@@ -349,6 +349,9 @@
                 pacing="0.9"
                 originality="0.9"
             />
+
+            <featureMusic id="M-VGMDB-AL-129871-1" />
+            <featureMusic id="M-VGMDB-AL-129871-2" />
         </entry>
 
         <entry id="A-MAL-56653" title="BanG Dream! Ave Mujica">
@@ -368,7 +371,7 @@
             />
             <!-- sakiko's dad is the absolute state of our empire gg -->
             <!-- killing myself right fucking now -->
-            <!-- stream alice -->
+            <!-- stream alice (beat me to it lmfao) -->
             <!-- stream rolling girl -->
             <!-- stream watashi no aaru -->
             <aei base="0.5" emotions="MU" />
@@ -402,6 +405,33 @@
 
             <!-- sakidad song lmfao -->
             <remix id="M-20250221T163932-5" />
+            <featureMusic id="M-VGMDB-AL-144037" />
+        </entry>
+
+        <entry id="M-VGMDB-AL-129871" title="Hitoshizuku / MyGO!!!!!">
+            <visual type="albumArt" base="0.4" unique="0.6" />
+            <entry id="$-1" title="hitoshizuku">
+                <music base="0.65" />
+                <musicConsumedProgress length="3:09" />
+            </entry>
+
+            <entry id="$-2" title="shiori">
+                <music base="0.35" />
+                <musicConsumedProgress length="4:26" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AL-144037" title="KiLLKiSS / Ave Mujica">
+            <visual type="albumArt" base="0.4" unique="0.6" />
+            <entry id="$-1" title="KiLLKiSS">
+                <music base="0.65" />
+                <musicConsumedProgress length="3:29" />
+            </entry>
+
+            <entry id="$-2" title="Georgette Me, Georgette You">
+                <music base="0.6" />
+                <musicConsumedProgress length="3:55" />
+            </entry>
         </entry>
 
         <meme strength="1.0" from="2025-02-01" to="today">
