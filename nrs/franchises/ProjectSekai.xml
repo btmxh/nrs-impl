@@ -24,6 +24,13 @@
                 boredom="0.9"
                 duration="10:00:00"
             />
+
+            <writing
+                character="0.7"
+                story="0.6"
+                pacing="0.5"
+                originality="0.2"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-110345" title="needLe/Stella / Leo/need">

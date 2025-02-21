@@ -526,14 +526,22 @@
         </entry>
     </entry>
 
-    <entry id="M-20250221T171218" title="Alice in Reitouko">
+    <entry
+        id="M-20250221T171218"
+        title="Alice in Reitouko"
+        entrytype="MusicTrack"
+    >
         <visual type="staticMV" base="0.3" unique="0.5" />
         <music base="0.7" />
         <musicConsumedProgress length="5:44" />
         <remix id="M-20250221T171421" />
     </entry>
 
-    <entry id="M-20250221T171421" title="Alice in Reitouko (shiho ver.)">
+    <entry
+        id="M-20250221T171421"
+        title="Alice in Reitouko (shiho ver.)"
+        entrytype="MusicTrack"
+    >
         <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
         <music base="0.75" />
         <musicConsumedProgress length="5:28" />

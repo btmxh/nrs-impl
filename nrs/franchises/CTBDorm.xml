@@ -425,7 +425,11 @@
     <!-- YOOOOOO -->
     <!-- WYSI THE NUMBER 621 -->
     <!-- THE SUICIDE NUMBER WHEN YOU FUCKING SEE IT -->
-    <entry id="M-20250221T163932" title="From the 621st floor, with nothing">
+    <entry
+        id="M-20250221T163932"
+        title="From the 621st floor, with nothing"
+        entrytype="MusicAlbum"
+    >
         <!-- shamelessly re-releasing smh -->
         <contains id="M-20240821T213821-1" />
         <contains id="M-20241202T142410-4" />
