@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- here we have releases of ctb girls dorm W -->
 <document>
     <entry
@@ -38,6 +38,12 @@
             <remix id="M-20241202T142410-2" />
             <remix id="M-20241202T142410-3" />
             <remix id="M-20241202T142410-4" />
+            <writing
+                character="0.75"
+                story="0.5"
+                pacing="0.0"
+                originality="0.5"
+            />
         </entry>
     </entry>
     <entry

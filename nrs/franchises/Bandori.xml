@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- gen1 sb69 -->
     <entry id="F-VGMDB-5173" title="BanG Dream!">
@@ -235,6 +235,13 @@
 
             <featureMusic id="M-VGMDB-AL-63624-1" />
             <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.5" />
+
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.5"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-37869" title="BanG Dream! 2nd Season">
@@ -262,6 +269,12 @@
             <dropped />
             <featureMusic id="M-VGMDB-AL-81504-1" />
             <killedBy id="F-VGMDB-2588" potential="0.2" effect="0.5" />
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.4"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-37870" title="BanG Dream! 3rd Season">
@@ -285,6 +298,12 @@
             <!-- im edging to the moment when rokka joins ras -->
             <!-- the RAS stuff is just so peak -->
             <aei base="0.5" emotions="AP-0.5:CP-0.5" />
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.4"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-54959" title="BanG Dream! It's MyGO!!!!!">
@@ -323,7 +342,75 @@
                 episodes="13"
             />
             <visual type="animated" base="0.4" unique="0.8" />
+
+            <writing
+                character="0.9"
+                story="0.9"
+                pacing="0.9"
+                originality="0.9"
+            />
         </entry>
+
+        <entry id="A-MAL-56653" title="BanG Dream! Ave Mujica">
+            <source>
+                <mal id="56653" />
+                <al id="169295" />
+                <ks id="47943" />
+                <adb id="18194" />
+            </source>
+            <!-- absolute cinema -->
+            <bestGirl name="Mutsumi Wakaba" />
+            <visual type="animated" base="0.3" unique="0.5" />
+            <animeConsumedProgress
+                status="Watching"
+                boredom="1.0"
+                episodes="8"
+            />
+            <!-- sakiko's dad is the absolute state of our empire gg -->
+            <!-- killing myself right fucking now -->
+            <!-- stream alice -->
+            <!-- stream rolling girl -->
+            <!-- stream watashi no aaru -->
+            <aei base="0.5" emotions="MU" />
+
+            <!-- nice plot twist peak writing -->
+            <nei base="0.25" emotions="AP" />
+
+            <!-- muuko noooooooo -->
+            <nei base="0.2" emotions="AU" />
+
+            <!-- peak storywriting in ep 4 -->
+            <epi base="1.0" />
+
+            <!-- genuine horror -->
+            <aei base="0.5" emotions="MU" />
+
+            <!-- ngl i really relate to mortis/muuko -->
+            <nei base="0.5" emotions="CU-0.5:MP-0.5" />
+
+            <writing
+                character="0.9"
+                story="0.9"
+                pacing="0.8"
+                originality="0.9"
+            />
+            <!-- lets go crychic reunion masterclass -->
+            <nei base="0.5" emotions="CP" />
+
+            <!-- timmy is so silly omfg -->
+            <nei base="0.5" emotions="AP" />
+        </entry>
+
+        <meme strength="1.0" from="2025-02-01" to="today">
+            <contributor id="A-MAL-56653" factor="0.8" />
+            <contributor id="A-MAL-54959" factor="0.2" />
+        </meme>
+
+        <!-- avemygo basically serves as the foundation of the ideology in novelslop btw -->
+        <politics>
+            <contributor id="A-MAL-56653" factor="0.5" />
+            <contributor id="A-MAL-54959" factor="0.5" />
+        </politics>
 
         <entry id="A-MAL-51989" title="BanG Dream! Morfonication">
             <source generatedBy="anime.ts 822494e-66345708">
@@ -354,6 +441,13 @@
             <!-- ig we gotta show more what we really think to other people -->
             <!-- yapper -->
             <nei base="0.2" emotions="CP" />
+
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.4"
+                originality="0.35"
+            />
         </entry>
     </entry>
 

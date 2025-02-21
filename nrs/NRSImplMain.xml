@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <include src="franchises/Aipura.xml" />
     <include src="franchises/AoChan.xml" />
@@ -125,6 +125,7 @@
         <!-- old af and nothing special iirc -->
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <visual type="animated" base="0.3" unique="0.4" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-12175" title="Koi to Senkyo to Chocolate">
@@ -140,6 +141,7 @@
         <aei base="0.3" emotions="AP" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.3" unique="0.4" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-12189" title="Hyouka">
@@ -155,6 +157,7 @@
         <nei base="0.3" emotions="AP" />
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="22" />
         <visual type="animated" base="0.5" unique="0.5" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-21845" title="Ushinawareta Mirai wo Motomete">
@@ -176,6 +179,7 @@
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.3" unique="0.4" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-28851" title="Koe no Katachi">
@@ -207,6 +211,7 @@
             episodeDuration="2:10:00"
         />
         <visual type="animated" base="0.5" unique="0.5" />
+        <writing character="0.8" story="0.7" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-31952" title="Kono Bijutsubu ni wa Mondai ga Aru!">
@@ -220,6 +225,7 @@
         <bestGirl name="Mizuki Usami" />
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.3" story="0.4" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-32729" title="Orange">
@@ -236,6 +242,7 @@
         <aei base="0.25" emotions="CU" />
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="13" />
         <visual type="animated" base="0.3" unique="0.5" />
+        <writing character="0.3" story="0.4" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-33731" title="Gabriel DropOut">
@@ -252,6 +259,7 @@
 
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
         <visual type="animated" base="0.6" unique="0.4" />
+        <writing character="0.4" story="0.4" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-34240" title="Shelter (Music)">
@@ -281,6 +289,7 @@
             episodeDuration="6:06"
         />
         <visual type="animated" base="0.65" unique="0.35" />
+        <writing character="0.2" story="0.4" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-34280" title="Gamers!">
@@ -297,6 +306,7 @@
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.6" unique="0.3" />
+        <writing character="0.4" story="0.4" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-34822" title="Tsuki ga Kirei">
@@ -312,6 +322,7 @@
         <aei base="0.25" emotions="CU" />
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
         <visual type="animated" base="0.3" unique="0.5" />
+        <writing character="0.4" story="0.4" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-35241" title="Konohana Kitan">
@@ -332,6 +343,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="3" />
         <dropped />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-35756" title="Comic Girls">
@@ -341,11 +353,13 @@
             <al id="99131" />
             <mal id="35756" />
         </source>
+        <!-- pogpega it's the girl from the hit manga kaoru hana -->
         <bestGirl name="Kaoruko Moeta" />
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <nei base="0.2" emotions="AP" />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-35860" title="Karakai Jouzu no Takagi-san">
@@ -362,6 +376,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.5" episodes="2" />
         <dropped />
         <visual type="animated" base="0.3" unique="0.4" />
+        <writing character="0.4" story="0.3" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-36038" title="Net-juu no Susume">
@@ -377,6 +392,7 @@
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="10" />
         <visual type="animated" base="0.3" unique="0.4" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-36098" title="Kimi no Suizou wo Tabetai">
@@ -398,6 +414,7 @@
         />
         <aei base="0.1" emotions="CU" />
         <visual type="animated" base="0.4" unique="0.5" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-36266" title="Mahou Shoujo Site">
@@ -417,6 +434,7 @@
         <aei base="0.5" emotions="CU" />
         <visual type="animated" base="0.4" unique="0.5" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-37744" title="Isekai Cheat Magician">
@@ -431,6 +449,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="8" />
         <dropped />
         <visual type="animated" base="0.6" unique="0.2" />
+        <writing character="0.2" story="0.2" pacing="0.5" originality="0.2" />
     </entry>
 
     <entry id="A-MAL-37926" title="Nakanohito Genome [Jikkyouchuu]">
@@ -447,6 +466,7 @@
         <!-- this was funny af (iirc), really enjoyed it -->
         <aei base="0.6" emotions="AP" />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.4" story="0.3" pacing="0.5" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-37982" title="Domestic na Kanojo">
@@ -463,6 +483,7 @@
 
         <!-- the domestic na kanojo war lmao -->
         <meme strength="0.8" length="90" />
+        <writing character="0.6" story="0.5" pacing="0.5" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-38656" title="Darwin's Game">
@@ -477,6 +498,7 @@
         <visual type="animated" base="0.3" unique="0.4" />
         <!-- "plot is good" -->
         <aei base="0.5" emotions="AP" />
+        <writing character="0.3" story="0.3" pacing="0.7" originality="0.6" />
     </entry>
 
     <entry
@@ -495,6 +517,7 @@
         <bestGirl name="Ristarte" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.4" unique="0.5" />
+        <writing character="0.5" story="0.3" pacing="0.7" originality="0.8" />
     </entry>
 
     <entry
@@ -513,6 +536,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="2" />
         <dropped />
         <visual type="animated" base="0.5" unique="0.2" />
+        <writing character="0.3" story="0.3" pacing="0.7" originality="0.4" />
     </entry>
 
     <entry
@@ -530,6 +554,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.7" episodes="4" />
         <dropped />
         <visual type="animated" base="0.4" unique="0.4" />
+        <writing character="0.3" story="0.3" pacing="0.7" originality="0.4" />
     </entry>
 
     <entry
@@ -552,6 +577,7 @@
 
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.3" story="0.3" pacing="0.7" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-39790" title="Adachi to Shimamura">
@@ -573,6 +599,7 @@
         <!-- ADA foreshadowing lol -->
         <maxAEIPADS length="2" emotions="CP" />
         <killedBy id="F-VGMDB-2588" potential="0.75" effect="0.3" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.9" />
     </entry>
 
     <entry id="A-MAL-40550" title="Assault Lily: Bouquet">
@@ -594,6 +621,7 @@
         <visual type="animated" base="0.6" unique="0.3" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <featureMusic id="M-VGMDB-AL-101643-1" />
+        <writing character="0.5" story="0.3" pacing="0.7" originality="0.5" />
     </entry>
 
     <entry id="A-MAL-40571" title="Majo no Tabitabi">
@@ -611,6 +639,7 @@
         <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.5" />
         <!-- observism and the COP -->
         <politics />
+        <writing character="0.8" story="0.4" pacing="0.8" originality="0.9" />
     </entry>
 
     <entry id="A-MAL-40783" title="Shachou, Battle no Jikan Desu!">
@@ -627,6 +656,7 @@
         <aei base="0.2" emotions="AP" />
         <visual type="animated" base="0.3" unique="0.3" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.5" />
     </entry>
 
     <entry id="A-MAL-41619" title="Munou na Nana">
@@ -643,6 +673,7 @@
         <killedBy id="F-VGMDB-2588" potential="0.5" effect="0.3" />
         <!-- plot is very good -->
         <aei base="0.4" emotions="AP" />
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-41930" title="Kamisama ni Natta Hi">
@@ -658,6 +689,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
         <dropped />
         <killedBy id="F-VGMDB-2588" potential="0.6" effect="0.5" />
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-43969" title="Kanojo mo Kanojo">
@@ -672,11 +704,13 @@
         <!-- already impressive -->
         <!-- but that's not enough because MagiReco S2 -->
         <!-- is just too good -->
+        <!-- noway sakiko from ave mujica real -->
         <bestGirl name="Saki Saki" />
         <visual type="animated" base="0.4" unique="0.4" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
         <dropped />
         <killedBy id="A-MAL-41530" potential="0.2" effect="0.5" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-46093" title="Shiroi Suna no Aquatope">
@@ -693,6 +727,7 @@
         <animeConsumedProgress status="Dropped" boredom="0.6" episodes="16" />
         <dropped />
         <killedBy id="A-MAL-41530" potential="0.1" effect="0.4" />
+        <writing character="0.8" story="0.8" pacing="0.9" originality="0.9" />
     </entry>
 
     <entry id="A-MAL-40904" title="Bokutachi no Remake">
@@ -710,6 +745,7 @@
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
         <killedBy id="A-MAL-41530" potential="0.2" effect="0.2" />
         <featureMusic id="M-VGMDB-AL-111089-5" />
+        <writing character="0.3" story="0.3" pacing="0.7" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-44203" title="Seirei Gensouki">
@@ -737,6 +773,7 @@
 
         <!-- lol -->
         <aei base="0.5" emotions="AU-0.5:AP-0.5" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry
@@ -757,6 +794,7 @@
         <killedBy id="F-VGMDB-3245" potential="0.1" effect="0.2" />
         <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.2" />
         <nei base="0.8" emotions="AP" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-48483" title="Mieruko-chan">
@@ -776,6 +814,7 @@
         <visual type="animated" base="0.3" unique="0.6" />
         <killedBy id="F-VGMDB-3245" potential="0.2" effect="0.2" />
         <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.2" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-48644" title="Gyakuten Sekai no Denchi Shoujo">
@@ -793,6 +832,7 @@
         <visual type="animated" base="0.4" unique="0.3" />
         <killedBy id="F-VGMDB-3245" potential="0.3" effect="0.15" />
         <killedBy id="F-VGMDB-7059" potential="0.3" effect="0.15" />
+        <writing character="0.5" story="0.7" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-17919" title="Houkago no Pleiades (TV)">
@@ -808,6 +848,7 @@
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.5" unique="0.2" />
         <featureMusic id="M-VGMDB-AL-51254-1" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.5" />
     </entry>
 
     <entry id="A-MAL-38091" title="Hachigatsu no Cinderella Nine (TV)">
@@ -825,6 +866,7 @@
         <nei base="0.3" emotions="CP" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <visual type="animated" base="0.4" unique="0.5" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-37481" title="Ongaku Shoujo (TV)">
@@ -840,5 +882,6 @@
 
         <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.5" />
     </entry>
 </document>

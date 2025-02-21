@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- holy fuck how many of these songs have been heard by me in osu! bro -->
     <!-- also i hate himeno sena -->
@@ -402,6 +402,12 @@
             />
             <nei base="0.5" emotions="AP" />
             <nei base="0.2" emotions="MP" />
+            <writing
+                character="0.3"
+                story="0.5"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -429,6 +435,12 @@
             <featureMusic id="M-20221225T015456" />
             <remix id="M-20240815T041131-2" />
             <remix id="L-20241109T062928" />
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta.">
@@ -455,6 +467,12 @@
             <featureMusic id="M-VGMDB-AL-91835-12" />
             <featureMusic id="M-VGMDB-AL-91835-17" />
             <remix id="M-20240815T041131-9" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -501,6 +519,12 @@
             <!-- no way post-modern (not rst-inspired) cp-based anime!1! -->
             <nei base="0.5" emotions="CP" />
             <remix id="L-20241109T062928" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <!-- skibidi toilet brainrot incoming -->
@@ -760,9 +784,8 @@
         </entry>
 
         <entry
-            id="M-20240718T032328"
-            title="Chouzetsu Azatoi Omaera no Hime / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
-            entrytype="MusicAlbum"
+            id="M-VGMDB-AL-142427"
+            title="Chozetsu Azatoi Omaera no Hime / mona (CV: Shiina Natsukawa) feat. HoneyWorks"
         >
             <visual type="albumArt" base="0.4" unique="0.6" />
 
@@ -955,7 +978,7 @@
             <entry id="$-4" title="Fukutsu no Idol">
                 <visual type="semiAnimatedMV" base="0.8" unique="0.4" />
                 <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
-                <remix id="M-20240718T032328-3" />
+                <remix id="M-VGMDB-AL-142427-3" />
                 <music base="0.65" />
                 <musicConsumedProgress length="3:54" />
             </entry>
@@ -1016,13 +1039,13 @@
             <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
             <visual type="manga" base="0.8" unique="0.2" />
 
-            <!-- 46 chapters -->
+            <!-- 50 chapters -->
             <!-- ik i can snatch it off piccoma but im lazy -->
             <!-- also i like the thrill of waiting for TLs from bro -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="2:12:00"
+                duration="2:30:00"
             />
 
             <!-- chapter 29 yapper is so peak it's actually motivating as fuck she is too peak WWWWW -->
@@ -1058,6 +1081,12 @@
             <remix id="M-20240815T044532-1" />
             <remix id="M-20240815T044532-2" />
             <remix id="M-20240815T044532-4" />
+            <writing
+                character="0.8"
+                story="0.5"
+                pacing="0.7"
+                originality="0.6"
+            />
         </entry>
     </entry>
 
@@ -1108,6 +1137,12 @@
             <!-- tpa slop -->
             <remix id="M-20240815T044532-1" />
             <remix id="M-20240815T044532-5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
 
         <entry
@@ -1125,6 +1160,12 @@
                 status="Watching"
                 boredom="1.0"
                 duration="1:30:00"
+            />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.7"
+                originality="0.4"
             />
         </entry>
 
@@ -1149,6 +1190,12 @@
             <bestGirl name="Mia Luna Tearmoon" />
 
             <visual type="lightNovel" base="0.5" unique="0.5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
 
         <ehi>
@@ -1160,6 +1207,7 @@
         </ehi>
     </entry>
 
+    <!-- no way they give yapper's mom an album -->
     <entry id="M-VGMDB-AL-132951" title="Happyend Princess / Sumire Uesaka">
         <source>
             <urls>
