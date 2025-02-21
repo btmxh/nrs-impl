@@ -515,4 +515,28 @@
             <remix id="M-20241202T142410-4" />
         </entry>
     </entry>
+
+    <entry id="M-VGMDB-AL-91654" title="Unhappy Refrain">
+        <visual type="albumArt" base="0.4" unique="0.6" />
+        <entry id="$-2" title="Rolling Girl">
+            <music base="0.5" />
+            <musicConsumedProgress length="3:10" />
+            <remix id="M-20250221T163932-3" />
+            <visual type="animatedMV" base="0.4" unique="0.6" />
+        </entry>
+    </entry>
+
+    <entry id="M-20250221T171218" title="Alice in Reitouko">
+        <visual type="staticMV" base="0.3" unique="0.5" />
+        <music base="0.7" />
+        <musicConsumedProgress length="5:44" />
+        <remix id="M-20250221T171421" />
+    </entry>
+
+    <entry id="M-20250221T171421" title="Alice in Reitouko (shiho ver.)">
+        <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+        <music base="0.75" />
+        <musicConsumedProgress length="5:28" />
+        <remix id="M-20250221T163932-4" />
+    </entry>
 </document>

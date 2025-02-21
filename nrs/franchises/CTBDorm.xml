@@ -422,6 +422,47 @@
         <!-- more to come... -->
     </entry>
 
+    <!-- YOOOOOO -->
+    <!-- WYSI THE NUMBER 621 -->
+    <!-- THE SUICIDE NUMBER WHEN YOU FUCKING SEE IT -->
+    <entry id="M-20250221T163932" title="From the 621st floor, with nothing">
+        <!-- shamelessly re-releasing smh -->
+        <contains id="M-20240821T213821-1" />
+        <contains id="M-20241202T142410-4" />
+
+        <!-- "venting bullshit" the song -->
+        <!-- stream alice below instead vvvvv -->
+        <entry id="$-3" title="Rolling Girl (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="AU-0.8:MU-0.2" />
+        </entry>
+
+        <!-- stream alice -->
+        <entry id="$-4" title="Alice in Reitouko (CTB Girls' Dorm ver.)">
+            <!-- stream alice -->
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <!-- stream alice -->
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <!-- stream alice -->
+            <aei base="0.5" emotions="AU-0.1:MU-0.4:MP-0.5" />
+            <!-- stream alice -->
+        </entry>
+        <!-- stream alice -->
+
+        <!-- sakidad song -->
+        <!-- ep 6 sakidad kinda destroyed this theory -->
+        <!-- anw stream alice above ^^^^^ -->
+        <entry
+            id="$-5"
+            title="θθ Shinitagari ni Tsukeru Kusuri θθ (CTB Girls' Dorm ver.)"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.75" emotions="AU-0.5:MU-0.5" />
+        </entry>
+    </entry>
+
     <meme from="2023-11-20" to="today" strength="0.3">
         <contributor id="M-20240815T041131-1" factor="0.3" />
         <contributor id="M-20240815T041131-2" factor="0.2" />
