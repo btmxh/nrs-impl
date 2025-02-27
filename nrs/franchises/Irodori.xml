@@ -3,6 +3,18 @@
     <!-- original of irodori covers -->
     <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP">
         <contains id="M-VGMDB-AL-91187-35" />
+
+        <entry
+            id="M-20250221T165439"
+            title="θθ Shinitagari ni Tsukeru Kusuri θθ"
+            entrytype="MusicTrack"
+        >
+            <visual type="semiAnimatedMV" base="0.5" unique="0.5" />
+            <remix id="M-20250221T163932-5" />
+            <musicConsumedProgress length="4:19" />
+            <music base="0.65" />
+            <role id="M-VGMDB-AR-9553" roles="total" />
+        </entry>
     </entry>
 
     <entry id="M-VGMDB-AL-91187" title="CHUNITHM ALL JUSTICE COLLECTION ep.I">
