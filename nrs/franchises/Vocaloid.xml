@@ -545,6 +545,12 @@
         <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
         <music base="0.75" />
         <musicConsumedProgress length="5:28" />
-        <remix id="M-20250221T163932-4" />
     </entry>
+
+    <remix id="M-20250221T163932-4">
+        <contributor id="M-20250221T171421" factor="0.7" />
+        <contributor id="M-20250221T171218" factor="0.15" />
+        <contributor id="V-VNDB-27448" factor="0.1" />
+        <contributor id="A-MAL-34240" factor="0.05" />
+    </remix>
 </document>
