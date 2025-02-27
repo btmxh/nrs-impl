@@ -363,11 +363,12 @@
             </source>
             <!-- absolute cinema -->
             <bestGirl name="Mutsumi Wakaba" />
-            <visual type="animated" base="0.3" unique="0.5" />
+            <visual
+                type="animated" base="0.3" unique="0.5" />
             <animeConsumedProgress
                 status="Watching"
                 boredom="1.0"
-                episodes="8"
+                episodes="9"
             />
             <!-- sakiko's dad is the absolute state of our empire gg -->
             <!-- killing myself right fucking now -->
@@ -380,7 +381,8 @@
             <nei base="0.25" emotions="AP" />
 
             <!-- muuko noooooooo -->
-            <nei base="0.2" emotions="AU" />
+            <nei
+                base="0.2" emotions="AU" />
 
             <!-- peak storywriting in ep 4 -->
             <epi base="1.0" />
@@ -389,7 +391,8 @@
             <aei base="0.5" emotions="MU" />
 
             <!-- ngl i really relate to mortis/muuko -->
-            <nei base="0.5" emotions="CU-0.5:MP-0.5" />
+            <nei
+                base="0.5" emotions="CU-0.5:MP-0.5" />
 
             <writing
                 character="0.9"
@@ -402,6 +405,13 @@
 
             <!-- timmy is so silly omfg -->
             <nei base="0.5" emotions="AP" />
+
+            <!-- WTF IS THIS EPISODE LMFAO -->
+            <aei base="0.5" emotions="AP"></aei>
+
+            <!-- umiri is a reference to the current 3-lab situation :skull: :skull: -->
+            <!-- nyamu getting rejected is a reference to the gameloft incident :skull: :skull: -->
+            <nei base="0.5" emotions="CU-0.5:MU-0.5"></nei>
 
             <featureMusic id="M-VGMDB-AL-144037" />
         </entry>
