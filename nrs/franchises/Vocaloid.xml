@@ -553,4 +553,14 @@
         <contributor id="V-VNDB-27448" factor="0.1" />
         <contributor id="A-MAL-34240" factor="0.05" />
     </remix>
+
+    <entry id="M-VGMDB-AL-33780" title="ODDS&amp;ENDS">
+        <visual type="albumArt" base="0.4" unique="0.6" />
+        <entry id="$-1" title="ODDS&amp;ENDS">
+            <visual type="semiAnimatedMV" base="0.3" unique="0.8" />
+            <music base="0.65" />
+            <musicConsumedProgress length="5:00" />
+            <remix id="M-20241202T142410-5" />
+        </entry>
+    </entry>
 </document>

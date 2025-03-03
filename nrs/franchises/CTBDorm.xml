@@ -419,7 +419,13 @@
             <aei base="0.0" emotions="CU" />
         </entry>
 
-        <!-- more to come... -->
+        <!-- akokoto suicide slop my beloved -->
+        <!-- "such world destroy all of its people... until the very end" -->
+        <entry id="$-5" title="ODDS&amp;ENDS (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="CU" />
+        </entry>
     </entry>
 
     <!-- YOOOOOO -->
@@ -463,10 +469,21 @@
         >
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
-            <nei base="0.75" emotions="AU-0.5:MU-0.5" />
+            <aei base="0.25" emotions="AU-0.5:MU-0.5" />
+        </entry>
+
+        <!-- muuko... -->
+        <!-- "the most tragic tale in the entire album" - the history books -->
+        <!-- the story of a girl who can't kill herself -->
+        <!-- also stream alice -->
+        <entry id="$-6" title="Mou Ichido Luminous">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.5" emotions="MU-0.5:CU-0.5" />
         </entry>
     </entry>
 
+    <!-- album 1 -->
     <meme from="2023-11-20" to="today" strength="0.3">
         <contributor id="M-20240815T041131-1" factor="0.3" />
         <contributor id="M-20240815T041131-2" factor="0.2" />
@@ -479,6 +496,7 @@
         <contributor id="M-20240815T041131-9" factor="0.2" />
     </meme>
 
+    <!-- tpa -->
     <meme from="2024-05-26" to="today" strength="0.5">
         <contributor id="M-20240815T044532-1" factor="0.1" />
         <contributor id="M-20240815T044532-2" factor="0.05" />
@@ -492,5 +510,30 @@
         <contributor id="A-MAL-52962" factor="0.18" />
         <contributor id="V-VNDB-17516" factor="0.18" />
         <contributor id="A-MAL-55102" factor="0.06" />
+    </meme>
+
+    <!-- chara album -->
+    <meme from="2024-12-05" to="today" strength="0.5">
+        <contributor id="M-20241202T142410-1" factor="0.1" />
+        <contributor id="M-20241202T142410-2" factor="0.1" />
+        <contributor id="M-20241202T142410-3" factor="0.2" />
+        <contributor id="M-20241202T142410-4" factor="0.3" />
+        <contributor id="M-20241202T142410-5" factor="0.3" />
+    </meme>
+
+    <!-- suicide album (late 2024-1 and early 2024-2) -->
+    <meme from="2024-12-01" to="2025-01-07" strength="0.8">
+        <contributor id="M-20240821T213821-1" factor="0.1" />
+        <contributor id="M-20241202T142410-4" factor="0.4" />
+        <contributor id="M-20250221T163932-3" factor="0.2" />
+        <contributor id="M-20250221T163932-4" factor="0.3" />
+    </meme>
+    <meme from="2025-02-21" to="today" strength="1.0">
+        <contributor id="M-20240821T213821-1" factor="0.05" />
+        <contributor id="M-20241202T142410-4" factor="0.15" />
+        <contributor id="M-20250221T163932-3" factor="0.1" />
+        <contributor id="M-20250221T163932-4" factor="0.4" />
+        <contributor id="M-20250221T163932-5" factor="0.15" />
+        <contributor id="M-20250221T163932-6" factor="0.15" />
     </meme>
 </document>
