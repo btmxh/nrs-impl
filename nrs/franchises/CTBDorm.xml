@@ -38,6 +38,7 @@
             <remix id="M-20241202T142410-2" />
             <remix id="M-20241202T142410-3" />
             <remix id="M-20241202T142410-4" />
+            <remix id="M-20241202T142410-5" />
             <writing
                 character="0.75"
                 story="0.5"
@@ -382,6 +383,7 @@
     </entry>
 
     <!-- M3-2025 Spring album (not finalized yet!) -->
+    <!-- delayed lmfao -->
     <entry
         id="M-20241202T142410"
         title="TV Anime &quot;Hokori Takaki Idol: Prologue of a Rising Star&quot; Character Song CD Vol. 1"
@@ -431,6 +433,8 @@
     <!-- YOOOOOO -->
     <!-- WYSI THE NUMBER 621 -->
     <!-- THE SUICIDE NUMBER WHEN YOU FUCKING SEE IT -->
+    <!-- M3-2025 Spring Album (for real this time) -->
+    <!-- lyrics finalized on march 9th, 2025 -->
     <entry
         id="M-20250221T163932"
         title="From the 621st floor, with nothing"
@@ -439,6 +443,7 @@
         <!-- shamelessly re-releasing smh -->
         <contains id="M-20240821T213821-1" />
         <contains id="M-20241202T142410-4" />
+        <contains id="M-20241202T142410-5" />
 
         <!-- "venting bullshit" the song -->
         <!-- stream alice below instead vvvvv -->
@@ -531,9 +536,10 @@
     <meme from="2025-02-21" to="today" strength="1.0">
         <contributor id="M-20240821T213821-1" factor="0.05" />
         <contributor id="M-20241202T142410-4" factor="0.15" />
+        <contributor id="M-20241202T142410-5" factor="0.15" />
         <contributor id="M-20250221T163932-3" factor="0.1" />
-        <contributor id="M-20250221T163932-4" factor="0.4" />
+        <contributor id="M-20250221T163932-4" factor="0.3" />
         <contributor id="M-20250221T163932-5" factor="0.15" />
-        <contributor id="M-20250221T163932-6" factor="0.15" />
+        <contributor id="M-20250221T163932-6" factor="0.1" />
     </meme>
 </document>
