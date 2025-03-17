@@ -483,10 +483,17 @@
         <!-- "the most tragic tale in the entire album" - the history books -->
         <!-- the story of a girl who can't kill herself -->
         <!-- also stream alice -->
-        <entry id="$-6" title="Mou Ichido Luminous">
+        <entry id="$-6" title="Mou Ichido Luminous (CTB Girls' Dorm ver.)">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.5" emotions="MU-0.5:CU-0.5" />
+        </entry>
+
+        <!-- project ESCAPE prologue song -->
+        <entry id="$-7" title="Grand Escape (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.2" emotions="CP" />
         </entry>
     </entry>
 
