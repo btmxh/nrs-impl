@@ -1039,13 +1039,13 @@
             <!-- i'm sorry but national waifu manga with visual 0.5 is just unreal bro -->
             <visual type="manga" base="0.8" unique="0.2" />
 
-            <!-- 50 chapters -->
+            <!-- 52 chapters -->
             <!-- ik i can snatch it off piccoma but im lazy -->
             <!-- also i like the thrill of waiting for TLs from bro -->
             <consumedProgress
                 status="Watching"
                 boredom="1.0"
-                duration="2:30:00"
+                duration="2:40:00"
             />
 
             <!-- chapter 29 yapper is so peak it's actually motivating as fuck she is too peak WWWWW -->
@@ -1059,6 +1059,15 @@
                 from="2024-08-21"
                 to="2024-08-23"
             />
+
+            <!-- utasama glazing -->
+            <!-- to quote the discussion: -->
+            <!-- i dont even care about what she does to yapper anymore i just glaze her for the
+            novelslop shit bro -->
+            <nei base="0.9" emotions="MP">
+                <contributor id="L-MAL-139873" factor="0.4" />
+                <contributor id="L-20241109T062928" factor="0.6" />
+            </nei>
 
             <!-- platonic love is basically a retelling of chapter 34 -->
             <remix id="M-20240821T213821-2" />
