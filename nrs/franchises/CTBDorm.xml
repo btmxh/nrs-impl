@@ -421,6 +421,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="CU" />
+            <musicConsumedProgress length="5:48" />
         </entry>
 
         <!-- akokoto suicide slop my beloved -->
@@ -429,6 +430,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="CU" />
+            <musicConsumedProgress length="5:36" />
         </entry>
     </entry>
 
