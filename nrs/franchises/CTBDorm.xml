@@ -455,6 +455,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="AU-0.8:MU-0.2" />
+            <musicConsumedProgress length="3:16" />
         </entry>
 
         <!-- stream alice -->
