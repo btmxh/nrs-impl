@@ -500,6 +500,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.2" emotions="CP" />
+            <musicConsumedProgress length="5:40" />
         </entry>
     </entry>
 
