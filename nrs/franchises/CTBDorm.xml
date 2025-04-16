@@ -480,6 +480,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.25" emotions="AU-0.5:MU-0.5" />
+            <musicConsumedProgress length="4:16" />
         </entry>
 
         <!-- muuko... -->
