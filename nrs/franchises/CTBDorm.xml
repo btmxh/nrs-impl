@@ -492,6 +492,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.5" emotions="MU-0.5:CU-0.5" />
+            <musicConsumedProgress length="4:22" />
         </entry>
 
         <!-- project ESCAPE prologue song -->
