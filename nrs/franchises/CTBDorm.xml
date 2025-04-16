@@ -441,9 +441,11 @@
     <!-- lyrics finalized on march 9th, 2025 -->
     <entry
         id="M-20250221T163932"
-        title="From the 621st floor, with nothing"
+        title="621 meters above the sea level."
         entrytype="MusicAlbum"
     >
+        <visual type="albumArt" base="0.3" unique="0.5" />
+
         <!-- shamelessly re-releasing smh -->
         <contains id="M-20240821T213821-1" />
         <contains id="M-20241202T142410-4" />
