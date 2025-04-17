@@ -563,4 +563,22 @@
             <remix id="M-20241202T142410-5" />
         </entry>
     </entry>
+
+    <entry id="M-20250417T130521" title="Hide and Seek">
+        <visual type="staticMV" base="0.4" unique="0.5"></visual>
+        <music base="0.65"></music>
+        <musicConsumedProgress length="4:27"></musicConsumedProgress>
+        <remix id="M-20250417T130522"></remix>
+    </entry>
+
+    <entry id="M-20250417T130522" title="Hide and Seek">
+        <visual type="semiAnimatedMV" base="0.5" unique="0.4"></visual>
+        <music base="0.7"></music>
+        <musicConsumedProgress length="4:27"></musicConsumedProgress>
+    </entry>
+
+    <remix id="M-20250417T125416">
+        <contributor id="M-20250417T130521" factor="0.8" />
+        <contributor id="M-20250417T130522" factor="0.2" />
+    </remix>
 </document>
