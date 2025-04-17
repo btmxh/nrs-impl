@@ -32,6 +32,13 @@
             <!-- (not that bad, but yeah) -->
             <!-- also 11 days left until one year anniversary of that thread! -->
             <meme from="2024-09-01" to="today" strength="0.75" />
+
+            <!-- this is a novel it can't feature music i'm sorry guys -->
+            <remix id="M-20241202T142410-1" />
+            <remix id="M-20241202T142410-2" />
+            <remix id="M-20241202T142410-3" />
+            <remix id="M-20241202T142410-4" />
+            <remix id="M-20241202T142410-5" />
             <writing
                 character="0.75"
                 story="0.5"
@@ -377,6 +384,129 @@
         </entry>
     </entry>
 
+    <!-- M3-2025 Spring album (not finalized yet!) -->
+    <!-- delayed lmfao -->
+    <entry
+        id="M-20241202T142410"
+        title="TV Anime &quot;Hokori Takaki Idol: Prologue of a Rising Star&quot; Character Song CD Vol. 1"
+        entrytype="MusicAlbum"
+    >
+        <!-- yapper brainrot lab arc reference -->
+        <entry id="$-1" title="Stella (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.9" emotions="MU-0.3:CP-0.7" />
+        </entry>
+
+        <!-- mikohiyo yuri canon -->
+        <entry id="$-2" title="Teammate (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- nozsist duybua hiyori my beloved -->
+            <aei base="0.2" emotions="MP-0.6:CP-0.4" />
+        </entry>
+
+        <!-- utasama im sorry for this one more time -->
+        <!-- scholarship reference (no way they actually got 19.8MVND) -->
+        <entry id="$-3" title="Umarete Hajimete (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <!-- c-word -->
+            <nei base="0.5" emotions="MP" />
+        </entry>
+
+        <!-- painpeko someone please kill me -->
+        <entry id="$-4" title="Watashi no R (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="CU" />
+            <musicConsumedProgress length="3:36" />
+        </entry>
+
+        <!-- akokoto suicide slop my beloved -->
+        <!-- "such world destroy all of its people... until the very end" -->
+        <entry id="$-5" title="ODDS&amp;ENDS (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="CU" />
+            <musicConsumedProgress length="5:36" />
+        </entry>
+    </entry>
+
+    <!-- YOOOOOO -->
+    <!-- WYSI THE NUMBER 621 -->
+    <!-- THE SUICIDE NUMBER WHEN YOU FUCKING SEE IT -->
+    <!-- M3-2025 Spring Album (for real this time) -->
+    <!-- lyrics finalized on march 9th, 2025 -->
+    <entry
+        id="M-20250221T163932"
+        title="621 meters above the sea level."
+        entrytype="MusicAlbum"
+    >
+        <visual type="albumArt" base="0.3" unique="0.5" />
+
+        <!-- shamelessly re-releasing smh -->
+        <contains id="M-20240821T213821-1" />
+        <contains id="M-20241202T142410-4" />
+        <contains id="M-20241202T142410-5" />
+
+        <!-- "venting bullshit" the song -->
+        <!-- stream alice below instead vvvvv -->
+        <entry id="$-3" title="Rolling Girl (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="AU-0.8:MU-0.2" />
+            <musicConsumedProgress length="3:16" />
+        </entry>
+
+        <!-- stream alice -->
+        <entry id="$-4" title="Alice in Reitouko (CTB Girls' Dorm ver.)">
+            <!-- stream alice -->
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <!-- stream alice -->
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <!-- stream alice -->
+            <aei base="0.5" emotions="AU-0.1:MU-0.4:MP-0.5" />
+            <!-- stream alice -->
+            <musicConsumedProgress length="5:44" />
+        </entry>
+        <!-- stream alice -->
+
+        <!-- sakidad song -->
+        <!-- ep 6 sakidad kinda destroyed this theory -->
+        <!-- anw stream alice above ^^^^^ -->
+        <entry
+            id="$-5"
+            title="θθ Shinitagari ni Tsukeru Kusuri θθ (CTB Girls' Dorm ver.)"
+        >
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.25" emotions="AU-0.5:MU-0.5" />
+            <musicConsumedProgress length="4:16" />
+        </entry>
+
+        <!-- muuko... -->
+        <!-- "the most tragic tale in the entire album" - the history books -->
+        <!-- the story of a girl who can't kill herself -->
+        <!-- also stream alice -->
+        <entry id="$-6" title="Mou Ichido Luminous (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.5" emotions="MU-0.5:CU-0.5" />
+            <musicConsumedProgress length="4:22" />
+        </entry>
+
+        <!-- project ESCAPE prologue song -->
+        <entry id="$-7" title="Grand Escape (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.2" emotions="CP" />
+            <musicConsumedProgress length="5:40" />
+        </entry>
+    </entry>
+
+    <!-- album 1 -->
     <meme from="2023-11-20" to="today" strength="0.3">
         <contributor id="M-20240815T041131-1" factor="0.3" />
         <contributor id="M-20240815T041131-2" factor="0.2" />
@@ -389,6 +519,7 @@
         <contributor id="M-20240815T041131-9" factor="0.2" />
     </meme>
 
+    <!-- tpa -->
     <meme from="2024-05-26" to="today" strength="0.5">
         <contributor id="M-20240815T044532-1" factor="0.1" />
         <contributor id="M-20240815T044532-2" factor="0.05" />
@@ -402,5 +533,31 @@
         <contributor id="A-MAL-52962" factor="0.18" />
         <contributor id="V-VNDB-17516" factor="0.18" />
         <contributor id="A-MAL-55102" factor="0.06" />
+    </meme>
+
+    <!-- chara album -->
+    <meme from="2024-12-05" to="today" strength="0.5">
+        <contributor id="M-20241202T142410-1" factor="0.1" />
+        <contributor id="M-20241202T142410-2" factor="0.1" />
+        <contributor id="M-20241202T142410-3" factor="0.2" />
+        <contributor id="M-20241202T142410-4" factor="0.3" />
+        <contributor id="M-20241202T142410-5" factor="0.3" />
+    </meme>
+
+    <!-- suicide album (late 2024-1 and early 2024-2) -->
+    <meme from="2024-12-01" to="2025-01-07" strength="0.8">
+        <contributor id="M-20240821T213821-1" factor="0.1" />
+        <contributor id="M-20241202T142410-4" factor="0.4" />
+        <contributor id="M-20250221T163932-3" factor="0.2" />
+        <contributor id="M-20250221T163932-4" factor="0.3" />
+    </meme>
+    <meme from="2025-02-21" to="today" strength="1.0">
+        <contributor id="M-20240821T213821-1" factor="0.05" />
+        <contributor id="M-20241202T142410-4" factor="0.15" />
+        <contributor id="M-20241202T142410-5" factor="0.15" />
+        <contributor id="M-20250221T163932-3" factor="0.1" />
+        <contributor id="M-20250221T163932-4" factor="0.3" />
+        <contributor id="M-20250221T163932-5" factor="0.15" />
+        <contributor id="M-20250221T163932-6" factor="0.1" />
     </meme>
 </document>

@@ -131,6 +131,22 @@
         <!-- REPEAT AFTER ME: THE ORTENSIA INCIDENT IS THE HARAMBE OF ANIME IDOLS -->
         <entry id="M-VGMDB-AR-31328" title="Pastel*Palettes" />
 
+        <!-- karma is real -->
+        <!-- shitting on them and then now they will sing on your demise -->
+        <!-- stream mou ichido luminous -->
+        <entry
+            id="M-VGMDB-AL-78507"
+            title="Mou Ichido Luminous / Pastel*Palettes"
+        >
+            <visual type="albumArt" base="0.6" unique="0.2" />
+            <entry id="$-1" title="Mou Ichido Luminous">
+                <musicConsumedProgress length="4:20" />
+                <music base="0.55" />
+                <role roles="vocal+image" id="M-VGMDB-AR-31328" />
+                <remix id="M-20250221T163932-6" />
+            </entry>
+        </entry>
+
         <entry id="M-VGMDB-AR-31329" title="Hello, Happy World!" />
 
         <entry id="M-VGMDB-AL-82743" title="Y.O.L.O!!!!! / Afterglow">
@@ -405,6 +421,9 @@
 
             <!-- timmy is so silly omfg -->
             <nei base="0.5" emotions="AP" />
+
+            <!-- sakidad song lmfao -->
+            <remix id="M-20250221T163932-5" />
 
             <!-- WTF IS THIS EPISODE LMFAO -->
             <aei base="0.5" emotions="AP" />

@@ -500,4 +500,67 @@
             <musicConsumedProgress length="3:30" />
         </entry>
     </entry>
+
+    <!-- ayumu-era masterpiece reincarnated as yapper brainrot you like to see it -->
+    <entry
+        id="M-20241205T092438"
+        title="Watashi no Miseinen Kansoku"
+        entrytype="MusicAlbum"
+    >
+        <visual type="albumArt" base="0.2" unique="0.5" />
+        <entry id="$-1" title="Watashi no R">
+            <aei base="0.8" emotions="CU" />
+            <music base="0.65" />
+            <musicConsumedProgress length="3:34" />
+            <remix id="M-20241202T142410-4" />
+        </entry>
+    </entry>
+
+    <entry id="M-VGMDB-AL-91654" title="Unhappy Refrain">
+        <visual type="albumArt" base="0.4" unique="0.6" />
+        <entry id="$-2" title="Rolling Girl">
+            <music base="0.5" />
+            <musicConsumedProgress length="3:10" />
+            <remix id="M-20250221T163932-3" />
+            <visual type="animatedMV" base="0.4" unique="0.6" />
+        </entry>
+    </entry>
+
+    <entry
+        id="M-20250221T171218"
+        title="Alice in Reitouko"
+        entrytype="MusicTrack"
+    >
+        <visual type="staticMV" base="0.3" unique="0.5" />
+        <music base="0.7" />
+        <musicConsumedProgress length="5:44" />
+        <remix id="M-20250221T171421" />
+    </entry>
+
+    <entry
+        id="M-20250221T171421"
+        title="Alice in Reitouko (shiho ver.)"
+        entrytype="MusicTrack"
+    >
+        <visual type="semiAnimatedMV" base="0.5" unique="0.3" />
+        <music base="0.75" />
+        <musicConsumedProgress length="5:28" />
+    </entry>
+
+    <remix id="M-20250221T163932-4">
+        <contributor id="M-20250221T171421" factor="0.7" />
+        <contributor id="M-20250221T171218" factor="0.15" />
+        <contributor id="V-VNDB-27448" factor="0.1" />
+        <contributor id="A-MAL-34240" factor="0.05" />
+    </remix>
+
+    <entry id="M-VGMDB-AL-33780" title="ODDS&amp;ENDS">
+        <visual type="albumArt" base="0.4" unique="0.6" />
+        <entry id="$-1" title="ODDS&amp;ENDS">
+            <visual type="semiAnimatedMV" base="0.3" unique="0.8" />
+            <music base="0.65" />
+            <musicConsumedProgress length="5:00" />
+            <remix id="M-20241202T142410-5" />
+        </entry>
+    </entry>
 </document>
