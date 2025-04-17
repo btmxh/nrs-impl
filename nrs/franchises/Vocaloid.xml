@@ -564,14 +564,18 @@
         </entry>
     </entry>
 
-    <entry id="M-20250417T130521" title="Hide and Seek">
+    <entry id="M-20250417T130521" title="Hide and Seek" entrytype="MusicTrack">
         <visual type="staticMV" base="0.4" unique="0.5" />
         <music base="0.65" />
         <musicConsumedProgress length="4:27" />
         <remix id="M-20250417T130522" />
     </entry>
 
-    <entry id="M-20250417T130522" title="Hide and Seek">
+    <entry
+        id="M-20250417T130522"
+        title="Hide and Seek (shiho ver.)"
+        entrytype="MusicTrack"
+    >
         <visual type="semiAnimatedMV" base="0.5" unique="0.4" />
         <music base="0.7" />
         <musicConsumedProgress length="4:27" />
