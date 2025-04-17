@@ -422,7 +422,7 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="CU" />
             <musicConsumedProgress length="3:36" />
-            <remix id="M-20250417T125416-1"></remix>
+            <remix id="M-20250417T125416-1" />
         </entry>
 
         <!-- akokoto suicide slop my beloved -->
@@ -510,18 +510,28 @@
     <!-- pj escape my beloved -->
     <!-- escapism fantasy for the suicidal duybuans -->
     <entry id="F-20250417T125254" title="project ESCAPE">
-        <entry id="M-20250417T125416" title="project ESCAPE: departure"
-            entrytype="MusicAlbum">
+        <entry
+            id="M-20250417T125416"
+            title="project ESCAPE: departure"
+            entrytype="MusicAlbum"
+        >
             <!-- character: pretty interesting, they are not the same characters from watashinoaaru -->
             <!-- story: currently there's nothing, so 0.2 -->
             <!-- pacing: idk -->
             <!-- originality: kinda original ig -->
-            <writing character="0.3" story="0.2" pacing="0.1" originality="0.5"></writing>
+            <writing
+                character="0.3"
+                story="0.2"
+                pacing="0.1"
+                originality="0.5"
+            />
 
             <entry id="$-1" title="Hide and Seek (CTB Girls' Dorm ver.)">
-                <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
                 <role id="M-20240815T042406" roles="vocal+image" />
-                <nei base="0.5" emotions="CP-0.5:MU-0.5"></nei>
+                <nei base="0.5" emotions="CP-0.5:MU-0.5" />
             </entry>
         </entry>
     </entry>
@@ -532,7 +542,10 @@
         <contributor id="M-VGMDB-AL-87003-28" factor="0.15" />
         <contributor id="A-MAL-35839" factor="0.15" />
         <contributor id="A-MAL-38826" factor="0.1" />
-        <contributor id="futari escape (to be ranked) [null entry]" factor="0.05" />
+        <contributor
+            id="futari escape (to be ranked) [null entry]"
+            factor="0.05"
+        />
         <contributor id="A-MAL-39790" factor="0.025" />
         <contributor id="girls' last tour [null entry]" factor="0.025" />
     </remix>

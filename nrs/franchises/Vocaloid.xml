@@ -565,16 +565,16 @@
     </entry>
 
     <entry id="M-20250417T130521" title="Hide and Seek">
-        <visual type="staticMV" base="0.4" unique="0.5"></visual>
-        <music base="0.65"></music>
-        <musicConsumedProgress length="4:27"></musicConsumedProgress>
-        <remix id="M-20250417T130522"></remix>
+        <visual type="staticMV" base="0.4" unique="0.5" />
+        <music base="0.65" />
+        <musicConsumedProgress length="4:27" />
+        <remix id="M-20250417T130522" />
     </entry>
 
     <entry id="M-20250417T130522" title="Hide and Seek">
-        <visual type="semiAnimatedMV" base="0.5" unique="0.4"></visual>
-        <music base="0.7"></music>
-        <musicConsumedProgress length="4:27"></musicConsumedProgress>
+        <visual type="semiAnimatedMV" base="0.5" unique="0.4" />
+        <music base="0.7" />
+        <musicConsumedProgress length="4:27" />
     </entry>
 
     <remix id="M-20250417T125416">
