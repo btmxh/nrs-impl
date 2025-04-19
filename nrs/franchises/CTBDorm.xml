@@ -536,16 +536,28 @@
         </entry>
     </entry>
 
+    <!-- norway pj escape official manga adaptation (no it's not) -->
+    <entry id="L-MAL-130414" title="Futari Escape">
+        <!-- i guess??? -->
+        <!-- i dont really care tho -->
+        <bestGirl name="Kouhai" />
+
+        <writing character="0.3" story="0.5" pacing="0.5" originality="0.9" />
+        <visual type="manga" base="0.75" unique="0.4" />
+        <!-- 35 chapters -->
+        <consumedProgress status="Completed" boredom="0.8" duration="2:00:00" />
+
+        <!-- escapism -->
+        <nei base="0.3" emotions="CP" />
+    </entry>
+
     <!-- inspirations of pjescape -->
     <remix id="F-20250417T125254">
         <contributor id="M-20241202T142410-4" factor="0.5" />
         <contributor id="M-VGMDB-AL-87003-28" factor="0.15" />
         <contributor id="A-MAL-35839" factor="0.15" />
         <contributor id="A-MAL-38826" factor="0.1" />
-        <contributor
-            id="futari escape (to be ranked) [null entry]"
-            factor="0.05"
-        />
+        <contributor id="L-MAL-130414" factor="0.05" />
         <contributor id="A-MAL-39790" factor="0.025" />
         <contributor id="girls' last tour [null entry]" factor="0.025" />
     </remix>
