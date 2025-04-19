@@ -422,6 +422,7 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="CU" />
             <musicConsumedProgress length="3:36" />
+            <remix id="M-20250417T125416-1" />
         </entry>
 
         <!-- akokoto suicide slop my beloved -->
@@ -506,6 +507,61 @@
         </entry>
     </entry>
 
+    <!-- pj escape my beloved -->
+    <!-- escapism fantasy for the suicidal duybuans -->
+    <entry id="F-20250417T125254" title="project ESCAPE">
+        <entry
+            id="M-20250417T125416"
+            title="project ESCAPE: departure"
+            entrytype="MusicAlbum"
+        >
+            <!-- character: pretty interesting, they are not the same characters from watashinoaaru -->
+            <!-- story: currently there's nothing, so 0.2 -->
+            <!-- pacing: idk -->
+            <!-- originality: kinda original ig -->
+            <writing
+                character="0.3"
+                story="0.2"
+                pacing="0.1"
+                originality="0.5"
+            />
+
+            <entry id="$-1" title="Hide and Seek (CTB Girls' Dorm ver.)">
+                <validatorSuppress
+                    rules="dah-entry-no-consumed;dah-no-progress"
+                />
+                <role id="M-20240815T042406" roles="vocal+image" />
+                <nei base="0.5" emotions="CP-0.5:MU-0.5" />
+            </entry>
+        </entry>
+    </entry>
+
+    <!-- norway pj escape official manga adaptation (no it's not) -->
+    <entry id="L-MAL-130414" title="Futari Escape" entrytype="Manga">
+        <!-- i guess??? -->
+        <!-- i dont really care tho -->
+        <bestGirl name="Kouhai" />
+
+        <writing character="0.3" story="0.5" pacing="0.5" originality="0.9" />
+        <visual type="manga" base="0.75" unique="0.4" />
+        <!-- 35 chapters -->
+        <consumedProgress status="Completed" boredom="0.8" duration="2:00:00" />
+
+        <!-- escapism -->
+        <nei base="0.3" emotions="CP" />
+    </entry>
+
+    <!-- inspirations of pjescape -->
+    <remix id="F-20250417T125254">
+        <contributor id="M-20241202T142410-4" factor="0.5" />
+        <contributor id="M-VGMDB-AL-87003-28" factor="0.15" />
+        <contributor id="A-MAL-35839" factor="0.15" />
+        <contributor id="A-MAL-38826" factor="0.1" />
+        <contributor id="L-MAL-130414" factor="0.05" />
+        <contributor id="A-MAL-39790" factor="0.025" />
+        <contributor id="girls' last tour [null entry]" factor="0.025" />
+    </remix>
+
     <!-- album 1 -->
     <meme from="2023-11-20" to="today" strength="0.3">
         <contributor id="M-20240815T041131-1" factor="0.3" />
@@ -559,5 +615,14 @@
         <contributor id="M-20250221T163932-4" factor="0.3" />
         <contributor id="M-20250221T163932-5" factor="0.15" />
         <contributor id="M-20250221T163932-6" factor="0.1" />
+    </meme>
+
+    <!-- from date is #626 discussion creation date, -->
+    <!-- expect it to be a couple days earlier -->
+    <meme from="2025-03-14" to="today" strength="1.0">
+        <!-- much of the lore is not included in songs (see the doc) -->
+        <!-- so song factor values should be small -->
+        <contributor id="M-20250417T125416-1" factor="0.05" />
+        <contributor id="M-20250417T125416" factor="0.95" />
     </meme>
 </document>
