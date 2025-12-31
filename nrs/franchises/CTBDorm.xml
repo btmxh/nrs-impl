@@ -45,6 +45,8 @@
             <remix id="M-20241202T142410-4" />
             <remix id="M-20241202T142410-5" />
             <remix id="M-20241202T142410-6" />
+            <remix id="M-20251125T020944-3" />
+
             <writing
                 character="0.75"
                 story="0.5"
@@ -97,6 +99,9 @@
             <!-- totally not related to my efforts being not recognized by anyone -->
             <!-- in the ksdgk -->
             <nei base="0.9" emotions="MU-0.3:CU-0.7" />
+
+            <!-- i love hina brainrot -->
+            <remix id="L-20241109T062928" />
         </entry>
 
         <entry
@@ -130,6 +135,12 @@
             <!-- but it is more focused on fucking whatever is opposing your efforts -->
             <!-- which is totally not the ksdgk -->
             <nei base="0.6" emotions="AU-0.7:CP-0.3" />
+            <writing
+                character="0.0"
+                story="0.0"
+                pacing="0.5"
+                originality="0.1"
+            />
         </entry>
 
         <entry
@@ -237,6 +248,12 @@
             <!-- powerful individuals: yapperchama le idol, peaksama le peak, and himeno sena -->
             <!-- the musician, to eliminate evil from the world in one go -->
             <aei base="0.2" emotions="MU-0.5:AU-0.5" />
+            <writing
+                character="0.0"
+                story="0.2"
+                pacing="0.5"
+                originality="1.0"
+            />
         </entry>
 
         <entry
@@ -252,6 +269,12 @@
                 (the wedding) and terekakushi shishunki (yapper cried) -->
             <!-- it's a very wholesome song and i'm actually proud of it -->
             <nei base="1.0" emotions="MP-0.7:CP-0.3" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.5"
+                originality="0.75"
+            />
         </entry>
 
         <entry
@@ -275,6 +298,12 @@
                 a_contribution="0.8"
                 a_emotions="CP-0.75:MP-0.25"
             />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.5"
+                originality="0.9"
+            />
         </entry>
 
         <entry
@@ -291,6 +320,12 @@
             <!-- them inferior to the tea party girls or something), because she now -->
             <!-- had a friend to root for. this realization made sena happy and cry yadayada -->
             <nei base="0.6" emotions="CP" />
+            <writing
+                character="0.4"
+                story="0.3"
+                pacing="0.5"
+                originality="0.75"
+            />
         </entry>
 
         <entry
@@ -308,6 +343,12 @@
             <!-- incidents in motto ichigo ore and Romantic Wedding, the girls were now busier -->
             <!-- than ever before, leading to this week tea party being cancelled. -->
             <nei base="0.8" emotions="MP-0.5:CP-0.5" />
+            <writing
+                character="0.3"
+                story="0.2"
+                pacing="0.5"
+                originality="0.75"
+            />
         </entry>
 
         <entry
@@ -325,6 +366,12 @@
 
             <!-- fun fact: i am nina and multiple choice questions are the normies -->
             <nei base="0.9" emotions="AU-0.75:MU-0.25" />
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="$-7" title="Kyoushitsu ni Ao (CTB Girls' Dorm ver.)">
@@ -336,6 +383,12 @@
                 a_base="0.75"
                 a_contribution="0.8"
                 a_emotions="CP-0.75:MP-0.25"
+            />
+            <writing
+                character="0.2"
+                story="0.5"
+                pacing="0.5"
+                originality="0.9"
             />
         </entry>
     </entry>
@@ -358,6 +411,12 @@
             <!-- this was when blud was accepted into the tea party btw -->
             <nei base="0.3" emotions="CU-0.9:CP-0.1" />
             <musicConsumedProgress length="7:34" />
+            <writing
+                character="0.1"
+                story="0.2"
+                pacing="0.5"
+                originality="0.7"
+            />
         </entry>
 
         <!-- no song yet, but the plan is to reveal that mia-sama dying or not will dictate the
@@ -387,6 +446,12 @@
             <!-- That I'm glad that I met you -->
             <!-- Why do I feel like that I had said those words before somehow? -->
             <musicConsumedProgress length="3:48" />
+            <writing
+                character="0.3"
+                story="0.1"
+                pacing="0.5"
+                originality="0.3"
+            />
         </entry>
     </entry>
 
@@ -402,6 +467,12 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.9" emotions="MU-0.3:CP-0.7" />
+            <writing
+                character="0.3"
+                story="0.1"
+                pacing="0.5"
+                originality="0.5"
+            />
         </entry>
 
         <!-- mikohiyo yuri canon -->
@@ -411,6 +482,12 @@
             <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
             <!-- nozsist duybua hiyori my beloved -->
             <aei base="0.2" emotions="MP-0.6:CP-0.4" />
+            <writing
+                character="0.4"
+                story="0.2"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <!-- utasama im sorry for this one more time -->
@@ -420,6 +497,12 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <!-- c-word -->
             <nei base="0.5" emotions="MP" />
+            <writing
+                character="0.4"
+                story="0.1"
+                pacing="0.5"
+                originality="0.75"
+            />
         </entry>
 
         <!-- painpeko someone please kill me -->
@@ -428,6 +511,12 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="CU" />
             <musicConsumedProgress length="3:36" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <!-- akokoto suicide slop my beloved -->
@@ -437,6 +526,12 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="CU" />
             <musicConsumedProgress length="5:36" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.5"
+                originality="0.95"
+            />
         </entry>
 
         <!-- absolute PEAK absolute SUICIDE absolute ESCAPE -->
@@ -451,13 +546,20 @@
             <aei base="0.0" emotions="AU-0.5:MU-0.5" />
             <!-- anirevo atmfarm -->
             <nei base="0.2" emotions="CP" />
-            <musicConsumedProgress length="5:25" />
+            <musicConsumedProgress length="5:26" />
+            <writing
+                character="0.5"
+                story="0.6"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
     </entry>
 
     <!-- yapper love letter -->
-    <aei base="0.5" emotions="MP">
-        <contributor id="M-20241202T142410-6" factor="0.7" />
+    <aei base="0.8" emotions="MP">
+        <contributor id="M-20241202T142410-6" factor="0.5" />
+        <contributor id="M-20251125T020944-3" factor="0.2" />
         <contributor id="L-20241109T062928" factor="0.2" />
         <contributor id="L-MAL-139873" factor="0.1" />
     </aei>
@@ -486,6 +588,12 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.0" emotions="AU-0.8:MU-0.2" />
             <musicConsumedProgress length="3:16" />
+            <writing
+                character="0.0"
+                story="0.1"
+                pacing="0.5"
+                originality="0.2"
+            />
         </entry>
 
         <!-- stream alice -->
@@ -498,6 +606,12 @@
             <aei base="0.5" emotions="AU-0.1:MU-0.4:MP-0.5" />
             <!-- stream alice -->
             <musicConsumedProgress length="5:44" />
+            <writing
+                character="0.3"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
         <!-- stream alice -->
 
@@ -512,6 +626,12 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <aei base="0.25" emotions="AU-0.5:MU-0.5" />
             <musicConsumedProgress length="4:16" />
+            <writing
+                character="0.2"
+                story="0.3"
+                pacing="0.5"
+                originality="0.7"
+            />
         </entry>
 
         <!-- muuko... -->
@@ -523,6 +643,12 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.5" emotions="MU-0.5:CU-0.5" />
             <musicConsumedProgress length="4:22" />
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.9"
+            />
         </entry>
 
         <!-- project ESCAPE prologue song -->
@@ -531,6 +657,50 @@
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.2" emotions="CP" />
             <musicConsumedProgress length="5:40" />
+        </entry>
+    </entry>
+
+    <!-- second suicide album (not really this is an EP) -->
+    <entry
+        id="M-20251125T020944"
+        title="And so, I'll keep wishing for that day to come."
+        entrytype="MusicAlbum"
+    >
+        <!-- nice wordplay bro -->
+        <entry id="$-1" title="Kitto (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.9" emotions="MU-0.8:CP-0.2" />
+            <musicConsumedProgress length="3:38" />
+            <writing
+                character="0.2"
+                story="0.4"
+                pacing="0.5"
+                originality="0.95"
+            />
+        </entry>
+
+        <contains id="M-20241202T142410-6" />
+
+        <entry id="$-3" title="Glow Embrace (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <!-- the depressing song in general -->
+            <!-- despite trying her best, the girl could not cross the ocean to meet her soulmate -->
+            <!-- all that she could do is to pray for death -->
+            <aei base="0.8" emotions="MU-0.8:CP-0.2" />
+
+            <!-- "ultimate beautification of suicide" -->
+            <!-- ts should be AL but theres no standards for that rip -->
+            <aei base="0.5" emotions="MP-0.5:CP-0.5" />
+            <musicConsumedProgress length="3:53" />
+
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.5"
+                originality="0.85"
+            />
         </entry>
     </entry>
 
@@ -588,8 +758,14 @@
         <contributor id="M-20241202T142410-1" factor="0.1" />
         <contributor id="M-20241202T142410-2" factor="0.1" />
         <contributor id="M-20241202T142410-3" factor="0.2" />
-        <contributor id="M-20241202T142410-4" factor="0.3" />
-        <contributor id="M-20241202T142410-5" factor="0.3" />
+        <contributor id="M-20241202T142410-4" factor="0.25" />
+        <contributor id="M-20241202T142410-5" factor="0.25" />
+        <contributor id="M-20241202T142410-6" factor="0.1" />
+        <children />
+    </def>
+
+    <def name="SuicideEPContrib" vars="">
+        <contributor id="M-20241202T142410-1" factor="0.1" />
         <children />
     </def>
 
@@ -623,5 +799,19 @@
     <meme from="2025-05-01" to="today" strength="0.75">
         <!-- yeah its just apiss -->
         <contributor id="M-20250221T163932-4" factor="1.0" />
+    </meme>
+
+    <!-- third suicidal era songs -->
+    <!-- from is the "svtb" date -->
+    <meme from="2025-09-25" to="today" strength="1.0">
+        <contributor id="M-20251125T020944-1" factor="0.2" />
+        <contributor id="M-20241202T142410-6" factor="0.2" />
+        <contributor id="M-20251125T020944-3" factor="0.6" />
+    </meme>
+
+    <!-- soty 2025 debate -->
+    <meme from="2025-11-26" to="today" strength="0.5">
+        <contributor id="M-20250221T163932-4" factor="0.4" />
+        <contributor id="M-20251125T020944-3" factor="0.6" />
     </meme>
 </document>

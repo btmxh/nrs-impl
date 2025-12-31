@@ -1343,6 +1343,7 @@
             <music base="0.6" />
             <musicConsumedProgress length="4:09" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <role id="M-VGMDB-AR-46040" roles="image/2+vocal/5" />
         </entry>
         <entry id="$-2" title="Inokori Sensei">
             <source>
@@ -1357,6 +1358,7 @@
             <music base="0.3" />
             <musicConsumedProgress length="5:04" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <role id="M-20251125T015400" roles="image/4+vocal/2" />
         </entry>
         <entry id="$-3" title="motto☆ichigo au lait">
             <source>
@@ -1371,6 +1373,7 @@
             <music base="0.5" />
             <musicConsumedProgress length="3:40" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <role id="M-20251125T015400" roles="image/2+vocal" />
         </entry>
         <entry id="$-4" title="Hokori Takaki Idol">
             <source>
@@ -1385,6 +1388,7 @@
             <music base="0.6" />
             <musicConsumedProgress length="4:15" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <role id="M-VGMDB-AR-45538" roles="image/2+vocal" />
         </entry>
         <entry id="$-5" title="Sis×Love">
             <source>
@@ -1470,6 +1474,7 @@
             <music base="0.45" />
             <musicConsumedProgress length="5:16" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <role id="M-VGMDB-AR-35619" roles="image/6+vocal/3" />
         </entry>
     </entry>
 
@@ -1565,6 +1570,7 @@
             <music base="0.5" />
             <musicConsumedProgress length="2:43" />
             <role id="M-VGMDB-AR-14655" roles="prod+image/2" />
+            <role id="M-VGMDB-AR-68363" roles="image/2+vocal" />
         </entry>
         <entry id="$-6" title="Outsider plan">
             <source>

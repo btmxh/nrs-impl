@@ -128,6 +128,16 @@
             <role id="M-VGMDB-AR-35619" roles="vocal+image" />
         </entry>
 
+        <entry id="M-VGMDB-AR-45538" title="Tokino Sora" />
+        <entry id="M-VGMDB-AR-35747" title="Sakura Miko" />
+        <entry id="M-VGMDB-AR-44889" title="Minato Aqua" />
+        <entry id="M-VGMDB-AR-68363" title="Nakiri Ayame" />
+        <entry
+            id="M-20251125T015400"
+            title="Tsunomaki Watame"
+            entrytype="MusicArtist"
+        />
+
         <entry
             id="M-20230730T110147"
             title="Koseki Bijou"
@@ -299,6 +309,73 @@
                 <music base="0.5" />
                 <role id="M-VGMDB-AR-47736" roles="vocal+image" />
                 <musicConsumedProgress length="5:01" />
+            </entry>
+        </entry>
+
+        <entry id="M-VGMDB-AR-46040" title="Shirakami Fubuki">
+            <source>
+                <urls>
+                    <url
+                        name="spotify"
+                        src="https://open.spotify.com/artist/2GR0oaCTOgws9PfuheMw0k"
+                    />
+                    <url name="twitter" src="https://x.com/shirakamifubuki" />
+                    <url
+                        name="youtube"
+                        src="https://www.youtube.com/@ShirakamiFubuki"
+                    />
+                </urls>
+            </source>
+        </entry>
+
+        <entry
+            id="M-20251125T020600"
+            title="FBKINGDOM &quot;Blessing&quot;"
+            entrytype="MusicAlbum"
+        >
+            <visual type="albumArt" base="0.25" unique="0.4" />
+            <!-- suicidio numero -->
+            <entry id="$-14" title="Glow Embrace">
+                <music base="0.8" />
+                <role id="M-VGMDB-AR-46040" roles="image+vocal" />
+                <musicConsumedProgress length="3:44" />
+                <remix id="M-20251125T020944-3" />
+                <nei base="0.3" emotions="CP" />
+                <visual type="animatedMV" base="0.5" unique="0.3" />
+            </entry>
+        </entry>
+
+        <entry
+            id="M-20251125T021144"
+            title="Hop Step Sheep"
+            entrytype="MusicAlbum"
+        >
+            <entry id="$-1" title="Beautiful Circle">
+                <music base="0.75" />
+                <musicConsumedProgress length="3:49" />
+                <role id="M-VGMDB-AR-46040" roles="image+vocal" />
+                <nei base="0.2" emotions="CP" />
+            </entry>
+
+            <entry id="$-2" title="Kitto">
+                <music base="0.7" />
+                <musicConsumedProgress length="3:37" />
+                <role id="M-20251125T015400" roles="image+vocal" />
+                <remix id="M-20251125T020944-1" />
+                <!-- watch the live version guys -->
+                <nei base="0.4" emotions="CP" />
+            </entry>
+
+            <entry id="$-3" title="Fins">
+                <music base="0.8" />
+                <musicConsumedProgress length="4:37" />
+                <role id="M-20251125T015400" roles="image+vocal" />
+            </entry>
+
+            <entry id="$-6" title="What an amazing swing">
+                <music base="0.65" />
+                <musicConsumedProgress length="3:04" />
+                <role id="M-20251125T015400" roles="image+vocal" />
             </entry>
         </entry>
     </entry>

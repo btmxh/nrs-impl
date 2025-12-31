@@ -72,6 +72,7 @@
         <visual type="rpg3dGame" base="0.5" unique="0.2" />
         <music base="0.78" />
         <musicConsumedProgress length="6:53" />
+        <role id="M-20251125T015400" roles="vocal+image" />
     </entry>
 
     <!-- mio -->
