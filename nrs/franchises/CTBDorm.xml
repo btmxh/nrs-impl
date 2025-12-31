@@ -692,8 +692,8 @@
 
             <!-- "ultimate beautification of suicide" -->
             <!-- ts should be AL but theres no standards for that rip -->
-            <aei base="0.5" emotions="MP-0.5:CP-0.5"></aei>
-            <musicConsumedProgress length="3:53"></musicConsumedProgress>
+            <aei base="0.5" emotions="MP-0.5:CP-0.5" />
+            <musicConsumedProgress length="3:53" />
 
             <writing
                 character="0.5"
