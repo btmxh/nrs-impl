@@ -987,14 +987,14 @@
 
     <!-- third suicidal era songs -->
     <!-- from is the "svtb" date -->
-    <meme from="2025-09-25" to="today" strength="1.0">
+    <meme from="2025-09-25" to="2026-01-01" strength="1.0">
         <contributor id="M-20251125T020944-1" factor="0.2" />
         <contributor id="M-20241202T142410-6" factor="0.2" />
         <contributor id="M-20251125T020944-3" factor="0.6" />
     </meme>
 
     <!-- soty 2025 debate -->
-    <meme from="2025-11-26" to="today" strength="0.5">
+    <meme from="2025-11-26" to="2026-01-01" strength="0.5">
         <contributor id="M-20250221T163932-4" factor="0.4" />
         <contributor id="M-20251125T020944-3" factor="0.6" />
     </meme>
