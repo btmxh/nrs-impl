@@ -563,4 +563,26 @@
             <remix id="M-20241202T142410-5" />
         </entry>
     </entry>
+
+    <entry id="M-20250417T130521" title="Hide and Seek" entrytype="MusicTrack">
+        <visual type="staticMV" base="0.4" unique="0.5" />
+        <music base="0.65" />
+        <musicConsumedProgress length="4:27" />
+        <remix id="M-20250417T130522" />
+    </entry>
+
+    <entry
+        id="M-20250417T130522"
+        title="Hide and Seek (shiho ver.)"
+        entrytype="MusicTrack"
+    >
+        <visual type="semiAnimatedMV" base="0.5" unique="0.4" />
+        <music base="0.7" />
+        <musicConsumedProgress length="4:27" />
+    </entry>
+
+    <remix id="M-20250417T125416">
+        <contributor id="M-20250417T130521" factor="0.8" />
+        <contributor id="M-20250417T130522" factor="0.2" />
+    </remix>
 </document>
