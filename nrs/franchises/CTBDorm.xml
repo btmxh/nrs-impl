@@ -547,7 +547,7 @@
             <aei base="0.0" emotions="AU-0.5:MU-0.5" />
             <!-- anirevo atmfarm -->
             <nei base="0.2" emotions="CP" />
-            <musicConsumedProgress length="5:25" />
+            <musicConsumedProgress length="5:26" />
             <writing
                 character="0.5"
                 story="0.6"
@@ -845,6 +845,7 @@
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
             <nei base="0.9" emotions="MU-0.8:CP-0.2" />
+            <musicConsumedProgress length="3:38" />
             <writing
                 character="0.2"
                 story="0.4"
@@ -858,7 +859,16 @@
         <entry id="$-3" title="Glow Embrace (CTB Girls' Dorm ver.)">
             <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
             <role id="M-20240815T042406" roles="vocal+image" />
+            <!-- the depressing song in general -->
+            <!-- despite trying her best, the girl could not cross the ocean to meet her soulmate -->
+            <!-- all that she could do is to pray for death -->
             <aei base="0.8" emotions="MU-0.8:CP-0.2" />
+
+            <!-- "ultimate beautification of suicide" -->
+            <!-- ts should be AL but theres no standards for that rip -->
+            <aei base="0.5" emotions="MP-0.5:CP-0.5" />
+            <musicConsumedProgress length="3:53" />
+
             <writing
                 character="0.5"
                 story="0.5"
